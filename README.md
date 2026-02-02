@@ -319,7 +319,7 @@ This toolkit includes **Claude Code Skills** - specialized instruction files tha
 
 | Skill | Trigger | Purpose |
 |-------|---------|---------|
-| `skyrim-esp` | Create plugins, add weapons/armor/spells/perks, view/override records | Full ESP/ESL plugin creation and modification, record viewing system |
+| `skyrim-esp` | Create plugins, add weapons/armor/spells/perks, NPC AI packages, view/override records | Full ESP/ESL plugin creation and modification with complete NPC AI support (36 package types) |
 | `skyrim-papyrus` | Write scripts, fix script errors | Compile, decompile, validate, generate scripts |
 | `skyrim-mcm` | Add mod settings menu | Create MCM Helper configurations |
 | `skyrim-archive` | Package or extract BSA files, edit archives | Read, extract, create, and modify archives without full repackaging |
@@ -521,6 +521,60 @@ esp add-form-list "Mod.esp" "FormListID" --add-form "Skyrim.esm:0x00012345" --dr
 esp add-encounter-zone "Mod.esp" "EncounterZoneID" --min-level 10 --max-level 30 --preset mid-level --dry-run
 esp add-location "Mod.esp" "LocationID" --name "Name" --preset inn --parent-location "ParentLocationID" --dry-run
 esp add-outfit "Mod.esp" "OutfitID" --preset guard --add-item "ItemID" --dry-run
+
+# NPC AI Packages (Complete - 36 types supported)
+# Basic behaviors
+esp add-package "Mod.esp" "PackageID" --type sandbox --radius 500 --location "LocationRef"
+esp add-package "Mod.esp" "PackageID" --type travel --marker "DestRef"
+esp add-package "Mod.esp" "PackageID" --type sleep --bed "BedRef" --start-hour 22 --duration 8
+esp add-package "Mod.esp" "PackageID" --type eat --furniture "ChairRef" --start-hour 12 --duration 2
+esp add-package "Mod.esp" "PackageID" --type follow --target "PlayerRef"
+esp add-package "Mod.esp" "PackageID" --type guard --marker "MarkerRef"
+esp add-package "Mod.esp" "PackageID" --type patrol --marker "PatrolRef"
+
+# Actions & activities
+esp add-package "Mod.esp" "PackageID" --type useitemat --item-ref "ForgeRef"  # Crafting, cooking
+esp add-package "Mod.esp" "PackageID" --type activate --item-ref "LeverRef"
+esp add-package "Mod.esp" "PackageID" --type sit --furniture "ChairRef"
+esp add-package "Mod.esp" "PackageID" --type useidlemarker --marker "IdleRef"  # Ambient activities
+esp add-package "Mod.esp" "PackageID" --type wander --marker "CenterRef" --radius 1000
+esp add-package "Mod.esp" "PackageID" --type wait --marker "WaitRef"
+esp add-package "Mod.esp" "PackageID" --type relax --marker "RelaxRef"
+
+# Combat & magic
+esp add-package "Mod.esp" "PackageID" --type flee --distance 1500
+esp add-package "Mod.esp" "PackageID" --type ambush --marker "AmbushRef"
+esp add-package "Mod.esp" "PackageID" --type useweapon --weapon-ref "WeaponRef" --target "TargetRef"
+esp add-package "Mod.esp" "PackageID" --type usemagic --spell-ref "SpellRef" --target "TargetRef"
+esp add-package "Mod.esp" "PackageID" --type castmagic --target "TargetRef"
+esp add-package "Mod.esp" "PackageID" --type shout --shout-ref "ShoutRef" --target "TargetRef"
+
+# Social & dialogue
+esp add-package "Mod.esp" "PackageID" --type dialogue --target "ActorRef"
+esp add-package "Mod.esp" "PackageID" --type forcegreet --target "PlayerRef"  # Quest interactions
+esp add-package "Mod.esp" "PackageID" --type greet --target "ActorRef"
+esp add-package "Mod.esp" "PackageID" --type say --topic-ref "TopicRef" --location-ref "LocRef"
+
+# Advanced behaviors
+esp add-package "Mod.esp" "PackageID" --type accompany --target "ActorRef" --destination "DestRef"
+esp add-package "Mod.esp" "PackageID" --type escortto --escort-ref "ActorRef" --destination "DestRef"
+esp add-package "Mod.esp" "PackageID" --type followto --follow-ref "ActorRef" --destination "DestRef"
+esp add-package "Mod.esp" "PackageID" --type acquire --object-ref "ItemRef"  # Pick up items
+esp add-package "Mod.esp" "PackageID" --type find --target "TargetRef"
+esp add-package "Mod.esp" "PackageID" --type holdposition --marker "PosRef"
+esp add-package "Mod.esp" "PackageID" --type keepaneyeon --target "WatchRef"  # Surveillance
+
+# Utility
+esp add-package "Mod.esp" "PackageID" --type lockdoors --door-ref "DoorRef"
+esp add-package "Mod.esp" "PackageID" --type unlockdoors --door-ref "DoorRef"
+esp add-package "Mod.esp" "PackageID" --type dismount
+
+# Flying creatures (dragons, etc.)
+esp add-package "Mod.esp" "PackageID" --type hover --marker "HoverRef" --radius 2000
+esp add-package "Mod.esp" "PackageID" --type orbit --marker "OrbitRef" --radius 800
+
+# Attach packages to NPCs (evaluated in order)
+esp attach-package "Mod.esp" --npc "NPCID" --package "PackageID"
 
 # Alias & Script Management
 esp add-alias "Mod.esp" --quest "QuestID" --name "AliasName" --script "ScriptName"

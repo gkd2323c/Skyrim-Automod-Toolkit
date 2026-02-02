@@ -8,6 +8,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.9.0] - 2026-02-02
+
+### Added
+
+- **Complete NPC AI Package Support** - Full Skyrim AI behavior system with all 36 package types
+    - `PackageBuilder` - Fluent builder for creating AI behavior packages with proper Mutagen API usage
+        - **Basic Behaviors (7 types):** Sandbox, Travel, Sleep, Eat, Follow, Guard, Patrol
+        - **Actions & Activities (8 types):** UseItemAt, Activate, Sit, UseIdleMarker, Wander, Wait, Relax, Acquire
+        - **Combat & Magic (5 types):** Flee, Ambush, UseWeapon, UseMagic, CastMagic, Shout
+        - **Social & Dialogue (4 types):** Dialogue, ForceGreet, Greet, Say
+        - **Advanced Behaviors (8 types):** Accompany, Escort, FollowTo, Find, HoldPosition, KeepAnEyeOn, Hover, Orbit
+        - **Utility (4 types):** LockDoors, UnlockDoors, Dismount
+    - `esp add-package` command - Create package records with extensive options
+        - All 36 package types supported via `--type` parameter
+        - Schedule options: `--start-hour`, `--duration` (for time-based packages)
+        - Reference options: `--bed`, `--furniture`, `--target`, `--marker`, `--location`, `--item-ref`, `--weapon-ref`, `--spell-ref`, `--shout-ref`, `--topic-ref`, `--door-ref`, `--object-ref`, `--escort-ref`, `--follow-ref`, `--location-ref`
+        - Movement options: `--radius`, `--distance` (for area-based packages)
+        - Optional parameters for target-based packages (flee-from, destination, etc.)
+    - `esp attach-package` command - Attach packages to NPCs
+        - Attach by package editor ID or FormKey
+        - Multiple packages evaluated in attachment order (priority)
+    - `NpcBuilder.WithPackage()` - Fluent API for attaching packages during NPC creation
+        - By FormKey: `WithPackage(FormKey)`
+        - By EditorID: `WithPackage(string)`
+        - Multiple packages: `WithPackages(params FormKey[])`
+    - Proper Package.Data dictionary population with PackageDataLocation and PackageDataTarget
+    - ProcedureTree structure with PackageBranch and DataInputIndices
+    - Schedule configuration with hour/duration settings
+    - FormKey format validation ("FORMID:MODNAME" with 6 hex digits)
+    - Support for optional targets (weapons, spells, shouts, topics, locations)
+    - Flying creature packages (Hover, Orbit for dragons/flying NPCs)
+    - Complete coverage of all documented Skyrim AI package types (100% coverage)
+
 ## [1.8.0] - 2026-01-30
 
 ### Added

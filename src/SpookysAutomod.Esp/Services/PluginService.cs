@@ -5,6 +5,7 @@ using Mutagen.Bethesda.Skyrim;
 using Noggog;
 using SpookysAutomod.Core.Logging;
 using SpookysAutomod.Core.Models;
+using SpookysAutomod.Esp.Builders;
 using System.Reflection;
 
 namespace SpookysAutomod.Esp.Services;
@@ -419,6 +420,831 @@ public class PluginService
             return Result<RecordInfo>.Fail(
                 $"Failed to view record: {ex.Message}",
                 ex.StackTrace);
+        }
+    }
+
+    /// <summary>
+    /// Add a package (AI behavior) to a plugin.
+    /// </summary>
+    public Result<string> AddPackage(
+        string pluginPath,
+        string editorId,
+        string packageType,
+        Dictionary<string, object>? options = null)
+    {
+        try
+        {
+            if (!File.Exists(pluginPath))
+            {
+                return Result<string>.Fail($"Plugin not found: {pluginPath}");
+            }
+
+            var mod = SkyrimMod.CreateFromBinary(
+                pluginPath,
+                SkyrimRelease.SkyrimSE,
+                new Mutagen.Bethesda.Plugins.Binary.Parameters.BinaryReadParameters());
+
+            // Ensure proper FormID allocation
+            if (mod.ModHeader.Stats.NextFormID < 0x800)
+            {
+                mod.ModHeader.Stats.NextFormID = 0x800;
+            }
+
+            var builder = new PackageBuilder(mod, editorId);
+
+            // Configure package based on type
+            switch (packageType.ToLowerInvariant())
+            {
+                case "sandbox":
+                    var radius = options?.GetValueOrDefault("radius", 500) ?? 500;
+                    builder.AsSandbox(Convert.ToUInt16(radius));
+                    break;
+
+                case "travel":
+                    if (options?.ContainsKey("destination") == true)
+                    {
+                        var destStr = options["destination"].ToString();
+                        if (!string.IsNullOrEmpty(destStr) && FormKey.TryFactory(destStr, out var destFormKey))
+                        {
+                            builder.AsTravel(destFormKey);
+                        }
+                    }
+                    break;
+
+                case "sleep":
+                    var startHour = Convert.ToByte(options?.GetValueOrDefault("startHour", 22) ?? 22);
+                    var duration = Convert.ToByte(options?.GetValueOrDefault("duration", 8) ?? 8);
+
+                    if (options?.ContainsKey("bedRef") == true)
+                    {
+                        var bedRefStr = options["bedRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(bedRefStr) && FormKey.TryFactory(bedRefStr, out var bedFormKey))
+                        {
+                            builder.AsSleep(bedFormKey, startHour, duration);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid bed reference FormKey: {bedRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Sleep packages require a valid bed reference (bedRef)");
+                    }
+                    break;
+
+                case "eat":
+                    var eatStartHour = Convert.ToByte(options?.GetValueOrDefault("startHour", 12) ?? 12);
+                    var eatDuration = Convert.ToByte(options?.GetValueOrDefault("duration", 2) ?? 2);
+
+                    if (options?.ContainsKey("furnitureRef") == true)
+                    {
+                        var furnitureRefStr = options["furnitureRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(furnitureRefStr) && FormKey.TryFactory(furnitureRefStr, out var furnitureFormKey))
+                        {
+                            builder.AsEat(furnitureFormKey, eatStartHour, eatDuration);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid furniture reference FormKey: {furnitureRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Eat packages require a valid furniture reference (furnitureRef)");
+                    }
+                    break;
+
+                case "follow":
+                    var followDistance = Convert.ToUInt16(options?.GetValueOrDefault("followDistance", 200) ?? 200);
+
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var targetRefStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(targetRefStr) && FormKey.TryFactory(targetRefStr, out var targetFormKey))
+                        {
+                            builder.AsFollow(targetFormKey, followDistance);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid target reference FormKey: {targetRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Follow packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "guard":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var markerRefStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(markerRefStr) && FormKey.TryFactory(markerRefStr, out var markerFormKey))
+                        {
+                            builder.AsGuard(markerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid marker reference FormKey: {markerRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Guard packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "useitemat":
+                case "activate":
+                case "use":
+                    if (options?.ContainsKey("itemRef") == true)
+                    {
+                        var itemRefStr = options["itemRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(itemRefStr) && FormKey.TryFactory(itemRefStr, out var itemFormKey))
+                        {
+                            builder.AsUseItemAt(itemFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid item reference FormKey: {itemRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("UseItemAt packages require a valid item reference (itemRef)");
+                    }
+                    break;
+
+                case "sit":
+                    if (options?.ContainsKey("furnitureRef") == true)
+                    {
+                        var sitFurnitureStr = options["furnitureRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(sitFurnitureStr) && FormKey.TryFactory(sitFurnitureStr, out var sitFurnitureFormKey))
+                        {
+                            builder.AsSit(sitFurnitureFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid furniture reference FormKey: {sitFurnitureStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Sit packages require a valid furniture reference (furnitureRef)");
+                    }
+                    break;
+
+                case "useidlemarker":
+                case "idle":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var idleMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(idleMarkerStr) && FormKey.TryFactory(idleMarkerStr, out var idleMarkerFormKey))
+                        {
+                            builder.AsUseIdleMarker(idleMarkerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid idle marker reference FormKey: {idleMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("UseIdleMarker packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "flee":
+                    var fleeDistance = Convert.ToUInt16(options?.GetValueOrDefault("distance", 1000) ?? 1000);
+
+                    if (options?.ContainsKey("fleeFrom") == true)
+                    {
+                        var fleeFromStr = options["fleeFrom"]?.ToString();
+                        if (!string.IsNullOrEmpty(fleeFromStr) && FormKey.TryFactory(fleeFromStr, out var fleeFromFormKey))
+                        {
+                            builder.AsFlee(fleeFromFormKey, fleeDistance);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid flee-from reference FormKey: {fleeFromStr}");
+                        }
+                    }
+                    else
+                    {
+                        // Flee from combat (no specific target)
+                        builder.AsFlee(null, fleeDistance);
+                    }
+                    break;
+
+                case "accompany":
+                case "escort":
+                    if (options?.ContainsKey("targetRef") == true && options?.ContainsKey("destinationRef") == true)
+                    {
+                        var accompanyTargetStr = options["targetRef"]?.ToString();
+                        var accompanyDestStr = options["destinationRef"]?.ToString();
+
+                        if (!string.IsNullOrEmpty(accompanyTargetStr) && FormKey.TryFactory(accompanyTargetStr, out var accompanyTargetFormKey) &&
+                            !string.IsNullOrEmpty(accompanyDestStr) && FormKey.TryFactory(accompanyDestStr, out var accompanyDestFormKey))
+                        {
+                            builder.AsAccompany(accompanyTargetFormKey, accompanyDestFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail("Invalid FormKey for target or destination");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Accompany packages require both target reference (targetRef) and destination reference (destinationRef)");
+                    }
+                    break;
+
+                case "castmagic":
+                case "cast":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var castTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(castTargetStr) && FormKey.TryFactory(castTargetStr, out var castTargetFormKey))
+                        {
+                            builder.AsCastMagic(castTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid cast target FormKey: {castTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("CastMagic packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "dialogue":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var dialogueTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(dialogueTargetStr) && FormKey.TryFactory(dialogueTargetStr, out var dialogueTargetFormKey))
+                        {
+                            builder.AsDialogue(dialogueTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid dialogue target FormKey: {dialogueTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Dialogue packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "find":
+                case "search":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var findTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(findTargetStr) && FormKey.TryFactory(findTargetStr, out var findTargetFormKey))
+                        {
+                            builder.AsFind(findTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid find target FormKey: {findTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Find packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "ambush":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var ambushMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(ambushMarkerStr) && FormKey.TryFactory(ambushMarkerStr, out var ambushMarkerFormKey))
+                        {
+                            builder.AsAmbush(ambushMarkerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid ambush marker FormKey: {ambushMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Ambush packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "patrol":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var patrolMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(patrolMarkerStr) && FormKey.TryFactory(patrolMarkerStr, out var patrolMarkerFormKey))
+                        {
+                            builder.AsPatrol(patrolMarkerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid patrol marker FormKey: {patrolMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Patrol packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "wander":
+                    var wanderRadius = Convert.ToUInt16(options?.GetValueOrDefault("radius", 1000) ?? 1000);
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var wanderMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(wanderMarkerStr) && FormKey.TryFactory(wanderMarkerStr, out var wanderMarkerFormKey))
+                        {
+                            builder.AsWander(wanderMarkerFormKey, wanderRadius);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid wander marker FormKey: {wanderMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Wander packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "wait":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var waitMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(waitMarkerStr) && FormKey.TryFactory(waitMarkerStr, out var waitMarkerFormKey))
+                        {
+                            builder.AsWait(waitMarkerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid wait marker FormKey: {waitMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Wait packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "relax":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var relaxMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(relaxMarkerStr) && FormKey.TryFactory(relaxMarkerStr, out var relaxMarkerFormKey))
+                        {
+                            builder.AsRelax(relaxMarkerFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid relax marker FormKey: {relaxMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Relax packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "forcegreet":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var forceGreetTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(forceGreetTargetStr) && FormKey.TryFactory(forceGreetTargetStr, out var forceGreetTargetFormKey))
+                        {
+                            builder.AsForceGreet(forceGreetTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid force greet target FormKey: {forceGreetTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("ForceGreet packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "greet":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var greetTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(greetTargetStr) && FormKey.TryFactory(greetTargetStr, out var greetTargetFormKey))
+                        {
+                            builder.AsGreet(greetTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid greet target FormKey: {greetTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        // Greet with no specific target
+                        builder.AsGreet();
+                    }
+                    break;
+
+                case "useweapon":
+                    if (options?.ContainsKey("weaponRef") == true)
+                    {
+                        var weaponRefStr = options["weaponRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(weaponRefStr) && FormKey.TryFactory(weaponRefStr, out var weaponFormKey))
+                        {
+                            FormKey? weaponTarget = null;
+                            if (options?.ContainsKey("targetRef") == true)
+                            {
+                                var targetStr = options["targetRef"]?.ToString();
+                                if (!string.IsNullOrEmpty(targetStr) && FormKey.TryFactory(targetStr, out var targetFormKey))
+                                {
+                                    weaponTarget = targetFormKey;
+                                }
+                            }
+                            builder.AsUseWeapon(weaponFormKey, weaponTarget);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid weapon FormKey: {weaponRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("UseWeapon packages require a valid weapon reference (weaponRef)");
+                    }
+                    break;
+
+                case "usemagic":
+                    if (options?.ContainsKey("spellRef") == true)
+                    {
+                        var spellRefStr = options["spellRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(spellRefStr) && FormKey.TryFactory(spellRefStr, out var spellFormKey))
+                        {
+                            FormKey? magicTarget = null;
+                            if (options?.ContainsKey("targetRef") == true)
+                            {
+                                var targetStr = options["targetRef"]?.ToString();
+                                if (!string.IsNullOrEmpty(targetStr) && FormKey.TryFactory(targetStr, out var targetFormKey))
+                                {
+                                    magicTarget = targetFormKey;
+                                }
+                            }
+                            builder.AsUseMagic(spellFormKey, magicTarget);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid spell FormKey: {spellRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("UseMagic packages require a valid spell reference (spellRef)");
+                    }
+                    break;
+
+                case "lockdoors":
+                    if (options?.ContainsKey("doorRef") == true)
+                    {
+                        var lockDoorStr = options["doorRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(lockDoorStr) && FormKey.TryFactory(lockDoorStr, out var lockDoorFormKey))
+                        {
+                            builder.AsLockDoors(lockDoorFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid door FormKey: {lockDoorStr}");
+                        }
+                    }
+                    else
+                    {
+                        // Lock all owned doors
+                        builder.AsLockDoors();
+                    }
+                    break;
+
+                case "unlockdoors":
+                    if (options?.ContainsKey("doorRef") == true)
+                    {
+                        var unlockDoorStr = options["doorRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(unlockDoorStr) && FormKey.TryFactory(unlockDoorStr, out var unlockDoorFormKey))
+                        {
+                            builder.AsUnlockDoors(unlockDoorFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid door FormKey: {unlockDoorStr}");
+                        }
+                    }
+                    else
+                    {
+                        // Unlock all owned doors
+                        builder.AsUnlockDoors();
+                    }
+                    break;
+
+                case "dismount":
+                    builder.AsDismount();
+                    break;
+
+                case "acquire":
+                    if (options?.ContainsKey("objectRef") == true)
+                    {
+                        var acquireObjStr = options["objectRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(acquireObjStr) && FormKey.TryFactory(acquireObjStr, out var acquireObjFormKey))
+                        {
+                            builder.AsAcquire(acquireObjFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid object FormKey: {acquireObjStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Acquire packages require a valid object reference (objectRef)");
+                    }
+                    break;
+
+                case "escortto":
+                    if (options?.ContainsKey("escortRef") == true && options?.ContainsKey("destinationRef") == true)
+                    {
+                        var escortRefStr = options["escortRef"]?.ToString();
+                        var escortDestStr = options["destinationRef"]?.ToString();
+
+                        if (!string.IsNullOrEmpty(escortRefStr) && FormKey.TryFactory(escortRefStr, out var escortFormKey) &&
+                            !string.IsNullOrEmpty(escortDestStr) && FormKey.TryFactory(escortDestStr, out var escortDestFormKey))
+                        {
+                            builder.AsEscort(escortFormKey, escortDestFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail("Invalid FormKey for escort target or destination");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Escort packages require both escort reference (escortRef) and destination reference (destinationRef)");
+                    }
+                    break;
+
+                case "say":
+                    if (options?.ContainsKey("topicRef") == true)
+                    {
+                        var topicRefStr = options["topicRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(topicRefStr) && FormKey.TryFactory(topicRefStr, out var topicFormKey))
+                        {
+                            FormKey? sayLocation = null;
+                            if (options?.ContainsKey("locationRef") == true)
+                            {
+                                var locStr = options["locationRef"]?.ToString();
+                                if (!string.IsNullOrEmpty(locStr) && FormKey.TryFactory(locStr, out var locFormKey))
+                                {
+                                    sayLocation = locFormKey;
+                                }
+                            }
+                            builder.AsSay(topicFormKey, sayLocation);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid topic FormKey: {topicRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Say packages require a valid topic reference (topicRef)");
+                    }
+                    break;
+
+                case "shout":
+                    if (options?.ContainsKey("shoutRef") == true)
+                    {
+                        var shoutRefStr = options["shoutRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(shoutRefStr) && FormKey.TryFactory(shoutRefStr, out var shoutFormKey))
+                        {
+                            FormKey? shoutTarget = null;
+                            if (options?.ContainsKey("targetRef") == true)
+                            {
+                                var targetStr = options["targetRef"]?.ToString();
+                                if (!string.IsNullOrEmpty(targetStr) && FormKey.TryFactory(targetStr, out var targetFormKey))
+                                {
+                                    shoutTarget = targetFormKey;
+                                }
+                            }
+                            builder.AsShout(shoutFormKey, shoutTarget);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid shout FormKey: {shoutRefStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Shout packages require a valid shout reference (shoutRef)");
+                    }
+                    break;
+
+                case "followto":
+                    if (options?.ContainsKey("followRef") == true && options?.ContainsKey("destinationRef") == true)
+                    {
+                        var followRefStr = options["followRef"]?.ToString();
+                        var followDestStr = options["destinationRef"]?.ToString();
+
+                        if (!string.IsNullOrEmpty(followRefStr) && FormKey.TryFactory(followRefStr, out var followFormKey) &&
+                            !string.IsNullOrEmpty(followDestStr) && FormKey.TryFactory(followDestStr, out var followDestFormKey))
+                        {
+                            builder.AsFollowTo(followFormKey, followDestFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail("Invalid FormKey for follow target or destination");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("FollowTo packages require both follow reference (followRef) and destination reference (destinationRef)");
+                    }
+                    break;
+
+                case "holdposition":
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var holdPosStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(holdPosStr) && FormKey.TryFactory(holdPosStr, out var holdPosFormKey))
+                        {
+                            builder.AsHoldPosition(holdPosFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid position marker FormKey: {holdPosStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("HoldPosition packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "keepaneyeon":
+                    if (options?.ContainsKey("targetRef") == true)
+                    {
+                        var watchTargetStr = options["targetRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(watchTargetStr) && FormKey.TryFactory(watchTargetStr, out var watchTargetFormKey))
+                        {
+                            builder.AsKeepAnEyeOn(watchTargetFormKey);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid watch target FormKey: {watchTargetStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("KeepAnEyeOn packages require a valid target reference (targetRef)");
+                    }
+                    break;
+
+                case "hover":
+                    var hoverRadius = Convert.ToUInt16(options?.GetValueOrDefault("radius", 1000) ?? 1000);
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var hoverMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(hoverMarkerStr) && FormKey.TryFactory(hoverMarkerStr, out var hoverMarkerFormKey))
+                        {
+                            builder.AsHover(hoverMarkerFormKey, hoverRadius);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid hover marker FormKey: {hoverMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Hover packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                case "orbit":
+                    var orbitRadius = Convert.ToUInt16(options?.GetValueOrDefault("radius", 500) ?? 500);
+                    if (options?.ContainsKey("markerRef") == true)
+                    {
+                        var orbitMarkerStr = options["markerRef"]?.ToString();
+                        if (!string.IsNullOrEmpty(orbitMarkerStr) && FormKey.TryFactory(orbitMarkerStr, out var orbitMarkerFormKey))
+                        {
+                            builder.AsOrbit(orbitMarkerFormKey, orbitRadius);
+                        }
+                        else
+                        {
+                            return Result<string>.Fail($"Invalid orbit marker FormKey: {orbitMarkerStr}");
+                        }
+                    }
+                    else
+                    {
+                        return Result<string>.Fail("Orbit packages require a valid marker reference (markerRef)");
+                    }
+                    break;
+
+                default:
+                    return Result<string>.Fail(
+                        $"Unknown package type: {packageType}",
+                        suggestions: new List<string>
+                        {
+                            "Valid types: sandbox, travel, sleep, eat, follow, guard, patrol, useitemat, activate, sit, useidlemarker, idle, flee, accompany, escort, castmagic, cast, dialogue, find, search, ambush, wander, wait, relax, forcegreet, greet, useweapon, usemagic, lockdoors, unlockdoors, dismount, acquire, escortto, say, shout, followto, holdposition, keepaneyeon, hover, orbit"
+                        });
+            }
+
+            // Apply common options
+            if (options?.ContainsKey("location") == true)
+            {
+                var locationStr = options["location"].ToString();
+                if (!string.IsNullOrEmpty(locationStr) && FormKey.TryFactory(locationStr, out var locationFormKey))
+                {
+                    builder.WithLocation(locationFormKey);
+                }
+            }
+
+            var package = builder.Build();
+            mod.WriteToBinary(pluginPath);
+
+            _logger.Info($"Added package: {editorId} (FormKey: {package.FormKey})");
+            return Result<string>.Ok(package.FormKey.ToString());
+        }
+        catch (Exception ex)
+        {
+            return Result<string>.Fail($"Failed to add package: {ex.Message}", ex.StackTrace);
+        }
+    }
+
+    /// <summary>
+    /// Attach an existing package to an NPC.
+    /// </summary>
+    public Result<string> AttachPackageToNpc(
+        string pluginPath,
+        string npcEditorId,
+        string packageEditorId)
+    {
+        try
+        {
+            if (!File.Exists(pluginPath))
+            {
+                return Result<string>.Fail($"Plugin not found: {pluginPath}");
+            }
+
+            var mod = SkyrimMod.CreateFromBinary(
+                pluginPath,
+                SkyrimRelease.SkyrimSE,
+                new Mutagen.Bethesda.Plugins.Binary.Parameters.BinaryReadParameters());
+
+            // Ensure proper FormID allocation
+            if (mod.ModHeader.Stats.NextFormID < 0x800)
+            {
+                mod.ModHeader.Stats.NextFormID = 0x800;
+            }
+
+            // Find NPC
+            var npc = mod.Npcs.FirstOrDefault(n => n.EditorID == npcEditorId);
+            if (npc == null)
+            {
+                return Result<string>.Fail(
+                    $"NPC not found: {npcEditorId}",
+                    suggestions: new List<string>
+                    {
+                        "Use 'esp info' to list NPCs in the plugin",
+                        "Check the NPC editor ID spelling"
+                    });
+            }
+
+            // Find Package
+            var package = mod.Packages.FirstOrDefault(p => p.EditorID == packageEditorId);
+            if (package == null)
+            {
+                return Result<string>.Fail(
+                    $"Package not found: {packageEditorId}",
+                    suggestions: new List<string>
+                    {
+                        "Create the package first with 'esp add-package'",
+                        "Check the package editor ID spelling"
+                    });
+            }
+
+            // Attach package to NPC
+            npc.Packages.Add(package.ToLink());
+
+            mod.WriteToBinary(pluginPath);
+
+            _logger.Info($"Attached package '{packageEditorId}' to NPC '{npcEditorId}'");
+            return Result<string>.Ok($"Package attached successfully");
+        }
+        catch (Exception ex)
+        {
+            return Result<string>.Fail($"Failed to attach package: {ex.Message}", ex.StackTrace);
         }
     }
 

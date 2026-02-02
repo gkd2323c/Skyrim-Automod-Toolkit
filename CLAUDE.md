@@ -79,6 +79,19 @@ Enables consistent error handling and JSON serialization for AI parsing.
 - Maps Papyrus types → Mutagen interfaces (e.g., `Keyword` → `IKeywordGetter`)
 - Supports array properties using `ScriptObjectListProperty`
 
+**NPC AI Packages:**
+- **Package Records:** Define NPC behavior (sleep, eat, work, patrol, combat, dialogue)
+- **36 Package Types:** Complete coverage of Skyrim's AI system (sandbox, travel, sleep, eat, follow, guard, patrol, useitemat, sit, useidlemarker, flee, accompany, castmagic, dialogue, find, ambush, wander, wait, activate, relax, forcegreet, greet, useweapon, usemagic, lockdoors, unlockdoors, dismount, acquire, escort, say, shout, followto, holdposition, keepaneyeon, hover, orbit)
+- **Package.Data Dictionary:** Uses `Dictionary<sbyte, APackageData>` for configuration data
+  - Contains `PackageDataLocation` (for location-based packages with LocationTargetRadius)
+  - Contains `PackageDataTarget` (for target-based packages with APackageTarget implementations)
+- **ProcedureTree:** `List<PackageBranch>` defines AI behavior procedures
+  - Each `PackageBranch` has `BranchType`, `ProcedureType` (string), and `DataInputIndices` (byte list)
+  - `DataInputIndices` link branches to data entries in Package.Data dictionary
+- **FormKey Format:** Must be "FORMID:MODNAME" with exactly 6 hex digits (e.g., "000007:Skyrim.esm")
+- **Package Evaluation:** NPCs evaluate packages top-to-bottom in `Npc.Packages` collection (first matching conditions runs)
+- **Builder Pattern:** `PackageBuilder` provides fluent API with As*() methods for each type
+
 ---
 
 ## Development Workflow

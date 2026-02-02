@@ -145,5 +145,44 @@ public class NpcBuilder
         return this;
     }
 
+    /// <summary>
+    /// Attach a package to this NPC by FormKey.
+    /// Packages define NPC AI behavior (sleeping, eating, sandboxing, etc.).
+    /// </summary>
+    /// <param name="packageFormKey">The FormKey of the package to attach</param>
+    public NpcBuilder WithPackage(FormKey packageFormKey)
+    {
+        _npc.Packages.Add(packageFormKey.ToLink<IPackageGetter>());
+        return this;
+    }
+
+    /// <summary>
+    /// Attach a package to this NPC by editor ID.
+    /// </summary>
+    /// <param name="packageEditorId">The editor ID of the package to attach</param>
+    public NpcBuilder WithPackage(string packageEditorId)
+    {
+        var package = _mod.Packages.FirstOrDefault(p => p.EditorID == packageEditorId);
+        if (package != null)
+        {
+            _npc.Packages.Add(package.ToLink());
+        }
+        return this;
+    }
+
+    /// <summary>
+    /// Attach multiple packages to this NPC.
+    /// Packages are evaluated in the order provided (first matching conditions wins).
+    /// </summary>
+    /// <param name="packageFormKeys">FormKeys of packages to attach</param>
+    public NpcBuilder WithPackages(params FormKey[] packageFormKeys)
+    {
+        foreach (var formKey in packageFormKeys)
+        {
+            _npc.Packages.Add(formKey.ToLink<IPackageGetter>());
+        }
+        return this;
+    }
+
     public Npc Build() => _npc;
 }

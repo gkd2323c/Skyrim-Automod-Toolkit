@@ -53,6 +53,8 @@ public static class EspCommands
         espCommand.AddCommand(CreateListConditionsCommand());
         espCommand.AddCommand(CreateRemoveConditionCommand());
         espCommand.AddCommand(CreateAddConditionCommand());
+        espCommand.AddCommand(CreateAddPackageCommand());
+        espCommand.AddCommand(CreateAttachPackageCommand());
 
         return espCommand;
     }
@@ -3038,6 +3040,265 @@ public static class EspCommands
             }
         }, sourceArg, outputOption, editorIdOption, formIdOption, typeOption,
            functionOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateAddPackageCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var editorIdArg = new Argument<string>("editor-id", "Editor ID for the package");
+        var typeOption = new Option<string>(
+            aliases: new[] { "--type", "-t" },
+            description: "Package type (sandbox, travel, sleep, eat, follow, guard, patrol, useitemat, sit, useidlemarker, flee, accompany, castmagic, dialogue, find, ambush, wander, wait, activate, relax, forcegreet, greet, useweapon, usemagic, lockdoors, unlockdoors, dismount, acquire, escortto, say, shout, followto, holdposition, keepaneyeon, hover, orbit)"
+        ) { IsRequired = true };
+        var radiusOption = new Option<ushort>(
+            "--radius",
+            getDefaultValue: () => 500,
+            description: "Radius for sandbox packages (in units)");
+        var locationOption = new Option<string?>(
+            "--location",
+            description: "FormKey of location reference");
+        var bedRefOption = new Option<string?>(
+            "--bed",
+            description: "FormKey of bed reference (for sleep packages)");
+        var furnitureRefOption = new Option<string?>(
+            "--furniture",
+            description: "FormKey of furniture reference (for eat packages)");
+        var targetRefOption = new Option<string?>(
+            "--target",
+            description: "FormKey of target reference (for follow packages)");
+        var markerRefOption = new Option<string?>(
+            "--marker",
+            description: "FormKey of marker reference (for guard packages)");
+        var startHourOption = new Option<byte>(
+            "--start-hour",
+            getDefaultValue: () => 22,
+            description: "Start hour for schedule (0-23)");
+        var durationOption = new Option<byte>(
+            "--duration",
+            getDefaultValue: () => 8,
+            description: "Duration in hours");
+        var itemRefOption = new Option<string?>(
+            "--item-ref",
+            description: "FormKey of item/object reference (for useitemat packages)");
+        var fleeFromOption = new Option<string?>(
+            "--flee-from",
+            description: "FormKey of reference to flee from (optional for flee packages)");
+        var distanceOption = new Option<ushort>(
+            "--distance",
+            getDefaultValue: () => 1000,
+            description: "Distance for flee packages (in units)");
+        var destinationRefOption = new Option<string?>(
+            "--destination",
+            description: "FormKey of destination reference (for accompany packages)");
+        var weaponRefOption = new Option<string?>(
+            "--weapon-ref",
+            description: "FormKey of weapon reference (for useweapon packages)");
+        var spellRefOption = new Option<string?>(
+            "--spell-ref",
+            description: "FormKey of spell reference (for usemagic packages)");
+        var doorRefOption = new Option<string?>(
+            "--door-ref",
+            description: "FormKey of door reference (for lockdoors/unlockdoors packages)");
+        var objectRefOption = new Option<string?>(
+            "--object-ref",
+            description: "FormKey of object reference (for acquire packages)");
+        var escortRefOption = new Option<string?>(
+            "--escort-ref",
+            description: "FormKey of actor to escort (for escortto packages)");
+        var topicRefOption = new Option<string?>(
+            "--topic-ref",
+            description: "FormKey of dialogue topic (for say packages)");
+        var shoutRefOption = new Option<string?>(
+            "--shout-ref",
+            description: "FormKey of shout (for shout packages)");
+        var followRefOption = new Option<string?>(
+            "--follow-ref",
+            description: "FormKey of actor to follow (for followto packages)");
+        var locationRefOption = new Option<string?>(
+            "--location-ref",
+            description: "FormKey of location (for say packages)");
+
+        var cmd = new Command("add-package", "Add an AI package to a plugin")
+        {
+            pluginArg,
+            editorIdArg,
+            typeOption,
+            radiusOption,
+            locationOption,
+            bedRefOption,
+            furnitureRefOption,
+            targetRefOption,
+            markerRefOption,
+            startHourOption,
+            durationOption,
+            itemRefOption,
+            fleeFromOption,
+            distanceOption,
+            destinationRefOption,
+            weaponRefOption,
+            spellRefOption,
+            doorRefOption,
+            objectRefOption,
+            escortRefOption,
+            topicRefOption,
+            shoutRefOption,
+            followRefOption,
+            locationRefOption
+        };
+
+        cmd.SetHandler((context) =>
+        {
+            var plugin = context.ParseResult.GetValueForArgument(pluginArg);
+            var editorId = context.ParseResult.GetValueForArgument(editorIdArg);
+            var type = context.ParseResult.GetValueForOption(typeOption)!;
+            var radius = context.ParseResult.GetValueForOption(radiusOption);
+            var location = context.ParseResult.GetValueForOption(locationOption);
+            var bedRef = context.ParseResult.GetValueForOption(bedRefOption);
+            var furnitureRef = context.ParseResult.GetValueForOption(furnitureRefOption);
+            var targetRef = context.ParseResult.GetValueForOption(targetRefOption);
+            var markerRef = context.ParseResult.GetValueForOption(markerRefOption);
+            var startHour = context.ParseResult.GetValueForOption(startHourOption);
+            var duration = context.ParseResult.GetValueForOption(durationOption);
+            var itemRef = context.ParseResult.GetValueForOption(itemRefOption);
+            var fleeFrom = context.ParseResult.GetValueForOption(fleeFromOption);
+            var distance = context.ParseResult.GetValueForOption(distanceOption);
+            var destinationRef = context.ParseResult.GetValueForOption(destinationRefOption);
+            var weaponRef = context.ParseResult.GetValueForOption(weaponRefOption);
+            var spellRef = context.ParseResult.GetValueForOption(spellRefOption);
+            var doorRef = context.ParseResult.GetValueForOption(doorRefOption);
+            var objectRef = context.ParseResult.GetValueForOption(objectRefOption);
+            var escortRef = context.ParseResult.GetValueForOption(escortRefOption);
+            var topicRef = context.ParseResult.GetValueForOption(topicRefOption);
+            var shoutRef = context.ParseResult.GetValueForOption(shoutRefOption);
+            var followRef = context.ParseResult.GetValueForOption(followRefOption);
+            var locationRef = context.ParseResult.GetValueForOption(locationRefOption);
+            var json = context.ParseResult.GetValueForOption(_jsonOption);
+            var verbose = context.ParseResult.GetValueForOption(_verboseOption);
+
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            // Build options dictionary
+            var options = new Dictionary<string, object>
+            {
+                ["radius"] = radius,
+                ["startHour"] = startHour,
+                ["duration"] = duration,
+                ["distance"] = distance
+            };
+
+            if (!string.IsNullOrEmpty(location))
+                options["location"] = location;
+            if (!string.IsNullOrEmpty(bedRef))
+                options["bedRef"] = bedRef;
+            if (!string.IsNullOrEmpty(furnitureRef))
+                options["furnitureRef"] = furnitureRef;
+            if (!string.IsNullOrEmpty(targetRef))
+                options["targetRef"] = targetRef;
+            if (!string.IsNullOrEmpty(markerRef))
+                options["markerRef"] = markerRef;
+            if (!string.IsNullOrEmpty(itemRef))
+                options["itemRef"] = itemRef;
+            if (!string.IsNullOrEmpty(fleeFrom))
+                options["fleeFrom"] = fleeFrom;
+            if (!string.IsNullOrEmpty(destinationRef))
+                options["destinationRef"] = destinationRef;
+            if (!string.IsNullOrEmpty(weaponRef))
+                options["weaponRef"] = weaponRef;
+            if (!string.IsNullOrEmpty(spellRef))
+                options["spellRef"] = spellRef;
+            if (!string.IsNullOrEmpty(doorRef))
+                options["doorRef"] = doorRef;
+            if (!string.IsNullOrEmpty(objectRef))
+                options["objectRef"] = objectRef;
+            if (!string.IsNullOrEmpty(escortRef))
+                options["escortRef"] = escortRef;
+            if (!string.IsNullOrEmpty(topicRef))
+                options["topicRef"] = topicRef;
+            if (!string.IsNullOrEmpty(shoutRef))
+                options["shoutRef"] = shoutRef;
+            if (!string.IsNullOrEmpty(followRef))
+                options["followRef"] = followRef;
+            if (!string.IsNullOrEmpty(locationRef))
+                options["locationRef"] = locationRef;
+
+            var result = service.AddPackage(plugin, editorId, type, options);
+
+            if (json)
+            {
+                Console.WriteLine(result.ToJson(true));
+            }
+            else if (result.Success)
+            {
+                Console.WriteLine($"Package added: {editorId} (FormKey: {result.Value})");
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (result.Suggestions != null && result.Suggestions.Count > 0)
+                {
+                    Console.Error.WriteLine("\nSuggestions:");
+                    foreach (var suggestion in result.Suggestions)
+                    {
+                        Console.Error.WriteLine($"  - {suggestion}");
+                    }
+                }
+            }
+        });
+
+        return cmd;
+    }
+
+    private static Command CreateAttachPackageCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var npcOption = new Option<string>(
+            aliases: new[] { "--npc", "-n" },
+            description: "Editor ID of the NPC"
+        ) { IsRequired = true };
+        var packageOption = new Option<string>(
+            aliases: new[] { "--package", "-p" },
+            description: "Editor ID of the package to attach"
+        ) { IsRequired = true };
+
+        var cmd = new Command("attach-package", "Attach a package to an NPC")
+        {
+            pluginArg,
+            npcOption,
+            packageOption
+        };
+
+        cmd.SetHandler((plugin, npc, package, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            var result = service.AttachPackageToNpc(plugin, npc, package);
+
+            if (json)
+            {
+                Console.WriteLine(result.ToJson(true));
+            }
+            else if (result.Success)
+            {
+                Console.WriteLine($"Package '{package}' attached to NPC '{npc}'");
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (result.Suggestions != null && result.Suggestions.Count > 0)
+                {
+                    Console.Error.WriteLine("\nSuggestions:");
+                    foreach (var suggestion in result.Suggestions)
+                    {
+                        Console.Error.WriteLine($"  - {suggestion}");
+                    }
+                }
+            }
+        },
+        pluginArg, npcOption, packageOption, _jsonOption, _verboseOption);
 
         return cmd;
     }
