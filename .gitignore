@@ -46,6 +46,7 @@ temp/
 
 # Release preparation
 release-staging/
+release-prep/
 
 # Keeping private for now
 CONTRIBUTING.md
