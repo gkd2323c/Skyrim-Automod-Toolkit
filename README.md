@@ -53,6 +53,12 @@ cd spookys-automod-toolkit
 dotnet build
 ```
 
+> **Note:** If you encounter NuGet restore errors, you may need to add the NuGet source first:
+> ```powershell
+> dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
+> ```
+> Then run `dotnet build` again.
+
 **Verify:**
 
 ```bash
@@ -722,6 +728,12 @@ dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp" --json
 **"dotnet is not recognized"** - Install .NET 8 SDK
 
 **"Build failed"** - Run `dotnet restore` then `dotnet build`
+
+**"Unable to load the service index for source" / NuGet restore errors** - Add the NuGet source:
+```powershell
+dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
+```
+Then run `dotnet restore` and `dotnet build`
 
 **"Tool not found"** - Run `papyrus status` to check/download tools
 
