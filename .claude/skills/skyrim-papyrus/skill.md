@@ -42,6 +42,20 @@ dotnet run --project src/SpookysAutomod.Cli -- papyrus status
 dotnet run --project src/SpookysAutomod.Cli -- papyrus download
 ```
 
+### Setup Script Headers (Recommended First Step)
+```bash
+# Auto-detect Skyrim SE or VR installation and link headers
+dotnet run --project src/SpookysAutomod.Cli -- papyrus setup-headers --json
+
+# Or specify path manually
+dotnet run --project src/SpookysAutomod.Cli -- papyrus setup-headers --skyrim-path "C:/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition" --json
+
+# For Skyrim VR
+dotnet run --project src/SpookysAutomod.Cli -- papyrus setup-headers --skyrim-path "C:/Program Files (x86)/Steam/steamapps/common/SkyrimVR" --json
+```
+
+Creates a directory junction from `./skyrim-script-headers/` to Skyrim's `Data/Scripts/Source/`. Stays in sync with CK installation (no copying needed). Requires Creation Kit to be installed.
+
 ### Compile Scripts
 ```bash
 dotnet run --project src/SpookysAutomod.Cli -- papyrus compile "<source>" --output "<dir>" --headers "<dir>"
@@ -58,11 +72,10 @@ dotnet run --project src/SpookysAutomod.Cli -- papyrus compile "<source>" --outp
 **IMPORTANT:** Script compilation requires Papyrus script headers (.psc files) from the Creation Kit.
 
 **Recommended approach:**
-1. **Bethesda base game headers:** Copy to `./skyrim-script-headers/`
+1. **Run `papyrus setup-headers`** to auto-detect Skyrim and link headers (supports SE and VR)
 2. **SKSE headers (optional):** Copy to `./tools/papyrus-compiler/headers/skse/`
 3. **SkyUI headers (optional):** Copy to `./tools/papyrus-compiler/headers/skyui/`
 4. Use `--headers "./skyrim-script-headers"` in compile commands
-5. See main README "Papyrus Script Headers" section for setup instructions
 
 **Alternative:** Reference Creation Kit directly:
 - Steam: `C:/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/Data/Scripts/Source`

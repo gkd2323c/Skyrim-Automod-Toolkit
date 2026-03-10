@@ -182,6 +182,24 @@ dotnet run --project src/SpookysAutomod.Cli -- esp add-outfit "<plugin>" "<edito
 ```
 Presets: `guard` (iron armor + sword + shield), `farmer` (clothes), `mage` (robes + hood), `thief` (leather armor)
 
+### Record Management
+
+**List Records:**
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp list-records "<plugin>" --type <type> --limit 50
+```
+Supported types: weapon, armor, spell, perk, quest, npc, faction, book, global, leveleditem, formlist, outfit, location, encounterzone
+
+**Remove Record:**
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp remove-record "<plugin>" "<editorId>" --dry-run
+```
+
+**Clone Record:**
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp clone-record "<plugin>" "<sourceEditorId>" "<newEditorId>" --dry-run
+```
+
 ### Quest Aliases
 Quest aliases enable dynamic tracking of NPCs, objects, or locations. Essential for follower frameworks.
 

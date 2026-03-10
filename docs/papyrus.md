@@ -46,6 +46,45 @@ Downloads tools to the `tools/` directory automatically.
 
 ---
 
+### setup-headers
+
+Auto-detect your Skyrim installation and link script headers for compilation.
+
+```bash
+papyrus setup-headers [options]
+```
+
+**Options:**
+| Option | Description |
+|--------|-------------|
+| `--skyrim-path`, `-s` | Path to Skyrim SE or VR installation (auto-detected if not provided) |
+| `--target`, `-t` | Target directory for headers (default: `./skyrim-script-headers/`) |
+
+This command creates a directory junction (symlink) from `skyrim-script-headers/` to your Skyrim `Data/Scripts/Source/` directory. Unlike copying, the junction always stays in sync with your Creation Kit installation.
+
+**Supports both Skyrim SE and Skyrim VR.**
+
+**Auto-detection:** Scans common Steam library locations and parses `libraryfolders.vdf` for custom library paths.
+
+**Examples:**
+```bash
+# Auto-detect Skyrim installation
+papyrus setup-headers
+
+# Specify Skyrim SE path manually
+papyrus setup-headers --skyrim-path "C:/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition"
+
+# Specify Skyrim VR path
+papyrus setup-headers --skyrim-path "D:/SteamLibrary/steamapps/common/SkyrimVR"
+
+# Custom target directory
+papyrus setup-headers --target "./my-headers"
+```
+
+**Prerequisites:** Script headers require the Creation Kit to be installed. If headers are not found, install CK from Steam and re-run this command.
+
+---
+
 ### compile
 
 Compile Papyrus source files to PEX.

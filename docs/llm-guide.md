@@ -54,7 +54,10 @@ dotnet run --project src/SpookysAutomod.Cli -- papyrus generate --name "MQM_Main
 
 # 5. Edit the generated script to add your logic
 
-# 6. Compile the script (requires script headers - see README)
+# 6. Setup script headers (one-time, auto-detects Skyrim SE or VR)
+dotnet run --project src/SpookysAutomod.Cli -- papyrus setup-headers --json
+
+# 7. Compile the script
 dotnet run --project src/SpookysAutomod.Cli -- papyrus compile "./Scripts/Source" --output "./Scripts" --headers "./skyrim-script-headers" --json
 
 # 7. Attach script to quest
@@ -1786,6 +1789,7 @@ When success is false:
 |------|---------|
 | Check tools | `papyrus status` |
 | Download tools | `papyrus download` |
+| Setup headers | `papyrus setup-headers [--skyrim-path path]` |
 | Generate template | `papyrus generate --name name --extends type --output dir` |
 | Compile | `papyrus compile source --output dir --headers dir` |
 | Decompile | `papyrus decompile pex --output dir` |

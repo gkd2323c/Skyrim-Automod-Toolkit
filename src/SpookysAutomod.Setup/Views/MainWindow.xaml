@@ -1,0 +1,550 @@
+<Window x:Class="SpookysAutomod.Setup.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:SpookysAutomod.Setup.Converters"
+        Title="Spooky's AutoMod Toolkit - Setup Wizard"
+        Height="640" Width="820"
+        MinHeight="580" MinWidth="750"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource BackgroundBrush}"
+        ResizeMode="CanResize">
+
+    <Window.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVis" />
+        <converters:StepToVisibilityConverter x:Key="StepToVis" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="{StaticResource SurfaceBrush}" Padding="30,20">
+            <StackPanel>
+                <TextBlock Text="Spooky's AutoMod Toolkit"
+                           FontFamily="{StaticResource PrimaryFont}"
+                           FontSize="24" FontWeight="Bold"
+                           Foreground="{StaticResource TextPrimaryBrush}" />
+                <TextBlock Text="Setup Wizard"
+                           FontFamily="{StaticResource PrimaryFont}"
+                           FontSize="14"
+                           Foreground="{StaticResource AccentBrush}"
+                           Margin="0,4,0,0" />
+            </StackPanel>
+        </Border>
+
+        <!-- Step Indicator Bar -->
+        <Border Grid.Row="1" Background="{StaticResource SurfaceBrush}"
+                BorderBrush="{StaticResource BorderBrush}" BorderThickness="0,0,0,1"
+                Padding="30,12">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <!-- Step circles with labels -->
+                <StackPanel Orientation="Horizontal">
+                    <!-- Step 0 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step0State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step0State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="1" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text="Skyrim" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+
+                    <Border Width="30" Height="2" Background="{StaticResource BorderBrush}" VerticalAlignment="Top" Margin="0,13,0,0" />
+
+                    <!-- Step 1 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step1State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step1State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="2" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text="Headers" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+
+                    <Border Width="30" Height="2" Background="{StaticResource BorderBrush}" VerticalAlignment="Top" Margin="0,13,0,0" />
+
+                    <!-- Step 2 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step2State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step2State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="3" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text="Tools" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+
+                    <Border Width="30" Height="2" Background="{StaticResource BorderBrush}" VerticalAlignment="Top" Margin="0,13,0,0" />
+
+                    <!-- Step 3 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step3State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step3State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="4" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text=".NET" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+
+                    <Border Width="30" Height="2" Background="{StaticResource BorderBrush}" VerticalAlignment="Top" Margin="0,13,0,0" />
+
+                    <!-- Step 4 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step4State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step4State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="5" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text="Build" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+
+                    <Border Width="30" Height="2" Background="{StaticResource BorderBrush}" VerticalAlignment="Top" Margin="0,13,0,0" />
+
+                    <!-- Step 5 -->
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="90">
+                        <Grid HorizontalAlignment="Center" Width="28" Height="28">
+                            <Ellipse Width="28" Height="28">
+                                <Ellipse.Style>
+                                    <Style TargetType="Ellipse">
+                                        <Setter Property="Fill" Value="{StaticResource SurfaceLightBrush}" />
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Step5State}" Value="Current">
+                                                <Setter Property="Fill" Value="{StaticResource AccentBrush}" />
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Step5State}" Value="Completed">
+                                                <Setter Property="Fill" Value="{StaticResource AccentDarkBrush}" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Ellipse.Style>
+                            </Ellipse>
+                            <TextBlock Text="6" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Foreground="White" FontSize="12" FontWeight="Bold" />
+                        </Grid>
+                        <TextBlock Text="Finish" HorizontalAlignment="Center" Margin="0,4,0,0"
+                                   FontSize="10" Foreground="{StaticResource TextDimBrush}" />
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- Content Area -->
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto" Padding="30,20">
+            <Grid>
+                <!-- ==================== STEP 0: Skyrim Detection ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=0}">
+                    <TextBlock Text="Detect Skyrim Installation"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextPrimaryBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="Select your Skyrim installation. Both Skyrim SE and Skyrim VR are supported."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <TextBlock Text="{Binding DetectionStatus}"
+                               FontSize="12" Foreground="{StaticResource TextDimBrush}"
+                               Margin="0,0,0,12" />
+
+                    <!-- Detected installations list -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12"
+                            Visibility="{Binding UseCustomPath, Converter={StaticResource BoolToVis}, ConverterParameter=Invert}">
+                        <ListBox ItemsSource="{Binding Installations}"
+                                 SelectedItem="{Binding SelectedInstallation}"
+                                 Background="Transparent" BorderThickness="0"
+                                 Foreground="{StaticResource TextPrimaryBrush}"
+                                 FontFamily="{StaticResource PrimaryFont}" FontSize="13">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="4,6">
+                                        <TextBlock Text="{Binding DisplayName}"
+                                                   Foreground="{StaticResource TextPrimaryBrush}" FontSize="13" />
+                                        <StackPanel Orientation="Horizontal" Margin="0,4,0,0">
+                                            <TextBlock FontSize="11" Margin="0,0,12,0">
+                                                <TextBlock.Style>
+                                                    <Style TargetType="TextBlock">
+                                                        <Setter Property="Text" Value="Script headers not found" />
+                                                        <Setter Property="Foreground" Value="{StaticResource WarningBrush}" />
+                                                        <Style.Triggers>
+                                                            <DataTrigger Binding="{Binding HasScriptHeaders}" Value="True">
+                                                                <Setter Property="Text" Value="Script headers available" />
+                                                                <Setter Property="Foreground" Value="{StaticResource SuccessBrush}" />
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </TextBlock.Style>
+                                            </TextBlock>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                            <ListBox.ItemContainerStyle>
+                                <Style TargetType="ListBoxItem">
+                                    <Setter Property="Background" Value="Transparent" />
+                                    <Setter Property="Padding" Value="4" />
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="ListBoxItem">
+                                                <Border x:Name="Bd" Background="{TemplateBinding Background}"
+                                                        CornerRadius="4" Padding="{TemplateBinding Padding}"
+                                                        Margin="0,2">
+                                                    <ContentPresenter />
+                                                </Border>
+                                                <ControlTemplate.Triggers>
+                                                    <Trigger Property="IsSelected" Value="True">
+                                                        <Setter TargetName="Bd" Property="Background" Value="{StaticResource SurfaceLightBrush}" />
+                                                        <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource AccentBrush}" />
+                                                        <Setter TargetName="Bd" Property="BorderThickness" Value="1" />
+                                                    </Trigger>
+                                                    <Trigger Property="IsMouseOver" Value="True">
+                                                        <Setter TargetName="Bd" Property="Background" Value="{StaticResource SurfaceLightBrush}" />
+                                                    </Trigger>
+                                                </ControlTemplate.Triggers>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </ListBox.ItemContainerStyle>
+                        </ListBox>
+                    </Border>
+
+                    <!-- Custom path -->
+                    <CheckBox Content="Use custom path" IsChecked="{Binding UseCustomPath}"
+                              Foreground="{StaticResource TextSecondaryBrush}" FontSize="13"
+                              Margin="0,0,0,8" />
+
+                    <StackPanel Orientation="Horizontal"
+                                Visibility="{Binding UseCustomPath, Converter={StaticResource BoolToVis}}"
+                                Margin="0,0,0,8">
+                        <TextBox Text="{Binding CustomSkyrimPath, UpdateSourceTrigger=PropertyChanged}"
+                                 Style="{StaticResource DarkTextBox}" Width="500" />
+                        <Button Content="Browse..." Style="{StaticResource SecondaryButton}"
+                                Command="{Binding BrowseSkyrimCommand}" Margin="8,0,0,0" />
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- ==================== STEP 1: Script Headers ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=1}">
+                    <TextBlock Text="Script Headers"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextPrimaryBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="Papyrus script headers are needed for compiling scripts. These come from the Creation Kit."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock FontSize="13" TextWrapping="Wrap"
+                                       Foreground="{StaticResource TextPrimaryBrush}">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="Text" Value="{Binding HeadersStatus}" />
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+
+                            <!-- Success indicator -->
+                            <TextBlock Text="Linked successfully"
+                                       Style="{StaticResource StatusSuccess}"
+                                       Margin="0,12,0,0"
+                                       Visibility="{Binding HeadersSuccess, Converter={StaticResource BoolToVis}}" />
+
+                            <!-- Warning for no headers -->
+                            <TextBlock Text="Headers not available - you can set them up later"
+                                       Style="{StaticResource StatusWarning}"
+                                       Margin="0,12,0,0"
+                                       Visibility="{Binding HeadersNoSource, Converter={StaticResource BoolToVis}}" />
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <!-- ==================== STEP 2: Tool Downloads ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=2}">
+                    <TextBlock Text="Download Tools"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextPrimaryBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="Downloading Papyrus compiler and decompiler from GitHub."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <!-- Papyrus Compiler -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
+                        <StackPanel>
+                            <TextBlock Text="Papyrus Compiler (russo-2025)"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="{Binding CompilerStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,6" />
+                            <ProgressBar Value="{Binding CompilerProgress}" Maximum="100"
+                                         Style="{StaticResource AccentProgressBar}" />
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Champollion -->
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="Champollion Decompiler"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="{Binding DecompilerStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,6" />
+                            <ProgressBar Value="{Binding DecompilerProgress}" Maximum="100"
+                                         Style="{StaticResource AccentProgressBar}" />
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <!-- ==================== STEP 3: .NET Check ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=3}">
+                    <TextBlock Text=".NET Runtime Check"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextPrimaryBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="The toolkit requires .NET 8 SDK to build and run."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="{Binding DotNetStatus}"
+                                       FontSize="14" Foreground="{StaticResource TextPrimaryBrush}"
+                                       TextWrapping="Wrap" />
+
+                            <TextBlock Text="Ready to build"
+                                       Style="{StaticResource StatusSuccess}"
+                                       Margin="0,12,0,0"
+                                       Visibility="{Binding DotNetOk, Converter={StaticResource BoolToVis}}" />
+
+                            <TextBlock Style="{StaticResource StatusError}"
+                                       Margin="0,12,0,0"
+                                       Visibility="{Binding DotNetOk, Converter={StaticResource BoolToVis}, ConverterParameter=Invert}">
+                                <Run Text=".NET 8 SDK required. Download from:" />
+                                <LineBreak />
+                                <Run Text="https://dotnet.microsoft.com/download/dotnet/8.0"
+                                     Foreground="{StaticResource AccentBrush}" />
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <!-- ==================== STEP 4: Build ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=4}">
+                    <TextBlock Text="Build Toolkit"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextPrimaryBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="Building the solution to verify everything is working."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="{Binding BuildStatus}"
+                                       FontSize="13" Foreground="{StaticResource TextPrimaryBrush}"
+                                       TextWrapping="Wrap"
+                                       FontFamily="{StaticResource MonoFont}" />
+
+                            <ProgressBar IsIndeterminate="True"
+                                         Style="{StaticResource AccentProgressBar}"
+                                         Margin="0,12,0,0"
+                                         Visibility="{Binding BuildRunning, Converter={StaticResource BoolToVis}}" />
+
+                            <TextBlock Text="Build successful!"
+                                       Style="{StaticResource StatusSuccess}"
+                                       Margin="0,12,0,0"
+                                       Visibility="{Binding BuildSuccess, Converter={StaticResource BoolToVis}}" />
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <!-- ==================== STEP 5: Finish ==================== -->
+                <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=5}">
+                    <TextBlock Text="Setup Complete!"
+                               FontSize="18" FontWeight="SemiBold"
+                               Foreground="{StaticResource SuccessBrush}"
+                               Margin="0,0,0,8" />
+                    <TextBlock Text="Your toolkit is ready. Copy the initialization prompt below to paste into your AI assistant."
+                               FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="0,0,0,16" TextWrapping="Wrap" />
+
+                    <!-- Init Prompt Preview -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
+                        <StackPanel>
+                            <TextBlock Text="AI Initialization Prompt"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}"
+                                       Margin="0,0,0,8" />
+                            <TextBox Text="{Binding InitPromptPreview, Mode=OneWay}"
+                                     IsReadOnly="True" TextWrapping="Wrap"
+                                     Background="{StaticResource BackgroundBrush}"
+                                     Foreground="{StaticResource TextSecondaryBrush}"
+                                     FontFamily="{StaticResource MonoFont}"
+                                     FontSize="11" Padding="10"
+                                     BorderThickness="0"
+                                     MaxHeight="200"
+                                     VerticalScrollBarVisibility="Auto" />
+                        </StackPanel>
+                    </Border>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,16">
+                        <Button Content="Copy Init Prompt to Clipboard"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding CopyPromptCommand}" />
+                        <TextBlock Text="Copied!"
+                                   Style="{StaticResource StatusSuccess}"
+                                   VerticalAlignment="Center" Margin="12,0,0,0"
+                                   Visibility="{Binding PromptCopied, Converter={StaticResource BoolToVis}}" />
+                    </StackPanel>
+
+                    <!-- Settings saved info -->
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="Settings Saved"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}"
+                                       Margin="0,0,0,8" />
+                            <TextBlock FontSize="12" Foreground="{StaticResource TextSecondaryBrush}" TextWrapping="Wrap">
+                                <Run Text="Configuration saved to " />
+                                <Run Text="settings.json" FontFamily="{StaticResource MonoFont}"
+                                     Foreground="{StaticResource AccentBrush}" />
+                                <Run Text=" in the toolkit root. The CLI will use these settings automatically." />
+                            </TextBlock>
+                            <TextBlock Text="{Binding ToolkitPath, StringFormat='Toolkit path: {0}'}"
+                                       FontSize="11" Foreground="{StaticResource TextDimBrush}"
+                                       FontFamily="{StaticResource MonoFont}" Margin="0,8,0,0" />
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+
+        <!-- Footer Navigation -->
+        <Border Grid.Row="3" Background="{StaticResource SurfaceBrush}"
+                BorderBrush="{StaticResource BorderBrush}" BorderThickness="0,1,0,0"
+                Padding="30,16">
+            <Grid>
+                <Button Content="Back"
+                        Command="{Binding BackCommand}"
+                        HorizontalAlignment="Left">
+                    <Button.Style>
+                        <Style TargetType="Button" BasedOn="{StaticResource SecondaryButton}">
+                            <Setter Property="Visibility" Value="Visible" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding CurrentStep}" Value="0">
+                                    <Setter Property="Visibility" Value="Hidden" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding CurrentStep}" Value="5">
+                                    <Setter Property="Visibility" Value="Hidden" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <!-- Next button (steps 0-4) -->
+                    <Button Content="Next"
+                            Command="{Binding NextCommand}">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource PrimaryButton}">
+                                <Setter Property="Visibility" Value="Visible" />
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding CurrentStep}" Value="5">
+                                        <Setter Property="Visibility" Value="Collapsed" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+
+                    <!-- Finish button (step 5) -->
+                    <Button Content="Close" Style="{StaticResource PrimaryButton}"
+                            Command="{Binding FinishCommand}"
+                            Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=5}" />
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

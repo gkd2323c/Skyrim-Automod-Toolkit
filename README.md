@@ -592,6 +592,11 @@ esp set-property "Mod.esp" --quest "QuestID" --script "ScriptName" --property "P
 esp auto-fill "Mod.esp" --quest "QuestID" --script "ScriptName" --script-dir "./Scripts/Source" --data-folder "C:/Skyrim/Data"
 esp auto-fill-all "Mod.esp" --script-dir "./Scripts/Source" --data-folder "C:/Skyrim/Data"  # Bulk process all scripts
 
+# Record Management
+esp list-records "Mod.esp" --type weapon --limit 50
+esp remove-record "Mod.esp" "RecordEditorID" --dry-run
+esp clone-record "Mod.esp" "SourceEditorID" "NewEditorID" --dry-run
+
 # Utilities
 esp generate-seq "Mod.esp" --output "./"
 esp merge "Source.esp" "Target.esp" --output "Merged.esp"
@@ -616,8 +621,10 @@ esp remove-condition "Mod.esp" -o "Patch.esp" --form-id "000800:Mod.esp" --indic
 
 ```bash
 papyrus status
+papyrus setup-headers                                          # Auto-detect Skyrim SE/VR and link headers
+papyrus setup-headers --skyrim-path "C:/path/to/Skyrim"        # Manual path
 papyrus generate --name "ScriptName" --extends "Quest" --output "./Scripts"
-papyrus compile "./Scripts/Source" --output "./Scripts" --headers "/path/to/skyrim/Scripts/Source"
+papyrus compile "./Scripts/Source" --output "./Scripts" --headers "./skyrim-script-headers"
 papyrus decompile "Script.pex" --output "./Decompiled"
 papyrus validate "Script.psc"
 ```

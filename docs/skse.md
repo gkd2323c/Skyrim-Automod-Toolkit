@@ -10,8 +10,8 @@ SKSE plugins are DLL files that extend Skyrim's functionality at a native level.
 
 **Building Requirements:**
 - MSVC Build Tools (no Visual Studio IDE needed)
-- CMake 3.21+
-- vcpkg (auto-bootstrapped on first build)
+- CMake 3.24+
+- Internet connection (first build only - CommonLibSSE-NG downloaded via FetchContent)
 
 ## Commands
 
@@ -70,14 +70,12 @@ skse create "MyNativePlugin" --template papyrus-native --author "YourName" --out
 **Generated Structure:**
 ```
 MyPlugin/
-  CMakeLists.txt
-  vcpkg.json
+  CMakeLists.txt      # FetchContent downloads CommonLibSSE-NG automatically
+  build.bat           # Quick build script
+  README.md           # Build instructions
   src/
-    main.cpp
-    plugin.cpp
-    plugin.h
-  cmake/
-    CommonLibSSE.cmake
+    PCH.h             # Precompiled header
+    main.cpp          # Plugin entry point
 ```
 
 ---
@@ -182,8 +180,7 @@ cmake --build build --config Release
 | Tool | Purpose | Installation |
 |------|---------|--------------|
 | MSVC Build Tools | C++ compiler (no IDE needed) | [Build Tools for Visual Studio](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022) |
-| CMake 3.21+ | Build system | [Download](https://cmake.org/download/) |
-| vcpkg | Dependencies | Auto-bootstrapped by project |
+| CMake 3.24+ | Build system | [Download](https://cmake.org/download/) |
 
 ---
 
