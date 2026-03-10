@@ -2756,4 +2756,168 @@ public class PluginService
             return Result<Condition>.Fail($"Failed to create condition: {ex.Message}", ex.StackTrace);
         }
     }
+
+    /// <summary>
+    /// Remove a record from a plugin by EditorID.
+    /// </summary>
+    public Result RemoveRecord(SkyrimMod mod, string editorId)
+    {
+        try
+        {
+            // Search all record groups for the EditorID
+            bool removed = TryRemoveFromGroup(mod.Weapons, editorId)
+                || TryRemoveFromGroup(mod.Armors, editorId)
+                || TryRemoveFromGroup(mod.Spells, editorId)
+                || TryRemoveFromGroup(mod.Quests, editorId)
+                || TryRemoveFromGroup(mod.Npcs, editorId)
+                || TryRemoveFromGroup(mod.Perks, editorId)
+                || TryRemoveFromGroup(mod.Factions, editorId)
+                || TryRemoveFromGroup(mod.Books, editorId)
+                || TryRemoveFromGroup(mod.MiscItems, editorId)
+                || TryRemoveFromGroup(mod.Globals, editorId)
+                || TryRemoveFromGroup(mod.LeveledItems, editorId)
+                || TryRemoveFromGroup(mod.FormLists, editorId)
+                || TryRemoveFromGroup(mod.Outfits, editorId)
+                || TryRemoveFromGroup(mod.Locations, editorId)
+                || TryRemoveFromGroup(mod.EncounterZones, editorId)
+                || TryRemoveFromGroup(mod.Packages, editorId);
+
+            if (!removed)
+            {
+                return Result.Fail(
+                    $"Record not found: {editorId}",
+                    suggestions: new List<string>
+                    {
+                        "Check the EditorID is correct (case-insensitive)",
+                        "Use 'esp list-records' to see available records",
+                        "Use 'esp find-record --search' to search by pattern"
+                    });
+            }
+
+            _logger.Info($"Removed record: {editorId}");
+            return Result.Ok($"Removed record: {editorId}");
+        }
+        catch (Exception ex)
+        {
+            return Result.Fail($"Failed to remove record: {ex.Message}", ex.StackTrace);
+        }
+    }
+
+    private static bool TryRemoveFromGroup<T>(IGroup<T> group, string editorId)
+        where T : class, IMajorRecord, IMajorRecordGetter
+    {
+        var record = group.FirstOrDefault(r =>
+            r.EditorID?.Equals(editorId, StringComparison.OrdinalIgnoreCase) == true);
+        if (record != null)
+        {
+            group.Remove(record.FormKey);
+            return true;
+        }
+        return false;
+    }
+
+    /// <summary>
+    /// Clone a record within a plugin, creating a copy with a new EditorID and FormKey.
+    /// </summary>
+    public Result<RecordSearchResult> CloneRecord(SkyrimMod mod, string sourceEditorId, string newEditorId)
+    {
+        try
+        {
+            // Find the source record
+            var sourceRecord = mod.EnumerateMajorRecords()
+                .FirstOrDefault(r => r.EditorID?.Equals(sourceEditorId, StringComparison.OrdinalIgnoreCase) == true);
+
+            if (sourceRecord == null)
+            {
+                return Result<RecordSearchResult>.Fail(
+                    $"Source record not found: {sourceEditorId}",
+                    suggestions: new List<string>
+                    {
+                        "Check the EditorID is correct",
+                        "Use 'esp find-record --search' to search for the record"
+                    });
+            }
+
+            // Deep copy and add to the appropriate group with new FormKey
+            var clone = sourceRecord.DeepCopy();
+            var mutableClone = (IMajorRecord)clone;
+            mutableClone.EditorID = newEditorId;
+
+            // Add clone to the correct group based on type
+            var formKey = AddCloneToGroup(mod, mutableClone);
+            if (formKey == null)
+            {
+                return Result<RecordSearchResult>.Fail(
+                    $"Unsupported record type for cloning: {sourceRecord.GetType().Name}",
+                    suggestions: new List<string>
+                    {
+                        "Supported types: Weapon, Armor, Spell, Quest, NPC, Perk, Faction, Book, Global, LeveledItem, FormList, Outfit, Location, EncounterZone, Package"
+                    });
+            }
+
+            _logger.Info($"Cloned record: {sourceEditorId} -> {newEditorId} ({formKey})");
+            return Result<RecordSearchResult>.Ok(new RecordSearchResult
+            {
+                EditorId = newEditorId,
+                FormKey = formKey.Value.ToString(),
+                RecordType = sourceRecord.GetType().Name.Replace("Getter", ""),
+                PluginName = mod.ModKey.FileName,
+                Name = GetRecordName(sourceRecord)
+            });
+        }
+        catch (Exception ex)
+        {
+            return Result<RecordSearchResult>.Fail($"Failed to clone record: {ex.Message}", ex.StackTrace);
+        }
+    }
+
+    private FormKey? AddCloneToGroup(SkyrimMod mod, IMajorRecord clone)
+    {
+        // Mutagen's FormKey is immutable after creation, so we need to use
+        // the Duplicate method which creates a new record with a new FormKey
+        var newFormKey = mod.GetNextFormKey();
+        switch (clone)
+        {
+            case Weapon w: var nw = mod.Weapons.AddNew(); CopyRecordFields(w, nw); nw.EditorID = clone.EditorID; return nw.FormKey;
+            case Armor a: var na = mod.Armors.AddNew(); CopyRecordFields(a, na); na.EditorID = clone.EditorID; return na.FormKey;
+            case Spell s: var ns = mod.Spells.AddNew(); CopyRecordFields(s, ns); ns.EditorID = clone.EditorID; return ns.FormKey;
+            case Quest q: var nq = mod.Quests.AddNew(); CopyRecordFields(q, nq); nq.EditorID = clone.EditorID; return nq.FormKey;
+            case Npc n: var nn = mod.Npcs.AddNew(); CopyRecordFields(n, nn); nn.EditorID = clone.EditorID; return nn.FormKey;
+            case Perk p: var np = mod.Perks.AddNew(); CopyRecordFields(p, np); np.EditorID = clone.EditorID; return np.FormKey;
+            case Faction f: var nf = new Faction(mod.GetNextFormKey(), SkyrimRelease.SkyrimSE); CopyRecordFields(f, nf); nf.EditorID = clone.EditorID; mod.Factions.Add(nf); return nf.FormKey;
+            case Book b: var nb = mod.Books.AddNew(); CopyRecordFields(b, nb); nb.EditorID = clone.EditorID; return nb.FormKey;
+            case Global g: var ng = mod.Globals.AddNewFloat(clone.EditorID ?? "Clone"); CopyRecordFields(g, ng); ng.EditorID = clone.EditorID; return ng.FormKey;
+            case LeveledItem li: var nli = mod.LeveledItems.AddNew(); CopyRecordFields(li, nli); nli.EditorID = clone.EditorID; return nli.FormKey;
+            case FormList fl: var nfl = mod.FormLists.AddNew(); CopyRecordFields(fl, nfl); nfl.EditorID = clone.EditorID; return nfl.FormKey;
+            case Outfit o: var no = mod.Outfits.AddNew(); CopyRecordFields(o, no); no.EditorID = clone.EditorID; return no.FormKey;
+            case Location l: var nl = mod.Locations.AddNew(); CopyRecordFields(l, nl); nl.EditorID = clone.EditorID; return nl.FormKey;
+            case EncounterZone ez: var nez = mod.EncounterZones.AddNew(); CopyRecordFields(ez, nez); nez.EditorID = clone.EditorID; return nez.FormKey;
+            case Package pk: var npk = mod.Packages.AddNew(); CopyRecordFields(pk, npk); npk.EditorID = clone.EditorID; return npk.FormKey;
+            default: return null;
+        }
+    }
+
+    /// <summary>
+    /// Copy writable properties from source to destination using reflection.
+    /// Skips FormKey and EditorID (set separately).
+    /// </summary>
+    private static void CopyRecordFields(IMajorRecord source, IMajorRecord dest)
+    {
+        var type = source.GetType();
+        foreach (var prop in type.GetProperties())
+        {
+            if (!prop.CanRead || !prop.CanWrite) continue;
+            if (prop.Name is "FormKey" or "EditorID") continue;
+
+            try
+            {
+                var value = prop.GetValue(source);
+                prop.SetValue(dest, value);
+            }
+            catch
+            {
+                // Skip properties that can't be copied (readonly, indexers, etc.)
+            }
+        }
+    }
 }

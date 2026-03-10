@@ -1,5 +1,4 @@
 using System.CommandLine;
-using System.Text.Json;
 using SpookysAutomod.Core.Logging;
 using SpookysAutomod.Skse.Models;
 using SpookysAutomod.Skse.Services;
@@ -8,6 +7,9 @@ namespace SpookysAutomod.Cli.Commands;
 
 public static class SkseCommands
 {
+    private static IModLogger CreateLogger(bool json, bool verbose) =>
+        json ? new SilentLogger() : new ConsoleLogger(verbose);
+
     public static Command Create(Option<bool> jsonOption, Option<bool> verboseOption)
     {
         var skseCommand = new Command("skse", "SKSE C++ plugin project management");
@@ -38,7 +40,7 @@ public static class SkseCommands
 
         command.SetHandler((name, template, output, author, description, json, verbose) =>
         {
-            var logger = new ConsoleLogger(verbose);
+            var logger = CreateLogger(json, verbose);
             var service = new SkseProjectService(logger);
             var config = new SkseProjectConfig
             {
@@ -52,13 +54,7 @@ public static class SkseCommands
 
             if (json)
             {
-                Console.WriteLine(JsonSerializer.Serialize(new
-                {
-                    success = result.Success,
-                    result = result.Value,
-                    error = result.Error,
-                    suggestions = result.Suggestions
-                }, new JsonSerializerOptions { WriteIndented = true }));
+                Console.WriteLine(result.ToJson(true));
             }
             else
             {
@@ -82,6 +78,7 @@ public static class SkseCommands
                             Console.Error.WriteLine($"  - {suggestion}");
                         }
                     }
+                    Environment.ExitCode = 1;
                 }
             }
         }, nameArg, templateOpt, outputOpt, authorOpt, descriptionOpt, jsonOption, verboseOption);
@@ -99,19 +96,13 @@ public static class SkseCommands
 
         command.SetHandler((path, json, verbose) =>
         {
-            var logger = new ConsoleLogger(verbose);
+            var logger = CreateLogger(json, verbose);
             var service = new SkseProjectService(logger);
             var result = service.GetProjectInfo(path);
 
             if (json)
             {
-                Console.WriteLine(JsonSerializer.Serialize(new
-                {
-                    success = result.Success,
-                    result = result.Value,
-                    error = result.Error,
-                    suggestions = result.Suggestions
-                }, new JsonSerializerOptions { WriteIndented = true }));
+                Console.WriteLine(result.ToJson(true));
             }
             else
             {
@@ -139,6 +130,7 @@ public static class SkseCommands
                 else
                 {
                     Console.Error.WriteLine($"Error: {result.Error}");
+                    Environment.ExitCode = 1;
                 }
             }
         }, pathArg, jsonOption, verboseOption);
@@ -152,26 +144,29 @@ public static class SkseCommands
 
         command.SetHandler((json) =>
         {
-            var logger = new ConsoleLogger(false);
+            var logger = CreateLogger(json, false);
             var service = new SkseProjectService(logger);
             var result = service.ListTemplates();
 
             if (json)
             {
-                Console.WriteLine(JsonSerializer.Serialize(new
-                {
-                    success = result.Success,
-                    result = result.Value,
-                    error = result.Error
-                }, new JsonSerializerOptions { WriteIndented = true }));
+                Console.WriteLine(result.ToJson(true));
             }
             else
             {
-                Console.WriteLine("Available SKSE Templates:");
-                Console.WriteLine();
-                foreach (var template in result.Value ?? Array.Empty<string>())
+                if (result.Success)
                 {
-                    Console.WriteLine($"  {template}");
+                    Console.WriteLine("Available SKSE Templates:");
+                    Console.WriteLine();
+                    foreach (var template in result.Value ?? Array.Empty<string>())
+                    {
+                        Console.WriteLine($"  {template}");
+                    }
+                }
+                else
+                {
+                    Console.Error.WriteLine($"Error: {result.Error}");
+                    Environment.ExitCode = 1;
                 }
             }
         }, jsonOption);
@@ -195,7 +190,7 @@ public static class SkseCommands
 
         command.SetHandler((project, name, returnType, paramStrings, json, verbose) =>
         {
-            var logger = new ConsoleLogger(verbose);
+            var logger = CreateLogger(json, verbose);
             var service = new SkseProjectService(logger);
 
             var function = new PapyrusNativeFunction
@@ -224,12 +219,7 @@ public static class SkseCommands
 
             if (json)
             {
-                Console.WriteLine(JsonSerializer.Serialize(new
-                {
-                    success = result.Success,
-                    error = result.Error,
-                    suggestions = result.Suggestions
-                }, new JsonSerializerOptions { WriteIndented = true }));
+                Console.WriteLine(result.ToJson(true));
             }
             else
             {
@@ -248,6 +238,7 @@ public static class SkseCommands
                             Console.Error.WriteLine($"  - {suggestion}");
                         }
                     }
+                    Environment.ExitCode = 1;
                 }
             }
         }, projectArg, nameOpt, returnOpt, paramsOpt, jsonOption, verboseOption);

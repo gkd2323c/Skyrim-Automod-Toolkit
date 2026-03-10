@@ -494,4 +494,162 @@ public class BuilderTests
     }
 
     #endregion
+
+    #region Package Builder Tests
+
+    [Fact]
+    public void PackageBuilder_Build_CreatesPackage()
+    {
+        var mod = CreateTestMod();
+        var package = new PackageBuilder(mod, "TestPackage")
+            .Build();
+
+        Assert.NotNull(package);
+        Assert.Equal("TestPackage", package.EditorID);
+    }
+
+    [Fact]
+    public void PackageBuilder_AsSandbox_SetsProcedureType()
+    {
+        var mod = CreateTestMod();
+        var package = new PackageBuilder(mod, "SandboxPackage")
+            .AsSandbox(1000)
+            .Build();
+
+        Assert.NotEmpty(package.ProcedureTree);
+        Assert.Equal("Sandbox", package.ProcedureTree[0].ProcedureType);
+        Assert.NotEmpty(package.Data);
+    }
+
+    [Fact]
+    public void PackageBuilder_AsTravel_SetsProcedureType()
+    {
+        var mod = CreateTestMod();
+        var markerKey = new FormKey(Mutagen.Bethesda.Skyrim.Constants.Skyrim, 0x000014);
+        var package = new PackageBuilder(mod, "TravelPackage")
+            .AsTravel(markerKey)
+            .Build();
+
+        Assert.NotEmpty(package.ProcedureTree);
+        Assert.Equal("Travel", package.ProcedureTree[0].ProcedureType);
+    }
+
+    [Fact]
+    public void PackageBuilder_AsSleep_SetsSchedule()
+    {
+        var mod = CreateTestMod();
+        var bedKey = new FormKey(Mutagen.Bethesda.Skyrim.Constants.Skyrim, 0x000014);
+        var package = new PackageBuilder(mod, "SleepPackage")
+            .AsSleep(bedKey, startHour: 22, duration: 8)
+            .Build();
+
+        Assert.Equal(22, package.ScheduleHour);
+        Assert.Equal(480, package.ScheduleDurationInMinutes); // 8 * 60
+        Assert.NotEmpty(package.ProcedureTree);
+        Assert.Equal("Sleep", package.ProcedureTree[0].ProcedureType);
+    }
+
+    [Fact]
+    public void PackageBuilder_AsSleep_InvalidHour_Throws()
+    {
+        var mod = CreateTestMod();
+        var bedKey = new FormKey(Mutagen.Bethesda.Skyrim.Constants.Skyrim, 0x000014);
+
+        Assert.Throws<ArgumentException>(() =>
+            new PackageBuilder(mod, "BadSleep")
+                .AsSleep(bedKey, startHour: 25));
+    }
+
+    [Fact]
+    public void PackageBuilder_WithSchedule_SetsSchedule()
+    {
+        var mod = CreateTestMod();
+        var package = new PackageBuilder(mod, "ScheduledPackage")
+            .AsSandbox()
+            .WithSchedule(8, 12)
+            .Build();
+
+        Assert.Equal(8, package.ScheduleHour);
+        Assert.Equal(720, package.ScheduleDurationInMinutes); // 12 * 60
+    }
+
+    [Fact]
+    public void PackageBuilder_DataIndicesLinkToBranch()
+    {
+        var mod = CreateTestMod();
+        var package = new PackageBuilder(mod, "DataLinkPackage")
+            .AsSandbox(500)
+            .Build();
+
+        // Verify data index in branch matches data dictionary
+        var branch = package.ProcedureTree[0];
+        Assert.NotEmpty(branch.DataInputIndices);
+        var dataIndex = (sbyte)branch.DataInputIndices[0];
+        Assert.True(package.Data.ContainsKey(dataIndex));
+    }
+
+    #endregion
+
+    #region Faction Builder Tests
+
+    [Fact]
+    public void FactionBuilder_Build_CreatesFaction()
+    {
+        var mod = CreateTestMod();
+        var faction = new FactionBuilder(mod, "TestFaction")
+            .Build();
+
+        Assert.NotNull(faction);
+        Assert.Equal("TestFaction", faction.EditorID);
+    }
+
+    [Fact]
+    public void FactionBuilder_WithName_SetsName()
+    {
+        var mod = CreateTestMod();
+        var faction = new FactionBuilder(mod, "NamedFaction")
+            .WithName("Test Faction Name")
+            .Build();
+
+        Assert.Equal("Test Faction Name", faction.Name?.String);
+    }
+
+    [Fact]
+    public void FactionBuilder_HiddenFromPC_SetsFlag()
+    {
+        var mod = CreateTestMod();
+        var faction = new FactionBuilder(mod, "HiddenFaction")
+            .HiddenFromPC()
+            .Build();
+
+        Assert.True(faction.Flags.HasFlag(Faction.FactionFlag.HiddenFromPC));
+    }
+
+    [Fact]
+    public void FactionBuilder_TrackCrime_SetsFlag()
+    {
+        var mod = CreateTestMod();
+        var faction = new FactionBuilder(mod, "CrimeFaction")
+            .TrackCrime()
+            .Build();
+
+        Assert.True(faction.Flags.HasFlag(Faction.FactionFlag.TrackCrime));
+    }
+
+    [Fact]
+    public void FactionBuilder_MultipleFlags_SetsAll()
+    {
+        var mod = CreateTestMod();
+        var faction = new FactionBuilder(mod, "MultiFlagFaction")
+            .HiddenFromPC()
+            .TrackCrime()
+            .CanBeOwner()
+            .Build();
+
+        Assert.True(faction.Flags.HasFlag(Faction.FactionFlag.HiddenFromPC));
+        Assert.True(faction.Flags.HasFlag(Faction.FactionFlag.TrackCrime));
+        Assert.True(faction.Flags.HasFlag(Faction.FactionFlag.CanBeOwner));
+    }
+
+    #endregion
 }

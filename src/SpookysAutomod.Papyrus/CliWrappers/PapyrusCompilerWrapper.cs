@@ -97,23 +97,23 @@ public class PapyrusCompilerWrapper : ICliWrapper
         return File.Exists(path);
     }
 
-    public async Task<Result<string>> GetVersionAsync()
+    public Task<Result<string>> GetVersionAsync()
     {
         if (!IsAvailable())
         {
-            return Result<string>.Fail(
+            return Task.FromResult(Result<string>.Fail(
                 "papyrus-compiler not found",
                 suggestions: new List<string>
                 {
                     "Run 'spookys-automod papyrus download' to download the compiler"
-                });
+                }));
         }
 
         var compilerName = GetToolPath().Contains("PapyrusCompiler.exe")
             ? "Bethesda Papyrus Compiler"
             : "russo-2025 Papyrus Compiler";
 
-        return Result<string>.Ok(compilerName);
+        return Task.FromResult(Result<string>.Ok(compilerName));
     }
 
     public async Task<Result> DownloadAsync()

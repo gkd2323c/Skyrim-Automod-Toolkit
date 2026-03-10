@@ -19,6 +19,7 @@ public class LinkCacheManager
     private static DateTime _cacheTimestamp = DateTime.MinValue;
     private static string? _cacheDataFolder;
     private static readonly TimeSpan CacheTimeout = TimeSpan.FromMinutes(5);
+    private static readonly object _cacheLock = new();
 
     public LinkCacheManager(IModLogger logger)
     {
@@ -40,17 +41,20 @@ public class LinkCacheManager
         try
         {
             // Check if we can use cached link cache
-            if (useCache && !forceRefresh && _cachedLinkCache != null)
+            lock (_cacheLock)
             {
-                var cacheAge = DateTime.Now - _cacheTimestamp;
-                if (cacheAge < CacheTimeout && _cacheDataFolder == skyrimDataFolder)
+                if (useCache && !forceRefresh && _cachedLinkCache != null)
                 {
-                    _logger.Debug($"Using cached link cache (age: {cacheAge.TotalSeconds:F1}s)");
-                    return Result<ILinkCache>.Ok(_cachedLinkCache);
-                }
-                else
-                {
-                    _logger.Debug("Cached link cache expired or data folder changed, refreshing");
+                    var cacheAge = DateTime.Now - _cacheTimestamp;
+                    if (cacheAge < CacheTimeout && _cacheDataFolder == skyrimDataFolder)
+                    {
+                        _logger.Debug($"Using cached link cache (age: {cacheAge.TotalSeconds:F1}s)");
+                        return Result<ILinkCache>.Ok(_cachedLinkCache);
+                    }
+                    else
+                    {
+                        _logger.Debug("Cached link cache expired or data folder changed, refreshing");
+                    }
                 }
             }
 
@@ -119,9 +123,12 @@ public class LinkCacheManager
             var linkCache = loadOrder.ToImmutableLinkCache();
 
             // Cache the result
-            _cachedLinkCache = linkCache;
-            _cacheTimestamp = DateTime.Now;
-            _cacheDataFolder = skyrimDataFolder;
+            lock (_cacheLock)
+            {
+                _cachedLinkCache = linkCache;
+                _cacheTimestamp = DateTime.Now;
+                _cacheDataFolder = skyrimDataFolder;
+            }
 
             _logger.Info($"Created link cache with {loadOrder.Count} master file(s)");
             return Result<ILinkCache>.Ok(linkCache);
@@ -225,9 +232,12 @@ public class LinkCacheManager
     public void ClearCache()
     {
         _logger.Debug("Clearing cached link cache");
-        _cachedLinkCache = null;
-        _cacheTimestamp = DateTime.MinValue;
-        _cacheDataFolder = null;
+        lock (_cacheLock)
+        {
+            _cachedLinkCache = null;
+            _cacheTimestamp = DateTime.MinValue;
+            _cacheDataFolder = null;
+        }
     }
 
     /// <summary>

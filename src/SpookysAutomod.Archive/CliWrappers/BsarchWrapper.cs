@@ -28,21 +28,21 @@ public class BsarchWrapper
     /// <summary>
     /// Check if BSArch is available, downloading if needed.
     /// </summary>
-    public async Task<Result<string>> EnsureAvailableAsync()
+    public Task<Result<string>> EnsureAvailableAsync()
     {
         if (_bsarchPath != null && File.Exists(_bsarchPath))
-            return Result<string>.Ok(_bsarchPath);
+            return Task.FromResult(Result<string>.Ok(_bsarchPath));
 
         var expectedPath = Path.Combine(_toolsDir, "bsarch.exe");
 
         if (File.Exists(expectedPath))
         {
             _bsarchPath = expectedPath;
-            return Result<string>.Ok(_bsarchPath);
+            return Task.FromResult(Result<string>.Ok(_bsarchPath));
         }
 
         // BSArch needs to be downloaded manually as it's part of xEdit (7z archive)
-        return Result<string>.Fail(
+        return Task.FromResult(Result<string>.Fail(
             "BSArch not found",
             suggestions: new List<string>
             {
@@ -50,7 +50,7 @@ public class BsarchWrapper
                 "Extract BSArch.exe from the 7z archive",
                 $"Place bsarch.exe in: {_toolsDir}",
                 "Or download from Nexus Mods: https://www.nexusmods.com/newvegas/mods/64745"
-            });
+            }));
     }
 
     /// <summary>

@@ -489,7 +489,9 @@ public class ArchiveService
                     suggestions: new List<string> { "Check that source files exist and are accessible" });
             }
 
-            // Delete original archive before repacking (BSArch cannot overwrite)
+            // Backup original archive before repacking
+            var backupPath = archivePath + ".bak";
+            File.Copy(archivePath, backupPath, overwrite: true);
             File.Delete(archivePath);
 
             // Repack archive
@@ -501,8 +503,17 @@ public class ArchiveService
             var createResult = await CreateAsync(tempDir, archivePath, options);
             if (!createResult.Success)
             {
+                // Restore backup on failure
+                if (File.Exists(backupPath))
+                {
+                    File.Move(backupPath, archivePath, overwrite: true);
+                    _logger.Debug("Restored archive from backup after repack failure");
+                }
                 return Result<ArchiveEditResult>.Fail($"Failed to repack archive: {createResult.Error}");
             }
+
+            // Clean up backup on success
+            if (File.Exists(backupPath)) File.Delete(backupPath);
 
             return Result<ArchiveEditResult>.Ok(new ArchiveEditResult
             {
@@ -606,7 +617,9 @@ public class ArchiveService
                     });
             }
 
-            // Delete original archive before repacking (BSArch cannot overwrite)
+            // Backup original archive before repacking
+            var backupPath = archivePath + ".bak";
+            File.Copy(archivePath, backupPath, overwrite: true);
             File.Delete(archivePath);
 
             // Repack archive
@@ -618,8 +631,17 @@ public class ArchiveService
             var createResult = await CreateAsync(tempDir, archivePath, options);
             if (!createResult.Success)
             {
+                // Restore backup on failure
+                if (File.Exists(backupPath))
+                {
+                    File.Move(backupPath, archivePath, overwrite: true);
+                    _logger.Debug("Restored archive from backup after repack failure");
+                }
                 return Result<ArchiveEditResult>.Fail($"Failed to repack archive: {createResult.Error}");
             }
+
+            // Clean up backup on success
+            if (File.Exists(backupPath)) File.Delete(backupPath);
 
             var remainingFiles = Directory.GetFiles(tempDir, "*", SearchOption.AllDirectories).Length;
 
@@ -738,7 +760,9 @@ public class ArchiveService
                     });
             }
 
-            // Delete original archive before repacking (BSArch cannot overwrite)
+            // Backup original archive before repacking
+            var backupPath = archivePath + ".bak";
+            File.Copy(archivePath, backupPath, overwrite: true);
             File.Delete(archivePath);
 
             // Repack archive
@@ -750,8 +774,17 @@ public class ArchiveService
             var createResult = await CreateAsync(tempDir, archivePath, options);
             if (!createResult.Success)
             {
+                // Restore backup on failure
+                if (File.Exists(backupPath))
+                {
+                    File.Move(backupPath, archivePath, overwrite: true);
+                    _logger.Debug("Restored archive from backup after repack failure");
+                }
                 return Result<ArchiveEditResult>.Fail($"Failed to repack archive: {createResult.Error}");
             }
+
+            // Clean up backup on success
+            if (File.Exists(backupPath)) File.Delete(backupPath);
 
             var totalFiles = Directory.GetFiles(tempDir, "*", SearchOption.AllDirectories).Length;
 

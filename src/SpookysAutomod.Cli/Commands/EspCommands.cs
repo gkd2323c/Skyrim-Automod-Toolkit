@@ -31,6 +31,7 @@ public static class EspCommands
         espCommand.AddCommand(CreateAddNpcCommand());
         espCommand.AddCommand(CreateAddBookCommand());
         espCommand.AddCommand(CreateAddPerkCommand());
+        espCommand.AddCommand(CreateAddFactionCommand());
         espCommand.AddCommand(CreateAttachScriptCommand());
         espCommand.AddCommand(CreateSetPropertyCommand());
         espCommand.AddCommand(CreateGenerateSeqCommand());
@@ -47,6 +48,7 @@ public static class EspCommands
         espCommand.AddCommand(CreateViewRecordCommand());
         espCommand.AddCommand(CreateOverrideCommand());
         espCommand.AddCommand(CreateFindRecordCommand());
+        espCommand.AddCommand(CreateListRecordsCommand());
         espCommand.AddCommand(CreateBatchOverrideCommand());
         espCommand.AddCommand(CreateCompareRecordCommand());
         espCommand.AddCommand(CreateConflictsCommand());
@@ -55,6 +57,8 @@ public static class EspCommands
         espCommand.AddCommand(CreateAddConditionCommand());
         espCommand.AddCommand(CreateAddPackageCommand());
         espCommand.AddCommand(CreateAttachPackageCommand());
+        espCommand.AddCommand(CreateRemoveRecordCommand());
+        espCommand.AddCommand(CreateCloneRecordCommand());
 
         return espCommand;
     }
@@ -520,6 +524,105 @@ public static class EspCommands
             }
         }, pluginArg, editorIdArg, typeOption, valueOption, dryRunOption,
            _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateAddFactionCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var editorIdArg = new Argument<string>("editorId", "Editor ID for the faction");
+        var nameOption = new Option<string?>("--name", "Display name of the faction");
+        var hiddenOption = new Option<bool>("--hidden-from-pc", "Hide faction from player's faction list");
+        var trackCrimeOption = new Option<bool>("--track-crime", "Faction tracks crimes against its members");
+        var specialCombatOption = new Option<bool>("--special-combat", "Enable special combat behavior");
+        var canBeOwnerOption = new Option<bool>("--can-be-owner", "Faction can own items and properties");
+        var vendorOption = new Option<bool>("--vendor", "Faction acts as vendor faction");
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without saving");
+
+        var cmd = new Command("add-faction", "Add a faction record to a plugin")
+        {
+            pluginArg, editorIdArg, nameOption, hiddenOption, trackCrimeOption,
+            specialCombatOption, canBeOwnerOption, vendorOption, dryRunOption
+        };
+
+        cmd.SetHandler((context) =>
+        {
+            var plugin = context.ParseResult.GetValueForArgument(pluginArg);
+            var editorId = context.ParseResult.GetValueForArgument(editorIdArg);
+            var name = context.ParseResult.GetValueForOption(nameOption);
+            var hiddenFromPC = context.ParseResult.GetValueForOption(hiddenOption);
+            var trackCrime = context.ParseResult.GetValueForOption(trackCrimeOption);
+            var specialCombat = context.ParseResult.GetValueForOption(specialCombatOption);
+            var canBeOwner = context.ParseResult.GetValueForOption(canBeOwnerOption);
+            var vendor = context.ParseResult.GetValueForOption(vendorOption);
+            var dryRun = context.ParseResult.GetValueForOption(dryRunOption);
+            var json = context.ParseResult.GetValueForOption(_jsonOption);
+            var verbose = context.ParseResult.GetValueForOption(_verboseOption);
+
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            var loadResult = service.LoadPluginForEdit(plugin);
+            if (!loadResult.Success) { OutputError(loadResult.Error!, json); return; }
+
+            var mod = loadResult.Value!;
+            var builder = new FactionBuilder(mod, editorId);
+
+            if (!string.IsNullOrEmpty(name)) builder.WithName(name);
+            if (hiddenFromPC) builder.HiddenFromPC();
+            if (trackCrime) builder.TrackCrime();
+            if (specialCombat) builder.SpecialCombat();
+            if (canBeOwner) builder.CanBeOwner();
+            if (vendor) builder.AsVendor();
+
+            var faction = builder.Build();
+
+            Result saveResult;
+            if (dryRun)
+            {
+                saveResult = Result.Ok($"{plugin} (DRY RUN - not saved)");
+            }
+            else
+            {
+                saveResult = service.SavePlugin(mod, plugin);
+            }
+
+            if (json)
+            {
+                if (saveResult.Success)
+                {
+                    Console.WriteLine(new
+                    {
+                        success = true,
+                        result = new
+                        {
+                            editorId = faction.EditorID,
+                            formId = faction.FormKey.ToString(),
+                            flags = faction.Flags.ToString(),
+                            dryRun
+                        }
+                    }.ToJson());
+                }
+                else
+                {
+                    Console.WriteLine(new { success = false, error = saveResult.Error }.ToJson());
+                    Environment.ExitCode = 1;
+                }
+            }
+            else if (saveResult.Success)
+            {
+                var msg = $"Added faction: {faction.EditorID} ({faction.FormKey})";
+                if (faction.Flags != 0) msg += $" [Flags: {faction.Flags}]";
+                if (dryRun) msg += " [DRY RUN - not saved]";
+                Console.WriteLine(msg);
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {saveResult.Error}");
+                Environment.ExitCode = 1;
+            }
+        });
 
         return cmd;
     }
@@ -2613,6 +2716,70 @@ public static class EspCommands
         return cmd;
     }
 
+    private static Command CreateListRecordsCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var typeOption = new Option<string?>("--type", "Record type to filter (e.g., weapon, armor, npc, quest, spell)");
+        var limitOption = new Option<int>("--limit", () => 100, "Maximum number of records to return");
+
+        var cmd = new Command("list-records", "List all records in a plugin, optionally filtered by type")
+        {
+            pluginArg, typeOption, limitOption
+        };
+
+        cmd.SetHandler((plugin, type, limit, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            // Use FindRecords with wildcard pattern
+            var result = service.FindRecords("*", null, type, plugin, null, false);
+
+            if (json)
+            {
+                if (result.Success && result.Value != null)
+                {
+                    var records = result.Value.Take(limit).ToList();
+                    Console.WriteLine(Result<List<RecordSearchResult>>.Ok(records).ToJson(true));
+                }
+                else
+                {
+                    Console.WriteLine(result.ToJson(true));
+                }
+            }
+            else if (result.Success && result.Value != null)
+            {
+                var records = result.Value;
+                var total = records.Count;
+                var displayed = records.Take(limit).ToList();
+
+                Console.WriteLine($"Records in {Path.GetFileName(plugin)}:");
+                if (!string.IsNullOrEmpty(type))
+                    Console.WriteLine($"Filter: {type}");
+                Console.WriteLine($"Total: {total}{(total > limit ? $" (showing first {limit})" : "")}");
+                Console.WriteLine();
+
+                foreach (var record in displayed)
+                {
+                    var nameStr = !string.IsNullOrEmpty(record.Name) ? $" - {record.Name}" : "";
+                    Console.WriteLine($"  [{record.RecordType}] {record.EditorId ?? "(no EditorID)"}{nameStr} ({record.FormKey})");
+                }
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (result.Suggestions != null)
+                {
+                    foreach (var s in result.Suggestions)
+                        Console.Error.WriteLine($"  - {s}");
+                }
+                Environment.ExitCode = 1;
+            }
+        }, pluginArg, typeOption, limitOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
     private static Command CreateBatchOverrideCommand()
     {
         var sourceArg = new Argument<string>("source", "Path to the source plugin");
@@ -3245,6 +3412,7 @@ public static class EspCommands
                         Console.Error.WriteLine($"  - {suggestion}");
                     }
                 }
+                Environment.ExitCode = 1;
             }
         });
 
@@ -3299,6 +3467,172 @@ public static class EspCommands
             }
         },
         pluginArg, npcOption, packageOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateRemoveRecordCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var editorIdArg = new Argument<string>("editorId", "Editor ID of the record to remove");
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without saving");
+
+        var cmd = new Command("remove-record", "Remove a record from a plugin by EditorID")
+        {
+            pluginArg, editorIdArg, dryRunOption
+        };
+
+        cmd.SetHandler((plugin, editorId, dryRun, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            var loadResult = service.LoadPluginForEdit(plugin);
+            if (!loadResult.Success) { OutputError(loadResult.Error!, json); return; }
+
+            var mod = loadResult.Value!;
+
+            if (dryRun)
+            {
+                // Verify record exists without removing
+                var findResult = service.FindRecords(null, editorId, null, plugin, null, false);
+                if (findResult.Success && findResult.Value != null && findResult.Value.Count > 0)
+                {
+                    var record = findResult.Value[0];
+                    if (json)
+                    {
+                        Console.WriteLine(new
+                        {
+                            success = true,
+                            result = new { editorId = record.EditorId, formKey = record.FormKey, type = record.RecordType, dryRun = true }
+                        }.ToJson());
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Would remove: [{record.RecordType}] {record.EditorId} ({record.FormKey}) [DRY RUN - not saved]");
+                    }
+                }
+                else
+                {
+                    OutputError($"Record not found: {editorId}", json);
+                }
+                return;
+            }
+
+            var removeResult = service.RemoveRecord(mod, editorId);
+            if (!removeResult.Success) { OutputError(removeResult.Error!, json, removeResult.Suggestions); return; }
+
+            var saveResult = service.SavePlugin(mod, plugin);
+
+            if (json)
+            {
+                if (saveResult.Success)
+                    Console.WriteLine(new { success = true, result = new { editorId, removed = true } }.ToJson());
+                else
+                {
+                    Console.WriteLine(new { success = false, error = saveResult.Error }.ToJson());
+                    Environment.ExitCode = 1;
+                }
+            }
+            else if (saveResult.Success)
+            {
+                Console.WriteLine($"Removed record: {editorId}");
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {saveResult.Error}");
+                Environment.ExitCode = 1;
+            }
+        }, pluginArg, editorIdArg, dryRunOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateCloneRecordCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var sourceArg = new Argument<string>("source", "Editor ID of the record to clone");
+        var newEditorIdArg = new Argument<string>("newEditorId", "Editor ID for the cloned record");
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without saving");
+
+        var cmd = new Command("clone-record", "Clone a record with a new EditorID and FormKey")
+        {
+            pluginArg, sourceArg, newEditorIdArg, dryRunOption
+        };
+
+        cmd.SetHandler((plugin, source, newEditorId, dryRun, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            var loadResult = service.LoadPluginForEdit(plugin);
+            if (!loadResult.Success) { OutputError(loadResult.Error!, json); return; }
+
+            var mod = loadResult.Value!;
+
+            if (dryRun)
+            {
+                var findResult = service.FindRecords(null, source, null, plugin, null, false);
+                if (findResult.Success && findResult.Value != null && findResult.Value.Count > 0)
+                {
+                    var record = findResult.Value[0];
+                    if (json)
+                    {
+                        Console.WriteLine(new
+                        {
+                            success = true,
+                            result = new { sourceEditorId = source, newEditorId, type = record.RecordType, dryRun = true }
+                        }.ToJson());
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Would clone: [{record.RecordType}] {source} -> {newEditorId} [DRY RUN - not saved]");
+                    }
+                }
+                else
+                {
+                    OutputError($"Source record not found: {source}", json);
+                }
+                return;
+            }
+
+            var cloneResult = service.CloneRecord(mod, source, newEditorId);
+            if (!cloneResult.Success) { OutputError(cloneResult.Error!, json, cloneResult.Suggestions); return; }
+
+            var saveResult = service.SavePlugin(mod, plugin);
+
+            if (json)
+            {
+                if (saveResult.Success)
+                {
+                    Console.WriteLine(new
+                    {
+                        success = true,
+                        result = new
+                        {
+                            sourceEditorId = source,
+                            editorId = cloneResult.Value!.EditorId,
+                            formKey = cloneResult.Value.FormKey,
+                            type = cloneResult.Value.RecordType
+                        }
+                    }.ToJson());
+                }
+                else
+                {
+                    Console.WriteLine(new { success = false, error = saveResult.Error }.ToJson());
+                    Environment.ExitCode = 1;
+                }
+            }
+            else if (saveResult.Success)
+            {
+                Console.WriteLine($"Cloned: {source} -> {newEditorId} ({cloneResult.Value!.FormKey})");
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {saveResult.Error}");
+                Environment.ExitCode = 1;
+            }
+        }, pluginArg, sourceArg, newEditorIdArg, dryRunOption, _jsonOption, _verboseOption);
 
         return cmd;
     }

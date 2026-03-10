@@ -54,20 +54,20 @@ public class ChampollionWrapper : ICliWrapper
         return File.Exists(path);
     }
 
-    public async Task<Result<string>> GetVersionAsync()
+    public Task<Result<string>> GetVersionAsync()
     {
         if (!IsAvailable())
         {
-            return Result<string>.Fail(
+            return Task.FromResult(Result<string>.Fail(
                 "Champollion not found",
                 suggestions: new List<string>
                 {
                     "Run 'spookys-automod papyrus download' to download the decompiler"
-                });
+                }));
         }
 
         // Champollion doesn't have a --version flag, just return "available"
-        return Result<string>.Ok("available");
+        return Task.FromResult(Result<string>.Ok("available"));
     }
 
     public async Task<Result> DownloadAsync()
