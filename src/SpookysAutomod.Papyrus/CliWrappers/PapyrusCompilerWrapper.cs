@@ -330,10 +330,9 @@ public class PapyrusCompilerWrapper : ICliWrapper
         if (output.Contains("unable to locate script", StringComparison.OrdinalIgnoreCase))
         {
             suggestions.Add("Missing import/header files for referenced scripts");
-            suggestions.Add("Install required header files:");
-            suggestions.Add("  - SKSE: Download from https://skse.silverlock.org/");
-            suggestions.Add("  - SkyUI: Download SDK from https://github.com/schlangster/skyui/wiki");
-            suggestions.Add("  - Extract to tools/papyrus-compiler/headers/skse and /skyui");
+            suggestions.Add("Run 'papyrus setup-headers' to auto-copy Skyrim script headers");
+            suggestions.Add("For SKSE headers: Download from https://skse.silverlock.org/");
+            suggestions.Add("For SkyUI headers: Download SDK from https://github.com/schlangster/skyui/wiki");
         }
 
         // SKSE function errors
@@ -366,7 +365,7 @@ public class PapyrusCompilerWrapper : ICliWrapper
         if (output.Contains("unknown type", StringComparison.OrdinalIgnoreCase) ||
             output.Contains("invalid type", StringComparison.OrdinalIgnoreCase))
         {
-            suggestions.Add("Missing script headers - check that required headers are installed");
+            suggestions.Add("Missing script headers - run 'papyrus setup-headers' to install base Skyrim headers");
         }
 
         if (suggestions.Count == 0)

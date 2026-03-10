@@ -21,6 +21,7 @@ public static class PapyrusCommands
 
         papyrusCommand.AddCommand(CreateDownloadCommand());
         papyrusCommand.AddCommand(CreateStatusCommand());
+        papyrusCommand.AddCommand(CreateSetupHeadersCommand());
         papyrusCommand.AddCommand(CreateCompileCommand());
         papyrusCommand.AddCommand(CreateDecompileCommand());
         papyrusCommand.AddCommand(CreateValidateCommand());
@@ -105,6 +106,75 @@ public static class PapyrusCommands
                 }
             }
         }, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateSetupHeadersCommand()
+    {
+        var skyrimPathOption = new Option<string?>(
+            aliases: new[] { "--skyrim-path", "-s" },
+            description: "Path to Skyrim SE installation (auto-detected if not provided)");
+        var targetOption = new Option<string?>(
+            aliases: new[] { "--target", "-t" },
+            description: "Target directory for headers (default: ./skyrim-script-headers/)");
+
+        var cmd = new Command("setup-headers", "Copy Papyrus script headers from your Skyrim installation")
+        {
+            skyrimPathOption,
+            targetOption
+        };
+
+        cmd.SetHandler((skyrimPath, target, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new PapyrusService(logger);
+
+            var result = service.SetupHeaders(skyrimPath, target);
+
+            if (json)
+            {
+                if (result.Success)
+                {
+                    Console.WriteLine(new
+                    {
+                        success = true,
+                        result = new
+                        {
+                            targetDirectory = result.Value!.TargetDirectory,
+                            sourceDirectory = result.Value.SourceDirectory,
+                            copiedCount = result.Value.CopiedCount
+                        }
+                    }.ToJson());
+                }
+                else
+                {
+                    Console.WriteLine(Result.Fail(result.Error!, result.ErrorContext, result.Suggestions).ToJson(true));
+                }
+            }
+            else if (result.Success)
+            {
+                Console.WriteLine("Script headers set up successfully!");
+                Console.WriteLine($"  Source: {result.Value!.SourceDirectory}");
+                Console.WriteLine($"  Target: {result.Value.TargetDirectory}");
+                Console.WriteLine($"  Copied: {result.Value.CopiedCount} file(s)");
+                Console.WriteLine();
+                Console.WriteLine("You can now compile Papyrus scripts without specifying --headers.");
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (!string.IsNullOrEmpty(result.ErrorContext))
+                    Console.Error.WriteLine($"\n{result.ErrorContext}");
+                if (result.Suggestions?.Count > 0)
+                {
+                    Console.Error.WriteLine("\nSuggestions:");
+                    foreach (var s in result.Suggestions)
+                        Console.Error.WriteLine($"  - {s}");
+                }
+                Environment.ExitCode = 1;
+            }
+        }, skyrimPathOption, targetOption, _jsonOption, _verboseOption);
 
         return cmd;
     }

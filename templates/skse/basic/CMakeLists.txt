@@ -39,32 +39,18 @@ if(MSVC)
 endif()
 
 # ========================================
-# Dependencies
+# Dependencies - Auto-downloaded via FetchContent
 # ========================================
+include(FetchContent)
 
-# Option 1: Use VCPKG (recommended)
-# Uncomment these lines if you have VCPKG set up:
-find_package(CommonLibSSE CONFIG REQUIRED)
-# find_package(spdlog CONFIG REQUIRED)
-# find_package(xbyak CONFIG REQUIRED)
-
-# Option 2: Manual vendor/ folder (for users without global VCPKG)
-# Download and extract the following into vendor/:
-# - CommonLibSSE-NG: https://github.com/CharmedBaryon/CommonLibSSE-NG
-# - spdlog: https://github.com/gabime/spdlog
-# - xbyak: https://github.com/herumi/xbyak
-
-# Uncomment these lines for manual vendor setup:
-# set(CommonLibSSE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/vendor/CommonLibSSE-NG")
-# set(spdlog_DIR "${CMAKE_CURRENT_SOURCE_DIR}/vendor/spdlog")
-# set(xbyak_DIR "${CMAKE_CURRENT_SOURCE_DIR}/vendor/xbyak")
-#
-# add_subdirectory("${CommonLibSSE_DIR}" CommonLibSSE EXCLUDE_FROM_ALL)
-# add_subdirectory("${spdlog_DIR}" spdlog EXCLUDE_FROM_ALL)
-#
-# # Xbyak is header-only, just add include directory
-# add_library(xbyak INTERFACE)
-# target_include_directories(xbyak INTERFACE "${xbyak_DIR}")
+message(STATUS "Fetching CommonLibSSE-NG (this may take a few minutes on first build)...")
+FetchContent_Declare(
+    CommonLibSSE
+    GIT_REPOSITORY https://github.com/CharmedBaryon/CommonLibSSE-NG.git
+    GIT_TAG v3.7.0
+    GIT_SHALLOW TRUE
+)
+FetchContent_MakeAvailable(CommonLibSSE)
 
 # ========================================
 # Source Files

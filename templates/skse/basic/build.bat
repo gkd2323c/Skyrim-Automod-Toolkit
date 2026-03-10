@@ -2,20 +2,17 @@
 REM ========================================
 REM {{PROJECT_NAME}} Build Script
 REM ========================================
-REM This script simplifies building on Windows CMD
+REM Dependencies (CommonLibSSE-NG) are auto-downloaded via CMake FetchContent.
+REM Just run this script from a VS Developer Command Prompt.
 
 setlocal enabledelayedexpansion
 
 set "BUILD_DIR=build"
 set "CONFIG=Release"
-set "USE_VCPKG=1"
 
 REM Parse arguments
 :parse_args
 if "%~1"=="" goto :end_parse_args
-if /i "%~1"=="--no-vcpkg" (
-    set "USE_VCPKG=0"
-)
 if /i "%~1"=="--debug" (
     set "CONFIG=Debug"
 )
@@ -32,42 +29,11 @@ goto :parse_args
 echo ========================================
 echo Building {{PROJECT_NAME}}
 echo Configuration: %CONFIG%
-echo VCPKG: %USE_VCPKG%
 echo ========================================
 
-REM Create build directory
-if not exist "%BUILD_DIR%" (
-    mkdir "%BUILD_DIR%"
-)
-
-cd "%BUILD_DIR%"
-
-REM Configure CMake
-if "%USE_VCPKG%"=="1" (
-    echo Configuring with VCPKG...
-    if not defined VCPKG_ROOT (
-        set "VCPKG_ROOT=C:\vcpkg"
-    )
-
-    if not exist "!VCPKG_ROOT!\scripts\buildsystems\vcpkg.cmake" (
-        echo ERROR: VCPKG not found at !VCPKG_ROOT!
-        echo.
-        echo Please install VCPKG or use --no-vcpkg flag
-        echo.
-        echo To install VCPKG:
-        echo   git clone https://github.com/Microsoft/vcpkg.git C:\vcpkg
-        echo   cd C:\vcpkg
-        echo   .\bootstrap-vcpkg.bat
-        echo   vcpkg integrate install
-        echo   vcpkg install commonlibsse-ng:x64-windows-static
-        exit /b 1
-    )
-
-    cmake .. -DCMAKE_TOOLCHAIN_FILE="!VCPKG_ROOT!\scripts\buildsystems\vcpkg.cmake"
-) else (
-    echo Configuring without VCPKG (using vendor/)...
-    cmake ..
-)
+REM Configure CMake (FetchContent downloads CommonLibSSE-NG automatically)
+echo Configuring... (first build may take a few minutes to download dependencies)
+cmake -B "%BUILD_DIR%" -S .
 
 if errorlevel 1 (
     echo.
@@ -76,15 +42,14 @@ if errorlevel 1 (
     echo Troubleshooting:
     echo   1. Make sure MSVC Build Tools are installed
     echo   2. Run this from "x64 Native Tools Command Prompt for VS 2022"
-    echo   3. If using VCPKG, ensure dependencies are installed
-    echo   4. If not using VCPKG, ensure vendor/ folder has all dependencies
+    echo   3. Check that you have internet access (needed for first build)
     exit /b 1
 )
 
 REM Build
 echo.
 echo Building...
-cmake --build . --config %CONFIG%
+cmake --build "%BUILD_DIR%" --config %CONFIG%
 
 if errorlevel 1 (
     echo.
@@ -104,5 +69,3 @@ echo To install:
 echo   1. Copy the DLL to: ^<Skyrim^>\Data\SKSE\Plugins\
 echo   2. Launch Skyrim with SKSE
 echo ========================================
-
-cd ..

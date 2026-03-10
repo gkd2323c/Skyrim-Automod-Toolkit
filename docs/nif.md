@@ -67,7 +67,9 @@ Textures (3):
 
 ---
 
-### scale
+### scale (Not Yet Implemented)
+
+> **Status:** This command is planned but not yet implemented. Use NifSkope or Outfit Studio for mesh scaling.
 
 Scale a NIF mesh uniformly.
 
@@ -85,18 +87,6 @@ nif scale <nif> <factor> [options]
 | Option | Default | Description |
 |--------|---------|-------------|
 | `--output`, `-o` | input file | Output file path |
-
-**Examples:**
-```bash
-# Scale to 150%, overwrite original
-nif scale "./Meshes/weapon.nif" 1.5
-
-# Scale to 50%, save to new file
-nif scale "./Meshes/weapon.nif" 0.5 --output "./Meshes/weapon_small.nif"
-
-# Double size
-nif scale "./Meshes/weapon.nif" 2.0 --output "./Meshes/weapon_large.nif"
-```
 
 ---
 
@@ -159,22 +149,38 @@ nif copy "./Meshes/weapon.nif" --output "./Meshes/weapon_copy.nif"
 
 ## Limitations
 
-This module can:
-- Read NIF file information
-- List referenced textures
-- Scale meshes uniformly
-- Copy/validate NIF files
+This module is designed for **inspection and diagnostics**, not mesh editing. It uses the NiflySharp library which provides read-only access to most NIF data.
 
-This module cannot:
-- Create new meshes from scratch
-- Edit mesh geometry (vertices, faces)
-- Retexture meshes
-- Create or edit rigging/skinning
-- Convert between NIF versions
+### What This Module Can Do
 
-For advanced mesh editing, use:
-- **Blender** + **NifTools** addon
-- **NifSkope** for direct editing
+- Read NIF file headers (version, format, game compatibility)
+- List all texture paths referenced in a mesh
+- Copy NIF files with format validation
+- Provide data for AI assistants to diagnose mesh issues
+
+### What This Module Cannot Do
+
+- **Scale meshes** - Command exists but is not yet implemented
+- **Create new meshes** - Use Blender with NifTools addon
+- **Edit geometry** (vertices, faces, UV maps) - Use NifSkope or Blender
+- **Retexture meshes** (change texture paths) - Use NifSkope
+- **Edit rigging/skinning** - Use Outfit Studio
+- **Convert between NIF versions** (LE ↔ SE) - Use Cathedral Assets Optimizer or NIF Optimizer
+- **Validate shader settings** - Use NifSkope to inspect BSLightingShaderProperty
+- **Edit vertex colors or alpha** - Use NifSkope or Outfit Studio
+
+### Recommended Tools for Mesh Work
+
+| Tool | Best For |
+|------|----------|
+| **NifSkope** | Direct NIF editing, texture path changes, shader inspection |
+| **Outfit Studio** | Armor/body mesh editing, weight painting, batch operations |
+| **Blender + NifTools** | Creating new meshes, complex geometry edits |
+| **Cathedral Assets Optimizer** | Batch NIF conversion (LE→SE), texture optimization |
+
+### Why These Limitations Exist
+
+NIF mesh editing is inherently visual work - you need to see the 3D model to make meaningful changes. This toolkit focuses on operations that AI assistants can perform meaningfully through text: reading metadata, finding texture references, and copying files. For anything requiring visual feedback, use the specialized tools above.
 
 ---
 

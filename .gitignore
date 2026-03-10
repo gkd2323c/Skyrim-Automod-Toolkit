@@ -51,3 +51,6 @@ release-prep/
 # Keeping private for now
 CONTRIBUTING.md
 ENHANCEMENTS.md
+
+# Internal notes (not for distribution)
+internal-notes/
