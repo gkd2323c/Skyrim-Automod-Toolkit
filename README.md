@@ -38,7 +38,7 @@ Create new mods, inspect existing ones, edit archives, decompile scripts, view r
 **Option A: Setup Wizard (Recommended)**
 
 1. Download the latest release from [Releases](https://github.com/SpookyPirate/spookys-automod-toolkit/releases)
-2. Extract the ZIP to a folder (e.g., `C:\Tools\spookys-automod-toolkit`)
+2. Extract the ZIP into the root of the mod project you want to work on
 3. Run `SpookysAutomodSetup.exe`
 4. The wizard will:
    - Detect your Skyrim installation (SE/VR)
