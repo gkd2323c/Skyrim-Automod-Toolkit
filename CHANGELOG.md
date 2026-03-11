@@ -25,8 +25,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Wraps CMake configure + build in a single command
     - Supports `--config Release|Debug` and `--clean` options
     - Auto-detects CMake and MSVC availability with helpful error messages
+- **`esp add-faction` command** - Create faction records with flags (HiddenFromPC, TrackCrime, SpecialCombat, CanBeOwner, Vendor)
+- **`esp list-records` command** - List all records in a plugin with optional type filter
+- **`esp remove-record` command** - Remove records by EditorID with dry-run support
+- **`esp clone-record` command** - Deep-copy records with new EditorID/FormKey (17 record types)
+- **Archive backup safety** - Repack operations now create `.bak` backup, auto-restore on failure
 
 ### Fixed
+
+- **SKSE command error handling** - Fixed missing exit codes and inconsistent JSON output patterns
+- **Async warnings** - Fixed CS1998 warnings in PapyrusCompilerWrapper, ChampollionWrapper, BsArchWrapper
+- **Thread safety** - LinkCacheManager static cache now uses lock() for thread safety
 
 - **`skse add-function` crash** - Fixed `JsonIgnoreCondition.WhenWritingNull` error on `Result<bool>` value types by switching to `WhenWritingDefault`
 - **`papyrus decompile` reporting `decompiledCount: 0`** - Single-file decompilation now correctly reports count of 1
