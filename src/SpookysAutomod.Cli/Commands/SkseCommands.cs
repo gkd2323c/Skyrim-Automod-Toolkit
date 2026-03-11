@@ -15,6 +15,7 @@ public static class SkseCommands
         var skseCommand = new Command("skse", "SKSE C++ plugin project management");
 
         skseCommand.AddCommand(CreateCreateCommand(jsonOption, verboseOption));
+        skseCommand.AddCommand(CreateBuildCommand(jsonOption, verboseOption));
         skseCommand.AddCommand(CreateInfoCommand(jsonOption, verboseOption));
         skseCommand.AddCommand(CreateListTemplatesCommand(jsonOption));
         skseCommand.AddCommand(CreateAddFunctionCommand(jsonOption, verboseOption));
@@ -64,8 +65,8 @@ public static class SkseCommands
                     Console.WriteLine();
                     Console.WriteLine("Next steps:");
                     Console.WriteLine($"  cd {result.Value}");
-                    Console.WriteLine("  Run 'cmake -B build -S .' to configure");
-                    Console.WriteLine("  Run 'cmake --build build --config Release' to build");
+                    Console.WriteLine("  Run 'skse build .' to build the plugin");
+                    Console.WriteLine("  Or manually: cmake -B build -S . && cmake --build build --config Release");
                 }
                 else
                 {
@@ -82,6 +83,70 @@ public static class SkseCommands
                 }
             }
         }, nameArg, templateOpt, outputOpt, authorOpt, descriptionOpt, jsonOption, verboseOption);
+
+        return command;
+    }
+
+    private static Command CreateBuildCommand(Option<bool> jsonOption, Option<bool> verboseOption)
+    {
+        var command = new Command("build", "Build an SKSE plugin project using CMake");
+
+        var projectArg = new Argument<string>("project", () => ".", "Project directory");
+        var configOpt = new Option<string>("--config", () => "Release", "Build configuration (Release or Debug)");
+        var cleanOpt = new Option<bool>("--clean", () => false, "Clean build directory before building");
+
+        command.AddArgument(projectArg);
+        command.AddOption(configOpt);
+        command.AddOption(cleanOpt);
+
+        command.SetHandler(async (project, config, clean, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new SkseProjectService(logger);
+
+            if (!json)
+            {
+                Console.WriteLine($"Building SKSE plugin in: {Path.GetFullPath(project)}");
+                Console.WriteLine($"Configuration: {config}");
+                if (clean) Console.WriteLine("Clean build requested");
+                Console.WriteLine();
+            }
+
+            var result = await service.BuildProjectAsync(project, config, clean);
+
+            if (json)
+            {
+                Console.WriteLine(result.ToJson(true));
+            }
+            else
+            {
+                if (result.Success && result.Value != null)
+                {
+                    Console.WriteLine("Build succeeded!");
+                    if (result.Value.OutputDll != null)
+                    {
+                        Console.WriteLine($"Output: {result.Value.OutputDll}");
+                        Console.WriteLine();
+                        Console.WriteLine("To install:");
+                        Console.WriteLine($"  Copy the DLL to: <Skyrim>/Data/SKSE/Plugins/");
+                    }
+                }
+                else
+                {
+                    Console.Error.WriteLine($"Error: {result.Error}");
+                    if (result.Suggestions != null && result.Suggestions.Count > 0)
+                    {
+                        Console.Error.WriteLine();
+                        Console.Error.WriteLine("Suggestions:");
+                        foreach (var suggestion in result.Suggestions)
+                        {
+                            Console.Error.WriteLine($"  - {suggestion}");
+                        }
+                    }
+                    Environment.ExitCode = 1;
+                }
+            }
+        }, projectArg, configOpt, cleanOpt, jsonOption, verboseOption);
 
         return command;
     }

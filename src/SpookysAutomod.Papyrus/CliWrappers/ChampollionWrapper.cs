@@ -133,6 +133,7 @@ public class ChampollionWrapper : ICliWrapper
         return Result<DecompileResult>.Ok(new DecompileResult
         {
             Success = true,
+            DecompiledCount = 1,
             OutputPath = outputPath,
             Output = result.Value ?? ""
         });

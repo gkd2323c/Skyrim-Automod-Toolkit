@@ -331,7 +331,7 @@ dotnet run --project src/SpookysAutomod.Cli -- archive list "BrokenMod.bsa" --li
 # 2. Extract everything for analysis
 dotnet run --project src/SpookysAutomod.Cli -- archive extract "BrokenMod.bsa" --output "./Debug"
 
-# 3. Analyze plugin structuredotnet run --project src/SpookysAutomod.Cli -- esp analyze "./Debug/BrokenMod.esp" --json
+# 3. Analyze plugin structuredotnet run --project src/SpookysAutomod.Cli -- esp info "./Debug/BrokenMod.esp" --json
 
 # 4. Check mesh textures
 dotnet run --project src/SpookysAutomod.Cli -- nif textures "./Debug/meshes/SomeMesh.nif"
@@ -346,7 +346,7 @@ dotnet run --project src/SpookysAutomod.Cli -- papyrus decompile "./Debug/script
 dotnet run --project src/SpookysAutomod.Cli -- archive extract "OriginalMod.bsa" --output "./ModWork"
 
 # 2. Analyze plugin to understand structure
-dotnet run --project src/SpookysAutomod.Cli -- esp analyze "./ModWork/OriginalMod.esp"
+dotnet run --project src/SpookysAutomod.Cli -- esp info "./ModWork/OriginalMod.esp"
 
 # 3. Decompile scripts for modification
 dotnet run --project src/SpookysAutomod.Cli -- papyrus decompile "./ModWork/scripts" --output "./ModWork/Source"

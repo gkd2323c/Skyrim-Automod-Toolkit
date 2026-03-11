@@ -1,6 +1,6 @@
 ---
 name: skyrim-skse
-description: Create and manage SKSE C++ plugin projects. Use when the user wants to create native plugins, add Papyrus native functions, or extend Skyrim's functionality at the native level.
+description: Create, build, and manage SKSE C++ plugin projects. Use when the user wants to create native plugins, build them with CMake, add Papyrus native functions, or extend Skyrim's functionality at the native level.
 ---
 
 # Skyrim SKSE Module
@@ -55,6 +55,16 @@ dotnet run --project src/SpookysAutomod.Cli -- skse create "<name>" [options]
 | `--author` | `Unknown` | Author name |
 | `--description` | - | Project description |
 
+### Build SKSE Project
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- skse build "<project>" [options]
+```
+| Option | Default | Description |
+|--------|---------|-------------|
+| `<project>` | `.` | Project directory |
+| `--config` | `Release` | Build configuration (Release or Debug) |
+| `--clean` | `false` | Clean build directory before building |
+
 ### Get Project Info
 ```bash
 dotnet run --project src/SpookysAutomod.Cli -- skse info "<path>"
@@ -81,11 +91,9 @@ dotnet run --project src/SpookysAutomod.Cli -- skse add-function "<project>" --n
 dotnet run --project src/SpookysAutomod.Cli -- skse create "MyPlugin" --output "./" --author "YourName"
 
 # 2. Build (requires CMake and MSVC)
-cd MyPlugin
-cmake -B build -S .
-cmake --build build --config Release
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin"
 
-# Output: build/Release/MyPlugin.dll
+# Output: MyPlugin/build/Release/MyPlugin.dll
 ```
 
 ### Create Plugin with Papyrus Functions
@@ -101,9 +109,7 @@ dotnet run --project src/SpookysAutomod.Cli -- skse add-function "./MyNativePlug
 dotnet run --project src/SpookysAutomod.Cli -- skse add-function "./MyNativePlugin" --name "GetPluginVersion" --return "Int"
 
 # 3. Build
-cd MyNativePlugin
-cmake -B build -S .
-cmake --build build --config Release
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyNativePlugin"
 ```
 
 ### Check Existing Project
@@ -245,21 +251,24 @@ This toolkit uses **CommonLibSSE-NG** (Next Generation), which provides:
 
 ## Building Projects
 
-### Standard Build
+### Using `skse build` (Recommended)
+```bash
+# Standard build
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin"
+
+# Debug build
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin" --config Debug
+
+# Clean rebuild
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin" --clean
+
+# JSON output
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin" --json
+```
+
+### Manual CMake Build
 ```bash
 cd MyPlugin
-cmake -B build -S .
-cmake --build build --config Release
-```
-
-### Debug Build
-```bash
-cmake --build build --config Debug
-```
-
-### Clean Rebuild
-```bash
-rm -rf build
 cmake -B build -S .
 cmake --build build --config Release
 ```
@@ -278,12 +287,13 @@ cmake --build build --config Release
 
 This module **CAN**:
 - Generate project scaffolding
+- Build projects end-to-end via `skse build` (requires CMake + MSVC)
 - Add Papyrus native function stubs
 - Manage project configuration
 
 This module **CANNOT**:
-- Write custom C++ logic
-- Compile projects (requires local build tools)
+- Write custom C++ logic (generates stubs/templates)
+- Auto-install build tools (user must install CMake and MSVC)
 - Debug plugins
 - Generate complex game hooks
 

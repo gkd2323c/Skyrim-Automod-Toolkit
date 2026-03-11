@@ -93,7 +93,7 @@ public class AutoFillService
                     $"Quest '{questEditorId}' not found",
                     suggestions: new List<string>
                     {
-                        "Use 'esp analyze' to list all quests in the mod",
+                        "Use 'esp info' to list all quests in the mod",
                         "Ensure the quest was added with 'esp add-quest'"
                     });
             }

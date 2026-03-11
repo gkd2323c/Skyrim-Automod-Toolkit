@@ -106,7 +106,7 @@ dotnet run --project src/SpookysAutomod.Cli -- esp auto-fill "FollowerMod.esp" -
 dotnet run --project src/SpookysAutomod.Cli -- esp generate-seq "FollowerMod.esp" --output "./" --json
 
 # 10. Verify with analyze
-dotnet run --project src/SpookysAutomod.Cli -- esp analyze "FollowerMod.esp" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp info "FollowerMod.esp" --json
 ```
 
 **Understanding Quest Aliases:**
@@ -593,7 +593,7 @@ QuestAlias (Mutagen.Bethesda.Skyrim.QuestAlias)
 dotnet run --project src/SpookysAutomod.Cli -- esp info "BrokenMod.esp" --json
 
 # 2. Detailed analysis including scripts, aliases, and properties
-dotnet run --project src/SpookysAutomod.Cli -- esp analyze "BrokenMod.esp" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp info "BrokenMod.esp" --json
 
 # 3. List master dependencies
 dotnet run --project src/SpookysAutomod.Cli -- esp list-masters "BrokenMod.esp" --json
@@ -683,7 +683,7 @@ dotnet run --project src/SpookysAutomod.Cli -- esp add-faction "ExistingMod.esp"
 dotnet run --project src/SpookysAutomod.Cli -- esp add-alias "ExistingMod.esp" --quest "ExistingQuest" --name "NewAlias" --script "AliasScript" --json
 
 # 7. Verify additions
-dotnet run --project src/SpookysAutomod.Cli -- esp analyze "ExistingMod.esp" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp info "ExistingMod.esp" --json
 ```
 
 ### Scale Meshes
@@ -1699,14 +1699,21 @@ dotnet run --project src/SpookysAutomod.Cli -- skse create "MyNativePlugin" --te
 dotnet run --project src/SpookysAutomod.Cli -- skse add-function "./MyNativePlugin" --name "GetActorSpeed" --return "Float" --param "Actor:target" --json
 dotnet run --project src/SpookysAutomod.Cli -- skse add-function "./MyNativePlugin" --name "SetActorSpeed" --return "void" --param "Actor:target" --param "Float:speed" --json
 
-# 4. Build with CMake (no Visual Studio IDE needed)
-cd MyNativePlugin
-cmake -B build -S .
-cmake --build build --config Release
+# 4. Build using the toolkit (no Visual Studio IDE needed)
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyNativePlugin" --json
 
 # 5. Output DLL ready to use
-# Result: build/Release/MyNativePlugin.dll
+# Result: MyNativePlugin/build/Release/MyNativePlugin.dll
 # Install to: Data/SKSE/Plugins/MyNativePlugin.dll
+```
+
+**Build options:**
+```bash
+# Debug build
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyNativePlugin" --config Debug --json
+
+# Clean rebuild
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyNativePlugin" --clean --json
 ```
 
 **If build tools missing:**
@@ -1758,8 +1765,7 @@ When success is false:
 | Task | Command |
 |------|---------|
 | Create plugin | `esp create name [--light] [--author]` |
-| Get info | `esp info plugin` |
-| Detailed analysis | `esp analyze plugin` |
+| Plugin info/analysis | `esp info plugin` |
 | Add quest | `esp add-quest plugin editorId [--name] [--start-enabled] [--run-once]` |
 | Add spell | `esp add-spell plugin editorId [--name] [--effect] [--magnitude]` |
 | Add perk | `esp add-perk plugin editorId [--name] [--effect] [--bonus] [--playable]` |
@@ -1848,6 +1854,7 @@ When success is false:
 |------|---------|
 | List templates | `skse templates` |
 | Create project | `skse create name --template template [--author] [--output]` |
+| Build project | `skse build project [--config Release\|Debug] [--clean]` |
 | Get info | `skse info project` |
 | Add function | `skse add-function project --name func [--return] [--param]` |
 

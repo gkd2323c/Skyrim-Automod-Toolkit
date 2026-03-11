@@ -35,20 +35,23 @@ Create new mods, inspect existing ones, edit archives, decompile scripts, view r
 
 ## Installation
 
-**Option A: Download ZIP**
+**Option A: Setup Wizard (Recommended)**
 
-1. Click "Code" > "Download ZIP"
-2. Extract to a folder (e.g., `C:\Tools\spookys-automod-toolkit`)
+1. Download the latest release from [Releases](https://github.com/SpookyPirate/spookys-automod-toolkit/releases)
+2. Extract the ZIP to a folder (e.g., `C:\Tools\spookys-automod-toolkit`)
+3. Run `SpookysAutomodSetup.exe`
+4. The wizard will:
+   - Detect your Skyrim installation (SE/VR)
+   - Link Papyrus script headers automatically
+   - Download SKSE headers (SE + VR) and SkyUI headers
+   - Download Papyrus compiler and decompiler
+   - Detect CMake and MSVC build tools
+   - Build and verify the toolkit
 
 **Option B: Git**
 
 ```bash
 git clone https://github.com/SpookyPirate/spookys-automod-toolkit.git
-```
-
-**Build:**
-
-```bash
 cd spookys-automod-toolkit
 dotnet build SpookysAutomod.sln
 ```
@@ -205,15 +208,18 @@ Once tools are installed, the complete workflow is:
 # 1. Generate project
 dotnet run --project src/SpookysAutomod.Cli -- skse create "MyPlugin" --template basic --output "./"
 
-# 2. Configure with CMake
+# 2. Build using the toolkit (recommended)
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin"
+
+# Output: MyPlugin/build/Release/MyPlugin.dll
+```
+
+Or build manually with CMake:
+
+```bash
 cd MyPlugin
 cmake -B build -S .
-
-# 3. Build
 cmake --build build --config Release
-
-# 4. Output DLL
-# Result: build/Release/MyPlugin.dll
 ```
 
 ### Troubleshooting
@@ -331,7 +337,7 @@ This toolkit includes **Claude Code Skills** - specialized instruction files tha
 | `skyrim-archive` | Package or extract BSA files, edit archives | Read, extract, create, and modify archives without full repackaging |
 | `skyrim-nif` | Check meshes, find textures | Inspect and scale 3D mesh files |
 | `skyrim-audio` | Work with voice files | Handle FUZ/XWM/WAV audio |
-| `skyrim-skse` | Create native plugins | Generate SKSE C++ plugin projects |
+| `skyrim-skse` | Create/build native plugins | Generate and build SKSE C++ plugin projects end-to-end |
 
 ### How It Works
 
@@ -669,7 +675,9 @@ mcm validate "./config.json"
 ```bash
 skse templates
 skse create "PluginName" --template basic --output "./"
+skse build "./ProjectFolder" [--config Release|Debug] [--clean]
 skse info "./ProjectFolder"
+skse add-function "./ProjectFolder" --name "FuncName" --return "Int" --param "Actor:target"
 ```
 
 ---

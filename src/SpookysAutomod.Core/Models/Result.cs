@@ -12,7 +12,7 @@ public class Result<T>
     public bool Success { get; init; }
 
     [JsonPropertyName("result")]
-    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
     public T? Value { get; init; }
 
     [JsonPropertyName("error")]
@@ -46,7 +46,7 @@ public class Result<T>
         var options = new JsonSerializerOptions
         {
             WriteIndented = indented,
-            DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull
+            DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault
         };
         return JsonSerializer.Serialize(this, options);
     }

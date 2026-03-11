@@ -44,6 +44,9 @@ tmpclaude-*
 spookys-automod-toolkit.code-workspace
 temp/
 
+# Publish output
+publish/
+
 # Release preparation
 release-staging/
 release-prep/

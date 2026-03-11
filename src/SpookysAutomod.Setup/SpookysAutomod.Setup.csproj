@@ -19,4 +19,8 @@
     <ProjectReference Include="..\SpookysAutomod.Core\SpookysAutomod.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SharpCompress" Version="0.47.0" />
+  </ItemGroup>
+
 </Project>

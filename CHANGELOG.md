@@ -8,6 +8,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.10.0] - 2026-03-11
+
+### Added
+
+- **GUI Setup Wizard** - Standalone `SpookysAutomodSetup.exe` for one-click environment setup
+    - Auto-detects Skyrim SE and VR installations
+    - Links Papyrus script headers from Skyrim's Data folder
+    - Downloads SKSE headers (both SE and VR) from skse.silverlock.org
+    - Downloads SkyUI MCM script headers from GitHub
+    - Downloads Papyrus compiler and Champollion decompiler
+    - Detects CMake and MSVC build tools for SKSE development
+    - Builds and verifies the toolkit automatically
+    - Progress indicator during downloads and build steps
+- **`skse build` command** - Build SKSE C++ projects directly from the toolkit
+    - Wraps CMake configure + build in a single command
+    - Supports `--config Release|Debug` and `--clean` options
+    - Auto-detects CMake and MSVC availability with helpful error messages
+
+### Fixed
+
+- **`skse add-function` crash** - Fixed `JsonIgnoreCondition.WhenWritingNull` error on `Result<bool>` value types by switching to `WhenWritingDefault`
+- **`papyrus decompile` reporting `decompiledCount: 0`** - Single-file decompilation now correctly reports count of 1
+- **Documentation references to non-existent `esp analyze` command** - All references updated to use `esp info` across docs, skills, and error messages
+- **MCM create syntax in docs** - Fixed incorrect `mcm create <file> --mod-name` to correct `mcm create <modName> <displayName> --output <file>`
+
 ## [1.9.1] - 2026-02-04
 
 ### Fixed

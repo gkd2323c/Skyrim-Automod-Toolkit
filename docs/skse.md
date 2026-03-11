@@ -158,21 +158,72 @@ skse add-function "./MyPlugin" --name "GetNearestActor" --return "Actor" --param
 
 ---
 
-## Building Projects
+### build
 
-After creating a project:
+Build an SKSE plugin project using CMake.
 
 ```bash
-# 1. Navigate to project
+skse build <project> [options]
+```
+
+**Arguments:**
+| Argument | Description |
+|----------|-------------|
+| `project` | Project directory (default: current) |
+
+**Options:**
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--config` | `Release` | Build configuration (Release or Debug) |
+| `--clean` | `false` | Clean build directory before building |
+
+**Examples:**
+```bash
+# Build current project
+skse build .
+
+# Build with debug configuration
+skse build "./MyPlugin" --config Debug
+
+# Clean rebuild
+skse build "./MyPlugin" --clean
+
+# JSON output for AI parsing
+skse build "./MyPlugin" --json
+```
+
+**Output includes:**
+- Build success/failure
+- Output DLL path
+- Build directory
+- Configure and build output
+
+---
+
+## Building Projects
+
+### Using the `skse build` Command (Recommended)
+
+The simplest way to build SKSE plugins:
+
+```bash
+# 1. Create project
+skse create "MyPlugin" --output "./"
+
+# 2. Build it
+skse build "./MyPlugin"
+
+# Output: MyPlugin/build/Release/MyPlugin.dll
+```
+
+### Manual CMake Build
+
+You can also build manually:
+
+```bash
 cd MyPlugin
-
-# 2. Configure with CMake
 cmake -B build -S .
-
-# 3. Build
 cmake --build build --config Release
-
-# Output: build/Release/MyPlugin.dll
 ```
 
 ### Build Requirements
@@ -280,7 +331,8 @@ This module **can**:
 - Generate project scaffolding (CMakeLists.txt, C++ source files)
 - Add Papyrus native function stubs
 - Manage project configuration
-- Build projects (when CMake and MSVC Build Tools are installed)
+- Build projects end-to-end via `skse build` (when CMake and MSVC Build Tools are installed)
+- Detect CMake and MSVC availability
 
 This module **cannot**:
 - Write custom C++ logic (generates stubs and templates only)

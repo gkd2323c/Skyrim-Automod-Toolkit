@@ -125,6 +125,34 @@ public class SetupViewModel : INotifyPropertyChanged
         set { _decompilerProgress = value; OnPropertyChanged(); }
     }
 
+    private string _skseHeadersStatus = "Pending";
+    public string SkseHeadersStatus
+    {
+        get => _skseHeadersStatus;
+        set { _skseHeadersStatus = value; OnPropertyChanged(); }
+    }
+
+    private int _skseHeadersProgress;
+    public int SkseHeadersProgress
+    {
+        get => _skseHeadersProgress;
+        set { _skseHeadersProgress = value; OnPropertyChanged(); }
+    }
+
+    private string _skyUiHeadersStatus = "Pending";
+    public string SkyUiHeadersStatus
+    {
+        get => _skyUiHeadersStatus;
+        set { _skyUiHeadersStatus = value; OnPropertyChanged(); }
+    }
+
+    private int _skyUiHeadersProgress;
+    public int SkyUiHeadersProgress
+    {
+        get => _skyUiHeadersProgress;
+        set { _skyUiHeadersProgress = value; OnPropertyChanged(); }
+    }
+
     private bool _toolsComplete;
     public bool ToolsComplete
     {
@@ -145,6 +173,34 @@ public class SetupViewModel : INotifyPropertyChanged
     {
         get => _dotNetOk;
         set { _dotNetOk = value; OnPropertyChanged(); OnPropertyChanged(nameof(CanGoNext)); }
+    }
+
+    private string _cmakeStatus = "";
+    public string CMakeStatus
+    {
+        get => _cmakeStatus;
+        set { _cmakeStatus = value; OnPropertyChanged(); }
+    }
+
+    private bool _cmakeOk;
+    public bool CMakeOk
+    {
+        get => _cmakeOk;
+        set { _cmakeOk = value; OnPropertyChanged(); }
+    }
+
+    private string _msvcStatus = "";
+    public string MsvcStatus
+    {
+        get => _msvcStatus;
+        set { _msvcStatus = value; OnPropertyChanged(); }
+    }
+
+    private bool _msvcOk;
+    public bool MsvcOk
+    {
+        get => _msvcOk;
+        set { _msvcOk = value; OnPropertyChanged(); }
     }
 
     // Step 4: Build
@@ -260,6 +316,7 @@ public class SetupViewModel : INotifyPropertyChanged
     private async Task GoNextAsync()
     {
         IsBusy = true;
+        CommandManager.InvalidateRequerySuggested();
         try
         {
             switch (CurrentStep)
@@ -275,6 +332,7 @@ public class SetupViewModel : INotifyPropertyChanged
         finally
         {
             IsBusy = false;
+            CommandManager.InvalidateRequerySuggested();
         }
     }
 
@@ -332,8 +390,31 @@ public class SetupViewModel : INotifyPropertyChanged
             });
         });
 
+        var skseProgress = new Progress<(int percent, string status)>(p =>
+        {
+            Application.Current.Dispatcher.Invoke(() =>
+            {
+                SkseHeadersProgress = p.percent;
+                SkseHeadersStatus = p.status;
+            });
+        });
+
         CompilerStatus = "Starting...";
         DecompilerStatus = "Starting...";
+        SkseHeadersStatus = "Starting...";
+        SkyUiHeadersStatus = "Starting...";
+
+        // Get Skyrim path for SKSE header detection
+        var skyrimPath = UseCustomPath ? CustomSkyrimPath : SelectedInstallation?.Path ?? "";
+
+        var skyUiProgress = new Progress<(int percent, string status)>(p =>
+        {
+            Application.Current.Dispatcher.Invoke(() =>
+            {
+                SkyUiHeadersProgress = p.percent;
+                SkyUiHeadersStatus = p.status;
+            });
+        });
 
         var compilerTask = _service.DownloadToolAsync(
             "russo-2025", "papyrus-compiler", "papyrus-compiler-windows.zip", "papyrus-compiler", compilerProgress);
@@ -341,17 +422,28 @@ public class SetupViewModel : INotifyPropertyChanged
         var decompilerTask = _service.DownloadToolAsync(
             "Orvid", "Champollion", "Champollion*.zip", "champollion", decompilerProgress);
 
-        await Task.WhenAll(compilerTask, decompilerTask);
+        var skseTask = _service.SetupSkseHeadersAsync(skyrimPath, skseProgress);
+
+        var skyUiTask = _service.SetupSkyUiHeadersAsync(skyUiProgress);
+
+        await Task.WhenAll(compilerTask, decompilerTask, skseTask, skyUiTask);
 
         var compilerResult = await compilerTask;
         var decompilerResult = await decompilerTask;
+        var skseResult = await skseTask;
+        var skyUiResult = await skyUiTask;
 
         CompilerStatus = compilerResult.success ? "Installed" : $"Failed: {compilerResult.message}";
         CompilerProgress = compilerResult.success ? 100 : 0;
         DecompilerStatus = decompilerResult.success ? "Installed" : $"Failed: {decompilerResult.message}";
         DecompilerProgress = decompilerResult.success ? 100 : 0;
+        SkseHeadersStatus = skseResult.success ? "Installed" : $"Skipped: {skseResult.message}";
+        SkseHeadersProgress = skseResult.success ? 100 : 0;
+        SkyUiHeadersStatus = skyUiResult.success ? "Installed" : $"Skipped: {skyUiResult.message}";
+        SkyUiHeadersProgress = skyUiResult.success ? 100 : 0;
 
         ToolsComplete = true; // Allow proceeding even if downloads fail
+        CommandManager.InvalidateRequerySuggested();
     }
 
     private void RunStep3_DotNetCheck()
@@ -361,6 +453,19 @@ public class SetupViewModel : INotifyPropertyChanged
         DotNetStatus = installed
             ? $".NET SDK {version} detected"
             : $".NET 8 SDK not found (detected: {version}).\n\nPlease install from: https://dotnet.microsoft.com/download/dotnet/8.0";
+
+        // Also check CMake and MSVC (for SKSE plugin building)
+        var (cmakeInstalled, cmakeVersion) = _service.CheckCMake();
+        CMakeOk = cmakeInstalled;
+        CMakeStatus = cmakeInstalled
+            ? cmakeVersion
+            : "Not found - needed for SKSE plugin building";
+
+        var (msvcInstalled, msvcVersion) = _service.CheckMsvc();
+        MsvcOk = msvcInstalled;
+        MsvcStatus = msvcInstalled
+            ? msvcVersion
+            : "Not found - needed for SKSE plugin building";
     }
 
     private async Task RunStep4_BuildAsync()
@@ -378,6 +483,7 @@ public class SetupViewModel : INotifyPropertyChanged
         BuildRunning = false;
         BuildSuccess = success;
         BuildStatus = success ? "Build succeeded! The toolkit is ready to use." : $"Build failed:\n{output}";
+        CommandManager.InvalidateRequerySuggested();
     }
 
     private void RunStep5_Finish()

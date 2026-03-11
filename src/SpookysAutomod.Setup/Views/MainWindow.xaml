@@ -343,7 +343,7 @@
                                FontSize="18" FontWeight="SemiBold"
                                Foreground="{StaticResource TextPrimaryBrush}"
                                Margin="0,0,0,8" />
-                    <TextBlock Text="Downloading Papyrus compiler and decompiler from GitHub."
+                    <TextBlock Text="Downloading Papyrus compiler, decompiler, and SKSE headers."
                                FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
                                Margin="0,0,0,16" TextWrapping="Wrap" />
 
@@ -362,7 +362,7 @@
                     </Border>
 
                     <!-- Champollion -->
-                    <Border Style="{StaticResource CardPanel}">
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
                         <StackPanel>
                             <TextBlock Text="Champollion Decompiler"
                                        FontSize="14" FontWeight="SemiBold"
@@ -374,36 +374,117 @@
                                          Style="{StaticResource AccentProgressBar}" />
                         </StackPanel>
                     </Border>
+
+                    <!-- SKSE Headers -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
+                        <StackPanel>
+                            <TextBlock Text="SKSE Script Headers"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="Required for compiling scripts that use SKSE functions."
+                                       FontSize="11" Foreground="{StaticResource TextDimBrush}"
+                                       Margin="0,2,0,0" />
+                            <TextBlock Text="{Binding SkseHeadersStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,6" />
+                            <ProgressBar Value="{Binding SkseHeadersProgress}" Maximum="100"
+                                         Style="{StaticResource AccentProgressBar}" />
+                        </StackPanel>
+                    </Border>
+
+                    <!-- SkyUI Headers -->
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="SkyUI / MCM Script Headers"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="Required for compiling scripts with MCM (Mod Configuration Menu) support."
+                                       FontSize="11" Foreground="{StaticResource TextDimBrush}"
+                                       Margin="0,2,0,0" />
+                            <TextBlock Text="{Binding SkyUiHeadersStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,6" />
+                            <ProgressBar Value="{Binding SkyUiHeadersProgress}" Maximum="100"
+                                         Style="{StaticResource AccentProgressBar}" />
+                        </StackPanel>
+                    </Border>
                 </StackPanel>
 
-                <!-- ==================== STEP 3: .NET Check ==================== -->
+                <!-- ==================== STEP 3: Build Tools Check ==================== -->
                 <StackPanel Visibility="{Binding CurrentStep, Converter={StaticResource StepToVis}, ConverterParameter=3}">
-                    <TextBlock Text=".NET Runtime Check"
+                    <TextBlock Text="Build Tools Check"
                                FontSize="18" FontWeight="SemiBold"
                                Foreground="{StaticResource TextPrimaryBrush}"
                                Margin="0,0,0,8" />
-                    <TextBlock Text="The toolkit requires .NET 8 SDK to build and run."
+                    <TextBlock Text="Checking required build tools. .NET 8 is required for the toolkit. CMake and MSVC are needed for building SKSE C++ plugins."
                                FontSize="13" Foreground="{StaticResource TextSecondaryBrush}"
                                Margin="0,0,0,16" TextWrapping="Wrap" />
 
-                    <Border Style="{StaticResource CardPanel}">
+                    <!-- .NET SDK -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
                         <StackPanel>
+                            <TextBlock Text=".NET 8 SDK (Required)"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
                             <TextBlock Text="{Binding DotNetStatus}"
-                                       FontSize="14" Foreground="{StaticResource TextPrimaryBrush}"
-                                       TextWrapping="Wrap" />
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,0" TextWrapping="Wrap" />
 
-                            <TextBlock Text="Ready to build"
+                            <TextBlock Text="Installed"
                                        Style="{StaticResource StatusSuccess}"
-                                       Margin="0,12,0,0"
+                                       Margin="0,8,0,0"
                                        Visibility="{Binding DotNetOk, Converter={StaticResource BoolToVis}}" />
 
                             <TextBlock Style="{StaticResource StatusError}"
-                                       Margin="0,12,0,0"
+                                       Margin="0,8,0,0"
                                        Visibility="{Binding DotNetOk, Converter={StaticResource BoolToVis}, ConverterParameter=Invert}">
-                                <Run Text=".NET 8 SDK required. Download from:" />
-                                <LineBreak />
-                                <Run Text="https://dotnet.microsoft.com/download/dotnet/8.0"
-                                     Foreground="{StaticResource AccentBrush}" />
+                                <Run Text="Download: https://dotnet.microsoft.com/download/dotnet/8.0" />
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- CMake -->
+                    <Border Style="{StaticResource CardPanel}" Margin="0,0,0,12">
+                        <StackPanel>
+                            <TextBlock Text="CMake 3.24+ (For SKSE Plugins)"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="{Binding CMakeStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,0" TextWrapping="Wrap" />
+
+                            <TextBlock Text="Installed"
+                                       Style="{StaticResource StatusSuccess}"
+                                       Margin="0,8,0,0"
+                                       Visibility="{Binding CMakeOk, Converter={StaticResource BoolToVis}}" />
+
+                            <TextBlock Style="{StaticResource StatusWarning}"
+                                       Margin="0,8,0,0"
+                                       Visibility="{Binding CMakeOk, Converter={StaticResource BoolToVis}, ConverterParameter=Invert}">
+                                <Run Text="Optional - Download: https://cmake.org/download/" />
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- MSVC Build Tools -->
+                    <Border Style="{StaticResource CardPanel}">
+                        <StackPanel>
+                            <TextBlock Text="MSVC Build Tools (For SKSE Plugins)"
+                                       FontSize="14" FontWeight="SemiBold"
+                                       Foreground="{StaticResource TextPrimaryBrush}" />
+                            <TextBlock Text="{Binding MsvcStatus}"
+                                       FontSize="12" Foreground="{StaticResource TextSecondaryBrush}"
+                                       Margin="0,6,0,0" TextWrapping="Wrap" />
+
+                            <TextBlock Text="Installed"
+                                       Style="{StaticResource StatusSuccess}"
+                                       Margin="0,8,0,0"
+                                       Visibility="{Binding MsvcOk, Converter={StaticResource BoolToVis}}" />
+
+                            <TextBlock Style="{StaticResource StatusWarning}"
+                                       Margin="0,8,0,0"
+                                       Visibility="{Binding MsvcOk, Converter={StaticResource BoolToVis}, ConverterParameter=Invert}">
+                                <Run Text="Optional - Download: Visual Studio Build Tools 2022" />
                             </TextBlock>
                         </StackPanel>
                     </Border>
@@ -522,6 +603,16 @@
                         </Style>
                     </Button.Style>
                 </Button>
+
+                <!-- Busy indicator (centered) -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center"
+                            Visibility="{Binding IsBusy, Converter={StaticResource BoolToVis}}">
+                    <ProgressBar IsIndeterminate="True" Width="120" Height="4"
+                                 Style="{StaticResource AccentProgressBar}" Margin="0,0,8,0" />
+                    <TextBlock Text="Working..." FontSize="12"
+                               Foreground="{StaticResource AccentBrush}"
+                               VerticalAlignment="Center" />
+                </StackPanel>
 
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
                     <!-- Next button (steps 0-4) -->

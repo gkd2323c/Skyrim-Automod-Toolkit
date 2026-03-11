@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Reflection;
 using System.Text;
 using SpookysAutomod.Core.Logging;
@@ -249,6 +250,197 @@ public class SkseProjectService
     }
 
     /// <summary>
+    /// Builds an SKSE plugin project using CMake.
+    /// </summary>
+    public async Task<Result<SkseProjectBuildResult>> BuildProjectAsync(
+        string projectPath, string configuration = "Release", bool clean = false)
+    {
+        try
+        {
+            // Verify it's an SKSE project
+            var cmakePath = Path.Combine(projectPath, "CMakeLists.txt");
+            if (!File.Exists(cmakePath))
+            {
+                return Result<SkseProjectBuildResult>.Fail(
+                    "Not a valid SKSE project directory - CMakeLists.txt not found",
+                    suggestions: new List<string> { "Run 'skse create' first to scaffold a project" });
+            }
+
+            // Check for CMake
+            var cmakeCheck = await RunProcessAsync("cmake", "--version", projectPath);
+            if (cmakeCheck.exitCode != 0)
+            {
+                return Result<SkseProjectBuildResult>.Fail(
+                    "CMake not found. CMake 3.24+ is required to build SKSE plugins.",
+                    suggestions: new List<string>
+                    {
+                        "Install CMake from https://cmake.org/download/",
+                        "Ensure CMake is in your PATH",
+                        "Run the Setup Wizard to check build tool status"
+                    });
+            }
+
+            // Clean if requested
+            var buildDir = Path.Combine(projectPath, "build");
+            if (clean && Directory.Exists(buildDir))
+            {
+                _logger.Info("Cleaning build directory...");
+                Directory.Delete(buildDir, true);
+            }
+
+            // Configure with CMake
+            _logger.Info("Configuring with CMake...");
+            var configureResult = await RunProcessAsync(
+                "cmake", $"-B build -S .", projectPath);
+
+            if (configureResult.exitCode != 0)
+            {
+                var suggestions = new List<string>();
+                if (configureResult.output.Contains("No CMAKE_CXX_COMPILER", StringComparison.OrdinalIgnoreCase) ||
+                    configureResult.output.Contains("compiler is not found", StringComparison.OrdinalIgnoreCase))
+                {
+                    suggestions.Add("MSVC Build Tools not found - install from https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022");
+                    suggestions.Add("Select 'Desktop development with C++' workload during installation");
+                    suggestions.Add("Run from 'x64 Native Tools Command Prompt for VS 2022'");
+                }
+                else
+                {
+                    suggestions.Add("Check the error output above for details");
+                    suggestions.Add("Ensure you have internet access (needed for first build to download CommonLibSSE-NG)");
+                    suggestions.Add("Try: skse build --clean to do a fresh build");
+                }
+
+                return Result<SkseProjectBuildResult>.Fail(
+                    $"CMake configuration failed:\n{configureResult.output}",
+                    suggestions: suggestions);
+            }
+
+            // Build
+            _logger.Info($"Building ({configuration})...");
+            var buildResult = await RunProcessAsync(
+                "cmake", $"--build build --config {configuration}", projectPath);
+
+            if (buildResult.exitCode != 0)
+            {
+                return Result<SkseProjectBuildResult>.Fail(
+                    $"Build failed:\n{buildResult.output}",
+                    suggestions: new List<string>
+                    {
+                        "Check C++ compilation errors above",
+                        "Try: skse build --clean for a fresh build",
+                        "Ensure MSVC Build Tools are installed with C++ support"
+                    });
+            }
+
+            // Find the output DLL
+            var dllPattern = "*.dll";
+            var outputDir = Path.Combine(buildDir, configuration);
+            string? dllPath = null;
+
+            if (Directory.Exists(outputDir))
+            {
+                var dlls = Directory.GetFiles(outputDir, dllPattern);
+                dllPath = dlls.FirstOrDefault();
+            }
+
+            // Also check build root (some generators put it there)
+            if (dllPath == null && Directory.Exists(buildDir))
+            {
+                var dlls = Directory.GetFiles(buildDir, dllPattern, SearchOption.AllDirectories)
+                    .Where(f => !f.Contains("CommonLib", StringComparison.OrdinalIgnoreCase))
+                    .ToArray();
+                dllPath = dlls.FirstOrDefault();
+            }
+
+            var result = new SkseProjectBuildResult
+            {
+                Success = true,
+                Configuration = configuration,
+                OutputDll = dllPath,
+                BuildDirectory = buildDir,
+                ConfigureOutput = configureResult.output,
+                BuildOutput = buildResult.output
+            };
+
+            _logger.Info($"Build succeeded! Output: {dllPath ?? "DLL not found in expected location"}");
+            return Result<SkseProjectBuildResult>.Ok(result);
+        }
+        catch (Exception ex)
+        {
+            return Result<SkseProjectBuildResult>.Fail($"Build error: {ex.Message}");
+        }
+    }
+
+    /// <summary>
+    /// Checks if CMake is installed and returns version info.
+    /// </summary>
+    public async Task<Result<string>> CheckCMakeAsync()
+    {
+        try
+        {
+            var result = await RunProcessAsync("cmake", "--version", null);
+            if (result.exitCode == 0)
+            {
+                var firstLine = result.output.Split('\n').FirstOrDefault()?.Trim() ?? result.output.Trim();
+                return Result<string>.Ok(firstLine);
+            }
+            return Result<string>.Fail("CMake not found",
+                suggestions: new List<string> { "Install from https://cmake.org/download/" });
+        }
+        catch
+        {
+            return Result<string>.Fail("CMake not found",
+                suggestions: new List<string> { "Install from https://cmake.org/download/" });
+        }
+    }
+
+    /// <summary>
+    /// Checks if MSVC Build Tools are installed.
+    /// </summary>
+    public async Task<Result<string>> CheckMsvcAsync()
+    {
+        try
+        {
+            // Try cl.exe (MSVC compiler)
+            var result = await RunProcessAsync("cl", "", null);
+            // cl.exe with no args returns version info on stderr with exit code 0
+            var output = result.output.Trim();
+            if (output.Contains("Microsoft", StringComparison.OrdinalIgnoreCase))
+            {
+                var firstLine = output.Split('\n').FirstOrDefault()?.Trim() ?? output;
+                return Result<string>.Ok(firstLine);
+            }
+
+            // Try via vswhere
+            var vswherePath = @"C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe";
+            if (File.Exists(vswherePath))
+            {
+                var vsResult = await RunProcessAsync(vswherePath,
+                    "-latest -products * -requires Microsoft.VisualStudio.Component.VC.Tools.x86.x64 -property displayName", null);
+                if (vsResult.exitCode == 0 && !string.IsNullOrWhiteSpace(vsResult.output))
+                {
+                    return Result<string>.Ok(vsResult.output.Trim());
+                }
+            }
+
+            return Result<string>.Fail("MSVC Build Tools not found",
+                suggestions: new List<string>
+                {
+                    "Install from https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022",
+                    "Select 'Desktop development with C++' workload"
+                });
+        }
+        catch
+        {
+            return Result<string>.Fail("MSVC Build Tools not found",
+                suggestions: new List<string>
+                {
+                    "Install from https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022"
+                });
+        }
+    }
+
+    /// <summary>
     /// Lists available SKSE templates.
     /// </summary>
     public Result<IEnumerable<string>> ListTemplates()
@@ -366,4 +558,43 @@ public class SkseProjectService
             _ => $"RE::{papyrusType}*"
         };
     }
+
+    private static async Task<(int exitCode, string output)> RunProcessAsync(
+        string fileName, string arguments, string? workingDir)
+    {
+        var psi = new ProcessStartInfo
+        {
+            FileName = fileName,
+            Arguments = arguments,
+            UseShellExecute = false,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            CreateNoWindow = true
+        };
+
+        if (workingDir != null)
+            psi.WorkingDirectory = workingDir;
+
+        using var process = Process.Start(psi);
+        if (process == null) return (-1, "Failed to start process");
+
+        var stdout = await process.StandardOutput.ReadToEndAsync();
+        var stderr = await process.StandardError.ReadToEndAsync();
+        await process.WaitForExitAsync();
+
+        return (process.ExitCode, stdout + stderr);
+    }
+}
+
+/// <summary>
+/// Result of building an SKSE plugin project.
+/// </summary>
+public class SkseProjectBuildResult
+{
+    public bool Success { get; set; }
+    public string Configuration { get; set; } = "Release";
+    public string? OutputDll { get; set; }
+    public string? BuildDirectory { get; set; }
+    public string? ConfigureOutput { get; set; }
+    public string? BuildOutput { get; set; }
 }
