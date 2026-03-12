@@ -8,6 +8,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **nif-tool integration** - 8 new NIF commands powered by external Rust binary (`tools/nif-tool/`), contributed by **ColdSun**
+    - `nif list-textures` - Detailed texture listing with block index and slot number
+    - `nif replace-textures` - Batch texture path rewriting (case-insensitive substring replacement)
+    - `nif list-strings` - Show NIF string table entries (node/block names)
+    - `nif rename-strings` - Batch rename node/block names in NIF string table
+    - `nif shader-info` - Inspect BSLightingShaderProperty SF1/SF2 flags
+    - `nif fix-eyes` - Fix eye ghosting bug in FaceGen NIFs
+    - `nif verify` - Byte-perfect roundtrip verification
+    - `nif restore` - Restore `.nif.bak` backups
+    - All commands support `--dry-run`, `--backup`, `--json`, and recursive folder processing
+
+### Removed
+
+- **`nif textures` command** - Replaced by `nif list-textures` which provides accurate block/slot detail via nif-tool
+
 ## [1.10.0] - 2026-03-11
 
 ### Added

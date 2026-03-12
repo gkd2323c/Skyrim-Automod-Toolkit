@@ -1,6 +1,7 @@
 using System.CommandLine;
 using SpookysAutomod.Core.Logging;
 using SpookysAutomod.Core.Models;
+using SpookysAutomod.Nif.CliWrappers;
 using SpookysAutomod.Nif.Services;
 
 namespace SpookysAutomod.Cli.Commands;
@@ -18,9 +19,18 @@ public static class NifCommands
         var nifCommand = new Command("nif", "NIF mesh file operations");
 
         nifCommand.AddCommand(CreateInfoCommand());
-        nifCommand.AddCommand(CreateTexturesCommand());
         nifCommand.AddCommand(CreateScaleCommand());
         nifCommand.AddCommand(CreateCopyCommand());
+
+        // nif-tool commands
+        nifCommand.AddCommand(CreateListTexturesCommand());
+        nifCommand.AddCommand(CreateReplaceTexturesCommand());
+        nifCommand.AddCommand(CreateListStringsCommand());
+        nifCommand.AddCommand(CreateRenameStringsCommand());
+        nifCommand.AddCommand(CreateShaderInfoCommand());
+        nifCommand.AddCommand(CreateFixEyesCommand());
+        nifCommand.AddCommand(CreateVerifyCommand());
+        nifCommand.AddCommand(CreateRestoreCommand());
 
         return nifCommand;
     }
@@ -73,66 +83,6 @@ public static class NifCommands
                 Console.WriteLine($"Header: {info.HeaderString}");
                 if (!string.IsNullOrEmpty(info.Version))
                     Console.WriteLine($"Version: {info.Version}");
-            }
-            else
-            {
-                Console.Error.WriteLine($"Error: {result.Error}");
-                Environment.ExitCode = 1;
-            }
-        }, nifArg, _jsonOption, _verboseOption);
-
-        return cmd;
-    }
-
-    private static Command CreateTexturesCommand()
-    {
-        var nifArg = new Argument<string>("nif", "Path to the NIF file");
-
-        var cmd = new Command("textures", "List textures referenced in a NIF file")
-        {
-            nifArg
-        };
-
-        cmd.SetHandler((nif, json, verbose) =>
-        {
-            var logger = CreateLogger(json, verbose);
-            var service = new NifService(logger);
-
-            var result = service.ListTextures(nif);
-
-            if (json)
-            {
-                if (result.Success)
-                {
-                    Console.WriteLine(new
-                    {
-                        success = true,
-                        result = new
-                        {
-                            textures = result.Value
-                        }
-                    }.ToJson());
-                }
-                else
-                {
-                    Console.WriteLine(Result.Fail(result.Error!).ToJson(true));
-                }
-            }
-            else if (result.Success)
-            {
-                var textures = result.Value!;
-                if (textures.Count == 0)
-                {
-                    Console.WriteLine("No textures found in NIF");
-                }
-                else
-                {
-                    Console.WriteLine($"Textures ({textures.Count}):");
-                    foreach (var tex in textures.OrderBy(t => t))
-                    {
-                        Console.WriteLine($"  {tex}");
-                    }
-                }
             }
             else
             {
@@ -251,4 +201,198 @@ public static class NifCommands
 
         return cmd;
     }
+
+    #region nif-tool Commands
+
+    private static NifService CreateNifToolService(bool json, bool verbose)
+    {
+        var logger = CreateLogger(json, verbose);
+        return new NifService(logger, new NifToolWrapper(logger));
+    }
+
+    private static void HandleNifToolResult(Result<NifToolOutput> result, bool json)
+    {
+        if (json)
+        {
+            if (result.Success)
+                Console.WriteLine(Result<object>.Ok(new { output = result.Value!.Output, dryRun = result.Value.DryRun }).ToJson(true));
+            else
+                Console.WriteLine(Result.Fail(result.Error!, result.ErrorContext, result.Suggestions).ToJson(true));
+        }
+        else if (result.Success)
+        {
+            Console.WriteLine(result.Value!.Output);
+        }
+        else
+        {
+            Console.Error.WriteLine($"Error: {result.Error}");
+            if (!string.IsNullOrEmpty(result.ErrorContext))
+                Console.Error.WriteLine(result.ErrorContext);
+            Environment.ExitCode = 1;
+        }
+    }
+
+    private static Command CreateListTexturesCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+
+        var cmd = new Command("list-textures", "List texture paths in NIF files (uses nif-tool)")
+        {
+            pathArg
+        };
+
+        cmd.SetHandler(async (path, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.ListTexturesFromToolAsync(path);
+            HandleNifToolResult(result, json);
+        }, pathArg, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateReplaceTexturesCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+        var oldOption = new Option<string>("--old", "Substring to find (case-insensitive)") { IsRequired = true };
+        var newOption = new Option<string>("--new", "Replacement string") { IsRequired = true };
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without writing files");
+        var backupOption = new Option<bool>("--backup", () => true, "Create .nif.bak before overwriting");
+
+        var cmd = new Command("replace-textures", "Replace texture path substrings in NIF files (uses nif-tool)")
+        {
+            pathArg, oldOption, newOption, dryRunOption, backupOption
+        };
+
+        cmd.SetHandler(async (path, oldStr, newStr, dryRun, backup, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.ReplaceTexturesAsync(path, oldStr, newStr, dryRun, backup);
+            HandleNifToolResult(result, json);
+        }, pathArg, oldOption, newOption, dryRunOption, backupOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateListStringsCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+
+        var cmd = new Command("list-strings", "List string table entries in NIF files (uses nif-tool)")
+        {
+            pathArg
+        };
+
+        cmd.SetHandler(async (path, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.ListStringsFromToolAsync(path);
+            HandleNifToolResult(result, json);
+        }, pathArg, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateRenameStringsCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+        var oldOption = new Option<string>("--old", "Substring to find (case-insensitive)") { IsRequired = true };
+        var newOption = new Option<string>("--new", "Replacement string") { IsRequired = true };
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without writing files");
+        var backupOption = new Option<bool>("--backup", () => true, "Create .nif.bak before overwriting");
+
+        var cmd = new Command("rename-strings", "Rename string table entries in NIF files (uses nif-tool)")
+        {
+            pathArg, oldOption, newOption, dryRunOption, backupOption
+        };
+
+        cmd.SetHandler(async (path, oldStr, newStr, dryRun, backup, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.RenameStringsAsync(path, oldStr, newStr, dryRun, backup);
+            HandleNifToolResult(result, json);
+        }, pathArg, oldOption, newOption, dryRunOption, backupOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateShaderInfoCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+
+        var cmd = new Command("shader-info", "Show shader flags on BSLightingShaderProperty blocks (uses nif-tool)")
+        {
+            pathArg
+        };
+
+        cmd.SetHandler(async (path, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.GetShaderInfoAsync(path);
+            HandleNifToolResult(result, json);
+        }, pathArg, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateFixEyesCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without writing files");
+        var backupOption = new Option<bool>("--backup", () => true, "Create .nif.bak before overwriting");
+
+        var cmd = new Command("fix-eyes", "Fix eye ghosting bug in FaceGen NIFs (uses nif-tool)")
+        {
+            pathArg, dryRunOption, backupOption
+        };
+
+        cmd.SetHandler(async (path, dryRun, backup, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.FixEyesAsync(path, dryRun, backup);
+            HandleNifToolResult(result, json);
+        }, pathArg, dryRunOption, backupOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateVerifyCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to NIF file or folder (recursive)");
+
+        var cmd = new Command("verify", "Verify byte-perfect roundtrip of NIF files (uses nif-tool)")
+        {
+            pathArg
+        };
+
+        cmd.SetHandler(async (path, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.VerifyAsync(path);
+            HandleNifToolResult(result, json);
+        }, pathArg, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateRestoreCommand()
+    {
+        var pathArg = new Argument<string>("path", "Path to folder to restore .nif.bak files (recursive)");
+
+        var cmd = new Command("restore", "Restore NIF files from .nif.bak backups (uses nif-tool)")
+        {
+            pathArg
+        };
+
+        cmd.SetHandler(async (path, json, verbose) =>
+        {
+            var service = CreateNifToolService(json, verbose);
+            var result = await service.RestoreAsync(path);
+            HandleNifToolResult(result, json);
+        }, pathArg, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    #endregion
 }

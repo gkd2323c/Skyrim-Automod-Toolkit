@@ -619,7 +619,7 @@ dotnet run --project src/SpookysAutomod.Cli -- archive extract "BrokenMod.bsa" -
 dotnet run --project src/SpookysAutomod.Cli -- papyrus decompile "./Debug/scripts" --output "./Debug/Source" --json
 
 # Check mesh textures (find missing texture issues)
-dotnet run --project src/SpookysAutomod.Cli -- nif textures "./Debug/meshes/SomeArmor.nif" --json
+dotnet run --project src/SpookysAutomod.Cli -- nif list-textures "./Debug/meshes/SomeArmor.nif" --json
 
 # Check NIF file info
 dotnet run --project src/SpookysAutomod.Cli -- nif info "./Debug/meshes/SomeArmor.nif" --json
@@ -630,7 +630,7 @@ dotnet run --project src/SpookysAutomod.Cli -- nif info "./Debug/meshes/SomeArmo
 **Purple/Missing Textures:**
 ```bash
 # 1. Check what textures the mesh expects
-dotnet run --project src/SpookysAutomod.Cli -- nif textures "./Meshes/item.nif"
+dotnet run --project src/SpookysAutomod.Cli -- nif list-textures "./Meshes/item.nif"
 
 # 2. Verify those textures exist
 # If missing, that's the problem
@@ -1835,9 +1835,16 @@ When success is false:
 | Task | Command |
 |------|---------|
 | Get info | `nif info file` |
-| List textures | `nif textures file` |
 | Scale mesh | `nif scale file factor [--output]` |
 | Copy | `nif copy file --output file` |
+| List textures | `nif list-textures path` |
+| Replace textures | `nif replace-textures path --old find --new replace [--dry-run]` |
+| List strings | `nif list-strings path` |
+| Rename strings | `nif rename-strings path --old find --new replace [--dry-run]` |
+| Shader info | `nif shader-info path` |
+| Fix eye ghosting | `nif fix-eyes path [--dry-run]` |
+| Verify roundtrip | `nif verify path` |
+| Restore backups | `nif restore path` |
 
 ### Audio
 

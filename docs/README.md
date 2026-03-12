@@ -205,9 +205,17 @@ mcm add-slider <config> <id> <text> --min --max [--step]
 ### NIF
 ```bash
 nif info <file>
-nif textures <file>
 nif scale <file> <factor> [--output]
 nif copy <file> --output <file>
+# nif-tool commands (bundled Rust binary)
+nif list-textures <path>
+nif replace-textures <path> --old <find> --new <replace> [--dry-run] [--backup]
+nif list-strings <path>
+nif rename-strings <path> --old <find> --new <replace> [--dry-run] [--backup]
+nif shader-info <path>
+nif fix-eyes <path> [--dry-run] [--backup]
+nif verify <path>
+nif restore <path>
 ```
 
 ### Audio

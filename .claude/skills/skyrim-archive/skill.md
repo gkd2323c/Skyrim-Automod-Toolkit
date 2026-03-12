@@ -334,7 +334,7 @@ dotnet run --project src/SpookysAutomod.Cli -- archive extract "BrokenMod.bsa" -
 # 3. Analyze plugin structuredotnet run --project src/SpookysAutomod.Cli -- esp info "./Debug/BrokenMod.esp" --json
 
 # 4. Check mesh textures
-dotnet run --project src/SpookysAutomod.Cli -- nif textures "./Debug/meshes/SomeMesh.nif"
+dotnet run --project src/SpookysAutomod.Cli -- nif list-textures "./Debug/meshes/SomeMesh.nif"
 
 # 5. Decompile scripts
 dotnet run --project src/SpookysAutomod.Cli -- papyrus decompile "./Debug/scripts" --output "./Debug/Source"

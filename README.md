@@ -336,7 +336,7 @@ This toolkit includes **Claude Code Skills** - specialized instruction files tha
 | `skyrim-papyrus` | Write scripts, fix script errors | Compile, decompile, validate, generate scripts |
 | `skyrim-mcm` | Add mod settings menu | Create MCM Helper configurations |
 | `skyrim-archive` | Package or extract BSA files, edit archives | Read, extract, create, and modify archives without full repackaging |
-| `skyrim-nif` | Check meshes, find textures | Inspect and scale 3D mesh files |
+| `skyrim-nif` | Mesh inspection & editing | Inspect, retexture, fix eyes, verify NIF files |
 | `skyrim-audio` | Work with voice files | Handle FUZ/XWM/WAV audio |
 | `skyrim-skse` | Create/build native plugins | Generate and build SKSE C++ plugin projects end-to-end |
 
@@ -397,7 +397,7 @@ archive validate "SomeMod.bsa"
 archive diff "SomeMod_v1.bsa" "SomeMod_v2.bsa"
 
 # Check what textures a mesh uses
-nif textures "Meshes/Armor/CustomArmor.nif"
+nif list-textures "Meshes/Armor/CustomArmor.nif"
 
 # Inspect MCM configuration
 mcm info "MCM/Config/SomeMod/config.json"
@@ -451,7 +451,7 @@ archive extract "BrokenMod.bsa" --output "./Debug"
 papyrus decompile "./Debug/Scripts/BrokenScript.pex" --output "./Debug/Source"
 
 # 4. Check mesh textures
-nif textures "./Debug/Meshes/SomeArmor.nif"
+nif list-textures "./Debug/Meshes/SomeArmor.nif"
 
 # 5. After fixing, recompile
 papyrus compile "./Debug/Source" --output "./Debug/Scripts" --headers "C:/Skyrim/Data/Scripts/Source"
@@ -711,7 +711,7 @@ skse add-function "./ProjectFolder" --name "FuncName" --return "Int" --param "Ac
 | --------- | ------------------------ |
 | `esp`     | Plugin files (.esp/.esl) |
 | `papyrus` | Papyrus scripts          |
-| `nif`     | 3D mesh reading          |
+| `nif`     | 3D mesh reading & editing |
 | `archive` | BSA/BA2 archives         |
 | `mcm`     | Mod configuration menus  |
 | `audio`   | Game audio files         |
@@ -726,6 +726,7 @@ skse add-function "./ProjectFolder" --name "FuncName" --return "Int" --param "Ac
 | papyrus-compiler | Compile scripts   | Yes                                                                  |
 | Champollion      | Decompile scripts | Yes                                                                  |
 | BSArch           | Create archives   | No - [Get from xEdit](https://github.com/TES5Edit/TES5Edit/releases) |
+| nif-tool         | NIF mesh editing  | Bundled in `tools/nif-tool/` |
 
 ---
 
@@ -761,6 +762,12 @@ Then run `dotnet restore SpookysAutomod.sln` and `dotnet build SpookysAutomod.sl
 
 - [Full Documentation](docs/README.md)
 - [LLM Usage Guide](docs/llm-guide.md)
+
+---
+
+## Contributors
+
+- **ColdSun** — nif-tool (Rust CLI for NIF mesh editing)
 
 ---
 

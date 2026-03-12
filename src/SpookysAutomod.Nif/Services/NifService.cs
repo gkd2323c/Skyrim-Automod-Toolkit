@@ -1,5 +1,6 @@
 using SpookysAutomod.Core.Logging;
 using SpookysAutomod.Core.Models;
+using SpookysAutomod.Nif.CliWrappers;
 
 namespace SpookysAutomod.Nif.Services;
 
@@ -11,11 +12,15 @@ namespace SpookysAutomod.Nif.Services;
 public class NifService
 {
     private readonly IModLogger _logger;
+    private readonly NifToolWrapper? _nifToolWrapper;
 
-    public NifService(IModLogger logger)
+    public NifService(IModLogger logger, NifToolWrapper? nifToolWrapper = null)
     {
         _logger = logger;
+        _nifToolWrapper = nifToolWrapper;
     }
+
+    private NifToolWrapper GetWrapper() => _nifToolWrapper ?? new NifToolWrapper(_logger);
 
     /// <summary>
     /// Get basic information about a NIF file by reading its header.
@@ -71,52 +76,6 @@ public class NifService
     }
 
     /// <summary>
-    /// List textures referenced in a NIF file by searching for texture path patterns.
-    /// </summary>
-    public Result<List<string>> ListTextures(string nifPath)
-    {
-        if (!File.Exists(nifPath))
-        {
-            return Result<List<string>>.Fail($"File not found: {nifPath}");
-        }
-
-        try
-        {
-            var bytes = File.ReadAllBytes(nifPath);
-            var textures = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-
-            // Search for texture paths (look for textures\ or .dds patterns)
-            var content = System.Text.Encoding.ASCII.GetString(bytes);
-
-            // Find paths that look like textures
-            var patterns = new[] { "textures\\", "textures/", ".dds", ".tga" };
-            var words = ExtractStrings(bytes, 8, 256);
-
-            foreach (var word in words)
-            {
-                var lower = word.ToLowerInvariant();
-                if (patterns.Any(p => lower.Contains(p)))
-                {
-                    // Clean up the path
-                    var cleaned = word.Trim('\0', ' ', '\t');
-                    if (!string.IsNullOrEmpty(cleaned) && cleaned.Length > 4)
-                    {
-                        textures.Add(cleaned);
-                    }
-                }
-            }
-
-            return Result<List<string>>.Ok(textures.ToList());
-        }
-        catch (Exception ex)
-        {
-            return Result<List<string>>.Fail(
-                $"Failed to read textures: {ex.Message}",
-                ex.StackTrace);
-        }
-    }
-
-    /// <summary>
     /// Scale operation is not yet implemented.
     /// </summary>
     public Result<string> Scale(string nifPath, float factor, string outputPath)
@@ -161,6 +120,167 @@ public class NifService
         }
     }
 
+    #region nif-tool Integration
+
+    /// <summary>
+    /// Check if nif-tool is available.
+    /// </summary>
+    public bool IsNifToolAvailable() => GetWrapper().IsAvailable();
+
+    /// <summary>
+    /// List textures using nif-tool (supports folders, shows block/slot info).
+    /// </summary>
+    public async Task<Result<NifToolOutput>> ListTexturesFromToolAsync(string path)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.ListTexturesAsync(path);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput { Output = raw.Value! });
+    }
+
+    /// <summary>
+    /// Replace texture path substrings in NIF files.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> ReplaceTexturesAsync(
+        string path, string oldStr, string newStr, bool dryRun = false, bool backup = true)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.ReplaceTexturesAsync(path, oldStr, newStr, dryRun, backup);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput
+        {
+            Output = raw.Value!,
+            DryRun = dryRun
+        });
+    }
+
+    /// <summary>
+    /// List NIF string table entries using nif-tool.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> ListStringsFromToolAsync(string path)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.ListStringsAsync(path);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput { Output = raw.Value! });
+    }
+
+    /// <summary>
+    /// Rename string table entries in NIF files.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> RenameStringsAsync(
+        string path, string oldStr, string newStr, bool dryRun = false, bool backup = true)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.RenameStringsAsync(path, oldStr, newStr, dryRun, backup);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput
+        {
+            Output = raw.Value!,
+            DryRun = dryRun
+        });
+    }
+
+    /// <summary>
+    /// Get shader flag info from NIF files.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> GetShaderInfoAsync(string path)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.ShaderInfoAsync(path);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput { Output = raw.Value! });
+    }
+
+    /// <summary>
+    /// Fix eye ghosting bug in FaceGen NIFs.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> FixEyesAsync(
+        string path, bool dryRun = false, bool backup = true)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.FixEyesAsync(path, dryRun, backup);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput
+        {
+            Output = raw.Value!,
+            DryRun = dryRun
+        });
+    }
+
+    /// <summary>
+    /// Verify byte-perfect roundtrip of NIF files.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> VerifyAsync(string path)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.VerifyAsync(path);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput { Output = raw.Value! });
+    }
+
+    /// <summary>
+    /// Restore NIF files from .nif.bak backups.
+    /// </summary>
+    public async Task<Result<NifToolOutput>> RestoreAsync(string path)
+    {
+        var wrapper = GetWrapper();
+        if (!wrapper.IsAvailable())
+            return NifToolNotFound();
+
+        var raw = await wrapper.RestoreAsync(path);
+        if (!raw.Success)
+            return Result<NifToolOutput>.Fail(raw.Error!, raw.ErrorContext, raw.Suggestions);
+
+        return Result<NifToolOutput>.Ok(new NifToolOutput { Output = raw.Value! });
+    }
+
+    private static Result<NifToolOutput> NifToolNotFound() =>
+        Result<NifToolOutput>.Fail(
+            "nif-tool not found",
+            suggestions: new List<string>
+            {
+                "Place nif-tool.exe in tools/nif-tool/",
+                "nif-tool is a separate Rust binary for NIF file manipulation"
+            });
+
+    #endregion
+
     private static string ReadString(BinaryReader reader, int maxLength)
     {
         var chars = new List<char>();
@@ -173,34 +293,6 @@ public class NifService
         return new string(chars.ToArray());
     }
 
-    private static List<string> ExtractStrings(byte[] data, int minLength, int maxLength)
-    {
-        var strings = new List<string>();
-        var current = new List<byte>();
-
-        foreach (var b in data)
-        {
-            if (b >= 32 && b < 127) // Printable ASCII
-            {
-                current.Add(b);
-            }
-            else
-            {
-                if (current.Count >= minLength && current.Count <= maxLength)
-                {
-                    strings.Add(System.Text.Encoding.ASCII.GetString(current.ToArray()));
-                }
-                current.Clear();
-            }
-        }
-
-        if (current.Count >= minLength && current.Count <= maxLength)
-        {
-            strings.Add(System.Text.Encoding.ASCII.GetString(current.ToArray()));
-        }
-
-        return strings;
-    }
 }
 
 public class NifInfo
@@ -210,4 +302,14 @@ public class NifInfo
     public long FileSize { get; set; }
     public string HeaderString { get; set; } = "";
     public string Version { get; set; } = "";
+}
+
+/// <summary>
+/// Output from nif-tool commands. Contains the raw text output
+/// which is already well-formatted for display.
+/// </summary>
+public class NifToolOutput
+{
+    public string Output { get; set; } = "";
+    public bool DryRun { get; set; }
 }
