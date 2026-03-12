@@ -926,10 +926,9 @@ archive diff <archive1> <archive2> --json
 
 ```bash
 nif info <file> --json
-nif list-textures <file> --json
 nif scale <file> --factor <n> --output <file> --json
-# nif-tool commands (requires nif-tool.exe in tools/nif-tool/)
-nif list-textures <path> --json          # Detailed texture listing with block/slot info
+# nif-tool commands (bundled Rust binary)
+nif list-textures <path> --json          # Texture paths with block/slot info
 nif replace-textures <path> --old <find> --new <replace> [--dry-run] --json
 nif list-strings <path> --json           # NIF string table entries
 nif rename-strings <path> --old <find> --new <replace> [--dry-run] --json
