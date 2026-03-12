@@ -8,9 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.11.0] - 2026-03-12
+
 ### Added
 
-- **nif-tool integration** - 8 new NIF commands powered by external Rust binary (`tools/nif-tool/`), contributed by **ColdSun**
+- **nif-tool integration** - 8 new NIF commands powered by bundled Rust binary (`tools/nif-tool/`), contributed by **ColdSun**
+- **Setup Wizard spinning indicator** - Replaced progress bar with animated spinner for "Working..." status
     - `nif list-textures` - Detailed texture listing with block index and slot number
     - `nif replace-textures` - Batch texture path rewriting (case-insensitive substring replacement)
     - `nif list-strings` - Show NIF string table entries (node/block names)
