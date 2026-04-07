@@ -33,6 +33,8 @@ public static class EspCommands
         espCommand.AddCommand(CreateAddPerkCommand());
         espCommand.AddCommand(CreateAddFactionCommand());
         espCommand.AddCommand(CreateAttachScriptCommand());
+        espCommand.AddCommand(CreateAddAliasCommand());
+        espCommand.AddCommand(CreateAttachAliasScriptCommand());
         espCommand.AddCommand(CreateSetPropertyCommand());
         espCommand.AddCommand(CreateGenerateSeqCommand());
         espCommand.AddCommand(CreateListMastersCommand());
@@ -715,6 +717,209 @@ public static class EspCommands
             }
         }, pluginArg, questOption, scriptOption,
            _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateAddAliasCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var questOption = new Option<string>("--quest", "Editor ID of the quest") { IsRequired = true };
+        var nameOption = new Option<string>("--name", "Name of the alias to add") { IsRequired = true };
+        var scriptOption = new Option<string?>("--script", "Optional script to attach to the new alias");
+        var flagsOption = new Option<string?>("--flags", "Comma-separated alias flags (e.g. 'Optional,AllowReuseInQuest,AllowReserved')");
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without saving");
+
+        var cmd = new Command("add-alias", "Add a reference alias to a quest, optionally with a script attached")
+        {
+            pluginArg, questOption, nameOption, scriptOption, flagsOption, dryRunOption
+        };
+
+        cmd.SetHandler((context) =>
+        {
+            var plugin = context.ParseResult.GetValueForArgument(pluginArg);
+            var questId = context.ParseResult.GetValueForOption(questOption)!;
+            var aliasName = context.ParseResult.GetValueForOption(nameOption)!;
+            var scriptName = context.ParseResult.GetValueForOption(scriptOption);
+            var flagsStr = context.ParseResult.GetValueForOption(flagsOption);
+            var dryRun = context.ParseResult.GetValueForOption(dryRunOption);
+            var json = context.ParseResult.GetValueForOption(_jsonOption);
+            var verbose = context.ParseResult.GetValueForOption(_verboseOption);
+
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            // Parse flags
+            QuestAlias.Flag? flags = null;
+            if (!string.IsNullOrWhiteSpace(flagsStr))
+            {
+                if (!Enum.TryParse<QuestAlias.Flag>(flagsStr, ignoreCase: true, out var parsed))
+                {
+                    OutputError($"Invalid alias flags: '{flagsStr}'", json,
+                        suggestions: new[] { "Valid flags: Optional, AllowReuseInQuest, AllowReserved, Essential, Protected, StoresText, AllowDeadActor, ClearsNameWhenRemoved, etc.", "Combine flags with commas: --flags 'Optional,AllowReuseInQuest'" });
+                    return;
+                }
+                flags = parsed;
+            }
+
+            var loadResult = service.LoadPluginForEdit(plugin);
+            if (!loadResult.Success) { OutputError(loadResult.Error!, json); return; }
+
+            var mod = loadResult.Value!;
+            var quest = mod.Quests.FirstOrDefault(q => q.EditorID == questId);
+            if (quest == null)
+            {
+                OutputError($"Quest not found: {questId}", json,
+                    suggestions: new[] { "Check the quest editor ID is correct", "Use 'esp info' to list quests in the plugin" });
+                return;
+            }
+
+            var addResult = service.AddAliasToQuest(quest, aliasName, scriptName, flags);
+            if (!addResult.Success) { OutputError(addResult.Error!, json); return; }
+            var alias = addResult.Value!;
+
+            Result saveResult;
+            if (dryRun)
+            {
+                saveResult = Result.Ok($"{plugin} (DRY RUN - not saved)");
+            }
+            else
+            {
+                saveResult = service.SavePlugin(mod, plugin);
+            }
+
+            if (json)
+            {
+                if (saveResult.Success)
+                {
+                    Console.WriteLine(new
+                    {
+                        success = true,
+                        result = new
+                        {
+                            quest = questId,
+                            alias = alias.Name,
+                            aliasId = alias.ID,
+                            script = scriptName,
+                            flags = alias.Flags?.ToString(),
+                            dryRun
+                        }
+                    }.ToJson());
+                }
+                else
+                {
+                    Console.WriteLine(new { success = false, error = saveResult.Error }.ToJson());
+                    Environment.ExitCode = 1;
+                }
+            }
+            else if (saveResult.Success)
+            {
+                var msg = $"Added alias '{alias.Name}' (ID {alias.ID}) to quest '{questId}'";
+                if (!string.IsNullOrEmpty(scriptName)) msg += $" with script '{scriptName}'";
+                if (alias.Flags != null) msg += $" [Flags: {alias.Flags}]";
+                if (dryRun) msg += " [DRY RUN - not saved]";
+                Console.WriteLine(msg);
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {saveResult.Error}");
+                Environment.ExitCode = 1;
+            }
+        });
+
+        return cmd;
+    }
+
+    private static Command CreateAttachAliasScriptCommand()
+    {
+        var pluginArg = new Argument<string>("plugin", "Path to the plugin file");
+        var questOption = new Option<string>("--quest", "Editor ID of the quest") { IsRequired = true };
+        var aliasOption = new Option<string>("--alias", "Name of the alias to attach the script to") { IsRequired = true };
+        var scriptOption = new Option<string>("--script", "Name of the script to attach") { IsRequired = true };
+        var dryRunOption = new Option<bool>("--dry-run", "Preview changes without saving");
+
+        var cmd = new Command("attach-alias-script", "Attach a script to an existing quest alias")
+        {
+            pluginArg, questOption, aliasOption, scriptOption, dryRunOption
+        };
+
+        cmd.SetHandler((context) =>
+        {
+            var plugin = context.ParseResult.GetValueForArgument(pluginArg);
+            var questId = context.ParseResult.GetValueForOption(questOption)!;
+            var aliasName = context.ParseResult.GetValueForOption(aliasOption)!;
+            var scriptName = context.ParseResult.GetValueForOption(scriptOption)!;
+            var dryRun = context.ParseResult.GetValueForOption(dryRunOption);
+            var json = context.ParseResult.GetValueForOption(_jsonOption);
+            var verbose = context.ParseResult.GetValueForOption(_verboseOption);
+
+            var logger = CreateLogger(json, verbose);
+            var service = new PluginService(logger);
+
+            var loadResult = service.LoadPluginForEdit(plugin);
+            if (!loadResult.Success) { OutputError(loadResult.Error!, json); return; }
+
+            var mod = loadResult.Value!;
+            var quest = mod.Quests.FirstOrDefault(q => q.EditorID == questId);
+            if (quest == null)
+            {
+                OutputError($"Quest not found: {questId}", json,
+                    suggestions: new[] { "Check the quest editor ID is correct", "Use 'esp info' to list quests in the plugin" });
+                return;
+            }
+
+            var attachResult = service.AttachScriptToAliasByName(quest, aliasName, scriptName);
+            if (!attachResult.Success)
+            {
+                OutputError(attachResult.Error!, json,
+                    suggestions: new[] { "Use 'esp add-alias' to create the alias first", "Alias names are case-sensitive" });
+                return;
+            }
+
+            Result saveResult;
+            if (dryRun)
+            {
+                saveResult = Result.Ok($"{plugin} (DRY RUN - not saved)");
+            }
+            else
+            {
+                saveResult = service.SavePlugin(mod, plugin);
+            }
+
+            if (json)
+            {
+                if (saveResult.Success)
+                {
+                    Console.WriteLine(new
+                    {
+                        success = true,
+                        result = new
+                        {
+                            quest = questId,
+                            alias = aliasName,
+                            script = scriptName,
+                            dryRun
+                        }
+                    }.ToJson());
+                }
+                else
+                {
+                    Console.WriteLine(new { success = false, error = saveResult.Error }.ToJson());
+                    Environment.ExitCode = 1;
+                }
+            }
+            else if (saveResult.Success)
+            {
+                var msg = $"Attached script '{scriptName}' to alias '{aliasName}' on quest '{questId}'";
+                if (dryRun) msg += " [DRY RUN - not saved]";
+                Console.WriteLine(msg);
+            }
+            else
+            {
+                Console.Error.WriteLine($"Error: {saveResult.Error}");
+                Environment.ExitCode = 1;
+            }
+        });
 
         return cmd;
     }

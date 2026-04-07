@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- **`esp add-alias` and `esp attach-alias-script` commands now actually exist** - These were documented as part of v1.5.0 but were never implemented in the CLI. Now properly wired up with full support for alias flags, optional script attachment on creation, and dry-run mode. The script structure is correctly stored in `quest.VirtualMachineAdapter.Aliases[]` (QuestFragmentAlias) so Creation Kit recognizes it.
+
 ## [1.11.0] - 2026-03-12
 
 ### Added

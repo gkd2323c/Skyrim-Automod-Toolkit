@@ -665,6 +665,84 @@ esp attach-script "MyMod.esp" --quest "MyMod_MainQuest" --script "MyMod_MainQues
 
 ---
 
+### add-alias
+
+Add a reference alias to a quest, optionally with a script attached. The script is stored in the quest's `VirtualMachineAdapter.Aliases[]` (QuestFragmentAlias) so the Creation Kit recognizes it.
+
+```bash
+esp add-alias <plugin> --quest <questId> --name <aliasName> [--script <scriptName>] [--flags <flags>] [--dry-run]
+```
+
+**Arguments:**
+| Argument | Description |
+|----------|-------------|
+| `plugin` | Path to the plugin file |
+
+**Required Options:**
+| Option | Description |
+|--------|-------------|
+| `--quest` | Editor ID of the quest |
+| `--name` | Name of the alias to add |
+
+**Optional Options:**
+| Option | Description |
+|--------|-------------|
+| `--script` | Script to attach to the new alias (without .pex) |
+| `--flags` | Comma-separated `QuestAlias.Flag` values |
+| `--dry-run` | Preview changes without saving |
+
+**Common flag values:** `Optional`, `AllowReuseInQuest`, `AllowReserved`, `Essential`, `Protected`, `StoresText`, `AllowDeadActor`, `ClearsNameWhenRemoved`
+
+**Examples:**
+```bash
+# Add an alias with a script in one shot
+esp add-alias "FollowerMod.esp" --quest "FM_MainQuest" --name "FollowerAlias01" \
+    --script "FM_FollowerAliasScript" --flags "Optional,AllowReuseInQuest,AllowReserved"
+
+# Add an empty alias
+esp add-alias "MyMod.esp" --quest "MyQuest" --name "TargetActor" --flags "Optional"
+```
+
+---
+
+### attach-alias-script
+
+Attach a Papyrus script to an existing quest alias. Use this when the alias already exists and you want to add (or add another) script to it.
+
+```bash
+esp attach-alias-script <plugin> --quest <questId> --alias <aliasName> --script <scriptName> [--dry-run]
+```
+
+**Arguments:**
+| Argument | Description |
+|----------|-------------|
+| `plugin` | Path to the plugin file |
+
+**Required Options:**
+| Option | Description |
+|--------|-------------|
+| `--quest` | Editor ID of the quest |
+| `--alias` | Name of the alias to attach to (must already exist) |
+| `--script` | Name of the script (without .pex) |
+
+**Optional Options:**
+| Option | Description |
+|--------|-------------|
+| `--dry-run` | Preview changes without saving |
+
+**Example:**
+```bash
+esp attach-alias-script "FollowerMod.esp" --quest "FM_MainQuest" \
+    --alias "FollowerAlias01" --script "FM_FollowerAliasScript"
+```
+
+**Notes:**
+- The alias must already exist on the quest (use `esp add-alias` first)
+- Alias names are case-sensitive
+- Setting properties on the script after attaching: use `esp set-property --alias-target <aliasName>`
+
+---
+
 ### set-property
 
 Manually set a script property on a quest script or alias script.

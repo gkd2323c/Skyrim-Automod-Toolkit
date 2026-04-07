@@ -2920,4 +2920,101 @@ public class PluginService
             }
         }
     }
+
+    /// <summary>
+    /// Add a reference alias to a quest, optionally with a script attached.
+    /// Sets ID, Name, and Flags. If a script is provided, it's stored in
+    /// QuestFragmentAlias within the quest's VirtualMachineAdapter (the only
+    /// way Creation Kit recognizes alias scripts).
+    /// </summary>
+    public Result<QuestAlias> AddAliasToQuest(
+        Quest quest,
+        string aliasName,
+        string? scriptName = null,
+        QuestAlias.Flag? flags = null)
+    {
+        if (quest.Aliases.Any(a => a.Name == aliasName))
+        {
+            return Result<QuestAlias>.Fail($"Alias already exists: {aliasName}");
+        }
+
+        // Pick the next available alias ID (uint, monotonic)
+        var nextId = quest.Aliases.Count == 0 ? 0u : quest.Aliases.Max(a => a.ID) + 1;
+
+        var alias = new QuestAlias
+        {
+            ID = nextId,
+            Name = aliasName,
+            Flags = flags
+        };
+        quest.Aliases.Add(alias);
+
+        if (!string.IsNullOrEmpty(scriptName))
+        {
+            var scriptResult = AttachScriptToAlias(quest, alias, scriptName);
+            if (!scriptResult.Success)
+            {
+                // Roll back the alias we just added so the plugin isn't left half-modified
+                quest.Aliases.Remove(alias);
+                return Result<QuestAlias>.Fail(scriptResult.Error!);
+            }
+        }
+
+        return Result<QuestAlias>.Ok(alias);
+    }
+
+    /// <summary>
+    /// Attach a script to an existing alias by name. Creates a QuestFragmentAlias
+    /// entry in the quest's VirtualMachineAdapter if one doesn't exist. The
+    /// fragment alias's Property.Object MUST reference the quest's FormKey or
+    /// the Creation Kit won't see the script.
+    /// </summary>
+    public Result<ScriptEntry> AttachScriptToAliasByName(Quest quest, string aliasName, string scriptName)
+    {
+        var alias = quest.Aliases.FirstOrDefault(a => a.Name == aliasName);
+        if (alias == null)
+        {
+            return Result<ScriptEntry>.Fail($"Alias not found: {aliasName}");
+        }
+        return AttachScriptToAlias(quest, alias, scriptName);
+    }
+
+    private Result<ScriptEntry> AttachScriptToAlias(Quest quest, QuestAlias alias, string scriptName)
+    {
+        var adapter = quest.VirtualMachineAdapter as QuestAdapter ?? new QuestAdapter();
+        var aliasIndex = (short)alias.ID;
+
+        // Find or create the QuestFragmentAlias for this alias
+        var fragAlias = adapter.Aliases!.FirstOrDefault(fa => fa.Property?.Alias == aliasIndex);
+        if (fragAlias == null)
+        {
+            fragAlias = new QuestFragmentAlias
+            {
+                Property = new ScriptObjectProperty
+                {
+                    Object = quest.FormKey.ToLink<ISkyrimMajorRecordGetter>(),
+                    Alias = aliasIndex,
+                    Flags = ScriptProperty.Flag.Edited
+                }
+            };
+            adapter.Aliases!.Add(fragAlias);
+        }
+
+        if (fragAlias.Scripts!.Any(s => string.Equals(s.Name, scriptName, StringComparison.OrdinalIgnoreCase)))
+        {
+            return Result<ScriptEntry>.Fail($"Script already attached to alias '{alias.Name}': {scriptName}");
+        }
+
+        var script = new ScriptEntry
+        {
+            Name = scriptName,
+            Flags = ScriptEntry.Flag.Local
+        };
+        fragAlias.Scripts!.Add(script);
+
+        // Make sure the adapter is wired back to the quest in case we created a new one
+        quest.VirtualMachineAdapter = adapter;
+
+        return Result<ScriptEntry>.Ok(script);
+    }
 }
