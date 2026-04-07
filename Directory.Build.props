@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <!-- This repo does not use .NET workloads; disabling the resolver avoids broken locator imports on this machine. -->
+    <MSBuildEnableWorkloadResolver>false</MSBuildEnableWorkloadResolver>
     <Authors>Spooky</Authors>
     <Company>SkyrimNet</Company>
     <Product>Spooky's AutoMod Toolkit</Product>

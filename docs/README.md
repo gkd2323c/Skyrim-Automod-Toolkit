@@ -17,6 +17,7 @@ Complete reference documentation for all modules.
 ## Quick Links
 
 - [LLM Usage Guide](llm-guide.md) - Patterns and examples for AI assistants
+- [Environment Troubleshooting](environment-troubleshooting.md) - Repair notes for broken .NET and build environments
 - [Main README](../README.md) - Installation and quick start
 
 ---
