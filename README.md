@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="graphics/spookys-automod-toolkit-logo.png" alt="Spooky's AutoMod Toolkit" width="400">
-</p>
-
-<h1 align="center">Spooky's AutoMod Toolkit</h1>
-
-<p align="center">
-  <strong>CLI toolkit for creating Skyrim mods, designed for use with AI assistants</strong>
-</p>
-
----
-
 ## Overview
 
 A command-line toolkit that enables AI assistants (Claude, ChatGPT, etc.) to create and modify Skyrim mods programmatically. Simply describe what you want and let the AI handle the technical work.
@@ -58,9 +46,11 @@ dotnet build SpookysAutomod.sln
 ```
 
 > **Note:** If you encounter NuGet restore errors, you may need to add the NuGet source first:
+> 
 > ```powershell
 > dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
 > ```
+> 
 > Then run `dotnet build SpookysAutomod.sln` again.
 
 **Verify:**
@@ -86,10 +76,12 @@ Script headers (`.psc` files) define the base types used by Papyrus scripts, suc
 You must obtain them from your own Creation Kit installation:
 
 1. **Download Creation Kit:**
+   
    - Skyrim SE: Available on Steam (Tools section)
    - Skyrim VR: Use Skyrim SE Creation Kit
 
 2. **Locate Headers:**
+   
    - Navigate to: `<Creation Kit Install>/Data/Scripts/Source/`
    - You'll find files like `Actor.psc`, `Game.psc`, `Quest.psc`, etc.
 
@@ -134,12 +126,14 @@ papyrus compile "./Scripts" --headers "C:/Program Files (x86)/Steam/steamapps/co
 For compiling mods that use **SKSE** (Skyrim Script Extender) or **SkyUI** (MCM menus), additional headers are required:
 
 **SKSE Headers:**
+
 - Required for: Mods using SKSE functions (`GetDisplayName`, `RegisterForMenu`, `StringUtil`, etc.)
 - Download: https://skse.silverlock.org/ (get the SDK package)
 - Install to: `tools/papyrus-compiler/headers/skse/`
 - Extract `Scripts/Source/` contents to this directory
 
 **SkyUI Headers:**
+
 - Required for: Mods with MCM (Mod Configuration Menu)
 - Download: https://github.com/schlangster/skyui/wiki or Nexus Mods
 - Install to: `tools/papyrus-compiler/headers/skyui/`
@@ -169,9 +163,13 @@ Building SKSE plugins requires two tools:
 **Step 1: Install CMake**
 
 1. Download CMake from: https://cmake.org/download/
+
 2. Get the Windows x64 Installer (e.g., `cmake-3.28.0-windows-x86_64.msi`)
+
 3. During installation, select **"Add CMake to the system PATH for all users"**
+
 4. Verify installation:
+   
    ```bash
    cmake --version
    ```
@@ -179,15 +177,23 @@ Building SKSE plugins requires two tools:
 **Step 2: Install MSVC Build Tools**
 
 1. Download from: https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022
+
 2. Scroll down to "Tools for Visual Studio" → "Build Tools for Visual Studio 2022"
+
 3. Run the installer (`vs_BuildTools.exe`)
+
 4. In the installer, select **"Desktop development with C++"** workload
+
 5. This includes:
+   
    - MSVC C++ compiler
    - Windows SDK
    - CMake integration
+
 6. Click "Install" (requires ~7 GB disk space)
+
 7. Verify installation:
+   
    ```bash
    # Open a new command prompt
    cl
@@ -226,14 +232,17 @@ cmake --build build --config Release
 ### Troubleshooting
 
 **"cmake: command not found"**
+
 - Restart your terminal after CMake installation
 - Or manually add to PATH: `C:\Program Files\CMake\bin`
 
 **"'cl' is not recognized"**
+
 - Open "x64 Native Tools Command Prompt for VS 2022" (installed with Build Tools)
 - Or run: `"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat"`
 
 **"Cannot open include file 'windows.h'"**
+
 - Reinstall Build Tools and ensure "Windows SDK" is selected
 
 ---
@@ -300,12 +309,13 @@ Copy `MyMod.esp` to your Skyrim `Data` folder and enable it in your mod manager.
 
 To get any AI assistant (ChatGPT, Claude, etc.) ready to use the toolkit:
 
-1. **Copy the initialization prompt:** See [LLM Init Prompt](docs/llm-init-prompt.md)
+1. **Copy the initialization prompt:** See [LLM Init Prompt](agents.md)
 2. **Paste it into your AI chat**
 3. **Provide the toolkit path**
 4. **Start making requests!**
 
 The initialization prompt gives the AI all essential context in ~200 lines, including:
+
 - Critical principles (--json flag, headers, models, effects)
 - Common gotchas and what to avoid
 - Quick reference for common tasks
@@ -319,7 +329,7 @@ The AI will run the appropriate commands to create the plugin and add the record
 
 ### Documentation
 
-- **[LLM Init Prompt](docs/llm-init-prompt.md)** - Quick onboarding (copy & paste this!)
+- [LLM Init Prompt](agents.md)  - Quick onboarding
 - **[LLM Guide](docs/llm-guide.md)** - Comprehensive patterns and examples
 
 ---
@@ -330,15 +340,15 @@ This toolkit includes **Claude Code Skills** - specialized instruction files tha
 
 ### Available Skills
 
-| Skill | Trigger | Purpose |
-|-------|---------|---------|
-| `skyrim-esp` | Create plugins, add weapons/armor/spells/perks, NPC AI packages, view/override records | Full ESP/ESL plugin creation and modification with complete NPC AI support (36 package types) |
-| `skyrim-papyrus` | Write scripts, fix script errors | Compile, decompile, validate, generate scripts |
-| `skyrim-mcm` | Add mod settings menu | Create MCM Helper configurations |
-| `skyrim-archive` | Package or extract BSA files, edit archives | Read, extract, create, and modify archives without full repackaging |
-| `skyrim-nif` | Mesh inspection & editing | Inspect, retexture, fix eyes, verify NIF files |
-| `skyrim-audio` | Work with voice files | Handle FUZ/XWM/WAV audio |
-| `skyrim-skse` | Create/build native plugins | Generate and build SKSE C++ plugin projects end-to-end |
+| Skill            | Trigger                                                                                | Purpose                                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `skyrim-esp`     | Create plugins, add weapons/armor/spells/perks, NPC AI packages, view/override records | Full ESP/ESL plugin creation and modification with complete NPC AI support (36 package types) |
+| `skyrim-papyrus` | Write scripts, fix script errors                                                       | Compile, decompile, validate, generate scripts                                                |
+| `skyrim-mcm`     | Add mod settings menu                                                                  | Create MCM Helper configurations                                                              |
+| `skyrim-archive` | Package or extract BSA files, edit archives                                            | Read, extract, create, and modify archives without full repackaging                           |
+| `skyrim-nif`     | Mesh inspection & editing                                                              | Inspect, retexture, fix eyes, verify NIF files                                                |
+| `skyrim-audio`   | Work with voice files                                                                  | Handle FUZ/XWM/WAV audio                                                                      |
+| `skyrim-skse`    | Create/build native plugins                                                            | Generate and build SKSE C++ plugin projects end-to-end                                        |
 
 ### How It Works
 
@@ -463,22 +473,22 @@ papyrus compile "./Debug/Source" --output "./Debug/Scripts" --headers "C:/Skyrim
 
 ### Works Immediately
 
-| Type           | Description                                      |
-| -------------- | ------------------------------------------------ |
-| Books          | Custom text, lore, journals                      |
-| Quests         | Quest framework for scripted content             |
-| Globals        | Configuration variables                          |
-| Factions       | Tracking groups, crime factions                  |
-| Quest Aliases  | Reference containers with scripts                |
-| Spells         | Damage, heal, buff spells (use `--effect`)       |
-| Perks          | Combat, magic, stealth perks (`--effect`)        |
-| Leveled Items  | Random loot distribution with presets            |
-| Form Lists     | Collections of records for scripts               |
-| Encounter Zones| Level scaling zones with presets                 |
-| Locations      | Named areas for quests and fast travel           |
-| Outfits        | NPC equipment sets with presets                  |
-| MCM Menus      | Mod configuration menus                          |
-| Scripts        | Papyrus script templates                         |
+| Type            | Description                                |
+| --------------- | ------------------------------------------ |
+| Books           | Custom text, lore, journals                |
+| Quests          | Quest framework for scripted content       |
+| Globals         | Configuration variables                    |
+| Factions        | Tracking groups, crime factions            |
+| Quest Aliases   | Reference containers with scripts          |
+| Spells          | Damage, heal, buff spells (use `--effect`) |
+| Perks           | Combat, magic, stealth perks (`--effect`)  |
+| Leveled Items   | Random loot distribution with presets      |
+| Form Lists      | Collections of records for scripts         |
+| Encounter Zones | Level scaling zones with presets           |
+| Locations       | Named areas for quests and fast travel     |
+| Outfits         | NPC equipment sets with presets            |
+| MCM Menus       | Mod configuration menus                    |
+| Scripts         | Papyrus script templates                   |
 
 ### Needs `--model` Flag
 
@@ -489,9 +499,9 @@ papyrus compile "./Debug/Source" --output "./Debug/Scripts" --headers "C:/Skyrim
 
 ### Record Only (Advanced)
 
-| Type | Notes                              |
-| ---- | ---------------------------------- |
-| NPCs | Need race/face data to be visible  |
+| Type | Notes                             |
+| ---- | --------------------------------- |
+| NPCs | Need race/face data to be visible |
 
 ---
 
@@ -685,48 +695,48 @@ skse add-function "./ProjectFolder" --name "FuncName" --return "Int" --param "Ac
 
 ## Record Options
 
-| Record | Options                                                          |
-| ------ | ---------------------------------------------------------------- |
-| Quest  | `--name`, `--priority`, `--start-enabled`, `--run-once`          |
-| Spell  | `--name`, `--type`, `--cast-type`, `--target-type`               |
-| Global | `--type` (short/long/float), `--value`                           |
-| Faction | `--name`, `--hidden`, `--track-crime`                           |
-| Alias  | `--quest`, `--name`, `--script`, `--flags`                       |
-| Weapon | `--name`, `--type`, `--damage`, `--value`, `--weight`, `--model` |
-| Armor  | `--name`, `--type`, `--slot`, `--rating`, `--value`, `--model`   |
-| NPC    | `--name`, `--level`, `--female`, `--essential`, `--unique`       |
-| Book   | `--name`, `--text`, `--value`, `--weight`                        |
-| Perk   | `--name`, `--description`, `--playable`, `--hidden`              |
-| LeveledItem | `--name`, `--chance-none`, `--add-entry`, `--preset`        |
-| FormList | `--add-form` (FormKey or EditorID)                              |
+| Record        | Options                                                                            |
+| ------------- | ---------------------------------------------------------------------------------- |
+| Quest         | `--name`, `--priority`, `--start-enabled`, `--run-once`                            |
+| Spell         | `--name`, `--type`, `--cast-type`, `--target-type`                                 |
+| Global        | `--type` (short/long/float), `--value`                                             |
+| Faction       | `--name`, `--hidden`, `--track-crime`                                              |
+| Alias         | `--quest`, `--name`, `--script`, `--flags`                                         |
+| Weapon        | `--name`, `--type`, `--damage`, `--value`, `--weight`, `--model`                   |
+| Armor         | `--name`, `--type`, `--slot`, `--rating`, `--value`, `--model`                     |
+| NPC           | `--name`, `--level`, `--female`, `--essential`, `--unique`                         |
+| Book          | `--name`, `--text`, `--value`, `--weight`                                          |
+| Perk          | `--name`, `--description`, `--playable`, `--hidden`                                |
+| LeveledItem   | `--name`, `--chance-none`, `--add-entry`, `--preset`                               |
+| FormList      | `--add-form` (FormKey or EditorID)                                                 |
 | EncounterZone | `--min-level`, `--max-level`, `--never-resets`, `--match-pc-below-min`, `--preset` |
-| Location | `--name`, `--parent-location`, `--add-keyword`, `--preset`      |
-| Outfit | `--add-item`, `--preset`                                         |
+| Location      | `--name`, `--parent-location`, `--add-keyword`, `--preset`                         |
+| Outfit        | `--add-item`, `--preset`                                                           |
 
 ---
 
 ## Modules
 
-| Module    | Purpose                  |
-| --------- | ------------------------ |
-| `esp`     | Plugin files (.esp/.esl) |
-| `papyrus` | Papyrus scripts          |
+| Module    | Purpose                   |
+| --------- | ------------------------- |
+| `esp`     | Plugin files (.esp/.esl)  |
+| `papyrus` | Papyrus scripts           |
 | `nif`     | 3D mesh reading & editing |
-| `archive` | BSA/BA2 archives         |
-| `mcm`     | Mod configuration menus  |
-| `audio`   | Game audio files         |
-| `skse`    | SKSE C++ plugin projects |
+| `archive` | BSA/BA2 archives          |
+| `mcm`     | Mod configuration menus   |
+| `audio`   | Game audio files          |
+| `skse`    | SKSE C++ plugin projects  |
 
 ---
 
 ## External Tools
 
-| Tool             | Purpose           | Auto-Download                                                        |
-| ---------------- | ----------------- | -------------------------------------------------------------------- |
-| papyrus-compiler | Compile scripts   | Yes                                                                  |
-| Champollion      | Decompile scripts | Yes                                                                  |
-| BSArch           | Create archives   | No - [Get from xEdit](https://github.com/TES5Edit/TES5Edit/releases) |
-| nif-tool         | NIF mesh editing  | Bundled in `tools/nif-tool/` |
+| Tool             | Purpose           | location                    |
+| ---------------- | ----------------- | --------------------------- |
+| papyrus-compiler | Compile scripts   | `./tools/papyrus-compiler/` |
+| Champollion      | Decompile scripts | `./tools/champollion/`      |
+| BSArch           | Create archives   | `./tools/BSArch/`           |
+| nif-tool         | NIF mesh editing  | `./tools/nif-tool/`         |
 
 ---
 
@@ -747,9 +757,11 @@ dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp" --json
 **"Build failed"** - Run `dotnet restore SpookysAutomod.sln` then `dotnet build SpookysAutomod.sln`
 
 **"Unable to load the service index for source" / NuGet restore errors** - Add the NuGet source:
+
 ```powershell
 dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
 ```
+
 Then run `dotnet restore SpookysAutomod.sln` and `dotnet build SpookysAutomod.sln`
 
 **"Tool not found"** - Run `papyrus status` to check/download tools
