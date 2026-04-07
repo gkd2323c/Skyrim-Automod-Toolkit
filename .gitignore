@@ -23,12 +23,9 @@ packages/
 # Exception: Don't ignore source directories that end with .Esp
 !**/SpookysAutomod.Esp/
 
-# Tools (auto-downloaded)
-tools/
 
-# Papyrus script headers (copyrighted by Bethesda - user must provide)
-skyrim-script-headers/*.psc
-skyrim-script-headers/*.flg
+
+
 
 # Papyrus compiler cache
 .papyrus/

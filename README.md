@@ -1,788 +1,306 @@
-## Overview
+# Spooky's AutoMod Toolkit
 
-A command-line toolkit that enables AI assistants (Claude, ChatGPT, etc.) to create and modify Skyrim mods programmatically. Simply describe what you want and let the AI handle the technical work.
+AI-first command-line toolkit for creating, inspecting, patching, and troubleshooting Skyrim mods on Windows.
 
+This repository exists to make Skyrim modding accessible to AI agents. Instead of relying on the Creation Kit GUI, agents can use structured CLI commands with JSON responses to create plugin records, compile Papyrus scripts, inspect archives, work with meshes, build MCM configs, process voice assets, and scaffold SKSE plugins.
+
+## Start Here If You Are an AI Agent
+
+Treat this repository as an execution environment, not just a codebase to read.
+
+### Core Command Format
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- <module> <command> [args] [options] --json
 ```
-> "Create a sword called Frostbane that does 30 damage"
-> "Decompile the scripts from this mod so I can see how it works"
-> "Update just the broken script in this BSA without extracting everything"
-> "Add a new perk to my existing mod"
+
+### Non-Negotiable Rules
+
+1. Always use `--json` on toolkit commands.
+2. Parse the JSON response and check `success` before continuing.
+3. Run `papyrus status --json` before the first Papyrus operation.
+4. Run `archive status --json` before the first archive operation.
+5. Validate paths before using them, especially `--headers`, `--data-folder`, and archive paths.
+6. Use `esp auto-fill` or `esp auto-fill-all` for vanilla Papyrus properties instead of manually wiring Skyrim records.
+7. Never create weapons or armor without `--model`.
+8. Never create spells or perks without `--effect`.
+9. Stop on failures and surface `error`, `errorContext`, and `suggestions`.
+10. Prefer toolkit commands over ad hoc shell parsing when a module already supports the task.
+
+### JSON Contract
+
+Typical success shape:
+
+```json
+{
+  "success": true,
+  "result": { }
+}
 ```
 
-Create new mods, inspect existing ones, edit archives, decompile scripts, view records, and more.
+Typical error shape:
 
----
+```json
+{
+  "success": false,
+  "error": "Human-readable summary",
+  "errorContext": "Detailed context",
+  "suggestions": ["Suggested next step 1", "Suggested next step 2"]
+}
+```
 
-## Requirements
+### Canonical Agent Docs
 
-- **Windows**
-- **.NET 8.0 SDK** - [Download](https://dotnet.microsoft.com/download/dotnet/8.0)
-- **Skyrim Special Edition** (for testing)
+- [AGENTS.md](AGENTS.md): primary operating contract for AI agents using this toolkit
+- [docs/llm-guide.md](docs/llm-guide.md): longer workflow catalog and advanced examples
+- [docs/README.md](docs/README.md): module-by-module reference index
+- [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md): .NET and build-environment recovery notes
 
----
+## What This Toolkit Covers
+
+| Module | What Agents Can Do | Key Notes |
+| --- | --- | --- |
+| `esp` | Create and edit `.esp/.esl` plugins, add records, inspect records, create override patches, manage conditions | Built on Mutagen; core mod-authoring module |
+| `papyrus` | Generate, validate, compile, and decompile scripts | Requires script headers for compilation |
+| `archive` | Inspect, extract, diff, validate, merge, and edit BSA/BA2 archives | Requires `BSArch` for full archive workflows |
+| `nif` | Inspect meshes, list and replace texture paths, rename strings, fix eye shaders, verify roundtrip safety | Uses bundled `nif-tool` |
+| `mcm` | Generate MCM Helper config files | Useful for mod configuration UIs |
+| `audio` | Work with FUZ/XWM/WAV assets | Useful for voice workflows |
+| `skse` | Scaffold and build SKSE C++ plugins | Requires CMake and MSVC build tools |
+| `setup` | Bootstrap a modding environment through a Windows setup wizard | Human-friendly entry point |
+
+## Recommended Agent Startup Sequence
+
+Use this sequence when entering an unfamiliar checkout or release folder.
+
+### 1. Confirm the Toolkit Path
+
+Work from the repository root or extracted release root.
+
+### 2. Restore and Build if You Are in a Source Checkout
+
+```bash
+dotnet restore SpookysAutomod.sln -p:NuGetAudit=false
+dotnet build SpookysAutomod.sln -p:NuGetAudit=false
+```
+
+If build or restore fails before compilation starts, use [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md).
+
+### 3. Check Tool Status Before Specialized Work
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- papyrus status --json
+dotnet run --project src/SpookysAutomod.Cli -- archive status --json
+```
+
+Interpretation:
+
+- If `papyrus status` fails, do not attempt compilation until the compiler toolchain is ready.
+- If `archive status` reports `BSArch not found`, the .NET environment is probably fine and only the archive dependency is missing.
+
+### 4. Validate Required Paths
+
+Before specific workflows, confirm:
+
+- `skyrim-script-headers/` exists and contains `.psc` files if you will compile Papyrus.
+- Your Skyrim `Data` folder exists and contains `Skyrim.esm` if you will use auto-fill.
+- `cmake` and `cl` are available if you will build SKSE plugins.
+
+### 5. Pick the Smallest Workflow That Solves the User Request
+
+- Simple item or quest record with no scripts: use `esp`
+- Scripted quest or alias logic: use `esp` + `papyrus` + auto-fill
+- Compatibility patch or balance fix: use `esp view-record`, `esp create-override`, and condition tooling
+- Reverse engineering or bug triage: use `esp info`, `archive`, `papyrus decompile`, and `nif`
+
+## High-Value Workflows
+
+These are the workflows most AI agents should reach for first.
+
+### 1. Create a Simple Plugin
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp create "MyMod.esp" --light --author "Agent" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp add-book "MyMod.esp" "MM_LoreBook" --name "Lore Notes" --text "Text goes here" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp add-weapon "MyMod.esp" "MM_Sword" --name "Frostbane" --type sword --damage 30 --model iron-sword --json
+dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp" --json
+```
+
+Use this when the user wants records that do not need custom script logic.
+
+### 2. Create a Scripted Quest with Auto-Fill
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- papyrus status --json
+dotnet run --project src/SpookysAutomod.Cli -- esp create "QuestMod.esp" --light --json
+dotnet run --project src/SpookysAutomod.Cli -- esp add-quest "QuestMod.esp" "QM_MainQuest" --name "Quest Mod" --start-enabled --json
+dotnet run --project src/SpookysAutomod.Cli -- papyrus generate --name "QM_MainQuestScript" --extends Quest --output "./Scripts/Source" --json
+dotnet run --project src/SpookysAutomod.Cli -- papyrus compile "./Scripts/Source/QM_MainQuestScript.psc" --output "./Scripts" --headers "./skyrim-script-headers" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp attach-script "QuestMod.esp" --quest "QM_MainQuest" --script "QM_MainQuestScript" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp auto-fill "QuestMod.esp" --quest "QM_MainQuest" --script "QM_MainQuestScript" --psc-file "./Scripts/Source/QM_MainQuestScript.psc" --data-folder "C:/Path/To/Skyrim/Data" --json
+```
+
+Use this for quests, aliases, or systems that reference vanilla records such as keywords, globals, factions, locations, or forms from `Skyrim.esm`.
+
+### 3. Inspect or Patch an Existing Mod
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp info "ExistingMod.esp" --json
+dotnet run --project src/SpookysAutomod.Cli -- esp view-record "ExistingMod.esp" --editor-id "SomeRecord" --type weapon --json
+dotnet run --project src/SpookysAutomod.Cli -- esp create-override "ExistingMod.esp" -o "Patch.esp" --editor-id "SomeRecord" --type weapon --json
+dotnet run --project src/SpookysAutomod.Cli -- esp list-conditions "ExistingMod.esp" --editor-id "SomePerk" --type perk --json
+```
+
+Use this when the user wants a compatibility patch, a balance adjustment, or an explanation of what another mod is doing.
+
+### 4. Troubleshoot a Broken Mod
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- esp info "BrokenMod.esp" --json
+dotnet run --project src/SpookysAutomod.Cli -- archive status --json
+dotnet run --project src/SpookysAutomod.Cli -- archive list "BrokenMod.bsa" --json
+dotnet run --project src/SpookysAutomod.Cli -- archive extract "BrokenMod.bsa" --output "./Debug" --json
+dotnet run --project src/SpookysAutomod.Cli -- papyrus decompile "./Debug/Scripts/BrokenScript.pex" --output "./Debug/Source" --json
+dotnet run --project src/SpookysAutomod.Cli -- nif list-textures "./Debug/Meshes/SomeMesh.nif" --json
+```
+
+Use this to inspect plugins, archives, scripts, and meshes as a single debugging workflow.
+
+## Environment Checklist
+
+| Requirement | Needed For | How to Verify |
+| --- | --- | --- |
+| Windows | All modules | Native platform target |
+| .NET 8 SDK | Source checkout builds and local development | `dotnet --version` |
+| Skyrim installation | Testing and auto-fill workflows | Confirm `Data/Skyrim.esm` exists |
+| Papyrus script headers | Script compilation | `skyrim-script-headers/*.psc` present |
+| `BSArch` | Archive create and edit workflows | `archive status --json` |
+| CMake | SKSE builds | `cmake --version` |
+| MSVC Build Tools (`cl`) | SKSE builds | `cl` in terminal |
+
+### External Tool Behavior
+
+- `papyrus-compiler` and `Champollion` are managed by the toolkit.
+- `BSArch` is not bundled and may need manual installation.
+- NIF workflows use the bundled `tools/nif-tool`.
 
 ## Installation
 
-**Option A: Setup Wizard (Recommended)**
+### Option A: Setup Wizard
 
-1. Download the latest release from [Releases](https://github.com/SpookyPirate/spookys-automod-toolkit/releases)
-2. Create a new folder for your modding project (e.g., `C:\MyModProject`) or use an existing one
-3. Extract the ZIP into that folder — this is where you'll build your mods
-4. Run `SpookysAutomodSetup.exe` from the extracted folder
-5. The wizard will:
-   - Detect your Skyrim installation (SE/VR)
-   - Link Papyrus script headers automatically
-   - Download SKSE headers (SE + VR) and SkyUI headers
-   - Download Papyrus compiler and decompiler
-   - Detect CMake and MSVC build tools
-   - Build and verify the toolkit
+Recommended for humans who want a guided setup.
 
-**Option B: Git**
+1. Download the latest release from the GitHub Releases page.
+2. Extract it into a working mod-project folder.
+3. Run `SpookysAutomodSetup.exe`.
+4. Let the wizard detect Skyrim, link headers, download required tools, and verify the toolkit.
+
+### Option B: Source Checkout
 
 ```bash
 git clone https://github.com/SpookyPirate/spookys-automod-toolkit.git
 cd spookys-automod-toolkit
-dotnet build SpookysAutomod.sln
+dotnet restore SpookysAutomod.sln -p:NuGetAudit=false
+dotnet build SpookysAutomod.sln -p:NuGetAudit=false
 ```
 
-> **Note:** If you encounter NuGet restore errors, you may need to add the NuGet source first:
-> 
-> ```powershell
-> dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
-> ```
-> 
-> Then run `dotnet build SpookysAutomod.sln` again.
-
-**Verify:**
+Verify the CLI:
 
 ```bash
 dotnet run --project src/SpookysAutomod.Cli -- --help
 ```
 
----
+## Papyrus Headers
 
-## Papyrus Script Headers (Required for Compilation)
+Papyrus compilation requires Bethesda script headers such as `Actor.psc`, `Quest.psc`, and `Game.psc`.
 
-If you plan to compile Papyrus scripts, you'll need the script headers from the Creation Kit.
+- The repository includes the `skyrim-script-headers/` directory but does not ship the copyrighted header files.
+- Obtain headers from your own Creation Kit installation.
+- Prefer `papyrus setup-headers --json` or place the headers into `./skyrim-script-headers/`.
+- Do not commit header `.psc` files to version control.
 
-### What Are Script Headers?
-
-Script headers (`.psc` files) define the base types used by Papyrus scripts, such as `Actor`, `Game`, `Quest`, `GlobalVariable`, etc. Without these headers, the Papyrus compiler cannot understand script code and will fail with "invalid type" errors.
-
-### Where to Get Them
-
-**DO NOT download headers from the internet** - they are copyrighted by Bethesda.
-
-You must obtain them from your own Creation Kit installation:
-
-1. **Download Creation Kit:**
-   
-   - Skyrim SE: Available on Steam (Tools section)
-   - Skyrim VR: Use Skyrim SE Creation Kit
-
-2. **Locate Headers:**
-   
-   - Navigate to: `<Creation Kit Install>/Data/Scripts/Source/`
-   - You'll find files like `Actor.psc`, `Game.psc`, `Quest.psc`, etc.
-
-### Installation
-
-**Option A: Copy to toolkit directory (Recommended)**
-
-Copy all `.psc` files from Creation Kit to the toolkit's `skyrim-script-headers/` directory (in the toolkit root folder):
+Example:
 
 ```bash
-# From the toolkit root directory (spookys-automod-toolkit/)
-
-# Windows PowerShell
-Copy-Item "C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Scripts\Source\*.psc" `
-  ".\skyrim-script-headers\"
-
-# Git Bash / WSL
-cp "/c/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/Data/Scripts/Source/"*.psc \
-  ./skyrim-script-headers/
+dotnet run --project src/SpookysAutomod.Cli -- papyrus setup-headers --json
 ```
 
-This will place the headers in: `spookys-automod-toolkit/skyrim-script-headers/*.psc`
+## SKSE Build Requirements
 
-**Option B: Use Creation Kit path directly**
+Native SKSE plugin development requires:
 
-You can also reference the Creation Kit headers directly using the `--headers` flag:
+- CMake
+- MSVC Build Tools with C++ workload
+
+Example workflow:
 
 ```bash
-papyrus compile "./Scripts" --headers "C:/Program Files (x86)/Steam/steamapps/common/Skyrim Special Edition/Data/Scripts/Source"
+dotnet run --project src/SpookysAutomod.Cli -- skse create "MyPlugin" --output "./" --json
+dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin" --config Release --json
 ```
 
-### Important Notes
+## Repository Layout
 
-- **Directory Location:** The `skyrim-script-headers/` directory is in the toolkit root (same level as `src/`, `docs/`, etc.)
-- **Empty by Default:** The directory exists but contains no `.psc` files - you must copy them from Creation Kit
-- **VR vs SE:** If targeting Skyrim VR, use headers from the VR-compatible Creation Kit
-- **Copyright:** DO NOT commit `.psc` headers to version control - they are Bethesda's intellectual property
-- **Git Ignore:** The `.gitignore` file already excludes `skyrim-script-headers/*.psc` to prevent accidental commits
-
-### Advanced: SKSE and SkyUI Headers
-
-For compiling mods that use **SKSE** (Skyrim Script Extender) or **SkyUI** (MCM menus), additional headers are required:
-
-**SKSE Headers:**
-
-- Required for: Mods using SKSE functions (`GetDisplayName`, `RegisterForMenu`, `StringUtil`, etc.)
-- Download: https://skse.silverlock.org/ (get the SDK package)
-- Install to: `tools/papyrus-compiler/headers/skse/`
-- Extract `Scripts/Source/` contents to this directory
-
-**SkyUI Headers:**
-
-- Required for: Mods with MCM (Mod Configuration Menu)
-- Download: https://github.com/schlangster/skyui/wiki or Nexus Mods
-- Install to: `tools/papyrus-compiler/headers/skyui/`
-- Copy MCM scripts (`SKI_ConfigBase.psc`, etc.) to this directory
-
-The compiler automatically detects and uses these headers when present. See `tools/papyrus-compiler/headers/README.md` for detailed setup instructions.
-
----
-
-## SKSE C++ Build Tools (Required for SKSE Plugin Development)
-
-If you plan to create SKSE (Skyrim Script Extender) native plugins, you'll need C++ build tools.
-
-### What Are SKSE Plugins?
-
-SKSE plugins are DLL files written in C++ that extend Skyrim's functionality at a native level. They can add new Papyrus functions, hook game events, and access internal game data that scripts cannot.
-
-### Build Requirements
-
-Building SKSE plugins requires two tools:
-
-1. **CMake** - Build system generator
-2. **MSVC Build Tools** - Microsoft C++ compiler (no Visual Studio IDE needed)
-
-### Installation
-
-**Step 1: Install CMake**
-
-1. Download CMake from: https://cmake.org/download/
-
-2. Get the Windows x64 Installer (e.g., `cmake-3.28.0-windows-x86_64.msi`)
-
-3. During installation, select **"Add CMake to the system PATH for all users"**
-
-4. Verify installation:
-   
-   ```bash
-   cmake --version
-   ```
-
-**Step 2: Install MSVC Build Tools**
-
-1. Download from: https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022
-
-2. Scroll down to "Tools for Visual Studio" → "Build Tools for Visual Studio 2022"
-
-3. Run the installer (`vs_BuildTools.exe`)
-
-4. In the installer, select **"Desktop development with C++"** workload
-
-5. This includes:
-   
-   - MSVC C++ compiler
-   - Windows SDK
-   - CMake integration
-
-6. Click "Install" (requires ~7 GB disk space)
-
-7. Verify installation:
-   
-   ```bash
-   # Open a new command prompt
-   cl
-   # Should show: "Microsoft (R) C/C++ Optimizing Compiler"
-   ```
-
-### Important Notes
-
-- **No IDE Required:** You do NOT need Visual Studio IDE - just the Build Tools
-- **PATH Configuration:** Build Tools should automatically add `cl.exe` to PATH
-- **First Build:** The first build will download vcpkg dependencies (CommonLibSSE-NG) - this takes a few minutes
-- **Target Versions:** Generated plugins work on Skyrim SE, AE, GOG, and VR from a single DLL
-
-### Building an SKSE Plugin
-
-Once tools are installed, the complete workflow is:
-
-```bash
-# 1. Generate project
-dotnet run --project src/SpookysAutomod.Cli -- skse create "MyPlugin" --template basic --output "./"
-
-# 2. Build using the toolkit (recommended)
-dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyPlugin"
-
-# Output: MyPlugin/build/Release/MyPlugin.dll
+```text
+src/
+|- SpookysAutomod.Core/       Shared result models, logging, shared types
+|- SpookysAutomod.Cli/        CLI entry point and commands
+|- SpookysAutomod.Esp/        Plugin and record manipulation
+|- SpookysAutomod.Papyrus/    Script generation, validation, compilation, decompilation
+|- SpookysAutomod.Archive/    BSA/BA2 archive workflows
+|- SpookysAutomod.Nif/        Mesh inspection and editing helpers
+|- SpookysAutomod.Mcm/        MCM config generation
+|- SpookysAutomod.Audio/      Audio and voice-file workflows
+|- SpookysAutomod.Skse/       SKSE project generation and build orchestration
+|- SpookysAutomod.Setup/      Windows setup wizard
+docs/                        Module references and troubleshooting docs
+tools/                       External tools and bundled helpers
+.claude/skills/              Claude Code skills for module-specific behavior
+AGENTS.md                    Agent initialization prompt and operating rules
 ```
 
-Or build manually with CMake:
-
-```bash
-cd MyPlugin
-cmake -B build -S .
-cmake --build build --config Release
-```
-
-### Troubleshooting
-
-**"cmake: command not found"**
-
-- Restart your terminal after CMake installation
-- Or manually add to PATH: `C:\Program Files\CMake\bin`
-
-**"'cl' is not recognized"**
-
-- Open "x64 Native Tools Command Prompt for VS 2022" (installed with Build Tools)
-- Or run: `"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat"`
-
-**"Cannot open include file 'windows.h'"**
-
-- Reinstall Build Tools and ensure "Windows SDK" is selected
-
----
-
-## Quick Start
-
-### Create a Plugin
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp create "MyMod" --light --author "YourName"
-```
-
-### Add a Book
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp add-book "MyMod.esp" "MyBook" --name "Ancient Tome" --text "Long ago, in a land far away..." --value 50
-```
-
-### Add a Weapon (Requires model)
-
-Weapons need a 3D model to be visible. Use `--model` to borrow a vanilla appearance:
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp add-weapon "MyMod.esp" "MySword" --name "Blade of Legends" --type sword --damage 30 --model iron-sword
-```
-
-**Model presets:** `iron-sword`, `steel-sword`, `iron-dagger`, `hunting-bow`
-
-### Add a Spell
-
-Create spells with actual effects using `--effect`:
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp add-spell "MyMod.esp" "MySpell" --name "Fire Blast" --effect damage-health --magnitude 50 --cost 45
-```
-
-**Effect presets:** `damage-health`, `restore-health`, `fortify-health`, `fortify-armor`, etc.
-
-### Add a Perk
-
-Create perks with gameplay effects using `--effect`:
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp add-perk "MyMod.esp" "MyPerk" --name "Warrior's Might" --description "+25% damage" --effect weapon-damage --bonus 25 --playable
-```
-
-**Effect presets:** `weapon-damage`, `damage-reduction`, `spell-cost`, `sneak-attack`, etc.
-
-### Check Your Mod
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp"
-```
-
-### Install
-
-Copy `MyMod.esp` to your Skyrim `Data` folder and enable it in your mod manager.
-
----
-
-## Using with AI
-
-### Quick Setup
-
-To get any AI assistant (ChatGPT, Claude, etc.) ready to use the toolkit:
-
-1. **Copy the initialization prompt:** See [LLM Init Prompt](agents.md)
-2. **Paste it into your AI chat**
-3. **Provide the toolkit path**
-4. **Start making requests!**
-
-The initialization prompt gives the AI all essential context in ~200 lines, including:
-
-- Critical principles (--json flag, headers, models, effects)
-- Common gotchas and what to avoid
-- Quick reference for common tasks
-- Error handling guidance
-
-**Example request:**
-
-**You:** "Create a mod with a set of thief armor and a matching dagger"
-
-The AI will run the appropriate commands to create the plugin and add the records.
-
-### Documentation
-
-- [LLM Init Prompt](agents.md)  - Quick onboarding
-- **[LLM Guide](docs/llm-guide.md)** - Comprehensive patterns and examples
-
----
-
-## Claude Code Skills
-
-This toolkit includes **Claude Code Skills** - specialized instruction files that teach Claude Code how to use each module effectively. When you open a project with these skills, Claude automatically knows how to create mods, troubleshoot issues, and work with Skyrim files.
-
-### Available Skills
-
-| Skill            | Trigger                                                                                | Purpose                                                                                       |
-| ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| `skyrim-esp`     | Create plugins, add weapons/armor/spells/perks, NPC AI packages, view/override records | Full ESP/ESL plugin creation and modification with complete NPC AI support (36 package types) |
-| `skyrim-papyrus` | Write scripts, fix script errors                                                       | Compile, decompile, validate, generate scripts                                                |
-| `skyrim-mcm`     | Add mod settings menu                                                                  | Create MCM Helper configurations                                                              |
-| `skyrim-archive` | Package or extract BSA files, edit archives                                            | Read, extract, create, and modify archives without full repackaging                           |
-| `skyrim-nif`     | Mesh inspection & editing                                                              | Inspect, retexture, fix eyes, verify NIF files                                                |
-| `skyrim-audio`   | Work with voice files                                                                  | Handle FUZ/XWM/WAV audio                                                                      |
-| `skyrim-skse`    | Create/build native plugins                                                            | Generate and build SKSE C++ plugin projects end-to-end                                        |
-
-### How It Works
-
-Skills are located in `.claude/skills/` and are automatically detected by Claude Code. Each skill contains:
-
-- **Description** - When to use this skill
-- **Command Reference** - All available commands with options
-- **Workflows** - Step-by-step examples for common tasks
-- **Troubleshooting** - How to diagnose and fix issues
-
-### Example Conversation
-
-```
-You: Create a fire damage spell that costs 50 magicka
-
-Claude: I'll create a spell using the ESP module.
-        [Runs: esp add-spell "MyMod.esp" "FireBlast" --name "Fire Blast"
-               --effect damage-health --magnitude 40 --cost 50]
-
-        Created spell "Fire Blast" that deals 40 fire damage for 50 magicka.
-```
-
-### Using Skills in Other Projects
-
-Copy the `.claude/skills/` folder to any project where you want Claude to have Skyrim modding capabilities:
-
-```bash
-cp -r spookys-automod-toolkit/.claude/skills/ your-project/.claude/skills/
-```
-
----
-
-## Working with Existing Mods
-
-The toolkit can also inspect, extract, and modify existing mods.
-
-### Inspect a Mod
-
-```bash
-# Check plugin contents and record counts
-esp info "SomeMod.esp"
-
-# List master dependencies
-esp list-masters "SomeMod.esp"
-
-# View detailed record information
-esp view-record "SomeMod.esp" --editor-id "CustomSpell" --type spell --json
-
-# See what's inside an archive
-archive list "SomeMod.bsa" --limit 50
-
-# Validate archive integrity
-archive validate "SomeMod.bsa"
-
-# Compare archive versions
-archive diff "SomeMod_v1.bsa" "SomeMod_v2.bsa"
-
-# Check what textures a mesh uses
-nif list-textures "Meshes/Armor/CustomArmor.nif"
-
-# Inspect MCM configuration
-mcm info "MCM/Config/SomeMod/config.json"
-```
-
-### Extract and Decompile
-
-```bash
-# Extract all files from an archive
-archive extract "SomeMod.bsa" --output "./Extracted"
-
-# Decompile a script back to source
-papyrus decompile "Scripts/SomeScript.pex" --output "./Source"
-
-# Extract FUZ audio to XWM + LIP
-audio extract-fuz "Sound/Voice/SomeMod.esp/NPC/Line.fuz" --output "./Audio"
-```
-
-### Modify an Existing Mod
-
-```bash
-# Add a new weapon to an existing plugin
-esp add-weapon "ExistingMod.esp" "NewSword" --name "Bonus Sword" --damage 35 --model iron-sword
-
-# Add a perk to an existing plugin
-esp add-perk "ExistingMod.esp" "BonusPerk" --name "Extra Damage" --effect weapon-damage --bonus 15 --playable
-
-# Merge records from one plugin into another
-esp merge "Patch.esp" "MainMod.esp" --output "MainMod_Patched.esp"
-
-# Edit archives without full repackaging
-archive add-files "ExistingMod.bsa" "./NewAssets" --base-dir "./NewAssets"
-archive remove-files "ExistingMod.bsa" --pattern "*.esp"
-archive replace-files "ExistingMod.bsa" "./UpdatedScripts" --pattern "scripts/*"
-archive update-file "ExistingMod.bsa" "./Fixed.pex" "scripts/broken.pex"
-
-# Scale a mesh
-nif scale "Meshes/Weapon.nif" 1.5 --output "Meshes/Weapon_Large.nif"
-```
-
-### Troubleshooting Workflow
-
-```bash
-# 1. Check the plugin
-esp info "BrokenMod.esp"
-
-# 2. Extract the BSA
-archive extract "BrokenMod.bsa" --output "./Debug"
-
-# 3. Decompile scripts to find issues
-papyrus decompile "./Debug/Scripts/BrokenScript.pex" --output "./Debug/Source"
-
-# 4. Check mesh textures
-nif list-textures "./Debug/Meshes/SomeArmor.nif"
-
-# 5. After fixing, recompile
-papyrus compile "./Debug/Source" --output "./Debug/Scripts" --headers "C:/Skyrim/Data/Scripts/Source"
-```
-
----
-
-## What You Can Create
-
-### Works Immediately
-
-| Type            | Description                                |
-| --------------- | ------------------------------------------ |
-| Books           | Custom text, lore, journals                |
-| Quests          | Quest framework for scripted content       |
-| Globals         | Configuration variables                    |
-| Factions        | Tracking groups, crime factions            |
-| Quest Aliases   | Reference containers with scripts          |
-| Spells          | Damage, heal, buff spells (use `--effect`) |
-| Perks           | Combat, magic, stealth perks (`--effect`)  |
-| Leveled Items   | Random loot distribution with presets      |
-| Form Lists      | Collections of records for scripts         |
-| Encounter Zones | Level scaling zones with presets           |
-| Locations       | Named areas for quests and fast travel     |
-| Outfits         | NPC equipment sets with presets            |
-| MCM Menus       | Mod configuration menus                    |
-| Scripts         | Papyrus script templates                   |
-
-### Needs `--model` Flag
-
-| Type    | Notes                                     |
-| ------- | ----------------------------------------- |
-| Weapons | Use preset or vanilla path for appearance |
-| Armor   | Use preset or vanilla path for appearance |
-
-### Record Only (Advanced)
-
-| Type | Notes                             |
-| ---- | --------------------------------- |
-| NPCs | Need race/face data to be visible |
-
----
-
-## Limitations
-
-This toolkit creates mod *data* (ESP records). It cannot create:
-
-- 3D models (use Blender + NifTools)
-- Textures (use Photoshop/GIMP)
-- Custom NPC faces (use Creation Kit)
-- World spaces, dungeons, terrain (use Creation Kit)
-- Complex quest stages and objectives
-
-However, you can reference any existing vanilla model with `--model`.
-
----
-
-## Command Reference
-
-### Plugin (esp)
-
-```bash
-# Plugin Creation & Info
-esp create "ModName" --light --author "Name"
-esp info "Mod.esp"
-esp debug-types [pattern]  # Show Mutagen type structures (e.g., "Quest*")
-
-# Record Creation (all support --dry-run for preview)
-esp add-quest "Mod.esp" "QuestID" --name "Quest Name" --start-enabled --dry-run
-esp add-spell "Mod.esp" "SpellID" --name "Spell Name" --type spell --dry-run
-esp add-global "Mod.esp" "GlobalID" --type int --value 1 --dry-run
-esp add-faction "Mod.esp" "FactionID" --name "Faction Name" --dry-run
-esp add-weapon "Mod.esp" "WeaponID" --name "Name" --type sword --damage 20 --model iron-sword --dry-run
-esp add-armor "Mod.esp" "ArmorID" --name "Name" --type light --slot body --rating 30 --model iron-cuirass --dry-run
-esp add-npc "Mod.esp" "NPCID" --name "Name" --level 20 --essential --dry-run
-esp add-book "Mod.esp" "BookID" --name "Name" --text "Content..." --dry-run
-esp add-perk "Mod.esp" "PerkID" --name "Name" --description "Effect" --playable --dry-run
-esp add-leveled-item "Mod.esp" "LeveledItemID" --name "Name" --chance-none 25 --preset low-treasure --dry-run
-esp add-form-list "Mod.esp" "FormListID" --add-form "Skyrim.esm:0x00012345" --dry-run
-esp add-encounter-zone "Mod.esp" "EncounterZoneID" --min-level 10 --max-level 30 --preset mid-level --dry-run
-esp add-location "Mod.esp" "LocationID" --name "Name" --preset inn --parent-location "ParentLocationID" --dry-run
-esp add-outfit "Mod.esp" "OutfitID" --preset guard --add-item "ItemID" --dry-run
-
-# NPC AI Packages (Complete - 36 types supported)
-# Basic behaviors
-esp add-package "Mod.esp" "PackageID" --type sandbox --radius 500 --location "LocationRef"
-esp add-package "Mod.esp" "PackageID" --type travel --marker "DestRef"
-esp add-package "Mod.esp" "PackageID" --type sleep --bed "BedRef" --start-hour 22 --duration 8
-esp add-package "Mod.esp" "PackageID" --type eat --furniture "ChairRef" --start-hour 12 --duration 2
-esp add-package "Mod.esp" "PackageID" --type follow --target "PlayerRef"
-esp add-package "Mod.esp" "PackageID" --type guard --marker "MarkerRef"
-esp add-package "Mod.esp" "PackageID" --type patrol --marker "PatrolRef"
-
-# Actions & activities
-esp add-package "Mod.esp" "PackageID" --type useitemat --item-ref "ForgeRef"  # Crafting, cooking
-esp add-package "Mod.esp" "PackageID" --type activate --item-ref "LeverRef"
-esp add-package "Mod.esp" "PackageID" --type sit --furniture "ChairRef"
-esp add-package "Mod.esp" "PackageID" --type useidlemarker --marker "IdleRef"  # Ambient activities
-esp add-package "Mod.esp" "PackageID" --type wander --marker "CenterRef" --radius 1000
-esp add-package "Mod.esp" "PackageID" --type wait --marker "WaitRef"
-esp add-package "Mod.esp" "PackageID" --type relax --marker "RelaxRef"
-
-# Combat & magic
-esp add-package "Mod.esp" "PackageID" --type flee --distance 1500
-esp add-package "Mod.esp" "PackageID" --type ambush --marker "AmbushRef"
-esp add-package "Mod.esp" "PackageID" --type useweapon --weapon-ref "WeaponRef" --target "TargetRef"
-esp add-package "Mod.esp" "PackageID" --type usemagic --spell-ref "SpellRef" --target "TargetRef"
-esp add-package "Mod.esp" "PackageID" --type castmagic --target "TargetRef"
-esp add-package "Mod.esp" "PackageID" --type shout --shout-ref "ShoutRef" --target "TargetRef"
-
-# Social & dialogue
-esp add-package "Mod.esp" "PackageID" --type dialogue --target "ActorRef"
-esp add-package "Mod.esp" "PackageID" --type forcegreet --target "PlayerRef"  # Quest interactions
-esp add-package "Mod.esp" "PackageID" --type greet --target "ActorRef"
-esp add-package "Mod.esp" "PackageID" --type say --topic-ref "TopicRef" --location-ref "LocRef"
-
-# Advanced behaviors
-esp add-package "Mod.esp" "PackageID" --type accompany --target "ActorRef" --destination "DestRef"
-esp add-package "Mod.esp" "PackageID" --type escortto --escort-ref "ActorRef" --destination "DestRef"
-esp add-package "Mod.esp" "PackageID" --type followto --follow-ref "ActorRef" --destination "DestRef"
-esp add-package "Mod.esp" "PackageID" --type acquire --object-ref "ItemRef"  # Pick up items
-esp add-package "Mod.esp" "PackageID" --type find --target "TargetRef"
-esp add-package "Mod.esp" "PackageID" --type holdposition --marker "PosRef"
-esp add-package "Mod.esp" "PackageID" --type keepaneyeon --target "WatchRef"  # Surveillance
-
-# Utility
-esp add-package "Mod.esp" "PackageID" --type lockdoors --door-ref "DoorRef"
-esp add-package "Mod.esp" "PackageID" --type unlockdoors --door-ref "DoorRef"
-esp add-package "Mod.esp" "PackageID" --type dismount
-
-# Flying creatures (dragons, etc.)
-esp add-package "Mod.esp" "PackageID" --type hover --marker "HoverRef" --radius 2000
-esp add-package "Mod.esp" "PackageID" --type orbit --marker "OrbitRef" --radius 800
-
-# Attach packages to NPCs (evaluated in order)
-esp attach-package "Mod.esp" --npc "NPCID" --package "PackageID"
-
-# Alias & Script Management
-esp add-alias "Mod.esp" --quest "QuestID" --name "AliasName" --script "ScriptName"
-esp attach-script "Mod.esp" --quest "QuestID" --script "ScriptName"
-esp attach-alias-script "Mod.esp" --quest "QuestID" --alias "AliasName" --script "ScriptName"
-esp set-property "Mod.esp" --quest "QuestID" --script "ScriptName" --property "PropName" --value "Value" --type object
-
-# Auto-Fill (automatic property resolution from PSC files)
-esp auto-fill "Mod.esp" --quest "QuestID" --script "ScriptName" --script-dir "./Scripts/Source" --data-folder "C:/Skyrim/Data"
-esp auto-fill-all "Mod.esp" --script-dir "./Scripts/Source" --data-folder "C:/Skyrim/Data"  # Bulk process all scripts
-
-# Record Management
-esp list-records "Mod.esp" --type weapon --limit 50
-esp remove-record "Mod.esp" "RecordEditorID" --dry-run
-esp clone-record "Mod.esp" "SourceEditorID" "NewEditorID" --dry-run
-
-# Utilities
-esp generate-seq "Mod.esp" --output "./"
-esp merge "Source.esp" "Target.esp" --output "Merged.esp"
-esp list-masters "Mod.esp"
-
-# Record Viewing & Override System
-esp view-record "Mod.esp" --editor-id "RecordID" --type spell --json
-esp view-record "Mod.esp" --form-id "000802:Mod.esp" --json
-esp create-override "Source.esp" -o "Patch.esp" --editor-id "RecordID" --type weapon
-esp find-record --search "Iron" --type weapon --plugin "Skyrim.esm"
-esp batch-override "Source.esp" -o "Patch.esp" --search "Fire*" --type spell
-esp compare-record "Mod1.esp" "Mod2.esp" --editor-id "RecordID" --type armor
-esp conflicts "C:/Skyrim/Data" --editor-id "IronSword" --type weapon
-
-# Condition Management (Perk, Package, IdleAnimation, MagicEffect only)
-esp list-conditions "Mod.esp" --editor-id "PerkID" --type perk --json
-esp add-condition "Mod.esp" -o "Patch.esp" --editor-id "PerkID" --type perk --function GetLevel
-esp remove-condition "Mod.esp" -o "Patch.esp" --form-id "000800:Mod.esp" --indices "0,2"
-```
-
-### Scripts (papyrus)
-
-```bash
-papyrus status
-papyrus setup-headers                                          # Auto-detect Skyrim SE/VR and link headers
-papyrus setup-headers --skyrim-path "C:/path/to/Skyrim"        # Manual path
-papyrus generate --name "ScriptName" --extends "Quest" --output "./Scripts"
-papyrus compile "./Scripts/Source" --output "./Scripts" --headers "./skyrim-script-headers"
-papyrus decompile "Script.pex" --output "./Decompiled"
-papyrus validate "Script.psc"
-```
-
-### Archives (archive)
-
-```bash
-# Archive Info & Inspection
-archive info "Archive.bsa"
-archive list "Archive.bsa" --limit 50
-archive validate "Archive.bsa"
-archive diff "Original.bsa" "Modified.bsa"
-archive status
-
-# Extraction & Creation
-archive extract "Archive.bsa" --output "./Extracted"
-archive extract-file "Archive.bsa" "scripts/mymod.pex" --output "./Scripts"
-archive create "./DataFolder" --output "MyMod.bsa" --game sse
-
-# Archive Editing (modify existing archives)
-archive add-files "MyMod.bsa" "./NewFiles" --base-dir "./NewFiles"
-archive remove-files "MyMod.bsa" --pattern "*.esp"
-archive replace-files "MyMod.bsa" "./UpdatedFiles" --pattern "scripts/*"
-archive update-file "MyMod.bsa" "./Scripts/Updated.pex" "scripts/Updated.pex"
-
-# Archive Maintenance
-archive merge "Mod1.bsa" "Mod2.bsa" --output "Merged.bsa"
-archive optimize "MyMod.bsa" --output "Optimized.bsa"
-```
-
-### MCM (mcm)
-
-```bash
-mcm create "ModName" "Display Name" --output "./MCM/config.json"
-mcm add-toggle "./config.json" "bEnabled" "Enable Feature"
-mcm add-slider "./config.json" "fValue" "Multiplier" --min 0.5 --max 2.0
-mcm validate "./config.json"
-```
-
-### SKSE (skse)
-
-```bash
-skse templates
-skse create "PluginName" --template basic --output "./"
-skse build "./ProjectFolder" [--config Release|Debug] [--clean]
-skse info "./ProjectFolder"
-skse add-function "./ProjectFolder" --name "FuncName" --return "Int" --param "Actor:target"
-```
-
----
-
-## Record Options
-
-| Record        | Options                                                                            |
-| ------------- | ---------------------------------------------------------------------------------- |
-| Quest         | `--name`, `--priority`, `--start-enabled`, `--run-once`                            |
-| Spell         | `--name`, `--type`, `--cast-type`, `--target-type`                                 |
-| Global        | `--type` (short/long/float), `--value`                                             |
-| Faction       | `--name`, `--hidden`, `--track-crime`                                              |
-| Alias         | `--quest`, `--name`, `--script`, `--flags`                                         |
-| Weapon        | `--name`, `--type`, `--damage`, `--value`, `--weight`, `--model`                   |
-| Armor         | `--name`, `--type`, `--slot`, `--rating`, `--value`, `--model`                     |
-| NPC           | `--name`, `--level`, `--female`, `--essential`, `--unique`                         |
-| Book          | `--name`, `--text`, `--value`, `--weight`                                          |
-| Perk          | `--name`, `--description`, `--playable`, `--hidden`                                |
-| LeveledItem   | `--name`, `--chance-none`, `--add-entry`, `--preset`                               |
-| FormList      | `--add-form` (FormKey or EditorID)                                                 |
-| EncounterZone | `--min-level`, `--max-level`, `--never-resets`, `--match-pc-below-min`, `--preset` |
-| Location      | `--name`, `--parent-location`, `--add-keyword`, `--preset`                         |
-| Outfit        | `--add-item`, `--preset`                                                           |
-
----
-
-## Modules
-
-| Module    | Purpose                   |
-| --------- | ------------------------- |
-| `esp`     | Plugin files (.esp/.esl)  |
-| `papyrus` | Papyrus scripts           |
-| `nif`     | 3D mesh reading & editing |
-| `archive` | BSA/BA2 archives          |
-| `mcm`     | Mod configuration menus   |
-| `audio`   | Game audio files          |
-| `skse`    | SKSE C++ plugin projects  |
-
----
-
-## External Tools
-
-| Tool             | Purpose           | location                    |
-| ---------------- | ----------------- | --------------------------- |
-| papyrus-compiler | Compile scripts   | `./tools/papyrus-compiler/` |
-| Champollion      | Decompile scripts | `./tools/champollion/`      |
-| BSArch           | Create archives   | `./tools/BSArch/`           |
-| nif-tool         | NIF mesh editing  | `./tools/nif-tool/`         |
-
----
-
-## JSON Output
-
-All commands support `--json` for machine-readable output:
-
-```bash
-dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp" --json
-```
-
----
-
-## Troubleshooting
-
-**"dotnet is not recognized"** - Install .NET 8 SDK
-
-**"Build failed"** - Run `dotnet restore SpookysAutomod.sln` then `dotnet build SpookysAutomod.sln`
-
-**"Unable to load the service index for source" / NuGet restore errors** - Add the NuGet source:
-
-```powershell
-dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
-```
-
-Then run `dotnet restore SpookysAutomod.sln` and `dotnet build SpookysAutomod.sln`
-
-**"Tool not found"** - Run `papyrus status` to check/download tools
-
-**"BSArch not found"** - Download from xEdit releases, place `BSArch.exe` in `tools/bsarch/`
-
----
-
-## Links
-
-- [Full Documentation](docs/README.md)
-- [LLM Usage Guide](docs/llm-guide.md)
-
----
-
-## Contributors
-
-- **ColdSun** — nif-tool (Rust CLI for NIF mesh editing)
-
----
-
-## License
-
-MIT
+## Limits and Handoff Points
+
+This toolkit is strong at structured mod data and related assets, but it is not a replacement for every Skyrim authoring tool.
+
+It does not generate:
+
+- custom 3D models
+- custom textures
+- NPC facegen artistry
+- full worldspace or landscape editing
+- arbitrary Creation Kit GUI workflows
+
+Use it when the task can be represented as structured records, scripts, archives, meshes, configs, audio conversions, or SKSE scaffolding.
+
+## Documentation Map
+
+| Need | Read |
+| --- | --- |
+| Agent rules and execution behavior | [AGENTS.md](AGENTS.md) |
+| Module reference index | [docs/README.md](docs/README.md) |
+| ESP record creation and patching | [docs/esp.md](docs/esp.md) |
+| Papyrus workflows | [docs/papyrus.md](docs/papyrus.md) |
+| Archive workflows | [docs/archive.md](docs/archive.md) |
+| NIF workflows | [docs/nif.md](docs/nif.md) |
+| Audio workflows | [docs/audio.md](docs/audio.md) |
+| MCM workflows | [docs/mcm.md](docs/mcm.md) |
+| SKSE workflows | [docs/skse.md](docs/skse.md) |
+| Advanced agent patterns | [docs/llm-guide.md](docs/llm-guide.md) |
+| Repairing broken .NET environments | [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) |
+
+## Summary
+
+If you are an agent, the practical reading order is:
+
+1. [AGENTS.md](AGENTS.md)
+2. This README
+3. [docs/README.md](docs/README.md)
+4. The specific module doc you need
+5. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step or unusual
+
+If you are a human operator, the shortest path is:
+
+1. Run the setup wizard or build the source checkout
+2. Verify `papyrus status --json` and `archive status --json`
+3. Let your AI agent work from this repository root using the command contract above
