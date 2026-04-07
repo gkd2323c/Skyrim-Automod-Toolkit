@@ -1,0 +1,364 @@
+﻿{
+  "inputDirectory": "..",
+  "outputDirectory": ".",
+  "generatedAtUtc": "2026-04-07T11:46:55.3809759+00:00",
+  "shardSize": 5000,
+  "totalSourceFiles": 6,
+  "totalEntries": 90463,
+  "totalRecordDocuments": 71997,
+  "addons": [
+    {
+      "addon": "Dawnguard",
+      "sourceFile": "Dawnguard_english_chinese.xml",
+      "entryCount": 8143,
+      "recordDocumentCount": 6188,
+      "entryFiles": [
+        "entries/Dawnguard.entries.part-0001.jsonl",
+        "entries/Dawnguard.entries.part-0002.jsonl"
+      ],
+      "recordFiles": [
+        "records/Dawnguard.records.part-0001.jsonl",
+        "records/Dawnguard.records.part-0002.jsonl"
+      ]
+    },
+    {
+      "addon": "Dragonborn",
+      "sourceFile": "Dragonborn_english_chinese.xml",
+      "entryCount": 11044,
+      "recordDocumentCount": 8667,
+      "entryFiles": [
+        "entries/Dragonborn.entries.part-0001.jsonl",
+        "entries/Dragonborn.entries.part-0002.jsonl",
+        "entries/Dragonborn.entries.part-0003.jsonl"
+      ],
+      "recordFiles": [
+        "records/Dragonborn.records.part-0001.jsonl",
+        "records/Dragonborn.records.part-0002.jsonl"
+      ]
+    },
+    {
+      "addon": "HearthFires",
+      "sourceFile": "HearthFires_english_chinese.xml",
+      "entryCount": 2273,
+      "recordDocumentCount": 2063,
+      "entryFiles": [
+        "entries/HearthFires.entries.part-0001.jsonl"
+      ],
+      "recordFiles": [
+        "records/HearthFires.records.part-0001.jsonl"
+      ]
+    },
+    {
+      "addon": "Skyrim",
+      "sourceFile": "Skyrim_english_chinese.xml",
+      "entryCount": 67390,
+      "recordDocumentCount": 54176,
+      "entryFiles": [
+        "entries/Skyrim.entries.part-0001.jsonl",
+        "entries/Skyrim.entries.part-0002.jsonl",
+        "entries/Skyrim.entries.part-0003.jsonl",
+        "entries/Skyrim.entries.part-0004.jsonl",
+        "entries/Skyrim.entries.part-0005.jsonl",
+        "entries/Skyrim.entries.part-0006.jsonl",
+        "entries/Skyrim.entries.part-0007.jsonl",
+        "entries/Skyrim.entries.part-0008.jsonl",
+        "entries/Skyrim.entries.part-0009.jsonl",
+        "entries/Skyrim.entries.part-0010.jsonl",
+        "entries/Skyrim.entries.part-0011.jsonl",
+        "entries/Skyrim.entries.part-0012.jsonl",
+        "entries/Skyrim.entries.part-0013.jsonl",
+        "entries/Skyrim.entries.part-0014.jsonl"
+      ],
+      "recordFiles": [
+        "records/Skyrim.records.part-0001.jsonl",
+        "records/Skyrim.records.part-0002.jsonl",
+        "records/Skyrim.records.part-0003.jsonl",
+        "records/Skyrim.records.part-0004.jsonl",
+        "records/Skyrim.records.part-0005.jsonl",
+        "records/Skyrim.records.part-0006.jsonl",
+        "records/Skyrim.records.part-0007.jsonl",
+        "records/Skyrim.records.part-0008.jsonl",
+        "records/Skyrim.records.part-0009.jsonl",
+        "records/Skyrim.records.part-0010.jsonl",
+        "records/Skyrim.records.part-0011.jsonl"
+      ]
+    },
+    {
+      "addon": "Update",
+      "sourceFile": "Update_english_chinese.xml",
+      "entryCount": 1586,
+      "recordDocumentCount": 879,
+      "entryFiles": [
+        "entries/Update.entries.part-0001.jsonl"
+      ],
+      "recordFiles": [
+        "records/Update.records.part-0001.jsonl"
+      ]
+    },
+    {
+      "addon": "_ResourcePack",
+      "sourceFile": "_ResourcePack_english_chinese.xml",
+      "entryCount": 27,
+      "recordDocumentCount": 24,
+      "entryFiles": [
+        "entries/_ResourcePack.entries.part-0001.jsonl"
+      ],
+      "recordFiles": [
+        "records/_ResourcePack.records.part-0001.jsonl"
+      ]
+    }
+  ],
+  "recordTypes": [
+    {
+      "recordType": "INFO",
+      "count": 46397
+    },
+    {
+      "recordType": "DIAL",
+      "count": 7198
+    },
+    {
+      "recordType": "QUST",
+      "count": 5051
+    },
+    {
+      "recordType": "ARMO",
+      "count": 3676
+    },
+    {
+      "recordType": "WEAP",
+      "count": 3311
+    },
+    {
+      "recordType": "NPC_",
+      "count": 3123
+    },
+    {
+      "recordType": "MGEF",
+      "count": 2532
+    },
+    {
+      "recordType": "BOOK",
+      "count": 2156
+    },
+    {
+      "recordType": "ACTI",
+      "count": 1989
+    },
+    {
+      "recordType": "MESG",
+      "count": 1682
+    },
+    {
+      "recordType": "SPEL",
+      "count": 1504
+    },
+    {
+      "recordType": "MISC",
+      "count": 1017
+    },
+    {
+      "recordType": "GMST",
+      "count": 982
+    },
+    {
+      "recordType": "CELL",
+      "count": 900
+    },
+    {
+      "recordType": "PERK",
+      "count": 896
+    },
+    {
+      "recordType": "LCTN",
+      "count": 800
+    },
+    {
+      "recordType": "ENCH",
+      "count": 743
+    },
+    {
+      "recordType": "HDPT",
+      "count": 733
+    },
+    {
+      "recordType": "CONT",
+      "count": 599
+    },
+    {
+      "recordType": "FACT",
+      "count": 571
+    },
+    {
+      "recordType": "REFR",
+      "count": 472
+    },
+    {
+      "recordType": "ALCH",
+      "count": 440
+    },
+    {
+      "recordType": "FURN",
+      "count": 407
+    },
+    {
+      "recordType": "KEYM",
+      "count": 377
+    },
+    {
+      "recordType": "LSCR",
+      "count": 354
+    },
+    {
+      "recordType": "DOOR",
+      "count": 293
+    },
+    {
+      "recordType": "RACE",
+      "count": 255
+    },
+    {
+      "recordType": "****",
+      "count": 238
+    },
+    {
+      "recordType": "FLOR",
+      "count": 207
+    },
+    {
+      "recordType": "WOOP",
+      "count": 193
+    },
+    {
+      "recordType": "CLFM",
+      "count": 170
+    },
+    {
+      "recordType": "CLAS",
+      "count": 159
+    },
+    {
+      "recordType": "SHOU",
+      "count": 152
+    },
+    {
+      "recordType": "INGR",
+      "count": 117
+    },
+    {
+      "recordType": "BPTD",
+      "count": 111
+    },
+    {
+      "recordType": "SCRL",
+      "count": 102
+    },
+    {
+      "recordType": "TREE",
+      "count": 98
+    },
+    {
+      "recordType": "WRLD",
+      "count": 75
+    },
+    {
+      "recordType": "AMMO",
+      "count": 60
+    },
+    {
+      "recordType": "AVIF",
+      "count": 51
+    },
+    {
+      "recordType": "COLL",
+      "count": 48
+    },
+    {
+      "recordType": "APPA",
+      "count": 45
+    },
+    {
+      "recordType": "PROJ",
+      "count": 44
+    },
+    {
+      "recordType": "EXPL",
+      "count": 30
+    },
+    {
+      "recordType": "HAZD",
+      "count": 30
+    },
+    {
+      "recordType": "SNCT",
+      "count": 18
+    },
+    {
+      "recordType": "SLGM",
+      "count": 16
+    },
+    {
+      "recordType": "TACT",
+      "count": 16
+    },
+    {
+      "recordType": "EYES",
+      "count": 8
+    },
+    {
+      "recordType": "REGN",
+      "count": 7
+    },
+    {
+      "recordType": "WATR",
+      "count": 6
+    },
+    {
+      "recordType": "LIGH",
+      "count": 4
+    }
+  ],
+  "generatedFiles": [
+    "entries/Dawnguard.entries.part-0001.jsonl",
+    "entries/Dawnguard.entries.part-0002.jsonl",
+    "records/Dawnguard.records.part-0001.jsonl",
+    "records/Dawnguard.records.part-0002.jsonl",
+    "entries/Dragonborn.entries.part-0001.jsonl",
+    "entries/Dragonborn.entries.part-0002.jsonl",
+    "entries/Dragonborn.entries.part-0003.jsonl",
+    "records/Dragonborn.records.part-0001.jsonl",
+    "records/Dragonborn.records.part-0002.jsonl",
+    "entries/HearthFires.entries.part-0001.jsonl",
+    "records/HearthFires.records.part-0001.jsonl",
+    "entries/Skyrim.entries.part-0001.jsonl",
+    "entries/Skyrim.entries.part-0002.jsonl",
+    "entries/Skyrim.entries.part-0003.jsonl",
+    "entries/Skyrim.entries.part-0004.jsonl",
+    "entries/Skyrim.entries.part-0005.jsonl",
+    "entries/Skyrim.entries.part-0006.jsonl",
+    "entries/Skyrim.entries.part-0007.jsonl",
+    "entries/Skyrim.entries.part-0008.jsonl",
+    "entries/Skyrim.entries.part-0009.jsonl",
+    "entries/Skyrim.entries.part-0010.jsonl",
+    "entries/Skyrim.entries.part-0011.jsonl",
+    "entries/Skyrim.entries.part-0012.jsonl",
+    "entries/Skyrim.entries.part-0013.jsonl",
+    "entries/Skyrim.entries.part-0014.jsonl",
+    "records/Skyrim.records.part-0001.jsonl",
+    "records/Skyrim.records.part-0002.jsonl",
+    "records/Skyrim.records.part-0003.jsonl",
+    "records/Skyrim.records.part-0004.jsonl",
+    "records/Skyrim.records.part-0005.jsonl",
+    "records/Skyrim.records.part-0006.jsonl",
+    "records/Skyrim.records.part-0007.jsonl",
+    "records/Skyrim.records.part-0008.jsonl",
+    "records/Skyrim.records.part-0009.jsonl",
+    "records/Skyrim.records.part-0010.jsonl",
+    "records/Skyrim.records.part-0011.jsonl",
+    "entries/Update.entries.part-0001.jsonl",
+    "records/Update.records.part-0001.jsonl",
+    "entries/_ResourcePack.entries.part-0001.jsonl",
+    "records/_ResourcePack.records.part-0001.jsonl",
+    "manifest.json"
+  ]
+}

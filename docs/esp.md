@@ -2,6 +2,8 @@
 
 The ESP module handles creation and editing of Skyrim plugin files (.esp/.esl).
 
+For dictionary-backed localization guidance, see [esp-translation.md](esp-translation.md).
+
 ## Commands
 
 ### create

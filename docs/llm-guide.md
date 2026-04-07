@@ -14,6 +14,7 @@ Read this guide when you are:
 - choosing between multiple valid workflows
 - patching or reverse engineering an existing mod
 - working with auto-fill, archive editing, condition management, or SKSE scaffolding
+- preparing bilingual Skyrim terminology for retrieval, embeddings, or translation-aware agents
 
 ## Read This After
 
@@ -40,6 +41,7 @@ This guide assumes you already know the command contract, startup sequence, and 
 | [Record Viewing and Override System](#record-viewing-and-override-system) | You want to inspect exact records before changing them |
 | [Audio Workflows](#audio-workflows) | You are extracting or creating voice assets |
 | [SKSE Plugin Development](#skse-plugin-development) | You are scaffolding or building native plugins |
+| [Dictionary Lookup and Export](#dictionary-lookup-and-export) | You need bilingual game text for direct lookup or retrieval-friendly chunking |
 | [JSON Response Handling](#json-response-handling) | You need to interpret toolkit responses programmatically |
 | [Technical Best Practices](#technical-best-practices) | You want naming, file layout, and asset guidance |
 
@@ -1741,6 +1743,63 @@ dotnet run --project src/SpookysAutomod.Cli -- skse build "./MyNativePlugin" --c
 
 ---
 
+## Dictionary Lookup and Export
+
+The XML files in `dictionaries/` are structured for game tooling. The toolkit now supports both direct querying and export, so you can either look up terms immediately or convert them into chunked retrieval data.
+
+### Query the Built-In Dictionaries
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- dictionary lookup "RiftenRatway02" --addon Skyrim --json
+
+dotnet run --project src/SpookysAutomod.Cli -- dictionary search \
+  --text "鼠道" \
+  --scope chinese \
+  --group-by record \
+  --limit 5 \
+  --json
+```
+
+Use `lookup` for exact `EDID` matches and `search` for fuzzy text search across `edid`, English, Chinese, or all fields. When `dictionaries/agent-readable` exists, both commands prefer that exported JSONL corpus automatically and fall back to the original XML dictionary folder only when no export is available.
+
+### Export the Built-In Dictionaries
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- dictionary export-agent \
+  --input "./dictionaries" \
+  --output "./dictionaries/agent-readable" \
+  --shard-size 5000 \
+  --json
+```
+
+### What Query and Export Each Solve
+
+- Use `lookup` when you already know the `EDID`.
+- Use `search` when you only know part of the English or Chinese text.
+- Use `export-agent` when you want shardable JSONL for RAG, embeddings, or offline preprocessing.
+
+### What the Export Produces
+
+- `entries/` JSONL shards with one translation row per document
+- `records/` JSONL shards with all translations for a single `EDID` grouped together
+- `manifest.json` with relative shard lists, counts, addon summaries, and record-type distribution
+- `agentText` fields with flattened natural-language content for retrieval-friendly indexing
+
+### When to Use Each Output
+
+- Use `entries/` when the agent needs an exact bilingual string pair or wants to scan raw rows.
+- Use `records/` when the agent knows an `EDID` and wants the full set of labels for that record.
+- Use `manifest.json` first when deciding which addon or shard to open.
+
+### Best Practices
+
+- Keep shard sizes moderate so agents can open one file without loading the entire corpus.
+- Prefer the grouped `records/` documents for terminology explanations because they preserve per-record context.
+- Prefer normalized fields such as `englishNormalized` and `chineseNormalized` for whitespace-tolerant matching.
+- Regenerate the export after replacing or adding XML dictionaries so the shard counts stay accurate.
+
+---
+
 ## JSON Response Handling
 
 ### Success Response
@@ -1882,6 +1941,14 @@ When success is false:
 | Build project | `skse build project [--config Release\|Debug] [--clean]` |
 | Get info | `skse info project` |
 | Add function | `skse add-function project --name func [--return] [--param]` |
+
+### Dictionary
+
+| Task | Command |
+|------|---------|
+| Exact lookup by EDID | `dictionary lookup edid [--addon name] [--record-type type] [--field name]` |
+| Fuzzy search | `dictionary search --text query [--scope all\|edid\|english\|chinese] [--group-by entry\|record] [--limit 20]` |
+| Export agent-readable shards | `dictionary export-agent [--input dir] [--output dir] [--shard-size 5000]` |
 
 ---
 

@@ -2,7 +2,7 @@
 
 AI-first command-line toolkit for creating, inspecting, patching, and troubleshooting Skyrim mods on Windows.
 
-This repository exists to make Skyrim modding accessible to AI agents. Instead of relying on the Creation Kit GUI, agents can use structured CLI commands with JSON responses to create plugin records, compile Papyrus scripts, inspect archives, work with meshes, build MCM configs, process voice assets, and scaffold SKSE plugins.
+This repository exists to make Skyrim modding accessible to AI agents. Instead of relying on the Creation Kit GUI, agents can use structured CLI commands with JSON responses to create plugin records, compile Papyrus scripts, inspect archives, work with meshes, build MCM configs, process voice assets, scaffold SKSE plugins, and convert bilingual game dictionaries into retrieval-friendly data.
 
 ## Role
 
@@ -91,6 +91,7 @@ Typical error shape:
 | `mcm` | Generate MCM Helper config files | Useful for mod configuration UIs |
 | `audio` | Work with FUZ/XWM/WAV assets | Useful for voice workflows |
 | `skse` | Scaffold and build SKSE C++ plugins | Requires CMake and MSVC build tools |
+| `dictionary` | Query bilingual translation dictionaries and convert them into agent-readable JSONL shards and EDID-grouped records | Query commands prefer exported JSONL when available |
 | `setup` | Bootstrap a modding environment through a Windows setup wizard | Human-friendly entry point |
 
 ## Recommended Agent Startup Sequence
@@ -136,6 +137,8 @@ Before specific workflows, confirm:
 - Scripted quest or alias logic: use `esp` + `papyrus` + auto-fill
 - Compatibility patch or balance fix: use `esp view-record`, `esp create-override`, and condition tooling
 - Reverse engineering or bug triage: use `esp info`, `archive`, `papyrus decompile`, and `nif`
+- Bilingual terminology lookup or translation support: use `dictionary lookup` or `dictionary search`
+- Bilingual terminology retrieval or embedding prep: use `dictionary export-agent`
 
 ## High-Value Workflows
 
@@ -189,6 +192,30 @@ dotnet run --project src/SpookysAutomod.Cli -- nif list-textures "./Debug/Meshes
 ```
 
 Use this to inspect plugins, archives, scripts, and meshes as a single debugging workflow.
+
+### 5. Export Game Dictionaries for Agent Retrieval
+
+Quick query examples:
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- dictionary lookup "RiftenRatway02" --addon Skyrim --json
+dotnet run --project src/SpookysAutomod.Cli -- dictionary search --text "鼠道" --scope chinese --group-by record --limit 5 --json
+```
+
+Export example:
+
+```bash
+dotnet run --project src/SpookysAutomod.Cli -- dictionary export-agent --input "./dictionaries" --output "./dictionaries/agent-readable" --shard-size 5000 --json
+```
+
+When `dictionaries/agent-readable` exists, the query commands prefer that exported JSONL corpus automatically and fall back to the source XML files only when no export is available. Use the export command when the same data needs to be easier to search, embed, shard, and cite than the original XML files.
+
+What the export produces:
+
+- `entries/`: one translation row per JSON object for exact lookups
+- `records/`: one EDID-grouped document per record for richer context
+- `manifest.json`: counts, relative shard file lists, and record-type distribution before opening large shards
+- `agentText`: flattened natural-language text inside each object for retrieval workflows
 
 ## Environment Checklist
 
@@ -276,8 +303,10 @@ src/
 |- SpookysAutomod.Mcm/        MCM config generation
 |- SpookysAutomod.Audio/      Audio and voice-file workflows
 |- SpookysAutomod.Skse/       SKSE project generation and build orchestration
+|- SpookysAutomod.Dictionaries/ Dictionary parsing and agent-readable export
 |- SpookysAutomod.Setup/      Windows setup wizard
 docs/                        Module references and troubleshooting docs
+dictionaries/                Source XML dictionaries and agent-readable export docs/output
 tools/                       External tools and bundled helpers
 .claude/skills/              Claude Code skills for module-specific behavior
 AGENTS.md                    Agent initialization prompt and operating rules
@@ -310,6 +339,8 @@ Use it when the task can be represented as structured records, scripts, archives
 | Audio workflows | [docs/audio.md](docs/audio.md) |
 | MCM workflows | [docs/mcm.md](docs/mcm.md) |
 | SKSE workflows | [docs/skse.md](docs/skse.md) |
+| ESP text translation with dictionary-backed terminology | [docs/esp-translation.md](docs/esp-translation.md) |
+| Agent-readable dictionary export | [dictionaries/README.agent-format.md](dictionaries/README.agent-format.md) |
 | Advanced agent patterns | [docs/llm-guide.md](docs/llm-guide.md) |
 | Repairing broken .NET environments | [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) |
 

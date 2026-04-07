@@ -70,6 +70,7 @@ Typical error shape:
 8. Use `esp auto-fill` or `esp auto-fill-all` for vanilla Papyrus properties whenever possible.
 9. Use bulk operations when the task is naturally batch-oriented.
 10. Verify major changes with follow-up inspection commands such as `esp info`, `esp view-record`, or module-specific status commands.
+11. Prefer the exported `dictionaries/agent-readable` JSONL corpus for dictionary queries when it exists, and fall back to the XML source only when needed.
 
 ### Never
 
@@ -141,6 +142,7 @@ Before SKSE build:
 | Inspect or patch an existing mod | `esp` | `esp info`, `esp view-record`, `esp create-override`, condition tools |
 | Troubleshoot a broken mod | `esp` + `archive` + `papyrus` + `nif` | Inspect plugin, extract assets, decompile scripts, inspect meshes |
 | Build a native plugin | `skse` | `skse create`, edit, `skse build` |
+| Look up bilingual game terminology for AI workflows | `dictionary` | Prefer `dictionary lookup` or `dictionary search`, which default to `dictionaries/agent-readable` when present |
 
 ## High-Risk Domain Gotchas
 
@@ -207,6 +209,7 @@ Ask only for details that materially affect record creation or tool behavior, su
 | `mcm` | create and edit MCM Helper configs | [docs/mcm.md](docs/mcm.md) |
 | `audio` | extract and create voice assets | [docs/audio.md](docs/audio.md) |
 | `skse` | scaffold and build native plugins | [docs/skse.md](docs/skse.md) |
+| `dictionary` | exact bilingual lookup, fuzzy search, and agent-readable export | [dictionaries/README.agent-format.md](dictionaries/README.agent-format.md) |
 
 ## Quick Command Starters
 
@@ -217,6 +220,7 @@ dotnet run --project src/SpookysAutomod.Cli -- papyrus status --json
 dotnet run --project src/SpookysAutomod.Cli -- archive status --json
 dotnet run --project src/SpookysAutomod.Cli -- esp create-override "SourceMod.esp" -o "Patch.esp" --editor-id "RecordId" --type weapon --json
 dotnet run --project src/SpookysAutomod.Cli -- esp auto-fill-all "MyMod.esp" --script-dir "./Scripts/Source" --data-folder "C:/Path/To/Skyrim/Data" --json
+dotnet run --project src/SpookysAutomod.Cli -- dictionary lookup "RiftenRatway02" --addon Skyrim --json
 ```
 
 ## Read Next

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>_ResourcePack</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000003">
+      <EDID>RP_DweButton01Shock</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>按钮</Dest>
+    </String>
+    <String List="0" sID="000004">
+      <EDID>RP_DweButton01Fire</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>按钮</Dest>
+    </String>
+    <String List="0" sID="000005">
+      <EDID>RP_TreasExplorerLootChestSand01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>箱子</Dest>
+    </String>
+    <String List="0" sID="000006">
+      <EDID>RP_DweButton01Frost</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>按钮</Dest>
+    </String>
+    <String List="0" sID="000007">
+      <EDID>RP_TreasBanditChestBossSand01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>箱子</Dest>
+    </String>
+    <String List="0" sID="000009">
+      <EDID>RP_AloeVeraLeaves01</EDID>
+      <REC>INGR:FULL</REC>
+      <Source>Aloe Vera Leaves</Source>
+      <Dest>芦荟叶</Dest>
+    </String>
+    <String List="0" sID="00000A">
+      <EDID>RP_AloeVera01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aloe Vera</Source>
+      <Dest>芦荟</Dest>
+    </String>
+    <String List="0" sID="00000B">
+      <EDID>RP_AloeVera01</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>Harvest</Source>
+      <Dest>收获</Dest>
+    </String>
+    <String List="0" sID="00000C">
+      <EDID>RP_AloeVera02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aloe Vera</Source>
+      <Dest>芦荟</Dest>
+    </String>
+    <String List="0" sID="00000D">
+      <EDID>RP_AloeVera02</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>Harvest</Source>
+      <Dest>收获</Dest>
+    </String>
+    <String List="0" sID="00000F">
+      <EDID>RP_Pillow02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Pillow</Source>
+      <Dest>枕垫</Dest>
+    </String>
+    <String List="0" sID="000010">
+      <EDID>RP_SWellFreeStanding01CoverBarLoadAlpha</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Cover</Source>
+      <Dest>盖子</Dest>
+    </String>
+    <String List="0" sID="000011">
+      <EDID>RP_ModularJar03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Jar</Source>
+      <Dest>罐子</Dest>
+    </String>
+    <String List="0" sID="000012">
+      <EDID>RP_SWellFreeStanding01CoverBarLoad</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Cover</Source>
+      <Dest>盖子</Dest>
+    </String>
+    <String List="0" sID="000013">
+      <EDID>RP_BYOHHouseIngrdAloeVera02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aloe Vera</Source>
+      <Dest>芦荟</Dest>
+    </String>
+    <String List="0" sID="000014">
+      <EDID>RP_SWellFreeStanding01CoverLoadAlpha</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Cover</Source>
+      <Dest>盖子</Dest>
+    </String>
+    <String List="0" sID="000015">
+      <EDID>RP_SWellFreeStanding01CoverLoad</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Cover</Source>
+      <Dest>盖子</Dest>
+    </String>
+    <String List="0" sID="000016">
+      <EDID>RP_ModularJar01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Jar</Source>
+      <Dest>罐子</Dest>
+    </String>
+    <String List="0" sID="000017">
+      <EDID>RP_ModularBasket02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Basket</Source>
+      <Dest>篮子</Dest>
+    </String>
+    <String List="0" sID="000018">
+      <EDID>RP_BYOHHouseIngrdAloeVera02</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>Harvest</Source>
+      <Dest>收获</Dest>
+    </String>
+    <String List="0" sID="000019">
+      <EDID>RP_ModularBasket01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Basket</Source>
+      <Dest>篮子</Dest>
+    </String>
+    <String List="0" sID="00001A">
+      <EDID>RP_BYOHHouseIngredientAloeVera02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Aloe Vera Leaves (2)</Source>
+      <Dest>芦荟叶（2）</Dest>
+    </String>
+    <String List="0" sID="00001B">
+      <EDID>RP_ModularJar02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Jar</Source>
+      <Dest>罐子</Dest>
+    </String>
+    <String List="0" sID="00001C">
+      <EDID>RP_ModularBasket04</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Basket</Source>
+      <Dest>篮子</Dest>
+    </String>
+    <String List="0" sID="00001D">
+      <EDID>RP_Pillow01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Pillow</Source>
+      <Dest>枕垫</Dest>
+    </String>
+    <String List="0" sID="00001E">
+      <EDID>RP_ModularBasket03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Basket</Source>
+      <Dest>篮子</Dest>
+    </String>
+    <String List="0" sID="00001F">
+      <EDID>RP_ModularBasket01Lid</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Basket Lid</Source>
+      <Dest>篮子盖</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -19,6 +19,7 @@
     <ProjectReference Include="..\..\src\SpookysAutomod.Core\SpookysAutomod.Core.csproj" />
     <ProjectReference Include="..\..\src\SpookysAutomod.Esp\SpookysAutomod.Esp.csproj" />
     <ProjectReference Include="..\..\src\SpookysAutomod.Archive\SpookysAutomod.Archive.csproj" />
+    <ProjectReference Include="..\..\src\SpookysAutomod.Dictionaries\SpookysAutomod.Dictionaries.csproj" />
   </ItemGroup>
 
   <ItemGroup>

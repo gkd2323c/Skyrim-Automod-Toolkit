@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookysAutomod.Tests", "tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookysAutomod.Setup", "src\SpookysAutomod.Setup\SpookysAutomod.Setup.csproj", "{CFF2601E-9768-4481-849A-FDD6E7483AAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpookysAutomod.Dictionaries", "src\SpookysAutomod.Dictionaries\SpookysAutomod.Dictionaries.csproj", "{08EC0AAA-D8ED-4E5C-9C99-251A70A77674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,10 @@ Global
 		{CFF2601E-9768-4481-849A-FDD6E7483AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF2601E-9768-4481-849A-FDD6E7483AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF2601E-9768-4481-849A-FDD6E7483AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EC0AAA-D8ED-4E5C-9C99-251A70A77674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EC0AAA-D8ED-4E5C-9C99-251A70A77674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EC0AAA-D8ED-4E5C-9C99-251A70A77674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EC0AAA-D8ED-4E5C-9C99-251A70A77674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F3C4297C-E6D1-4743-AD11-245F72D27FB7} = {E7B62E2E-7285-49E3-95C0-860D9F119D27}
@@ -88,5 +94,6 @@ Global
 		{F0FFBC43-B13D-4DD1-8DD6-33CD4673EA73} = {E7B62E2E-7285-49E3-95C0-860D9F119D27}
 		{85ADC866-013F-463A-8900-9F8376E9E94B} = {02E1FA70-FB91-42D7-9CE9-9B32FA95D1D9}
 		{CFF2601E-9768-4481-849A-FDD6E7483AAD} = {E7B62E2E-7285-49E3-95C0-860D9F119D27}
+		{08EC0AAA-D8ED-4E5C-9C99-251A70A77674} = {E7B62E2E-7285-49E3-95C0-860D9F119D27}
 	EndGlobalSection
 EndGlobal
