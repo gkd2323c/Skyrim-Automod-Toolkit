@@ -1,29 +1,49 @@
-# LLM Guide for Spooky's AutoMod Toolkit
+# Spooky's AutoMod Toolkit Workflow Guide
 
-**Purpose:** Comprehensive technical reference for workflow patterns and advanced features
+Detailed workflow guide for AI agents using the toolkit.
 
----
+## Role
 
-## About This Guide
+This guide is the detailed companion to the shorter agent contract. It is where you should look for multi-step procedures, patching patterns, troubleshooting flows, archive workflows, and advanced record operations.
 
-This is a **detailed technical reference** for LLMs working with the toolkit. It provides:
-- Complete workflow patterns for common scenarios
-- Advanced feature documentation (auto-fill, type inspection, dry-run)
-- Detailed command examples with full syntax
-- Troubleshooting and patching workflows
-- Best practices for technical implementation
+## Read This When
 
-**📌 PREREQUISITES:** Read `llm-init-prompt.md` first for:
-- Your role and behavioral guidelines
-- Mandatory rules (ALWAYS/NEVER)
-- Communication patterns and decision frameworks
-- Setup checklist
+Read this guide when you are:
 
-This guide assumes you've already been initialized and focuses purely on technical how-to patterns.
+- building anything more complex than a one-command record edit
+- choosing between multiple valid workflows
+- patching or reverse engineering an existing mod
+- working with auto-fill, archive editing, condition management, or SKSE scaffolding
 
----
+## Read This After
 
-## Quick Command Format
+Read these documents before relying on this guide:
+
+1. [../README.md](../README.md)
+2. [../AGENTS.md](../AGENTS.md)
+3. [README.md](README.md)
+
+This guide assumes you already know the command contract, startup sequence, and non-negotiable agent rules.
+
+## Guide Structure
+
+| Section | Use It When |
+| --- | --- |
+| [Creating New Mods](#creating-new-mods) | You are building new content from scratch |
+| [Script Properties and Form References](#script-properties-and-form-references) | You need to attach or wire script properties correctly |
+| [Auto-Fill: Automatic Script Property Resolution](#auto-fill-automatic-script-property-resolution) | You want vanilla properties filled safely and quickly |
+| [Dry-Run Mode and Debugging](#dry-run-mode-and-debugging) | You want preview or type-inspection workflows |
+| [Troubleshooting Existing Mods](#troubleshooting-existing-mods) | You are diagnosing broken plugins, scripts, archives, or assets |
+| [Editing Existing Mods](#editing-existing-mods) | You are extending or adjusting a plugin already on disk |
+| [Archive Operations](#archive-operations) | You are packaging, editing, diffing, or validating BSA/BA2 archives |
+| [Creating Patches](#creating-patches) | You need compatibility or balance patches |
+| [Record Viewing and Override System](#record-viewing-and-override-system) | You want to inspect exact records before changing them |
+| [Audio Workflows](#audio-workflows) | You are extracting or creating voice assets |
+| [SKSE Plugin Development](#skse-plugin-development) | You are scaffolding or building native plugins |
+| [JSON Response Handling](#json-response-handling) | You need to interpret toolkit responses programmatically |
+| [Technical Best Practices](#technical-best-practices) | You want naming, file layout, and asset guidance |
+
+## Shared Command Contract
 
 ```bash
 # All commands use this format from toolkit directory
@@ -32,8 +52,6 @@ dotnet run --project src/SpookysAutomod.Cli -- <module> <command> [args] [option
 # Always append --json for parseable output
 dotnet run --project src/SpookysAutomod.Cli -- esp info "MyMod.esp" --json
 ```
-
----
 
 ## Creating New Mods
 

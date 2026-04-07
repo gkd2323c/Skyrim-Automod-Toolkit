@@ -4,6 +4,28 @@ AI-first command-line toolkit for creating, inspecting, patching, and troublesho
 
 This repository exists to make Skyrim modding accessible to AI agents. Instead of relying on the Creation Kit GUI, agents can use structured CLI commands with JSON responses to create plugin records, compile Papyrus scripts, inspect archives, work with meshes, build MCM configs, process voice assets, and scaffold SKSE plugins.
 
+## Role
+
+This is the entry point for the whole documentation set. Use it for environment setup, repository overview, startup sequence, and the first pass at choosing a module or workflow.
+
+## Read This When
+
+Read this file when you are:
+
+- opening the repository for the first time
+- trying to understand what the toolkit covers
+- checking build, toolchain, or environment prerequisites
+- deciding where to go next in the docs
+
+## Read This After
+
+If you are an AI agent, continue with:
+
+1. [AGENTS.md](AGENTS.md)
+2. [docs/README.md](docs/README.md)
+3. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step
+4. [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) when execution is blocked by the environment
+
 ## Start Here If You Are an AI Agent
 
 Treat this repository as an execution environment, not just a codebase to read.
@@ -51,10 +73,12 @@ Typical error shape:
 
 ### Canonical Agent Docs
 
-- [AGENTS.md](AGENTS.md): primary operating contract for AI agents using this toolkit
-- [docs/llm-guide.md](docs/llm-guide.md): longer workflow catalog and advanced examples
-- [docs/README.md](docs/README.md): module-by-module reference index
-- [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md): .NET and build-environment recovery notes
+| Document | Role | Read It When |
+| --- | --- | --- |
+| [AGENTS.md](AGENTS.md) | Agent contract | You need execution rules, workflow selection, and command discipline |
+| [docs/README.md](docs/README.md) | Documentation index | You need to choose the right module or guide |
+| [docs/llm-guide.md](docs/llm-guide.md) | Detailed workflow guide | You need multi-step examples or advanced patterns |
+| [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) | Environment recovery | Build, restore, or tool setup is failing |
 
 ## What This Toolkit Covers
 
