@@ -22,7 +22,8 @@ Read these first:
 1. [../AGENTS.md](../AGENTS.md)
 2. [esp.md](esp.md)
 3. [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md)
-4. [llm-guide.md](llm-guide.md) when the translation task becomes multi-step
+4. [knowledge_base/README.md](knowledge_base/README.md) when the text depends on lore or canon context
+5. [llm-guide.md](llm-guide.md) when the translation task becomes multi-step
 
 ## What Counts as Translation Work
 
@@ -48,9 +49,10 @@ This workflow is not for:
 1. Always inspect the record before translating it.
 2. Always query the dictionary before finalizing important terms such as place names, factions, creatures, schools of magic, perk concepts, and item classes.
 3. Prefer the exported `dictionaries/agent-readable` corpus when it exists. The query commands already do this by default.
-4. Keep a working glossary for the current plugin so the same English term maps to the same Chinese term unless there is clear in-game evidence for a context-specific exception.
-5. Never translate `EditorID`, script names, or other technical identifiers as if they were player-facing strings.
-6. Do not claim the plugin has been fully translated unless the translated text has actually been written back through a supported path.
+4. When a term is lore-heavy or ambiguous, search the local UESP knowledge base before choosing final wording.
+5. Keep a working glossary for the current plugin so the same English term maps to the same Chinese term unless there is clear in-game evidence for a context-specific exception.
+6. Never translate `EditorID`, script names, or other technical identifiers as if they were player-facing strings.
+7. Do not claim the plugin has been fully translated unless the translated text has actually been written back through a supported path.
 
 ## Current Capability Boundary
 
@@ -152,7 +154,27 @@ Use this to catch:
 - over-literal translations that do not match the shipped localization
 - cases where your proposed Chinese phrase already has a stronger vanilla equivalent
 
-### 4. Build a Plugin-Local Glossary
+### 4. Add Lore Context from the Local Knowledge Base
+
+Use the local UESP mirror when the dictionary gives you a term but not enough context to choose the best Chinese phrasing.
+
+Typical cases:
+
+- book titles or book bodies that mention historical figures or factions
+- terms with multiple plausible Chinese phrasings
+- names that sound generic in English but are specific in Elder Scrolls lore
+- references to institutions, houses, cults, provinces, or series titles
+
+Start narrow:
+
+```bash
+rg --files docs/knowledge_base/uesp | rg "Redoran|Indoril|Vivec"
+rg -n "House Redoran|Indoril|Vivec" docs/knowledge_base/uesp -m 20
+```
+
+Then open the best candidate pages and use their local `Up`, `Prev`, `Next`, and inline links to gather only the context you need. The knowledge base helps you understand what the term means and how it relates to nearby lore. The dictionary still decides whether your final Chinese wording matches the game's established localization.
+
+### 5. Build a Plugin-Local Glossary
 
 Keep a small working glossary while translating. A simple table is enough:
 
@@ -243,9 +265,10 @@ Use this order by default:
 
 1. `dictionary lookup` when you know the vanilla `EDID`
 2. `dictionary search --scope english` when you only know the English phrase
-3. `dictionary search --record-type ... --field ...` when a term is too broad
-4. `dictionary search --scope chinese` to validate your chosen Chinese candidate
-5. inspect grouped record results when one line is not enough to disambiguate the term
+3. search `docs/knowledge_base/uesp/` when the term is lore-heavy, book-related, or context-sensitive
+4. `dictionary search --record-type ... --field ...` when a term is too broad
+5. `dictionary search --scope chinese` to validate your chosen Chinese candidate
+6. inspect grouped record results when one line is not enough to disambiguate the term
 
 ## Completion Checklist
 
@@ -253,9 +276,10 @@ Before you say the translation is done, confirm:
 
 1. every player-facing string was identified from record inspection rather than guessed from `EditorID`
 2. important nouns were checked against the dictionary
-3. repeated terms were added to a plugin-local glossary
-4. the final wording matches the text type: name, description, or prose
-5. the translated text was actually written back through a supported workflow, or clearly marked as pending
+3. lore-heavy or ambiguous terms were checked against the local UESP knowledge base when needed
+4. repeated terms were added to a plugin-local glossary
+5. the final wording matches the text type: name, description, or prose
+6. the translated text was actually written back through a supported workflow, or clearly marked as pending
 
 ## Summary
 
@@ -263,6 +287,7 @@ The practical idea is simple:
 
 - use `esp` commands to discover and inspect what needs translation
 - use `dictionary lookup` and `dictionary search` as evidence for terminology
+- use the local UESP knowledge base when lore context affects the wording
 - keep a glossary while translating
 - only claim completion when the translated text has truly been applied
 

@@ -30,6 +30,7 @@ Start with these first:
 | [llm-guide.md](llm-guide.md) | Detailed workflow guide | You need full end-to-end examples, patching patterns, or advanced AI workflows |
 | [esp-translation.md](esp-translation.md) | ESP translation workflow | You need to translate player-facing plugin text while staying consistent with vanilla terminology |
 | [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) | Dictionary guide | You need bilingual Skyrim terms for direct lookup or retrieval-friendly export |
+| [knowledge_base/README.md](knowledge_base/README.md) | Knowledge base guide | You need local UESP lore and canon context without leaving the repository |
 | [environment-troubleshooting.md](environment-troubleshooting.md) | Environment recovery | `.NET`, restore, build, or external tool setup is blocking execution |
 | Module references in this folder | Capability reference | You already know the module and need command-level details |
 
@@ -44,6 +45,7 @@ Start with these first:
 5. [llm-guide.md](llm-guide.md) when the task becomes multi-step or unusual
 6. [esp-translation.md](esp-translation.md) when you are translating player-facing ESP text
 7. [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) when you need dictionary lookup or agent-readable translation corpora
+8. [knowledge_base/README.md](knowledge_base/README.md) when you need local lore, book context, or canon naming guidance
 
 ### For Human Operators
 
@@ -64,6 +66,7 @@ These conventions apply across the documentation set:
 7. Vanilla Papyrus properties should prefer auto-fill over manual wiring.
 8. Prefer `dictionary lookup` or `dictionary search` for direct bilingual queries, and let those commands use `dictionaries/agent-readable` by default when it exists.
 9. For ESP translation work, inspect the record first and treat dictionary evidence as part of the workflow rather than an optional afterthought.
+10. For lore-heavy naming or translation work, use the local UESP knowledge base for context and the dictionary for final terminology validation.
 
 ## Module References
 
@@ -78,6 +81,7 @@ These conventions apply across the documentation set:
 | SKSE | Scaffold and build native SKSE plugins | [skse.md](skse.md) |
 | Dictionary | Query bilingual XML dictionaries and export them into JSONL shards and EDID-grouped records for AI retrieval | [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
 | ESP Translation | Translate player-facing plugin text with dictionary-backed terminology discipline | [esp-translation.md](esp-translation.md) |
+| Knowledge Base | Research lore, books, canon naming, and contextual background from the local UESP Markdown mirror | [knowledge_base/README.md](knowledge_base/README.md) |
 
 ## Task-to-Doc Map
 
@@ -87,6 +91,7 @@ These conventions apply across the documentation set:
 | Build a scripted quest | [../AGENTS.md](../AGENTS.md) then [papyrus.md](papyrus.md) and [llm-guide.md](llm-guide.md) |
 | Patch an existing plugin | [llm-guide.md](llm-guide.md) then [esp.md](esp.md) |
 | Translate an ESP while keeping vanilla terminology consistent | [esp-translation.md](esp-translation.md) |
+| Research lore, canon naming, or in-game book context | [knowledge_base/README.md](knowledge_base/README.md) |
 | Extract or edit a BSA/BA2 | [archive.md](archive.md) |
 | Debug a broken mod | [llm-guide.md](llm-guide.md) then the relevant module docs |
 | Query bilingual dictionary data or prepare it for an AI agent | [../README.md](../README.md) then [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
@@ -112,4 +117,5 @@ If you only remember one rule, remember this split:
 - `docs/README.md` tells you where to go next
 - `docs/esp-translation.md` tells an agent how to translate plugin text without drifting from vanilla terms
 - `dictionaries/README.agent-format.md` tells you how to export bilingual terms for retrieval
+- `docs/knowledge_base/README.md` tells an agent how to mine the local UESP lore corpus safely
 - `docs/llm-guide.md` shows the full workflows

@@ -23,8 +23,9 @@ Read these documents next, in this order:
 
 1. [README.md](README.md) for environment entry, module overview, and startup sequence
 2. [docs/README.md](docs/README.md) for the documentation index
-3. [docs/llm-guide.md](docs/llm-guide.md) for detailed workflows and advanced patterns
-4. [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) when build or SDK issues block execution
+3. [docs/knowledge_base/README.md](docs/knowledge_base/README.md) when you need local lore or canon context
+4. [docs/llm-guide.md](docs/llm-guide.md) for detailed workflows and advanced patterns
+5. [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) when build or SDK issues block execution
 
 ## Command Contract
 
@@ -71,6 +72,7 @@ Typical error shape:
 9. Use bulk operations when the task is naturally batch-oriented.
 10. Verify major changes with follow-up inspection commands such as `esp info`, `esp view-record`, or module-specific status commands.
 11. Prefer the exported `dictionaries/agent-readable` JSONL corpus for dictionary queries when it exists, and fall back to the XML source only when needed.
+12. Prefer the local `docs/knowledge_base/uesp/` Markdown corpus for lore, naming, and book context before reaching for external web sources.
 
 ### Never
 
@@ -143,6 +145,7 @@ Before SKSE build:
 | Troubleshoot a broken mod | `esp` + `archive` + `papyrus` + `nif` | Inspect plugin, extract assets, decompile scripts, inspect meshes |
 | Build a native plugin | `skse` | `skse create`, edit, `skse build` |
 | Look up bilingual game terminology for AI workflows | `dictionary` | Prefer `dictionary lookup` or `dictionary search`, which default to `dictionaries/agent-readable` when present |
+| Research lore, canon names, or in-game book context | local knowledge base + `dictionary` | Search `docs/knowledge_base/uesp/` with `rg`, then validate Chinese terminology with `dictionary search` |
 
 ## High-Risk Domain Gotchas
 
@@ -211,6 +214,8 @@ Ask only for details that materially affect record creation or tool behavior, su
 | `skse` | scaffold and build native plugins | [docs/skse.md](docs/skse.md) |
 | `dictionary` | exact bilingual lookup, fuzzy search, and agent-readable export | [dictionaries/README.agent-format.md](dictionaries/README.agent-format.md) |
 
+For lore and canon research, use [docs/knowledge_base/README.md](docs/knowledge_base/README.md).
+
 ## Quick Command Starters
 
 ```bash
@@ -227,6 +232,7 @@ dotnet run --project src/SpookysAutomod.Cli -- dictionary lookup "RiftenRatway02
 
 - For the overall environment and repository map, go to [README.md](README.md).
 - For detailed workflow patterns, go to [docs/llm-guide.md](docs/llm-guide.md).
+- For local lore and canon research, go to [docs/knowledge_base/README.md](docs/knowledge_base/README.md).
 - For module-specific commands, go to [docs/README.md](docs/README.md).
 - For environment recovery, go to [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md).
 

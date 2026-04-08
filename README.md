@@ -23,8 +23,9 @@ If you are an AI agent, continue with:
 
 1. [AGENTS.md](AGENTS.md)
 2. [docs/README.md](docs/README.md)
-3. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step
-4. [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) when execution is blocked by the environment
+3. [docs/knowledge_base/README.md](docs/knowledge_base/README.md) when the task needs lore or canon context
+4. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step
+5. [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) when execution is blocked by the environment
 
 ## Start Here If You Are an AI Agent
 
@@ -48,6 +49,7 @@ dotnet run --project src/SpookysAutomod.Cli -- <module> <command> [args] [option
 8. Never create spells or perks without `--effect`.
 9. Stop on failures and surface `error`, `errorContext`, and `suggestions`.
 10. Prefer toolkit commands over ad hoc shell parsing when a module already supports the task.
+11. For lore and naming research, prefer the local `docs/knowledge_base/uesp/` corpus before browsing elsewhere.
 
 ### JSON Contract
 
@@ -77,6 +79,7 @@ Typical error shape:
 | --- | --- | --- |
 | [AGENTS.md](AGENTS.md) | Agent contract | You need execution rules, workflow selection, and command discipline |
 | [docs/README.md](docs/README.md) | Documentation index | You need to choose the right module or guide |
+| [docs/knowledge_base/README.md](docs/knowledge_base/README.md) | Knowledge base guide | You need local lore and canon context from the bundled UESP mirror |
 | [docs/llm-guide.md](docs/llm-guide.md) | Detailed workflow guide | You need multi-step examples or advanced patterns |
 | [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) | Environment recovery | Build, restore, or tool setup is failing |
 
@@ -139,6 +142,7 @@ Before specific workflows, confirm:
 - Reverse engineering or bug triage: use `esp info`, `archive`, `papyrus decompile`, and `nif`
 - Bilingual terminology lookup or translation support: use `dictionary lookup` or `dictionary search`
 - Bilingual terminology retrieval or embedding prep: use `dictionary export-agent`
+- Lore and canon research for naming or translation: use [docs/knowledge_base/README.md](docs/knowledge_base/README.md) and search `docs/knowledge_base/uesp/`
 
 ## High-Value Workflows
 
@@ -216,6 +220,17 @@ What the export produces:
 - `records/`: one EDID-grouped document per record for richer context
 - `manifest.json`: counts, relative shard file lists, and record-type distribution before opening large shards
 - `agentText`: flattened natural-language text inside each object for retrieval workflows
+
+### 6. Research Lore with the Local UESP Knowledge Base
+
+Use the bundled knowledge base when you need lore context, book relationships, or canon naming support that is broader than the bilingual dictionary.
+
+```bash
+rg --files docs/knowledge_base/uesp | rg "Riften|Ratway"
+rg -n "House Redoran|Redoran" docs/knowledge_base/uesp -m 20
+```
+
+Use the knowledge base for English lore context and the dictionary for final Chinese terminology. See [docs/knowledge_base/README.md](docs/knowledge_base/README.md) for the full agent workflow.
 
 ## Environment Checklist
 
@@ -306,6 +321,7 @@ src/
 |- SpookysAutomod.Dictionaries/ Dictionary parsing and agent-readable export
 |- SpookysAutomod.Setup/      Windows setup wizard
 docs/                        Module references and troubleshooting docs
+docs/knowledge_base/        Local UESP-derived Markdown knowledge base and usage guide
 dictionaries/                Source XML dictionaries and agent-readable export docs/output
 tools/                       External tools and bundled helpers
 .claude/skills/              Claude Code skills for module-specific behavior
@@ -341,6 +357,7 @@ Use it when the task can be represented as structured records, scripts, archives
 | SKSE workflows | [docs/skse.md](docs/skse.md) |
 | ESP text translation with dictionary-backed terminology | [docs/esp-translation.md](docs/esp-translation.md) |
 | Agent-readable dictionary export | [dictionaries/README.agent-format.md](dictionaries/README.agent-format.md) |
+| Local UESP lore and canon research | [docs/knowledge_base/README.md](docs/knowledge_base/README.md) |
 | Advanced agent patterns | [docs/llm-guide.md](docs/llm-guide.md) |
 | Repairing broken .NET environments | [docs/environment-troubleshooting.md](docs/environment-troubleshooting.md) |
 
@@ -351,8 +368,9 @@ If you are an agent, the practical reading order is:
 1. [AGENTS.md](AGENTS.md)
 2. This README
 3. [docs/README.md](docs/README.md)
-4. The specific module doc you need
-5. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step or unusual
+4. [docs/knowledge_base/README.md](docs/knowledge_base/README.md) when the task needs lore context
+5. The specific module doc you need
+6. [docs/llm-guide.md](docs/llm-guide.md) when the task becomes multi-step or unusual
 
 If you are a human operator, the shortest path is:
 
