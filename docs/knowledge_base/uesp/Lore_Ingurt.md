@@ -1,0 +1,47 @@
+# Ingurt
+
+| High Priest Ingurt | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-High Priest Ingurt.jpg](https://images.uesp.net/thumb/9/91/ON-npc-High_Priest_Ingurt.jpg/200px-ON-npc-High_Priest_Ingurt.jpg)](https://en.uesp.net/wiki/File:ON-npc-High_Priest_Ingurt.jpg) High Priest Ingurt | | | |
+| Race | [Nord](Lore_Nord.md) | Gender | Male |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) | | |
+| Resided in | [Solitude](Lore_Solitude.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:High_Priest_Ingurt) | | |
+
+*There have been enough divisions of blood and feuding. It is a new day. This is a time to mend rifts and forge new bonds.*
+—High Priest Ingurt<sup>[[1]](#cite_note-HPI-1)</sup> **High Priest** Ingurt was a priest of [Arkay](Lore_Arkay.md) in [Solitude](Lore_Solitude.md) and the author of the religious text *[Divines and the Nords](Lore_Divines_and_the_Nords.md)*.<sup>[[2]](#cite_note-DATN-2)</sup> He played a crucial role during the [Gray Host](Lore_Gray_Host.md) attack on [Western Skyrim](Lore_Western_Skyrim.md) and [the Reach](Lore_The_Reach.md).<sup>[[1]](#cite_note-HPI-1)</sup><sup>[[3]](#cite_note-F-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/3/3f/ON-place-Hall_of_the_Dead_%28Solitude%29.jpg/200px-ON-place-Hall_of_the_Dead_%28Solitude%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Hall_of_the_Dead_(Solitude).jpg) [](https://en.uesp.net/wiki/File:ON-place-Hall_of_the_Dead_(Solitude).jpg) Hall of the Dead in Solitude Little is known of Ingurt's past. At some point he became High Priest of Arkay. As of [2E 582](Lore_Second_Era.md#2E_582), he was in charge of the [Hall of the Dead](https://en.uesp.net/wiki/Lore:Death_Nord#Nord_Funerary_Customs) in Solitue.<sup>[[1]](#cite_note-HPI-1)</sup> According to Old Mjolen, a renowned [cleverwoman](Lore_Clever_Folk.md), he served as a high priest for quite a long time.<sup>[[4]](#cite_note-OM-4)</sup>
+
+Despite being a devout follower of Arkay himself, he authored the text *Divines and the Nords*, in which he discusses Nordic deities such as [Alduin](Lore_Alduin.md), [Kyne](Lore_Kyne.md), [Mara](Lore_Mara.md), [Dibella](Lore_Dibella.md), [Stuhn](Lore_Stuhn.md), [Jhunal](Lore_Jhunal.md), [Orkey](Lore_Orkey.md), [Shor](Lore_Shor.md), [Tsun](Lore_Tsun.md), [Mauloch](Lore_Mauloch.md), and [Herma-Mora](Lore_Herma-Mora.md), and their roles.<sup>[[2]](#cite_note-DATN-2)</sup>
+
+In 2E 582, during the vampiric threat in Solitude, Queen Gerhyld was assasinated by a vampire assassin Pentarch Khorb. After the murder, he was escaping through the city. As he made his escape, he attacked and killed several civilians. High Priest Ingurt encountered Khorb and called upon Arkay's grace. According to Ingurt, the vampire fled before his sacred presence. The vampire managed to escape the city but was eventually found and slain. Ingurt prayed to Arkay to grant peace to the souls of the victims.<sup>[[1]](#cite_note-HPI-1)</sup><sup>[[5]](#cite_note-DCOS-5)</sup> Later, his temple managed the funerary proceedings for Queen Gerhyld, with Princess [Svana](Lore_Svana.md) overseeing the arrangements.<sup>[[6]](#cite_note-S-6)</sup>
+
+[![](https://images.uesp.net/thumb/7/7d/ON-quest-Dark_Clouds_Over_Solitude_04.jpg/200px-ON-quest-Dark_Clouds_Over_Solitude_04.jpg)](https://en.uesp.net/wiki/File:ON-quest-Dark_Clouds_Over_Solitude_04.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Dark_Clouds_Over_Solitude_04.jpg) Ingurt praying for the fallen [![](https://images.uesp.net/thumb/1/1f/ON-quest-Daughter_of_the_Wolf_05.jpg/200px-ON-quest-Daughter_of_the_Wolf_05.jpg)](https://en.uesp.net/wiki/File:ON-quest-Daughter_of_the_Wolf_05.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Daughter_of_the_Wolf_05.jpg) Ingurt among the crowd during Svana's speech As a high priest of Arkay, Ingurt could prepare Arkay's sacred oil. Due to Imperial influence, Arkay had become more popular in the region. Ingurt, along with other priests at the Hall of the Dead, used this oil to provide protection against necromancy and the undead. It turned out to be a necessary ingredient in concocting an elixir to heal those affected by the [Harrowstorms](Lore_Harrowstorms.md).<sup>[[3]](#cite_note-F-3)</sup>
+
+Following the fall of Kartwatch, the priests and healers have been commanded to do everything they can for the victims.<sup>[[6]](#cite_note-S-6)</sup> As the vampiric threat and Harrowstorms continued to ravage the kingdom of [Western Skyrim](Lore_Western_Skyrim.md), Ingurt housed refugees in his temple. He attempted to relocate some of them to Castle Dour for their safety, as the building was already at capacity but his request was denied by the High King.<sup>[[1]](#cite_note-HPI-1)</sup>
+
+Swordthane Uthlet arrived with an edict from King Svargrim, demanding Ingurt’s entire supply of sanctified oils. No reason was provided other than that the king needed the oil to defend Solitude, and it was subsequently transported to Castle Dour. Later that same day, Princess Svana requested some of the oil herself. However, due to the overwhelming demand for aid among the refugees, Ingurt was unable to fulfill her request.<sup>[[1]](#cite_note-HPI-1)</sup> While Princess Svana intended to use the oil to help the people, her father, secretly a vampire himself, ensured that the oil supply was kept away from the public,<sup>[[3]](#cite_note-F-3)</sup> in the Temple of the Divines, within the confines of Castle Dour.<sup>[[7]](#cite_note-SU-7)</sup> Ultimately, a limited amount of oil was obtained,<sup>[[4]](#cite_note-OM-4)</sup> and the vampiric forces led Svargrim by were eventually defeated in Solitude.<sup>[[6]](#cite_note-S-6)</sup>
+
+Following the crisis, Ingurt expressed his support for Svana as the new Jarl of Solitude.<sup>[[1]](#cite_note-HPI-1)</sup> He promised a steady supply of Arkay's oil to an agent of House Ravenwatch and Princess Svana, ensuring that the cure could be distributed effectively.<sup>[[3]](#cite_note-F-3)</sup>
+
+Ingurt also sponsored the Swords of Solitude, equipping them with anointed relics of Arkay to conduct funeral rites for the victims. This was done to ensure the peace of their souls and to mitigate any lingering risk of undeath. Priest Tobjarn, endorsed by Ingurt, provided further details to the Swords of Solitude contractors,<sup>[[8]](#cite_note-H-8)</sup><sup>[[9]](#cite_note-PT-9)</sup> who then ventured into vampire feeding grounds to properly sanctify the corpses.<sup>[[10]](#cite_note-FITD-10)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:High_Priest_Ingurt) [](https://en.uesp.net/wiki/Online:Greymoor) article.
+
+### Books
+- ***[Divines and the Nords](Lore_Divines_and_the_Nords.md)*** by [High Priest Ingurt](Lore_Books_by_Author.md#High_Priest_Ingurt) — A text on how ancient Nordic totemic religion transformed into modern worship of the Eight Divines
+
+## References
+1. ^ <sup>***[a](#cite_ref-HPI_1-0)***</sup><sup>***[b](#cite_ref-HPI_1-1)***</sup><sup>***[c](#cite_ref-HPI_1-2)***</sup><sup>***[d](#cite_ref-HPI_1-3)***</sup><sup>***[e](#cite_ref-HPI_1-4)***</sup><sup>***[f](#cite_ref-HPI_1-5)***</sup><sup>***[g](#cite_ref-HPI_1-6)***</sup> [High Priest Ingurt](https://en.uesp.net/wiki/Online:High_Priest_Ingurt)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+2. ^ <sup>***[a](#cite_ref-DATN_2-0)***</sup><sup>***[b](#cite_ref-DATN_2-1)***</sup> [*Divines and the Nords*](Lore_Divines_and_the_Nords.md) — [High Priest Ingurt](Lore_Books_by_Author.md#High_Priest_Ingurt)
+3. ^ <sup>***[a](#cite_ref-F_3-0)***</sup><sup>***[b](#cite_ref-F_3-1)***</sup><sup>***[c](#cite_ref-F_3-2)***</sup><sup>***[d](#cite_ref-F_3-3)***</sup> [Fennorian](https://en.uesp.net/wiki/Online:Fennorian)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+4. ^ <sup>***[a](#cite_ref-OM_4-0)***</sup><sup>***[b](#cite_ref-OM_4-1)***</sup> [Old Mjolen](https://en.uesp.net/wiki/Online:Old_Mjolen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+5. [^](#cite_ref-DCOS_5-0) Events of [Dark Clouds Over Solitude](https://en.uesp.net/wiki/Online:Dark_Clouds_Over_Solitude) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+6. ^ <sup>***[a](#cite_ref-S_6-0)***</sup><sup>***[b](#cite_ref-S_6-1)***</sup><sup>***[c](#cite_ref-S_6-2)***</sup> [Svana](https://en.uesp.net/wiki/Online:Svana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+7. [^](#cite_ref-SU_7-0) [Swordthane Uthlet](https://en.uesp.net/wiki/Online:Swordthane_Uthlet)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+8. [^](#cite_ref-H_8-0) [Hidaver](https://en.uesp.net/wiki/Online:Hidaver)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+9. [^](#cite_ref-PT_9-0) [Priest Tobjarn](https://en.uesp.net/wiki/Online:Priest_Tobjarn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+10. [^](#cite_ref-FITD_10-0) Events of [Feasting in the Dark](https://en.uesp.net/wiki/Online:Feasting_in_the_Dark) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*

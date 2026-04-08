@@ -1,0 +1,49 @@
+# Auriel's Shield
+
+Auriel's Shield is an [artifact](Lore_Artifacts.md) used by the elven god [Auriel](Lore_Auriel.md), the [Altmeri](Lore_Altmer.md) [Akatosh](Lore_Akatosh.md), Dragon God of Time.<sup>[[1]](#cite_note-KPG-1)</sup><sup>[[2]](#cite_note-VOF-2)</sup> It takes the form of a small shield, sometimes rounded, made from either [ebony](Lore_Ebony.md) or [moonstone](Lore_Moonstone.md). It has several magical abilities that help to make its wielder nigh invulnerable. Its known enchantments include resistance to fire, shielding from either magical or physical attacks, healing properties, magical armor enhancement, and spell reflection.<sup>[[3]](#cite_note-AR.2FDF-3)</sup> Sometimes it also appears to be seemingly unenchanted.<sup>[[4]](#cite_note-MWAuriel.27s Shield-4)</sup>
+
+The shield has the ability to absorb the power of blocked attacks; this energy can then be released by bashing an opponent with the shield, delivering a devastating physical blow.<sup>[[5]](#cite_note-SRAuriel.27s Shield-5)</sup> Its shielding ability is supposedly unsurpassed. The shield is twinned with [Auriel's Bow](Lore_Auriel%27s_Bow.md).
+
+Like many great artifacts, the shield has a life and personality of its own, and does not feel bound to its user. A popular fable tells of it abandoning its owner in her greatest hour of need, but this story is thought to be apocryphal.<sup>[[3]](#cite_note-AR.2FDF-3)</sup> Legend says it was created by [Anuiel](Lore_Anuiel.md) at Auriel's request so that the latter could use it in his campaign against the forces of [Lorkhan](Lore_Lorkhan.md) during the [Dawn Era](Lore_Dawn_Era.md).<sup>[[6]](#cite_note-TM-6)</sup>
+
+## History
+In the [Third Era](Lore_Third_Era.md), prior to the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), a man named [Cormelik the Elder](https://en.uesp.net/wiki/Lore:Cormelik_the_Elder) sought to obtain Auriel's Shield, and during multiple expeditions in his attempts to find it gained a number of followers. Cormelik prophesized that the Shield would return to particular locations whenever it reappeared in Tamriel. Described as a mighty warrior, he was nevertheless unable to enter the Shield's new resting place and ultimately failed to obtain it. However, Cormelik made a number of maps during his travels, documenting all of the possible locations he had prophesized where Auriel's Shield might be found, and it was one of these maps which would later surface during the Imperial Simulacrum.<sup>[[7]](#cite_note-ARTIL-7)</sup>
+
+Circa [3E 389](Lore_Third_Era.md#3E_389) - [3E 399](Lore_Third_Era.md#3E_399) during the Imperial Simulacrum, the [Eternal Champion](Lore_Eternal_Champion.md) began to hear rumors about a man who knew the location of Auriel's Shield and tracked him down to a tavern for more information. This man was in fact one of Cormelik the Elder's former followers from years ago, when Cormelik was attempting to find the Shield. It transpired that a group of acolytes had been traveling across [High Rock](Lore_High_Rock.md) when they discovered a cave, which upon further exploration turned out to be the likely location of one of Cormelik's maps. These acolytes then approached the former follower for information, knowing of his history with Cormelik, but were evidently murdered by the follower to silence them. Now as the sole individual with knowledge of the map's whereabouts, the follower was willing to strike a deal with the Eternal Champion and bartered the map's location, warning that - as evidenced by Cormelik's failure - simply knowing where Auriel's Shield and the map leading to it were would not be enough to obtain it. Nevertheless, the Eternal Champion traveled to High Rock and recovered Cormelik the Elder's map, which in turn led to a dungeon in another province outside of High Rock and where the Eternal Champion successfully acquired the Shield.<sup>[[7]](#cite_note-ARTIL-7)</sup>
+
+In the events leading up to the [Warp in the West](Lore_Warp_in_the_West.md) (circa [3E 405](Lore_Third_Era.md#3E_405) - [3E 417](Lore_Third_Era.md#3E_417)), a clue to the location of Auriel's Shield was discovered by a [Glenmoril Witch](Lore_Glenmoril_Wyrd.md) living in the [Iliac Bay](Lore_Iliac_Bay.md) region where the Shield had now reappeared. In return for kidnapping the witch's great-granddaughter to become the witch's successor, she revealed the clue to a questing member of a knightly order, [the Agent](Lore_The_Agent.md), who then retrieved it from the dungeon where it was now located. However, there are conflicting accounts that the artifact centered around this story was actually a different one altogether, with Auriel's Bow or the [Lord's Mail](Lore_Lord%27s_Mail.md) taking its place in the story.<sup>[[8]](#cite_note-DFTA-8)</sup>
+
+Near the end of the [Third Era](Lore_Third_Era.md), Auriel's Shield was recovered by [Drelyne Llenim](https://en.uesp.net/wiki/Lore:Drelyne_Llenim), a [Dunmer](Lore_Dunmer.md) [Buoyant Armiger](Lore_Buoyant_Armigers.md) stationed at [Ghostgate](Lore_Ghostgate.md), a small military settlement along the [Great Ghost Fence](Lore_Ghostfence.md) on [Vvardenfell](Lore_Vvardenfell.md). In [3E 427](Lore_Third_Era.md#3E_427), the Shield is said to have been forcibly taken from Llenim by the [Nerevarine](Lore_Nerevarine.md),<sup>[[9]](#cite_note-MWDL-9)</sup> who then sold it to [Torasa Aram](Lore_Torasa_Aram.md). Aram put the Shield on display in her Museum of Artifacts in [Mournhold](Lore_Mournhold.md).<sup>[[10]](#cite_note-TRTM-10)</sup>
+
+By [4E 201](Lore_Fourth_Era.md#4E_201), Auriel's Shield appeared in the [Forgotten Vale](Lore_Forgotten_Vale.md) of [Skyrim](Lore_Skyrim.md), once the stronghold of the [Chantry of Auri-El](Lore_Chantry_of_Auri-El.md). Through unknown means, the Shield was obtained by an anonymous [Falmer](Lore_Falmer.md) Warmonger, a member of the Betrayed, whose ancestors had been blinded by the [Dwemer](Lore_Dwemer.md) and crippled by centuries of living underground. The Falmer used Auriel's Shield to fight many [frost trolls](Lore_Frost_Troll.md) in a secluded forested region of the Vale. The [Last Dragonborn](Lore_Hero.md) used the [Ruby Paragon](https://en.uesp.net/wiki/Lore:Ruby_Paragon) to teleport across the vale, where they located this Falmer and reclaimed the Shield.<sup>[[11]](#cite_note-DGFW-11)</sup>
+
+### Previous Owners:
+- Unknown female user
+- [Drelyne Llenim](https://en.uesp.net/wiki/Lore:Drelyne_Llenim)
+- [Torasa Aram](Lore_Torasa_Aram.md)
+- Anonymous [Falmer](Lore_Falmer.md) Warmonger
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/59/AR-item-Ebony_Kite_Shield.png/200px-AR-item-Ebony_Kite_Shield.png)](https://en.uesp.net/wiki/File:AR-item-Ebony_Kite_Shield.png) Arena (male)
+- [![](https://images.uesp.net/thumb/c/c1/AR-item-Kite_Shield_F.png/200px-AR-item-Kite_Shield_F.png)](https://en.uesp.net/wiki/File:AR-item-Kite_Shield_F.png) Arena (female)
+- [![](https://images.uesp.net/a/a8/DF-item-Auriel%27s_Shield.png)](https://en.uesp.net/wiki/File:DF-item-Auriel%27s_Shield.png) Daggerfall
+- [![](https://images.uesp.net/thumb/c/ce/MW-item-Auriel%27s_Shield.jpg/200px-MW-item-Auriel%27s_Shield.jpg)](https://en.uesp.net/wiki/File:MW-item-Auriel%27s_Shield.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/d/da/SR-item-Auriel%27s_Shield.jpg/200px-SR-item-Auriel%27s_Shield.jpg)](https://en.uesp.net/wiki/File:SR-item-Auriel%27s_Shield.jpg) Skyrim
+- [](https://en.uesp.net/wiki/File:ON-icon-armor-Shield-Auriel%27s_Shield.png) ESO
+(Cut Content)
+
+## See Also
+For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Auriel%27s_Shield), [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Auriel%27s_Shield), [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Auriel%27s_Shield), and [*Skyrim*](Skyrim_Auriel%27s_Shield.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> articles.
+
+## References
+1. [^](#cite_ref-KPG_1-0) [Knight-Paladin Gelebor](Skyrim_Knight-Paladin_Gelebor.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-VOF_2-0) [*Varieties of Faith: The High Elves*](https://en.uesp.net/wiki/Lore:Varieties_of_Faith__The_High_Elves) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+3. ^ <sup>***[a](#cite_ref-AR.2FDF_3-0)***</sup><sup>***[b](#cite_ref-AR.2FDF_3-1)***</sup> *[Arena](https://en.uesp.net/wiki/Arena:Auriel%27s_Shield)/[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Auriel%27s_Shield)* in-game description
+4. [^](#cite_ref-MWAuriel.27s Shield_4-0) [Auriel's Shield](https://en.uesp.net/wiki/Morrowind:Auriel%27s_Shield) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-SRAuriel.27s Shield_5-0) [Auriel's Shield](Skyrim_Auriel%27s_Shield.md) in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-TM_6-0) [*The Monomyth*](Lore_The_Monomyth.md)
+7. ^ <sup>***[a](#cite_ref-ARTIL_7-0)***</sup><sup>***[b](#cite_ref-ARTIL_7-1)***</sup> [Artifact Dialogue — The Imperial Library](http://www.imperial-library.info/content/auriels-shield-0)
+8. [^](#cite_ref-DFTA_8-0) [The Artifact](https://en.uesp.net/wiki/Daggerfall:The_Artifact) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+9. [^](#cite_ref-MWDL_9-0) [Drelyne Llenim](https://en.uesp.net/wiki/Morrowind:Drelyne_Llenim)'s possession of the Shield in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-TRTM_10-0) [The Museum](https://en.uesp.net/wiki/Tribunal:The_Museum) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+11. [^](#cite_ref-DGFW_11-0) [Falmer Warmonger](Skyrim_Falmer_Warmonger.md)'s possession of the shield in *[Skyrim](Skyrim_Skyrim.md): [Dawnguard](Skyrim_Dawnguard.md)*

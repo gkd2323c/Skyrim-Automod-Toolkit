@@ -1,0 +1,35 @@
+# The Nirnroot Missive
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book7.png) Book Information <br> *The Nirnroot Missive* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 10BEDF | | |
+| See Also | [Lore version](Lore_The_Nirnroot_Missive.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 250 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Related to | [A Return To Your Roots](Skyrim_A_Return_To_Your_Roots.md) | | |
+
+The Nirnroot Missive
+Revised Edition **by [Sinderion](Skyrim_Sinderion.md)** *A description of the enigmatic plant called Nirnroot* *
+---
+This title of this book was originally misspelled as ***The Nirnoot Missive***. This was fixed in [Special Edition Patch 1.6.629](Skyrim_Special_Edition_Patch.md#Version_1.6.629).
+
+---
+*The following is a transcript of the speech given by Master Alchemist [Sinderion](Skyrim_Sinderion.md) at the Alchemical Symposium on Rain's Hand of [4E 02](Lore_Fourth_Era.md#4E_02). It is a revised version of an [earlier missive](https://en.uesp.net/wiki/Oblivion:Nirnroot_Missive) Sinderion gave to the same group several years before. We've done the best we could to preserve the original tone of his speech, but some light embellishments have been made for editorial reasons and for clarity.*
+
+*Sharmirin Raythorne,*
+
+*Imperial Scribe*
+
+---
+
+![I](https://images.uesp.net/thumb/4/48/I_letter.png/30px-I_letter.png)
+would like to address the Symposium today with some startling revelations regarding the [nirnroot](Skyrim_Nirnroot.md). Although this curiously tenacious flora grows almost anywhere a significant body of water is present, it's extremely rare, and soon to become extinct. After years of extensive research, and the tireless efforts of my field assistant, I came into the possession of a large sampling of nirnroot. According to the theories presented by the noted Imperial Herbalist Chivius Regelliam, the nirnroot once flourished until a cataclysmic event severely reduced their numbers. Although many scholars reject the proposal that the [Sun's Death](Lore_Sun%27s_Death.md) event of [1E 668](Lore_First_Era.md#1E_668) catastrophically affected plant life, Chivius felt that the nirnroot's normal growth cycle was interrupted by the lack of sun for a full year. Whereas other plant species tend to "find a way," the nirnroot's mysterious magical nature made it especially susceptible to this climate shift. While this may or may not be the case, it's certainly true that the recorded sightings of nirnroot are declining as the years pass.
+
+Chivius's notes oddly describe the nirnroot as emitting a "brilliant yellowish glow." Contrary to this fact, the nirnroot of today has a soft, haunting blue-white glow. Subsequent studies by other scholars have failed to adequately explain this shift in hue. I propose that the nirnroot sensed its own impending extinction and therefore altered its metabolism in order to survive. One of the most glaring pieces of evidence of my theory is the presence of nirnroot in subterranean environments... places completely devoid of sunlight. Strangely, Chivius's notes fail to mention even a single instance of a subterrestrial nirnroot. How could this be? How could a surface-dwelling plant suddenly begin appearing in new locations radically different from its normal habitat?
+
+The answer, my fellow alchemists, is ironically concealed within Chivius's own notes. Although he spends a great deal of time experimenting with the nirnroot in his laboratory, he overlooked an important part of a plant's growth cycle... its soil. Chivius was correct in assuming the volcanic eruption of Red Mountain contributed to the demise of the nirnroot, but I believe the ash from that mighty explosion did more than simply cloud the skies. When mixed with the fertile soil of [Cyrodiil](Lore_Cyrodiil.md), this fine powder is the true cause of the nirnroot's astounding metamorphosis. Although little volcanic ash from that dark time remains, I have performed tests on samples sent to me from [Vvardenfell](Lore_Vvardenfell.md). Careful scrutiny of the samples revealed that they were rife with "[ash salt](Lore_Ash_Salts.md)," a highly magical substance. [Dunmer](Skyrim_Dunmer.md) native to the Vvardenfell region were known to have used ash salt as an ingredient to cure the "[Blight](Lore_The_Blight.md)," an awful disease which decimated their realm hundreds of years ago. This unique property of the ash salt coupled with the nirnroot's inherent magic caused the radical change... in essence; the root "healed itself."
+
+In summation, it's clear that the nirnroot was dying and used a byproduct of its destructor to preserve itself. I feel the nirnroot has accomplished in a relatively short amount of time what it would take other species thousands of years to complete.
+
+Whether you subscribe to my theory or not, one thing is certain; the nirnroot is on a path to destruction. It contains untapped potential to create potions the likes of which have never been seen in our day. I propose to you today that we divert a small portion of our funds to an expedition to collect some of these roots to study. I have outlined this proposal for your perusal after this section of the Symposium. Please, seriously consider this proposal before it becomes too late, and the nirnroot becomes nothing but a memory.
+
+Thank you for your time.

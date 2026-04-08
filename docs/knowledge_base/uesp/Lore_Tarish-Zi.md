@@ -1,0 +1,37 @@
+# Tarish-Zi
+
+| Emperor Tarish-Zi | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Emperor Tarish-Zi.jpg](https://images.uesp.net/thumb/1/1d/ON-npc-Emperor_Tarish-Zi.jpg/200px-ON-npc-Emperor_Tarish-Zi.jpg)](https://en.uesp.net/wiki/File:ON-npc-Emperor_Tarish-Zi.jpg) Emperor Tarish-Zi | | | |
+| Race | [Yokudan](Lore_Yokudan.md) | Gender | Male |
+| Born | [1st Era, Last Seed](Lore_First_Era.md#1st_Era.2C_Last_Seed) <br> [Yokuda](Lore_Yokuda.md) | | |
+| Died | [1st Era](Lore_First_Era.md#1st_Era) <br> [Craglorn](Lore_Craglorn.md) | | |
+| Resided in | [Yokuda](Lore_Yokuda.md) <br> [Hammerfell](Lore_Hammerfell.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Emperor_Tarish-Zi) | | |
+
+- *"Know, O my prince, that in that forgotten time there arose a ruler of great wickedness, who unjustly took unto himself the title of Emperor. Cruel was he, utterly without ruth, and his name was Tarish-Zi."* — *[The Unveiled Azadiyeh](https://en.uesp.net/wiki/Online:Tombs_of_the_Na-Totambu)*
+
+Emperor Tarish-Zi was a [Yokudan](Lore_Yokuda.md) leader of the [Ra Gada](Lore_Ra_Gada.md) and a member of the [Na-Totambu](Lore_Na-Totambu.md). The self-proclaimed emperor led the [Anka-Ra](Lore_Anka-Ra.md), one of the most fearsome of the warrior bands renowned for their mastery of the sword. Tarish-Zi was known for his ruthlessness, and the Anka-Ra cut a bloody swath across [Hammerfell](Lore_Hammerfell.md) and all the way into [Craglorn](Lore_Craglorn.md) in their hunger to claim a new home<sup>[[1]](#cite_note-1)</sup><sup>[[2]](#cite_note-2)</sup> following the invasion of the Ra Gada in [1E 808](Lore_First_Era.md#1E_808).<sup>[[3]](#cite_note-PGE3Other-3)</sup>
+
+Though many of the Ra Gada settled in the south of the province, Tarish-Zi dreamed of greater conquests, gathering much of his family and those loyal to him to conquer Craglorn. They left few survivors, and have been blamed for the annihilation of the [Nedes](Lore_Nede.md) of Eastern Hammerfell, whose culture was already fading by the time of the Ra Gada's arrival.<sup>[[4]](#cite_note-4)</sup><sup>[[5]](#cite_note-5)</sup> Tarish-Zi was responsible for the destruction of the abandoned Nedic city of [Reinhold's Retreat](Lore_Reinhold%27s_Retreat.md), which he ordered to be buried beneath the earth after being underwhelmed by the famed treasure said to be stored within the ruins.<sup>[[6]](#cite_note-Titus-6)</sup> He besieged the Nedic city that came to be known as Shada's Tear, and in their desperation, the Nedes called on Nereids to protect them from the Yokudans. Using foul magic, they were turned into undead warriors and summoned a powerful flesh atronach named Debruz that killed thousands of the Yokudans, driving out their forces.<sup>[[7]](#cite_note-TRWF-7)</sup>
+
+He and his Anka-Ra ultimately settled in Craglorn, founding cities such as [Belkarth](Lore_Belkarth.md).<sup>[[8]](#cite_note-8)</sup> For a time, he justly ruled over his kingdom in the way of tradition, though this peace was short-lived. Driven by his lust for power, he began stylizing himself as an "emperor" rather than a king, turning his armies against his own allies. He sought to invade [Cyrodiil](Lore_Cyrodiil.md), a course of action that his own people opposed, and recruited the skilled Imperial adventurer Titus Valerius into his royal guard. Titus secretly worked with the people of Tarish-Zi's kingdom to depose him from power, and though the rebellion was ill-fated, it was still frightened him enough to give up his plans of invading the neighboring territories.<sup>[[6]](#cite_note-Titus-6)</sup> The Anka-Ra were eventually buried in Craglorn, but even in death, their spirits were bound to Tarish-Zi through an oath of eternal loyalty,<sup>[[6]](#cite_note-Titus-6)</sup> thanks to the secrets revealed to him by [Hermaeus Mora](Lore_Hermaeus_Mora.md).<sup>[[9]](#cite_note-TSA-9)</sup>
+
+This eternal loyalty was exploited circa [2E 578](Lore_Second_Era.md#2E_578),<sup>[[10]](#cite_note-Arnure-10)</sup><sup>[[11]](#cite_note-SOE-11)</sup> when the [constellations](Lore_Astronomy.md) fell from the skies above Craglorn and took on mortal form as [Celestials](Lore_Celestial.md). [The Warrior](Lore_The_Warrior_(constellation).md) was one such Celestial, and he used his divine powers to call forth great warriors of the past. However, he did so at the command of [the Serpent](Lore_The_Serpent.md) who had corrupted him, and so he summoned Tarish-Zi and the Anka-Ra forward in time. Under the Serpent's control, the Anka-Ra rose from their burial tombs as sand warriors and began amassing an army in order to siege Craglorn.<sup>[[12]](#cite_note-12)</sup>
+
+Along with the Anka-Ra, a Nedic warrior named Titus Valerius was cast forward in time. This was done by the Warrior before his corruption, so that Valerius could act as his champion. Valerius was a subject of Tarish-Zi in life, but owed him no loyalty and as such could act autonomously, outside of the Serpent's influence. While the Star Gazers attempted to halt the summoning of more Anka-Ra under the instructions of [the Thief](Lore_The_Thief.md), Valerius was aided by the [Vestige](Lore_The_Vestige.md) in locating and entering Tarish-Zi's tomb in southern Craglorn. Tarish-Zi was then defeated and the Warrior was later saved from the Serpent's corruption, ending the Anka-Ra threat.<sup>[[13]](#cite_note-13)</sup>
+
+## References
+1. [^](#cite_ref-1) [*Warlords of the Ra Gada*](Lore_Warlords_of_the_Ra_Gada.md)
+2. [^](#cite_ref-2) [ESO loading screens](https://en.uesp.net/wiki/Online:Loading_Screens)
+3. [^](#cite_ref-PGE3Other_3-0) [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-4) [*Nedes of the Deathlands*](Lore_Nedes_of_the_Deathlands.md) — [Argus Mender](Lore_Books_by_Author.md#Argus_Mender)
+5. [^](#cite_ref-5) [*Waterlogged Journal*](Lore_Waterlogged_Journal.md)
+6. ^ <sup>***[a](#cite_ref-Titus_6-0)***</sup><sup>***[b](#cite_ref-Titus_6-1)***</sup><sup>***[c](#cite_ref-Titus_6-2)***</sup> [Titus Valerius](https://en.uesp.net/wiki/Online:Titus_Valerius)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-TRWF_7-0) [The Reason We Fight](https://en.uesp.net/wiki/Online:The_Reason_We_Fight) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [*Blasius' Unfinished Manuscript*](Lore_Blasius%27_Unfinished_Manuscript.md) — [Blasius](Lore_Books_by_Author.md#Blasius)
+9. [^](#cite_ref-TSA_9-0) Events of [The Seeker's Archive](https://en.uesp.net/wiki/Online:The_Seeker%27s_Archive_(quest)) in [ESO](https://en.uesp.net/wiki/Online:Online), and [Hermaeus Mora](https://en.uesp.net/wiki/Online:Hermaeus_Mora)'s dialogue during the quest
+10. [^](#cite_ref-Arnure_10-0) [Firstmage Arnure](https://en.uesp.net/wiki/Online:Firstmage_Arnure)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+11. [^](#cite_ref-SOE_11-0) [Story of ESO](https://en.uesp.net/wiki/General:Story_of_ESO)
+12. [^](#cite_ref-12) [The Celestial Warrior](https://en.uesp.net/wiki/Online:The_Celestial_Warrior)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-13) [The Warrior's Call](https://en.uesp.net/wiki/Online:The_Warrior%27s_Call) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,37 @@
+# The Aetherium Wars
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-The_Aetherium_Wars.png) Book Information <br> *The Aetherium Wars* | | | |
+| --- | --- | --- | --- |
+| Added by | [Dawnguard](Skyrim_Dawnguard.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 004D5B | | |
+| See Also | [Lore version](Lore_The_Aetherium_Wars.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 15 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Needed for | [Lost to the Ages](Skyrim_Lost_to_the_Ages.md) | | |
+| Locations | | | |
+| Found in the following locations: - [Arcanaeum](Skyrim_The_Arcanaeum.md), in the southeastern part of the room, resting on a table <br> - [Bards College](Skyrim_Bards_College.md), after the right turn from the entrance, on a small bookcase <br> - [Calcelmo's Tower](Skyrim_Calcelmo%27s_Tower.md), on a dwarven shelf in the uppermost room with rubbings <br> - [Darklight Tower](Skyrim_Darklight_Tower.md), before the [hagraven](Skyrim_Hagraven.md), in the room with the lever, on a cupboard's shelf <br> - [Dayspring Canyon](Skyrim_Dayspring_Canyon.md), on top of a barrel in a tent of the camp outside [Fort Dawnguard](Skyrim_Fort_Dawnguard.md) (only if the camp exists) <br> - [Dead Drop Mine](Skyrim_Dead_Drop_Mine.md), on a shelf under a wooden platform <br> - Random: [clutter](Skyrim_LItemBookClutter.md) <br> <br> More Locations - [Dragonsreach](Skyrim_Dragonsreach.md), in [Farengar](Skyrim_Farengar_Secret-Fire.md)'s study, resting on the lowest shelf of the left bookcase <br> - [Dwemer Museum](Skyrim_Dwemer_Museum.md), on a table in the southwestern corner, near a [Dwemer ballista](Skyrim_Dwemer_Ballista.md) <br> - [Fellglow Keep](Skyrim_Fellglow_Keep.md), on one of the bookshelves surrounding the library <br> - [Fort Dawnguard](Skyrim_Fort_Dawnguard.md), on the ground floor - On a shelf in the farthest room to your left as you enter (where an alchemy lab and arcane enchanter will be later added) <br> - On the bottommost shelf of a case in the farthest room in front of the main entrance <br> - [Fort Neugrad](Skyrim_Fort_Neugrad.md), on a bookshelf in the circular room accessed by heading south through the wooden door in front of the main entrance <br> - [Fort Snowhawk](Skyrim_Fort_Snowhawk.md), on a bookshelf in the room west of the back entrance <br> - [Hall of the Vigilant](Skyrim_Hall_of_the_Vigilant.md), on the floor of the ruined hall [(map)](https://gamemap.uesp.net/sr/?x=20228.5195&y=66324.3281&zoom=17&legacy=true) <br> - [Hob's Fall Cave](Skyrim_Hob%27s_Fall_Cave.md), on a bookshelf in the ritual room <br> - [Ilinalta's Deep](Skyrim_Ilinalta%27s_Deep.md), on the bottom-most shelf in a corner of the room with the only arcane enchanter <br> - [Palace of the Kings Upstairs](Skyrim_Palace_of_the_Kings_Upstairs.md), on a shelf in [Wuunferth](Skyrim_Wuunferth_the_Unliving.md)'s laboratory <br> - [Raldbthar](Skyrim_Raldbthar.md), on a stone table in the room accessed by turning left (where the path divides in two) from the entrance <br> - [Rannveig's Fast](Skyrim_Rannveig%27s_Fast.md), in the room with [Sild the Warlock](Skyrim_Sild_the_Warlock.md), on the middle shelf of a bookcase <br> - [Redwater Den](Skyrim_Redwater_Den.md), in the cave area past the corridor with booths, on a wooden crate near the forge <br> - [Ruunvald Temple](Skyrim_Ruunvald_Temple.md), at the end of the dungeon, on a table in the room with the boss chest, next to an alchemy lab <br> - [Volkihar Keep](Skyrim_Volkihar_Keep.md) - On a table in the blacksmith's workroom (labeled as "2" on [this map](Skyrim_Volkihar_Keep.md#Volkihar_Keep)) <br> - On a small round table on the balcony extending from the upper level of the library to the dining hall <br> - [Volkihar Undercroft](Skyrim_Volkihar_Undercroft.md), on a table in the room with the lever that lowers the first bridge, next to a coffin | | | |
+
+The Aetherium Wars **by [Taron Dreth](Lore_Books_by_Author.md#Taron_Dreth)** *A treatise on the collapse of Dwemer city-states in Skyrim* *
+---
+*Note: Taron Dreth plagiarized this work using his colleague's [notes](Lore_Katria%27s_Journal.md).*
+
+---
+
+- *Dedicated to [Katria](Skyrim_Katria.md),*
+- *my Friend and Colleague*
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+he end, when it came, was swift. In the span of three short years, the great [dwarven](Skyrim_Dwemer.md) cities of [Skyrim](Lore_Skyrim.md), from [Markarth](Skyrim_Markarth.md) to the [Velothi Mountains](Skyrim_Velothi_Mountains.md), fell before the armies of the High King. Cities that had held fast against the [Nords](Skyrim_Nord.md) for over a hundred years crumbled abruptly and without warning.
+
+For centuries, scholars have marveled at the sudden collapse of the Dwemer city-states. Even the Nords seem to have been taken by surprise, though their chroniclers were quick to ascribe their success to [King Gellir's](Lore_Gellir.md) inspired tactics and the blessings of [Shor](Lore_Shor.md).
+
+My research suggests a much different cause, however. In the decades preceding their fall, the dwarven cities of Skyrim had been decimated by internal disputes and infighting over a most surprising cause: [Aetherium](Lore_Aetherium.md).
+
+Modern scholars know Aetherium as a rare, luminescent blue crystal found in some Dwemer ruins. Most consider it little more than a curiosity, as it has proven all but impossible to work with: while it has a strong magical aura, it is [alchemically](Skyrim_Alchemy.md) inert, and no known process can enchant, smelt, mold, bind, or break it.
+
+To the dwarves, of course, such problems were merely a challenge. In the years following [King Harald's](Lore_Harald.md) reign, the Dwemer discovered a considerable source of Aetherium in their deepest delvings. An alliance of four cities, led by [Arkngthamz](Skyrim_Arkngthamz.md), the great research center in the southern [Reach](Skyrim_The_Reach.md), was formed to oversee its extraction, processing, and study, and a new 'Aetherium Forge' constructed to smelt it under precisely controlled conditions.
+
+If the inscriptions I discovered are to be believed, the results were nothing short of spectacular: the items produced by the Forge were artifacts of immense power, imbued from the moment of their creation with powerful enchantments. The dwarven alliance shattered almost immediately, as the four city-states and their rivals attempted to claim the Forge.
+
+We can only speculate that none were successful. Decades of conflict merely weakened them all, allowing for King Gellir's subsequent conquests. And though the Dwemer reclaimed most of their lands a century later, there is no evidence that they ever resumed their research on Aetherium. Perhaps the costs had just been too great.
+
+But nothing like [the Aetherium Forge](Skyrim_The_Aetherium_Forge.md) described in the inscriptions has ever been found within the borders of Skyrim. It may have been destroyed long ago, by the Nord invaders or the Dwemer themselves. Or perhaps it, like the secrets of Aetherium itself, still remains to be discovered.

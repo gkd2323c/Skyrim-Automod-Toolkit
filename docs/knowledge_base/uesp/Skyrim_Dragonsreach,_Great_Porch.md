@@ -1,0 +1,142 @@
+# Dragonsreach
+
+| **This article is being developed as part of the Skyrim Houses Redesign Project. If you see this tag it means the article can still be improved. Please see the [project page](https://en.uesp.net/wiki/UESPWiki:SHRP) for guidelines.** |
+| --- |
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Castle.png) \| Castle: <br> Dragonsreach <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dragonsreach)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Castle.png) | Castle: <br> Dragonsreach <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dragonsreach)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Castle.png) | Castle: <br> Dragonsreach <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dragonsreach)) | |
+| # of Zones | 4 | |
+| [Respawn Time](Skyrim_Respawn.md) | 10 days | |
+| Important Treasure | | |
+| *[Before the Ages of Man](Skyrim_Before_the_Ages_of_Man.md)* <br> [Ebony Blade](Skyrim_Ebony_Blade.md) <br> [Unusual Gem](Skyrim_Unusual_Gem.md) | | |
+| Console Location Code(s) | | |
+| Whiterun Dragonsreach <br> Whiterun Dragons Reach01 <br> Whiterun Dragons Reach02 <br> Whiterun Dragons Reach03 <br> Whiterun Dragonsreach Basement <br> Whiterun Dragonsreach Jarls Quarters | | |
+| Region | | |
+| [Whiterun Hold](Skyrim_Whiterun_Hold.md) | | |
+| Location | | |
+| Cloud District of [Whiterun](Skyrim_Whiterun.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 1 | |
+| # of [Arcane Enchanters](Skyrim_Arcane_Enchanters.md) | 1 | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 1 | |
+| [Shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) | [](Skyrim_Shadowmarks_(Thieves_Guild).md) Escape | |
+
+[![](https://images.uesp.net/thumb/0/0e/SR-place-Dragonsreach.jpg/200px-SR-place-Dragonsreach.jpg)](https://en.uesp.net/wiki/File:SR-place-Dragonsreach.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dragonsreach.jpg) Dragonsreach **Dragonsreach** is the residence of the [Jarl](Skyrim_Jarl.md) of [Whiterun Hold](Skyrim_Whiterun_Hold.md), the hold's seat of political power, and the location of the hold's jail.
+
+[![](https://images.uesp.net/thumb/2/24/SR-concept-Whiterun_Castle.jpg/200px-SR-concept-Whiterun_Castle.jpg)](https://en.uesp.net/wiki/File:SR-concept-Whiterun_Castle.jpg) [](https://en.uesp.net/wiki/File:SR-concept-Whiterun_Castle.jpg) Concept Art of Dragonsreach [![](https://images.uesp.net/thumb/e/e3/SR-place-Dragonsreach_02.jpg/200px-SR-place-Dragonsreach_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Dragonsreach_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dragonsreach_02.jpg) Dragonsreach with the Throat of the World looming in the background It is initially occupied by [Balgruuf the Greater](Skyrim_Balgruuf_the_Greater.md) and his court, but may be seized by [Vignar Gray-Mane](Skyrim_Vignar_Gray-Mane.md) if the [Stormcloak Rebels](Skyrim_Stormcloaks.md) prevail in the [Civil War](Skyrim_Civil_War.md). The palace, which is divided into four sections - *[Dragonsreach](#Dragonsreach)*, the *[Jarl's Quarters](#Dragonsreach_Jarl.27s_Quarters)*, the *[Great Porch](#Dragonsreach.2C_Great_Porch)*, and the *[Dungeon](#Dragonsreach_Dungeon)* - is in the Cloud District of [Whiterun](Skyrim_Whiterun.md), overlooking the city.
+
+The main entrance is at the top of three flights of stairs starting from the [Gildergreen](Lore_Gildergreen.md) tree, with two pools intersected by the stairs. There are four doors to the outside, though only two are accessible from the ground: one opens to the main hall, while the other leads to the dungeon, which serves as the hold's jail. A third door opens to a balcony high above ground from the living quarters and the other opens to the Great Porch from the main hall. The palace was built around a [dragon](Skyrim_Dragon.md) supposedly captured by [Olaf One-Eye](Skyrim_Olaf_One-Eye.md) and imprisoned in the present-day Great Porch.
+
+Around the first pool are a few specimens of [hanging moss](Skyrim_Hanging_Moss.md). In the second pool, there is a skeleton, eight [Nordic barnacle clusters](Skyrim_Nordic_Barnacle.md), and some [salmon](Skyrim_Salmon_(creature).md). To the left side of the second pool are two [lavender](Skyrim_Lavender.md) plants, and to the right are another three lavender plants and the door to the dungeon.
+
+## Residents
+| \| [Imperial](Skyrim_Imperial_Legion.md) Court \| \| <br> \| --- \| --- \| <br> \| Name \| Position \| <br> \| [Balgruuf the Greater](Skyrim_Balgruuf_the_Greater.md) * \| [Jarl](Skyrim_Jarl.md) \| <br> \| [Proventus Avenicci](Skyrim_Proventus_Avenicci.md) * \| [Steward](Skyrim_Steward.md) \| <br> \| [Farengar Secret-Fire](Skyrim_Farengar_Secret-Fire.md) \| [Court Wizard](Skyrim_Court_Wizard.md) \| <br> \| [Irileth](Skyrim_Irileth.md) * \| [Housecarl](Skyrim_Housecarl.md) \| <br> \| [Stormcloak](Skyrim_Stormcloaks.md) Court \| \| <br> \| Name \| Position \| <br> \| [Vignar Gray-Mane](Skyrim_Vignar_Gray-Mane.md) ** <sup>‡</sup> \| Jarl \| <br> \| [Brill](Skyrim_Brill.md) ** \| Steward \| <br> \| Farengar Secret-Fire \| Court Wizard \| <br> \| [Olfina Gray-Mane](Skyrim_Olfina_Gray-Mane.md) \| Housecarl \| | [Imperial](Skyrim_Imperial_Legion.md) Court | Name | Position | [Balgruuf the Greater](Skyrim_Balgruuf_the_Greater.md) * | [Jarl](Skyrim_Jarl.md) | [Proventus Avenicci](Skyrim_Proventus_Avenicci.md) * | [Steward](Skyrim_Steward.md) | [Farengar Secret-Fire](Skyrim_Farengar_Secret-Fire.md) | [Court Wizard](Skyrim_Court_Wizard.md) | [Irileth](Skyrim_Irileth.md) * | [Housecarl](Skyrim_Housecarl.md) | [Stormcloak](Skyrim_Stormcloaks.md) Court | Name | Position | [Vignar Gray-Mane](Skyrim_Vignar_Gray-Mane.md) ** <sup>‡</sup> | Jarl | [Brill](Skyrim_Brill.md) ** | Steward | Farengar Secret-Fire | Court Wizard | [Olfina Gray-Mane](Skyrim_Olfina_Gray-Mane.md) | Housecarl | \| Jarl's Family \| \| <br> \| --- \| --- \| <br> \| Name \| Relationship \| <br> \| [Hrongar](Skyrim_Hrongar.md) \| Brother \| <br> \| [Frothar](Skyrim_Frothar.md) \| Eldest son \| <br> \| [Nelkir](Skyrim_Nelkir.md) \| Youngest son \| <br> \| [Dagny](Skyrim_Dagny.md) \| Daughter \| <br> \| Staff \| \| <br> \| Name \| Position \| <br> \| [Fianna](Skyrim_Fianna.md) \| Servant \| <br> \| [Gerda](Skyrim_Gerda.md) \| Servant \| <br> \| [Whiterun Guards](Skyrim_Whiterun_Guard.md)<sup>†</sup> \| Guard \| | Jarl's Family | Name | Relationship | [Hrongar](Skyrim_Hrongar.md) | Brother | [Frothar](Skyrim_Frothar.md) | Eldest son | [Nelkir](Skyrim_Nelkir.md) | Youngest son | [Dagny](Skyrim_Dagny.md) | Daughter | Staff | Name | Position | [Fianna](Skyrim_Fianna.md) | Servant | [Gerda](Skyrim_Gerda.md) | Servant | [Whiterun Guards](Skyrim_Whiterun_Guard.md)<sup>†</sup> | Guard |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Imperial](Skyrim_Imperial_Legion.md) Court | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Name | Position | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Balgruuf the Greater](Skyrim_Balgruuf_the_Greater.md) * | [Jarl](Skyrim_Jarl.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Proventus Avenicci](Skyrim_Proventus_Avenicci.md) * | [Steward](Skyrim_Steward.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Farengar Secret-Fire](Skyrim_Farengar_Secret-Fire.md) | [Court Wizard](Skyrim_Court_Wizard.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Irileth](Skyrim_Irileth.md) * | [Housecarl](Skyrim_Housecarl.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Stormcloak](Skyrim_Stormcloaks.md) Court | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Name | Position | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Vignar Gray-Mane](Skyrim_Vignar_Gray-Mane.md) ** <sup>‡</sup> | Jarl | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Brill](Skyrim_Brill.md) ** | Steward | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Farengar Secret-Fire | Court Wizard | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Olfina Gray-Mane](Skyrim_Olfina_Gray-Mane.md) | Housecarl | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Jarl's Family | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Name | Relationship | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Hrongar](Skyrim_Hrongar.md) | Brother | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Frothar](Skyrim_Frothar.md) | Eldest son | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Nelkir](Skyrim_Nelkir.md) | Youngest son | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Dagny](Skyrim_Dagny.md) | Daughter | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Staff | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Name | Position | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Fianna](Skyrim_Fianna.md) | Servant | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Gerda](Skyrim_Gerda.md) | Servant | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Whiterun Guards](Skyrim_Whiterun_Guard.md)<sup>†</sup> | Guard | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+
+* If the Stormcloaks capture Whiterun, these people will be exiled to the [Blue Palace](Skyrim_Blue_Palace.md) in [Solitude](Skyrim_Solitude.md).
+** Until the Stormcloaks capture Whiterun, these people reside in [Jorrvaskr](Skyrim_Jorrvaskr.md).
+<sup>‡</sup> [Vignar Gray-Mane](Skyrim_Vignar_Gray-Mane.md) will become his own [steward](Skyrim_Steward.md) if something happens to [Brill](Skyrim_Brill.md).
+<sup>†</sup> Depending on who wins the battle for Whiterun, the guards are replaced by either [Imperial soldiers](Skyrim_Imperial_Soldier.md) or [Stormcloak soldiers](Skyrim_Stormcloak_Soldier.md).
+
+## Related Quests
+
+### [Main Quest](Skyrim_Main_Quest.md)
+- **[Before the Storm](Skyrim_Before_the_Storm.md)**: Inform the [Jarl](Skyrim_Balgruuf_the_Greater.md) of [Whiterun](Skyrim_Whiterun.md) about the dragon attack on [Helgen](Skyrim_Helgen.md).
+- **[Bleak Falls Barrow](Skyrim_Bleak_Falls_Barrow_(quest).md)**: Retrieve the [Dragonstone](Skyrim_Dragonstone.md).
+- **[Dragon Rising](Skyrim_Dragon_Rising.md)**: Investigate a [dragon](Skyrim_Dragon.md) sighting near [Whiterun](Skyrim_Whiterun.md).
+- **[Season Unending](Skyrim_Season_Unending.md)**: Enforce a ceasefire to secure Dragonsreach.
+- **[The Fallen](Skyrim_The_Fallen.md)**: Capture and interrogate [an ally](Skyrim_Odahviing.md) of [Alduin](Skyrim_Alduin.md).
+
+### [Civil War Quests](Skyrim_Civil_War.md)
+- **[Message to Whiterun](Skyrim_Message_to_Whiterun_(Imperial).md)**: Deliver the message that will decide [Whiterun](Skyrim_Whiterun.md)'s allegiance.
+- **[Message to Whiterun](Skyrim_Message_to_Whiterun_(Stormcloaks).md)**: Deliver an axe to the [Jarl](Skyrim_Balgruuf_the_Greater.md) of [Whiterun](Skyrim_Whiterun.md).
+- **[Battle for Whiterun](Skyrim_Battle_for_Whiterun_(Imperial).md)**: Protect [Whiterun](Skyrim_Whiterun.md) from the [Stormcloak](Skyrim_Stormcloaks.md) invasion. ([radiant](Skyrim_Radiant.md))
+- **[Battle for Whiterun](Skyrim_Battle_for_Whiterun_(Stormcloaks).md)**: Take [Whiterun](Skyrim_Whiterun.md) in the name of the [Stormcloaks](Skyrim_Stormcloaks.md). ([radiant](Skyrim_Radiant.md))
+
+### [Thieves Guild](Skyrim_Thieves_Guild_(faction).md)
+- **[Imitation Amnesty](Skyrim_Imitation_Amnesty.md)**: Help get a convicted prisoner released from jail.
+- **[No Stone Unturned](Skyrim_No_Stone_Unturned.md)**: Find the [24 gems](Skyrim_Unusual_Gem.md) to restore the Crown of Barenziah.
+
+### [Dark Brotherhood](Skyrim_Dark_Brotherhood.md)
+- **[Breaching Security](Skyrim_Breaching_Security.md)**: Kill and frame the [son](Skyrim_Gaius_Maro.md) of a high-ranking [Imperial guard](Skyrim_Commander_Maro.md).
+
+### Other Quests
+- **[Beyond the Grave](Skyrim_Beyond_the_Grave.md)**<sup>[CC](Skyrim_Alternative_Armors_-_Daedric_Plate.md)</sup>: Follow the trail of a set of valuable [Daedric Plate](Skyrim_Daedric_Plate_Armor.md) armor.
+- **[Enchanting Tutorial](Skyrim_Enchanting_Tutorial.md)**: Use an [Arcane Enchanter](Skyrim_Arcane_Enchanter.md).
+- **[Greatsword for a Great Man](Skyrim_Greatsword_for_a_Great_Man.md)**: Adrianne asks you to deliver a sword to [Proventus Avenicci](Skyrim_Proventus_Avenicci.md), her father.
+- **[In My Time Of Need](Skyrim_In_My_Time_Of_Need.md)**: Find a [Redguard woman](Skyrim_Saadia.md) who is on the run from [her past](Lore_Taneth.md).
+- **[In the Shadows](Skyrim_In_the_Shadows.md)**<sup>[CC](Skyrim_Bow_of_Shadows.md)</sup>: Save the Jarl of Whiterun from an assassination plot.
+- **[Salt for Arcadia](Skyrim_Salt_for_Arcadia.md)**: [Farengar](Skyrim_Farengar_Secret-Fire.md) asks you to deliver some [frost salts](Skyrim_Frost_Salts.md) to [Arcadia](Skyrim_Arcadia.md).
+- **[The Whispering Door](Skyrim_The_Whispering_Door.md)**: Investigate [Nelkir](Skyrim_Nelkir.md)'s story of a Whispering Lady behind a locked door.
+
+## Walkthrough
+
+### Dragonsreach
+[![](https://images.uesp.net/thumb/a/a7/SR-interior-Dragonsreach_Hall.jpg/200px-SR-interior-Dragonsreach_Hall.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Hall.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Hall.jpg) Dragonsreach Hall The hall is focused towards the Jarl's throne, which is visible through the shimmer from the fire, adding a certain mystical quality to his appearance. The entrance room is a waiting area, with four benches for sitting in. The servants [Fianna](Skyrim_Fianna.md) and [Gerda](Skyrim_Gerda.md) spend most of their time here, keeping it clean. The stairs lead up to the dining area and throne. Centered around a large fire, there are two dining tables with five chairs at each, while up the steps is the throne area and [Jarl Balgruuf's](Skyrim_Balgruuf_the_Greater.md) throne, which is on an additionally raised platform. Balgruuf is flanked by two [guards](Skyrim_Whiterun_Guard.md), his steward [Proventus Avenicci](Skyrim_Proventus_Avenicci.md), and his housecarl [Irileth](Skyrim_Irileth.md). His brother [Hrongar](Skyrim_Hrongar.md) acts as an additional guard, but wanders the room, and his court wizard, [Farengar Secret-Fire](Skyrim_Farengar_Secret-Fire.md), only rarely ventures out of his shop, except when the main quest has progressed to Odahviing's capture. To the left of the throne is a table, and to the right is another table and two bookshelves. The Jarl's three children— [Frothar](Skyrim_Frothar.md), [Nelkir](Skyrim_Nelkir.md) and [Dagny](Skyrim_Dagny.md) —have free rein of the palace, and can be found anywhere from the kitchen to the balconies above the hall; sometimes they can even be found outside the palace.
+
+[![](https://images.uesp.net/thumb/7/7c/SR-interior-Dragonsreach_Kitchen.jpg/200px-SR-interior-Dragonsreach_Kitchen.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Kitchen.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Kitchen.jpg) Dragonsreach Kitchen To the west of the fire is the kitchen, just before which, to the right-hand side and down some steps, is a door to the dungeons, and to the left is a table with some green apples, and two bookshelves. The food table closest to the fire contains [raw meat](Skyrim_Food.md#Raw_Meat), and on and underneath the other food table are some [food](Skyrim_Food.md) items and some [garlic](Skyrim_Garlic.md), with a cupboard at one end. There are two wardrobes and a cupboard by the southern wall, and a rack with two harvestable [salmon](Skyrim_Salmon_(dead).md) and one dried [elves ear](Skyrim_Elves_Ear.md) hanging beside the cupboard. The north wall is mainly a large fireplace with a [cooking spit](Skyrim_Cooking_Pot.md) in front of it, with an end table and a cupboard in the eastern corner with some more food items on it. Hanging down from the kitchen's ceiling are two [rabbits](Skyrim_Rabbit_(dead).md), two salmon, three garlic braids, three dried [frost mirriam](Skyrim_Frost_Mirriam.md), and eight dried elves ear, all of which can be harvested. The northwestern corner leads down some stairs to a storage area and a servants' bedroom. The storage area contains a few sacks and barrels, while the bedroom contains an owned bed, a dresser, an end table, and a chest. A copy of the rare book *[A Dream of Sovngarde](Skyrim_A_Dream_of_Sovngarde.md)* can be found on top of a bookshelf. A door on the western wall leads to the servants' section of the Living Quarters, and to the right of that is another door which leads to a room with more sacks and barrels, and a locked door<sup>[†](#intnote_Ebony_Blade)</sup>.
+
+[![](https://images.uesp.net/thumb/a/ae/SR-interior-Dragonsreach_Lab.jpg/200px-SR-interior-Dragonsreach_Lab.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Lab.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Lab.jpg) Dragonsreach Laboratory To the east of the fire is the court wizard's research and living area. To the right of the door is an additional dining table with two benches and a wardrobe. There is an [alchemy lab](Skyrim_Alchemy_Lab.md), an [arcane enchanter](Skyrim_Arcane_Enchanter.md), a chest, a cupboard, and a large map of [Skyrim](Skyrim_Skyrim.md). On the desk display are a few [potions](Skyrim_Potions.md), a common [soul gem](Skyrim_Soul_Gems.md), and a [bone meal](Skyrim_Bone_Meal.md), and on the cupboard is a petty soul gem. The study to the left contains a cupboard, a coin purse on the table, and a copy of both *[Lost Legends](Skyrim_Lost_Legends.md)* and *[The Legend of Red Eagle](Skyrim_The_Legend_of_Red_Eagle.md)* on the bookshelves, which both lead to quests. The bedroom to the right contains an owned bed, an end table, and a dresser. A copy of *[Holdings of Jarl Gjalund](Skyrim_Holdings_of_Jarl_Gjalund.md)* is added to the court wizard's desk at the end of [Bleak Falls Barrow](Skyrim_Bleak_Falls_Barrow_(quest).md). Nothing on the court wizard's desk is free to take.
+
+At the top of the stairs to the side of the Jarl is his war room. Contained here are a chest, an end table, and two wardrobes. The balconies to either side are accessible from here, although there is nothing to be found on them. On the end table is a display case with an Apprentice-level lock containing a leveled [dagger](Skyrim_Dagger.md), and on the bookshelves beside that is a copy of the hard-to-find *[The Wolf Queen, v6](Skyrim_The_Wolf_Queen,_v6.md)*, and a copy of *[An Explorer's Guide to Skyrim](Skyrim_An_Explorer%27s_Guide_to_Skyrim.md)*, which adds some map markers. There are two maps on the table and two on the wall behind it. The left-hand map on the table and the right-hand map on the wall show the different [Hold](Skyrim_Holds.md) borders and their [capitals](Skyrim_Cities.md). The left-hand map on the wall is a detailed map of Skyrim, and the left-hand map in the table is also a detailed map, with the addition of little colored flags, which can be activated to add locations to your map. The red flags mark [Imperial](Skyrim_Imperial_Legion.md) -held cities, towns, and forts, while the blue flags mark [Stormcloak](Skyrim_Stormcloaks.md) -held locations. This map and others similar to it will update to show the changes made during any [Civil War](Skyrim_Civil_War.md) quests. Doors to the Jarl's Quarters and the Great Porch are to the east and north, respectively.
+
+[†](#note_Ebony_Blade) The locked room contains the book *[Admonition Against Ebony](Skyrim_Admonition_Against_Ebony.md)* and the [Ebony Blade](Skyrim_Ebony_Blade.md). It can only be unlocked during the quest [The Whispering Door](Skyrim_The_Whispering_Door.md) with a [key](Skyrim_Whispering_Door_Key.md) obtained from either Balgruuf or Farengar.
+### Dragonsreach Jarl's Quarters
+There are six bedrooms here, for all the palace's residents, and a door to an outdoor balcony that overlooks all of Whiterun. In the hall at the bottom of the stairs are four display cases; three with Apprentice-level locks and one with a Master-level lock. The master-locked case has an [elven sword](Skyrim_Elven_Sword.md), the case to the east has a [Whiterun Guard's armor](Skyrim_Whiterun_Guard%27s_Armor.md) and shield, the case to the north has a [steel dagger](Skyrim_Steel_Dagger.md) and a [banded iron shield](Skyrim_Banded_Iron_Shield.md), and the case to the west has a few household items. There are three flower beds which contain three [lavender](Skyrim_Lavender.md) plants each, one at the bottom of the stairs and two at the top.
+
+To the northeast of the hall lies [Proventus](Skyrim_Proventus_Avenicci.md)'s room, which contains his bed, three wardrobes, a chest, and a display case with an Adept-level lock containing a necklace. On both sides of the chest is a potion. The stairs lead to the servants' quarters, which are divided into five rooms: a dining room with a larder, a sitting room, and two small bedrooms. There are a few wardrobes, chests, barrels, and sacks spread throughout these rooms, and the door to the Main Hall storage room is here.
+
+To the left at the top of the stairs is [Hrongar](Skyrim_Hrongar.md)'s room, which contains his bed, two end tables, a dresser, a cupboard, two [silver ingots](Skyrim_Silver.md), and a coin purse.
+
+Opposite to Hrongar's room is the children's room, which contains the three children's beds, an end table, a dresser, a wardrobe, a chest at the bottom of each bed and on the end table is a silver sapphire necklace.
+
+The [Jarl](Skyrim_Balgruuf_the_Greater.md)'s room has three sections: a dining room, a study, and his bedroom. In the study is the [Illusion](Skyrim_Illusion.md) [skill book](Skyrim_Skill_Books.md) *[Before the Ages of Man](Skyrim_Before_the_Ages_of_Man.md)*, two coin purses, a leveled [Paralysis](Skyrim_Paralysis.md) potion, and seven silver ingots. The Jarl's bed is surrounded by two end tables and three wardrobes. On the end table to the right is an [Unusual Gem](Skyrim_Unusual_Gem.md). The door leads to an outside balcony from which you can see all of Whiterun; it is also possible to make out [Honningbrew Meadery](Skyrim_Honningbrew_Meadery.md) to the south and [Bleak Falls Barrow](Skyrim_Bleak_Falls_Barrow_(place).md) in the mountains to the southeast.
+
+### Dragonsreach, Great Porch
+[![](https://images.uesp.net/thumb/5/5c/SR-interior-Dragonsreach_Great_Porch.jpg/200px-SR-interior-Dragonsreach_Great_Porch.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Great_Porch.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Great_Porch.jpg) Dragonsreach Great Porch The porch is used as a practice room for the guards and an additional dining area for the Jarl. Just before the dining table are two flower beds with two [lavender](Skyrim_Lavender.md) plants each. There are large piles of hay with a training dummy surrounding two large mechanisms, which are revealed to be parts of a dragon trap during [The Fallen](Skyrim_The_Fallen.md). On both sides of the door are a set of stairs which lead to a small balcony at either side. On the pillars above the mechanisms are pull chains, which, when pulled, do nothing; they are used in the aforementioned quest. The porch faces slightly northeast, and to the north can be seen [Whitewatch Tower](Skyrim_Whitewatch_Tower.md) and [Loreius Farm](Skyrim_Loreius_Farm.md).
+
+### Dragonsreach Dungeon
+[![](https://images.uesp.net/thumb/3/35/SR-interior-Dragonsreach_Dungeon.jpg/200px-SR-interior-Dragonsreach_Dungeon.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Dungeon.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Dungeon.jpg) Dragonsreach Dungeon The Dungeon contains four cells kept by three guards. The cell that you occupy if you are arrested has an "Escape Route" [shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) to the right of the novice-locked grate and a dead [bandit](Skyrim_Bandit.md). Three of the cells are adept-locked and contain cots that can be used at any time. One of them contains a dead prisoner. The third cell is unlockable and is where an [Alik'r warrior](Skyrim_Alik%27r_Prisoner.md) is imprisoned during [In My Time Of Need](Skyrim_In_My_Time_Of_Need.md). At both ends of the main section are some barrels and sacks. The room to the northwest has an Adept-level lock, serves as a dining room for the guards, and contains some food and barrels. A second room is furnished with four beds for the guards. The room to the southeast is the public side of the jail. There is nearly always a guard on duty at the desk. The prisoners' belongings chest and the evidence chest sit in the eastern corner. After [Dampened Spirits](Skyrim_Dampened_Spirits.md), [Sabjorn](Skyrim_Sabjorn.md) resides in the dungeon but comes and goes freely. He sleeps in one of the cells, but walks around outside the cells without harassment.
+
+The escape tunnel is a virtually linear path from the locked grate to the [Guard Barracks](Skyrim_Guard_Barracks.md), and contains a [fly amanita](Skyrim_Fly_Amanita.md) plant, a [hanging moss](Skyrim_Hanging_Moss.md) plant, and nine torches. Nothing in the Dungeon is free to take, except for the torches.
+
+## Notes
+- The books *[Lost Legends](Skyrim_Lost_Legends.md)* and *[The Legend of Red Eagle](Skyrim_The_Legend_of_Red_Eagle.md)* (both quest starters) can be found in Farengar's study.
+- The book *[An Explorer's Guide to Skyrim](Skyrim_An_Explorer%27s_Guide_to_Skyrim.md)*, which adds map markers, can be found by the map table.
+- Dragonsreach is mentioned in the books *[A Gentleman's Guide to Whiterun](Skyrim_A_Gentleman%27s_Guide_to_Whiterun.md)*, *[Olaf and the Dragon](Skyrim_Olaf_and_the_Dragon.md)*, and *[Adonato's Book](Skyrim_Adonato%27s_Book.md)*.
+- According to [Proventus Avenicci](Skyrim_Proventus_Avenicci.md), Dragonsreach allows Balgruuf to see everything that happens in Whiterun.
+- Once you have completed [Dragon Rising](Skyrim_Dragon_Rising.md), the Jarl's bed is usable and all low-level items are free to take.
+- If Balgruuf is exiled to the [Blue Palace](Skyrim_Blue_Palace.md), his children do not move with him, and they will act the same as if he was still there.
+
+## Bugs
+- If one is facing the door to Dragonsreach and going over to the left side of the drawbridge, then going over to the top of the stairs and standing on the left of it next to the draw bridge, it is possible to slip under Dragonsreach and walk under the map. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2, fixes this bug.
+- The cell where the [Alik'r Prisoner](Skyrim_Alik%27r_Prisoner.md) gets sent to during "[In My Time Of Need](Skyrim_In_My_Time_Of_Need.md)" cannot be unlocked. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2.4, addresses this issue. The door will now open with the Whiterun Jail Key like all the others.
+- Starting from the balcony on the Great Porch, it is possible to use [Whirlwind Sprint](Skyrim_Whirlwind_Sprint.md) to fly over the porch edge. Surviving the fall can potentially leave you stuck underneath the map. <sup>**?**</sup>
+- The books on the large table near the Prisoner's Belongings Chest and Evidence Chest in the Dungeon may clip through the table and into each other. <sup>**?**</sup>
+- If you talk to a guard on the Great Porch while he aims his bow, he may stop firing and freeze, though he'll still react if you talk to him. <sup>**?**</sup> - Exit and re-enter the Great Porch, and he'll no longer be frozen.

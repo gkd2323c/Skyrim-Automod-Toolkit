@@ -1,0 +1,37 @@
+# Varliance
+
+[![](https://images.uesp.net/thumb/4/4c/ON-place-Ayleid_Well.jpg/200px-ON-place-Ayleid_Well.jpg)](https://en.uesp.net/wiki/File:ON-place-Ayleid_Well.jpg) [](https://en.uesp.net/wiki/File:ON-place-Ayleid_Well.jpg) An Ayleid Well containing starlight Varliance (also known as **Aetherial Magic**,<sup>[[1]](#cite_note-MOTMS-1)</sup> **Ayleid Magic**,<sup>[[2]](#cite_note-ADE-2)</sup> **[welkynd](Lore_Welkynd_Stone.md) -magic**,<sup>[[3]](#cite_note-TSo P3-3)</sup> **Star-Magicka**,<sup>[[4]](#cite_note-NJHB-4)</sup> or simply **Star-Magic**)<sup>[[4]](#cite_note-NJHB-4)</sup> is a type of radiant blue [magic](Lore_Magic.md) that emanates from the [stars](Lore_Stars.md) in the night sky.<sup>[[4]](#cite_note-NJHB-4)</sup><sup>[[5]](#cite_note-HACBAYQ-5)</sup> The word may translate to **starlight**,<sup>[[UOL 1]](#cite_note-MUWRU-6)</sup> which the ancient [Ayleids](Lore_Ayleids.md) believed was the purest form of light, one of their four acknowledged [elements](Lore_Elements.md).<sup>[[6]](#cite_note-MFTS-7)</sup> Of the races of Tamriel, the Ayleids are more closely associated with it.<sup>[[1]](#cite_note-MOTMS-1)</sup> They use both Welkynd and [Varla Stones](Lore_Varla_Stone.md) (types of [meteoric glass](Lore_Meteoric_Glass.md)) to store the starlight and repurpose it for a variety of reasons.<sup>[[7]](#cite_note-AF-8)</sup>
+
+The [Ayleid Wells](Lore_Ayleid_Wells.md) found across [Cyrodiil](Lore_Cyrodiil.md) and other provinces are presumed to harness the starlight so magic wielders could replenish their magicka reserves.<sup>[[6]](#cite_note-MFTS-7)</sup> [Azandar al-Cybiades](Lore_Azandar_al-Cybiades.md) theorized that the power Ayleid Wells reroute back towards the heavens was being collected by someone living on [Arkay](Lore_Arkay_(planet).md) or [Akatosh](Lore_Akatosh_(planet).md), though it is widely thought that no mortal beings are found there.<sup>[[8]](#cite_note-Azandar Dialogue-9)</sup> Similarly, the [Dwemer](Lore_Dwemer.md) of [Mzulft](Lore_Mzulft.md) built an oculory in the city's aedrome to collect starlight.<sup>[[9]](#cite_note-SRParatus-10)</sup>
+
+Another similar device was the [Aurbical Abacus](Lore_Aurbical_Abacus.md), a [Yokudan](Lore_Yokuda.md) artifact associated with [Zeht](Lore_Zeht.md) that stored star-magic as data and tracked the movements of astronomical bodies, like [planets](Lore_Planets.md) and the [moons](Lore_Moons.md).<sup>[[4]](#cite_note-NJHB-4)</sup> Although the [Nedes](Lore_Nede.md) of [Craglorn](Lore_Craglorn.md) revere the stars as a religion, via the [Cult of the Stars](Lore_Cult_of_the_Stars.md), there is evidence to suggest that the highest-ranked members of the cult preserved ancient rituals that involved aetherial magic.<sup>[[1]](#cite_note-MOTMS-1)</sup> Ciphers of the Eye that maintain the Sidereal Cloisters in [Apocrypha](Lore_Apocrypha.md) weave starlight into fabrics of fate to determine potential futures.<sup>[[10]](#cite_note-ONMeenai-11)</sup><sup>[[11]](#cite_note-ONLoad Sidereal-12)</sup>
+
+The **Varliance Gate**, which is present in [Khajiiti](Lore_Khajiit.md) mythology, is reflected by the Aether Prism, a stone made from [Magrus](Lore_Magrus.md)' eye by [Azurah](Lore_Azurah.md).<sup>[[12]](#cite_note-TSS-13)</sup> When [Merid-Nunda](Lore_Merid-Nunda.md) attacked the [Lunar Lattice](Lore_Lunar_Lattice.md), Azurah struck her down before the Varliance Gate and dragged her away from it.<sup>[[13]](#cite_note-TAS-14)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/cf/OB-item-Welkynd_Stone.jpg/200px-OB-item-Welkynd_Stone.jpg)](https://en.uesp.net/wiki/File:OB-item-Welkynd_Stone.jpg) A Welkynd Stone
+- [![](https://images.uesp.net/thumb/1/1e/OB-item-Varla_Stone.jpg/200px-OB-item-Varla_Stone.jpg)](https://en.uesp.net/wiki/File:OB-item-Varla_Stone.jpg) A Varla Stone
+- [![](https://images.uesp.net/thumb/c/c7/SR-interior-Mzulft_Oculory.jpg/200px-SR-interior-Mzulft_Oculory.jpg)](https://en.uesp.net/wiki/File:SR-interior-Mzulft_Oculory.jpg) The Mzulft Oculory
+- [![](https://images.uesp.net/thumb/b/b4/BS-screenshot-Bs5a.jpg/200px-BS-screenshot-Bs5a.jpg)](https://en.uesp.net/wiki/File:BS-screenshot-Bs5a.jpg) The [Pillar of Light](Lore_Pillar_of_Light.md)
+
+## Notes
+- [CHIM](Lore_CHIM.md) is an ancient sigil that implies "royalty, high splendor, and starlight".<sup>[[UOL 1]](#cite_note-MUWRU-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-MOTMS_1-0)***</sup><sup>***[b](#cite_ref-MOTMS_1-1)***</sup><sup>***[c](#cite_ref-MOTMS_1-2)***</sup> [*Mysteries of the Mundus Stones*](Lore_Mysteries_of_the_Mundus_Stones.md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+2. [^](#cite_ref-ADE_2-0) [*A Distracted Enemy*](https://en.uesp.net/wiki/Lore:A_Distracted_Enemy)
+3. [^](#cite_ref-TSo P3_3-0) [*The Song of Pelinal, v 3*](Lore_The_Song_of_Pelinal,_v_3.md)
+4. ^ <sup>***[a](#cite_ref-NJHB_4-0)***</sup><sup>***[b](#cite_ref-NJHB_4-1)***</sup><sup>***[c](#cite_ref-NJHB_4-2)***</sup><sup>***[d](#cite_ref-NJHB_4-3)***</sup> [*Naryu's Journal/Hew's Bane*](https://en.uesp.net/wiki/Lore:Naryu%27s_Journal_Hew%27s_Bane) — [Naryu Virian](Lore_Naryu_Virian.md)
+5. [^](#cite_ref-HACBAYQ_5-0) [*High Astrologer Caecilus Bursio Answers Your Questions*](Lore_High_Astrologer_Caecilus_Bursio_Answers_Your_Questions.md) — [High Astrologer Caecilus Bursio](Lore_Books_by_Author.md#High_Astrologer_Caecilus_Bursio)
+6. ^ <sup>***[a](#cite_ref-MFTS_7-0)***</sup><sup>***[b](#cite_ref-MFTS_7-1)***</sup> [*Magic from the Sky*](Lore_Magic_from_the_Sky.md) — [Irlav Jarol](Lore_Books_by_Author.md#Irlav_Jarol)
+7. [^](#cite_ref-AF_8-0) [*Aetherial Fragments*](Lore_Aetherial_Fragments_(book).md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+8. [^](#cite_ref-Azandar Dialogue_9-0) [Azandar al-Cybiades](https://en.uesp.net/wiki/Online:Azandar_al-Cybiades)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-SRParatus_10-0) [Paratus Decimius](https://en.uesp.net/wiki/Skyrim:Paratus_Decimius)' dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+10. [^](#cite_ref-ONMeenai_11-0) [Meenai-Shai](https://en.uesp.net/wiki/Online:Meenai-Shai)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+11. [^](#cite_ref-ONLoad Sidereal_12-0) [The Sidereal Cloisters](https://en.uesp.net/wiki/Online:The_Sidereal_Cloisters) loading screen text in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+12. [^](#cite_ref-TSS_13-0) [*The Sky Spirits*](Lore_The_Sky_Spirits.md) — [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest
+13. [^](#cite_ref-TAS_14-0) [*The Adversarial Spirits*](Lore_The_Adversarial_Spirits.md) — [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-MUWRU_6-0)***</sup><sup>***[b](#cite_ref-MUWRU_6-1)***</sup> [*Made Up Word Round Up*](https://en.uesp.net/wiki/General:Made_Up_Word_Round_Up)

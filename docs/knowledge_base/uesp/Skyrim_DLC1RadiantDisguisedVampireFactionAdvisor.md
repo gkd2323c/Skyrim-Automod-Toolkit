@@ -1,0 +1,3 @@
+# DLC1RadiantDisguisedVampireFactionAdvisor
+
+Redirects to [DLC1RadiantDisguisedVampireFactionAdvisor](Skyrim_Factions_R.md#DLC1RadiantDisguisedVampireFactionAdvisor).

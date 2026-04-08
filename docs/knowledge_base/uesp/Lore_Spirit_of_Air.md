@@ -1,0 +1,33 @@
+# Spirit of Air
+
+| Spirit of Air | | | |
+| --- | --- | --- | --- |
+| [![ON-creature-Spirit of Air.jpg](https://images.uesp.net/thumb/d/d9/ON-creature-Spirit_of_Air.jpg/200px-ON-creature-Spirit_of_Air.jpg)](https://en.uesp.net/wiki/File:ON-creature-Spirit_of_Air.jpg) Spirit of Air | | | |
+| Race | [Nature Spirit](Lore_Nature_Spirit.md) | Gender | Unknown |
+| Resided in | [Systres Archipelago](Lore_Systres_Archipelago.md), <br> Earthen Root Enclave | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Spirit_of_Air) | | |
+
+The Spirit of Air is one of three powerful [nature spirits](Lore_Nature_Spirit.md) residing within the sacred confines of the Earthen Root Enclave. Communing with the Spirit of Air was a transformative experience, granting those who dare to venture its relentless honesty and wisdom. This spirit, loud, and incapable of deceit, was known to bestow the knowledge of all spoken words, a gift that unveils both the beauty and the weight of one's own life narrative. It can repeat anything that was ever spoken aloud. The Spirit of Air challenges individuals to confront their past with unflinching courage, while imparting the invaluable lesson of cherishing each fleeting moment in the tapestry of existence.<sup>[[1]](#cite_note-MOW-1)</sup><sup>[[2]](#cite_note-DLy-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/8/84/ON-npc-Archdruid_Devyric.jpg/200px-ON-npc-Archdruid_Devyric.jpg)](https://en.uesp.net/wiki/File:ON-npc-Archdruid_Devyric.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Archdruid_Devyric.jpg) Archdruid Devyric The Spirit of Air, akin to the other two spirits is old and powerful, with its origins tracing back to the early 1st Era, before [1E 330](Lore_First_Era.md#1E_330), when the [first druids](Lore_Druids_of_Galen.md) established their presence on the [Systres Archipelago](Lore_Systres_Archipelago.md).<sup>[[3]](#cite_note-SH-3)</sup><sup>[[4]](#cite_note-DLa-4)</sup>
+
+In the time leading up to [2E 582](Lore_Second_Era.md#2E_582), the stewards of the Earthen Root Enclave extended a warm welcome to all druids, inviting them to commune with the powerful nature spirits of Air, [Root](Lore_Spirit_of_Root.md) and [Stone](Lore_Spirit_of_Stone.md) at their own pace. Their hospitality was sincere, allowing individuals the freedom to connect with these mighty spirits and embrace the tranquility of nature as they saw fit. Spirit of Air was one of the spirits they were allowed to commune with. This ethereal entity occupied the remote Dais of Skytremor, accessible through the Path of the Salt Wind, perched precipitously on a distant cliffside, providing a profound connection to the boundless winds of Nirn.<sup>[[1]](#cite_note-MOW-1)</sup>
+
+In 2E 582 the Earthen Root Enclave was attacked by the Druids of the [Firesong Circle](Lore_Firesong_Circle.md) led by Archdruid Devyric. Their objective was to taint the local spirits in an attempt to force them to reveal the whereabouts of the Stonelore Sacred Seed.<sup>[[5]](#cite_note-TOO-5)</sup><sup>[[6]](#cite_note-TSD-6)</sup> Devyric devised a strategy to guide the Spirit of Air's attention towards Druid Laurel, aiming to extract information about the seed's location.<sup>[[2]](#cite_note-DLy-2)</sup> His efforts proved fruitful, uncovering that the sacred seed was, in fact, situated within the enclave's grounds. Devyric briefly harnessed the Spirit of Air's sight by absorbing its power. However, the [Undaunted](Lore_Undaunted.md) collaborated with the enclave's caretakers to confront and ultimately deliver a fatal blow to Devyric.<sup>[[6]](#cite_note-TSD-6)</sup><sup>[[7]](#cite_note-AD-7)</sup> This decisive strike liberated the Spirit of Air from his control.<sup>[[8]](#cite_note-UCB-8)</sup> Despite the Spirit's fate, it was believed that magic couldn't fully corrupt these spirits, nor make them forget their origins. While spirits could be unsettled, their essence remained intact. Over time, surviving druids vowed to restore the sanctuary, tending to the spirits, including the Spirit of Air.<sup>[[4]](#cite_note-DLa-4)</sup><sup>[[6]](#cite_note-TSD-6)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Spirit_of_Air) [](https://en.uesp.net/wiki/Online:Lost_Depths) article.
+
+### Books
+- ***[Message of Welcome](Lore_Message_of_Welcome.md)*** by [Archdruid Wyn](Lore_Books_by_Author.md#Archdruid_Wyn) — A greeting for druids visiting the Earthen Root Enclave
+
+## References
+1. ^ <sup>***[a](#cite_ref-MOW_1-0)***</sup><sup>***[b](#cite_ref-MOW_1-1)***</sup> [*Message of Welcome*](Lore_Message_of_Welcome.md) — [Archdruid Wyn](Lore_Books_by_Author.md#Archdruid_Wyn)
+2. ^ <sup>***[a](#cite_ref-DLy_2-0)***</sup><sup>***[b](#cite_ref-DLy_2-1)***</sup> [Druid Lyam](https://en.uesp.net/wiki/Online:Druid_Lyam)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Lost Depths](https://en.uesp.net/wiki/Online:Lost_Depths)*
+3. [^](#cite_ref-SH_3-0) [*Systres History: Volume 1*](https://en.uesp.net/wiki/Lore:Systres_History__Volume_1) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+4. ^ <sup>***[a](#cite_ref-DLa_4-0)***</sup><sup>***[b](#cite_ref-DLa_4-1)***</sup> [Druid Laurel](https://en.uesp.net/wiki/Online:Druid_Laurel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Lost Depths](https://en.uesp.net/wiki/Online:Lost_Depths)*
+5. [^](#cite_ref-TOO_5-0) [*The Only Record of Our Plan*](https://en.uesp.net/wiki/Online:The_Only_Record_of_Our_Plan) — [Archdruid Devyric](https://en.uesp.net/wiki/Online:Archdruid_Devyric)
+6. ^ <sup>***[a](#cite_ref-TSD_6-0)***</sup><sup>***[b](#cite_ref-TSD_6-1)***</sup><sup>***[c](#cite_ref-TSD_6-2)***</sup> Events of [The Stonelore Defense](https://en.uesp.net/wiki/Online:The_Stonelore_Defense) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Lost Depths](https://en.uesp.net/wiki/Online:Lost_Depths)*
+7. [^](#cite_ref-AD_7-0) [Archdruid Devyric](https://en.uesp.net/wiki/Online:Archdruid_Devyric)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Lost Depths](https://en.uesp.net/wiki/Online:Lost_Depths)*
+8. [^](#cite_ref-UCB_8-0) [Urgarlag Chief-bane](https://en.uesp.net/wiki/Online:Urgarlag_Chief-bane)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Lost Depths](https://en.uesp.net/wiki/Online:Lost_Depths)*

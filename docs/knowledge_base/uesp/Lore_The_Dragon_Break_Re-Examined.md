@@ -1,0 +1,19 @@
+# The Dragon Break Re-Examined
+
+| Book Information | |
+| --- | --- |
+| Writer | [Kurt Kuhlmann](https://en.uesp.net/wiki/General:Kurt_Kuhlmann) |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:The_Dragon_Break_Re-Examined) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:The_Dragon_Break) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:The_Dragon_Break) |
+
+The Dragon Break Reexamined **by [Fal Droon](Lore_Books_by_Author.md#Fal_Droon)** *Explanation of a historical error of timing*
+---
+*Although this book is found in * [Morrowind](https://en.uesp.net/wiki/Morrowind:The_Dragon_Break_Re-Examined) * and * [Oblivion](https://en.uesp.net/wiki/Oblivion:The_Dragon_Break) *, it mentions events had not happened yet in those games. Considering the nature of the topic of this book, this was certainly intentional. Additionally, the author's name, "Fal Droon", is an anagram for "Darn Fool".*
+
+---
+The late [3rd era](Lore_Third_Era.md) was a period of remarkable religious ferment and creativity. The upheavals of the reign of [Uriel VII](Lore_Uriel_Septim_VII.md) were only the outward signs of the historical forces that would eventually lead to the fall of the [Septim Dynasty](Lore_Septim_Dynasty.md). The so called "[Dragon Break](Lore_Dragon_Break.md)" was first proposed at this time, by a wide variety of cults and fringe sects across the Empire, connected only by a common obsession with the events surrounding [Tiber Septim](Lore_Tiber_Septim.md)'s rise to power -- the "founding myth", if you will, of the Septim Dynasty.
+
+The basis of the Dragon Break doctrine is now known to be a rather prosaic error in the timeline printed in the otherwise authoritative "Encyclopedia Tamrielica", first published in [3E 12](Lore_Third_Era.md#3E_12), during the early years of Tiber Septim reign. At that time, the archives of [Alinor](Lore_Alinor_(city).md) were still inaccessible to human scholars, and the extant records from the [Alessian](Lore_Alessian_Empire.md) period were extremely fragmentary. The Alessians had systematically burned all the libraries they could find, and their own records were largely destroyed during the [War of Righteousness](Lore_War_of_Righteousness.md).
+
+The author of the Encyclopedia Tamrielica was apparently unfamiliar with the Alessian "year", which their priesthood used to record all dates. We now know this refers to the length of the long vision-trances undertaken by the High Priestess, which might last anywhere from a few weeks to several months. Based on analysis of the surviving trance scrolls, as well as murals and friezes from Alessian temples, I estimate that the [Alessian Order](Lore_Alessian_Order.md) actually lasted only about 150 years, rather than the famous "one thousand and eight years" given by the Encyclopedia Tamrielica. The "mystery" of the millennial-plus rule of the Alessians was accepted but unexplained until the spread of the [Lorkhan](Lore_Lorkhan.md) cults in the late 3rd era, when the doctrine of the Dragon Break took hold. Because this dating (and explanation) was so widely held at the time, and then repeated by historians down through today, it has come to have the force of tradition. Recall, however, that the 3rd era historians were already separated from the Alessians by a gulf of more than 2,000 years. And history was still in its infancy, relying on the few archives from those early days.
+
+Today, modern archaeology and paleonumerology have confirmed what my own research in Alessian dating first suggested: that the Dragon Break was invented in the late 3rd era, based on a scholarly error, fueled by obsession with eschatology and [Numidiumism](Lore_Numidium.md), and perpetuated by scholarly inertia.

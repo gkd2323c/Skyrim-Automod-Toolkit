@@ -1,0 +1,17 @@
+# Diary of Springheel Jak
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Oblivion](https://en.uesp.net/wiki/Oblivion:Diary_of_Springheel_Jak) |
+
+Diary of Springheel Jak **by [Jakben](https://en.uesp.net/wiki/Oblivion:Jakben), Earl of Imbel, a.k.a. Springheel Jak** *Rarely used diary of the vampiric Earl of Imbel*
+---
+I knew [a man who was a great thief](Lore_Emer_Dareloth.md). He dared steal from [Nocturnal](Lore_Nocturnal.md) herself! How odd that I cannot seem to recall his name. I think we were friends, but I'm not certain. In three days I will venture into Taren's crypt. Graverobbing alone is dangerous. Maybe I should try to find a partner. Didn't I once know a great thief?
+
+I begin this second entry in the second volume of my diary on a momentous day. Actually it is night, the night when my second life begins. It will be forever night for me. I have become one of the children of the night, a son to mother [wolf](Lore_Wolf.md) and brother to the [bat](Lore_Bat.md). I am nosferatu, a [vampyre](Lore_Vampire.md). Tonight is the first night of the rest of eternity.
+
+I rediscovered this diary today. It has been 13 years since I last wrote in it. With an eternity before, and the blood hunger ever pulsing in my veins, there is little urgency for diaries, or much of anything. Amiela is calling to me. I must go.
+
+Has it really been 89 years since I last wrote? The pages are getting fragile. I have rediscovered purpose, though it took nearly a century. I have finally gained some measure of control over the blood frenzy. I think I will try to establish a life among the living in one of their great cities.
+
+I had forgotten about this diary. I won't bother to calculate how many decades it has been since I last wrote in it. The cattle of this city know me as [Jakben](Lore_Jakben.md), Earl of Imbel. Centuries ago I knew myself as Springheel Jak, the famous thief. I seem to recall having a famous partner, but his name escapes me. No matter. I have grown beyond friends and partners. I rule the night here in the city.

@@ -1,0 +1,21 @@
+# Imperial Treasury
+
+The Imperial Treasury is an [Imperial](Lore_Imperial.md) institution relating to the gold-handling of the [Empire](Lore_Empire.md). The establishment deals in such areas as budgeting, taxation,<sup>[[1]](#cite_note-1)</sup> expenditures, and collections.<sup>[[2]](#cite_note-Faleria-2)</sup> The term 'imperial treasury' can also refer to stashes of Imperial treasure unrelated to the government of the Empire.<sup>[[3]](#cite_note-3)</sup> [Jagar Tharn](Lore_Jagar_Tharn.md), in his time as [Imperial Battlemage](https://en.uesp.net/wiki/Lore:Imperial_Battlemage), had access to the treasury.<sup>[[4]](#cite_note-Daggerfall Background Game-4)</sup>
+
+## History
+Circa [2E 283](Lore_Second_Era.md#2E_283), [Akaviri Potentate](Lore_Akaviri_Potentate.md) [Versidue-Shaie](Lore_Versidue-Shaie.md) faced a disintegrating empire fraught with rebellious vassal kingdoms. They refused to pay taxes against the Empire and led sorties against Imperial garrisons across [Tamriel](Lore_Tamriel.md). At the destruction of his fortress in [Dawnstar](Lore_Dawnstar.md), he gathered the [Imperial Council](Lore_Elder_Council.md) in what would be called the Council of Bardmont, after the town where they met. There, the Potentate declared martial and Imperial law. Fighting thirty-seven years of some of the bloodiest conflicts in Tamriel's history, Versidue-Shaie was forced to empty the Imperial Treasury down, nearly, to the last piece of gold. Despite the loss of the gold and some of his best [legions](Lore_Imperial_Legion.md), the Potentate was successful in dispatching all opposing armies in Tamriel.<sup>[[5]](#cite_note-5)</sup>
+
+Fort Colovia was known to protect gold from the Imperial Treasury on its way to distant parts of the Empire.<sup>[[6]](#cite_note-6)</sup>
+
+During his eighteen years of rule, Emperor [Uriel II](Lore_Uriel_II.md) acquired a massive debt because of his poor financial and judicial judgment.<sup>[[7]](#cite_note-BHOTE1-7)</sup> To quell a rebellion in [Torval](Lore_Torval.md), he accepted millions of gold from King [Mantiarco](Lore_Mantiarco.md) of [Solitude](Lore_Solitude_(kingdom).md).<sup>[[8]](#cite_note-TWQ1-8)</sup> The debt was then passed on to his son and successor, [Pelagius II](Lore_Pelagius_II.md) upon his death in [3E 82](Lore_Third_Era.md#3E_82). By then, the Imperial Treasury was greatly depleted.<sup>[[9]](#cite_note-TWQ2-9)</sup> To compensate, he dismissed all of the [Elder Council](Lore_Elder_Council.md) but kept anyone that was willing to pay great sums. This was also encouraged to his vassals, the kings of Tamriel. By the end of his reign, the Empire had returned to prosperity.<sup>[[7]](#cite_note-BHOTE1-7)</sup>
+
+## References
+1. [^](#cite_ref-1) [*Meet the Character(s) - The Elder Council*](Lore_Meet_the_Character(s)_-_The_Elder_Council.md) — [Adandora](Lore_Books_by_Author.md#Adandora), Chronicler-at-Large
+2. [^](#cite_ref-Faleria_2-0) [Councilor Faleria](https://en.uesp.net/wiki/Online:Councilor_Faleria)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+3. [^](#cite_ref-3) [Captain Linwen](https://en.uesp.net/wiki/Online:Captain_Linwen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Daggerfall Background Game_4-0) [*Daggerfall Player Character Background History*](https://en.uesp.net/wiki/Daggerfall:Background_History#Imported_Character)
+5. [^](#cite_ref-5) [*History of the Fighters Guild*](https://en.uesp.net/wiki/Lore:History_of_the_Fighters_Guild)
+6. [^](#cite_ref-6) [Captain Dromius Terrus](https://en.uesp.net/wiki/Online:Captain_Dromius_Terrus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-BHOTE1_7-0)***</sup><sup>***[b](#cite_ref-BHOTE1_7-1)***</sup> [*Brief History of the Empire v 1*](https://en.uesp.net/wiki/Lore:Brief_History_of_the_Empire_v_1) — [Stronach k'Thojj III](Lore_Books_by_Author.md#Stronach_k.27Thojj_III)
+8. [^](#cite_ref-TWQ1_8-0) [*The Wolf Queen, v1*](Lore_The_Wolf_Queen,_v1.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+9. [^](#cite_ref-TWQ2_9-0) [*The Wolf Queen, v2*](Lore_The_Wolf_Queen,_v2.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)

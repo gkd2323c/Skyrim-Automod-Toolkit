@@ -1,0 +1,17 @@
+# Battle of the Moesring
+
+The Battle of the Moesring was the final stand between the [Nords](Lore_Nord.md) and the [Snow Elves](Lore_Snow_Elf.md) which took place in the [Moesring Mountains](Lore_Moesring_Mountains.md) of [Solstheim](Lore_Solstheim.md). [Ysgramor](Lore_Ysgramor.md) and his heirs had driven them from Skyrim, and the Nords sought to drive them from Solstheim also. As was the case with all of the great skirmishes of Solstheim, the Nords dominated the battlefield with their superior weapons, and it was said that the slopes of the Moesring "ran red with Elf blood".<sup>[[1]](#cite_note-Fot SP-1)</sup>
+
+The turning point came when the [Snow Prince](Lore_Snow_Prince.md) rode into battle on a "brilliant steed of pallid white". He parted the ranks of the elves and swooped into the Nordic forces. He killed many with his [spear](Lore_Spear_of_the_Snow_Prince.md) and his ice magic, including [Ulfgi Anvil-Hand](Lore_Ulfgi_Anvil-Hand.md), [Strom the White](Lore_Strom_the_White.md), [Freida Oaken-Wand](Lore_Freida_Oaken-Wand.md), [Heimdall the Frenzied](Lore_Heimdall_the_Frenzied.md) and Jofrior. Finna, the daughter of Jofrior, watched as the Snow Prince killed her mother. In her rage, she threw Jofrior's sword at the Prince, which struck him in the breast and killed him. With their savior lost the Elves fled the battle, and the Nords cut down any who remained.<sup>[[1]](#cite_note-Fot SP-1)</sup>
+
+The fate of the Snow Elves was sealed by their defeat, for those Elves who fled sought refuge with the [Dwemer](Lore_Dwemer.md), and in doing so, doomed their entire race. Deep underground in the realm of [Blackreach](Lore_Blackreach.md), the Dwemer agreed to provide sanctuary for the refugees. Unbeknownst to the Elves, however, their saviors would exact from them a terrible cost. Mistrustful of their charges, the Dwemer tricked and enslaved the Elves, twisting the once-majestic beings into the [Falmer](Lore_Falmer.md), a race of foul, bloodthirsty creatures driven blind by the cruel hands of their masters.<sup>[[2]](#cite_note-TFa S-2)</sup>
+
+Prior to the battle, the lands of Solstheim had been shared between the Nords and the native Elves. The Nords' victory in this conflict cemented their dominance on Solstheim for thousands of years to come.<sup>[[1]](#cite_note-Fot SP-1)</sup>
+
+An account of the battle titled *[Fall of the Snow Prince](Lore_Fall_of_the_Snow_Prince.md)* was discovered in [Jolgeirr Barrow](https://en.uesp.net/wiki/Bloodmoon:Jolgeirr_Barrow) by the [Nerevarine](Lore_Nerevarine.md) around [3E 427](Lore_Third_Era.md#3E_427).<sup>[[3]](#cite_note-BMSearch-3)</sup> This account went on to become a published book, and was a popular text by [3E 433](Lore_Third_Era.md#3E_433) and [4E 201](Lore_Fourth_Era.md#4E_201).<sup>[[4]](#cite_note-OBFot SP-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Fot SP_1-0)***</sup><sup>***[b](#cite_ref-Fot SP_1-1)***</sup><sup>***[c](#cite_ref-Fot SP_1-2)***</sup> [*Fall of the Snow Prince*](Lore_Fall_of_the_Snow_Prince.md) — [Lokheim](Lore_Books_by_Author.md#Lokheim)
+2. [^](#cite_ref-TFa S_2-0) [*The Falmer: A Study*](Lore_The_Falmer__A_Study.md) — [Ursa Uthrax](Lore_Books_by_Author.md#Ursa_Uthrax)
+3. [^](#cite_ref-BMSearch_3-0) [In Search of the Falmer](https://en.uesp.net/wiki/Bloodmoon:In_Search_of_the_Falmer)
+4. [^](#cite_ref-OBFot SP_4-0) *Fall of the Snow Prince* in [Oblivion](https://en.uesp.net/wiki/Oblivion:Fall_of_the_Snow_Prince) and [Skyrim](Skyrim_Fall_of_the_Snow_Prince.md)

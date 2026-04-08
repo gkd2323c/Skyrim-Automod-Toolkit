@@ -1,0 +1,28 @@
+# The Art of War Magic
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Spell Tome Destruction.png) Book Information <br> *The Art of War Magic* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01AFEF | | |
+| See Also | [Lore version](Lore_The_Art_of_War_Magic.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 55 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Destruction](Skyrim_Destruction.md) | | |
+| Locations | | | |
+| Found in the following locations: - [Southfringe Sanctum](Skyrim_Southfringe_Sanctum.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)) on [Bashnag](Skyrim_Bashnag.md) <br> - 540 ft SW of [Bthardamz](Skyrim_Bthardamz.md) ([The Reach](Skyrim_The_Reach.md)) [(map)](https://gamemap.uesp.net/sr/?x=-172168&y=37756&zoom=17&legacy=true) <br> - 470 ft N of [Fallowstone Cave](Skyrim_Fallowstone_Cave.md) ([The Rift](Skyrim_The_Rift.md)) [(map)](https://gamemap.uesp.net/sr/?x=194183&y=-74147&zoom=17&legacy=true) <br> - [Ravenscar Hollow](Skyrim_Ravenscar_Hollow.md) ([Haafingar](Skyrim_Haafingar.md)), on a table <br> - [The White Hall](Skyrim_The_White_Hall.md) in [Dawnstar](Skyrim_Dawnstar.md) ([The Pale](Skyrim_The_Pale.md)), up the stairs on the left on a small table <br> - [Apocrypha](Skyrim_Apocrypha.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Waking Dreams](Skyrim_Apocrypha_(Waking_Dreams).md#Chapter_VI), Chapter VI | | | |
+
+The Art of War Magic **by [Zurin Arctus](Lore_Books_by_Author.md#Zurin_Arctus), with Commentary By Other Learned Masters** *Mastering the art of winning* *
+---
+
+### Chapter 3: Dispositions
+[Master Arctus](Lore_Zurin_Arctus.md) said:
+
+1. The moment to prepare your offense is the moment the enemy becomes vulnerable to attack. - Leros Chael: Knowledge of the enemy mage's mind is of the foremost importance. Once you know his mind, you will know his weaknesses.
+- Sedd Mar: Master Arctus advised [Tiber Septim](Lore_Tiber_Septim.md) before the battle of Five Bridges not to commit his reserves until the enemy was victorious. Tiber Septim said, "If the enemy is already victorious, what use committing the reserve?" To which Master Arctus replied, "Only in victory will the enemy be vulnerable to defeat." Tiber Septim went on to rout an enemy army twice the size of his.
+2. The enemy's vulnerability may be his strongest point; your weakness may enable you to strike the decisive blow. - Marandro Ur: In the wars between the [Nords](Lore_Nord.md) and the [Chimer](Lore_Chimer.md), the Nord shamans invariably used their [mastery of the winds](Skyrim_Thu%27um.md) to call down storms before battle to confuse and dismay the Chimer warriors. One day, a clever Chimer sorcerer conjured up an ice demon and commanded him to hide in the rocks near the rear of the Chimer army. When the Nords called down the storms as usual, the Chimer warriors began to waver. But the ice demon rose up as the storm struck, and the Chimer turned in fear from what they believed was a Nord demon and charged into the enemy line, less afraid of the storm than of the demon. The Nords, expecting the Chimer to flee as usual, were caught off guard when the Chimer attacked out of the midst of the storm. The Chimer were victorious that day.
+3. When planning a campaign, take account of both the arcane and the mundane. The skillful battlemage ensures that they are in balance; a weight lifted by one hand is heavier than two weights lifted by both hands.
+4. When the arcane and mundane are in balance, the army will move effortlessly, like a swinging door on well-oiled hinges. When they are out of balance, the army will be like a three-legged dog, with one leg always dragging in the dust.
+5. Thus when the army strikes a blow, it will be like a thunderclap out of a cloudless sky. The best victories are those unforeseen by the enemy, but obvious to everyone afterwards.
+6. The skillful battlemage ensures that the enemy is already defeated before the battle begins. A close-fought battle is to be avoided; the fortunes of war may turn aside the most powerful sorcery, and courage may undo the best-laid plans. Instead, win your victory ahead of time. When the enemy knows he is defeated before the battle begins, you may not need to fight.
+7. Victory in battle is only the least kind of victory. Victory without battle is the acme of skill.
+8. Conserving your power is another key to victory. Putting forth your strength to win a battle is no demonstration of skill. This is what we call tactics, the least form of the art of war magic. - Thulidden dir'Tharkun: By 'tactics', Master Arctus includes all the common battle magics. These are only the first steps in an understanding of war magic. Any hedge mage can burn up his enemies with fire. Destroying the enemy is the last resort of the skillful battlemage.
+9. The battle is only a leaf on the tree; if a leaf falls, does the tree die? But when a branch is lopped off, the tree is weakened; when the trunk is girdled, the tree is doomed.
+10. If you plan your dispositions well, your victories will seem easy and you will win no acclaim. If you plan your dispositions poorly, your victories will seem difficult, and your fame will be widespread. - Marandro Sul: Those commonly believed to be the greatest practitioners of war magic are almost always those with the least skill. The true masters are not known to the multitude.

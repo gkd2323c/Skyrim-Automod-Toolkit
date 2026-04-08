@@ -1,0 +1,3 @@
+# WEPrisonerFreedCombatCaptorFaction
+
+Redirects to [WEPrisonerFreedCombatCaptorFaction](Skyrim_Factions_M.md#WEPrisonerFreedCombatCaptorFaction).

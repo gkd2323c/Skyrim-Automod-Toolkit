@@ -1,0 +1,25 @@
+# Wraithguard
+
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Wraithguard.png) Dwemer Artifact: Wraithguard (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D63) <br> ([lore page](Lore_Wraithguard.md)) | | | |
+| --- | --- | --- | --- |
+| **Type** | [Heavy](Skyrim_Heavy_Armor.md) [Gauntlets](Skyrim_Heavy_Gauntlets.md) | | |
+| **Added by** | [Sunder & Wraithguard](Skyrim_Sunder_%26_Wraithguard.md) | | |
+| **Editor ID** | cc BGSSSE008Wraithguard Gauntlet | | |
+| Statistics | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) **Rating** | 19 | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) **Rating** | 19 | [](https://en.uesp.net/wiki/File:SR-icon-Warmth_small.png) **Warmth** | 13 |
+| [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) **Weight** | 8 | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) **Value** | 2331 |
+| [![Quality](https://images.uesp.net/thumb/6/65/SR-skill-Smithing_bw_%28crop%29.png/22px-SR-skill-Smithing_bw_%28crop%29.png)](https://en.uesp.net/wiki/File:SR-skill-Smithing_bw_(crop).png) **[Tempering](Skyrim_Tempering.md)** | [Dwarven Metal Ingot](Skyrim_Dwarven_Metal_Ingot.md) | | |
+| [![Quality](https://images.uesp.net/thumb/6/65/SR-skill-Smithing_bw_%28crop%29.png/22px-SR-skill-Smithing_bw_%28crop%29.png)](https://en.uesp.net/wiki/File:SR-skill-Smithing_bw_(crop).png) **[Tempering](Skyrim_Tempering.md)** | [Dwarven Metal Ingot](Skyrim_Dwarven_Metal_Ingot.md) | **Perk** | [Dwarven Smithing](Skyrim_Dwarven_Smithing.md) |
+| Enchantment | | | |
+| \| *Resist shock, fire, frost, magic, disease, and poison by 10%. Empowers Keening and Sunder when equipped.* - [Resist Shock](Skyrim_Resist_Shock.md), 10 pts <br> - [Resist Fire](Skyrim_Resist_Fire.md), 10 pts <br> - [Resist Frost](Skyrim_Resist_Frost.md), 10 pts <br> - [Resist Magic](Skyrim_Resist_Magic.md), 10 pts <br> - [Resist Disease](Skyrim_Resist_Disease.md), 10 pts <br> - [Resist Poison](Skyrim_Resist_Poison.md), 10 pts \| <br> \| --- \| | *Resist shock, fire, frost, magic, disease, and poison by 10%. Empowers Keening and Sunder when equipped.* - [Resist Shock](Skyrim_Resist_Shock.md), 10 pts <br> - [Resist Fire](Skyrim_Resist_Fire.md), 10 pts <br> - [Resist Frost](Skyrim_Resist_Frost.md), 10 pts <br> - [Resist Magic](Skyrim_Resist_Magic.md), 10 pts <br> - [Resist Disease](Skyrim_Resist_Disease.md), 10 pts <br> - [Resist Poison](Skyrim_Resist_Poison.md), 10 pts | | |
+| *Resist shock, fire, frost, magic, disease, and poison by 10%. Empowers Keening and Sunder when equipped.* - [Resist Shock](Skyrim_Resist_Shock.md), 10 pts <br> - [Resist Fire](Skyrim_Resist_Fire.md), 10 pts <br> - [Resist Frost](Skyrim_Resist_Frost.md), 10 pts <br> - [Resist Magic](Skyrim_Resist_Magic.md), 10 pts <br> - [Resist Disease](Skyrim_Resist_Disease.md), 10 pts <br> - [Resist Poison](Skyrim_Resist_Poison.md), 10 pts | | | |
+
+[![](https://images.uesp.net/thumb/6/6f/SR-item-Wraithguard.jpg/200px-SR-item-Wraithguard.jpg)](https://en.uesp.net/wiki/File:SR-item-Wraithguard.jpg) [](https://en.uesp.net/wiki/File:SR-item-Wraithguard.jpg) Wraithguard Wraithguard is a [Dwemer](Lore_Dwemer.md) artifact created by [Kagrenac](Lore_Kagrenac.md), one of the three [tools](Lore_Kagrenac%27s_Tools.md) that was used to siphon the power of the [Heart of Lorkhan](Lore_Heart_of_Lorkhan.md). It is [heavy armor](Skyrim_Heavy_Armor_(item).md) and enchanted with the following: Resist shock, fire, frost, magic, disease, and poison by 10%. It also increases [health](Skyrim_Health.md) and [stamina](Skyrim_Stamina.md) by 20 and [magicka](Skyrim_Magicka.md) by 50 if [Keening](Skyrim_Keening.md) is equipped as well, and increases the damage of [one-handed](Skyrim_One-handed.md) weapons by 15% and [stamina regeneration](Skyrim_Regenerate_Stamina.md) by 50% if [Sunder](Skyrim_Sunder.md) is equipped as well. It can be [improved](Skyrim_Workbench.md) with a [Dwarven Metal ingot](Skyrim_Dwarven_Metal_Ingot.md). It counts as [Dwarven Armor](Skyrim_Dwarven_Armor.md) for the purpose of the [Matching Set](Skyrim_Heavy_Armor.md#Matching_Set) perk. It can be obtained by completing the quest [Legends Lost](Skyrim_Legends_Lost.md).
+
+## Related Quests
+- **[Legends Lost](Skyrim_Legends_Lost.md)**<sup>[CC](Skyrim_Sunder_%26_Wraithguard.md)</sup>: Track down Kagrenac's missing Tools.
+
+## Notes
+- Wraithguard previously [appeared](https://en.uesp.net/wiki/Morrowind:Wraithguard) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*.
+- Due to *[Skyrim](Skyrim_Skyrim.md)* representing gauntlets as one paired item instead of two separate ones, Wraithguard is accompanied by an otherwise standard [Dwarven Armor](Skyrim_Dwarven_Armor.md) gauntlet on the left hand.

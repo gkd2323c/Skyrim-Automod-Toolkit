@@ -1,0 +1,61 @@
+# Amber
+
+[![](https://images.uesp.net/thumb/4/46/SR-item-Amber.jpg/200px-SR-item-Amber.jpg)](https://en.uesp.net/wiki/File:SR-item-Amber.jpg) [](https://en.uesp.net/wiki/File:SR-item-Amber.jpg) Amber (Skyrim Creation Club) *Amber, so exquisite, so pretty, like drops of fallen star dew. From your honeyed globes I would craft myself an armor that trapped me inside your beauty and warmth. I would suffocate myself in your light, and in death live for eternity.*
+—Evethra Amber is a colorful resin formed from hardened sap.<sup>[[1]](#cite_note-BAS-1)</sup> It may be used in [alchemy](Lore_Alchemy.md) to produce a resist fire effect.<sup>[[2]](#cite_note-Daggerfall-2)</sup> The material is of limited use to the people of [Tamriel](Lore_Tamriel.md), but in the [Shivering Isles](Lore_Shivering_Isles.md), amber [smithing](Lore_Smithing.md) is an ancient art. The master smith of [Bliss](Lore_Bliss_(place).md) has the ability to make amber weapons and armor. Before the master dies, he will hide matrices throughout the realm and train an apprentice to continue the tradition.<sup>[[3]](#cite_note-SIDumag-3)</sup>
+
+Amber is common in the Shivering Isles, as it occurs in large quantities in the [root tunnels](Lore_Root.md) that run beneath the surface. Severe trauma to the root system walls results in the formation of amber deposits as part of its natural defense mechanism.<sup>[[1]](#cite_note-BAS-1)</sup> [Gnarls](Lore_Gnarl.md), animated plants that manage the tunnels, clear away the amber and sometimes bring it to the surface. Sheogorath-shaped amber is a rare occurrence within the root tunnels, and such lumps are known to have a strong connection to the realm.<sup>[[4]](#cite_note-SSSA-4)</sup><sup>[[5]](#cite_note-TJTCC-5)</sup>
+
+## Culture and Uses
+[![](https://images.uesp.net/thumb/b/b6/SI-vein-Hollowed_Amber_Stump.jpg/200px-SI-vein-Hollowed_Amber_Stump.jpg)](https://en.uesp.net/wiki/File:SI-vein-Hollowed_Amber_Stump.jpg) [](https://en.uesp.net/wiki/File:SI-vein-Hollowed_Amber_Stump.jpg) An amber deposit (Shivering Isles) Amber smiths can craft lightweight armor and weapons from this resin, which possesses unique qualities not found in Tamrielic amber. Amber matrices are hidden throughout the Isles to soak up the magical essence of the Realm of Madness. Using a matrix will produce an enchanted piece of equipment.<sup>[[3]](#cite_note-SIDumag-3)</sup> The quality and [enchantment](Lore_Enchanting.md) power varies greatly between pieces of amber equipment, and is divided into eight grades: impure, unpolished, lesser, a standard grade, fine, very fine, grand and perfect. Impure amber equipment is little better than crude fur or iron, while perfect amber equipment rivals even [malachite](Lore_Malachite.md).<sup>[[6]](#cite_note-SIAppearance-6)</sup> Crafting amber arms and armaments requires a delicate hand, and runs the risk of causing a person to go mad. [Moonstone](Lore_Moonstone.md) is combined with amber at some point during the crafting process.<sup>[[7]](#cite_note-EJCC-7)</sup><sup>[[8]](#cite_note-ESOAmber-8)</sup>
+
+Like many things in the Shivering Isles, amber has a polar opposite: [madness ore](Lore_Madness_Ore.md). Lightweight amber equipment is associated with [Mania](Lore_Mania.md), while heavy madness equipment is aligned with [Dementia](Lore_Dementia_(place).md). The amber smith of Bliss is bitter rivals with the madness ore smith of [Crucible](Lore_Crucible.md), both of whom vie to become the master smith of [New Sheoth](Lore_New_Sheoth.md).<sup>[[9]](#cite_note-Shivering-9)</sup> Similarly, the two materials also align with the rivalry between the [Mazken](Lore_Mazken.md) and the [Aureal](Lore_Aureal.md); amber may be used to summon or even bind an Aureal, while madness ore can be used for the same purpose with a Mazken.<sup>[[10]](#cite_note-RAFECC-10)</sup> The two materials have been combined before, a notable example being [Nerveshatter](Lore_Nerveshatter.md), a hammer made with both amber and madness ore.<sup>[[6]](#cite_note-SIAppearance-6)</sup>
+
+The city of [Silvenar](Lore_Silvenar.md) uses an abundance of amber in its architecture and overall layout. According to some folklore, the town was once a glade of completely colorful trees, but the [graht-oak](Lore_Graht-oak.md) sap began to flow and create a web of hardened amber that became the foundation of the modern-day city. There are bridges of amber and Silvenar's architecture is sometimes described as "petrified."<sup>[[11]](#cite_note-ADIF5-11)</sup>
+
+## History
+One of the many tales involving one of [Sheogorath](Lore_Sheogorath.md)'s playthings involves an unfortunate sage named [Uncle Leo](https://en.uesp.net/wiki/Lore:Uncle_Leo) and an unusual amber artifact, a pair of silver-framed amber spectacles. The sage wanted to understand the absolute truth of the world around him, and was granted the artifact by Sheogorath for this purpose. However, upon seeing the world through the spectacles, the sage flung himself from the highest tower in [Wayrest](Lore_Wayrest.md). Although cracked from the fall, this dangerous relic became known as Uncle Leo's Spectacles and continued to plague the mortals of [Tamriel](Lore_Tamriel.md).<sup>[[12]](#cite_note-ESOMadness-12)</sup>
+
+Circa [4E 201](Lore_Fourth_Era.md#4E_201), chunks of amber and madness ore began to appear all over [Skyrim](Lore_Skyrim.md) in seemingly impossible locations. This was caused by the breakdown of the barriers between the Shivering Isles and [Tamriel](Lore_Tamriel.md) in the sewers beneath [Solitude](Lore_Solitude.md), where a manic mage named [Thoron](Lore_Thoron.md) had been experimenting on the [Sword of Jyggalag](Lore_Sword_of_Jyggalag.md). Thoron arranged to deliver these exotic materials to a master arcane blacksmith named Evethra, who managed to learn the secrets of crafting with both amber and madness ore, albeit losing her mind in the process.<sup>[[13]](#cite_note-13)</sup><sup>[[7]](#cite_note-EJCC-7)</sup> Both of these individuals were killed by the [Last Dragonborn](Lore_Last_Dragonborn.md), who used Evethra's notes to learn how to craft with these materials.<sup>[[14]](#cite_note-CC-14)</sup>
+
+## Gallery
+- [](https://en.uesp.net/wiki/File:DF-icon-ingredient-Amber.png) Amber (Daggerfall)
+- [![](https://images.uesp.net/thumb/5/55/RG-ingredient-Amber.jpg/200px-RG-ingredient-Amber.jpg)](https://en.uesp.net/wiki/File:RG-ingredient-Amber.jpg) Amber (Redguard)
+- [![](https://images.uesp.net/thumb/0/0a/SI-Item-Amber_Matrix.jpg/200px-SI-Item-Amber_Matrix.jpg)](https://en.uesp.net/wiki/File:SI-Item-Amber_Matrix.jpg) Amber Matrix (Shivering Isles)
+- [![](https://images.uesp.net/thumb/0/02/OBR-vein-Hollowed_Amber_Stump.jpg/200px-OBR-vein-Hollowed_Amber_Stump.jpg)](https://en.uesp.net/wiki/File:OBR-vein-Hollowed_Amber_Stump.jpg) An amber deposit (Oblivion Remastered)
+- [](https://en.uesp.net/wiki/File:ON-icon-stolen-Amber.png) Amber (ESO)
+- [](https://en.uesp.net/wiki/File:ON-icon-stolen-Waystone.png) Amber (ESO)
+- [![](https://images.uesp.net/thumb/5/57/SR-item-Sheogorath-Shaped_Amber.jpg/200px-SR-item-Sheogorath-Shaped_Amber.jpg)](https://en.uesp.net/wiki/File:SR-item-Sheogorath-Shaped_Amber.jpg) Sheogorath-Shaped Amber (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/a/a8/SR-item-Refined_Amber.jpg/200px-SR-item-Refined_Amber.jpg)](https://en.uesp.net/wiki/File:SR-item-Refined_Amber.jpg) Refined Amber (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/f/f2/SI-item-Amber_Armor.jpg/200px-SI-item-Amber_Armor.jpg)](https://en.uesp.net/wiki/File:SI-item-Amber_Armor.jpg) Amber armor (Shivering Isles)
+- [![](https://images.uesp.net/thumb/7/7e/SR-item-Amber_Armor_Male.jpg/200px-SR-item-Amber_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Amber_Armor_Male.jpg) Amber armor (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/0/07/SI-item-Amber_Weapons.jpg/200px-SI-item-Amber_Weapons.jpg)](https://en.uesp.net/wiki/File:SI-item-Amber_Weapons.jpg) Amber weapons (Shivering Isles)
+- [![](https://images.uesp.net/thumb/1/1a/SR-item-Amber_Weapons.jpg/200px-SR-item-Amber_Weapons.jpg)](https://en.uesp.net/wiki/File:SR-item-Amber_Weapons.jpg) Amber Weapons (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/3/34/SR-item-Ring_of_Disrobing.jpg/200px-SR-item-Ring_of_Disrobing.jpg)](https://en.uesp.net/wiki/File:SR-item-Ring_of_Disrobing.jpg) Ring with amber gem
+- [![](https://images.uesp.net/thumb/7/7b/SI-item-Nerveshatter.jpg/200px-SI-item-Nerveshatter.jpg)](https://en.uesp.net/wiki/File:SI-item-Nerveshatter.jpg) Nerveshatter (Shivering Isles)
+- [](https://en.uesp.net/wiki/File:ON-icon-quest-Uncle_Leo%27s_Spectacles.png) Uncle Leo's Spectacles
+- [![](https://images.uesp.net/thumb/0/0c/ON-furnishing-Silvenari_Sap-Stone.jpg/200px-ON-furnishing-Silvenari_Sap-Stone.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Silvenari_Sap-Stone.jpg) The Silvenari Sap-Stone (ESO)
+
+## Notes
+- There is another type of amber known as [Aurbic](Lore_Aurbis.md) Amber, which is sometimes used when making jewelry to increase the effect of the enchantment placed on it.<sup>[[15]](#cite_note-ONTrait-15)</sup>
+- Blood Amber is a valuable stone which is red in coloration. It is often found in reliquaries containing the dust of the [Gray Host](Lore_Gray_Host.md), an ancient army of [vampires](Lore_Vampire.md) and other monstrosities.<sup>[[16]](#cite_note-16)</sup>
+
+## See Also
+- For game-specific information, see the [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Amber), [*Redguard*](https://en.uesp.net/wiki/Redguard:Amber), [*Shivering Isles*](https://en.uesp.net/wiki/Shivering:Amber), and [*Skyrim*](Skyrim_Amber.md)<sup>[CC](Skyrim_Saints_%26_Seducers.md)</sup> articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-BAS_1-0)***</sup><sup>***[b](#cite_ref-BAS_1-1)***</sup> [*Bark and Sap*](Lore_Bark_and_Sap.md)
+2. [^](#cite_ref-Daggerfall_2-0) Appearance in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. ^ <sup>***[a](#cite_ref-SIDumag_3-0)***</sup><sup>***[b](#cite_ref-SIDumag_3-1)***</sup> [Dumag gro-Bonk](https://en.uesp.net/wiki/Shivering:Dumag_gro-Bonk)'s dialogue
+4. [^](#cite_ref-SSSA_4-0) [Sheogorath Shaped Amber](https://en.uesp.net/wiki/Shivering:Miscellaneous_Items#Sheogorath-Shaped_Amber) rarity in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+5. [^](#cite_ref-TJTCC_5-0) [*Thoron's Journal - Volume 1*](Lore_Thoron%27s_Journal_-_Volume_1.md) — [Thoron](Lore_Books_by_Author.md#Thoron)
+6. ^ <sup>***[a](#cite_ref-SIAppearance_6-0)***</sup><sup>***[b](#cite_ref-SIAppearance_6-1)***</sup> Appearance in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+7. ^ <sup>***[a](#cite_ref-EJCC_7-0)***</sup><sup>***[b](#cite_ref-EJCC_7-1)***</sup> [*Evethra's Journal*](Skyrim_Evethra%27s_Journal.md) — [Evethra](Skyrim_Evethra.md)
+8. [^](#cite_ref-ESOAmber_8-0) [Amber](Skyrim_Amber.md) equipment materials in *[Skyrim](Skyrim_Skyrim.md)*
+9. [^](#cite_ref-Shivering_9-0) Events of [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering)
+10. [^](#cite_ref-RAFECC_10-0) [*Report on Atronach Forge Experiments*](https://en.uesp.net/wiki/Skyrim:Report_on_Atronach_Forge_Experiments) — [Thoron](Skyrim_Thoron.md)
+11. [^](#cite_ref-ADIF5_11-0) [*A Dance in Fire, Chapter 5*](Lore_A_Dance_in_Fire,_Chapter_5.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+12. [^](#cite_ref-ESOMadness_12-0) [Alvur Baren](https://en.uesp.net/wiki/Online:Alvur_Baren)'s dialogue during [Madness in Stormhaven](https://en.uesp.net/wiki/Online:Madness_in_Stormhaven) in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-13) [*Note on Amber and Madness Ore*](https://en.uesp.net/wiki/Skyrim:Note_on_Amber_and_Madness_Ore) — [Thoron](Skyrim_Thoron.md)
+14. [^](#cite_ref-CC_14-0) [Saints & Seducers](Skyrim_Saints_%26_Seducers.md) [Creation](Skyrim_Creation_Club.md) for [Skyrim](Skyrim_Skyrim.md) [Special Edition](Skyrim_Special_Edition.md)
+15. [^](#cite_ref-ONTrait_15-0) [Aurbic Amber](https://en.uesp.net/wiki/Online:Traits#Jewelry_Traits) jewelry material in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-16) Blood Amber in [ESO](https://en.uesp.net/wiki/Online:Online)

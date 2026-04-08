@@ -1,0 +1,13 @@
+# Tanglehaven's Fletchers
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Tanglehaven%27s_Fletchers) |
+
+Tanglehaven's Fletchers *On the famed craftsmen of arrows in Tanglehaven*
+---
+Little more than a collection of huts, the village of Tanglehaven is famous among the [Bosmer](Lore_Bosmer.md) for their superior fletchings. One might say it is driven by their need for survival—raids from the [Wood Orc](Lore_Wood_Orc.md) clans in the area have been known to raze undefended settlements with little to no warning.
+
+Even with their knowledge of the ways of an arrow's flight, not many [Jaqspurs](Lore_Jaqspurs.md) call this village home. Treethanes with ambitions beyond the forest might find themselves recruiting armies to go with their superior weaponry, but so far, [Valenwood](Lore_Valenwood.md) has been blessed with a line of peaceful Bosmer.
+
+Now, with the recent [Thalmor](Lore_Thalmor.md) alliance, will the tranquil village find itself heeding the call of the war drums? Will the arrows from Valenwood fly so far as to pierce the very heart of [Cyrodiil](Lore_Cyrodiil.md)? Only time knows the answer.

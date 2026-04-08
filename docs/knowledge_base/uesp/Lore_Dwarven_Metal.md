@@ -1,0 +1,50 @@
+# Dwarven Metal
+
+[![](https://images.uesp.net/thumb/c/c3/SR-item-Dwarven_Metal_Ingot.jpg/200px-SR-item-Dwarven_Metal_Ingot.jpg)](https://en.uesp.net/wiki/File:SR-item-Dwarven_Metal_Ingot.jpg) [](https://en.uesp.net/wiki/File:SR-item-Dwarven_Metal_Ingot.jpg) An ingot of Dwarven metal (Skyrim) Dwarven Metal (or **Dwarven Brass**) refers to heavy, exotic metals used primarily by the [Dwemer](Lore_Dwemer.md). It is usually copper in color, although it can also be yellow, grey, or green. The Dwemer used the metal extensively, from architecture to cutlery, most notably for [Dwemer Animunculi](Lore_Dwemer_Animunculi.md). To the other races of [Tamriel](Lore_Tamriel.md), it is primarily of interest for use in smithing weapons and armor.
+
+Dwarven weapons are prized for their ability to resist corrosion and retain their edge, while Dwarven armor has distinctive impact-absorbing qualities. For this reason, Dwemer artifacts are highly prized by adventurers and collectors. The metal itself is rare and precious, scraps of which are prized both by collectors of antiquities and students of metals and enchantments.<sup>[[1]](#cite_note-1)</sup> Only the most skilled blacksmiths have the ability to emulate ornate Dwarven craftsmanship,<sup>[[2]](#cite_note-SR-2)</sup> although the metal is often incorporated into cultural designs.<sup>[[3]](#cite_note-ESO-3)</sup> True Dwarven metal was made using an unknown process that many metallurgists have tried to replicate unsuccessfully. The only way to obtain the metal is to melt down existing Dwemer items made from the substance.<sup>[[4]](#cite_note-DB-4)</sup> The Dwarves required the intense heat of molten lava to forge this metal.<sup>[[5]](#cite_note-ESOForge-5)</sup>
+
+There are even rarer metals used by the Dwemer, one of which is [Dwarven Adamant](https://en.uesp.net/wiki/Lore:Dwarven_Adamant). It is a hard whitish alloy that was used to forge components of rare animunculi mounts, such as the [Adamant Dwarven Horse](Lore_Vamidium.md#Dwarven_Horse).<sup>[[6]](#cite_note-ADH-6)</sup> Dwarven [Vitrine](https://en.uesp.net/wiki/Lore:Vitrine), also known as the Dwemeri Glass is another rare material and resembles the more common [Malachite](Lore_Malachite.md), as seen on the [Vitrine Dwarven Wolf](Lore_Vamidium.md#Vitrine_Dwarven_Wolf).<sup>[[7]](#cite_note-VDW-7)</sup> Dwarven Ebon-steel is an alloy used in rarer vamidiums prized by collectors,<sup>[[8]](#cite_note-8)</sup><sup>[[9]](#cite_note-9)</sup> and was used in weaponry <sup>[[10]](#cite_note-10)</sup>.
+
+Dwarven Metal has often been imitated but not truly replicated. While the metal bears a superficial resemblance to [brass](Lore_Brass.md) and is sometimes referred to as such, it is much harder.<sup>[[11]](#cite_note-11)</sup> [Dwarven Ore](https://en.uesp.net/wiki/Lore:Dwarven_Ore) is a naturally occurring ore deposit that can be found across Tamriel during the Second Era. Dwarven Ore acquired its name due to the visual resemblance it bears to Dwarven Metal when forged; however, it lacks the metal's durability, and metallurgists have concluded that it has no connection to the metal harvested from actual Dwemer devices.<sup>[[12]](#cite_note-KV-12)</sup> [Bronze](Lore_Bronze.md) is said to easily mistaken for Dwarven Metal, so much so that some craftsmen have been known to create fake replicas of Dwemer arms and armor using the metal.<sup>[[4]](#cite_note-DB-4)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/4/43/MW-ing-Scrap_Metal.jpg/200px-MW-ing-Scrap_Metal.jpg)](https://en.uesp.net/wiki/File:MW-ing-Scrap_Metal.jpg) Scrap Metal (Morrowind)
+- [![](https://images.uesp.net/thumb/6/67/OBR-item-Dwarven_Coherer.jpg/200px-OBR-item-Dwarven_Coherer.jpg)](https://en.uesp.net/wiki/File:OBR-item-Dwarven_Coherer.jpg) A coherer composed of Dwarven metal and wood (Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/0/09/SR-creature-Dwarven_Centurion.jpg/200px-SR-creature-Dwarven_Centurion.jpg)](https://en.uesp.net/wiki/File:SR-creature-Dwarven_Centurion.jpg) A Dwarven Centurion (Skyrim)
+- [![](https://images.uesp.net/thumb/8/89/BL-item-Dwarven_Metal_Ingot.jpg/200px-BL-item-Dwarven_Metal_Ingot.jpg)](https://en.uesp.net/wiki/File:BL-item-Dwarven_Metal_Ingot.jpg) Dwarven Metal ingot (Blades)
+- [](https://en.uesp.net/wiki/File:CT-icon-resource-Ingot_Dwarven.png) Dwarven ingot (Castles)
+- [![](https://images.uesp.net/thumb/3/3c/ON-crown_store-Adamant_Dwarven_Horse.jpg/200px-ON-crown_store-Adamant_Dwarven_Horse.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Adamant_Dwarven_Horse.jpg) Adamant Dwarven Horse
+- [![](https://images.uesp.net/thumb/e/e0/ON-misc-Vitrine_Dwarven_Wolf.jpg/200px-ON-misc-Vitrine_Dwarven_Wolf.jpg)](https://en.uesp.net/wiki/File:ON-misc-Vitrine_Dwarven_Wolf.jpg) Vitrine Dwarven Wolf
+- [![](https://images.uesp.net/thumb/e/e7/SR-creature-The_Messenger.jpg/200px-SR-creature-The_Messenger.jpg)](https://en.uesp.net/wiki/File:SR-creature-The_Messenger.jpg) Ebony Centurion
+- [![](https://images.uesp.net/thumb/c/c1/ON-crown_store-Ebon_Steel_Dwarven_Spider.jpg/200px-ON-crown_store-Ebon_Steel_Dwarven_Spider.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Ebon_Steel_Dwarven_Spider.jpg) Dwarven Spider Vamidium, made from ebony (ESO)
+
+## Armor and Arms Gallery
+- [![](https://images.uesp.net/thumb/2/25/MW-item-Dwemer_Armor.jpg/150px-MW-item-Dwemer_Armor.jpg)](https://en.uesp.net/wiki/File:MW-item-Dwemer_Armor.jpg) Dwarven armor (Morrowind)
+- [![](https://images.uesp.net/thumb/4/45/MW-item-Dwarven_Weapons.jpg/200px-MW-item-Dwarven_Weapons.jpg)](https://en.uesp.net/wiki/File:MW-item-Dwarven_Weapons.jpg) Dwarven weapons (Morrowind)
+- [![](https://images.uesp.net/thumb/3/3a/OB-item-Dwarven_Armor.jpg/200px-OB-item-Dwarven_Armor.jpg)](https://en.uesp.net/wiki/File:OB-item-Dwarven_Armor.jpg) Dwarven armor (Oblivion)
+- [![](https://images.uesp.net/thumb/4/45/SR-item-Dwarven_Armor_Male.jpg/200px-SR-item-Dwarven_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dwarven_Armor_Male.jpg) Dwarven armor (Skyrim)
+- [![](https://images.uesp.net/thumb/4/44/SR-item-Dwarven_Plate_Armor_Male.jpg/200px-SR-item-Dwarven_Plate_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dwarven_Plate_Armor_Male.jpg) Dwarven Plate armor (Skyrim)
+- [![](https://images.uesp.net/thumb/c/c5/SR-item-Dwarven_Mail_Male.jpg/200px-SR-item-Dwarven_Mail_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dwarven_Mail_Male.jpg) Dwarven Mail armor (Skyrim)
+- [![](https://images.uesp.net/thumb/3/33/SR-creature-Dwarven_Armored_Mudcrab.jpg/200px-SR-creature-Dwarven_Armored_Mudcrab.jpg)](https://en.uesp.net/wiki/File:SR-creature-Dwarven_Armored_Mudcrab.jpg) A Mudcrab melded with Dwarven Armor
+- [![](https://images.uesp.net/thumb/6/68/SR-item-Dwarven_Black_Bow_of_Fate.jpg/200px-SR-item-Dwarven_Black_Bow_of_Fate.jpg)](https://en.uesp.net/wiki/File:SR-item-Dwarven_Black_Bow_of_Fate.jpg) A Dwarven bow made from ebony (Skyrim)
+- [![](https://images.uesp.net/thumb/1/16/ON-crown_store-Dwemer_Style.jpg/200px-ON-crown_store-Dwemer_Style.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Dwemer_Style.jpg) Dwarven armor (ESO)
+- [![](https://images.uesp.net/thumb/f/f1/SR-concept-6877486271.jpg/200px-SR-concept-6877486271.jpg)](https://en.uesp.net/wiki/File:SR-concept-6877486271.jpg) Concept art
+- [![](https://images.uesp.net/thumb/e/e5/SR-concept-6877486543.jpg/200px-SR-concept-6877486543.jpg)](https://en.uesp.net/wiki/File:SR-concept-6877486543.jpg) Concept art
+
+## Notes
+- Dwarven equipment has appeared in *[Arena](https://en.uesp.net/wiki/Arena:Base_Armor#Metal_Types)*, *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Armor#Armor_Material)*, *[Morrowind](https://en.uesp.net/wiki/Morrowind:Dwarven)*, *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Armor)*, *[Oblivion](https://en.uesp.net/wiki/Oblivion:Dwarven_Armor)*, *[Skyrim](Skyrim_Dwarven.md)*, *[Online](https://en.uesp.net/wiki/Online:Dwarven_Ingot)*, and *[Blades](https://en.uesp.net/wiki/Blades:Dwarven_Metal_Ingot)*.
+
+## References
+1. [^](#cite_ref-1) Dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+2. [^](#cite_ref-SR_2-0) Events of *[Skyrim](Skyrim_Skyrim.md)*
+3. [^](#cite_ref-ESO_3-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-DB_4-0)***</sup><sup>***[b](#cite_ref-DB_4-1)***</sup> [*Dwarves*](Lore_Dwarves_(book).md) — [Calcelmo](Lore_Books_by_Author.md#Calcelmo), Scholar of Markarth
+5. [^](#cite_ref-ESOForge_5-0) [The Earth Forge](https://en.uesp.net/wiki/Online:The_Earth_Forge) [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ADH_6-0) [Adamant Dwarven Horse](https://en.uesp.net/wiki/Online:Adamant_Dwarven_Horse) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-VDW_7-0) [Vitrine Dwarven Wolf](https://en.uesp.net/wiki/Online:Vitrine_Dwarven_Wolf) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [Ebon Dwarven Senche](https://en.uesp.net/wiki/Online:Ebon_Dwarven_Senche) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [Ebon Steel Dwarven Spider](https://en.uesp.net/wiki/Online:Ebon_Steel_Dwarven_Spider) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-10) Appearance of [Dwarven Black Bow of Fate](Skyrim_Dwarven_Black_Bow_of_Fate.md) in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-11) [*Crafting Motif 96: Arkthzand Armory Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_96__Arkthzand_Armory_Style) — [Mathinn Palard](Lore_Books_by_Author.md#Mathinn_Palard), [University of Gwylim](Lore_University_of_Gwylim.md)
+12. [^](#cite_ref-KV_12-0) [*Kireth Vanos Answers Your Questions*](https://en.uesp.net/wiki/Lore:Kireth_Vanos_Answers_Your_Questions) — [Kireth Vanos](Lore_Books_by_Author.md#Kireth_Vanos)

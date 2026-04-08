@@ -1,0 +1,66 @@
+# Eadwyre
+
+| King Eadwyre | | | |
+| --- | --- | --- | --- |
+| [![DF-npc-Eadwyre (face).png](https://images.uesp.net/2/29/DF-npc-Eadwyre_%28face%29.png)](https://en.uesp.net/wiki/File:DF-npc-Eadwyre_(face).png) King Eadwyre of Wayrest | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Male |
+| Born | [3E 340](Lore_Third_Era.md#3E_340) | | |
+| Died | [3E 418](Lore_Third_Era.md#3E_418) | | |
+| Resided in | [Wayrest](Lore_Wayrest.md) | | |
+| Next Ruler | [Elysana](Lore_Elysana.md) | | |
+| Appears in | [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Eadwyre) | | |
+
+[![](https://images.uesp.net/thumb/0/08/DF-quest-Blackmail_02.jpg/200px-DF-quest-Blackmail_02.jpg)](https://en.uesp.net/wiki/File:DF-quest-Blackmail_02.jpg) [](https://en.uesp.net/wiki/File:DF-quest-Blackmail_02.jpg) King Eadwyre (Daggerfall) Eadwyre (born in [3E 340](Lore_Third_Era.md#3E_340)) was the King of [Wayrest](Lore_Wayrest_(kingdom).md) in the [late Fourth](Lore_Third_Era.md#Fourth_Century) and [early Fifth Centuries](Lore_Third_Era.md#Fifth_Century) of the Third Era. He was the husband of Queen [Carolyna](Lore_Carolyna.md), with whom he had a daughter, [Elysana](Lore_Elysana.md). Later in life, Eadwyre wed the [Dunmer](Lore_Dunmer.md) Queen [Barenziah](Lore_Barenziah.md), and became stepfather to her children, [Helseth](Lore_Helseth.md) and [Morgiah](Lore_Morgiah.md).<sup>[[1]](#cite_note-DFC-1)</sup><sup>[[2]](#cite_note-BOB3-2)</sup><sup>[[3]](#cite_note-TRB5-3)</sup><sup>[[4]](#cite_note-TES2-4)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), Eadwyre plotted with Barenziah to bring about the downfall of [Jagar Tharn](Lore_Jagar_Tharn.md), the Imperial Battlemage who they learned was masquerading as the [Emperor](Lore_Uriel_Septim_VII.md).<sup>[[2]](#cite_note-BOB3-2)</sup> In the years prior to the [Warp in the West](Lore_Warp_in_the_West.md), Eadwyre was known to be one of several factions which fought for possession of the [Totem of Tiber Septim](Lore_Totem_of_Tiber_Septim.md).<sup>[[4]](#cite_note-TES2-4)</sup>
+
+Eadwyre died in [3E 418](Lore_Third_Era.md#3E_418) at the age of 78, and was succeeded by Queen Elysana.<sup>[[5]](#cite_note-AGAD-5)</sup><sup>[[UOL 1]](#cite_note-TPEvening Star-6)</sup>
+
+## History
+
+### Early Life and the Imperial Simulacrum
+Eadwyre became King of [Wayrest](Lore_Wayrest_(kingdom).md) in the late [Fourth Century of the Third Era](Lore_Third_Era.md#Fourth_Century). [Carolyna](Lore_Carolyna.md) was his queen, and together the couple had one child, the Princess [Elysana](Lore_Elysana.md).<sup>[[1]](#cite_note-DFC-1)</sup>
+
+One night in [3E 391](Lore_Third_Era.md#3E_391), when Eadwyre was on a visit to the [Imperial City](Lore_Imperial_City.md), the spirit of the mage [Ria Silmane](Lore_Ria_Silmane.md) appeared to him in a dream with a desperate tale: Imperial Battlemage [Jagar Tharn](Lore_Jagar_Tharn.md), to whom she was apprenticed, had come to possess a powerful artifact—the [Staff of Chaos](Lore_Staff_of_Chaos.md). Tharn used the Staff to imprison Emperor [Uriel Septim VII](Lore_Uriel_Septim_VII.md) in an alternate dimension. Furthermore, Tharn had been magically posing as the Emperor for the past two years.<sup>[[6]](#cite_note-TES1-7)</sup> Silmane found out, and was murdered when she tried to warn the Elder Council.<sup>[[7]](#cite_note-ARFang-8)</sup> Eadwyre came to believe the story, but doing something about it would require help.<sup>[[2]](#cite_note-BOB3-2)</sup><sup>[[3]](#cite_note-TRB5-3)</sup>
+
+As it happened, Queen [Barenziah](Lore_Barenziah.md) of [Mournhold](Lore_Mournhold.md) had come to the Imperial City for an audience with the Emperor. The King was an acquaintance of her husband, General [Symmachus](Lore_Symmachus.md), who figured prominently in the legends of Eadwyre's family. Eadwyre called upon Barenziah and confided his suspicions that the Emperor was an impostor—suspicions which Barenziah confirmed. Tragically, word had arrived that day that Symmachus was killed in a revolt; Barenziah and her children were now exiles. Nevertheless, a plan was soon hatched: rescue the true Emperor while protecting the Dunmer royals, which would require Barenziah to get close to Tharn. The two had once been lovers,<sup>[[8]](#cite_note-TRB4-9)</sup> and she still had his eye. It would not be difficult, but it would be dangerous. Eadwyre swore to protect the children should anything happen to the queen.<sup>[[2]](#cite_note-BOB3-2)</sup><sup>[[3]](#cite_note-TRB5-3)</sup>
+
+The key to defeating Jagar Tharn was the Staff of Chaos, which had been hidden away. Ria contacted an [old friend](Lore_Eternal_Champion.md), who agreed to be the Champion of their cause.<sup>[[9]](#cite_note-ARManual-10)</sup> Unfortunately, this ally was locked away in the Imperial Dungeons. A copied key and a bribed guard solved this problem easily enough, but locating the Staff proved more difficult: Tharn had split it into eight pieces and hidden them all across [Tamriel](Lore_Tamriel.md).<sup>[[6]](#cite_note-TES1-7)</sup> Over the next several months, Barenziah discovered these hiding places, which Eadwyre relayed to Ria, who informed their Champion. Once the final location was discovered, Eadwyre secreted Barenziah and her children out of the Imperial City, one step ahead of Jagar Tharn's minions, and brought them to the safety of Wayrest.<sup>[[2]](#cite_note-BOB3-2)</sup><sup>[[3]](#cite_note-TRB5-3)</sup>
+
+Queen Carolyna died in [3E 392](Lore_Third_Era.md#3E_392). Eadwyre and Barenziah had grown close during their time together, and before long the pair were wed. Thanks to their efforts, the Champion was able to defeat Jagar Tharn and rescue the true Emperor in [3E 399](Lore_Third_Era.md#3E_399).<sup>[[6]](#cite_note-TES1-7)</sup><sup>[[10]](#cite_note-TET-11)</sup> For a while at least, peace had returned.<sup>[[2]](#cite_note-BOB3-2)</sup><sup>[[3]](#cite_note-TRB5-3)</sup>
+
+### The Warp in the West
+[![](https://images.uesp.net/thumb/7/7a/DF-outro-Eadwyre_04.png/200px-DF-outro-Eadwyre_04.png)](https://en.uesp.net/wiki/File:DF-outro-Eadwyre_04.png) [](https://en.uesp.net/wiki/File:DF-outro-Eadwyre_04.png) King Eadwyre during the Warp [![](https://images.uesp.net/thumb/1/1a/DF-outro-Eadwyre_03.png/200px-DF-outro-Eadwyre_03.png)](https://en.uesp.net/wiki/File:DF-outro-Eadwyre_03.png) [](https://en.uesp.net/wiki/File:DF-outro-Eadwyre_03.png) Eadwyre takes control of [Numidium](Lore_Numidium.md) Before long, the peace was disrupted again. At some point around [3E 401](Lore_Third_Era.md#3E_401)<sup>[[1]](#cite_note-DFC-1)</sup>, the [Totem of Tiber Septim](Lore_Totem_of_Tiber_Septim.md) was rediscovered in the [Iliac Bay](Lore_Iliac_Bay.md) region.<sup>[[4]](#cite_note-TES2-4)</sup> According to legend, this artifact would allow its bearer to control [Numidium](Lore_Numidium.md), the colossal golem once used by [Tiber Septim](Lore_Tiber_Septim.md) to conquer all Tamriel.<sup>[[11]](#cite_note-DFMantella-12)</sup> The Totem changed hands several times over the next few years, until it was recovered by an unknown [Agent of the Blades](Lore_The_Agent.md). Curiously, the Totem itself spoke to the Agent, demanding to be given to someone of royal blood. This touched off a furious bidding war among the major powers in the region.<sup>[[12]](#cite_note-DFWho-13)</sup>
+
+King Eadwyre himself had long searched for the Totem.<sup>[[12]](#cite_note-DFWho-13)</sup> With the power of Numidium, Wayrest could crush its enemies (notably, [Daggerfall](Lore_Daggerfall_(kingdom).md) and [Sentinel](Lore_Sentinel.md)) and become the dominant power in the region, and no one—not even the [Empire](Lore_Empire.md) —could stop them.<sup>[[13]](#cite_note-DFJourney-14)</sup> The king offered the Agent a handsome reward in exchange for the artifact. However, upon being presented with the Totem, Eadwyre's "reward" was simply to order his battlemages to kill the Agent, who had no recourse but to flee.<sup>[[12]](#cite_note-DFWho-13)</sup>
+
+The exact details surrounding this time are unclear, but somehow Wayrest was but one of seven factions to gain possession of the Totem— *simultaneously*.<sup>[[14]](#cite_note-WITW-15)</sup> After the Agent completed a final task, Numidium was ready to be activated once again.<sup>[[4]](#cite_note-TES2-4)</sup> And on the 10th of Frostfall, [3E 417](Lore_Third_Era.md#3E_417)<sup>[[15]](#cite_note-PGE3-16)</sup>, each bearer of the Totem did so to their own ends. Time itself was distorted, and several days seemingly merged into one—an event known as the [Warp in the West](Lore_Warp_in_the_West.md). When the dust had settled, Wayrest was one of only four political divisions remaining in the Iliac Bay. Its borders then stretched as far as the (former) lands of [Anticlere](Lore_Anticlere.md) and [Gavaudon](Lore_Gavaudon.md).<sup>[[14]](#cite_note-WITW-15)</sup>
+
+King Eadwyre died not long after in [3E 418](Lore_Third_Era.md#3E_418). Ironically, though his part in the Warp in the West helped cause unimaginable death and destruction around the Iliac Bay, it also ushered in a new era of peace and stability.<sup>[[15]](#cite_note-PGE3-16)</sup> Elysana's son, named Eadwyre II after his grandfather, believes Elysana had murdered him to usurp the throne.<sup>[[UOL 1]](#cite_note-TPEvening Star-6)</sup>
+
+## Notes
+- *[The Daggerfall Chronicles](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles)* lists King Eadwyre as having the blood of [Tiber Septim](Lore_Tiber_Septim.md), potentially making him a member of the [Septim Dynasty](Lore_Septim_Dynasty.md) and a [Dragonborn](Lore_Dragonborn.md).<sup>[[1]](#cite_note-DFC-1)</sup><sup>:206</sup>
+
+## See Also
+- For game-specific information about King Eadwyre, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Eadwyre).
+
+## References
+1. ^ <sup>***[a](#cite_ref-DFC_1-0)***</sup><sup>***[b](#cite_ref-DFC_1-1)***</sup><sup>***[c](#cite_ref-DFC_1-2)***</sup><sup>***[d](#cite_ref-DFC_1-3)***</sup> [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) — Ronald Wartow
+2. ^ <sup>***[a](#cite_ref-BOB3_2-0)***</sup><sup>***[b](#cite_ref-BOB3_2-1)***</sup><sup>***[c](#cite_ref-BOB3_2-2)***</sup><sup>***[d](#cite_ref-BOB3_2-3)***</sup><sup>***[e](#cite_ref-BOB3_2-4)***</sup><sup>***[f](#cite_ref-BOB3_2-5)***</sup> [*Biography of Barenziah, v 3*](Lore_Biography_of_Barenziah,_v_3.md) — [Stern Gamboge](Lore_Books_by_Author.md#Stern_Gamboge), Imperial Scribe
+3. ^ <sup>***[a](#cite_ref-TRB5_3-0)***</sup><sup>***[b](#cite_ref-TRB5_3-1)***</sup><sup>***[c](#cite_ref-TRB5_3-2)***</sup><sup>***[d](#cite_ref-TRB5_3-3)***</sup><sup>***[e](#cite_ref-TRB5_3-4)***</sup> [*The Real Barenziah, v 5*](Lore_The_Real_Barenziah,_v_5.md) — Anonymous
+4. ^ <sup>***[a](#cite_ref-TES2_4-0)***</sup><sup>***[b](#cite_ref-TES2_4-1)***</sup><sup>***[c](#cite_ref-TES2_4-2)***</sup><sup>***[d](#cite_ref-TES2_4-3)***</sup> Events of [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Daggerfall)
+5. [^](#cite_ref-AGAD_5-0) [*A Game at Dinner*](Lore_A_Game_at_Dinner.md) — An Anonymous Spy
+6. ^ <sup>***[a](#cite_ref-TES1_7-0)***</sup><sup>***[b](#cite_ref-TES1_7-1)***</sup><sup>***[c](#cite_ref-TES1_7-2)***</sup> Events of *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+7. [^](#cite_ref-ARFang_8-0) Events of [Fang Lair](https://en.uesp.net/wiki/Arena:Fang_Lair) — Ria Silmane's dialogue
+8. [^](#cite_ref-TRB4_9-0) [*The Real Barenziah, v 4*](Lore_The_Real_Barenziah,_v_4.md) — Anonymous
+9. [^](#cite_ref-ARManual_10-0) *Arena* Player's Guide
+10. [^](#cite_ref-TET_11-0) [*The Third Era Timeline*](Lore_The_Third_Era_Timeline.md) — [Jaspus Ignateous](Lore_Books_by_Author.md#Jaspus_Ignateous)
+11. [^](#cite_ref-DFMantella_12-0) Events of [The Mantella Revealed](https://en.uesp.net/wiki/Daggerfall:The_Mantella_Revealed)
+12. ^ <sup>***[a](#cite_ref-DFWho_13-0)***</sup><sup>***[b](#cite_ref-DFWho_13-1)***</sup><sup>***[c](#cite_ref-DFWho_13-2)***</sup> Events of [Totem, Totem, Who Gets the Totem?](https://en.uesp.net/wiki/Daggerfall:Totem,_Totem,_Who_Gets_the_Totem%3F)
+13. [^](#cite_ref-DFJourney_14-0) Events of [Journey to Aetherius](https://en.uesp.net/wiki/Daggerfall:Journey_to_Aetherius)
+14. ^ <sup>***[a](#cite_ref-WITW_15-0)***</sup><sup>***[b](#cite_ref-WITW_15-1)***</sup> [*The Warp in the West*](Lore_The_Warp_in_the_West.md) — [Ulvius Tero](Lore_Books_by_Author.md#Ulvius_Tero)
+15. ^ <sup>***[a](#cite_ref-PGE3_16-0)***</sup><sup>***[b](#cite_ref-PGE3_16-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Sons and Daughter of the Direnni West: High Rock*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_High_Rock) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-TPEvening Star_6-0)***</sup><sup>***[b](#cite_ref-TPEvening Star_6-1)***</sup> [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson)'s posts in [*The Evening Star Parade*](https://en.uesp.net/wiki/General:Loranna%27s_RP#Campaign_7:_The_Evening_Star_Parade)

@@ -1,0 +1,106 @@
+# Balagog gro-Nolob
+
+| Chef Balagog gro-Nolob | | | |
+| --- | --- | --- | --- |
+| [![CT-npc-Balagog gro-Nolob 02.png](https://images.uesp.net/thumb/d/d9/CT-npc-Balagog_gro-Nolob_02.png/200px-CT-npc-Balagog_gro-Nolob_02.png)](https://en.uesp.net/wiki/File:CT-npc-Balagog_gro-Nolob_02.png) Chef Balagog gro-Nolob | | | |
+| Race | [Orc](Lore_Orc.md) | Gender | Male |
+| Born | [Fourth Era](Lore_Era.md#Fourth_Era) | | |
+| Died | [4E 201](Lore_Fourth_Era.md#4E_201) <br> [The Pale](Lore_The_Pale.md), Nightgate Inn | | |
+| Resided in | [High Rock](Lore_High_Rock.md) <br> [Skyrim](Lore_Skyrim.md) | | |
+| Appears in | [Skyrim](Skyrim_Balagog_gro-Nolob.md), [Castles](https://en.uesp.net/wiki/Castles:Balagog_gro-Nolob) | | |
+
+*Killing the Gourmet will leave an emptiness in the collective soul of [Skyrim](Lore_Skyrim.md).*
+— [Lucien Lachance](Lore_Lucien_Lachance.md)<sup>[[1]](#cite_note-SA-1)</sup> [![](https://images.uesp.net/thumb/6/65/SR-npc-Balagog_gro-Nolob.jpg/200px-SR-npc-Balagog_gro-Nolob.jpg)](https://en.uesp.net/wiki/File:SR-npc-Balagog_gro-Nolob.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Balagog_gro-Nolob.jpg) Balagog gro-Nolob circa 4E 201 Balagog gro-Nolob, operating under the alias **the Gourmet**, was a mysterious [Orcish](Lore_Orc.md) [culinary](Lore_Cuisine.md) genius, known for concealing his true identity. His origins, race, and gender remained unknown to the general populace, including his devoted fans,<sup>[[2]](#cite_note-B-2)</sup> many of whom speculated about his race. One example of speculation was that he might be a [Bosmer](Lore_Bosmer.md) due to his extensive knowledge of woodland herbs.<sup>[[3]](#cite_note-G-3)</sup> He authored *[Uncommon Taste](Lore_Uncommon_Taste.md)*, a widely acclaimed cookbook across Tamriel. As of [4E 201](Lore_Fourth_Era.md#4E_201), this culinary masterpiece has become quite a phenomenon.<sup>[[4]](#cite_note-A-4)</sup> He was a wealthy individual known to indulge in high-quality wine.<sup>[[5]](#cite_note-H-5)</sup>
+
+He catered for esteemed individuals, including the court of [Emperor](Lore_Tamrielic_Emperors.md) [Titus Mede II](Lore_Titus_Mede_II.md), and served as his personal cook.<sup>[[6]](#cite_note-GWOP-6)</sup><sup>[[7]](#cite_note-GC-7)</sup>
+
+## History
+
+### Fourth Era
+[![](https://images.uesp.net/thumb/9/9d/SR-quest-Recipe_For_Disaster_3.jpg/200px-SR-quest-Recipe_For_Disaster_3.jpg)](https://en.uesp.net/wiki/File:SR-quest-Recipe_For_Disaster_3.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Recipe_For_Disaster_3.jpg) Balagog in the Pale [![](https://images.uesp.net/thumb/e/e0/SR-npc-Anton_Virane.jpg/200px-SR-npc-Anton_Virane.jpg)](https://en.uesp.net/wiki/File:SR-npc-Anton_Virane.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Anton_Virane.jpg) Anton Virane, an old friend of the Gourmet In his youth, Balagog visited High Rock, where he befriended Anton Virane, a [Breton](Lore_Breton.md) with similar culinary interests. Both young, impetuous, and foolish, they found themselves in dangerous times. Balagog experienced the kindness not only of Anton but of the entire Virane family. Thanks to Anton's guidance and friendship, he was inspired to share their love of Breton cuisine with all of Tamriel. Many years later, he wrote and published *Uncommon Taste*, a book that was not just a collection of recipes, but the sum total of his life's work and a testament to the power of passion.<sup>[[8]](#cite_note-UTS-8)</sup> The book was published a few years before 4E 201. It became a sensation throughout the Empire almost overnight.<sup>[[9]](#cite_note-FK-9)</sup> He inscribed one of his books with a dedication to his friend, Anton.<sup>[[8]](#cite_note-UTS-8)</sup><sup>[[9]](#cite_note-FK-9)</sup>
+
+Over time, he rose to become the Emperor's personal cook, but owing to the anonymity of the Gourmet persona, Balagog was not commonly identified. However, possessing the Writ of Passage issued by the order of the emperor himself granted him full and unrestricted access to any areas, information, or supplies necessary to fulfill his duty of the Emperor's personal cook.<sup>[[6]](#cite_note-GWOP-6)</sup> The Gourmet was a celebrated chef and author renowned across the entire Empire.<sup>[[6]](#cite_note-GWOP-6)</sup> He became increasingly famous,<sup>[[10]](#cite_note-CP-10)</sup> and his name became synonymous with food quality.<sup>[[11]](#cite_note-PJ-11)</sup> His mastery earned him devoted fans, reaching as far north as the province of Skyrim.<sup>[[2]](#cite_note-B-2)</sup>
+
+As of 4E 201, some speculated that the Gourmet was in hiding in Skyrim.<sup>[[12]](#cite_note-GD-12)</sup> Those speculations were correct, as he was residing at the Nightgate Inn near [Heljarchen Hall](Lore_Heljarchen_Hall.md), as a long-term tenant in the hold of [the Pale](Lore_The_Pale.md).<sup>[[5]](#cite_note-H-5)</sup><sup>[[13]](#cite_note-BGN-13)</sup> Gaius Maro, the son of Commander Maro, made arrangements for the Gourmet to travel to Skyrim several months before the scheduled travel of the Emperor, intending for him to serve as the Emperor's personal chef. However, the Emperor's plans changed at the last moment, leading to the cancellation of his journey. Maro, being wise, decided to keep the Gourmet nearby in case circumstances altered. As a result, the Gourmet has since remained in seclusion in Skyrim, his future plans put on indefinite hold.<sup>[[9]](#cite_note-FK-9)</sup>
+
+The [Dark Brotherhood](Lore_Dark_Brotherhood.md), in their ploy to assassinate the Emperor, targeted him first - The Gourmet was scheduled to cook for the Emperor at a special dinner in the Emperor's Tower of Castle Dour in [Solitude](Lore_Solitude.md).<sup>[[4]](#cite_note-A-4)</sup><sup>[[14]](#cite_note-TKAE-14)</sup> The signed copy dedicated to Anton was discovered by the Dark Brotherhood, aiding them in uncovering his identity.<sup>[[9]](#cite_note-FK-9)</sup> The [Listener](Lore_Last_Dragonborn.md) was sent to Markarth, Anton's place of residence, to gather all pertinent information directly from Anton Virane himself, in order to pinpoint the elusive chef's whereabouts and uncover his true identity.<sup>[[15]](#cite_note-RFD-15)</sup><sup>[[16]](#cite_note-AV-16)</sup> Afterward, the Listener ventured to the Pale and assassinated the Gourmet, stealing his Writ of Passage in the process.<sup>[[15]](#cite_note-RFD-15)</sup>
+
+### Posthumously
+[![](https://images.uesp.net/thumb/1/10/SR-quest-To_Kill_an_Empire_02.jpg/200px-SR-quest-To_Kill_an_Empire_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-To_Kill_an_Empire_02.jpg) [](https://en.uesp.net/wiki/File:SR-quest-To_Kill_an_Empire_02.jpg) The meal of the decoy Emperor, poisoned by the Gourmet's impersonator After the Gourmet was assassinated, the assassin took on the guise of the master chef to approach the Emperor during the special dinner. Presenting the Gourmet's Writ of Passage to Commander Maro, the Listener secured unhindered entry to the kitchens and, subsequently, to the Emperor.<sup>[[4]](#cite_note-A-4)</sup><sup>[[14]](#cite_note-TKAE-14)</sup> Prior to the assassination, the decoy Emperor convened a meeting with dignitaries. Noble guests who attended the party were aware of the original Gourmet's mastery and believed that the Emperor spared no expense to hire him.<sup>[[17]](#cite_note-N-17)</sup>
+
+He was framed for the murder of the Emperor when the Listener impersonated him during the assassination attempt. It is unknown whether the impersonator poisoned the decoy emperor by adding a [jarrin root](Lore_Jarrin_Root.md), a potent toxin to the Potage le Magnifique or used more direct means.<sup>[[14]](#cite_note-TKAE-14)</sup> Despite the fact that the slain emperor was merely a decoy and not the real Titus Mede II, he was initially blamed for that murder by members of the [Penitus Oculatus](Lore_Penitus_Oculatus.md).<sup>[[18]](#cite_note-POA-18)</sup><sup>[[19]](#cite_note-ETM2D-19)</sup> However, Commander Maro was aware of the plot and worked with Astrid who had betrayed the Brotherhood agent in order to strike a deal to preserve the organization. Consequently, the impersonator was ambushed by Maro and the agents of the Penitus Oculatus, who also reneged on their promise and ordered the attack on the Brotherhood.<sup>[[20]](#cite_note-CM-20)</sup><sup>[[14]](#cite_note-TKAE-14)</sup>
+
+Before his death, Balagog took on [Urzhag gro-Larak](Lore_Urzhag_gro-Larak.md) of [Mor Khazgur](Lore_Mor_Khazgur.md) as an apprentice for three months, teaching him food history and how the rise and fall of recipes are influenced by magic, politics, and music. After the apprenticeship, the Gourmet had Urzhag travel throughout Tamriel to learn from its people, with a promise that the two would meet up four years later. However, by time Urzhag came back, Balagog was already dead. As Urzhag was about to throw the book he wrote throughout his journeys, *Tastes and Tales from Tamriel*, into the pyre by Balagog's memorial, he realized what his master meant to tell him. That Urzhag may have finished his journey, completed his book, and mastered many recipes, but his journey wasn't over and that "the secret ingredient is you".<sup>[[21]](#cite_note-Cookbook2-21)</sup>
+
+Balagog left a lasting impact on the culinary traditions of Tamriel, and some believed that the world would be a blander, less flavorful place without his presence,<sup>[[22]](#cite_note-BAB-22)</sup> and that his passing left an emptiness in the collective soul of Skyrim.<sup>[[1]](#cite_note-SA-1)</sup>
+
+## Recipes
+[![](https://images.uesp.net/thumb/f/f1/BK-misc-Official_Cookbook_Potage_le_Magnifique.png/200px-BK-misc-Official_Cookbook_Potage_le_Magnifique.png)](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Potage_le_Magnifique.png) [](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Potage_le_Magnifique.png) Potage le Magnifique (Official Cookbook) [![](https://images.uesp.net/thumb/1/13/BK-misc-Official_Cookbook_Sunlight_Souffle.png/200px-BK-misc-Official_Cookbook_Sunlight_Souffle.png)](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Sunlight_Souffle.png) [](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Sunlight_Souffle.png) Sunlight Soufflé (Official Cookbook) The Gourmet gained fame for his extensive array of recipes, catering to both commoners,<sup>[[3]](#cite_note-G-3)</sup> and the aristocracy alike.<sup>[[17]](#cite_note-N-17)</sup> His recipes were considered legendary.<sup>[[2]](#cite_note-B-2)</sup> His culinary creations were celebrated for their blend of practicality and indulgence.<sup>[[9]](#cite_note-FK-9)</sup> The culinary creations of the Gourmet had permeated even the shadowy corners of society, including vampires,<sup>[[22]](#cite_note-BAB-22)</sup><sup>[[23]](#cite_note-DM-23)</sup> and members of the Dark Brotherhood.<sup>[[9]](#cite_note-FK-9)</sup> Presented below are a selection of his distinguished culinary creations:
+
+- **Chocolate pate** - This dish was believed to cause digestive issues for some individuals.<sup>[[9]](#cite_note-FK-9)</sup>
+- **Roast mutton with Redguard berry sauce** - This dish was considered delicious by a member of the Dark Brotherhood.<sup>[[9]](#cite_note-FK-9)</sup>
+- **Strawberry tarts** - A Penitus Oculatus agent complimented this meal.<sup>[[18]](#cite_note-POA-18)</sup>
+- **Potage le Magnifique** - It was a signature dish of the Gourmet, and it was among the dishes described in *Uncommon Taste*.<sup>[[24]](#cite_note-UT-24)</sup> A Penitus Oculatus agent complimented this meal.<sup>[[18]](#cite_note-POA-18)</sup> This dish was served during the infamous dinner in Solitude when the decoy Emperor was assassinated.<sup>[[19]](#cite_note-ETM2D-19)</sup><sup>[[14]](#cite_note-TKAE-14)</sup>
+- **Sunlight Soufflé** - It was among the dishes described in *Uncommon Taste*.<sup>[[24]](#cite_note-UT-24)</sup><sup>[[25]](#cite_note-Cookbook-25)</sup><sup>:67</sup> The Darklight Soufflé was a vampiric twist on the Sunlight Souffle, inspired by the Gourmet's original creation.<sup>[[23]](#cite_note-DM-23)</sup>
+
+Additional information regarding the preparation of some of his meals is available.<sup>[[24]](#cite_note-UT-24)</sup>
+
+### Potage le Magnifique
+
+- *"Behold, the Gourmet's signature dish - the Potage le Magnifique!"*<sup>[[24]](#cite_note-UT-24)</sup>
+
+The Potage le Magnifique requires the following ingredients: 4 cups of chicken broth, 4 cups of beef broth, 2 1/2 ounces of butter, 1 wooden flagon of flour, 1 cup of diced carrots, and 1/2 cup of diced onions.
+
+To prepare the Gourmet's signature dish, Potage le Magnifique, one needs to stoke the flames of an open-pit fire to achieve a low heat. Next, all the ingredients should be combined into a large soup pot and stirred vigorously. Once the mixture is hot, it should be poured into earthen soup bowls immediately.<sup>[[24]](#cite_note-UT-24)</sup>
+
+The Gourmet himself emphasized that the secret of the meal lies within the individual preparing it, particularly in the creative imagination of one who is truly inspired.<sup>[[24]](#cite_note-UT-24)</sup> Thanks to the Gourmet's book, the Breton dish gained prominence. Known for its rich texture and deceptively simple preparation, it presents a hearty soup that complements toasted bread and cheese perfectly.<sup>[[25]](#cite_note-Cookbook-25)</sup><sup>:103</sup><sup>[[26]](#cite_note-RL-26)</sup>
+
+### Sunlight Soufflé
+
+- *"Behold, the brilliance of the sun, and the exquisite flavor of the Sunshine Soufflé"*<sup>[[24]](#cite_note-UT-24)</sup>
+
+The Sunlight Soufflé requires the following ingredients: 2 1/2 ounces of cow's cheese, 1 ounce of butter, 1 ounce of flour, 9 ounces of milk, a dash of salt, a dash of pepper, and a cupful of ground nutmeg.<sup>[[24]](#cite_note-UT-24)</sup>
+
+To prepare the Sunshine Soufflé, one needs to preheat the oven to a moderate temperature. Grate the cheese into thin shavings using a finely honed elven dagger. Separate the egg whites from the yolks and vigorously beat the whites until they thicken. Begin crafting the Sunshine Sauce by melting the butter and blending in the flour over gentle heat. Gradually stir in the milk, ensuring continuous stirring for about ten minutes until the mixture thickens. Season with salt, pepper, and nutmeg before removing from heat. Combine the grated cheese and egg yolks, stirring until fully blended, then gently fold in the egg whites with a spoon crafted from carved hickory wood. Pour the mixture into four stonework souffle dishes, filling each nearly to the top. Place the dishes in the preheated oven and bake for 25 minutes, ensuring the oven remains closed during baking to prevent the souffles from collapsing prematurely. After baking, remove the souffles and serve immediately, savoring the brilliance of the sun and the exquisite flavor of the Sunshine Soufflé.<sup>[[24]](#cite_note-UT-24)</sup>
+
+The preparation of this Breton dish is surprisingly simple. The outcome is a delicate, airy dish of eggs and cheese, boasting a delightful flavor that lends itself well to personal adjustments and enhancements according to individual preferences.<sup>[[26]](#cite_note-RL-26)</sup><sup>[[25]](#cite_note-Cookbook-25)</sup><sup>:67</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/f7/CT-npc-Balagog_gro-Nolob.jpg/200px-CT-npc-Balagog_gro-Nolob.jpg)](https://en.uesp.net/wiki/File:CT-npc-Balagog_gro-Nolob.jpg) The Gourmet (Castles)
+
+## Notes
+- In Castles, after beating your second Dragon this message appears: "You successfully defeated the Dragon and caught the attention of Balagog gro-Nolob, also known as "the gourmet", who has come to see if alleged dragon eggs can be cooked!"
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Balagog_gro-Nolob.md) and [*Castles*](https://en.uesp.net/wiki/Castles:Balagog_gro-Nolob) articles.
+
+### Books
+- ***[Uncommon Taste](Lore_Uncommon_Taste.md)*** by [The Gourmet](Lore_Books_by_Author.md#Balagog_gro-Nolob) — A cook book containing recipes of a Breton origin
+
+## References
+1. ^ <sup>***[a](#cite_ref-SA_1-0)***</sup><sup>***[b](#cite_ref-SA_1-1)***</sup> [Spectral Assassin](https://en.uesp.net/wiki/Skyrim:Spectral_Assassin)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. ^ <sup>***[a](#cite_ref-B_2-0)***</sup><sup>***[b](#cite_ref-B_2-1)***</sup><sup>***[c](#cite_ref-B_2-2)***</sup> [Balbus](Skyrim_Balbus.md)' dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-G_3-0)***</sup><sup>***[b](#cite_ref-G_3-1)***</sup> [Gianna](Skyrim_Gianna.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+4. ^ <sup>***[a](#cite_ref-A_4-0)***</sup><sup>***[b](#cite_ref-A_4-1)***</sup><sup>***[c](#cite_ref-A_4-2)***</sup> [Astrid](Skyrim_Astrid.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+5. ^ <sup>***[a](#cite_ref-H_5-0)***</sup><sup>***[b](#cite_ref-H_5-1)***</sup> [Hadring](Skyrim_Hadring.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+6. ^ <sup>***[a](#cite_ref-GWOP_6-0)***</sup><sup>***[b](#cite_ref-GWOP_6-1)***</sup><sup>***[c](#cite_ref-GWOP_6-2)***</sup> [*Gourmet's Writ of Passage*](Skyrim_Gourmet%27s_Writ_of_Passage.md)
+7. [^](#cite_ref-GC_7-0) [Gianna](https://en.uesp.net/wiki/Castles:Gianna)'s description in *[Castles](https://en.uesp.net/wiki/Castles:Castles)*
+8. ^ <sup>***[a](#cite_ref-UTS_8-0)***</sup><sup>***[b](#cite_ref-UTS_8-1)***</sup> [*Uncommon Taste - Signed*](https://en.uesp.net/wiki/Skyrim:Uncommon_Taste_-_Signed) — The [Gourmet](Skyrim_Gourmet.md)
+9. ^ <sup>***[a](#cite_ref-FK_9-0)***</sup><sup>***[b](#cite_ref-FK_9-1)***</sup><sup>***[c](#cite_ref-FK_9-2)***</sup><sup>***[d](#cite_ref-FK_9-3)***</sup><sup>***[e](#cite_ref-FK_9-4)***</sup><sup>***[f](#cite_ref-FK_9-5)***</sup><sup>***[g](#cite_ref-FK_9-6)***</sup><sup>***[h](#cite_ref-FK_9-7)***</sup> [Festus Krex](Skyrim_Festus_Krex.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+10. [^](#cite_ref-CP_10-0) [*Chaurus Pie: A Recipe*](https://en.uesp.net/wiki/Lore:Chaurus_Pie__A_Recipe) — [Nils](Lore_Books_by_Author.md#Nils)
+11. [^](#cite_ref-PJ_11-0) [*Peddler's Journal*](https://en.uesp.net/wiki/Skyrim:Peddler%27s_Journal) — [Dark Elf](Skyrim_Dark_Elf_(dead).md)
+12. [^](#cite_ref-GD_12-0) [Guard Dialogue](Skyrim_Guard_Dialogue.md) in *[Skyrim](Skyrim_Skyrim.md)*
+13. [^](#cite_ref-BGN_13-0) [Balagog gro-Nolob](Skyrim_Balagog_gro-Nolob.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+14. ^ <sup>***[a](#cite_ref-TKAE_14-0)***</sup><sup>***[b](#cite_ref-TKAE_14-1)***</sup><sup>***[c](#cite_ref-TKAE_14-2)***</sup><sup>***[d](#cite_ref-TKAE_14-3)***</sup><sup>***[e](#cite_ref-TKAE_14-4)***</sup> Events of [To Kill an Empire](Skyrim_To_Kill_an_Empire.md) in *[Skyrim](Skyrim_Skyrim.md)*
+15. ^ <sup>***[a](#cite_ref-RFD_15-0)***</sup><sup>***[b](#cite_ref-RFD_15-1)***</sup> Events of [Recipe for Disaster](https://en.uesp.net/wiki/Skyrim:Recipe_for_Disaster) in *[Skyrim](Skyrim_Skyrim.md)*
+16. [^](#cite_ref-AV_16-0) [Anton Virane](Skyrim_Anton_Virane.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+17. ^ <sup>***[a](#cite_ref-N_17-0)***</sup><sup>***[b](#cite_ref-N_17-1)***</sup> [Nobleman](https://en.uesp.net/wiki/Skyrim:Nobleman)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+18. ^ <sup>***[a](#cite_ref-POA_18-0)***</sup><sup>***[b](#cite_ref-POA_18-1)***</sup><sup>***[c](#cite_ref-POA_18-2)***</sup> [Penitus Oculatus Agent](https://en.uesp.net/wiki/Skyrim:Penitus_Oculatus_Agent)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+19. ^ <sup>***[a](#cite_ref-ETM2D_19-0)***</sup><sup>***[b](#cite_ref-ETM2D_19-1)***</sup> [Emperor Titus Mede II (decoy)](Skyrim_Emperor_Titus_Mede_II_(decoy).md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+20. [^](#cite_ref-CM_20-0) [Commander Maro](Skyrim_Commander_Maro.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+21. [^](#cite_ref-Cookbook2_21-0) [*The Elder Scrolls: The Official Cookbook Vol. 2*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook_Vol._2) — Erin Kwong, Victoria Rosenthal
+22. ^ <sup>***[a](#cite_ref-BAB_22-0)***</sup><sup>***[b](#cite_ref-BAB_22-1)***</sup> [Babette](Skyrim_Babette.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+23. ^ <sup>***[a](#cite_ref-DM_23-0)***</sup><sup>***[b](#cite_ref-DM_23-1)***</sup> [*Dinner Menu*](Skyrim_Dinner_Menu.md)
+24. ^ <sup>***[a](#cite_ref-UT_24-0)***</sup><sup>***[b](#cite_ref-UT_24-1)***</sup><sup>***[c](#cite_ref-UT_24-2)***</sup><sup>***[d](#cite_ref-UT_24-3)***</sup><sup>***[e](#cite_ref-UT_24-4)***</sup><sup>***[f](#cite_ref-UT_24-5)***</sup><sup>***[g](#cite_ref-UT_24-6)***</sup><sup>***[h](#cite_ref-UT_24-7)***</sup><sup>***[i](#cite_ref-UT_24-8)***</sup> [*Uncommon Taste*](Lore_Uncommon_Taste.md) — [The Gourmet](Lore_Books_by_Author.md#Balagog_gro-Nolob)
+25. ^ <sup>***[a](#cite_ref-Cookbook_25-0)***</sup><sup>***[b](#cite_ref-Cookbook_25-1)***</sup><sup>***[c](#cite_ref-Cookbook_25-2)***</sup> [*The Elder Scrolls: The Official Cookbook*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook) — Chelsea Monroe-Cassel
+26. ^ <sup>***[a](#cite_ref-RL_26-0)***</sup><sup>***[b](#cite_ref-RL_26-1)***</sup> [Recipe List](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook/Recipe_List) of *[The Elder Scrolls: The Official Cookbook](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook)*

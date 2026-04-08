@@ -1,0 +1,25 @@
+# Alten Corimont
+
+| Alten Corimont | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Black Marsh](Lore_Black_Marsh.md) |
+| Region | [Shadowfen](Lore_Shadowfen.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Alten_Corimont), [ESO](https://en.uesp.net/wiki/Online:Alten_Corimont) |
+
+[![](https://images.uesp.net/thumb/f/fc/ON-place-Alten_Corimont.jpg/200px-ON-place-Alten_Corimont.jpg)](https://en.uesp.net/wiki/File:ON-place-Alten_Corimont.jpg) [](https://en.uesp.net/wiki/File:ON-place-Alten_Corimont.jpg) Alten Corimont Alten Corimont is a small port town located in eastern [Shadowfen](Lore_Shadowfen.md), deep in the province of [Black Marsh](Lore_Black_Marsh.md). It lies on the bank of a waterway, which provides access to the sea.
+
+Circa [1E 2260](Lore_First_Era.md#1E_2260), Argonian freebooters from Alten Corimont were among those who heeded the call to arms of Baron-Admiral [Bendu Olo](Lore_Bendu_Olo.md) of [Anvil](Lore_Anvil.md) and joined the [All Flags Navy](Lore_All_Flags_Navy.md). The sailing ship *Golden Era* was one such vessel. The Argonians sailed with the fleet to far-off [Thras](Lore_Thras.md) to seek vengeance against the [Sload](Lore_Sload.md), never to return. Unbeknownst to the inhabitants of Alten Corimont—and indeed most of [Tamriel](Lore_Tamriel.md) —much of the fleet was pulled into the depths of [Coldharbour](Lore_Coldharbour.md) by the collapse of the [Coral Tower](Lore_Coral_Tower_(Thras).md). The captain of the *Golden Era* made a pact with [Molag Bal](Lore_Molag_Bal.md), receiving the [Crown of Bones](https://en.uesp.net/wiki/Lore:Crown_of_Bones) and ruling over the skeletal sailors for eternity.<sup>[[1]](#cite_note-JTE-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), Alten Corimont was little more than a glorified tavern. Aside from the docks, its only structure was a beached ship that functioned as a social hub for the settlement's population of pirates and smugglers. Despite this, both the [Mages Guild](Lore_Mages_Guild.md) and [Fighters Guild](Lore_Fighters_Guild.md) maintained a presence. The town was run by an [Argonian](Lore_Argonian.md) pirate called Captain One-Eye. Due to its nefarious activities, the town remained neutral in the ongoing [Three Banners War](Lore_Three_Banners_War.md). It was for this reason that the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) chose Alten Corimont to help resupply their invasion of the region. A crew of [Renrijra Maor](https://en.uesp.net/wiki/Lore:Renrijra_Maor) were put in charge of this operation, but the group's suspicious activities were soon noticed by One-Eye, who had their leader killed. The [Khajiiti](Lore_Khajiit.md) pirates promptly switched their allegiance, and helped One-Eye obtain the Dominion's treasure, killing a part of their invasion force in the process. The settlement's relationship with the [Ebonheart Pact](Lore_Ebonheart_Pact.md) remained bitter, although Pact ships were allowed to make use of the port.<sup>[[2]](#cite_note-ESO-2)</sup>
+
+Later that year, after subduing various challengers who questioned her right to rule, Captain One-Eye decided to assemble a fleet and sail to Thras in search of those ancestors who had departed Alten Corimont with the All Flags Navy. Instead, she fell victim to the same whirlpool that the Coral Tower had created (probably the Maelstrom of Bal in the [Abecean Sea](Lore_Abecean_Sea.md)). Although the rest of her crew fell victim to the horrors of Coldharbour, One-Eye survived and managed to uncover the story of the Lost Fleet and recover the Crown of Bones with the help of the [Vestige](Lore_The_Vestige.md). It is unknown if One-Eye claimed the Crown for herself or returned to Alten Corimont.<sup>[[2]](#cite_note-ESO-2)</sup>
+
+By the time of the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), Alten Corimont had grown to become a small town. It was ruled by Lord Tibius, and it had a rivalry with Rockpoint.<sup>[[3]](#cite_note-3)</sup> It was neighbored by several settlements, including Chasecreek in the northeast, Riverwalk in the east, Rockpoint in the southeast, and [Tenmar Wall](https://en.uesp.net/wiki/Lore:Tenmar_Wall) in the west.<sup>[[4]](#cite_note-Map Arena-4)</sup>
+
+## References
+1. [^](#cite_ref-JTE_1-0) [*Journal of Tsona-Ei*](Lore_Journal_of_Tsona-Ei.md) — [Tsona-Ei](Lore_Books_by_Author.md#Tsona-Ei)
+2. ^ <sup>***[a](#cite_ref-ESO_2-0)***</sup><sup>***[b](#cite_ref-ESO_2-1)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [Alten Corimont](https://en.uesp.net/wiki/Arena:Alten_Corimont) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+4. [^](#cite_ref-Map Arena_4-0) [Map of Black Marsh – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Black_Marsh_towns.png)

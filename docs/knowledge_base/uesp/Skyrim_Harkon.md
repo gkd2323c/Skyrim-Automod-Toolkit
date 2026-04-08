@@ -1,0 +1,366 @@
+# Lord Harkon
+
+[![](https://images.uesp.net/thumb/f/f4/SR-npc-Lord_Harkon.jpg/200px-SR-npc-Lord_Harkon.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon.jpg) Lord Harkon | Lord Harkon <br> (Ref ID: [xx](Skyrim_Form_ID.md) 003BA8) <br> ([lore page](Lore_Lord_Harkon.md)) | | | |
+| --- | --- | --- | --- |
+| Added by | [Dawnguard](Skyrim_Dawnguard.md) | | |
+| Location | [Volkihar Keep](Skyrim_Volkihar_Keep.md) | | |
+| Race | [Nord](Skyrim_Nord.md) | Gender | Male |
+| Level | PC×1.2 (range=10-60) | Class | [Vampire](Skyrim_Vampire_(class).md) |
+| [Ref ID](Skyrim_NPCs.md#Console_IDs) | [xx](Skyrim_Form_ID.md) 003BA8 | [Base ID](Skyrim_NPCs.md#Console_IDs) | [xx](Skyrim_Form_ID.md) 003BA7 |
+| Other Information | | | |
+| [Health](Skyrim_Health.md) | 250+ (PC-0.8)×10.8 | | |
+| [Magicka](Skyrim_Magicka.md) | 150+(PC-0.8)×4.8 | | |
+| [Stamina](Skyrim_Stamina.md) | 50+ (PC-0.8)×2.4 | | |
+| Primary [Skills](Skyrim_Skills.md) | **[Sneak](Skyrim_Sneak.md)**, [One-handed](Skyrim_One-handed.md), [Light Armor](Skyrim_Light_Armor.md), [Conjuration](Skyrim_Conjuration.md) | | |
+| Perks | [Fighting Stance](Skyrim_Fighting_Stance.md), [Hack and Slash](Skyrim_Hack_and_Slash.md) (1/3), [Bladesman](Skyrim_Bladesman.md) (1/3), [Custom Fit](Skyrim_Custom_Fit.md) | | |
+| [Morality](Skyrim_Morality.md) | No Crime | [Aggression](Skyrim_Aggression.md) | Aggressive |
+| [Essential](Skyrim_Essential_NPCs.md) | Yes, until stage 60 of [Kindred Judgement](Skyrim_Kindred_Judgement.md) | | |
+| Voice Type | [Unique](https://en.uesp.net/wiki/Category:Skyrim-Voice-Unique) | | |
+| [Faction(s)](Skyrim_Factions.md) | [DLC1Vampire Faction](https://en.uesp.net/wiki/Skyrim:DLC1Vampire Faction); [DLC1Vampire Crime Faction](https://en.uesp.net/wiki/Skyrim:DLC1Vampire Crime Faction) | | |
+
+| Lord Harkon (Combat) (Ref ID: [xx](Skyrim_Form_ID.md) 00EC8B, [xx](Skyrim_Form_ID.md) 00EC1B) | | | |
+| --- | --- | --- | --- |
+| Added by | [Dawnguard](Skyrim_Dawnguard.md) | | |
+| Location | [Volkihar Cathedral](https://en.uesp.net/wiki/Skyrim:Volkihar_Cathedral) | | |
+| Species | Vampire Lord | [Soul](Skyrim_Souls.md) | Leveled |
+| Level | PC×1.4 (range=10-60) | Type | [Vampire Lord](Skyrim_Vampire_Lord.md) |
+| [Ref ID](Skyrim_NPCs.md#Console_IDs) | [xx](Skyrim_Form_ID.md) 00EC8B <br> [xx](Skyrim_Form_ID.md) 00EC1B | [Base ID](Skyrim_NPCs.md#Console_IDs) | [xx](Skyrim_Form_ID.md) 00EC8A <br> [xx](Skyrim_Form_ID.md) 00EC1C |
+| Attacks | | | |
+| - **Attack** - 10 pts Melee, [Unarmed](Skyrim_Unarmed_Combat.md) <br> - **Power Attack** - 15 pts Melee, [Unarmed](Skyrim_Unarmed_Combat.md) <br> - **Vampiric Drain** - [Absorb Health](Skyrim_Absorb_Health.md), 5 pts <br> - [Absorb Magicka](Skyrim_Absorb_Magicka.md), 5 pts <br> - [Absorb Stamina](Skyrim_Absorb_Stamina.md), 5 pts <br> - [Damage Health](Skyrim_Damage_Health.md), 15 pts <br> - [Mist Form](https://en.uesp.net/wiki/Skyrim:Mist_Form) <br> - [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle) | | | |
+| Abilities | | | |
+| - [Resist Poison](Skyrim_Resist_Poison.md), 100 pts <br> - [Resist Disease](Skyrim_Resist_Disease.md), 100 pts <br> - [Resist Frost](Skyrim_Resist_Frost.md), 50 pts <br> - [Weakness to Fire](Skyrim_Weakness_to_Fire.md), 50 pts <br> - [Weakness to Sunlight](https://en.uesp.net/wiki/Skyrim:Weakness_to_Sunlight) <br> - Immune to [Aetherial Shield](Skyrim_Aetherial_Shield.md) Effect <br> - Immune to [Wabbajack](Skyrim_Wabbajack.md) Transmogrify <br> - Immune to [Paralysis](Skyrim_Paralysis.md) | | | |
+| Other Information | | | |
+| [Health](Skyrim_Health.md) | 500-1031 (PC-0.7)×12.6 | [Magicka](Skyrim_Magicka.md) | 300-536 (PC-0.7)×5.6 |
+| [Stamina](Skyrim_Stamina.md) | 100-218 (PC-0.7)×2.8 | | |
+| Primary Skills | **[Sneak](Skyrim_Sneak.md)**, [One-handed](Skyrim_One-handed.md), [Light Armor](Skyrim_Light_Armor.md), [Conjuration](Skyrim_Conjuration.md) | | |
+| Perks | Harkon Turning Immunity, [Fighting Stance](Skyrim_Fighting_Stance.md), [Hack and Slash](Skyrim_Hack_and_Slash.md) (1/3), [Bladesman](Skyrim_Bladesman.md) (1/3), [Custom Fit](Skyrim_Custom_Fit.md) | | |
+| Drops | | | |
+| - [Vampire Dust](https://en.uesp.net/wiki/Skyrim:Vampire_Dust) (1 × 100%) <br> - Leveled [Potion](Skyrim_Potions.md) (1 × 15%) <br> - Leveled Unenchanted [Jewelry](Skyrim_Jewelry.md) (1 × 100%) <br> - Leveled [Enchanted Jewelry](Skyrim_Generic_Magic_Apparel.md) (1 × 100%) <br> - [Black Soul Gem](Skyrim_Black_Soul_Gem.md) (1 × 100%) <br> - [Potion of Blood](Skyrim_Potion_of_Blood.md) (1 × 100%) <br> - [Harkon's Sword](Skyrim_Harkon%27s_Sword.md) (1 × 100%) <br> - [Vampire Boots](Skyrim_Vampire_Boots.md) (1 × 100%) <br> - [Vampire Royal Armor](Skyrim_Vampire_Royal_Armor.md) (1 × 100%) <br> - [Necklace of Magic Suppression](Skyrim_Generic_Magic_Apparel.md#Resist_Magic) (1 × 100%) <br> - [Ring of Eminent Destruction](Skyrim_Generic_Magic_Apparel.md#Fortify_Destruction) (1 × 100%) | | | |
+
+**Lord Harkon** is an ancient [Nordic](Skyrim_Nord.md) [pure-blood vampire](Skyrim_Vampire_Lord.md) and progenitor of the [Volkihar](Skyrim_Volkihar_Vampire_Clan.md) bloodline in [Skyrim](Lore_Skyrim.md). He lives in [Volkihar Keep](Skyrim_Volkihar_Keep.md) off the coast of [Haafingar](Skyrim_Haafingar.md) with the rest of [his brood](Skyrim_Volkihar_Vampire_Clan.md).
+
+He seeks to block out the sun by fulfilling an [ancient prophecy](Lore_Tyranny_of_the_Sun.md) recorded within the [Elder Scrolls](Skyrim_Elder_Scroll.md), one of which is held by his daughter, [Serana](Skyrim_Serana.md). The other is in the possession of his estranged wife, [Valerica](https://en.uesp.net/wiki/Skyrim:Valerica). Depending on your choices in Dawnguard's [main questline](Skyrim_Dawnguard_Quests.md#Main_Quests), Harkon serves as either the primary antagonist or your master. The only time you ever fight him is when he is in his [Vampire Lord](Skyrim_Vampire_Lord.md) form, which has a unique appearance when compared to the Vampire Lord form you might take.
+
+A resolute elitist, Harkon views almost everyone as inferior beings. Even fellow vampires, who gained their [vampirism](Lore_Vampire.md) through [disease](Lore_Sanguinare_Vampiris.md), are looked down upon as half-breeds and not true vampires. Unsurprisingly, Harkon holds a deep abhorrence for [lycanthropes](Lore_Lycanthropy.md), considering the condition to be filthy. He harbors significant resentment towards his estranged wife, Valerica, and wishes to enact revenge upon her for her betrayal. Harkon holds little regard for his own family and sees them only as a means to achieve his ultimate goal.
+
+Harkon wears a set of [vampire royal armor](Skyrim_Vampire_Royal_Armor.md) with a pair of [vampire boots](Skyrim_Vampire_Boots.md). He is equipped with a [necklace of magic suppression](https://en.uesp.net/wiki/Skyrim:Necklace_of_Magic_Suppression), a [ring of eminent destruction](https://en.uesp.net/wiki/Skyrim:Ring_of_Eminent_Destruction), and carries his own [unique sword](Skyrim_Harkon%27s_Sword.md).
+
+## Background
+[![](https://images.uesp.net/thumb/1/12/SR-npc-Lord_Harkon_10.jpg/200px-SR-npc-Lord_Harkon_10.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_10.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_10.jpg) Lord Harkon in his Vampire Lord form Before becoming a [vampire](Skyrim_Vampire.md), Harkon ruled as a mighty king and his domain was said to be vast and powerful. As the years passed and death approached, Harkon began to fear his own mortality. To combat the inevitable, he made a pact with [Molag Bal](Lore_Molag_Bal.md) and sacrificed a thousand innocents in his name. In return, the Daedric Prince granted him immortality by turning him and his family into pure-blooded vampires, giving birth to the [Volkihar](Lore_Volkihar.md) bloodline. It was at this point Harkon and Valerica's marriage began to break down, as they both became drunk with their newfound powers.
+
+As a vampire, his greatest enemy became the sun and for centuries he searched for an answer to this problem. Eventually, he uncovered an ancient prophecy written by a [Snow Elf](Lore_Snow_Elf.md) called the "[Tyranny of the Sun](Lore_Tyranny_of_the_Sun.md)". Harkon learned that if it were fulfilled, it would blot out the sun and plunge the world in eternal darkness thus allowing his kin to flourish. Fancying himself as vampiric royalty, he found such a concept seductive and fiercely sought to fulfill the prophecy.
+
+To enact the prophecy he required the ancient artifact called [Auriel's Bow](Skyrim_Auriel%27s_Bow.md) and the blood of a [Daughter of Coldharbour](Lore_Daughters_of_Coldharbour.md), namely his own daughter, Serana. While he was never close with Serana, his relationship with her deteriorated as he became more and more obsessed with fulfilling the prophecy. Ultimately, it reached the point that he was even willing to sacrifice her to achieve his goal. His immortality gave him the revelation that such bonds are fleeting, momentary and never endure. His mantra became "Power takes precedence" and he would not allow anything to stand in his path for domination.
+
+His wife Valerica saw the change in Harkon's behavior and disagreed with his goal. She believed that if eternal night fell, it would bring too much attention upon vampires and ultimately would lead to their extinction. As Harkon became obsessed with power, Valerica became obsessed with seeing him fail. In an attempt to stop him fulfilling the prophecy, Valerica fled Castle Volkihar with two Elder Scrolls that contained parts of the prophecy. She sealed Serana and one of the scrolls in [Dimhollow Crypt](Skyrim_Dimhollow_Crypt.md) for her protection and escaped to the [Soul Cairn](Skyrim_Soul_Cairn.md) with the other. Harkon, enraged by her betrayal, commanded every vampire in his court to look for them. Unfortunately, none of the vampires were able to find them, and after centuries of searching, Harkon eventually lost hope. However, he still had strong memories of Valerica's betrayal, and would make her answer dearly for it if he ever saw her again.
+
+## Related Quests
+- **[Bloodline](Skyrim_Bloodline.md)**: Choose your side!
+- **[Prophet](Skyrim_Prophet_(Vampire).md)**: The time of prophecy has arrived! Locate [a Moth Priest](Skyrim_Dexion_Evicus.md) for the [vampires](Skyrim_Volkihar_Vampire_Clan.md).
+- **[Kindred Judgment](Skyrim_Kindred_Judgment.md)**: Confront Lord Harkon.
+
+| ## Combat <br> Harkon can only be fought in battle once he has assumed the mantle of a Vampire Lord. As battle begins he immediately summons [skeletons](Skyrim_Skeleton.md) and [gargoyles](Skyrim_Gargoyle.md) to aid him, and will continue to do so throughout the battle. His main form of attack is his [Vampiric Drain](Skyrim_Vampiric_Drain.md) spell which absorb five points of health, magicka, and stamina per second from the target, though once or twice he may descend to the ground and fight with his claws in melee. For defense, he uses his [Mist Form](https://en.uesp.net/wiki/Skyrim:Mist_Form) power and can turn [invisible](Skyrim_Invisibility_(effect).md) for 20 seconds to gain a respite. He heals himself significantly by teleporting over the blood altar and drawing from its power. <br> <br> His [ring](https://en.uesp.net/wiki/Skyrim:Ring_of_Eminent_Destruction) grants him a 20% cost reduction to casting his Vampiric Drain spell, while his [necklace](https://en.uesp.net/wiki/Skyrim:Necklace_of_Magic_Suppression) provides him with a 17% [resistance to magic](Skyrim_Resist_Magic.md). His [armor](Skyrim_Vampire_Royal_Armor.md), while not being visible on his body, grants him 150% increased [magicka regeneration](Skyrim_Regenerate_Magicka.md) rate. <br> <br> As a vampire, he benefits from a 50% [resistance to frost](Skyrim_Resist_Frost.md), but at the cost of being 50% [weaker to fire](Skyrim_Weakness_to_Fire.md). He also suffers from a [weakness to sunlight](https://en.uesp.net/wiki/Skyrim:Weakness_to_Sunlight), but as he never leaves the castle, this is not an issue for him. In addition, he is immune to all forms of [undead turning](Skyrim_Turn_Undead_(effect).md), the [fear](Skyrim_Fear_(effect).md) effect produced by the [Aetherial Shield](Skyrim_Aetherial_Shield.md) and all of the [Wabbajack's](Skyrim_Wabbajack.md) effects. | ## Spells <br> Harkon knows the following spells: <br> <br> \| \\| [Destruction](Skyrim_Destruction.md) \\| <br> \\| --- \\| <br> \\| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. \\| <br> \\| [Conjuration](Skyrim_Conjuration.md) \\| <br> \\| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. \\| <br> \\| [Illusion](Skyrim_Illusion.md) \\| <br> \\| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. \\| \| [Destruction](Skyrim_Destruction.md) \| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. \| [Conjuration](Skyrim_Conjuration.md) \| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. \| [Illusion](Skyrim_Illusion.md) \| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. \| \| <br> \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| <br> \| [Destruction](Skyrim_Destruction.md) \| \| \| \| \| \| \| \| <br> \| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. \| \| \| \| \| \| \| \| <br> \| [Conjuration](Skyrim_Conjuration.md) \| \| \| \| \| \| \| \| <br> \| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. \| \| \| \| \| \| \| \| <br> \| [Illusion](Skyrim_Illusion.md) \| \| \| \| \| \| \| \| <br> \| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. \| \| \| \| \| \| \| \| | \| [Destruction](Skyrim_Destruction.md) \| <br> \| --- \| <br> \| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. \| <br> \| [Conjuration](Skyrim_Conjuration.md) \| <br> \| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. \| <br> \| [Illusion](Skyrim_Illusion.md) \| <br> \| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. \| | [Destruction](Skyrim_Destruction.md) | [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. | [Conjuration](Skyrim_Conjuration.md) | [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. | [Illusion](Skyrim_Illusion.md) | [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| \| [Destruction](Skyrim_Destruction.md) \| <br> \| --- \| <br> \| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. \| <br> \| [Conjuration](Skyrim_Conjuration.md) \| <br> \| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. \| <br> \| [Illusion](Skyrim_Illusion.md) \| <br> \| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. \| | [Destruction](Skyrim_Destruction.md) | [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. | [Conjuration](Skyrim_Conjuration.md) | [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. | [Illusion](Skyrim_Illusion.md) | [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. | | | |
+| [Destruction](Skyrim_Destruction.md) | | | | | | | | | |
+| [Vampiric Drain](Skyrim_Vampiric_Drain.md): Absorb 5 points of health, magicka, and stamina per second from the target. | | | | | | | | | |
+| [Conjuration](Skyrim_Conjuration.md) | | | | | | | | | |
+| [Summon Gargoyle](https://en.uesp.net/wiki/Skyrim:Summon_Gargoyle): Summons a Gargoyle for 60 seconds. | | | | | | | | | |
+| [Illusion](Skyrim_Illusion.md) | | | | | | | | | |
+| [Vampiric Invisibility](Skyrim_Invisibility_(spell).md): Invisibility for 20 secs. | | | | | | | | | |
+
+## Quest-Related Events
+
+### [Bloodline](Skyrim_Bloodline.md)
+<center>| - <center>***"I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again."***</center> |
+| --- |
+
+</center> Harkon is first met at the conclusion of the Bloodline quest. Upon arriving at [Volkihar Keep](Skyrim_Volkihar_Keep.md) with Serana, Harkon welcomes his daughter home and they partake in brief conversation:
+
+| \| **Harkon:** \| *"My long-lost daughter returns at last. I trust you have my Elder Scroll?"* \| <br> \| --- \| --- \| <br> \| **Serana:** \| *"After all these years, that's the first thing you ask me? Yes, I have the scroll."* \| <br> \| **Harkon:** \| *"Of course I'm delighted to see you, my daughter. Must I really say the words aloud? Ah, if only your traitor mother were here, I would let her watch this reunion before putting her head on a spike. Now tell me, who is this stranger you have brought into our hall?"* \| <br> \| **Serana:** \| *"This is my savior, the one who freed me."* \| <br> \| **Harkon:** \| *"For my daughter's safe return, you have my gratitude. Tell me, what is your name?"* \| | **Harkon:** | *"My long-lost daughter returns at last. I trust you have my Elder Scroll?"* | **Serana:** | *"After all these years, that's the first thing you ask me? Yes, I have the scroll."* | **Harkon:** | *"Of course I'm delighted to see you, my daughter. Must I really say the words aloud? Ah, if only your traitor mother were here, I would let her watch this reunion before putting her head on a spike. Now tell me, who is this stranger you have brought into our hall?"* | **Serana:** | *"This is my savior, the one who freed me."* | **Harkon:** | *"For my daughter's safe return, you have my gratitude. Tell me, what is your name?"* | [![](https://images.uesp.net/thumb/5/51/SR-npc-Lord_Harkon_02.jpg/200px-SR-npc-Lord_Harkon_02.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_02.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_02.jpg) *"My long-lost daughter returns at last. I trust you have my Elder Scroll?"* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Harkon:** | *"My long-lost daughter returns at last. I trust you have my Elder Scroll?"* | | | | | | | | | | |
+| **Serana:** | *"After all these years, that's the first thing you ask me? Yes, I have the scroll."* | | | | | | | | | | |
+| **Harkon:** | *"Of course I'm delighted to see you, my daughter. Must I really say the words aloud? Ah, if only your traitor mother were here, I would let her watch this reunion before putting her head on a spike. Now tell me, who is this stranger you have brought into our hall?"* | | | | | | | | | | |
+| **Serana:** | *"This is my savior, the one who freed me."* | | | | | | | | | | |
+| **Harkon:** | *"For my daughter's safe return, you have my gratitude. Tell me, what is your name?"* | | | | | | | | | | |
+
+At this point you can either give him your name or ask him to reveal his first. Either choice leads to the same follow up:
+
+- *"I am Harkon, lord of this court. By now, my daughter will have told you what we are."*
+
+Three choices are presented:
+
+- **You're vampires.**
+- *"Not just vampires. We are among the oldest and most powerful vampires in Skyrim."*
+- **You're a reclusive cannibal cult.**
+- *"Not quite, though I can see how an outsider might arrive at that conclusion. No, we are vampires, among the oldest and most powerful in Skyrim."*
+- **I don't really care what you are.**
+- *"Perhaps you should. I count some of the oldest and most powerful vampires in Skyrim among the members of my court."*
+
+[![](https://images.uesp.net/thumb/e/ea/SR-npc-Lord_Harkon_07.jpg/200px-SR-npc-Lord_Harkon_07.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_07.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_07.jpg) *"I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again."* He will expand on either of the above by mentioning:
+
+- *"For centuries we lived here, far from the cares of the world. All that ended when my wife betrayed me and stole away that which I valued most."*
+
+Should you ignore him and walk away mid conversation, he becomes irritated and remarks: *"You dare walk away from me? In my own hall, before my own court, you dare insult me?"* or *"We have not finished speaking yet. Come back at once."*
+
+The next set of questions relate to a potential reward, which results in Lord Harkon offering to bestow the power of a [Vampire Lord](Skyrim_Vampire_Lord.md) unto you:
+
+- **What happens now?**
+- *"You have done me a great service, and now you must be rewarded. There is but one gift I can give that is equal in value to the Elder Scroll and my daughter. I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again."*
+
+- **Do I get a reward for finding your daughter?**
+- *"I was about to suggest that very thing. Yes, you most certainly deserve a reward. There is but one gift I can give that is equal in value to the Elder Scroll and my daughter. I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again."*
+
+The last set of questions are dependent upon if you are already a [Vampire](Skyrim_Vampirism.md), [Werewolf](Skyrim_Lycanthropy.md) or neither. Upon choosing the last option, Harkon demonstrates his immense power by transforming into a Vampire Lord himself:
+
+| Your Dialogue | Harkon's Reply | Condition |
+| --- | --- | --- |
+| **I'm already a vampire. What more can you offer me?** | *"You contracted a disease, perhaps, but you are no true vampire. Accept my gift and I promise that you will learn the difference. Refuse me, and I will banish you from this castle. I will spare your life this once, but after that, you are prey."* | You are a [Vampire](Skyrim_Vampirism.md) |
+| **I'm a werewolf. What will happen if I accept your gift?** | *"Yes, I can smell it on you. The power of my blood will purge that filth and make you whole again."* | You are a [Werewolf](Skyrim_Lycanthropy.md) |
+| **And if I refuse your gift?** | *"Then you will be prey, like all mortals. I will spare your life this once, but you will be banished from this hall. Perhaps you still need convincing? Behold the power!"* Lord Harkon proceeds to transform into a Vampire Lord. <br> <br> *"This is the power that I offer! Now, make your choice!"* | Default choice |
+
+As Harkon stands in front of you in his Vampire Lord form, you are forced to either refuse or accept his offer:
+
+| *"I will accept your gift and become a vampire.*" | *"I don't want to become a vampire. I refuse."* |
+| --- | --- |
+| By accepting Harkon's offer, he urges you to stand still: *"Be still!"* <br> <br> He lunges forward and bites your neck, causing your vision to fade out. | In refusing his offer, Harkon replies: *"So be it! You are prey, like all mortals. I banish you!"* <br> <br> He then casts a spell upon you, causing your vision to fade out. This results in banishment from the castle, and you are transported to the rocky coast just outside the castle with no other option but to report back to [Isran](Skyrim_Isran.md). |
+
+If you exit the conversation before choosing, then speak to him again, he impatiently awaits your answer:
+
+- *"Have you decided? I am not a patient man."*
+
+#### Power of the Blood
+[![](https://images.uesp.net/thumb/b/b3/SR-npc-Lord_Harkon_03.jpg/200px-SR-npc-Lord_Harkon_03.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_03.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_03.jpg) *"The true power of the ancient blood is found in the form of the Vampire Lord. Assume the mantle of the Vampire Lord, and we will continue."* If you accept Harkon's offer, you awaken in the castle's [cathedral](Skyrim_Volkihar_Keep.md#Zone_2:_Volkihar_Cathedral) where Harkon stands before an altar and remarks:
+
+- *"Awake at last, good. The power is growing within you, and now you must learn to wield it."*
+
+At this point, three replies are presented. The first option leads into a short training session with Harkon, who teaches you how to use the power of the Vampire Lord:
+
+- **I'm ready to learn about my new powers.**
+- *"With my guidance you will become a deadly instrument, striking terror in the hearts of mortals wherever you tread. Now, listen to my words and do as I instruct. The true power of the ancient blood is found in the form of the Vampire Lord. Assume the mantle of the Vampire Lord, and we will continue."*
+
+Once you transform into Vampire Lord, Harkon follows with:
+
+- *"In this form, you can drain the life from your foes with your right hand. With your left hand, you can wield the power of blood magic to raise the dead. You can also call upon the powers of night to turn into a swarm of bats and reappear some distance away. Should you run out of magicka, you can descend to the ground and fight as the beasts do. Do so now and we will continue."*
+
+As you land on the ground, he goes on:
+
+- *"Good. You are weaker while on the ground, because you cannot access the blood magic. However, the night powers are still yours to command, and your claws are still formidable weapons. Over time, your powers will grow in strength and you will find new ways to use your gifts."*
+
+Next you are prompted to view the [perk tree](Skyrim_Vampire_Lord.md#Skill_Perks). After exiting, Harkon continues:
+
+- *"There is much to learn, but if you master the powers of the Vampire Lord, few enemies will be able to stand against you."*
+
+Finally, once you select the list of powers from the favorites menu, Harkon ends with:
+
+- *"There is one last thing you must know. Slaying mortal men with your life drain grants you new night powers and blood magic. I keep a stable of thralls in the castle should you need to feed like the baser vampires to stave off the sun. That is all I have to teach you. If you wish to be reminded of these lessons, you need only ask. I have a task that will test your new powers, but first, do you have any questions?"*
+
+At this stage, three more dialogue options are presented that allow you to gain additional information about your newly found powers. Choose the first option end the conversation.
+
+- **I'm ready to carry out this task.**
+- *"Good. Go and speak to Garan Marethi. Tell him it is time. He will understand."*
+- **Tell me again about being a Vampire Lord.**
+- *"When you first transform into a Vampire Lord, you will hover in the air. While you do, you will command the powers of Blood and Night. Descend to the ground, and you can attack with your claws and feed upon your prey to regain your strength. With experience, your powers will grow and you will discover new ways to use them."*
+- **What must I know about being a vampire?**
+- *"With each passing day that you do not feed, that weakness will become more deadly, but your powers will also become stronger. Feed upon those who are sleeping, and your vulnerability to sunlight will diminish along with your powers."*
+
+The second and third of the original three choices offer additional insight into Harkon's background and the power he has granted you:
+
+- **What happened? How did I get here?**
+- *"My blood is potent. At first, the body is overwhelmed by it. After my bite, you collapsed and fell into a slumber. Now your flesh has acclimated to the new blood that courses through your veins. I assure you, no harm was done. In truth, your strength surprises me. Not all mortals can withstand my embrace."*
+
+- **What is this place?**
+- *"A shrine to Molag Bal, the mighty Daedra Prince who is father to all our kind. Our power is a blessing from him. It is he who first bestowed the gift of the ancient blood upon me."*
+- **You made a pact with Molag Bal?**
+- *"In an age long forgotten to history, I ruled as a mighty king. My domain was vast, my riches endless and my power infinite. And yet, as my mortal life neared an end, I faced a seemingly invincible enemy -- my own mortality. I pledged myself to Molag Bal, and in his name I sacrificed a thousand innocents. In reward, he gave everlasting life to myself, my wife and my daughter. And so I have defeated mortality itself."*
+
+### [Prophet](Skyrim_Prophet_(Vampire).md)
+<center>| - <center>***"Go forth, and search the land for rumors of a Moth Priest within our borders. Look to the cities. Speak to innkeepers, carriage drivers, anyone who would meet a traveler. Go now, and carry out this task. This is my command!"***</center> |
+| --- |
+
+</center> [![](https://images.uesp.net/thumb/5/54/SR-npc-Lord_Harkon_04.jpg/200px-SR-npc-Lord_Harkon_04.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_04.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_04.jpg) *"The prophecy tells of a time in which vampires will gain power over the sun, and will no longer fear its tyranny."* Once the [Bloodstone Chalice](Skyrim_Bloodstone_Chalice.md) has been [retrieved](Skyrim_The_Bloodstone_Chalice.md) for the Volkihar, [Garan Marethi](Skyrim_Garan_Marethi.md) tells you to go speak with Lord Harkon. As you enter his chamber, he greets you while he sits by the fireplace. He then reveals his true motives and his wish to fulfill an ancient prophecy, hidden in the Elder Scrolls, that would end the tyranny of the sun over vampires.
+
+- *"Ah, you are here. Good."*
+- **You wanted to speak to me?**
+- *"Yes, I did. When I told you that I was grateful for my daughter's safe return, I told the truth. But I did not tell you everything."*
+
+This presents two potential replies which both end in the same way:
+
+- **I suspected as much.**
+- *"Good. Strong instincts and a cunning mind will serve you as well as blade, spell or claw."*
+- **When do you plan to start trusting me?**
+- *"Do not presume to tell me who I can and cannot trust. I possess the wisdom of a dozen lifetimes, and I will make my own judgements. Now be silent, and hear what I have to say."*
+
+- *"As you know, vampires are powerful, but we have limits. Our great enemy is the sun, and until recently it's an enemy we've had no way to fight. For centuries I searched for an answer to this problem. I found an old prophecy written by a Moth Priest, those scholars who read the Elder Scrolls. The prophecy tells of a time in which vampires will gain power over the sun, and will no longer fear its tyranny. I believe the secret to unraveling that prophecy is written in Serana's Elder Scroll. I have ordered the court to assemble. I have a new task for us all to carry out, and that includes you. Come now, and hear my proclamation."*
+
+[![](https://images.uesp.net/thumb/0/0d/SR-npc-Lord_Harkon_06.jpg/200px-SR-npc-Lord_Harkon_06.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_06.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_06.jpg) *"Scions of the night! Hear my words! The prophesied time is at last upon us."* [![](https://images.uesp.net/thumb/9/9b/SR-npc-Lord_Harkon_05.jpg/200px-SR-npc-Lord_Harkon_05.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_05.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_05.jpg) *"Soon we will claim dominion over the sun itself, and forge a new realm of eternal darkness."* He then stands up and makes his way to the balcony overlooking the dining hall and orders the members of his court to gather in the as he makes a proclamation:
+
+- *"Scions of the night! Hear my words! The prophesied time is at last upon us. Soon we will claim dominion over the sun itself, and forge a new realm of eternal darkness. Now that I have reclaimed one of my Elder Scrolls, we must find a moth priest to read it. I have spread false rumors about the discovery of an Elder Scroll in Skyrim to lure a Moth Priest here. Now it is time to see if those efforts have borne fruit. Go forth, and search the land for rumors of a Moth Priest within our borders. Look to the cities. Speak to innkeepers, carriage drivers, anyone who would meet a traveler. Go now, and carry out this task. This is my command!"*
+
+After the speech, he can be asked further about the topic:
+
+- *"Go now, and prove that my faith in you was not misplaced."*
+
+- *"Find that Moth Priest! I will suffer no delays!"*
+
+- *"If the Moth Priest has guards, show them no mercy."*
+
+- *"What are you waiting for? Get out there and find a moth priest!"*
+- **How will vampires gain power over the sun?**
+- *"I don't know yet. The Moth Priest died before finishing the transcription, but he did name the Elder Scrolls that contained the prophecy. The scroll you found with Serana is one of those scrolls of prophecy. Now that it is back within my grasp, we can read the scroll and learn more."*
+
+Once you have completed your mission and forced Dexion to become your thrall, return to Harkon and inform him of this:
+
+- *"Well done! Somehow I knew it would be you and Serana who found our moth priest."*
+- **I have made the Moth Priest my thrall.**
+- *"Yes, I see that. I trust his capture was not too difficult a task?"*
+
+This presents three responses to give him:
+
+- **The Dawnguard tried to stop me, but they posed no threat.**
+- *"I wish I could have been there to hear the sounds of their screams."*
+- **The Dawnguard were there. They fought well, but not well enough.**
+- *"They are determined and well-armed, but foolish if they think they can defy us. We will deal with them in time."*
+- **The Dawnguard were protecting him, and they nearly killed me.**
+- *"We both know that a band of fools with crossbows is no match for a scion of the ancient blood. I admit, I do not entirely understand your sense of humor."*
+
+Whatever answer you give, he ends with:
+
+- *"Well, your thrall awaits and we have given him the Elder Scroll. Command him to read it, and let us hear the words of prophecy together."*
+
+After ordering Dexion to read the scroll, it is revealed two additional scrolls are required to fully unravel the prophecy. Harkon, frustrated by the results, remarks:
+
+- *"That was... not as useful as I would have liked. Even so, you did well."*
+- **Do you know where these other scrolls are?**
+- *"My traitor wife stole one of them away and then disappeared. As for the other, the last that I heard, it was lost in the bowels of a Dwemer ruin. It seems our work is not yet done. But I have waited this long, and we are so very close now. I can wait a bit longer."*
+
+From this point onward in the questline, he will cease to be an ally, and the next time he is encountered, he will have turned his back on you.
+
+### [Kindred Judgment](Skyrim_Kindred_Judgment.md)
+<center>| - <center>***"It appears I have you to thank for turning my daughter against me."***</center> |
+| --- |
+
+</center> Once [Auriel's Bow](Skyrim_Auriel%27s_Bow.md) has been [recovered](Skyrim_Touching_the_Sky.md) from the [Forgotten Vale](Skyrim_Forgotten_Vale.md), Serana explains that her father must be confronted. Upon entering the cathedral in Volkihar Keep, Harkon will be waiting in his Vampire Lord form and will initiate conversation with Serana:
+
+[![](https://images.uesp.net/thumb/c/c5/SR-npc-Lord_Harkon_08.jpg/200px-SR-npc-Lord_Harkon_08.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_08.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_08.jpg) *"So, I see this dragon has fangs. Your voice drips with the venom of your mother's influence. How alike you've become."* | \| **Harkon:** \| *"So, you've returned. Is your... pet keeping you entertained?"* \| <br> \| --- \| --- \| <br> \| **Serana:** \| *"You know why we're here."* \| <br> \| **Harkon:** \| *"Of course I do. You disappoint me, Serana. You've taken everything I provided for you and thrown it all away for this... pathetic being / half-breed vampire."* \| <br> \| **Serana:** \| *"Provided for me? Are you insane? You've destroyed our family. You've killed other vampires. All over some prophecy that we barely understand. No more. I'm done with you. You will not touch him/her."* \| <br> \| **Harkon:** \| *"So, I see this dragon has fangs. Your voice drips with the venom of your mother's influence. How alike you've become."* \| <br> \| **Serana:** \| *"No...Because unlike her, I'm not afraid of you. Not anymore."* \| <br> \| **Harkon:** \| *"And you..."* \| | **Harkon:** | *"So, you've returned. Is your... pet keeping you entertained?"* | **Serana:** | *"You know why we're here."* | **Harkon:** | *"Of course I do. You disappoint me, Serana. You've taken everything I provided for you and thrown it all away for this... pathetic being / half-breed vampire."* | **Serana:** | *"Provided for me? Are you insane? You've destroyed our family. You've killed other vampires. All over some prophecy that we barely understand. No more. I'm done with you. You will not touch him/her."* | **Harkon:** | *"So, I see this dragon has fangs. Your voice drips with the venom of your mother's influence. How alike you've become."* | **Serana:** | *"No...Because unlike her, I'm not afraid of you. Not anymore."* | **Harkon:** | *"And you..."* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Harkon:** | *"So, you've returned. Is your... pet keeping you entertained?"* | | | | | | | | | | | | | |
+| **Serana:** | *"You know why we're here."* | | | | | | | | | | | | | |
+| **Harkon:** | *"Of course I do. You disappoint me, Serana. You've taken everything I provided for you and thrown it all away for this... pathetic being / half-breed vampire."* | | | | | | | | | | | | | |
+| **Serana:** | *"Provided for me? Are you insane? You've destroyed our family. You've killed other vampires. All over some prophecy that we barely understand. No more. I'm done with you. You will not touch him/her."* | | | | | | | | | | | | | |
+| **Harkon:** | *"So, I see this dragon has fangs. Your voice drips with the venom of your mother's influence. How alike you've become."* | | | | | | | | | | | | | |
+| **Serana:** | *"No...Because unlike her, I'm not afraid of you. Not anymore."* | | | | | | | | | | | | | |
+| **Harkon:** | *"And you..."* | | | | | | | | | | | | | |
+
+At this point he turns to you and continues. The following conversation will vary slightly depending upon what faction has been joined:
+
+| [Dawnguard](Skyrim_Dawnguard_(faction).md) | [Volkihar](Skyrim_Volkihar_Vampire_Clan.md) |
+| --- | --- |
+| *"It appears I have you to thank for turning my daughter against me. I knew it was only a matter of time before she'd return with hatred in her heart."* <br> <br> - **Hatred born of your neglect.** <br> - *"A small price to pay for the betterment of our kind."* <br> - **Your kind is a blight on this world.** <br> - *"Yes, yes. Always the noble vampire hunter. And what happens when you've slain me? Is Valerica next? Is Serana?"* | *"It appears I have you to thank for turning my daughter against me. I knew it was only a matter of time before your ambition outgrew your loyalty."* <br> <br> - **Loyalty? You never intended to let me live.** <br> - *"A small price to pay for the betterment of our kind."* <br> - **You're an insult to our kind.** <br> - *"Oh, come now... spare me your notions of kinship. You've simply used Serana in an attempt to take away what should rightfully be mine."* |
+| This in turn leads to three options to choose from: <br> - **I would never harm Serana. She's too important to me.** <br> - *"Then my daughter is truly lost. She died the moment she accepted a mortal into her life."* <br> - **I'm only here to kill you.** <br> - *"I see. Interesting that you can set aside your morals when it suits you."* <br> - **This is about more than killing vampires.** <br> - *"Ah, of course. The prophecy. You've come here to stop me from taking Auriel's Bow and shrouding the world in darkness."* | This in turn leads to three options to choose from: <br> - **I would never use Serana like that.** <br> - *"The vampire is eternal, and with immortality comes the revelation that these bonds never endure... it's fleeting, momentary at best."* <br> - **No, I'm here to prevent our annihilation.** <br> - *"Ah, I see you've been speaking to Valerica and she's convinced you that eternal night will plunge us into war with daytime dwellers. If only it were so. With the world in shadow, we would never tire, never weaken... more than a match for their pitiful armies."* <br> - **The bow belongs to me now.** <br> - *"Finally, a trace of honesty in our little conversation. How does it feel to hold the fate of the vampire in your grasp. Exhilarating, isn't it? "* |
+
+[![](https://images.uesp.net/thumb/5/58/SR-npc-Lord_Harkon_09.jpg/200px-SR-npc-Lord_Harkon_09.jpg)](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_09.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Lord_Harkon_09.jpg) *"I'll give you a single chance to turn over the bow to me. There will not be a second."* Finally, the last set of options is the same for both alignments and they end in having to choose between giving him the bow or refusing. All replies result in Harkon becoming hostile and attacking.
+
+- **Enough of this!**
+- *"Yes, quite. I'm growing weary of speaking to you and my traitorous daughter. I'll give you a single chance to turn over the bow to me. There will not be a second."*
+- **Never.**
+- *"Very well then, you leave me no choice!"*
+- **Very well. (Give Auriel's Bow)**
+- *"Pitiful. Simply pitiful. I expected more from the defiant fool that beguiled my daughter. No matter. Serana will sacrifice her blood for the sake of the prophecy, and I will feast upon yours in Molag Bal's honor!"*
+- **...**
+- *"Little patience for talk? Good. Let's end this!"*
+
+[![](https://images.uesp.net/thumb/0/0b/SR-quest-Kindred_Judgment_02.jpg/200px-SR-quest-Kindred_Judgment_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-Kindred_Judgment_02.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Kindred_Judgment_02.jpg) *"No... Serana... your own father...."* As battle begins, Harkon immediately summons [skeletons](Skyrim_Skeleton.md) and [gargoyles](Skyrim_Gargoyle.md) to aid him, and will continue to do so throughout the battle. He continuously moves throughout the cathedral, casting Vampiric Drain at you and will frequently turn into a swarm of bats to keep his distance.
+
+As his health depletes, Harkon turns into a swarm of bats and will materialize at the blood altar. As he hovers over the altar, he will create an impregnable shield of Blood Magic until he regains his health. Auriel's Bow will destroy the barrier and force him back into the battle. When his health is low, he will begin to frequently turn into mist. Once the killing blow is struck, he explodes into a cloud of bats and materialize by the altar one final time, where he makes a final cry to his daughter's betrayal, and then melts into a pile of red ash:
+
+- **Lord Harkon:** *"No... Serana... your own father...."*
+
+## Dialogue
+
+### Cured Vampirism
+If you become cured of vampirism while aligned with the Volkihar clan, Harkon becomes displeased but offers to grant the power of the Vampire Lord unto you once more. Since all ties with the [Dawnguard](Skyrim_Dawnguard_(faction).md) have been severed by this point, the only way to proceed with the questline is to become a Vampire Lord again:
+
+- *"You have forsaken my gift. The ancient blood no longer flows through your veins. Don't deny it! Count yourself fortunate that I'm a forgiving man. Now, be still while I give you the ancient blood once more."*
+- **I am ready to receive the ancient blood.**
+- *"Good. Do not offend me by losing it again."*
+- **I'm not ready yet. Give me more time.**
+- *"You are a guest in this castle at my pleasure. I'll permit you to stay for now, but you're of no use to me like this."*
+
+### Quest Stage Dependent
+Upon completing [The Bloodstone Chalice](Skyrim_The_Bloodstone_Chalice.md) quest, Harkon becomes less defensive about his past and agrees to share some of his background.
+
+- **There are some things I want to ask you about.**
+- *"You have earned my trust, so I will share what I can."*
+- **When you greeted Serana, it sounded like you hadn't seen her in a long time.**
+- *"Serana and her mother disappeared long ago. I commanded every vampire in the court to look for them, but after centuries of searching without success, I lost hope. In my heart, I know that it was my wife, Valerica, who took my beloved daughter away from me. If I ever see her again, she will pay most dearly for that betrayal."*
+- **I heard you mention Serana's mother. What happened to her?**
+- *"Her name was Valerica. She has been gone for so long now, I can only assume she has left this world, one way or another. I will say only that we did not part on good terms."*
+- **Why would your wife betray you?**
+- *"You test my patience with these questions. That is a personal matter, and one I will not discuss."*
+- **That's all I wanted to ask.**
+- *"Very well."*
+
+#### Greetings and Farewells
+| Greeting | Condition |
+| --- | --- |
+| *"I sense the power of the ancient blood in your veins. It has made you strong."* | During [Power of the Blood](Skyrim_Harkon.md#Power_of_the_Blood) |
+| *"I have kept my end of the bargain, now I expect you to keep yours."* | |
+| *"Do as I command, and you will reap the rewards. Defy me, and I can offer you only pain and suffering."* | |
+| Farewell | |
+| *"Can you feel the power of the ancient blood coursing through your veins?"* | |
+| *"Remember, you are no mere vampire. You are something far greater."* | |
+| *"Do not forget the price of your new power. I expect your complete obedience."* | |
+| Farewell | |
+| *"Will you be a hunter, or will you be prey?"* | After [Joining Harkon's Court](Skyrim_Bloodline.md#Choosing_Vampire_Lord) |
+| *"It was no mere chance that brought you to me. It was destiny."* | |
+| *"You are welcome here... for now."* | |
+| *"You've been given a great gift. Do not squander it."* | |
+| *"As a king is to his subjects, so you are to other vampires."* | |
+| *"Revel in your new powers, but do not forget who gave them to you."* | |
+
+#### Combat
+| Condition | Quote | |
+| --- | --- | --- |
+| [Volkihar](Skyrim_Volkihar_Vampire_Clan.md) aligned | *"Die, you traitorous dog!"* | [![SR-quest-Kindred Judgment.jpg](https://images.uesp.net/thumb/a/a5/SR-quest-Kindred_Judgment.jpg/300px-SR-quest-Kindred_Judgment.jpg)](https://en.uesp.net/wiki/File:SR-quest-Kindred_Judgment.jpg) |
+| *"How dare you disobey me!"* | | |
+| *"You'll pay for your insolence!"* | | |
+| [Dawnguard](Skyrim_Dawnguard_(faction).md) aligned | *"You can't stop the prophecy!*" | |
+| *"I'll rip the Dawnguard apart!"* | | |
+| *"I despise your presence, mortal!"* | | |
+| General combat | *"Your blood will be mine!"* | *"I should have killed you and your mother long ago!"* |
+| *"I'll drain the life from you!"* | *"I'll make you pay for this, daughter!"* | |
+| *"You've turned her against me!"* | *"You dare defy your father?!"* | |
+| *"Serana isn't yours, she's mine!"* | *"First you die, then Serana suffers!"* | |
+| Losing sight of an enemy | *"I will find you..."* | *"There's no hiding from me..."* |
+| *"I know you're here somewhere."* | *"Any moment now, I'll find you..."* | |
+| *"You know you can't win, so all you can do is hide..."* | | |
+
+## Dawnguard Trailer Dialogue
+In [The Elder Scrolls V Skyrim: Dawnguard - Official Trailer](https://en.uesp.net/wiki/General:The_Elder_Scrolls_V_Skyrim:_Dawnguard_-_Official_Trailer), Harkon says the following:
+
+- *"You have found our fortress."*
+- *"You have returned my daughter."*
+- *"But what is it you seek?"*
+- *"Is it to be one of us?"*
+- *"To make the darkness your own?"*
+- *"To feast on the souls of the living and the dead?"*
+- *"Or are you them? The Dawnguard."*
+- *"They think they can stop us, but we will find them."*
+- *"The Elder Scrolls will be mine, and the Tyranny of the Sun shall end!"*
+
+## Notes
+- Harkon is the only Vampire Lord you will ever face in combat in the game.
+- When he dies, Harkon turns into a pile of red ash, and is the only vampire in the game to disintegrate into ash when killed; all others leave physical bodies behind. As he is turning into ash, he first becomes a unique, black skeleton with wings on the back (similar to Vampire Lord wings), before that transforms into the ash pile.
+- When in Vampire Lord form during Kindred Judgement, Harkon can use both the Vampiric Drain spell of regular vampires and the Vampire Lord-specific Vampiric Drain at the same time, but cast with different hands.
+- Harkon also appeared in the [Dawnguard](https://en.uesp.net/wiki/Legends:Dawnguard) expansion for *[Legends Asia](https://en.uesp.net/wiki/Legends:Legends_Asia)* as the cards [Lord Harkon](https://en.uesp.net/wiki/Legends:Lord Harkon) and [Harkon, Vampire Lord](https://en.uesp.net/wiki/Legends:Harkon, Vampire Lord).
+- Even if you are a vampire, when you refuse his offer of becoming a Vampire Lord, the dialogue option still is "I don't want to become a vampire", even though you are one.
+- Harkon is not limited to the environment when he uses his Bats ability, unlike you might be: he can go around corners, through railings, and further than you can when using the ability. He also lacks a few abilities that you can unlock for the Vampire Lord form: Poison Talons, Detect All Creatures, Corpse Curse, Vampiric Grip, Night Cloak and Supernatural Reflexes.
+- Asking Harkon again at any point before the final confrontation about the rules of being a Vampire Lord will have him repeat himself, but there will be in-game tips displayed in the upper left corner of the screen for each of his points.
+
+## Bugs
+- Harkon may never sleep in his coffin in his room, instead wandering the castle at all hours or sitting before the fireplace. <sup>**?**</sup>
+- You may never be able to ask Harkon the additional dialogue option after his speech about finding the Moth Priest; the only options will be about his family, about being a vampire, and how to be a Vampire Lord. <sup>**?**</sup>
+- Lord Harkon never has his sword equipped due to a faulty setting on his combat style. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Dawnguard Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Dawnguard_Patch), version 2.1.3, addresses this issue. His essential instance (the one you never actually fight with) now uses a combat style that will make him equip it.

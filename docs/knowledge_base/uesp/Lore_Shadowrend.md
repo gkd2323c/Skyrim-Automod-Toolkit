@@ -1,0 +1,32 @@
+# Shadowrend
+
+[![](https://images.uesp.net/thumb/c/ca/OBR-item-Shadowrend_03.jpg/200px-OBR-item-Shadowrend_03.jpg)](https://en.uesp.net/wiki/File:OBR-item-Shadowrend_03.jpg) [](https://en.uesp.net/wiki/File:OBR-item-Shadowrend_03.jpg) Shadowrend
+(Oblivion Remastered) Shadowrend is a [Daedric](Lore_Daedra.md) [artifact](Lore_Artifacts.md) which takes the form of a shadowy two-handed [ebony](Lore_Ebony.md) [weapon](Lore_Weapons.md). It is associated with the [Grove of Reflection](https://en.uesp.net/wiki/Lore:Grove_of_Reflection) in the [Shivering Isles](Lore_Shivering_Isles.md), an underground chamber which can only be accessed by those the grove deems worthy.<sup>[[1]](#cite_note-1)</sup> The grove has the potential to "show men who they truly are"; an ancient runestone in the center of the grove has the power to [summon a shadowy doppelganger](Lore_Shadow_Magic.md) of anyone who approaches.<sup>[[2]](#cite_note-SIDyus-2)</sup> These doppelgangers have been known to wield Shadowrend in battle, and those who manage to defeat their shadow may then claim the weapon for themselves.<sup>[[3]](#cite_note-SIQuest-3)</sup><sup>[[4]](#cite_note-SRQuest-4)</sup>
+
+Shadowrend can appear as both a claymore and a battleaxe, but only one version of the weapon may be wielded. Both versions are powerful weapons in their own right and are known to bear enchantments that damage health or cause weakness to magic.<sup>[[5]](#cite_note-SIAppearance-5)</sup><sup>[[6]](#cite_note-SRAppearance-6)</sup> The claymore version is known to sometimes possess decorative serpentine imagery on the hilt.<sup>[[5]](#cite_note-SIAppearance-5)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/6/63/SR-quest-Through_A_Glass%2C_Darkly.jpg/200px-SR-quest-Through_A_Glass%2C_Darkly.jpg)](https://en.uesp.net/wiki/File:SR-quest-Through_A_Glass,_Darkly.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Through_A_Glass,_Darkly.jpg) Shadowrend in Eastmarch (Skyrim Creation Club) In [3E 433](Lore_Third_Era.md#3E_433), the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) was sent to the Grove of Reflection by [Dyus of Mytheria](Lore_Dyus.md) in order to mantle [Sheogorath](Lore_Sheogorath.md) and stop the [Greymarch](Lore_Greymarch.md). Dyus required a screaming branch from the Tree of Shades in order to craft the physical shell of the [Staff of Sheogorath](Lore_Staff_of_Sheogorath.md), but the Tree did not give up its branch willingly. A shadowy doppelganger wielding Shadowrend was summoned when the Hero entered the grove, but the Hero successfully defeated the shadow and claimed the weapon. It is unknown if the Hero recovered the claymore or the battleaxe version of Shadowrend.<sup>[[3]](#cite_note-SIQuest-3)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), a shadowy anomaly appeared in a geyser pool in [Eastmarch](Lore_Eastmarch.md), surrounding some skeletal remains. The [Last Dragonborn](Lore_Last_Dragonborn.md) was drawn to the pool by an inner voice, and approaching the anomaly caused Shadowrend to be summoned. The weapon pulled a dark shadow from within the Dragonborn, creating a hostile doppelganger. With the shadow defeated, the Dragonborn was able to claim Shadowrend and could utilize the anomaly in order to switch between the claymore and battleaxe at will.<sup>[[4]](#cite_note-SRQuest-4)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/a9/SI-item-Shadowrend.png/200px-SI-item-Shadowrend.png)](https://en.uesp.net/wiki/File:SI-item-Shadowrend.png) Shadowrend (Shivering Isles)
+- [![](https://images.uesp.net/thumb/8/87/SR-item-Shadowrend.jpg/200px-SR-item-Shadowrend.jpg)](https://en.uesp.net/wiki/File:SR-item-Shadowrend.jpg) Shadowrend claymore (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/2/23/SR-item-Shadowrend_02.jpg/200px-SR-item-Shadowrend_02.jpg)](https://en.uesp.net/wiki/File:SR-item-Shadowrend_02.jpg) Shadowrend battleaxe (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/6/6e/SR-menu-Shadowrend.jpg/200px-SR-menu-Shadowrend.jpg)](https://en.uesp.net/wiki/File:SR-menu-Shadowrend.jpg) Shadowrend (Skyrim Creation Club promotional render)
+
+## Notes
+- The [Onyx](Lore_Onyx.md) Saber is identical in appearance to Shadowrend's sword form, while the Onyx Cleaver is identical in appearance to Shadowrend's axe form. In addition, the Onyx Cleaver is made of petrified shadows - a similar theme to Shadowrend.
+- In [ESO](https://en.uesp.net/wiki/Online:Online), a [Clannfear](Lore_Clannfear.md) sharing the name Shadowrend can be encountered as a boss in the Banished Cells. It has the ability to make a shadowy clone of itself, much like Shadowrend can produce Shadows of its wielder. It is unknown how, or if, the two Shadowrends are related.
+
+## See Also
+- For game-specific information, see the [*Shivering Isles*](https://en.uesp.net/wiki/Shivering:Shadowrend) and [*Skyrim*](Skyrim_Shadowrend_(item).md)<sup>[CC](Skyrim_Shadowrend.md)</sup> articles.
+
+## References
+1. [^](#cite_ref-1) [Loading screens](https://en.uesp.net/wiki/Shivering:Loading_Screens) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+2. [^](#cite_ref-SIDyus_2-0) [Dyus](https://en.uesp.net/wiki/Shivering:Dyus)' dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+3. ^ <sup>***[a](#cite_ref-SIQuest_3-0)***</sup><sup>***[b](#cite_ref-SIQuest_3-1)***</sup> Events of [Symbols of Office](https://en.uesp.net/wiki/Shivering:Symbols_of_Office) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+4. ^ <sup>***[a](#cite_ref-SRQuest_4-0)***</sup><sup>***[b](#cite_ref-SRQuest_4-1)***</sup> Events of [Through a Glass, Darkly](https://en.uesp.net/wiki/Skyrim:Through_a_Glass,_Darkly) in *[Skyrim](Skyrim_Skyrim.md)*<sup>([CC](Skyrim_Shadowrend.md))</sup>
+5. ^ <sup>***[a](#cite_ref-SIAppearance_5-0)***</sup><sup>***[b](#cite_ref-SIAppearance_5-1)***</sup> Appearance and abilities of [Shadowrend](https://en.uesp.net/wiki/Shivering:Shadowrend) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+6. [^](#cite_ref-SRAppearance_6-0) Appearance and abilities of [Shadowrend](Skyrim_Shadowrend.md) in *[Skyrim](Skyrim_Skyrim.md)*<sup>([CC](Skyrim_Shadowrend.md))</sup>

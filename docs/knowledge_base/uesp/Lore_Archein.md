@@ -1,0 +1,33 @@
+# Archein
+
+[![](https://images.uesp.net/thumb/c/c3/LG-cardart-Archein_Elite.png/200px-LG-cardart-Archein_Elite.png)](https://en.uesp.net/wiki/File:LG-cardart-Archein_Elite.png) [](https://en.uesp.net/wiki/File:LG-cardart-Archein_Elite.png) Archein Elite The Archeins are a tribe of [Argonians](Lore_Argonian.md) that live in the province of [Black Marsh](Lore_Black_Marsh.md). They are widely hated by their fellow Argonians because they are well-known kleptocrats,<sup>[[1]](#cite_note-TAA4-1)</sup> often embezzling money and power to themselves at the expense of their race. Some of these examples include selling other Argonians into [slavery](Lore_Slavery.md) for the [Dunmer](Lore_Dunmer.md)<sup>[[2]](#cite_note-FP-2)</sup> or exploiting their land for foreign interest, such as the [Empire](Lore_Empire.md).<sup>[[3]](#cite_note-PGE3E-3)</sup> In the book, *[The Argonian Account](Lore_The_Argonian_Account.md)* written by [Waughin Jarth](Lore_Waughin_Jarth.md), they are described as pompous and assimilated.<sup>[[1]](#cite_note-TAA4-1)</sup>
+
+## History
+By the late [First Era](Lore_First_Era.md), the Archeins were an influential tribe that aided General Regulus Sardecus in his campaign during the [Blackwater War](Lore_Blackwater_War.md). Along with the Shoss-kaleel, the Archeins formed an alliance with the [Imperial Legion](Lore_Imperial_Legion.md) and the invasion force had nearly tripled. The General's decision to work with them had brought the war effort into the [Second Empire](Lore_Second_Empire.md)'s favor.<sup>[[4]](#cite_note-TBW5-4)</sup>
+
+By the mid [Second Era](Lore_Second_Era.md), the Archein tribes were employed by [House Dres](Lore_House_Dres.md) of southeast [Morrowind](Lore_Morrowind.md) and [Thorn](Lore_Thorn.md). Sometime in [2E 572](Lore_Second_Era.md#2E_572), the Argonian slave [Heita-Meen](Lore_Heita-Meen.md) escaped with her fellow kin from Thorn to the wilderness in [Thornmarsh](Lore_Thornmarsh.md) where they were re-captured by an Archein patrol. They were taken to their village where its [Hist](Lore_Hist.md) showed Heita-Meen a vision, the [Second Akaviri Invasion](Lore_Second_Akaviri_Invasion.md) to the north and the death of many Dark Elves and [Nords](Lore_Nord.md).<sup>[[5]](#cite_note-FATS-5)</sup>
+
+The Archeins eventually took her back to a now emptied Thorn, where she would be punished by her former slaver, Councilman Glathis Dres. However, in a turn of events, Heita-Meen killed the councilor and challenged the Archein Centurion for her position. Not only was she victorious, but she now controlled the Archein Guard and advanced with them to [Stormhold](Lore_Stormhold.md) where she then recruited Walks-in-Ash and the Shellbacks. With this large force of Argonians, Heita-Meen led them to victory in the Second Akaviri Invasion, which later consolidated the formation of the [Ebonheart Pact](Lore_Ebonheart_Pact.md).<sup>[[5]](#cite_note-FATS-5)</sup> As of [2E 582](Lore_Second_Era.md#2E_582), the Archeins were known to be raiders and used pumice to sharpen their claws.<sup>[[6]](#cite_note-Blackwood-6)</sup>
+
+When Black Marsh was incorporated into the [Third Empire](Lore_Third_Empire.md), the coastal regions had Imperial governors, most of whom used Archeins as their advisors. Meanwhile, Archeins were designated governors for rural Black Marsh, which still makes up most of the province.<sup>[[3]](#cite_note-PGE3E-3)</sup> Archeins sometimes lived in plantations around cities such as [Gideon](Lore_Gideon.md), worked serfs to near-death, and had no qualms with selling young children from their mothers.<sup>[[7]](#cite_note-TAA3-7)</sup> It is currently unknown how the Archeins fared in the wake of the [Oblivion Crisis](Lore_Oblivion_Crisis.md), after the province seceded from the Empire<sup>[[8]](#cite_note-TIC-8)</sup><sup>:206</sup> or when it was taken over by the [An-Xileel](Lore_An-Xileel.md).<sup>[[8]](#cite_note-TIC-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/75/LG-cardart-Archein_Guerrilla.png/131px-LG-cardart-Archein_Guerrilla.png)](https://en.uesp.net/wiki/File:LG-cardart-Archein_Guerrilla.png) Archein Guerrilla (Legends)
+- [![](https://images.uesp.net/thumb/3/37/LG-cardart-Archein_Venomtongue.png/133px-LG-cardart-Archein_Venomtongue.png)](https://en.uesp.net/wiki/File:LG-cardart-Archein_Venomtongue.png) Archein Venomtongue (Legends)
+
+## See Also
+- For game-specific information, see the *[Legends](https://en.uesp.net/wiki/Legends:Archein Guerrilla)* [](https://en.uesp.net/wiki/Legends:Core_Set) article.
+- [House Hlaalu](Lore_House_Hlaalu.md), a kleptocratic clan of Dunmer
+
+### Books
+- ***[Freedom's Price](Lore_Freedom%27s_Price.md)*** — A tragic tale of forbidden love between a Dunmer slavemaster and her Argonian slave
+
+## References
+1. ^ <sup>***[a](#cite_ref-TAA4_1-0)***</sup><sup>***[b](#cite_ref-TAA4_1-1)***</sup> [*The Argonian Account, Book 4*](Lore_The_Argonian_Account,_Book_4.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+2. [^](#cite_ref-FP_2-0) [*Freedom's Price*](Lore_Freedom%27s_Price.md)
+3. ^ <sup>***[a](#cite_ref-PGE3E_3-0)***</sup><sup>***[b](#cite_ref-PGE3E_3-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-TBW5_4-0) [*The Blackwater War, Volume 5*](Lore_The_Blackwater_War,_Volume_5.md) — [Valenca Arvina](Lore_Books_by_Author.md#Valenca_Arvina), Historian-in-Residence at [Gwylim University](Lore_Gwylim_University.md)
+5. ^ <sup>***[a](#cite_ref-FATS_5-0)***</sup><sup>***[b](#cite_ref-FATS_5-1)***</sup> [*From Argonian to Saxhleel*](Lore_From_Argonian_to_Saxhleel.md) — [Vicecanon Heita-Meen](Lore_Books_by_Author.md#Vicecanon_Heita-Meen)
+6. [^](#cite_ref-Blackwood_6-0) [Archein Claw File](https://en.uesp.net/wiki/Online:Contraband_A#Archein_Claw_File) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-TAA3_7-0) [*The Argonian Account, Book 3*](Lore_The_Argonian_Account,_Book_3.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+8. ^ <sup>***[a](#cite_ref-TIC_8-0)***</sup><sup>***[b](#cite_ref-TIC_8-1)***</sup> [*The Infernal City*](https://en.uesp.net/wiki/Books:The_Infernal_City) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)

@@ -1,0 +1,20 @@
+# Resonant Sphere
+
+*Did you notice the perfect symmetry, the total roundness of the form? And the way it reacted to simple magical impulses? Incredible! If memory serves, the chimes sounded similar to the ones that ring in the Brass Fortress.* *Applying magic to the sphere provoked an aural response. Perhaps Sotha Sil utilizes different frequencies of sound to perform his divine workings. On the other hand, Lord Seht might just appreciate good music.*
+—Raynor Vanos<sup>[[1]](#cite_note-RV-1)</sup> [![](https://images.uesp.net/thumb/3/30/ON-quest-Family_Feud.jpg/200px-ON-quest-Family_Feud.jpg)](https://en.uesp.net/wiki/File:ON-quest-Family_Feud.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Family_Feud.jpg) Resonant Sphere The Resonant Sphere was a large [brass](Lore_Brass.md) spherical object located in the [Radius](Lore_Radius.md) of the [Clockwork City](Lore_Clockwork_City.md). It was regarded as one of [Sotha Sil](Lore_Sotha_Sil.md)'s minor marvels, and was known for its [tonal](Lore_Tonal_Architecture.md) properties.<sup>[[1]](#cite_note-RV-1)</sup><sup>[[2]](#cite_note-FF-2)</sup>
+
+It was characterized by precise symmetry and flawless geometry. Perfectly round in form, the Resonant Sphere was designed to respond audibly when acted upon by [magic](Lore_Magic.md), causing aural response and emitting characteristic tones. These sounds closely resembled the chimes that echoed through the Brass Fortress, particularly those heard from the central spire during the city's night cycle.<sup>[[1]](#cite_note-RV-1)</sup><sup>[[2]](#cite_note-FF-2)</sup>
+
+According to Raynor Vanos, a [Dunmeri](Lore_Dunmer.md) scholar of the [Dwemer](Lore_Dwemer.md), the Sphere's behavior suggested a deeper purpose. He speculated that Sotha Sil may have employed specific sound frequencies as a precise mechanism through which to conduct his divine or arcane workings and processes.<sup>[[1]](#cite_note-RV-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/38/ON-npc-Raynor_Vanos_%28Family_Feud%29.jpg/200px-ON-npc-Raynor_Vanos_%28Family_Feud%29.jpg)](https://en.uesp.net/wiki/File:ON-npc-Raynor_Vanos_(Family_Feud).jpg) Raynor Vanos using magic to cause Resonant Sphere's aural response
+- [![](https://images.uesp.net/thumb/0/03/ON-furnishing-Mysterious_Clockwork_Sphere.jpg/200px-ON-furnishing-Mysterious_Clockwork_Sphere.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Mysterious_Clockwork_Sphere.jpg) Mysterious Clockwork Sphere
+
+## Notes
+- Other Clockwork Spheres, similar but not identical to the Resonant Sphere, were also creations of Sotha Sil. The nature and purpose of these massive constructs were a mystery even to the wisest of the [Clockwork Apostles](Lore_Clockwork_Apostles.md). They have been variously speculated to be brass reproductions of [celestial bodies](Lore_Astronomy.md), navigational waypoints for [factotums](Lore_Factotum.md), or even the dormant eggs of some as-yet-unnamed clockwork monstrosity.<sup>[[3]](#cite_note-MCS-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-RV_1-0)***</sup><sup>***[b](#cite_ref-RV_1-1)***</sup><sup>***[c](#cite_ref-RV_1-2)***</sup><sup>***[d](#cite_ref-RV_1-3)***</sup> [Raynor Vanos](https://en.uesp.net/wiki/Online:Raynor_Vanos)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Clockwork City](https://en.uesp.net/wiki/Online:Clockwork_City_(DLC))*
+2. ^ <sup>***[a](#cite_ref-FF_2-0)***</sup><sup>***[b](#cite_ref-FF_2-1)***</sup> Events of [Family Feud](https://en.uesp.net/wiki/Online:Family_Feud) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Clockwork City](https://en.uesp.net/wiki/Online:Clockwork_City_(DLC))*
+3. [^](#cite_ref-MCS_3-0) [Mysterious Clockwork Sphere](https://en.uesp.net/wiki/Online:Mysterious_Clockwork_Sphere)'s item description in [ESO](https://en.uesp.net/wiki/Online:Online)

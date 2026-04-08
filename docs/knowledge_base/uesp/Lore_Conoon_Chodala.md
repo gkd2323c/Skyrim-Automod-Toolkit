@@ -1,0 +1,47 @@
+# Conoon Chodala
+
+| Conoon Chodala | | | |
+| --- | --- | --- | --- |
+| [![LG-cardart-False Incarnate.jpg](https://images.uesp.net/thumb/4/4e/LG-cardart-False_Incarnate.jpg/200px-LG-cardart-False_Incarnate.jpg)](https://en.uesp.net/wiki/File:LG-cardart-False_Incarnate.jpg) Conoon Chodala with [Sunna'rah](Lore_Sunna%27rah.md) circa [2E 582](Lore_Second_Era.md#2E_582) | | | |
+| Race | [Dunmer](Lore_Dunmer.md) | Gender | Male |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) | | |
+| Died | [2E 582](Lore_Second_Era.md#2E_582) | | |
+| Resided in | [Vvardenfell](Lore_Vvardenfell.md) | | |
+| Appears in | [Morrowind](https://en.uesp.net/wiki/Morrowind:Conoon_Chodala), [ESO](https://en.uesp.net/wiki/Online:Chodala), [Legends](https://en.uesp.net/wiki/Legends:False Incarnate) | | |
+
+Conoon Chodala was an [Ashlander](Lore_Ashlander.md) [Dunmer](Lore_Dunmer.md) who was an ashkhan of the [Urshilaku](Lore_Urshilaku.md) tribe in the mid- [Second Era](Lore_Second_Era.md). He falsely claimed to be the legendary [Nerevarine](Lore_Nerevarine.md), which made him one of the [failed Incarnates](Lore_Failed_Incarnates.md).
+
+## History
+Chodala was born in the [Urshilaku](Lore_Urshilaku.md) tribe of the [Vvardenfell](Lore_Vvardenfell.md) [Ashlanders](Lore_Ashlanders.md).<sup>[[1]](#cite_note-ESOSeryn-1)</sup> He became the ashkhan of the tribe at a young age. He and some of his people took part in the war against [Ada'Soom Dir-Kamal](Lore_Ada%27Soom_Dir-Kamal.md) in [2E 572](Lore_Second_Era.md#2E_572), and he was also known to raid old strongholds and venture into the [Red Mountain](Lore_Red_Mountain.md) territory.<sup>[[2]](#cite_note-MWChodala-2)</sup> All these achievements made him one of the most respected Ashlanders in Vvardenfell. His sister, Seryn, stood by his side as he gained prestige in the eyes of the tribes.<sup>[[1]](#cite_note-ESOSeryn-1)</sup> He came to be respected even by the [Red Exiles](Lore_Red_Exiles.md), a clan formed by the outcasts from the four tribes, who lent Chodala some of their warriors.<sup>[[3]](#cite_note-ESOMW-3)</sup>
+
+Around [2E 582](Lore_Second_Era.md#2E_582), Chodala invented a plan to engage and defeat the [House](Lore_Great_House.md) [Dunmer](Lore_Dunmer.md) and elevate the Ashlanders to their rightful status. He somehow learned that [Sunna'rah](Lore_Sunna%27rah.md), a powerful staff created by [Sotha Sil](Lore_Sotha_Sil.md) that could steal the divine powers of the [Tribunal](Lore_Tribunal.md), was about to be summoned by the [Nycotic Cult](Lore_Nycotic_Cult.md), a group worshipping a twisted version of [Clavicus Vile](Lore_Clavicus_Vile.md). He ordered his Red Exiles to infiltrate the ritual site in the Shulk Ore Mine near [Balmora](Lore_Balmora.md) and steal the staff once the ritual was complete.<sup>[[4]](#cite_note-REI-4)</sup> The Red Exiles succeeded and retrieved the staff for Chodala, who began to use it to slowly drain the divine power from [Vivec](Lore_Vivec_(god).md). Vivec began to weaken, while Chodala became virtually unstoppable. With his new powers, Chodala was able to convince the leader of the Red Exiles, Kund-ud, that he was the legendary [Nerevarine](Lore_Nerevarine.md), after which the whole clan pledged its loyalty to him.<sup>[[5]](#cite_note-Mw C-5)</sup> However, Chodala's newfound power made him arrogant and willing to use violence to reach his goals.<sup>[[3]](#cite_note-ESOMW-3)</sup>
+
+Meanwhile, Vivec allied himself with [the Vestige](Lore_The_Vestige.md) and sent them to investigate why his divine power was diminishing. The Vestige eventually traveled to [Ald'ruhn](Lore_Ald%27ruhn.md), where the tribes gathered for their annual pilgrimage to the remains of the giant [Emperor Crab](Lore_Emperor_Crab.md) [Skar](Lore_Skar.md). There, the Vestige met Seryn, who was concerned about her brother's change of behavior. In the meantime Chodala proclaimed himself Nerevarine to Dovrosi, the Wise Woman of the Urshilaku tribe, who then went to the [Cavern of the Incarnate](https://en.uesp.net/wiki/Morrowind:Cavern_of_the_Incarnate) in the [Valley of the Wind](Lore_Valley_of_the_Wind.md) to verify the validity of his claim.<sup>[[3]](#cite_note-ESOMW-3)</sup>
+
+[![](https://images.uesp.net/thumb/1/1b/ON-quest-Divine_Delusions.jpg/200px-ON-quest-Divine_Delusions.jpg)](https://en.uesp.net/wiki/File:ON-quest-Divine_Delusions.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Divine_Delusions.jpg) Seryn contests Chodala's claim for the title of Nerevarine during the tribal council meeting in Skar The Vestige followed Dovrosi to the Cavern, and spoke with the spirits of the Failed Incarnates - people who, like Chodala, had once falsely claimed to be the Nerevarine. They told the Vestige about mistakes they had made, claiming that this was not the way of the Nerevarine. The Vestige returned to Ald'ruhn, where Chodala's claim was to be officially ratified during the tribal council meeting within Skar's hollow shell.<sup>[[3]](#cite_note-ESOMW-3)</sup>
+
+During the meeting, the Vestige and Seryn countered Chodala's arguments with the stories of the Failed Incarnates, confirmed by their spirits, who were summoned during the meeting. This led Dovrosi to reject Chodala's claim for the title of the Nerevarine. The angered ashkhan ordered his Red Exiles to kill everyone present; however, the Vestige was able to defeat them.<sup>[[3]](#cite_note-ESOMW-3)</sup>
+
+Chodala and his supporters then relocated to Kaushtarari, a [Daedric](Lore_Daedric.md) shrine to [Malacath](Lore_Malacath.md) in the [Zafirbel Bay](Lore_Zafirbel_Bay.md). While he had Sunna'rah, he was invincible. However, the Vestige had the wizard [Barilzar](Lore_Barilzar.md) design and build a tonal inverter, a device that could temporarily disrupt the power of the staff. With the inverter, the Vestige and Seryn followed Chodala into Kaushtarari, where they struck down the warmongering ashkhan and retrieved Sunna'rah.<sup>[[3]](#cite_note-ESOMW-3)</sup> Chodala's body and some of his possessions were later brought to the Cavern of the Incarnate to rest among the other failed Incarnates.<sup>[[6]](#cite_note-MWTPot I-6)</sup>
+
+In [3E 427](Lore_Third_Era.md#3E_427), the [actual Nerevarine](Lore_Hero.md#Nerevarine) entered the Cavern to retrieve the ring [Moon-and-Star](Lore_Moon-and-Star.md) during the Third Trial of the Nerevarine. There, they spoke with the spirits of the failed Incarnates, including Chodala. After telling the Nerevarine his tale, Chodala gave them his [glass](Lore_Malachite.md) axe and his boots.<sup>[[6]](#cite_note-MWTPot I-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/08/ON-npc-Chodala.jpg/200px-ON-npc-Chodala.jpg)](https://en.uesp.net/wiki/File:ON-npc-Chodala.jpg) ESO
+- [![](https://images.uesp.net/thumb/1/15/MW-npc-Conoon_Chodala.jpg/200px-MW-npc-Conoon_Chodala.jpg)](https://en.uesp.net/wiki/File:MW-npc-Conoon_Chodala.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/1/12/LG-cardart-Chodala%27s_Treachery.jpg/200px-LG-cardart-Chodala%27s_Treachery.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Chodala%27s_Treachery.jpg) Chodala's Treachery (Legends)
+
+## Notes
+- In [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*, he is referred to simply as "Chodala".<sup>[[7]](#cite_note-Chodala ESO-7)</sup> However, a [note](https://en.uesp.net/wiki/Online:Red_Exile_Instructions) written by him is signed "CC".<sup>[[4]](#cite_note-REI-4)</sup>
+
+## See Also
+- For game-specific information, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Conoon_Chodala) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Chodala) [](https://en.uesp.net/wiki/Online:Morrowind) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOSeryn_1-0)***</sup><sup>***[b](#cite_ref-ESOSeryn_1-1)***</sup> [Seryn](https://en.uesp.net/wiki/Online:Seryn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+2. [^](#cite_ref-MWChodala_2-0) [Chodala](https://en.uesp.net/wiki/Morrowind:Conoon_Chodala)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+3. ^ <sup>***[a](#cite_ref-ESOMW_3-0)***</sup><sup>***[b](#cite_ref-ESOMW_3-1)***</sup><sup>***[c](#cite_ref-ESOMW_3-2)***</sup><sup>***[d](#cite_ref-ESOMW_3-3)***</sup><sup>***[e](#cite_ref-ESOMW_3-4)***</sup><sup>***[f](#cite_ref-ESOMW_3-5)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+4. ^ <sup>***[a](#cite_ref-REI_4-0)***</sup><sup>***[b](#cite_ref-REI_4-1)***</sup> [*Red Exile Instructions*](https://en.uesp.net/wiki/Online:Red_Exile_Instructions) — [Chodala](https://en.uesp.net/wiki/Online:Chodala)
+5. [^](#cite_ref-Mw C_5-0) [*Meeting with Chodala*](https://en.uesp.net/wiki/Online:Meeting_with_Chodala) — Scribe Dakin
+6. ^ <sup>***[a](#cite_ref-MWTPot I_6-0)***</sup><sup>***[b](#cite_ref-MWTPot I_6-1)***</sup> [The Path of the Incarnate](https://en.uesp.net/wiki/Morrowind:The_Path_of_the_Incarnate) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+7. [^](#cite_ref-Chodala ESO_7-0) [Chodala](https://en.uesp.net/wiki/Online:Chodala) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*

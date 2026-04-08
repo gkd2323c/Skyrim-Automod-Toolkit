@@ -1,0 +1,77 @@
+# Blind Cliff Cave
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) \| Cave: <br> Blind Cliff Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Blind+Cliff+Cave)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Blind Cliff Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Blind+Cliff+Cave)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Blind Cliff Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Blind+Cliff+Cave)) | |
+| # of Zones | 2 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | Never (storage is [safe](Skyrim_Containers.md#Safe_Locations)) | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 14 | |
+| Occupants | | |
+| [Forsworn](Skyrim_Forsworn.md), [Melka](https://en.uesp.net/wiki/Skyrim:Melka), [Petra](https://en.uesp.net/wiki/Skyrim:Petra) | | |
+| Important Treasure | | |
+| *[The Refugees](https://en.uesp.net/wiki/Skyrim:The_Refugees)* <br> *[Mystery of Talara, Part 4](https://en.uesp.net/wiki/Skyrim:Mystery_of_Talara,_Part_4)* <br> *[2920, Rain's Hand, v4](Skyrim_2920,_Rain%27s_Hand,_v4.md)* <br> [Eye of Melka](Skyrim_Eye_of_Melka.md) | | |
+| Console Location Code(s) | | |
+| Blind Cliff Cave COC, Blind Cliff Cave01 | | |
+| Region | | |
+| [The Reach](Skyrim_The_Reach.md) | | |
+| Location | | |
+| Southwest of [Karthwasten](Skyrim_Karthwasten.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 1 | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Quicksilver](https://en.uesp.net/wiki/Skyrim:Quicksilver_Ore) | 3 | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 6 | |
+
+[![](https://images.uesp.net/thumb/5/5e/SR-place-Blind_Cliff_Cave.jpg/200px-SR-place-Blind_Cliff_Cave.jpg)](https://en.uesp.net/wiki/File:SR-place-Blind_Cliff_Cave.jpg) [](https://en.uesp.net/wiki/File:SR-place-Blind_Cliff_Cave.jpg) Blind Cliff Cave **Blind Cliff Cave** is a medium-sized [cave](Skyrim_Caves.md) southwest of [Karthwasten](Skyrim_Karthwasten.md) along the banks of the [Karth River](Skyrim_Karth_River.md) containing [Forsworn](Skyrim_Forsworn.md). It contains two zones: *[Blind Cliff Cave](#Blind_Cliff_Cave)* and *[Blind Cliff Bastion](#Blind_Cliff_Bastion)*.
+
+## Related Quests
+- **[The Affairs of Hagravens](https://en.uesp.net/wiki/Skyrim:The_Affairs_of_Hagravens)**: After discovering an [imprisoned hagraven](https://en.uesp.net/wiki/Skyrim:Melka), you must help her reclaim her lost tower.
+- **[Dungeon Delving](Skyrim_Dungeon_Delving_(Jarl_-_Hagravens).md)**: Do a favor for [Igmund](Skyrim_Igmund.md), the Jarl of Markarth, by retrieving a [shield](Skyrim_Hrolfdir%27s_Shield.md). ([radiant](Skyrim_Radiant.md))
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Exterior
+A goat's head on a spike and a lit brazier can be found on your left, mammoth bones and a bloody mammoth tusk can be found on your right, and a [juniper tree](Skyrim_Juniper_Berries.md) can be found across the road directly behind you.
+
+### Blind Cliff Cave
+You will normally enter the cave via the ground-level entrance. Beyond the entrance is a very narrow gorge running to the northwest, with a [Forsworn](Skyrim_Forsworn.md) standing in an [oil slick](https://en.uesp.net/wiki/Skyrim:Oil_Slick) ahead. Hanging above are several [oil lanterns](https://en.uesp.net/wiki/Skyrim:Oil_Lanterns), with an [iron ore vein](Skyrim_Iron_Ore_Vein.md) on the right wall nearby, followed by an [urn](https://en.uesp.net/wiki/Skyrim:Urn) in an alcove on the left. Ahead is a shallowly flooded tunnel heading northwest. As it rises, it opens into a huge cavern with part of the ceiling having collapsed letting in the natural daylight or evening light above a tower to the north. During the day this cavern is therefore fairly well lit, with vegetation including many [hanging mosses](Skyrim_Hanging_Moss.md), [red](Skyrim_Red_Mountain_Flower.md), [blue](Skyrim_Blue_Mountain_Flower.md), and [purple mountain flowers](https://en.uesp.net/wiki/Skyrim:Purple_Mountain_Flower), and trees all around. There are three more iron ore veins in front of you, one on the ground to the right, one on the ground ahead, and the third on the east wall. Mining these doesn't seem to alert any of the Forsworn in the cavern; however, any fighting is likely to alert several Forsworn in the area, as they are within earshot if not sight of each other. This can cause you to be fighting several melee and archers at the same time.
+
+The path bends to the west around a large rock. At this point, to the north on a rock above you are a lit brazier and a Forsworn on a stool with a random [potion](Skyrim_Potions.md), a random [poison](Skyrim_Poison.md), a small [coin purse](Skyrim_Coin_Purse.md), and a random set of [armor](Skyrim_Armor.md). The path continues to the west and leads to a flight of wooden stairs, which is to the right of a dome-shaped stone hut containing an urn and a [burial urn](Skyrim_Burial_Urn.md). The stairs lead up to a landing covered with an oil slick and more oil lanterns hanging above. There are another two iron ore veins on the wall to the left, with a wooden ramp leading higher to the northeast. At the top, a ramp leads up past a doorway in a toppled tower, up to a second doorway where there is an unlocked [chest](Skyrim_Chest.md) with a copy of the [Light Armor](Skyrim_Light_Armor.md) [skill book](Skyrim_Skill_Books.md) *[The Refugees](https://en.uesp.net/wiki/Skyrim:The_Refugees)* lying beside it. Descending back to the first opening, there are a few [food](Skyrim_Food.md) barrels jumbled together at the bottom, with the tower leaning at a steep angle to the east. Someone has added wooden beams to enable the wall of the tower to be climbed to the top, where there is a magic-using Forsworn hidden in the dark who favors [frost magic](Skyrim_Frost_Damage.md#Spells). From the top, it is possible to climb a pair of beams to a third horizontal beam high above, though no loot is found there. Back at the top, there is a gated doorway to the northeast into another typical Nordic tower, with stairs leading up to the right to a pair of closed wooden doors that lead into the exterior zone *Blind Cliff Towers*.
+
+### Exterior: Blind Cliff Towers
+Once through the doors, you are in another tower with stairs leading up to a doorway blocked by a lowered gate. By this is an unlocked chest, with the lever to open the gate above and a burial urn and food barrel beside it. Through the opened gate is a wooden ramp up to the next level, which is empty except for more stairs leading up again. On this level, part of the floor is missing but is bridged by a narrow piece of planking. To the north across the gap is a magic-using Forsworn with a [Forsworn staff](https://en.uesp.net/wiki/Skyrim:Forsworn_Staff), a random poison, and a random-leveled gem in front of what appears to be a giant "dream catcher" against the wall. From this level there is yet another flight of stairs to the top of the tower and a stone bridge to yet another tower to the north. There is a Forsworn on the bridge unless you have already dealt with them.
+
+Through the doorway into the tower are an unlocked chest and burial urn on your right beside more stairs up, with a doorway outside and a wooden ramp up again and an iron door in front of you leading to *Blind Cliff Bastion*. At the top of the ramp is a doorway blocked with a lowered gate that can only be opened from the other side. This will be your exit route later.
+
+### Blind Cliff Bastion
+Through the door is a short corridor heading northwest with a second iron door at the end. Upon opening this door you will see [Melka](https://en.uesp.net/wiki/Skyrim:Melka), a [hagraven](Skyrim_Hagraven.md) trapped inside a cage. Speak with her to learn that this is her tower and that she was caged by her sister, another hagraven named [Petra](https://en.uesp.net/wiki/Skyrim:Petra). If you decide to free her, pull the chain next to the cage and she will ask for your help in killing Petra. You can also leave her to her fate (but this risks breaking the quest; see [bugs](#Bugs)).
+
+There is a corridor heading to the southwest of the cage with an overturned table and burial urn on the right and two patches of [white cap](https://en.uesp.net/wiki/Skyrim:White_Cap) fungus at the corner, where the corridor turns to the northwest before climbing a flight of stairs to a gate with three handles in front. The one in the middle opens the gate, while the other two activate a [poisoned dart trap](Skyrim_Dart_Trap.md). If Melka is with you, she will tell you that the handle in the middle is the correct one.
+
+Through the gate is a corridor heading northeast to another room with a Forsworn magic user, a full set of [Forsworn armor](Skyrim_Forsworn_Armor.md), and another gate to the northwest with a caged walkway with several [swinging blade traps](https://en.uesp.net/wiki/Skyrim:Swinging_Blades). To the northeast is a concealed door with a handle on the floor in front; if Melka is with you, she will explain this door hides the lever to deactivate the blades. Partway along the caged corridor you will see a tunnel leading to an area outside the cage, where there are several ingots, urns, and a chest. At the far end are stairs up, and around a corner to the northeast as you enter a dimly lit room there is another concealed door to the southeast with the handle to open it to the right. Behind this is a tunnel that takes you to the area previously seen outside the caged corridor. There are a few urns, an unlocked chest, two [iron ingots](Skyrim_Iron_Ingot.md), an ingot of [refined moonstone](https://en.uesp.net/wiki/Skyrim:Refined_Moonstone), two [quicksilver ingots](https://en.uesp.net/wiki/Skyrim:Quicksilver_Ingot), and a [corundum ingot](Skyrim_Corundum_Ingot.md).
+
+The room along the main route (which Melka notes is her "parlor") contains an [alchemy lab](Skyrim_Alchemy_Labs.md). The raised section of the room behind the lab contains a few more mountain flowers and a [cooking pot](Skyrim_Cooking_Pot.md) at one end, and an open crate containing an iron ingot, an [amethyst](Skyrim_Amethyst.md), a [flute](Skyrim_Flute.md), and a [fox pelt](Skyrim_Fox_Pelt.md) beside a pair of barrels containing [ingredients](Skyrim_Ingredients.md) and an [apothecary's satchel](Skyrim_Apothecary%27s_Satchel.md) at the other end. To the right of the lab is an iron door behind which you will hear mining. Behind the door is a corridor with two [quicksilver ore veins](https://en.uesp.net/wiki/Skyrim:Quicksilver_Ore_Vein) being mined by a Forsworn with a [goat hide](Skyrim_Goat_Hide.md) on the ground beside them. The corridor has another white cap fungus growing in it, before turning to the southeast and ending at a pair of unlocked wooden doors.
+
+Beyond the doors is a room containing Melka's sister Petra and two Forsworn archers. Petra prefers using [fire magic](Skyrim_Fire_Damage.md#Spells), while Melka prefers frost magic. The room has another quicksilver ore vein on the floor to the left of the doors, with a balcony running along the whole of the left side and rear of the room. There is a flight of wooden stairs leading up at the far end. Petra and the archers will all be on the balcony when you enter. On the balcony against the northeast wall is an unlocked boss-level chest with a wooden door with a bar on this side to the right. This leads to an iron door to the outside. Before exiting, on the balcony along the southeast wall is a lit brazier in a small alcove with a copy of the [Illusion](Skyrim_Illusion.md) skill book *[Mystery of Talara, Part 4](https://en.uesp.net/wiki/Skyrim:Mystery_of_Talara,_Part_4)*, while to the right is a doorway with a lowered gate blocking it that is raised by a chain to the left giving access to a small room with a hay pile on the ground that can be used as a bed and a couple [hagraven feathers](Skyrim_Hagraven_Feathers.md), a [leg of goat](https://en.uesp.net/wiki/Skyrim:Leg_of_Goat), and a [potion of strength](https://en.uesp.net/wiki/Skyrim:Potion_of_Strength) also on the floor. Farther to the right along the balcony are three sheaves of [wheat](Skyrim_Wheat.md) and three [pine thrush eggs](https://en.uesp.net/wiki/Skyrim:Pine_Thrush_Egg), one of which is in a birds' nest. Once Petra and the two Forsworn are dead, talk to the overjoyed Melka for the reward of her [fireball](Skyrim_Fireball.md) [staff](https://en.uesp.net/wiki/Skyrim:Staff) [Eye of Melka](Skyrim_Eye_of_Melka.md). Don't forget to loot Petra's body for a copy of the [Restoration](Skyrim_Restoration.md) skill book *[2920, Rain's Hand, v4](Skyrim_2920,_Rain%27s_Hand,_v4.md)*. Take the door outside and jump down into the previously inaccessible area for two more unlocked chests and a couple more urns. Then activate the lever to open the gate.
+
+## Notes
+- This dungeon is marked as a cave on the map, but contains a hidden fort within and an extensive fort on the outside, higher up the hill.
+- The upper fort may be accessible without passing the lower cave and fort by going up the hill from Karthwasten. The reverse journey is also possible.
+- If Melka is killed by Petra or the Forsworn around Petra, killing Petra will still finish the quest [The Affairs of Hagravens](https://en.uesp.net/wiki/Skyrim:The_Affairs_of_Hagravens), and the Eye of Melka can be looted from Melka's corpse. You can also kill Melka (accidentally or deliberately) and loot her body, although she will not attack you if you help her.
+
+## Bugs
+- Unlike Melka, Petra isn't named when you face her; only the generic label "hagraven" is used. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.0.5, fixes this bug.
+- If you kill Petra before releasing Melka, the quest The Affairs of Hagravens will be unfinishable, leaving no way to remove it from your journal. You can still obtain Melka's staff, however, by attacking and killing her. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.3.1, fixes this bug.
+- Unlike the interior zones, the exterior area known as *Blind Cliff Towers* regularly respawns both loot and hostiles, including the loot in the top floor room that is open to the sky from which you finally exit during the related quest. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.1.2, fixes this bug.
+- If you exit *Blind Cliff Cave* and enter the base of *Blind Cliff Towers*, your follower may disappear. <sup>**?**</sup> - To avoid this issue, have your follower wait inside the cave until you have cleared the towers of enemies, then bring them through the door.
+
+## Maps
+- [![](https://images.uesp.net/thumb/5/56/SR-map-Blind_Cliff_Cave.jpg/200px-SR-map-Blind_Cliff_Cave.jpg)](https://en.uesp.net/wiki/File:SR-map-Blind_Cliff_Cave.jpg) Blind Cliff Cave

@@ -1,0 +1,81 @@
+# Walking the World, Vol XI
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book2a.png) Book Information <br> *Walking the World, Vol XI* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0ED061 | | |
+| See Also | [Lore version](Lore_Walking_the_World,_Vol_XI.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 8 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 2 | | |
+| Locations | | | |
+| Found in the following locations: - [Nightcaller Temple](Skyrim_Nightcaller_Temple.md) entrance, in the podium <br> - Your room at [Nightgate Inn](Skyrim_Nightgate_Inn.md), on the table <br> - [Dushnikh Yal](Skyrim_Dushnikh_Yal.md), in the cellar of [Burguk's Longhouse](Skyrim_Burguk%27s_Longhouse.md), underneath the wooden platform <br> - [Proudspire Manor](Skyrim_Proudspire_Manor.md), [Solitude](Skyrim_Solitude.md), in the shelf between the beds of the children's bedroom | | | |
+
+Walking the World, Vol XI: Solitude **by [Spatior Munius](Lore_Books_by_Author.md#Spatior_Munius)** *A comprehensive description of the city of Solitude* *
+---
+
+![W](https://images.uesp.net/thumb/6/65/W_letter.png/52px-W_letter.png)
+elcome, friend. In our latest volume, we cover [Solitude](Skyrim_Solitude.md). Spatior could not be more pleased to be at the very seat of [Imperial](Skyrim_Imperial.md) power in [Skyrim](Skyrim_Skyrim.md). In the course of our tour, you'll see that Solitude's riches extend from her people to the history and architecture that make up the city itself.
+
+As ever, we begin our journey outside the city walls, this time at the bottom of the hill that ascends all the way to Solitude's massive gates.
+
+#### Solitude's Surroundings
+Before scaling the hill to the city, you should be sure to take in the sights. Wander the track that leads down to the docks, and you can stop to enjoy one of the best views of the Great Arch.
+
+Originally serving as both a landmark and windbreak for Solitude's port, the easily-defended [Great Arch](Lore_Great_Arch.md) also provided an ideal building site for the ancient [Nords](Skyrim_Nord.md).
+
+The city gradually grew to extend across the entire length of the arch. This growth culminated in the building of the [Blue Palace](Skyrim_Blue_Palace.md), home of the High Kings and Queens of Skyrim. We will visit the palace later.
+
+#### The Gates of Solitude
+Entrance to Solitude is guarded by two gates and three towers. The first of these towers, situated at the crossroads, is Sky Tower. It's mostly a lookout, although in times of war, barricades are erected across the nearby road to act as a first line of defense.
+
+The second tower and first, smaller gate are collectively known as the Squall Gate. Here, attacking armies meet their first real resistance. Last and certainly most impressive is the Storm Gate.
+
+While [Castle Dour](Skyrim_Castle_Dour.md), found just within the city's main gate, has always been a massive walled structure, Solitude's outer walls and gates were not added until shortly after the coronation of High King [Erling](Lore_Erling.md).
+
+Looking up and to the left of the main gate, you can see a small hint of Erling's preference for a more rounded style of architecture that we will see later in the Castle Dour extension, as well as the interior arch and the windmill.
+
+Now we pass through the gates and enter the main shopping district of Solitude.
+
+#### The Well District
+Stepping inside Solitude's gates, you get your first view of the city itself. Rising tall and proud before you, banners waving from its crown, is the [Emperor's Tower](Skyrim_Castle_Dour,_Emperor%27s_Tower.md). Home to the Kings of [Haafingar](Skyrim_Haafingar.md) before the consolidation of Skyrim and the creation of the Blue Palace, the Emperor's Tower is now used exclusively as guest quarters for Emperors who come to visit the city.
+
+To your left and right are Solitude's inn and shops. Here can be found some of the finest imported goods in Skyrim. After all, Solitude is a wealthy city with ready access to the major shipping lanes of [Tamriel](Lore_Tamriel.md).
+
+Continuing ahead, you'll come to the ramp that takes you up to Castle Dour. From here, you can truly feel the weight of this stone bastion's looming presence. The left-most tower, topped by the pointed roof of Erling's extension, was once the castle barracks and jail. Today, the tower is the center of military power here in Solitude.
+
+Looking right past the looming Emperor's tower, you can glimpse Solitude's natural bridge arcing gracefully over to the windmill. Built during High King Erling's day, the bridge was said to be used used *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* to discretely *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* allow Captain Jytte, the famous privateer, to enter Castle Dour. Some historians claim that she and the High King were simply attempting to keep their business dealings quiet. Others believe the *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* Jytte and Erling were involved on a more personal level.
+
+At the end of the bridge is the windmill. The tower and the windmill serve as one of Solitude's most recognizable man-made landmarks. The Windmill's power was once used to open the gates to what is now the [East Empire Company Warehouse](Skyrim_East_Empire_Company_Warehouse.md), but today that task falls to the strong backs of the dock workers.
+
+In the shadow of the windmill you'll find the outdoor market and the well. Here, you can buy a number of local delicacies including the famous spiced wine made exclusively in Solitude.
+
+From here we'll travel up the ramp and into Castle Dour Courtyard.
+
+#### Castle Dour
+As you enter the courtyard of Castle Dour, you are confronted with the banner of Solitude hanging over the door to what is now Castle Dour proper.
+
+At the far end of the courtyard stands the impressive [Temple of the Divines](Skyrim_Temple_of_the_Divines.md). The founders of Solitude were deeply devout and Solitude is the only place in Skyrim where all of the divines are worshiped in a single temple. All three of the buildings here are well worth taking a look inside, but only the Temple and Castle Dour's military wing are open.
+
+If you do venture inside the temple, take special note of the alcoves at the front. You can see the empty alcove that once held the [shrine](Skyrim_Shrines.md) of [Talos](Lore_Talos.md) before Talos worship was outlawed.
+
+From the courtyard, travel out the exit between Castle Dour and the Temple and you'll get your first sight of the Blue Palace. Along the way, be sure to stop outside the [Bards College](Skyrim_Bards_College.md), a large building on your left marked by the Flame of Callisos burning beside the steps.
+
+Named for a [famous bard](Lore_Callisos.md), it is said that as long as the flame burns, the college will stand.
+
+#### The Bards College
+Looking up from the Bards College steps, you can see that the college stands taller than the Blue Palace itself. The bards who train here can be heard throughout Skyrim, singing songs that capture the history of the ages. If you get a chance you should be sure to catch the Burning of King Olaf, an ancient festival where "[King Olaf](Skyrim_Olaf_One-Eye.md)" is burned in effigy.
+
+Continue up the road from the college and you'll reach the courtyard of the Blue Palace, our final destination.
+
+#### The Blue Palace
+The Blue Palace is home to the [Jarls](Skyrim_Jarl.md) of Solitude, who for centuries have also served as the High Kings and High Queens of Skyrim. The northeast wing, on your left as you enter, holds the living quarters of the Jarl and her court on the top level and various servants below.
+
+The southwest wing, known as the [Pelagius Wing](Skyrim_Pelagius_Wing.md), has fallen into a state of disrepair. Named for the famous High King, [Pelagius the Mad](Lore_Pelagius_Septim_III.md), the wing is rumored to be haunted by the king's ghost. The wing has been locked and left alone since shortly after Pelagius's death.
+
+You should be sure to venture inside the Blue Palace. The grand atrium and court chambers are a sight not to be missed.
+
+#### Other Points of Interest
+Spatior has shown you Solitude in all its grandeur, but there are a few places more to see. The walls of the city are easily accessible and well worth climbing for the remarkable view. The Solitude Docks are also worth a visit, as they are the largest in Skyrim.
+
+That's all for Walking the World Volume XI. Spatior does not know his next destination yet, but you can be sure that where he does go he will leave you a record of the best things to see.
+
+Spatior Munius, World Traveler

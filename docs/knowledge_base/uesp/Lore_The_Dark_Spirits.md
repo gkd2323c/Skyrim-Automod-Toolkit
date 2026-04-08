@@ -1,0 +1,20 @@
+# The Dark Spirits
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Writer | [Andrew Young](https://en.uesp.net/wiki/General:Andrew_Young) | | |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Dark_Spirits) ([Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)) | | |
+| Up | *[Spirits of Amun-dro](Lore_Spirits_of_Amun-dro.md)* | | |
+| Prev. | *[The Sky Spirits](Lore_The_Sky_Spirits.md)* | Next | *[The Worldly Spirits](Lore_The_Worldly_Spirits.md)* |
+
+[Spirits of Amun-dro](Lore_Spirits_of_Amun-dro.md): The Dark Spirits **by [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest** *A pre-ri'Datta text listing several dark or obscure gods*
+---
+[Lorkhaj](Lore_Lorkhaj.md). The Moon Beast. Born of the [dark heart](Lore_Dark_Heart.md) of Lorkhaj, which overcame him after he suffered a [great betrayal](Lore_Dawn_Era.md#Convention). In his wisdom, Lorkhaj sought his sister [Azurah](Lore_Azurah.md), who tore the darkness from him before it consumed him and cast it into the Void. We know this shade of Lorkhaj as the first of the [Dro-m'Athra](Lore_Dro-m%27Athra.md), who serve the [Ur-Dra](Lore_Ur-dra.md) [Namiira](Lore_Namiira.md), our enemy. The Moon Beast prowls the edges of the [Lattice](Lore_Lunar_Lattice.md) and pounces on [Khajiit](Lore_Khajiit.md) who stray too far off the Path. Know that on nights of the [Ghost Moon](Lore_Ghost_Moon.md), Azurah has opened the Void Gate and the Moon Beast will challenge mortals until banished. We accept this burden as part of the Path, and for the sake of our Lost Kin.
+
+[Namiira](Lore_Namiira.md). The Eldest Spirit. The [Great Darkness](Lore_Great_Darkness.md). The Void. All creatures who feed on rotten flesh are her spies and the prey of Cats. The Lunar Lattice protects us from her hunger, but not our own. Know that to name her aloud is to invite the Dark, so you must never do so, as Namiira is the sound of her true name. She is a spirit of infinite realms, of which only Azurah knows all. Mortals who become ensnared by this spirit are tortured until they forget who they were and know only Namiira. This is eternal suffering for all souls but the [ja-Kha'jay](Lore_Ja-Kha%27jay.md), whom Azurah will not abandon to the Dark.
+
+[Noctra](Lore_Noctra.md). The Shadow Thief. Daughter of Twilight. Born from the [black](Lore_Dark_Heart.md) [blood](Lore_Ebony.md) of Lorkhaj at the steps of the Void Gate. In the songs, [Boethra](Lore_Boethra.md) battled this spirit until it knew it was not Namiira. When this was done, Noctra was brought before Azurah to be judged. Azurah showed mercy and allowed Noctra to live, so long as she served Azurah and the ja-Kha'jay. But Noctra is rebellious by nature, so she stole [one](Lore_Skeleton_Key.md) of Azurah's keys and fled back into the Void. It is written that Azurah sent the [true spirit of Lorkhaj](Lore_Dark_Moon.md) to find her, and ever since Noctra has aided the Khajiit when called. Tribes may whisper to Noctra for silence, shade, and luck. Do not summon her to perform vile deeds, for this will bring the Dark with her.
+
+[Varmiina](Lore_Vaermina.md). Queen of Nightmares. The Lost Daughter. This spirit was not of any litter, but was born from [Fadomai](Lore_Fadomai.md)'s fear of losing her children. Azurah killed this dark spirit in the Underworld, and now Varmiina only haunts Khajiit when they dream. Know she will test you and make you want to turn from the Path in fear, but she cannot truly harm the ja-Kha'jay in dreams.
+
+[?????] A spirit of vengeance. It has no will of its own, as it was born from Azurah's grief after the death of Fadomai and Lorkhaj. None can summon this spirit save Azurah, Boethra, and [Mafala](Lore_Mafala.md), for only they know its true name. It sometimes appears in songs as a [black panther](https://en.uesp.net/wiki/Lore:Black_Panther), a [warrior in ebony armor](Lore_Ebonarm.md), or as a hidden sword.

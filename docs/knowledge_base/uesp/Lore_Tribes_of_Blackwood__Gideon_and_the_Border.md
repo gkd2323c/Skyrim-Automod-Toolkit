@@ -1,0 +1,15 @@
+#  Gideon and the Border
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Tribes_of_Blackwood:_Gideon_and_the_Border) ([Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))) | | |
+| Up | *[Tribes of Blackwood](Lore_Tribes_of_Blackwood.md)* | | |
+| Prev. | None | Next | *[Red-Dream People](Lore_Tribes_of_Blackwood__Red-Dream_People.md)* |
+
+Tribes of Blackwood: Gideon and the Border **by [Emmanubeth Hurrent](Lore_Books_by_Author.md#Emmanubeth_Hurrent), the Wayfarers' Society of Wayrest** *An overview of the Argonians of Gideon* *
+---
+After my long and perilous excursion to [Murkmire](Lore_Murkmire.md), I thought it best to return home to [High Rock](Lore_High_Rock.md) for some well-deserved rest. But it seems the [Eight](Lore_Eight_Divines.md) had other plans. Sales of my first book, The [Tribes of Murkmire](Lore_Tribes_of_Murkmire.md), far exceeded expectations—a happy dilemma for any researcher! So, to fulfill the newfound demand, I bid my caravan farewell at the [Trans-Niben](Lore_Trans-Niben.md) and set out east toward [Gideon](Lore_Gideon.md).
+
+For those readers who have never been there, Gideon is a paradoxical mixture of countless cultures—a confusing mishmash of [Ayleid](Lore_Ayleid.md) architecture, [Imperial](Lore_Imperial.md) history, [Kothringi](Lore_Kothringi.md) folklore, and [Argonian](Lore_Argonian.md) tradition. Despite its rich, cosmopolitan history, present-day Gideon is peopled mostly by Argonians. Unlike their cousins to the south whom I grew to cherish like family, the Argonians of [Blackwood](Lore_Blackwood.md) both bear the scars and reap the benefits of long exposure to [Cyrodiil](Lore_Cyrodiil.md). They speak [Cyrodilic](Lore_Tamrielic.md) with greater precision, conduct business with more subtlety, and navigate foreign traditions with greater success. This often comes at the cost of ancient traditions and purer strains of Argonian philosophy. The first time I heard an Argonian openly dismiss the primacy of the [Hist](Lore_Hist.md), I was astonished. But over time, I've come to understand that the tribes of Blackwood are no less complex. In many ways, they are far more complicated.
+
+Argonians on the border with greater [Tamriel](Lore_Tamriel.md) absorb the [lion](Lore_Lion.md)'s share of foreign depredations. Wars, famines, enslavement, environmental exploitation, and so on; border Argonians have borne it all. As a result, nearly all the friendships I struck with local Saxhleel were hard-earned. Most Murkmire Argonians regard foreigners with a bemused, almost comic disinterest. Blackwood Argonians, however, view most outsiders with a skepticism that borders on the cynical. A local leader named [Keshu](Lore_Keshu_the_Black_Fin.md) has made great strides toward integrating her people into wider Tamrielic society. I pray that that endeavor leads to greater cooperation, not greater distrust.

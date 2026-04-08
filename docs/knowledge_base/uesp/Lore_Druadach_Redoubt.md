@@ -1,0 +1,42 @@
+# Druadach Redoubt
+
+| Druadach Redoubt | |
+| --- | --- |
+| Type | Redoubt |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [The Reach](Lore_The_Reach.md) |
+| Appears in | [Skyrim](Skyrim_Druadach_Redoubt.md), [ESO](https://en.uesp.net/wiki/Online:Druadach_Redoubt) |
+
+[![](https://images.uesp.net/thumb/9/98/ON-place-Druadach_Redoubt.jpg/200px-ON-place-Druadach_Redoubt.jpg)](https://en.uesp.net/wiki/File:ON-place-Druadach_Redoubt.jpg) [](https://en.uesp.net/wiki/File:ON-place-Druadach_Redoubt.jpg) Druadach Redoubt circa [2E 582](Lore_Second_Era.md#2E_582) *This is where it will begin. A new uprising.*
+— [Madanach](Lore_Madanach.md)<sup>[[1]](#cite_note-M-1)</sup> Druadach Redoubt is a [Reachfolk](Lore_Reachfolk.md) bastion and [forge](Lore_Smithing.md) located in the [Druadach Mountains](Lore_Druadach_Mountains.md) in [the Reach](Lore_The_Reach.md), southeast of the [Dwemer](Lore_Dwemer.md) [ruins](Lore_Dwemer_Ruins.md) of [Bthar-Zel](Lore_Bthar-Zel.md).<sup>[[2]](#cite_note-DR1-2)</sup><sup>[[3]](#cite_note-DR2-3)</sup> The cavern within was known as the **Druadach Redoubt Cave**, which was abundant in [iron](Lore_Iron.md) and [quicksilver](Lore_Quicksilver.md) ore. Various plants and fungi grew within and around the fortifications, including [nightshade](Lore_Nightshade.md), [hanging moss](Lore_Hanging_Moss.md), blue [mountain flowers](Lore_Mountain_Flower.md), [mora tapinella](Lore_Mora_Tapinella.md), [juniper trees](Lore_Juniper.md), and [potatoes](https://en.uesp.net/wiki/Lore:Potato).<sup>[[2]](#cite_note-DR1-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/5/5f/SR-place-Druadach_Redoubt.jpg/200px-SR-place-Druadach_Redoubt.jpg)](https://en.uesp.net/wiki/File:SR-place-Druadach_Redoubt.jpg) [](https://en.uesp.net/wiki/File:SR-place-Druadach_Redoubt.jpg) Druadach Redoubt circa [4E 201](Lore_Fourth_Era.md#4E_201)
+### Second Era
+[![](https://images.uesp.net/thumb/5/58/ON-interior-Druadach_Redoubt.jpg/200px-ON-interior-Druadach_Redoubt.jpg)](https://en.uesp.net/wiki/File:ON-interior-Druadach_Redoubt.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Druadach_Redoubt.jpg) Druadach Redoubt Forge circa 2E 582 During the [Three Banners War](Lore_Three_Banners_War.md) in the [Second Era](Lore_Second_Era.md), the redoubt was home to a forge with special properties. It was fortified in typical Reachfolk fashion. The weapons crafted there were imbued to enhance the potency of the poisons they were coated in.<sup>[[3]](#cite_note-DR2-3)</sup><sup>[[4]](#cite_note-LOK-4)</sup> It was one of many special crafting sites scattered across [Tamriel](Lore_Tamriel.md), known to provide unique effects to weapons, armor, and jewelry created in such places.<sup>[[5]](#cite_note-Felarian-5)</sup><sup>[[6]](#cite_note-CS-6)</sup><sup>[[7]](#cite_note-CS2-7)</sup> The creative skill of the smiths who have worked these forges has imbued those sites with the divine spark of creativity, transforming the local reality such that items crafted there possess certain unique attributes.<sup>[[8]](#cite_note-8)</sup> Some of those places were known to contain lingering arcane power.<sup>[[9]](#cite_note-MT-9)</sup>
+
+At that time, despite the region being under the control of the Reachfolk, [Nords](Lore_Nord.md) would occasionally venture into the area.<sup>[[10]](#cite_note-LITR-10)</sup> Nordic raiders who targeted indigenous population of the Reach utilized a location nearby as a hideout for storing the spoils acquired during their raids. The [Wand of Bone](https://en.uesp.net/wiki/Lore:Wand_of_Bone), a revered Reachfolk artifact associated with [Hircine](Lore_Hircine.md), was intended to be stored in that location, but it never reached the destination, and was eventually restored to its lawful owners at the [Shrine of the Hunt-Father](Lore_Shrine_of_the_Hunt-Father.md) in [Markarth](Lore_Markarth.md).<sup>[[11]](#cite_note-SOG-11)</sup><sup>[[12]](#cite_note-LFA-12)</sup><sup>[[13]](#cite_note-Ansdurran-13)</sup>
+
+### Fourth Era
+[![](https://images.uesp.net/thumb/0/0a/SR-interior-Druadach_Redoubt.jpg/200px-SR-interior-Druadach_Redoubt.jpg)](https://en.uesp.net/wiki/File:SR-interior-Druadach_Redoubt.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Druadach_Redoubt.jpg) Druadach Redoubt Cave circa 4E 201 [![](https://images.uesp.net/thumb/6/6e/SR-npc-Madanach.jpg/200px-SR-npc-Madanach.jpg)](https://en.uesp.net/wiki/File:SR-npc-Madanach.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Madanach.jpg) King Madanach In the years leading to [4E 201](Lore_Fourth_Era.md#4E_201), a faction of the [Forsworn](Lore_Forsworn.md) had established a stronghold in the Druadach Redoubt. This particular redoubt stood among the more sizable enclaves held by the Forsworn in the region.<sup>[[2]](#cite_note-DR1-2)</sup><sup>[[14]](#cite_note-PRIMA-14)</sup><sup>:512</sup> Accounts varied regarding the destiny of King Madanach, with certain reports suggesting that he had orchestrated activities from Druadach Redoubt following his escape from captivity in the Cidhna Mine. From there, he allegedly planned a new uprising. However, contrasting narratives asserted that he had met his demise while imprisoned.<sup>[[1]](#cite_note-M-1)</sup><sup>[[2]](#cite_note-DR1-2)</sup><sup>[[15]](#cite_note-NOECM-15)</sup>
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Druadach_Redoubt.md) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Druadach_Redoubt) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-M_1-0)***</sup><sup>***[b](#cite_ref-M_1-1)***</sup> [Madanach](Skyrim_Madanach.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. ^ <sup>***[a](#cite_ref-DR1_2-0)***</sup><sup>***[b](#cite_ref-DR1_2-1)***</sup><sup>***[c](#cite_ref-DR1_2-2)***</sup><sup>***[d](#cite_ref-DR1_2-3)***</sup> [Druadach Redoubt](Skyrim_Druadach_Redoubt.md) in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-DR2_3-0)***</sup><sup>***[b](#cite_ref-DR2_3-1)***</sup> [Druadach Redoubt](https://en.uesp.net/wiki/Online:Druadach_Redoubt) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-LOK_4-0) [Legacy of Karth](https://en.uesp.net/wiki/Online:Legacy_of_Karth) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-Felarian_5-0) [Felarian](https://en.uesp.net/wiki/Online:Felarian)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+6. [^](#cite_ref-CS_6-0) [Crafting Sites](https://en.uesp.net/wiki/Online:Crafting_Sites) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-CS2_7-0) [Craftable Sets](https://en.uesp.net/wiki/Online:Craftable_Sets) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [*Master Assistant Materials Acquirer Pacrooti Answers Your Questions*](Lore_Master_Assistant_Materials_Acquirer_Pacrooti_Answers_Your_Questions.md) — [Pacrooti](Lore_Books_by_Author.md#Pacrooti)
+9. [^](#cite_ref-MT_9-0) [*Mesanthano's Tower*](https://en.uesp.net/wiki/Online:Mesanthano%27s_Tower_(note))
+10. [^](#cite_ref-LITR_10-0) Events of [Lost in the Reach](https://en.uesp.net/wiki/Online:Lost_in_the_Reach) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+11. [^](#cite_ref-SOG_11-0) Events of [The Symbol of Gulibeg](https://en.uesp.net/wiki/Online:The_Symbol_of_Gulibeg) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+12. [^](#cite_ref-LFA_12-0) [*Letter from Ansdurran*](https://en.uesp.net/wiki/Online:Letter_from_Ansdurran) — [Ansdurran](https://en.uesp.net/wiki/Online:Ansdurran)
+13. [^](#cite_ref-Ansdurran_13-0) [Ansdurran](https://en.uesp.net/wiki/Online:Ansdurran) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+14. [^](#cite_ref-PRIMA_14-0) [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+15. [^](#cite_ref-NOECM_15-0) Events of [No One Escapes Cidhna Mine](Skyrim_No_One_Escapes_Cidhna_Mine.md) in *[Skyrim](Skyrim_Skyrim.md)*

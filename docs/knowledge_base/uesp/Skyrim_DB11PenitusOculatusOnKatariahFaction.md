@@ -1,0 +1,3 @@
+# DB11PenitusOculatusOnKatariahFaction
+
+Redirects to [DB11PenitusOculatusOnKatariahFaction](Skyrim_Factions_P.md#DB11PenitusOculatusOnKatariahFaction).

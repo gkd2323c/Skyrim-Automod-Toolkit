@@ -1,0 +1,31 @@
+# Quintilla
+
+| Quintilla | | | |
+| --- | --- | --- | --- |
+| Race | Unknown | Gender | Female |
+| Born | [3rd Era](Lore_Third_Era.md#3rd_Era) | | |
+| Resided in | [Camlorn](Lore_Camlorn.md) <br> [Imperial City](Lore_Imperial_City.md) | | |
+
+Quintilla (also known as **Qizara**)<sup>[[1]](#cite_note-BOTWQ-1)</sup> was a noblewoman from the early-mid [Third Era](Lore_Third_Era.md) and was [married](Lore_Marriage.md) into the [Septim Dynasty](Lore_Septim_Dynasty.md). Originally from [Camlorn](Lore_Camlorn_(kingdom).md), she was married to Emperor [Pelagius II](Lore_Pelagius_II.md) and mothered three children, [Potema](Lore_Potema.md), [Cephorus](Lore_Cephorus_I.md) and [Magnus](Lore_Magnus_Septim.md). In life, she was a skilled maiden and an accomplished [sorceress](Lore_Sorcerers.md). As told in *[the Wolf Queen](Lore_The_Wolf_Queen.md)* historical-fiction series written by [Waughin Jarth](Lore_Waughin_Jarth.md), along with Prince Pelagius, Quintilla saved her kingdom from a great [werewolf](Lore_Werewolf.md) demon and trapped his [soul](Lore_Soul.md) in a [yellow gem](Lore_Soul_Gem.md) necklace.<sup>[[2]](#cite_note-TWQ1-2)</sup><sup>[[3]](#cite_note-TWQ8-3)</sup>
+
+## History
+Quintilla was born in the Kingdom of Camlorn and was the daughter of King Vulstaed. *The Wolf Queen* series described her as the most beautiful princess in all of [Tamriel](Lore_Tamriel.md) and an adept and knowledgeable maiden. In [3E 63](Lore_Third_Era.md#3E_63), Camlorn's city-state was attacked by a great demon werewolf. At that time, the widower Prince Pelagius traveled to the city to court her and found it under siege. Together with his sword and Quintilla's sorcery and [mysticism](Lore_Mysticism.md), they defeated the werewolf and had its soul sealed into a gem. Pelagius had it fashioned into a ring and used it to propose to her. A legend persisted however that the wolf's soul would stay with their firstborn child.<sup>[[2]](#cite_note-TWQ1-2)</sup>
+
+In time, Quintilla gave birth to three children, first Potema in [3E 67](Lore_Third_Era.md#3E_67), Cephorus in [3E 77](Lore_Third_Era.md#3E_77), and Magnus in [3E 79](Lore_Third_Era.md#3E_79).<sup>[[4]](#cite_note-TWQ3-4)</sup> In their early years, Quintilla and Pelagius showed little affection for them.<sup>[[1]](#cite_note-BOTWQ-1)</sup> Her relationship with [Antiochus](Lore_Antiochus.md), Pelagius' only son from his first marriage, was not any better. In *the Wolf Queen* series, Quintilla is quoted as saying she and Antiochus were never close and that "being heir presumptive has stunted his growth" and "he will not make a very good Emperor". In the same volume, Antiochus calls her "a [witch](Lore_Witch.md)". After Emperor [Uriel II](Lore_Uriel_II.md)'s death, Quintilla and her family moved to the [Imperial City](Lore_Imperial_City.md) where Pelagius became Emperor as Pelagius Septim II. When he later passed away in [3E 98](Lore_Third_Era.md#3E_98), Antiochus took up the throne and Quintilla became the Dowager Empress. During Potema's reign as the Queen of [Solitude](Lore_Solitude_(kingdom).md), Quintilla liked to visit the [Blue Palace](Lore_Blue_Palace.md).<sup>[[4]](#cite_note-TWQ3-4)</sup>
+
+*The Wolf Queen* series provides a look into her last days before her [death](Lore_Death.md). In the Imperial Gardens of the Blue Palace, Quintilla gave her daughter the necklace bearing the yellow soul gem that held the werewolf spirit. It was [enchanted](Lore_Enchanting.md) with a charm spell from the School of [Illusion](Lore_Illusion.md). She also described a foreboding premonition, fearing for the [future of the Empire](Lore_War_of_the_Red_Diamond.md), and believed she would die in a few months' time, not long before [Mantiarco](Lore_Mantiarco.md)'s death in [3E 100](Lore_Third_Era.md#3E_100).<sup>[[4]](#cite_note-TWQ3-4)</sup> Whether this excerpt from the historical-fiction series is true to the events is unknown. Though Waughin Jarth was known to consult hundreds of contemporary sources for his writings,<sup>[[5]](#cite_note-FOTN-5)</sup> he wrote his books first as entertainment and focused more on penning Potema's life and ambitions than the little details.<sup>[[UOL 1]](#cite_note-IWTW-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/50/ON-place-Camlorn.jpg/200px-ON-place-Camlorn.jpg)](https://en.uesp.net/wiki/File:ON-place-Camlorn.jpg) Camlorn ca. 2E 582
+- [![](https://images.uesp.net/thumb/8/86/SR-place-Blue_Palace_02.jpg/200px-SR-place-Blue_Palace_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Blue_Palace_02.jpg) The Blue Palace ca. 4E 201
+
+## References
+1. ^ <sup>***[a](#cite_ref-BOTWQ_1-0)***</sup><sup>***[b](#cite_ref-BOTWQ_1-1)***</sup> [*Biography of the Wolf Queen*](Lore_Biography_of_the_Wolf_Queen.md) — [Katar Eriphanes](Lore_Books_by_Author.md#Katar_Eriphanes)
+2. ^ <sup>***[a](#cite_ref-TWQ1_2-0)***</sup><sup>***[b](#cite_ref-TWQ1_2-1)***</sup> [*The Wolf Queen, v1*](Lore_The_Wolf_Queen,_v1.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+3. [^](#cite_ref-TWQ8_3-0) [*The Wolf Queen, v8*](Lore_The_Wolf_Queen,_v8.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+4. ^ <sup>***[a](#cite_ref-TWQ3_4-0)***</sup><sup>***[b](#cite_ref-TWQ3_4-1)***</sup><sup>***[c](#cite_ref-TWQ3_4-2)***</sup> [*The Wolf Queen, v3*](Lore_The_Wolf_Queen,_v3.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+5. [^](#cite_ref-FOTN_5-0) [*Father of the Niben*](Lore_Father_Of_The_Niben.md) — [Florin Jaliil](Lore_Books_by_Author.md#Florin_Jaliil)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-IWTW_6-0) [*Interview With Three Writers*](https://en.uesp.net/wiki/General:Interview_With_Three_Writers) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth), [Baloth-Kul](Lore_Books_by_Author.md#Baloth-Kul) and [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)

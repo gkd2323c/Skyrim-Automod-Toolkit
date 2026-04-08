@@ -1,0 +1,27 @@
+# Adonia of the Heart's Ache
+
+| Adonia of the Heart's Ache | | | |
+| --- | --- | --- | --- |
+| Race | [Dunmer](Lore_Dunmer.md) | Gender | Female |
+| Born | [First Era](Lore_Era.md#First_Era) | | |
+
+*That rune is the maker's mark of Adonia of the Heart's Ache - an artist from the First Era. Adonia's voice sent many an erstwhile suitor to their graves when they got too ... persistent. And anything Adonia crafted involved music in some form.*
+—Reginus Buca<sup>[[1]](#cite_note-Music-1)</sup> Adonia of the Heart's Ache was an [Arcanist](Lore_Arcanist.md), artist, and artisan from the [First Era](Lore_First_Era.md), recognized for her association with the Girvayne family, a renowned [Dunmeri](Lore_Dunmer.md) lineage of [instrument](Lore_Instruments.md) makers.<sup>[[1]](#cite_note-Music-1)</sup><sup>[[nb 1]](#intnote_nb1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/6/68/ON-furnishing-Music_Box%2C_Glyphic_Secrets.jpg/200px-ON-furnishing-Music_Box%2C_Glyphic_Secrets.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Music_Box,_Glyphic_Secrets.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Music_Box,_Glyphic_Secrets.jpg) Music Box, Glyphic Secrets [![](https://images.uesp.net/thumb/9/98/ON-furnishing-Music_Box%2C_Glyphic_Secrets_02.jpg/200px-ON-furnishing-Music_Box%2C_Glyphic_Secrets_02.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Music_Box,_Glyphic_Secrets_02.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Music_Box,_Glyphic_Secrets_02.jpg) An active music box Little is known about Adonia's life, aside from the fact that she was recognized as a grand artisan and artist of the First Era. She was renowned for her prodigious skills in music and gemstone crafting, and was also recognized as a talented Arcanist.<sup>[[1]](#cite_note-Music-1)</sup>
+
+Around [2E 582](Lore_Second_Era.md#2E_582), a [member](Lore_The_Vestige.md) of the [Antiquarian Circle](Lore_Antiquarian_Circle.md) of the [University of Gwylim](Lore_University_of_Gwylim.md) uncovered all the long-lost pieces of a music box crafted by Adonia. After carefully assessing the fragments, the university's scholars linked its creation to her, the Girvayne family, and the magical arts of the Arcanists. Ultimately, they succeeded in reassembling the pieces, restoring the music box to full functionality. Among the recovered fragments were metal cubes made of [wispmetal](Lore_Metals.md#Wispmetal), a fabric woven from wispmetal inscribed with a faint Arcanist rune, and springs crafted from wispmetal, some adorned with designs honoring [Hermaeus Mora](Lore_Hermaeus_Mora.md). There was also a [darklight gemstone](Lore_Crystals.md#Darklight_Gemstone), engraved with runes and cut into a cabochon shape. The artistry and magical expertise required for the creation of this gemstone were described as nothing short of prodigious.<sup>[[1]](#cite_note-Music-1)</sup>
+
+Additionally, the fragments included [calcite](Lore_Crystals.md#Calcite) gears with runic sigils, meticulously crafted by an Arcanist, an Inknwood box bearing the Girvayne family symbol, a winding shaft once again made from wispmetal, a rune-carved fate, a rune-etched cylinder, and a rune-scribed comb. All of these pieces were originally part of the intricate and magical music box.<sup>[[1]](#cite_note-Music-1)</sup>
+
+In the same year, another member of the Girvayne family, Melsu Girvayne, a member of the Ciphers of the Eye, who resided in [Apocrypha](Lore_Apocrypha.md) revealed that her ancestor spirits had given her a task so impossible that it would require the help of a [Daedric Prince](Lore_Daedric_Princes.md) to complete. She also remarked that, by then, the Girvayne family were highly sought-after chefs rather than instrument makers.<sup>[[2]](#cite_note-CMG-2)</sup>
+
+## Notes
+- | [1.](#note_nb1) | Fragments of the Music Box, Glyphic Secrets attribute its creation to Adonia of the Heart's Ache, identifying her as an Arcanist. The maker's mark was linked to the Girvayne family,<sup>[[1]](#cite_note-Music-1)</sup> a Dunmeri lineage also active through the [Second](Lore_Second_Era.md) and [Third Eras](Lore_Third_Era.md). Some members of the Girvayne family were also associated with Hermaeus Mora.<sup>[[2]](#cite_note-CMG-2)</sup><sup>[[3]](#cite_note-MW-3)</sup> |
+| --- | --- |
+
+## References
+1. ^ <sup>***[a](#cite_ref-Music_1-0)***</sup><sup>***[b](#cite_ref-Music_1-1)***</sup><sup>***[c](#cite_ref-Music_1-2)***</sup><sup>***[d](#cite_ref-Music_1-3)***</sup><sup>***[e](#cite_ref-Music_1-4)***</sup><sup>***[f](#cite_ref-Music_1-5)***</sup> [Music Box, Glyphic Secrets](https://en.uesp.net/wiki/Online:Music_Box,_Glyphic_Secrets) item description and antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+2. ^ <sup>***[a](#cite_ref-CMG_2-0)***</sup><sup>***[b](#cite_ref-CMG_2-1)***</sup> [Cipher Melsu Girvayne](https://en.uesp.net/wiki/Online:Cipher_Melsu_Girvayne)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+3. [^](#cite_ref-MW_3-0) [Teruise Girvayne](https://en.uesp.net/wiki/Morrowind:Teruise_Girvayne) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*

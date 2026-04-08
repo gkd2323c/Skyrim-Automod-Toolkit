@@ -1,0 +1,52 @@
+# Twilight Sepulcher
+
+| --- | --- |
+| Type | Nordic Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [Falkreath](Lore_Falkreath_Hold.md) |
+| Appears in | [Skyrim](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher) |
+
+[![](https://images.uesp.net/thumb/0/07/SR-place-Twilight_Sepulcher.jpg/200px-SR-place-Twilight_Sepulcher.jpg)](https://en.uesp.net/wiki/File:SR-place-Twilight_Sepulcher.jpg) [](https://en.uesp.net/wiki/File:SR-place-Twilight_Sepulcher.jpg) Twilight Sepulcher ca. [4E 201](Lore_Fourth_Era.md#4E_201) The Twilight Sepulcher is an underground nordic ruin located in the deep woods of [Falkreath Hold](Lore_Falkreath_Hold.md), near the provincial border of [Skyrim](Lore_Skyrim.md). The ruins serve as a temple dedicated to [Nocturnal](Lore_Nocturnal.md), the [Daedric Prince](https://en.uesp.net/wiki/Lore:Daedric_Prince) of Darkness and Luck, and it has been guarded by the [Nightingale Trinity](Lore_Nightingale_Trinity.md) for many years, even after death to which they serve as spectral guardians. The temple also serves as a conduit to the [Evergloam](https://en.uesp.net/wiki/Lore:Evergloam), via the [portal](Lore_Magical_Transportation.md), the [Ebonmere](https://en.uesp.net/wiki/Lore:Ebonmere), which is activated and locked by the [Skeleton Key](Lore_Skeleton_Key.md).<sup>[[1]](#cite_note-TN1-1)</sup> The Ebonmere appears as a three-pronged portal, with a circle of impossibly deep blue vapors congealing around it, and the circles of the waxing and waning moon at its base imbue users with powers befitting of a Nightingale Agent.<sup>[[2]](#cite_note-TESVSPOGG-2)</sup> The Nightingales have ease of access to the Ebonmere through a portal in their headquarters, the [Nightingale Hall](https://en.uesp.net/wiki/Lore:Nightingale_Hall),<sup>[[3]](#cite_note-SRDarkness-3)</sup> must drink deeply from the Ebonmere to become Agents of Nocturnal.<sup>[[2]](#cite_note-TESVSPOGG-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/f/fd/SR-npc-Gallus.jpg/200px-SR-npc-Gallus.jpg)](https://en.uesp.net/wiki/File:SR-npc-Gallus.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Gallus.jpg) The Spirit of Gallus Desidenius The portal to the Evergloam has existed in the area since long before recorded history,<sup>[[4]](#cite_note-SRKarliah-4)</sup> which means it predates the reign of High King [Harald](Lore_Harald.md).<sup>[[5]](#cite_note-PGE1E-5)</sup> The temple was built by the local [man](Lore_Man.md) and [elves](https://en.uesp.net/wiki/Lore:Elves), to shield the conduit from people that would abuse it. Because of their patron's presence in the ruins, cultists of Nocturnal have gathered in the Twilight Sepulcher and created all sorts of rituals and ceremonies in the name of the Daedric Prince. One of their ceremonies involved is the Pilgrim's Path, a test of worthiness that ends at the Ebonmere's chamber deep in the mountains.<sup>[[4]](#cite_note-SRKarliah-4)</sup>
+
+Sometime in [4E 176](Lore_Fourth_Era.md#4E_176), the Nightingale, [Mercer Frey](Lore_Mercer_Frey.md) desecrated the Twilight Sepulcher and stole the Skeleton Key. In secret, he was tracked by his fellow Nightingale, [Gallus Desidenius](Lore_Gallus_Desidenius.md) but was later killed by Frey in Snow Veil Sanctum.<sup>[[6]](#cite_note-GJ-6)</sup> In death, Gallus' spirit was placed in the Twilight Sepulcher as the last Nightingale Sentinel<sup>[[7]](#cite_note-SRGallus-7)</sup> and protected the temple for twenty-five years while his friend, [Karliah](Lore_Karliah.md) was branded a murderer ever since.<sup>[[4]](#cite_note-SRKarliah-4)</sup> Because Mercer stole the key, it severely damaged the Nightingales' connection to the Ebonmere and their ties to Nocturnal.<sup>[[7]](#cite_note-SRGallus-7)</sup>
+
+At some point in time, a pair of bandits, Anders and Nystrom ventured to the Twilight Sepulcher in the hopes of finding treasure and posed as priests of Nocturnal to get in good with the other cultists. Nystrom was assigned a mentor in the form of an elderly [Dark Elf](https://en.uesp.net/wiki/Lore:Dark_Elf), Lythelus, who told him everything about the Pilgrim's Path.<sup>[[8]](#cite_note-NJ-8)</sup> With all of their notes together, Anders murdered Nystrom and traversed the path with mild succession. But when he came onto the final path, he was stuck in the pit and later died of starvation.<sup>[[9]](#cite_note-AM-9)</sup>
+
+After they defeated Mercer Frey in Bronze Water Cave in [4E 201](Lore_Fourth_Era.md#4E_201), a [member](Lore_Last_Dragonborn.md) of the Nightingale Trinity traveled to the Twilight Sepulcher with the Skeleton Key in hand, in the hopes of returning it to the Daedric Prince. But because of Mercer Frey's theft of the key, they had to travel down the Pilgrim's Path in order to reach the Ebonmere. The Nightingale managed to return the key and drank from the Ebonmere to become an Agent of Nocturnal. With the Nightingales' connection to the Daedric Prince restored, Gallus was relieved of his duties and his spirit was put to rest in the Evergloam.<sup>[[3]](#cite_note-SRDarkness-3)</sup>
+
+## The Pilgrim's Path
+[![](https://images.uesp.net/thumb/4/4c/SR-quest-Darkness_Returns_03.jpg/200px-SR-quest-Darkness_Returns_03.jpg)](https://en.uesp.net/wiki/File:SR-quest-Darkness_Returns_03.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Darkness_Returns_03.jpg) The Second Room of the Pilgrim's Path *Shadows of their former selves, sentinels of the dark. They wander ever more and deal swift death to defilers.
+Above all they stand, vigilance everlasting. Beholden to the murk yet contentious of the glow.
+Offer what She desires most, but reject the material. For her greatest want is that which cannot be seen, felt, or carried.
+Direct and yet indirect. The path to salvation a route of cunning with fortune betraying the foolish.
+The journey is complete, the Empress's embrace awaits the fallen. Hesitate not if you wish to gift her your eternal devotion.*
+—Description on each part of the Pilgrim's Path The first part of the Pilgrim's Path is a large room with a statue in the middle and Nightingale Sentinels, ready to defend the sepulcher from intruders. The pilgrim must get past the Sentinels before they could advance further, either sneaking through them or by fighting. The second part is a vast and open room enveloped in a deep dark shadow and only illuminated by braziers of harmful light magic. The objective is to sneak through the gauntlet without coming into contact with the light, or coming across the tripwire traps, otherwise, it leads to death. The third room is a chamber with a statue of Nocturnal in the middle, and the pilgrim must offer what she desires, "darkness". The pilgrim must put out the flames and shut off all light in the room to proceed.<sup>[[3]](#cite_note-SRDarkness-3)</sup>
+
+The fourth part is a multi-pathed hallway with a series of traps, from the swinging blades to the spear traps. At the end is a battering ram trap and behind that is the door that leads into the inner sanctum. The final part is a large corridor with a steep drop at the end. The bottom of the drop will open further to the Ebonmere for those that seek out Nocturnal's embrace,<sup>[[8]](#cite_note-NJ-8)</sup> but for anyone else, it will never open and they could starve to death.<sup>[[9]](#cite_note-AM-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/2/2e/SR-interior-Twilight_Sepulcher_05.jpg/200px-SR-interior-Twilight_Sepulcher_05.jpg)](https://en.uesp.net/wiki/File:SR-interior-Twilight_Sepulcher_05.jpg) The Antechamber
+- [![](https://images.uesp.net/thumb/b/ba/SR-interior-Twilight_Sepulcher_04.jpg/200px-SR-interior-Twilight_Sepulcher_04.jpg)](https://en.uesp.net/wiki/File:SR-interior-Twilight_Sepulcher_04.jpg) The Ebonmere
+- [![](https://images.uesp.net/thumb/2/25/SR-quest-Darkness_Returns_02.jpg/200px-SR-quest-Darkness_Returns_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-Darkness_Returns_02.jpg) The Nightingale Sentinels
+
+## See Also
+- For game-specific information, see the [*Skyrim* article](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher).
+
+### Books
+- ***[The Nightingales](https://en.uesp.net/wiki/Lore:The_Nightingales)*** by [Gallus Desidenius](Lore_Books_by_Author.md#Gallus_Desidenius) — An insider's account of the Nightingales
+- ***[Nystrom's Journal](https://en.uesp.net/wiki/Skyrim:Nystrom%27s_Journal)*** by [Nystrom](https://en.uesp.net/wiki/Skyrim:Nystrom) — A bandit's journal on attempting to con their way into the Twilight Sepulcher
+
+## References
+1. [^](#cite_ref-TN1_1-0) [*The Nightingales Vol. 1*](https://en.uesp.net/wiki/Lore:The_Nightingales_Vol._1) — [Gallus Desidenius](Lore_Books_by_Author.md#Gallus_Desidenius)
+2. ^ <sup>***[a](#cite_ref-TESVSPOGG_2-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_2-1)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V__Skyrim__Prima_Official_Game_Guide) — David Hodgson
+3. ^ <sup>***[a](#cite_ref-SRDarkness_3-0)***</sup><sup>***[b](#cite_ref-SRDarkness_3-1)***</sup><sup>***[c](#cite_ref-SRDarkness_3-2)***</sup> [Darkness Returns](Skyrim_Darkness_Returns.md) faction quest in *[Skyrim](Skyrim_Skyrim.md)*
+4. ^ <sup>***[a](#cite_ref-SRKarliah_4-0)***</sup><sup>***[b](#cite_ref-SRKarliah_4-1)***</sup><sup>***[c](#cite_ref-SRKarliah_4-2)***</sup> [Karliah](Skyrim_Karliah.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+5. [^](#cite_ref-PGE1E_5-0) [*Pocket Guide to the Empire, 1st Edition: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+6. [^](#cite_ref-GJ_6-0) [*Gallus's Journal*](https://en.uesp.net/wiki/Skyrim:Gallus%27s_Journal) — [Gallus Desidenius](Skyrim_Gallus.md)
+7. ^ <sup>***[a](#cite_ref-SRGallus_7-0)***</sup><sup>***[b](#cite_ref-SRGallus_7-1)***</sup> [Gallus](Skyrim_Darkness_Returns.md#The_Twilight_Sepulcher)' dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+8. ^ <sup>***[a](#cite_ref-NJ_8-0)***</sup><sup>***[b](#cite_ref-NJ_8-1)***</sup> [*Nystrom's Journal*](https://en.uesp.net/wiki/Skyrim:Nystrom%27s_Journal) — [Nystrom](https://en.uesp.net/wiki/Skyrim:Nystrom)
+9. ^ <sup>***[a](#cite_ref-AM_9-0)***</sup><sup>***[b](#cite_ref-AM_9-1)***</sup> [*Anders's Message*](https://en.uesp.net/wiki/Skyrim:Anders%27s_Message) — [Anders](https://en.uesp.net/wiki/Skyrim:Anders)

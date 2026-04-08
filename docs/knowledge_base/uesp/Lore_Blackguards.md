@@ -1,0 +1,14 @@
+# Blackguards
+
+The Blackguards were a bandit group consisting mainly of [Nagas](Lore_Naga.md) that operated out of [Blackrose Prison](Lore_Blackrose_Prison.md) in the mid [Second Era](Lore_Second_Era.md). This prison was home to some of the Empire's worst prisoners and the Naga suffered the most at the hands of the [Imperial](Lore_Imperial.md) jailers.<sup>[[1]](#cite_note-Ft SMBP-1)</sup> The descendants of these Naga captives violently took over the prison and called themselves the Blackguards, reclaiming the prison to be their fortress and wielding the very chains that once bound them.
+
+Drakeeh the Naga became the "raj-kaal", the leader of the Blackguards.<sup>[[2]](#cite_note-DUJ3-2)</sup> Originally only consisting of [Argonians](Lore_Argonian.md), the Blackguards would later open membership to "dryskins", the non-Argonian races.<sup>[[3]](#cite_note-DUJ12-3)</sup> The Gauntlet was born as an arena into which were thrown people that questioned Drakeeh's leadership and people who tried to leave the Blackguards.<sup>[[4]](#cite_note-DUJ17-4)</sup> The Blackguards' contraband operations were profitable and widespread, stretching as far as [Auridon](Lore_Auridon.md) and [Glenumbra](Lore_Glenumbra.md). In [2E 582](Lore_Second_Era.md#2E_582), the [Undaunted](Lore_Undaunted.md) were tasked with putting an end to the nefarious activities of the Blackguards. The Undaunted launched an assault on Blackrose Prison, which the Blackguards had repurposed as a fortress, and managed to slay Drakeeh the Unchained.
+
+## References
+1. [^](#cite_ref-Ft SMBP_1-0) [Fight to Survive Murkmire's Blackrose Prison](https://en.uesp.net/wiki/General:Fight_to_Survive_Murkmire%27s_Blackrose_Prison)
+2. [^](#cite_ref-DUJ3_2-0) [*Drakeeh the Unchained's Journal, Page 3*](Lore_Drakeeh_the_Unchained%27s_Journal,_Page_3.md) — [Drakeeh the Unchained](Lore_Books_by_Author.md#Drakeeh_the_Unchained)
+3. [^](#cite_ref-DUJ12_3-0) [*Drakeeh the Unchained's Journal, Page 12*](Lore_Drakeeh_the_Unchained%27s_Journal,_Page_12.md) — [Drakeeh the Unchained](Lore_Books_by_Author.md#Drakeeh_the_Unchained)
+4. [^](#cite_ref-DUJ17_4-0) [*Drakeeh the Unchained's Journal, Page 17*](Lore_Drakeeh_the_Unchained%27s_Journal,_Page_17.md) — [Drakeeh the Unchained](Lore_Books_by_Author.md#Drakeeh_the_Unchained)
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Lore:Blackguards&action=edit).*

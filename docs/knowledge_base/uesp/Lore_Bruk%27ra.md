@@ -1,0 +1,29 @@
+# Bruk'ra
+
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Elsweyr](Lore_Elsweyr.md) |
+| Region | [Pellitine](Lore_Pellitine.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Brukreich_Bridge) |
+
+[![](https://images.uesp.net/thumb/b/be/AR-place-Brukreich_Bridge.jpg/200px-AR-place-Brukreich_Bridge.jpg)](https://en.uesp.net/wiki/File:AR-place-Brukreich_Bridge.jpg) [](https://en.uesp.net/wiki/File:AR-place-Brukreich_Bridge.jpg) Brukreich Bridge (Arena) Bruk'ra (currently known as **Brukreich Bridge**)<sup>[[1]](#cite_note-AR-1)</sup> is a historical settlement found in east-central [Elsweyr](Lore_Elsweyr.md), several leagues from the [Topal Bay](Lore_Topal_Bay.md) to the southeast and the [Tenmar Forest](https://en.uesp.net/wiki/Lore:Tenmar_Forest) to the south. In ancient times, Bruk'ra was one of the sixteen kingdoms of Elsweyr, known for their river-traders and traffickers. Back in those times, it was ruled by the Merchant-Prince.<sup>[[2]](#cite_note-TSK-2)</sup>
+
+## History
+Back in the days of the [Merethic Era](Lore_Merethic_Era.md), the kingdoms were ruled by Hunt-Lords, who greatly oppressed their people to the point of starvation and death, while they lived with great wealth and fortune. The adepts of the [Rawl'kha](https://en.uesp.net/wiki/Lore:Rawl%27kha) Temple returned from isolation after they created the [Claw-Dances](Lore_Claw-Dances.md) and passed their knowledge to the peasants and the weak. In the latter years of the Merethic Era, the feuding hunt-lords of [Helkarn](Lore_Helkarn.md) and [Meirvale](Lore_Meirvale.md) drafted many of their peasants, creating one of the worst famines in the province's history until three years later, when the peasants began to overthrow them. The chaos had soon spread into other places such as Bruk'ra and within a century, the hunter caste system of old Elsweyr had been toppled.<sup>[[3]](#cite_note-OOTKMT-3)</sup>
+
+The wander-kings of Bruk'ra had annexed the nearby city of [Leyawiin](Lore_Leyawiin.md) after the [conquests](Lore_Anequine_Conquests.md) of [Darloc Brae](https://en.uesp.net/wiki/Lore:Darloc_Brae) in the early [First Era](Lore_First_Era.md). It is theorized to have occurred back when the Chapel of Zenithar was originally built, which was underdone by Saint [Kaladas](https://en.uesp.net/wiki/Lore:Kaladas). The [Antiquarian Circle](https://en.uesp.net/wiki/Lore:Antiquarian_Circle) supports this idea when they came across the stained glass of the [Lunar Lattice](https://en.uesp.net/wiki/Lore:Lunar_Lattice), which, despite the fact it was made by Khajiiti glassworkers, shares similarities to the [Imperial](Lore_Imperial.md) style seen in Cyrodiil's Great Chapels. It was possibly made for the converted Great Chapel of Zenithar, although this is not reflected in Imperial histories and it is unknown if the chapel had been fully constructed by that time.<sup>[[4]](#cite_note-ONAntiquity-4)</sup>
+
+Like the other kingdoms, Bruk'ra was severely affected by the [Thrassian Plague](Lore_Thrassian_Plague.md) in [1E 2260](Lore_First_Era.md#1E_2260), which came through the province's trade routes.<sup>[[5]](#cite_note-PGE3E-5)</sup> To compensate with the constant death, the clans had to change their tribal functions and join together under a single ideology.<sup>[[6]](#cite_note-AAPAI-6)</sup> Bruk'ra and the other southern clans congregated in the harbor-town of [Senchal](Lore_Senchal.md), where they were guided to peace and stability by the Pa'alatiin Clan of moon-priests. These states had become the modern-day kingdom of [Pellitine](Lore_Pellitine.md), which took influence from the [Bretons](Lore_Breton.md) and Imperials in turns of their social system and architecture.<sup>[[7]](#cite_note-HOPAO-7)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the town of Brukreich Bridge was an active settlement. It was ruled by Prince Mohamsien and had a rivalry with Greenhall.<sup>[[1]](#cite_note-AR-1)</sup> Brukreich Bridge is neighbored by several settlements, including Chasemoor to the far north, Duncori Walk to the south, and River Keep to the north.<sup>[[8]](#cite_note-ARMap-8)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-AR_1-0)***</sup><sup>***[b](#cite_ref-AR_1-1)***</sup> [Brukreich Bridge](https://en.uesp.net/wiki/Arena:Brukreich_Bridge) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. [^](#cite_ref-TSK_2-0) [*The Sixteen Kingdoms*](https://en.uesp.net/wiki/Lore:The_Sixteen_Kingdoms)
+3. [^](#cite_ref-OOTKMT_3-0) [*Origins of the Khajiiti Martial Tradition*](https://en.uesp.net/wiki/Lore:Origins_of_the_Khajiiti_Martial_Tradition) — [Tendwuayne](Lore_Books_by_Author.md#Tendwuayne), Sapiarch of Foreign Customs
+4. [^](#cite_ref-ONAntiquity_4-0) [Stained Glass of Lunar Phases](https://en.uesp.net/wiki/Online:Stained_Glass_of_Lunar_Phases) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+5. [^](#cite_ref-PGE3E_5-0) [*Pocket Guide to the Empire, 3rd Edition: Sugar and Blood: the Cats of the South*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Sugar_and_Blood.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+6. [^](#cite_ref-AAPAI_6-0) [*Anequina and Pellitine: An Introduction*](https://en.uesp.net/wiki/Lore:Anequina_and_Pellitine__An_Introduction) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+7. [^](#cite_ref-HOPAO_7-0) [*History of Pellitine: An Overview*](https://en.uesp.net/wiki/Lore:History_of_Pellitine__An_Overview) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+8. [^](#cite_ref-ARMap_8-0) [Map of Elsweyr – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Elsweyr_towns.png)

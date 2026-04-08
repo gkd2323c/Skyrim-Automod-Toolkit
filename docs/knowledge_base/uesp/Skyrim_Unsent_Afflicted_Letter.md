@@ -1,0 +1,36 @@
+# Unsent Afflicted Letter
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal1.png) Book Information <br> *Unsent Afflicted Letter* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0E7F39 | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 5 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Locations | | | |
+| Found in the following locations: - Testcells [Dreamworld](Skyrim_Dreamworld.md) | | | |
+
+Unsent Afflicted Letter *A letter written by one of the Afflicted, chronicling their voyage to Bthardamz* *
+---
+Beloved Duphraime - I know you thought me a fool not to leave Cul Aloue with you and the others, but I couldn't abandon our children to the wasting sickness. Whatever horrible fates you may have guessed for us, however, are probably far from the truth of what has happened.
+
+I send this letter in hopes that it will sooth *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* a worried mind.
+
+Maybe a week after you left with the rest of the healthy folk, I was patrolling the low wall by foot. Even our poor Kelter had taken the illness and was unfit to ride. I was praying that no bandits would be foolish enough to risk infection for our trifling goods. Then, outlined against the pyre-light of the day's lost, I saw a long figure marching towards the village.
+
+The stranger was a [Sumerset](Lore_Summerset_Isle.md) [elf](Skyrim_High_Elf.md) who introduced himself as [Orchendor](Skyrim_Orchendor.md), and with him came a change in destiny for the folk of Cul Aloue.
+
+Orchendor walked among our people without fear of the wasting sickness that had taken root in the marrow of every remaining villager, myself included by now. For days he ate and spoke with us, learning each name. He calmed the folk in a way my lying prayers could not. Spirits became cheerful that days before awaited bleakly in the death's parlor.
+
+Orchendor assembled us then, crowding the villagers into Cullete's barn, she being the most badly stricken at that time, and unable to move without being carried by Orchendor himself.
+
+The good elf then gave us tidings that none could have guessed. He claimed that the sickness was not a curse on our village, as we were sure it had been. Rather, Orchendor insisted, it was a boon, a beacon which drew him to us. He told us that he served the Daedric Prince [Peryite](Lore_Peryite.md).
+
+I know what you're thinking - we burned Dina and Lucas not three years before, after all. Cul Aloue would never suffer the heresies of a Daedra Worshipper in our midst. Yet, we did. Not only that, but we raptly heard what he had to say. Maybe you think we were too sick, too weak, but we weren't.
+
+Orchendor apologized for our dead, saying he came with all haste to Cul Aloue. None had perished since his arrival, though several seemed on the brink in the hours before. He wanted to take us to a new home, a place where we could live out our days in worship of Peryite as his chosen. As his Afflicted.
+
+Nobody refused. Some were carried in carts and litters, but all made the trek with Orchendor across the border into Skyrim, leaving Cul Aloue an empty, haunted place.
+
+We have since lived in refuge, the ruins of an ancient [Dwarven](Skyrim_Dwemer.md) city. Other Afflicted live with us, many with similar tales to that of Cul Aloue, bound together by our divine infection. Though you could say we are all sick, the effects of the sickness no longer diminish us, but give us strength. We heal ourselves with liquors and tinctures that other men would call poison.
+
+Orchendor keeps us safe here, by the blessing of our Prince Peryite. I am now an Apostle of the Afflicted, tasked to disseminate the teachings of Peryite to our Afflicted.
+
+And so, sweet Duphraime, the spirit of Cul Aloue lives on. I will never blame you for abandoning us that day, now long past. In truth, I am saddened that you were not likewise chosen by Peryite to awake *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* with these oozing lungs. Peryite preserve you, dear husband, and know your children are well.

@@ -1,0 +1,44 @@
+# Greathall
+
+| --- |
+
+| \| Home: <br> Greathall <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Greathall)) \| <br> \| --- \| | Home: <br> Greathall <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Greathall)) |
+| --- | --- |
+| Home: <br> Greathall <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Greathall)) | |
+| # of Zones | 1 |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days |
+| Console Location Code(s) | |
+| DLC2SVGreathall | |
+| Region | |
+| [Solstheim](Skyrim_Solstheim.md) | |
+| Location | |
+| [Skaal Village](Skyrim_Skaal_Village.md) | |
+| Special Features | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 1 |
+
+[![](https://images.uesp.net/thumb/e/e5/SR-place-Greathall.jpg/200px-SR-place-Greathall.jpg)](https://en.uesp.net/wiki/File:SR-place-Greathall.jpg) [](https://en.uesp.net/wiki/File:SR-place-Greathall.jpg) Greathall The **Greathall** is the home of chief [Fanari Strong-Voice](https://en.uesp.net/wiki/Skyrim:Fanari_Strong-Voice) and [Tharstan](https://en.uesp.net/wiki/Skyrim:Tharstan) in [Skaal Village](Skyrim_Skaal_Village.md).
+
+It is on the east side of the village, north of the [Shaman's Hut](Skyrim_Shaman%27s_Hut.md).
+
+## Residents
+| Residents |
+| --- |
+| [Fanari Strong-Voice](https://en.uesp.net/wiki/Skyrim:Fanari_Strong-Voice) [Tharstan](https://en.uesp.net/wiki/Skyrim:Tharstan) |
+
+## Walkthrough
+
+### Exterior
+The building has two entrances, with the front entrance to the west and the back entrance to the east. To the left of the front entrance is a lit brazier and a [purple mountain flower](https://en.uesp.net/wiki/Skyrim:Purple_Mountain_Flower). To the right of the front entrance is another lit brazier. The entrances are unlocked.
+
+### Greathall
+[![](https://images.uesp.net/thumb/3/30/SR-interior-Greathall.jpg/200px-SR-interior-Greathall.jpg)](https://en.uesp.net/wiki/File:SR-interior-Greathall.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Greathall.jpg) Greathall interior The front entrance leads into a large hall with balconies around the western half of the room. Stairs are against the northern and southern walls. There is a large fire pit in the center of the room with a [cooking pot](Skyrim_Cooking.md) on the south side. Around the fire pit are three pieces of [firewood](Skyrim_Firewood.md), a pot of [honey](https://en.uesp.net/wiki/Skyrim:Honey), a stand containing three fillets of [horker meat](https://en.uesp.net/wiki/Skyrim:Horker_Meat), an open crate containing a [cabbage](https://en.uesp.net/wiki/Skyrim:Cabbage) and a bottle of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine) and a cast iron pot, which contains two [potatoes](https://en.uesp.net/wiki/Skyrim:Potato), next to a chair.
+
+Against the eastern wall is an open display case containing two [horker tusks](https://en.uesp.net/wiki/Skyrim:Horker_Tusk) and a [rock warbler egg](https://en.uesp.net/wiki/Skyrim:Rock_Warbler_Egg). In front of this, next to a pillar, is a basket containing three [wheat](Skyrim_Wheat.md) samples. To the right of the display case, in the southeast corner, is a crate. Against the southern wall between the crate and stairs is a set of shelves containing an [eidar cheese wheel](https://en.uesp.net/wiki/Skyrim:Eidar_Cheese_Wheel), a [goat cheese wheel](https://en.uesp.net/wiki/Skyrim:Goat_Cheese_Wheel), a [sliced goat cheese](https://en.uesp.net/wiki/Skyrim:Sliced_Goat_Cheese), an [ash yam](https://en.uesp.net/wiki/Skyrim:Ash_Yam), a sack and a [salt pile](https://en.uesp.net/wiki/Skyrim:Salt_Pile). Under the southern stairs are two crates, a mead barrel, three sacks and a chair. In front of this are two lit braziers with a wood pile and a [woodcutter's axe](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe). To the right of the lit braziers, hanging under the balcony, are two [salmon](Skyrim_Salmon_(dead).md), a [pheasant](Skyrim_Pheasant.md), [frost mirriam](Skyrim_Frost_Mirriam.md) and [elves ear](Skyrim_Elves_Ear.md). Also against the southern wall is a barrel with a [deer hide](https://en.uesp.net/wiki/Skyrim:Deer_Hide) beside it.
+
+[![](https://images.uesp.net/thumb/b/b5/SR-interior-Greathall_02.jpg/200px-SR-interior-Greathall_02.jpg)](https://en.uesp.net/wiki/File:SR-interior-Greathall_02.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Greathall_02.jpg) Back door In the southwest corner, against the western wall is a set of shelves containing a [knapsack](https://en.uesp.net/wiki/Skyrim:Knapsack), three [leather strips](https://en.uesp.net/wiki/Skyrim:Leather_Strips), two bottles of alto wine and a goat cheese wheel. There is a second entrance in the middle of this wall. Farther to the right is a small set of shelves containing two potatoes, a [goat hide](https://en.uesp.net/wiki/Skyrim:Goat_Hide), a [snow fox pelt](https://en.uesp.net/wiki/Skyrim:Snow_Fox_Pelt) and a metal bowl, which contains three [gold ore](Skyrim_Gold_Ore.md) samples. In the northwestern corner is an open display case containing two animal skulls.
+
+Against the northern wall is a desk with copies of *[Deathbrand](Skyrim_Deathbrand_(book).md)*, *[Vernaccus and Bourlor](https://en.uesp.net/wiki/Skyrim:Vernaccus_and_Bourlor)*, *[Children of the All-Maker](https://en.uesp.net/wiki/Skyrim:Children_of_the_All-Maker)*, *[Fall of the Snow Prince](https://en.uesp.net/wiki/Skyrim:Fall_of_the_Snow_Prince)*, *[Ghosts in the Storm](https://en.uesp.net/wiki/Skyrim:Ghosts_in_the_Storm)*, *[Last King of the Ayleids](https://en.uesp.net/wiki/Skyrim:Last_King_of_the_Ayleids)*, *[The Guardian and the Traitor](https://en.uesp.net/wiki/Skyrim:The_Guardian_and_the_Traitor)*, *[The Song of Pelinal, v3](https://en.uesp.net/wiki/Skyrim:The_Song_of_Pelinal,_v3)*, *[The Real Barenziah, v3](https://en.uesp.net/wiki/Skyrim:The_Real_Barenziah,_v3)*, *[Ahzidal's Descent](https://en.uesp.net/wiki/Skyrim:Ahzidal%27s_Descent)*, a [roll of paper](https://en.uesp.net/wiki/Skyrim:Roll_of_Paper), a small [coin purse](https://en.uesp.net/wiki/Skyrim:Coin_Purse) and two bottles, one of alto wine and the other [wine](https://en.uesp.net/wiki/Skyrim:Wine).
+
+To the right of the desk is an end table. Farther to the right, under the northern stairs, are two barrels, a crate and a sack. In front of these are two more lit braziers with a crate and three sacks in between. To the left of the lit braziers, hanging under the balcony, are two samples of elves ear, a [garlic](Skyrim_Garlic.md) braid, a [rabbit](Skyrim_Rabbit_(dead).md) and a pheasant. Still against the northern wall, between the stairs and the corner, is a small round table and two chairs. On the table is a wooden plate holding a [salmon steak](https://en.uesp.net/wiki/Skyrim:Salmon_Steak). In the northeast corner is a set of shelves containing a [deer pelt](https://en.uesp.net/wiki/Skyrim:Deer_Pelt), an [empty bottle of wine](https://en.uesp.net/wiki/Skyrim:Empty_Wine_Bottle), a leather strip and an open crate containing three pieces of [leather](Skyrim_Leather.md). To the right of this is a barrel with a large piece of [charcoal](https://en.uesp.net/wiki/Skyrim:Charcoal) on the ground beside it. Next to a pillar in front of the western entrance is a crate, with a basket containing five large pieces of charcoal in, and two more around, it. Towards the middle of the room between both sets of lit braziers is a long table with benches either side, on the table is a mead barrel and a cast iron pot containing a salmon steak and some [grilled leeks](https://en.uesp.net/wiki/Skyrim:Grilled_Leeks).
+
+[![](https://images.uesp.net/thumb/a/a0/SR-interior-Greathall_03.jpg/200px-SR-interior-Greathall_03.jpg)](https://en.uesp.net/wiki/File:SR-interior-Greathall_03.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Greathall_03.jpg) Boudoir Climbing the northern stairs you come to the sleeping area for Fanari Strong-Voice. In front of you, in the northwest corner, is a barrel and a long end table with a horker tusk and sack. A crate and second sack is in front. To the left of the end table is a wardrobe, followed by a small end table with a sample of frost mirriam on top. To the left of this is a double bed and then another end table with a [satchel](https://en.uesp.net/wiki/Skyrim:Satchel) on top. Under the left-hand side of the bed is a pair of [boots](https://en.uesp.net/wiki/Skyrim:Boots). Farther to the left is an empty chest. In the southwestern corner is a dresser with a [Sabre Cat snow pelt](https://en.uesp.net/wiki/Skyrim:Sabre_Cat_Snow_Pelt). There is a set of shelves against the southern wall that contain two sacks. At the front of the balcony from left to right is a dresser with an apprentice-locked display case on top. Inside the cabinet are three [pearls](https://en.uesp.net/wiki/Skyrim:Pearl) and three [small pearls](https://en.uesp.net/wiki/Skyrim:Small_Pearl). Next is a bench and finally a crate with a set of [clothes](Skyrim_Clothes.md) on it.

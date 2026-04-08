@@ -1,0 +1,182 @@
+# Dragonborn Places
+
+[![](https://images.uesp.net/thumb/f/f7/SR-place-Solstheim.jpg/200px-SR-place-Solstheim.jpg)](https://en.uesp.net/wiki/File:SR-place-Solstheim.jpg) [](https://en.uesp.net/wiki/File:SR-place-Solstheim.jpg) The island of Solstheim The *[Dragonborn](Skyrim_Dragonborn.md)* add-on adds several new **places**, mostly on the island of [Solstheim](Lore_Solstheim.md). For an overview of all the icons used for places on the map, see [Maps](Skyrim_Maps.md#Icons).
+
+## [Cities](Skyrim_Cities.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Raven_Rock.png) **[Raven Rock](Skyrim_Raven_Rock.md)** — A city on the southwest coast of Solstheim. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Raven+Rock)
+- - **[Abandoned Building](Skyrim_Abandoned_Building.md)** — The home of Bralsa Drel and Rirns Llervu in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Abandoned+Building)
+- **[Alor House](Skyrim_Alor_House.md)** — The home of Fethis Alor and his daughter Dreyla Alor in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Alor+House)
+- **[The Bulwark](Skyrim_The_Bulwark.md)** — An imposing stone wall created to protect Raven Rock from ash storms, with the city's garrison and jail both built directly into the wall. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=The+Bulwark)
+- - **[The Bulwark Jail](Skyrim_The_Bulwark_Jail.md)** — The jail in Raven Rock, built directly into the Bulwark. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=The+Bulwark+Jail)
+- **[Caerellius House](Skyrim_Caerellius_House.md)** — The home of Crescius Caerellius and Aphia Velothi in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Caerellius+House)
+- **[Glover Mallory's House](Skyrim_Glover_Mallory%27s_House.md)** — The home of Glover Mallory in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Glover+Mallory%27s+House)
+- **[Ienth Farm](Skyrim_Ienth_Farm.md)** — The home of Garyn Ienth and Milore Ienth in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Ienth+Farm)
+- **[Morvayn Manor](Skyrim_Morvayn_Manor.md)** — The home of Lleril Morvayn, Adril Arano, and Cindiri Arano in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Morvayn+Manor)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Mine.png) **[Raven Rock Mine](Skyrim_Raven_Rock_Mine.md)** — A small ebony mine in northern Raven Rock initially containing draugr, frostbite spiders, skeevers, and the dragon priest Zahkriisos. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Raven+Rock+Mine)
+- **[The Retching Netch](Skyrim_The_Retching_Netch.md)** — The cornerclub in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=The+Retching+Netch)
+- **[Severin Manor](Skyrim_Severin_Manor.md)** — Initially the home of Mirri Severin, Tilisu Severin, and Vendil Severin in Raven Rock, which can be obtained as player housing by completing the quest Served Cold. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Severin+Manor)
+- **[Temple](Skyrim_Temple.md)** — A Dunmer place of worship in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Temple)
+- - **[Morvayn Ancestral Tomb](Skyrim_Morvayn_Ancestral_Tomb.md)** — A Dunmer ancestral tomb in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Morvayn+Ancestral+Tomb)
+- **[Temple Ancestral Tomb](Skyrim_Temple_Ancestral_Tomb.md)** — A Dunmer ancestral tomb in Raven Rock.
+- **[Ulen Ancestral Tomb](Skyrim_Ulen_Ancestral_Tomb.md)** — A Dunmer ancestral tomb in Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Ulen+Ancestral+Tomb)
+
+## [Settlements](Skyrim_Settlements.md)
+
+### [](https://en.uesp.net/wiki/File:SR-mapicon-Town.png) Towns
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Town.png) **[Skaal Village](Skyrim_Skaal_Village.md)** — A village on Solstheim. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Skaal+Village)
+- - **[Baldor Iron-Shaper's House](Skyrim_Baldor_Iron-Shaper%27s_House.md)** — The home of Baldor Iron-Shaper in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Baldor+Iron-Shaper%27s+House)
+- **[Deor Woodcutter's House](Skyrim_Deor_Woodcutter%27s_House.md)** — The home of Deor Woodcutter and Yrsa in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Deor+Woodcutter%27s+House)
+- **[Edla's House](Skyrim_Edla%27s_House.md)** — The home of Edla and her son Nikulas in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Edla%27s+House)
+- **[Greathall](Skyrim_Greathall.md)** — The home of chief Fanari Strong-Voice and Tharstan in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Greathall)
+- **[Morwen's House](Skyrim_Morwen%27s_House.md)** — The home of Morwen in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Morwen%27s+House)
+- **[Oslaf's House](Skyrim_Oslaf%27s_House.md)** — The home of Oslaf, Finna, and their daughter Aeta in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Oslaf%27s+House)
+- **[Shaman's Hut](Skyrim_Shaman%27s_Hut.md)** — The home of shaman Storn Crag-Strider and his daughter Frea in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Shaman%27s+Hut)
+- **[Wulf Wild-Blood's House](Skyrim_Wulf_Wild-Blood%27s_House.md)** — The home of Wulf Wild-Blood in Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Wulf+Wild-Blood%27s+House)
+
+### [](https://en.uesp.net/wiki/File:SR-mapicon-Settlement.png) Minor Settlements
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Telvanni_Tower.png) **[Tel Mithryn](Skyrim_Tel_Mithryn_(settlement).md)** — A Telvanni tower settlement east of Fort Frostmoth on Solstheim. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Tel+Mithryn)
+- - **[Tel Mithryn](Skyrim_Tel_Mithryn_(tower).md)** — The main tower and home of Neloth and his apprentice Talvas Fathryon in Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Tel+Mithryn)
+- **[Tel Mithryn Apothecary](Skyrim_Tel_Mithryn_Apothecary.md)** — The home of the apothecary Elynea Mothren in Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Tel+Mithryn+Apothecary)
+- **[Tel Mithryn Kitchen](Skyrim_Tel_Mithryn_Kitchen.md)** — The home of the cook Ulves Romoran in Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Tel+Mithryn+Kitchen)
+- **[Tel Mithryn Steward's House](Skyrim_Tel_Mithryn_Steward%27s_House.md)** — The home of the steward Varona Nelas or Drovas Relvi in Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Tel+Mithryn+Steward%27s+House)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Settlement.png) **[Thirsk Mead Hall](Skyrim_Thirsk_Mead_Hall.md)** — A mead hall south-southwest of Skaal Village on Solstheim. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Thirsk+Mead+Hall)
+
+### [](https://en.uesp.net/wiki/File:SR-mapicon-Farm.png) Farms
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Farm.png) **[Old Attius Farm](Skyrim_Old_Attius_Farm.md)** — An abandoned Imperial farm south-southeast of Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Old+Attius+Farm)
+
+### [](https://en.uesp.net/wiki/File:SR-mapicon-Shack.png) Shacks
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shack.png) **[Abandoned Lodge](Skyrim_Abandoned_Lodge.md)** — A small shack north-northeast of Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Abandoned+Lodge)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shack.png) **[Hrodulf's House](Skyrim_Hrodulf%27s_House.md)** — An abandoned shack southwest of Fort Frostmoth and southeast of Kolbjorn Barrow. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Hrodulf%27s+House)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shack.png) **[Ramshackle Trading Post](Skyrim_Ramshackle_Trading_Post.md)** — An old shack south of Kagrumez and west-northwest of Ashfallow Citadel. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Ramshackle+Trading+Post)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) [All-Maker Stones](Skyrim_All-Maker_Stones.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) **[Beast Stone](Skyrim_Beast_Stone.md)** — An All-Maker Stone west of Thirsk Mead Hall. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Beast+Stone)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) **[Earth Stone](Skyrim_Earth_Stone.md)** — An All-Maker Stone southwest of Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Earth+Stone)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) **[Sun Stone](Skyrim_Sun_Stone.md)** — An All-Maker Stone north-northwest of Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Sun+Stone)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) **[Water Stone](Skyrim_Water_Stone.md)** — An All-Maker Stone north of Raven Rock. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Water+Stone)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Standing_Stones.png) **[Wind Stone](Skyrim_Wind_Stone.md)** — An All-Maker Stone west-northwest of Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Wind+Stone)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Camp.png) [Camps](Skyrim_Camps.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Camp.png) **[Bujold's Retreat](Skyrim_Bujold%27s_Retreat.md)** — A camp east of Thirsk Mead Hall containing Nords exiled from the hall by rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Bujold%27s+Retreat)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Camp.png) **[Haknir's Shoal](Skyrim_Haknir%27s_Shoal.md)** — A small pirate camp north-northwest of Skaal Village. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Haknir%27s+Shoal)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Camp.png) **[Last Vigil](Skyrim_Last_Vigil.md)** — A small camp northeast of Riften. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Last+Vigil+%28DB%29)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) [Caves](Skyrim_Caves.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Ashfall's Tear](Skyrim_Ashfall%27s_Tear.md)**<sup>[CC](Skyrim_Ghosts_of_the_Tribunal.md)</sup> — A small cave north of Raven Rock containing a hidden Tribunal Temple shrine to the goddess Almalexia. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Ashfall%27s+Tear+%28CC%29)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Benkongerike](Skyrim_Benkongerike.md)** — A medium-sized cave southeast of Saering's Watch containing bristlebacks and rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Benkongerike)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Bristleback Cave](Skyrim_Bristleback_Cave.md)** — A small cave in the northwest of Solstheim island containing bristlebacks and rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Bristleback+Cave)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Castle Karstaag Caverns](Skyrim_Castle_Karstaag_Caverns.md)** — A small cave on the north coast of Solstheim containing bristlebacks and rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Castle+Karstaag+Caverns)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Castle Karstaag Ruins](Skyrim_Castle_Karstaag_Ruins.md)** — An icy clearing outside Castle Karstaag Caverns. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Castle+Karstaag+Ruins)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Coldcinder Cave](Skyrim_Coldcinder_Cave.md)** — A small cave southeast of Raven Rock containing ash spawn and netches. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Coldcinder+Cave)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Frossel](Skyrim_Frossel.md)** — A small cave on a peninsula north of Skaal Village containing bristlebacks and rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Frossel)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Frostmoon Crag](Skyrim_Frostmoon_Crag.md)** — A small camp under a rock overhang south of Mount Moesring and northeast of the Abandoned Lodge inhabited by werewolves. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Frostmoon+Crag)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Glacial Cave](Skyrim_Glacial_Cave.md)** — A small cave north of Benkongerike containing rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Glacial+Cave)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Hrothmund's Barrow](Skyrim_Hrothmund%27s_Barrow.md)** — A small cave southwest of Benkongerike. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Hrothmund%27s+Barrow)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Clearing.png) [Clearings](Skyrim_Clearings.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Clearing.png) **[Headwaters of Harstrad](Skyrim_Headwaters_of_Harstrad.md)** — The source of the Harstrad River. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Headwaters+of+Harstrad)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Docks.png) [Docks](Skyrim_Docks.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Docks.png) **[Northshore Landing](Skyrim_Northshore_Landing.md)** — A small abandoned dock on the northwest coast of Solstheim inhabited by mudcrabs. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Northshore+Landing)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Dragon_Lair.png) [Dragon Lairs](Skyrim_Dragon_Lairs.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Dragon_Lair.png) **[Saering's Watch](Skyrim_Saering%27s_Watch.md)** — A dragon lair in the shadow of Frykte Peak on Solstheim. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Saering%27s+Watch)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) [Dwarven Ruins](Skyrim_Dwarven_Ruins.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) **[Fahlbtharz](Skyrim_Fahlbtharz.md)** — A large Dwarven ruin east of the Water Stone containing rieklings, albino spiders, oil spiders, and Dwarven automatons. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Fahlbtharz)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) **[Kagrumez](Skyrim_Kagrumez.md)** — A small Dwarven ruin south of the Temple of Miraak. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Kagrumez)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) **[Nchardak](Skyrim_Nchardak.md)** — A large Dwarven ruin north-northeast of Tel Mithryn. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Nchardak)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) [Landmarks](Skyrim_Landmarks.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Altar of Thrond](Skyrim_Altar_of_Thrond.md)** — A landmark west of the Temple of Miraak next to a small cave containing hagravens. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Altar+of+Thrond)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Brodir Grove](Skyrim_Brodir_Grove.md)** — A small circle of stones northeast of Raven Rock containing reavers. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Brodir+Grove)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Frykte Peak](Skyrim_Frykte_Peak.md)** — One of the highest points on Solstheim, near Saering's Watch. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Frykte+Peak)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Horker Island](Skyrim_Horker_Island.md)** — A large island east of Skaal Village occupied by horkers. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Horker+Island)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Hvitkald Peak‎](Skyrim_Hvitkald_Peak.md)** — One of the highest points on Solstheim, west of the Abandoned Lodge. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Hvitkald+Peak)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Mortrag Peak](Skyrim_Mortrag_Peak.md)** — One of the highest points on Solstheim, south of Castle Karstaag Ruins. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Mortrag+Peak)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Mount Moesring](Skyrim_Mount_Moesring.md)** — One of the highest points on Solstheim, south of Moesring Pass. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Mount+Moesring)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Landmark.png) **[Stalhrim Source](Skyrim_Stalhrim_Source.md)** — A small outdoor Nordic ruin east of Broken Tusk Mine and southwest of Mortrag Peak. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Stalhrim+Source)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) [Military Forts](Skyrim_Military_Forts.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) **[Ashfallow Citadel](Skyrim_Ashfallow_Citadel.md)** — A small Imperial fort east of Highpoint Tower and northwest of the Sun Stone being used as a base of operations by the Morag Tong. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Ashfallow+Citadel)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) **[Fort Frostmoth](Skyrim_Fort_Frostmoth.md)** — A small fort south of Highpoint Tower and northeast of Hrodulf's House occupied by ash spawn and General Falx Carius. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Fort+Frostmoth)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) **[Highpoint Tower](Skyrim_Highpoint_Tower.md)** — A small fort east of Raven Rock containing albino spiders, ash spawn, and Neloth's former apprentice Ildari Sarothril. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Highpoint+Tower)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Mine.png) [Mines](Skyrim_Mines.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Mine.png) **[Broken Tusk Mine](Skyrim_Broken_Tusk_Mine.md)** — A small heart stone mine north of Raven Rock containing rieklings. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Broken+Tusk+Mine)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Mine.png) **[Damphall Mine](Skyrim_Damphall_Mine.md)** — A small iron and silver mine north of Raven Rock containing reavers. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Damphall+Mine)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Mine.png) **[Raven Rock Mine](Skyrim_Raven_Rock_Mine.md)** — A small ebony mine in northern Raven Rock initially containing draugr, frostbite spiders, skeevers, and the dragon priest Zahkriisos. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Raven+Rock+Mine)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) [Nordic Ruins](Skyrim_Nordic_Ruins.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) **[Bloodskal Barrow](Skyrim_Bloodskal_Barrow.md)** — A small Nordic ruin north of Raven Rock containing reavers. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Bloodskal+Barrow)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) **[Gyldenhul Barrow](Skyrim_Gyldenhul_Barrow.md)** — A small Nordic ruin east of Skaal Village containing the spirit and treasure of Haknir Death-Brand. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Gyldenhul+Barrow)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) **[Kolbjorn Barrow](Skyrim_Kolbjorn_Barrow.md)** — A small Nordic ruin southeast of Raven Rock containing draugr, spiders, and the dragon priest Ahzidal. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Kolbjorn+Barrow)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) **[Vahlok's Tomb](Skyrim_Vahlok%27s_Tomb.md)** — A small Nordic ruin south-southeast of Thirsk Mead Hall containing corrupted shades, draugr, and the dragon priest Vahlok the Jailor. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Vahlok%27s+Tomb)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) **[White Ridge Barrow](Skyrim_White_Ridge_Barrow.md)** — A medium-sized Nordic ruin in the northern part of Solstheim inhabited by bandits and spiders. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=White+Ridge+Barrow)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Pass.png) [Passes](Skyrim_Passes.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Pass.png) **[Moesring Pass](Skyrim_Moesring_Pass.md)** — A mountain pass due northwest of the Temple of Miraak, inhabited by rieklings guarding the nearby Strange Vessel. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Moesring+Pass)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Dwelling.png) [Ruins](Skyrim_Ruins.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Dwelling.png) **[Snowclad Ruins](Skyrim_Snowclad_Ruins.md)** — A small outdoor Nordic ruin northwest of the Temple of Miraak containing werebears. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Snowclad+Ruins)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Shipwreck.png) [Ships and Shipwrecks](Skyrim_Ships.md)
+
+- **[Northern Maiden](Skyrim_Northern_Maiden.md)** — A ship initially docked at the Windhelm docks. [(map)](https://gamemap.uesp.net/sr/?x=141040&y=34208&zoom=15&legacy=true)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shipwreck.png) **[Wreck of the Strident Squall](Skyrim_Wreck_of_the_Strident_Squall.md)** — A shipwreck south-southeast of Raven Rock containing reavers. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Wreck+of+the+Strident+Squall)
+
+## [](https://en.uesp.net/wiki/File:SR-mapicon-Temple_of_Miraak.png) [Temples](Skyrim_Temples.md)
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Temple_of_Miraak.png) **[Temple of Miraak](Skyrim_Temple_of_Miraak.md)** — A Nordic temple west of Thirsk Mead Hall containing cultists, draugr, and skeletons. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Temple+of+Miraak)
+
+## Beyond Solstheim
+- **[Apocrypha](Skyrim_Apocrypha.md)** — Hermaeus Mora's plane of Oblivion. - **[Apocrypha (Epistolary Acumen)](Skyrim_Apocrypha_(Epistolary_Acumen).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (Filament and Filigree)](Skyrim_Apocrypha_(Filament_and_Filigree).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (The Hidden Twilight)](Skyrim_Apocrypha_(The_Hidden_Twilight).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (The Sallow Regent)](Skyrim_Apocrypha_(The_Sallow_Regent).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (The Winds of Change)](Skyrim_Apocrypha_(The_Winds_of_Change).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (Untold Legends)](Skyrim_Apocrypha_(Untold_Legends).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+- **[Apocrypha (Waking Dreams)](Skyrim_Apocrypha_(Waking_Dreams).md)** — An area of Hermaeus Mora's plane of Oblivion, Apocrypha.
+
+## See Also
+- **[Word Walls](Skyrim_Word_Wall.md)** — Locations where word walls can be found
+- **[Unmarked Places](Skyrim_Unmarked_Places.md)** — Places that do not appear on the map
+
+## Notes
+- Upon arrival at the docks of Raven Rock, you will be able to fast travel freely between Skyrim and Solstheim through the use of the [](https://en.uesp.net/wiki/File:SR-mapicon-To_Skyrim.png) **To Skyrim** and [](https://en.uesp.net/wiki/File:SR-mapicon-To_Solstheim.png) **To Solstheim** map markers.
+- If you attempt to swim away from Solstheim, an invisible barrier will prevent you from proceeding further, and the message *"You cannot go that way."* will appear on the top left of the screen.
+- Several of the exploration musical tracks that previously played in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Music)* play on Solstheim. The Skyrim Atmospheres tracks that play in areas like [Dawnstar](Skyrim_Dawnstar.md) and [Winterhold](Skyrim_Winterhold.md) also play here.
+- The clouds on the main Skyrim map seem to move east, whereas the ones on the Solstheim map seem to move west.
+- The "Show On Map" function in your journal for quests that take place on Solstheim will only work while you are on the island.
+- If you bring [Serana](Skyrim_Serana.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> here, she may comment on the island's lack of vegetation.
+- [Arngeir](Skyrim_Arngeir.md) won't help you learn any [Words of Power](Skyrim_The_Words_of_Power.md) here.
+
+## Bugs
+- The combat taunt "You won't leave Skyrim alive!" may also play if the battle takes place on Solstheim. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.0.8, fixes this bug.
+- Some merchants on Solstheim can incorrectly prompt you with dialogue that's used by [Fences](Skyrim_Fence_(merchant).md). There are none on the island, unless you invest in Glover Mallory with the Fence perk active. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Dragonborn Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Dragonborn_Patch), version 2.0.8, fixes this bug.
+
+## Achievements
+[Achievements](Skyrim_Achievements.md#Dragonborn) related to Solstheim places include:
+
+- [![SR-achievement-Outlander.png](https://images.uesp.net/thumb/c/cb/SR-achievement-Outlander.png/30px-SR-achievement-Outlander.png)](https://en.uesp.net/wiki/File:SR-achievement-Outlander.png) **Outlander** (20 points/Bronze) — Arrive on [Solstheim](Lore_Solstheim.md)
+- [![SR-achievement-Solstheim Explorer.png](https://images.uesp.net/thumb/5/56/SR-achievement-Solstheim_Explorer.png/30px-SR-achievement-Solstheim_Explorer.png)](https://en.uesp.net/wiki/File:SR-achievement-Solstheim_Explorer.png) **Solstheim Explorer** (20 points/Bronze) — Discover 30 locations on the island of [Solstheim](Lore_Solstheim.md)

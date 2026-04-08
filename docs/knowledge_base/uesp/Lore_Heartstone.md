@@ -1,0 +1,23 @@
+# Heart Stone
+
+[](https://en.uesp.net/wiki/File:SR-icon-misc-Heart_Stone.png) [](https://en.uesp.net/wiki/File:SR-icon-misc-Heart_Stone.png) Heart Stone A Heart Stone (also spelled **Heartstone**)<sup>[[1]](#cite_note-ESO-1)</sup> is an unusual type of ore mined from deposits which appeared in [Solstheim](Lore_Solstheim.md) in the [Fourth Era](Lore_Fourth_Era.md).<sup>[[2]](#cite_note-Dragonborn-2)</sup> Though deposits of them have been known to exist in the [Brothers of Strife](Lore_Brothers_of_Strife_(place).md) ruins in [Stonefalls](Lore_Stonefalls.md) circa [2E 582](Lore_Second_Era.md#2E_582).<sup>[[1]](#cite_note-ESO-1)</sup> It is suspected that the deposits on Solstheim surfaced (or *landed* on the surface) during the cataclysms of the [Red Year](Lore_Red_Year.md); Master [Neloth](Lore_Neloth.md) of [House Telvanni](Lore_House_Telvanni.md) suspected that the material came from [Red Mountain](Lore_Red_Mountain.md) and was flung along with other materials to Solstheim during its eruption, and may continue to land on Solstheim from smaller eruptions.<sup>[[3]](#cite_note-TF-3)</sup><sup>[[4]](#cite_note-TRY-4)</sup> Even two centuries later, they still smolder with the heat of the mountain. As the molten rocks had laid next to the [Heart of Lorkhan](Lore_Heart_of_Lorkhan.md) for millennia, some vestige of its power has seeped into them. Heart stones sometimes raise [Ash Spawn](Lore_Ash_Spawn.md) from the bits of bone buried in the nearby ash.<sup>[[5]](#cite_note-Neloth-5)</sup> Through trial and error, Neloth's apprentice Talvas Fathryon learned that a stone was needed to prevent an [ash guardian](Lore_Ash_Guardian.md) summoned through [Conjuration](Lore_Conjuration.md) from attacking the caster. The stones can also be used for enchanting purposes.<sup>[[6]](#cite_note-SE-6)</sup> Neloth's previous apprentice, [Ildari Sarothril](Lore_Ildari_Sarothril.md), was killed during an experiment and brought back to life when one of these stones was grafted to her. Ildari learned that a stone could be used to prevent [necromantic](Lore_Necromancy.md) spells from wearing off. She used them to bolster her necromantic spells used to revive [Falx Carius](Lore_Falx_Carius.md). Those revived with the stones in their chest felt constant pain, and had "voices" in their head, often telling them to distrust others.<sup>[[2]](#cite_note-Dragonborn-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/8f/SR-item-Heart_Stone_Deposit.jpg/200px-SR-item-Heart_Stone_Deposit.jpg)](https://en.uesp.net/wiki/File:SR-item-Heart_Stone_Deposit.jpg) Heart Stone Deposit
+- [![](https://images.uesp.net/thumb/3/30/SR-npc-Ildari_Sarothril.jpg/200px-SR-npc-Ildari_Sarothril.jpg)](https://en.uesp.net/wiki/File:SR-npc-Ildari_Sarothril.jpg) Ildari Sarothril with a Heartstone heart
+- [![](https://images.uesp.net/thumb/e/e9/SR-npc-General_Falx_Carius.jpg/200px-SR-npc-General_Falx_Carius.jpg)](https://en.uesp.net/wiki/File:SR-npc-General_Falx_Carius.jpg) General Falx Carius with a Heartstone heart
+
+## Notes
+- [Nirncrux](Lore_Nirncrux.md) when used in place of a heart shares the name "Heart Stone", as well as similar qualities as Heart Stones from Red Mountain.
+- The origin of Heart Stones as large chunks of molten rock launched across the sea from Red Mountain is very similar to real-world [volcanic bombs](https://www.wikipedia.org/wiki/volcanic_bomb).
+
+## See Also
+- For game-specific information, see the [*Skyrim* article](Skyrim_Heart_Stone.md).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESO_1-0)***</sup><sup>***[b](#cite_ref-ESO_1-1)***</sup> [Window on the Past](https://en.uesp.net/wiki/Online:Window_on_the_Past) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Dragonborn_2-0)***</sup><sup>***[b](#cite_ref-Dragonborn_2-1)***</sup> Events of *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+3. [^](#cite_ref-TF_3-0) [Talvas Fathryon](Skyrim_Talvas_Fathryon.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+4. [^](#cite_ref-TRY_4-0) [*The Red Year*](Lore_The_Red_Year.md) — [Melis Ravel](Lore_Books_by_Author.md#Melis_Ravel)
+5. [^](#cite_ref-Neloth_5-0) [Neloth](Skyrim_Neloth.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+6. [^](#cite_ref-SE_6-0) [Staff Encahnter](Skyrim_Staff_Enchanter.md) in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*

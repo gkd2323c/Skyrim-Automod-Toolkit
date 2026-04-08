@@ -1,0 +1,132 @@
+# The Reach
+
+| **This page is currently being redesigned for the [Lore Places Project](https://en.uesp.net/wiki/UESPWiki:Lore_Places_Project) (LPP).** <br> The page may need work to meet the standards outlined on the project page. |
+| --- |
+
+| The Reach | |
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Subregions | [Karthald](Lore_Karthald.md) <br> [Karth River Canyon](Lore_Karth_River.md) <br> [Sundered Hills](Lore_Sundered_Hills.md) |
+| Appears in | [Skyrim](Skyrim_The_Reach.md), [Legends](https://en.uesp.net/wiki/Legends:The_Betrayal_(episode)), [ESO](https://en.uesp.net/wiki/Online:The_Reach) |
+
+[![](https://images.uesp.net/thumb/0/0e/SR-place-The_Reach.jpg/200px-SR-place-The_Reach.jpg)](https://en.uesp.net/wiki/File:SR-place-The_Reach.jpg) [](https://en.uesp.net/wiki/File:SR-place-The_Reach.jpg) The Reach (Skyrim) The Reach (also known as **Karth**)<sup>[[1]](#cite_note-ONLoad Lost-1)</sup><sup>[[2]](#cite_note-RLL-2)</sup> is a geographic region surrounded by [High Rock](Lore_High_Rock.md), [Skyrim](Lore_Skyrim.md) and [Hammerfell](Lore_Hammerfell.md). Its territory once extended into High Rock, but that portion was split off to create the [Western Reach](Lore_Western_Reach.md) during the late [First Era](Lore_First_Era.md) and has remained separate ever since.<sup>[[3]](#cite_note-EGTBangkorai-3)</sup> The region was historically inhabited by the native, [Daedra](Lore_Daedra.md) -worshipping [Reachmen](Lore_Reachmen.md).<sup>[[4]](#cite_note-PGE1-4)</sup><sup>[[5]](#cite_note-TMOFTR-5)</sup><sup>[[6]](#cite_note-AOTD-6)</sup><sup>[[7]](#cite_note-7)</sup> Control of the Reach has changed hands between the Reachmen, [Nords](Lore_Nord.md), and even the [Cyrodilics](Lore_Imperial.md) numerous times over the centuries in various conflicts, and the Reachmen became well-known for resisting foreign rule by using ancient magic and an intimate knowledge of the landscape to their advantage in guerrilla warfare and espionage tactics.<sup>[[5]](#cite_note-TMOFTR-5)</sup>
+
+In the [Fourth Era](Lore_Fourth_Era.md), the Reach is the southwestern [hold](Lore_Hold.md) of [Skyrim](Lore_Skyrim.md).<sup>[[8]](#cite_note-THOS-8)</sup> Near the southwestern corner, the capital [Markarth](Lore_Markarth.md), formerly a [Dwemer](Lore_Dwemer.md) stronghold, emerges from the living rock of the [Druadach Mountains](Lore_Druadach_Mountains.md), which transition into the [Jerall Mountains](Lore_Jerall_Mountains.md) near the hold's southeast corner.<sup>[[9]](#cite_note-TCOS-9)</sup> The [Karth River](Lore_Karth_River.md) begins in the southern region and drains the mountains, running like a deep gouge through the middle of the hold called the [Karth River Canyon](Lore_Karth_River.md).<sup>[[10]](#cite_note-TESVSPOGG-10)</sup><sup>:138</sup> Settlements such as [Karthwasten](Lore_Karthwasten.md) and [Old Hroldan](Lore_Old_Hroldan.md) can be found along the Karth, with the [Sundered Hills](Lore_Sundered_Hills.md) bordering [Whiterun](Lore_Whiterun_Hold.md)'s [Tundra Plateau](Lore_Tundra_Plateau.md) to the east.<sup>[[11]](#cite_note-TLORE-11)</sup> The peaks of the Druadach range lie to the west of it, and high bluffs typically rise on the east leading to grassland and tundra. The Reachmen constitute the demographic majority of the Reach and its various settlements, and an [Orc](Lore_Orc.md) stronghold can be found in the steppes of the mountains in the south of the hold.
+
+## History
+*Anyone can be a king in the Reach. No one can be a king of the Reach.*
+— [Reachman proverb](https://en.uesp.net/wiki/Online:Lady_Belain) Long before the conquests of [Mer](Lore_Mer.md) and [Nords](Lore_Nord.md) in the Karth region, [human tribes](Lore_Nede.md) dwelled within the caves in the [Druadach Mountains](Lore_Druadach_Mountains.md).<sup>[[12]](#cite_note-ONLVR-12)</sup>
+
+At an unknown point in the history between [Merethic Era](Lore_Merethic_Era.md) and [1E 221](Lore_First_Era.md#1E_221), in the ancient past, the Reach was controlled by the [vampires](Lore_Vampire.md) of the [Nighthollow Clan](Lore_Nighthollow_Clan.md), known to the Reachfolk as the Night Lords. Eventually, the influence of the vampires waned and accounts of their terror were reduced to mere bedtime stories.<sup>[[13]](#cite_note-RBS-13)</sup><sup>[[14]](#cite_note-VSG-14)</sup>
+
+The first to invade it were the earliest [Atmoran](Lore_Atmora.md) tribes to settle in [Tamriel](Lore_Tamriel.md).<sup>[[3]](#cite_note-EGTBangkorai-3)</sup> High King [Olaf One-Eye](Lore_Olaf_One-Eye.md) conquered the Reach for Skyrim at some point during his reign between [1E 420](Lore_First_Era.md#1E_420) and [1E 452](Lore_First_Era.md#1E_452).<sup>[[15]](#cite_note-Plaque-15)</sup> The [Dwemer](Lore_Dwemer.md) of [Clan Kragen](Lore_Kragen.md) arrived in the region sometime after 1E 420 and established the city-state of [Arkngthamz](Lore_Arkngthamz.md). Clan Kragen's success at fending off the local Nords inspired other Dwemer clans to expand into Skyrim as well.<sup>[[16]](#cite_note-AP-16)</sup> It is presumably during this period, prior to the Dwemer's disappearance around [1E 700](Lore_First_Era.md#1E_700), that the city of [Markarth](Lore_Markarth.md) was constructed.
+
+Around [1E 1030](Lore_First_Era.md#1E_1030), the Reach was ruled by ten warring Reachman kings. Most of them submitted to the invading [Imperial](Lore_Alessian_Empire.md) forces of Empress [Hestra](Lore_Hestra.md), though many ultimately joined the rebellion led by [Red Eagle](Lore_Red_Eagle.md), the legendary hero of the Reachmen. They could not win this conflict, but in a campaign lasting two or more years, Red Eagle and his followers made the Empire pay dearly for invading their land.<sup>[[11]](#cite_note-TLORE-11)</sup> Although the Empire was ultimately able to exert control over the Reach, widespread resistance continued long afterward.
+
+After thwarting the [Akaviri](Lore_Akavir.md) invasion in [1E 2704](Lore_First_Era.md#1E_2704), Emperor [Reman](Lore_Reman.md) of the [Second Empire](Lore_Second_Empire.md) turned his attention to the "madmen of the Reach". He divided the geographical Reach between the Imperial provinces of High Rock and Skyrim to reduce the power or incomes of any individual ruler, and the [Western Reach](Lore_Western_Reach.md) has existed as a separate entity ever since. Despite this, the Reach failed to be tamed, and not a decade passed without troops from either [Evermore](Lore_Evermore.md) or [Solitude](Lore_Solitude.md) marching into the Reach in another vain attempt to bring the Reachmen to heel.<sup>[[3]](#cite_note-EGTBangkorai-3)</sup> Emperor Reman's [Dragonguard](Lore_Dragonguard.md) also built [Sky Haven Temple](Lore_Sky_Haven_Temple.md) in the mountains of the Reach to support their crusade against [dragons](Lore_Dragon.md).<sup>[[6]](#cite_note-AOTD-6)</sup><sup>[[17]](#cite_note-AOD-17)</sup> The Temple was sealed off by Emperor [Reman II](Lore_Reman_II.md) after the completion of [Alduin's Wall](Lore_Alduin%27s_Wall.md) in [1E 2818](Lore_First_Era.md#1E_2818).<sup>[[6]](#cite_note-AOTD-6)</sup>
+
+*Aye. Free blood. That's what the Reach is. Freedom.*
+— [Arana](Lore_Arana.md), Reach witch Following the Second Empire's collapse in [2E 430](Lore_Second_Era.md#2E_430), the Reach was left to its own devices. It eventually became an independent kingdom ruled by the Reachmen themselves under the infamous [Durcorach the Black Drake](Lore_Durcorach.md), who conquered the [Empire of Cyrodiil](Lore_Empire_of_Cyrodiil_(Interregnum).md) and installed himself as the first of the [Longhouse Emperors](Lore_Longhouse_Emperors.md).<sup>[[18]](#cite_note-COTFC4-18)</sup> Durcorach met his demise during a failed invasion of High Rock in [2E 542](Lore_Second_Era.md#2E_542).<sup>[[19]](#cite_note-TATOAM-19)</sup> By [2E 578](Lore_Second_Era.md#2E_578), even as Durcorach's grandson [Leovic](Lore_Leovic.md) reigned over the Empire, control of the Reach had passed to Ard [Caddach](Lore_Caddach.md), the so-called Despot of Markarth.<sup>[[3]](#cite_note-EGTBangkorai-3)</sup> Amidst the chaos of both the [Planemeld](Lore_Planemeld.md) and the [Three Banners War](Lore_Three_Banners_War.md), numerous Reachman tribes attempted to extend their influence into High Rock and Skyrim, but met fierce resistance.<sup>[[20]](#cite_note-ESO-20)</sup> Shortly before [2E 582](Lore_Second_Era.md#2E_582), Western Skyrim carved a new hold named [Karthald](Lore_Karthald.md) from the northern territory of the Reach to use as a bulwark against Reachman incursions into [Haafingar](Lore_Haafingar.md) and [Hjaalmarch](Lore_Hjaalmarch.md).<sup>[[21]](#cite_note-Gt WSK-21)</sup>
+
+The Nords reclaimed the Reach as the ninth hold of Skyrim in [2E 852](Lore_Second_Era.md#2E_852), when the future Emperor [Tiber Septim](Lore_Tiber_Septim.md) besieged and defeated Reachmen forces at [Old Hroldan](Lore_Old_Hroldan.md) with an army of [Colovian](Lore_Colovia.md) troops and Nord berserkers.<sup>[[22]](#cite_note-TAH-22)</sup> Markarth and the Reach were subsequently occupied by the Nords,<sup>[[23]](#cite_note-SRKibell-23)</sup> while Imperial propaganda branded the Reachmen as rebellious and lawless mongrels.<sup>[[4]](#cite_note-PGE1-4)</sup> Historians circa [2E 864](Lore_Second_Era.md#2E_864) described the Reach as the most cosmopolitan of Skyrim's Holds. Others stated "the Reach could be mistaken for one of the petty kingdoms of High Rock; it is full of Bretons, Redguards, Cyrodiils, elves of all stripes, and even a few misplaced Khajiit."<sup>[[4]](#cite_note-PGE1-4)</sup><sup>[[10]](#cite_note-TESVSPOGG-10)</sup><sup>:498</sup>
+
+Nationalistic Reachmen passively resisted Nord rule for centuries until finding the perfect opportunity to strike in [4E 174](Lore_Fourth_Era.md#4E_174), while the forces of the Empire were committed to fighting the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) in the [Great War](Lore_Great_War.md). The Reachmen rose up, seizing Markarth and most of the hold, ruling the Reach as an independent kingdom for two years. The government of Skyrim, growing desperate, enlisted a militia led by [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) which retook the Reach in [4E 176](Lore_Fourth_Era.md#4E_176). The survivors of the revolt were scattered into the wilderness, becoming the [Forsworn](Lore_Forsworn.md).<sup>[[24]](#cite_note-TBOM-24)</sup>
+
+### Known Rulers
+- Unknown King (1E ? - at least [1E 930](Lore_First_Era.md#1E_930))<sup>[[25]](#cite_note-25)</sup>
+- Ten Reachfolk Kings (ca. [1E 1030](Lore_First_Era.md#1E_1030))<sup>[[11]](#cite_note-TLORE-11)</sup><sup>[[26]](#cite_note-ESOA-26)</sup> - [Red Eagle](Lore_Red_Eagle.md) (at least [1E 1028](Lore_First_Era.md#1E_1028) - [1E 1030](Lore_First_Era.md#1E_1030))<sup>[[11]](#cite_note-TLORE-11)</sup>
+- [Noldan](Lore_Noldan.md) (possibly, ca. [1E 1030](Lore_First_Era.md#1E_1030))<sup>[[11]](#cite_note-TLORE-11)</sup><sup>[[26]](#cite_note-ESOA-26)</sup>
+- Unknown Ard (fl. [1E 1030](Lore_First_Era.md#1E_1030))<sup>[[27]](#cite_note-HOM-27)</sup>
+- Unknown Jarl (1E ? - at least [1E 2801](Lore_First_Era.md#1E_2801))<sup>[[6]](#cite_note-AOTD-6)</sup>
+- Ard [Durcorach](Lore_Durcorach.md) (2E ? - ca. [2E 533](Lore_Second_Era.md#2E_533))<sup>[[27]](#cite_note-HOM-27)</sup>
+- Ard [Caddach](Lore_Caddach.md) ([2E 559](Lore_Second_Era.md#2E_559) - at least [2E 582](Lore_Second_Era.md#2E_582))<sup>[[27]](#cite_note-HOM-27)</sup><sup>[[28]](#cite_note-Ard-28)</sup>
+- Lady Hellne (at least [3E 389](Lore_Third_Era.md#3E_389) - at least [3E 399](Lore_Third_Era.md#3E_399))<sup>[[29]](#cite_note-Arena-29)</sup>
+- Unknown forefathers of Hrolfdir (ca. 4E)<sup>[[30]](#cite_note-Raerek-30)</sup>
+- Jarl [Hrolfdir](Lore_Hrolfdir.md) (4E ? - [4E 174](Lore_Fourth_Era.md#4E_174))<sup>[[24]](#cite_note-TBOM-24)</sup><sup>[[30]](#cite_note-Raerek-30)</sup>
+- King [Madanach](Lore_Madanach.md) ([4E 174](Lore_Fourth_Era.md#4E_174) - [4E 176](Lore_Fourth_Era.md#4E_176))<sup>[[24]](#cite_note-TBOM-24)</sup><sup>[[31]](#cite_note-Nepos-31)</sup>
+- Jarl [Hrolfdir](Lore_Hrolfdir.md) ([4E 176](Lore_Fourth_Era.md#4E_176) - 4E ?)<sup>[[30]](#cite_note-Raerek-30)</sup><sup>[[32]](#cite_note-Igmund-32)</sup>
+- Jarl [Igmund](Lore_Igmund.md) (4E ? - at least [4E 201](Lore_Fourth_Era.md#4E_201))<sup>[[32]](#cite_note-Igmund-32)</sup>
+
+## Notable Places
+[![](https://images.uesp.net/thumb/f/f7/ON-load-The_Reach.png/200px-ON-load-The_Reach.png)](https://en.uesp.net/wiki/File:ON-load-The_Reach.png) [](https://en.uesp.net/wiki/File:ON-load-The_Reach.png) The city of Markarth, founded by the Dwemer
+[Arkngthamz](Lore_Arkngthamz.md)
+- A Dwarven ruin located high in the southern hills of the Reach.
+[Bthardamz](Lore_Bthardamz.md)
+- A Dwarven ruin located east of the Druadach Pass.
+[Bthar-Zel](Lore_Bthar-Zel.md)
+- A Dwarven ruin located in the northern Reach.
+[Druadach Redoubt](Lore_Druadach_Redoubt.md)
+- A Reachfolk bastion located in the Druadach Mountains.
+[Dushnikh Yal](Lore_Dushnikh_Yal.md)
+- An Orc stronghold located southeast of Markarth.
+[Faolan's Ire](Lore_Faolan%27s_Ire.md)
+- An ancient Reachfolk battlefield.
+[Four Skull Lookout](Lore_Four_Skull_Lookout.md)
+- A Nordic ruin associated with destruction magic.
+[Karthmad](Lore_Karthmad.md)
+- A mountain at the head of the valley of the Karth River.
+[Karthspire](Lore_Karthspire.md)
+- A mountain in the center of the region, and a site of [Sky Haven Temple](Lore_Sky_Haven_Temple.md), and Rebel's Retreat.
+[Markarth](Lore_Markarth.md)
+- Capital of the Reach built into [Karthmad](Lore_Karthmad.md) mountain.
+[Mor Khazgur](Lore_Mor_Khazgur.md)
+- An Orc stronghold on the border with Haafingar.
+[Nchuand-Zel](Lore_Nchuand-Zel.md)
+- A Dwarven complex found beneath Markarth.
+[Old Hroldan](Lore_Old_Hroldan.md)
+- A historic settlement located in the southern river valley of the Reach.
+[Rebel's Cairn](Lore_Rebel%27s_Cairn.md)
+- The tomb of [Faolan](Lore_Faolan.md), the Reachfolk king.
+[Red Eagle Redoubt](Lore_Red_Eagle_Redoubt.md) and [Sundered Towers](Lore_Sundered_Towers.md)
+- The ancient fortress of Faolan.
+[Sungard](Lore_Sungard.md)
+- A fortified settlement located on the [Tundra Plain](Lore_Tundra_Plain.md), near the board with Whiterun Hold.
+Vardnknd
+- A lost Dwarven ruin that houses a dangerous [weather witch](Lore_Weather_Witch.md).
+[Sky Haven Temple](Lore_Sky_Haven_Temple.md)
+- An Akaviri fortress built atop [Karthspire](Lore_Karthspire.md) mountain.
+[Vateshran Hollows](Lore_Vateshran_Hollows.md)
+- A sacred site where the veil between Nirn and Oblivion is thin.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/e/ea/ON-statue-The_Reach.jpg/200px-ON-statue-The_Reach.jpg)](https://en.uesp.net/wiki/File:ON-statue-The_Reach.jpg) Artistic depiction of the region
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_The_Reach.md) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:The_Reach) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) articles.
+
+## References
+1. [^](#cite_ref-ONLoad Lost_1-0) [Lost Valley Redoubt](https://en.uesp.net/wiki/Online:Lost_Valley_Redoubt) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-RLL_2-0) [*Reach Loyalist's Letter*](https://en.uesp.net/wiki/Online:Reach_Loyalist%27s_Letter) — [Reach Warrior](https://en.uesp.net/wiki/Online:Reach_Warrior)
+3. ^ <sup>***[a](#cite_ref-EGTBangkorai_3-0)***</sup><sup>***[b](#cite_ref-EGTBangkorai_3-1)***</sup><sup>***[c](#cite_ref-EGTBangkorai_3-2)***</sup><sup>***[d](#cite_ref-EGTBangkorai_3-3)***</sup> [*The Improved Emperor's Guide to Tamriel: Northern Bangkorai and the Mountains*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Bangkorai) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+4. ^ <sup>***[a](#cite_ref-PGE1_4-0)***</sup><sup>***[b](#cite_ref-PGE1_4-1)***</sup><sup>***[c](#cite_ref-PGE1_4-2)***</sup> [*Pocket Guide to the Empire, 1st Edition*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md) and '¥R', [2E 864](Lore_Second_Era.md#2E_864)
+5. ^ <sup>***[a](#cite_ref-TMOFTR_5-0)***</sup><sup>***[b](#cite_ref-TMOFTR_5-1)***</sup> [*The "Madmen" of the Reach*](Lore_The_%22Madmen%22_of_the_Reach.md) — [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar
+6. ^ <sup>***[a](#cite_ref-AOTD_6-0)***</sup><sup>***[b](#cite_ref-AOTD_6-1)***</sup><sup>***[c](#cite_ref-AOTD_6-2)***</sup><sup>***[d](#cite_ref-AOTD_6-3)***</sup> [*Annals of the Dragonguard*](Lore_Annals_of_the_Dragonguard.md) — [Brother Annulus](Lore_Books_by_Author.md#Brother_Annulus)
+7. [^](#cite_ref-7) [*Holdings of Jarl Gjalund*](Lore_Holdings_of_Jarl_Gjalund.md) — [Slafknir the Scribe](Lore_Books_by_Author.md#Slafknir_the_Scribe)
+8. [^](#cite_ref-THOS_8-0) [*The Holds of Skyrim*](Lore_The_Holds_of_Skyrim.md)
+9. [^](#cite_ref-TCOS_9-0) [*The City of Stone*](Lore_The_City_of_Stone.md) — [Amanda Alleia](Lore_Books_by_Author.md#Amanda_Alleia)
+10. ^ <sup>***[a](#cite_ref-TESVSPOGG_10-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_10-1)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+11. ^ <sup>***[a](#cite_ref-TLORE_11-0)***</sup><sup>***[b](#cite_ref-TLORE_11-1)***</sup><sup>***[c](#cite_ref-TLORE_11-2)***</sup><sup>***[d](#cite_ref-TLORE_11-3)***</sup><sup>***[e](#cite_ref-TLORE_11-4)***</sup> [*The Legend of Red Eagle*](Lore_The_Legend_of_Red_Eagle.md) — [Tredayn Dren](Lore_Books_by_Author.md#Tredayn_Dren)
+12. [^](#cite_ref-ONLVR_12-0) [Lost Valley Redoubt](https://en.uesp.net/wiki/Online:Lost_Valley_Redoubt)'s loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-RBS_13-0) [*Reach Bedtime Stories*](Lore_Reach_Bedtime_Stories.md) — [Isa Truiand](Lore_Books_by_Author.md#Isa_Truiand), Teller of Tales
+14. [^](#cite_ref-VSG_14-0) [Vampiric Stained Glass](https://en.uesp.net/wiki/Online:Vampiric_Stained_Glass) antiquity codex entry in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-Plaque_15-0) The [plaque commemorating Olaf](https://en.uesp.net/wiki/File:SR-misc-Olaf_Plaque.png) outside the [Palace of the Kings](Skyrim_Palace_of_the_Kings.md) in Windhelm
+16. [^](#cite_ref-AP_16-0) [*Arkngthamz-Phng*](Lore_Arkngthamz-Phng_(book).md) — [Neramo](Lore_Books_by_Author.md#Neramo)
+17. [^](#cite_ref-AOD_17-0) [*Atlas of Dragons*](Lore_Atlas_of_Dragons.md) — [Brother Mathnan](Lore_Books_by_Author.md#Brother_Mathnan)
+18. [^](#cite_ref-COTFC4_18-0) [*Chronicles of the Five Companions 4*](Lore_Chronicles_of_the_Five_Companions_4.md) — [Abnur Tharn](Lore_Books_by_Author.md#Lord_Abnur_Tharn)
+19. [^](#cite_ref-TATOAM_19-0) [*Triumphs of a Monarch*](Lore_Triumphs_of_a_Monarch.md) — His Majesty [King Emeric](Lore_Books_by_Author.md#King_Emeric)
+20. [^](#cite_ref-ESO_20-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-Gt WSK_21-0) [*Guide to Western Skyrim: Karthald*](Lore_Guide_to_Western_Skyrim__Karthald.md) — [Imperial Surveyor Buntara Gravius](Lore_Books_by_Author.md#Buntara_Gravius)
+22. [^](#cite_ref-TAH_22-0) [*The Arcturian Heresy*](Lore_The_Arcturian_Heresy.md) — [The Underking](Lore_Underking.md), [Ysmir](Lore_Ysmir.md) Kingmaker
+23. [^](#cite_ref-SRKibell_23-0) [Kibell](Skyrim_Kibell.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+24. ^ <sup>***[a](#cite_ref-TBOM_24-0)***</sup><sup>***[b](#cite_ref-TBOM_24-1)***</sup><sup>***[c](#cite_ref-TBOM_24-2)***</sup> [*The Bear of Markarth*](Lore_The_Bear_of_Markarth.md) — [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar
+25. [^](#cite_ref-25) [*The Translated Works of Tosmorn, III*](Lore_The_Translated_Works_of_Tosmorn,_III.md) — [Xandier Edette](Lore_Books_by_Author.md#Xandier_Edette)
+Edited by [Vanesse Aurilie](Lore_Books_by_Author.md#Vanesse_Aurilie)
+26. ^ <sup>***[a](#cite_ref-ESOA_26-0)***</sup><sup>***[b](#cite_ref-ESOA_26-1)***</sup> [Spear Tip of the Reach King](https://en.uesp.net/wiki/Online:The_Reach_Antiquities#Spear_Tip_of_the_Reach_King) antiquity codex entry
+27. ^ <sup>***[a](#cite_ref-HOM_27-0)***</sup><sup>***[b](#cite_ref-HOM_27-1)***</sup><sup>***[c](#cite_ref-HOM_27-2)***</sup> [*History of Markarth: A Story in Stone*](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator
+28. [^](#cite_ref-Ard_28-0) [Ard Caddach](https://en.uesp.net/wiki/Online:Ard_Caddach)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+29. [^](#cite_ref-Arena_29-0) [Markarth Side](https://en.uesp.net/wiki/Arena:Markarth_Side) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+30. ^ <sup>***[a](#cite_ref-Raerek_30-0)***</sup><sup>***[b](#cite_ref-Raerek_30-1)***</sup><sup>***[c](#cite_ref-Raerek_30-2)***</sup> [Raerek](Skyrim_Raerek.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+31. [^](#cite_ref-Nepos_31-0) [Nepos the Nose](Skyrim_Nepos_the_Nose.md)'s dialgoue in *[Skyrim](Skyrim_Skyrim.md)*
+32. ^ <sup>***[a](#cite_ref-Igmund_32-0)***</sup><sup>***[b](#cite_ref-Igmund_32-1)***</sup> [Igmund](Skyrim_Igmund.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*

@@ -1,0 +1,18 @@
+# Words and Power
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Loremaster's Archive](Lore_Loremaster%27s_Archive.md) ([link](http://www.elderscrollsonline.com/en-gb/news/post/2014/07/03/loremasters-archive-words-and-power)) |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Words_and_Power) ([Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))) |
+
+Words and Power **by [Telenger the Artificer](Lore_Books_by_Author.md#Telenger_the_Artificer)** *A scholar presents his radical theory regarding language*
+---
+Are languages in [Tamriel](Lore_Tamriel.md) more than a convenient means of communication? Throughout [my](Lore_Telenger_the_Artificer.md) studies, particularly in my ongoing research of the mysterious runestones, a theme of language explicitly interconnected with [magic](Lore_Magic.md) has surfaced with frequency that cannot be ignored. Is the very act of casting ideas into words an invocation? I present here evidence that may just support this admittedly radical position, which I hope the sapiarchs of the [Crystal Tower](Lore_Crystal_Tower.md) will be enticed to expound upon or refute.
+
+Let us begin with the runestones of Enchanting. Each is marked with a symbol consisting of syllables arranged together. Alone, a rune is inert, but magical potential is unleashed when combined with others in the appropriate syntax. The full form, the complete expression, conveys magic. One does not even need to fully understand the language to unlock the power it contains—not enough words exist or are known to truly speak it, but by studying glyphs and combining runestones, it is possible to grasp enough of the raw concepts to utilize it. The language itself is undeniably connected in a fundamental way to magical energies, though its origin remains a mystery.
+
+As an aside for prospective students of Enchanting, do not become discouraged when you encounter a rune you are unable to decipher. Only through repetition of words and phrases you have learned and the extraction of runes from glyphs will you obtain the knowledge you need to master more difficult runes. Be patient and work with other students to create and deconstruct glyphs to gain more insight into their interplay and true meaning.
+
+Language, specifically the written word, is also of critical importance to the [Altmer](Lore_Altmer.md). Not only does it preserve our history, but it captures and defines our auspicious lineage and ensures that every [Mer](Lore_Mer.md) knows his or her place in the hierarchy. It is no accident that Altmeri society is the most orderly and structured in Tamriel—it is the will of [Xarxes](Lore_Xarxes_(god).md) himself. The scholar-priests of the divine scribe, secretive though they are, are said to preserve an ancient tongue long forgotten to any but their order. In Helaameril's "Conversations with the Etymon-Binders," an anonymous scribe hints at tomes capable of producing tastes, smells, and dancing images, and texts that can be read by any gazing upon them—even the unlettered. Another form of word-magic, if Helaameril is to be believed.
+
+Consider even what may seem mundane: the speech of a great general upon the morn of battle that rouses his troops to perform incredible deeds, the songs of a master bard that inspire emotion, the calming tone of a mother to her child. Are there traces of magic in everyday exertions of will through speech or writing? It seems possible that some remnant of ancient pre- [Dawn](Lore_Dawn_Era.md) power lingers on here, though it has grown faint. There is even more evidence to support this throughout the history of Tamriel—far too much to detail here—and I look forward to debating this theory among my peers.

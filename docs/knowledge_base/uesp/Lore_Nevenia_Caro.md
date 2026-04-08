@@ -1,0 +1,47 @@
+# Nevenia Caro
+
+| Countess Nevenia Caro | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Countess Caro.jpg](https://images.uesp.net/thumb/b/b3/ON-npc-Countess_Caro.jpg/200px-ON-npc-Countess_Caro.jpg)](https://en.uesp.net/wiki/File:ON-npc-Countess_Caro.jpg) Countess Nevenia Caro | | | |
+| Race | [Imperial](Lore_Imperial.md) | Gender | Female |
+| Born | [Second Era](Lore_Era.md#Second_Era) | | |
+| Resided in | [Leyawiin](Lore_Leyawiin.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Countess_Caro) | | |
+
+*While the countess herself has more or less removed herself from the day-to-day running of Leyawiin, I assure you that it is not out of any sense of modesty. Her birthday is proof of this. Decadence is never squandered when it comes to the reigning family of Leyawiin, and the countess has never been an exception.*
+—Primus Falto, Countess Caro's Majordomo<sup>[[1]](#cite_note-CCB-1)</sup> Nevenia Caro was the [Imperial](Lore_Imperial.md) Countess of Leyawiin in the Province of Blackwood during the turbulent times of the [Three Banners War](Lore_Three_Banners_War.md) in the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md). Although she was officially the leader of the region, she largely relinquished her practical authority to the Chamber of Legates.<sup>[[2]](#cite_note-TGTL-2)</sup><sup>[[3]](#cite_note-AIWCC-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/e/e2/ON-place-Leyawiin_Castle.jpg/200px-ON-place-Leyawiin_Castle.jpg)](https://en.uesp.net/wiki/File:ON-place-Leyawiin_Castle.jpg) [](https://en.uesp.net/wiki/File:ON-place-Leyawiin_Castle.jpg) [Leyawiin Castle](https://en.uesp.net/wiki/Lore:Leyawiin_Castle) as of 2E 582 Nevenia Caro hailed from the prestigious House Caro, a lineage recognized as the formal governing family of the county Leyawiin since the early days of the [Second Empire](Lore_Second_Empire.md). The exact date when she assumed the position of power is unknown, but she was already a countess as early as [2E 569](Lore_Second_Era.md#2E_569). She was responsible for hosting and entertaining esteemed dignitaries and held a pivotal position at the heart of Leyawiin's social circles. Known for her unwavering support and deep appreciation of the arts, she stood as a steadfast benefactor, providing generous patronage to the world of performing arts within the city. The day-to-day affairs of administration within Leyawiin, however, were overseen by a governor appointed through Imperial decree. Together, they oversaw the entire province. Complementing their efforts was the Chamber of Legates, initially playing a minor bureaucratic role in the intricate workings of the city's governance. As of the year 2E 569, the Chamber of Legates held a relatively minor role within Leyawiin's governance,<sup>[[2]](#cite_note-TGTL-2)</sup> but by [2E 582](Lore_Second_Era.md#2E_582), they had risen to become a significant political force both in the city and the surrounding region. Despite Countess Caro holding the official title of ruler over Leyawiin, the practical governance of the city was primarily in the hands of the Chamber of Legates.<sup>[[4]](#cite_note-CRL-4)</sup><sup>[[5]](#cite_note-LTK-5)</sup><sup>[[6]](#cite_note-OTCOL-6)</sup>
+
+In her own words, she entrusted the Chamber of Legates with the city's day-to-day bureaucracy, allowing her to focus on more pressing matters of personal nature. After careful consideration, she established a triumvirate of legates to ensure efficient decision-making and prevent any legislative delays. By representing the three predominant groups in the region, including the [Khajiit](Lore_Khajiit.md) and [Argonian](Lore_Argonian.md) communities represented by Tebeza-ko and Am-Halu, she aimed to achieve a balanced representation. The Imperial representative, the former chief councilor of the [Elder Council](Lore_Elder_Council.md), [Tarnian Lovidicus](Lore_Tarnian_Lovidicus.md), was the last of the three Legates.<sup>[[3]](#cite_note-AIWCC-3)</sup><sup>[[7]](#cite_note-CC-7)</sup>
+
+She acquired a reputation as a lavish and indulgent ruler, often indulging in extravagant displays of wealth and luxury. Her elaborate birthday parties became renowned for their decadence and opulence, reflecting her penchant for extravagance. This penchant for lavishness and self-indulgence was one of the factors that led her to distance herself from the actual exercise of power, as she focused more on her own vanity and personal pursuits.<sup>[[1]](#cite_note-CCB-1)</sup>
+
+During Mehrunes Dagon's plot to conquer Nirn, the place of residence of the Countess, Castle Leyawiin came under attack by the cultists of the Waking Flame and Daedric forces. With the aid of the Vestige and Eveli Sharp-Arrow, the castle was successfully defended. Though losses were suffered, including the death of former Elder Council member Faleria, the invaders were defeated, and peace was restored to Castle Leyawiin and the region of Blackwood.<sup>[[8]](#cite_note-AUA-8)</sup><sup>[[9]](#cite_note-PC-9)</sup><sup>[[10]](#cite_note-CL-10)</sup> Two grand celebrations were held to honor the valiant heroes, one in the city of Gideon and the other in the Castle Leyawiin.<sup>[[11]](#cite_note-HOB-11)</sup><sup>[[12]](#cite_note-HSE-12)</sup>
+
+## Notes
+- Countess expressed disdain for [Abnur Tharn](Lore_Abnur_Tharn.md), whom she believed played a role in the collapse of the Empire and the ongoing war. As a result, [Leyawiin Castle](https://en.uesp.net/wiki/Lore:Leyawiin_Castle) remained closed to him.<sup>[[3]](#cite_note-AIWCC-3)</sup>
+- Countess Caro's Perfume, said to capture her essence, was widely available by 2E 582, featuring a hint of cinnamon in its scent.<sup>[[13]](#cite_note-C1-13)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Countess_Caro) [](https://en.uesp.net/wiki/Online:Blackwood_(Chapter)) article.
+
+### Books
+- ***[An Interview with Countess Caro](Lore_An_Interview_with_Countess_Caro.md)*** by [Mercuro Catraso](Lore_Books_by_Author.md#Mercuro_Catraso) — A transcription of an interview with Countess Caro of Leyawiin
+- ***[Countess Caro's Birthday](Lore_Countess_Caro%27s_Birthday.md)*** by [Primus Falto](Lore_Books_by_Author.md#Primus_Falto), Countess Caro's Majordomo — A description of the extravagance of Countess Caro's birthday celebrations
+
+## References
+1. ^ <sup>***[a](#cite_ref-CCB_1-0)***</sup><sup>***[b](#cite_ref-CCB_1-1)***</sup> [*Countess Caro's Birthday*](Lore_Countess_Caro%27s_Birthday.md) — [Primus Falto](Lore_Books_by_Author.md#Primus_Falto), Countess Caro's Majordomo
+2. ^ <sup>***[a](#cite_ref-TGTL_2-0)***</sup><sup>***[b](#cite_ref-TGTL_2-1)***</sup> [*Traveler's Guide to Leyawiin*](Lore_Traveler%27s_Guide_to_Leyawiin.md) — [Astinia Isauricus](Lore_Books_by_Author.md#Astinia_Isauricus); published 1 Frost Fall, [2E 569](Lore_Second_Era.md#2E_569)
+3. ^ <sup>***[a](#cite_ref-AIWCC_3-0)***</sup><sup>***[b](#cite_ref-AIWCC_3-1)***</sup><sup>***[c](#cite_ref-AIWCC_3-2)***</sup> [*An Interview with Countess Caro*](Lore_An_Interview_with_Countess_Caro.md) — [Mercuro Catraso](Lore_Books_by_Author.md#Mercuro_Catraso)
+4. [^](#cite_ref-CRL_4-0) [Captain Rian Liore](https://en.uesp.net/wiki/Online:Captain_Rian_Liore)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+5. [^](#cite_ref-LTK_5-0) [Legate Tebeza-ko](https://en.uesp.net/wiki/Online:Legate_Tebeza-ko)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+6. [^](#cite_ref-OTCOL_6-0) [*On the Chamber of Legates*](Lore_On_the_Chamber_of_Legates.md) — [Legate Tebeza-ko](Lore_Books_by_Author.md#Legate_Tebeza-ko)
+7. [^](#cite_ref-CC_7-0) [Countess Caro](https://en.uesp.net/wiki/Online:Countess_Caro)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+8. [^](#cite_ref-AUA_8-0) Events of [An Unexpected Adversary](https://en.uesp.net/wiki/Online:An_Unexpected_Adversary) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+9. [^](#cite_ref-PC_9-0) [Phedresa Censorinus](https://en.uesp.net/wiki/Online:Phedresa_Censorinus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+10. [^](#cite_ref-CL_10-0) [Councilor Lovidicus](https://en.uesp.net/wiki/Online:Councilor_Lovidicus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+11. [^](#cite_ref-HOB_11-0) Events of [Heroes of Blackwood](https://en.uesp.net/wiki/Online:Heroes_of_Blackwood) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+12. [^](#cite_ref-HSE_12-0) Events of [Hope Springs Eternal](https://en.uesp.net/wiki/Online:Hope_Springs_Eternal) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+13. [^](#cite_ref-C1_13-0) [Countess Caro's Perfume](https://en.uesp.net/wiki/Online:Treasures_C#Countess_Caro.27s_Perfume) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*

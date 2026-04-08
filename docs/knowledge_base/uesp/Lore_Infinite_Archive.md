@@ -1,0 +1,56 @@
+# Infinite Archive
+
+| Apocrypha | |
+| --- | --- |
+| Type | Plane |
+| Realm | [Oblivion](Lore_Oblivion.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Infinite_Archive) |
+
+[![](https://images.uesp.net/thumb/7/74/ON-place-Infinite_Archive_05.jpg/200px-ON-place-Infinite_Archive_05.jpg)](https://en.uesp.net/wiki/File:ON-place-Infinite_Archive_05.jpg) [](https://en.uesp.net/wiki/File:ON-place-Infinite_Archive_05.jpg) The Infinite Archive *What is life but a constant fight against unending enemies and unseen puppet masters across an ever-changing landscape? The Infinite Archive is not the exception to the struggles of existence, it is the quintessence of it.*
+— [Master Malkhest](Lore_Malkhest.md)<sup>[[1]](#cite_note-1)</sup> The Infinite Archive is a border realm of [Apocrypha](Lore_Apocrypha.md), an adjunct plane or subrealm which lies within the greater fabric of Apocrypha,<sup>[[2]](#cite_note-Malkhest Archive-2)</sup> created by the [Daedric Prince](Lore_Daedric_Princes.md) [Hermaeus Mora](Lore_Hermaeus_Mora.md). It is an endless library consisting primarily of historical accounts, written records of events that were or could yet be.<sup>[[3]](#cite_note-ESOMM-3)</sup> Contemplating the scope of the Archive's function was known to leave mortals, even its caretaker Master Malkhest, in a daze.<sup>[[4]](#cite_note-Jun-4)</sup>
+
+As the Infinite Archive records not just the past and present but also the potential future, knowledge such as the current whereabouts of a specific artifact, or all the possible questions one could think to ask at a given moment can be found within. However, as the Archive is primarily a collection of the writings from across the [Aurbis](Lore_Aurbis.md), it contains no records of oral traditions, outside of a few observational writings from researchers or notes to performers that reference those traditions.<sup>[[2]](#cite_note-Malkhest Archive-2)</sup><sup>[[3]](#cite_note-ESOMM-3)</sup>
+
+All things within the Archive, caretakers, tomes, or even invaders, are connected to an arcane orb known as the Index, which serves as both catalogue and safeguard. Threads of [fate](Lore_Fate.md) are spun between the Index and the contents of the catalogue and, when some sort of danger damages the recorded object and causes the fateline to snap, the Index restores the version of it from just before the break occurred, not a copy or recreation but the thing itself from a different moment in its fateline.<sup>[[2]](#cite_note-Malkhest Archive-2)</sup><sup>[[3]](#cite_note-ESOMM-3)</sup>
+
+## Geography
+The Archive is unique in that the sprawling wings which it consists of are actually completely unconnected to one another and the only way to travel between them is via [portals](Lore_Magical_Transportation.md), it is a nebulous ever-shifting labyrinth where visitors often unknowingly traverse the pathways leading to a different section, and the destinations of portals linking locations together change over time.<sup>[[5]](#cite_note-MJ-5)</sup> The only way to locate the information one is looking for is by using the archival Index.<sup>[[3]](#cite_note-ESOMM-3)</sup>
+
+## History
+Following the [Planemeld](Lore_Planemeld.md) in [2E 582](Lore_Second_Era.md#2E_582), [Tho'at Replicanum](Lore_Tho%27at_Replicanum.md), a [Daedra Lord](Lore_Daedra_Lord.md) who had taken on the form of "vivified ink", invaded the realm in search of something. Prior to this event many fateline connections between the Index and its contents broke. Tho'at splintered her [Nymic](Lore_Nymic.md) and imbued it into the tomes of the Archive, allowing her to create a potentially infinite number of [Maligraphies](Lore_Maligraphy.md), Daedric facsimiles of vivified ink that replicated the creatures and objects described in the texts that spawned them, extensions of Tho'at herself.<sup>[[3]](#cite_note-ESOMM-3)</sup><sup>[[2]](#cite_note-Malkhest Archive-2)</sup>
+
+In response to the invasion Master Malkhest, caretaker of the Archive, used [Seekers](Lore_Seeker.md) to recruit adventurers to combat the Maligraphies.<sup>[[6]](#cite_note-6)</sup> With the aid of [the Vestige](Lore_The_Vestige.md), Malkhest gathered enough Nymic fragments from the vanquished Maligraphies to summon Tho'at Replicanum and banish her. However, in addition to creating Maligraphic copies of the creatures in the tomes, Tho'at had already replicated herself hundreds of times across the Archive by creating [Maligraphic](Lore_Maligraphy.md) copies of herself. Though replicas, each Tho'at Replicanum copy had a slightly different Nymic, so they were all separate beings to one another, and different Nymics had to be gathered to banish each. The Vestige and Malkhest would continue working to banish the spreading presence of Tho'at and the Maligraphies from the Infinite Archive.<sup>[[3]](#cite_note-ESOMM-3)</sup><sup>[[7]](#cite_note-ESOMMR-7)</sup>
+
+## Currency
+[](https://en.uesp.net/wiki/File:ON-icon-Archival_Fortunes.png) [Archival Fortunes](Lore_Archival_Fortunes.md) are a form of [currency](Lore_Currency.md) used in the Infinite Archive, a border realm of [Apocrypha](Lore_Apocrypha.md). They are [soul](Lore_Souls.md) -forged currency, taking the form of eye-focused signets. Both [Daedra](Lore_Daedra.md) and mortal scholars dwelling in the Infinite Archive utilize them for trade. Magical analysis unmistakably reveals the incorporation of [soul gems](Lore_Soul_Gems.md) in crafting these distinctive signets. A clear connection exists between comprehending the aetheric index at the core of the Archive and acquiring these iconic signets, likely explaining their value within that realm's confines. Archival Fortunes were frequently employed as rewards for individuals who carried out tasks for the [hierophant](Lore_Malkhest.md) and other denizens of the archive, such as halting the invasion of [Tho'at Replicanum](Lore_Tho%27at_Replicanum.md), slaying [Fabled](Lore_Fabled.md) and Marauder [maligraphies](Lore_Maligraphy.md), or helping with restoring the lost pieces of literature, such as *[Fynboar the Resurrected](Lore_Fynboar_the_Resurrected.md)* or *Theories on Apocrypha*. Exclusive exotic goods were often available for purchase solely using these fortunes within the Archive.
+
+[Gabrielle Benele](Lore_Gabrielle_Benele.md) of the [University of Gwylim](Lore_University_of_Gwylim.md) was known for delving into the research of the Archival Fortunes.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/a4/ON-load-Infinite_Archive.png/200px-ON-load-Infinite_Archive.png)](https://en.uesp.net/wiki/File:ON-load-Infinite_Archive.png) The Index Chamber
+- [![](https://images.uesp.net/thumb/1/1e/ON-place-Destozuno%27s_Library.jpg/200px-ON-place-Destozuno%27s_Library.jpg)](https://en.uesp.net/wiki/File:ON-place-Destozuno%27s_Library.jpg) Destozuno's Library
+- [![](https://images.uesp.net/thumb/e/e7/ON-place-Infinite_Archive_17.jpg/200px-ON-place-Infinite_Archive_17.jpg)](https://en.uesp.net/wiki/File:ON-place-Infinite_Archive_17.jpg) Icy area within the Infinite Archive
+- [![](https://images.uesp.net/thumb/4/4c/ON-place-Infinite_Archive_18.jpg/200px-ON-place-Infinite_Archive_18.jpg)](https://en.uesp.net/wiki/File:ON-place-Infinite_Archive_18.jpg) Fiery area within the Infinite Archive
+- [![](https://images.uesp.net/thumb/c/cd/ON-place-Infinite_Archive_19.jpg/200px-ON-place-Infinite_Archive_19.jpg)](https://en.uesp.net/wiki/File:ON-place-Infinite_Archive_19.jpg) An area resembling a mortal settlement within the Archive
+- [![](https://images.uesp.net/thumb/7/74/ON-npc-Tho%27at_Replicanum.jpg/200px-ON-npc-Tho%27at_Replicanum.jpg)](https://en.uesp.net/wiki/File:ON-npc-Tho%27at_Replicanum.jpg) The Tho'at Replicanum
+- [![](https://images.uesp.net/thumb/5/59/ON-object-Roiling_Ink.jpg/200px-ON-object-Roiling_Ink.jpg)](https://en.uesp.net/wiki/File:ON-object-Roiling_Ink.jpg) Maligraphic Roiling Ink
+
+## Notes
+- This realm was originally called the **Endless Archive**. The name was changed in [*The Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Online)'s [Patch 9.2.8](https://en.uesp.net/wiki/Online:Patch/9.2.8).
+- Records of all the potential questions one could ask at a given moment are recorded within the Book of Infinite Questions and Potent Possibilities.<sup>[[2]](#cite_note-Malkhest Archive-2)</sup>
+- The Infinite Archive was once one connected landscape, but it transformed at some point, taking on its current form.<sup>[[3]](#cite_note-ESOMM-3)</sup><sup>[[4]](#cite_note-Jun-4)</sup>
+- The Archive contained a number of books such as "The Elusive Traveler", which detailed the history of [the Vestige](Lore_The_Vestige.md), albeit with contradictory details. To the puzzlement of Archive caretakers, the Index lacked information regarding such tomes and they weren't recorded within its catalogue.<sup>[[5]](#cite_note-MJ-5)</sup>
+- The Index does not allow specters to enter the Archival Wings.<sup>[[8]](#cite_note-ONEsalinwe-8)</sup>
+
+## References
+1. [^](#cite_ref-1) [Infinite Archive](https://en.uesp.net/wiki/Online:Infinite_Archive)'s loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Malkhest Archive_2-0)***</sup><sup>***[b](#cite_ref-Malkhest Archive_2-1)***</sup><sup>***[c](#cite_ref-Malkhest Archive_2-2)***</sup><sup>***[d](#cite_ref-Malkhest Archive_2-3)***</sup><sup>***[e](#cite_ref-Malkhest Archive_2-4)***</sup> [*Loremaster's Archive - Infinite Archive*](Lore_Loremaster%27s_Archive_-_Infinite_Archive.md) — [Master Malkhest](Lore_Malkhest.md)
+3. ^ <sup>***[a](#cite_ref-ESOMM_3-0)***</sup><sup>***[b](#cite_ref-ESOMM_3-1)***</sup><sup>***[c](#cite_ref-ESOMM_3-2)***</sup><sup>***[d](#cite_ref-ESOMM_3-3)***</sup><sup>***[e](#cite_ref-ESOMM_3-4)***</sup><sup>***[f](#cite_ref-ESOMM_3-5)***</sup><sup>***[g](#cite_ref-ESOMM_3-6)***</sup> [Master Malkhest](https://en.uesp.net/wiki/Online:Master_Malkhest)'s dialogue during the quest [The Margins of Ire](https://en.uesp.net/wiki/Online:The_Margins_of_Ire) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-Jun_4-0)***</sup><sup>***[b](#cite_ref-Jun_4-1)***</sup> [Filer Jun](https://en.uesp.net/wiki/Online:Filer_Jun)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-MJ_5-0)***</sup><sup>***[b](#cite_ref-MJ_5-1)***</sup> [*Malkhest's Journal*](https://en.uesp.net/wiki/Lore:Malkhest%27s_Journal) — [Malkhest](Lore_Malkhest.md)
+6. [^](#cite_ref-6) [Aiding the Infinite Archive](https://en.uesp.net/wiki/Online:Aiding_the_Infinite_Archive) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ESOMMR_7-0) [Master Malkhest](https://en.uesp.net/wiki/Online:Master_Malkhest)'s dialogue during the quest [Replication Elimination](https://en.uesp.net/wiki/Online:Replication_Elimination) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ONEsalinwe_8-0) [Esalinwe](https://en.uesp.net/wiki/Online:Esalinwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://fr.uesp.net/w/index.php?title=Lore:Infinite_Archive&action=edit).*

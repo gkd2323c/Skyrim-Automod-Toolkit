@@ -1,0 +1,93 @@
+# Nirnroot
+
+| [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Nirnroot.png) Nirnroot <br> 00 059b86 | | | |
+| --- | --- | --- | --- |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 10 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0.2 |
+| [Alchemy Effects](Skyrim_Alchemy_Effects.md) | | | |
+| 1st | [](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md) (**12.6** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) | | |
+| 2nd | [](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md) | | |
+| 3rd | [](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md) | | |
+| 4th | [](Skyrim_Resist_Magic.md) [Resist Magic](Skyrim_Resist_Magic.md) | | |
+| Sources | | | |
+| # Samples | 22 | | |
+| Plant | Nirnroot | | |
+| # Plants | 161 | | |
+| Merchant Avail. | Rare | | |
+
+[![](https://images.uesp.net/thumb/4/4a/SR-flora-Nirnroot.jpg/200px-SR-flora-Nirnroot.jpg)](https://en.uesp.net/wiki/File:SR-flora-Nirnroot.jpg) [](https://en.uesp.net/wiki/File:SR-flora-Nirnroot.jpg) A Nirnroot plant **Nirnroot** is a bright green plant normally found growing near water. Nirnroot plants glow, making them easier to locate at night, and also emit a unique chiming sound. While in-game text claims Nirnroot does not regrow, it actually does regrow normally like other plants (unlike its behavior in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Nirnroot)*). A related plant is [Crimson Nirnroot](Skyrim_Crimson_Nirnroot.md), which has nearly identical alchemical properties, with only certain differences in the Damage Health and Damage Stamina effects. Nirnroot and Crimson Nirnroot can be combined to make a four-effect potion, as shown [below](#4_Effects).
+
+[Damage Health](Skyrim_Damage_Health.md) poisons made using Nirnroot have the same strength as those made using standard Damage Health ingredients. However, the gold value of such poisons is 12.6 times greater than those made using standard ingredients. See the effect page for details.
+
+## Combinations
+In terms of combinations of two ingredients, Nirnroot can be combined with 63 other ingredients.
+
+### 4 Effects
+| Desired Effect | Combine with: | | | |
+| --- | --- | --- | --- | --- |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | **[](Skyrim_Resist_Magic.md) [Resist Magic](Skyrim_Resist_Magic.md)** | [Crimson Nirnroot](Skyrim_Crimson_Nirnroot.md) (**3.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)) (**3.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)) |
+
+### 2 Effects
+| Desired Effect | Combine with: | |
+| --- | --- | --- |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | [Redwort Flower](Skyrim_Redwort_Flower.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Resist_Magic.md) [Resist Magic](Skyrim_Resist_Magic.md)** | [Void Salts](Skyrim_Void_Salts.md) |
+| **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | [Ash Creep Cluster](Skyrim_Ash_Creep_Cluster.md)<sup>[DB](Skyrim_Dragonborn.md)</sup> |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | [Jarrin Root](Skyrim_Jarrin_Root.md) (**100** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)) |
+
+### 1 Effect
+| Desired Effect | Combine with: |
+| --- | --- |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | [Chokeberry](Skyrim_Chokeberry.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Coda Flower](Skyrim_Coda_Flower.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Deathbell](Skyrim_Deathbell.md) (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Ectoplasm](Skyrim_Ectoplasm.md), [Emperor Parasol Moss](Skyrim_Emperor_Parasol_Moss.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Falmer Ear](Skyrim_Falmer_Ear.md), [Fire Petal](Skyrim_Fire_Petal.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Gnarl Bark](Skyrim_Gnarl_Bark.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> **1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png), [Human Flesh](Skyrim_Human_Flesh.md), [Human Heart](Skyrim_Human_Heart.md), [Imp Gall](Skyrim_Imp_Gall.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Imp Stool](Skyrim_Imp_Stool.md), [Mort Flesh](Skyrim_Mort_Flesh.md)<sup>[CC](Skyrim_Plague_of_the_Dead.md)</sup>, [Nightshade](Skyrim_Nightshade.md), [Poison Bloom](Skyrim_Poison_Bloom.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Red Mountain Flower](Skyrim_Red_Mountain_Flower.md), [River Betty](Skyrim_River_Betty.md) (**2.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Scalon Fin](Skyrim_Scalon_Fin.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Skeever Tail](Skyrim_Skeever_Tail.md), [Small Antlers](Skyrim_Small_Antlers.md), [Troll Fat](Skyrim_Troll_Fat.md), [Wisp Stalk Caps](Skyrim_Wisp_Stalk_Caps.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | [Ancestor Moth Wing](Skyrim_Ancestor_Moth_Wing.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, [Blisterwort](Skyrim_Blisterwort.md), [Blue Butterfly Wing](Skyrim_Blue_Butterfly_Wing.md), [Bog Beacon](Skyrim_Bog_Beacon.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Bone Meal](Skyrim_Bone_Meal.md), [Canis Root](Skyrim_Canis_Root.md), [Chaurus Hunter Antennae](Skyrim_Chaurus_Hunter_Antennae.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, [Comberry](Skyrim_Comberry.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Cyrodilic Spadetail](Skyrim_Cyrodilic_Spadetail.md), [Giant's Toe](Skyrim_Giant%27s_Toe.md), [Marshmerrow](Skyrim_Marshmerrow.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Rock Warbler Egg](Skyrim_Rock_Warbler_Egg.md), [Spider Egg](Skyrim_Spider_Egg.md) |
+| **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | [Bittergreen Petals](Skyrim_Bittergreen_Petals.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Blister Pod Cap](Skyrim_Blister_Pod_Cap.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Chaurus Eggs](Skyrim_Chaurus_Eggs.md), [Daedra Silk](Skyrim_Daedra_Silk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Elytra Ichor](Skyrim_Elytra_Ichor.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Flame Stalk](Skyrim_Flame_Stalk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Green Butterfly Wing](Skyrim_Green_Butterfly_Wing.md)<sup>[CC](Skyrim_Saints_%26_Seducers.md)</sup>, [Ice Wraith Teeth](Skyrim_Ice_Wraith_Teeth.md), [Luna Moth Wing](Skyrim_Luna_Moth_Wing.md), [Screaming Maw](Skyrim_Screaming_Maw.md)<sup>[CC](Skyrim_Saints_%26_Seducers.md)</sup> (**4** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **4.6** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Vampire Dust](Skyrim_Vampire_Dust.md) |
+| **[](Skyrim_Resist_Magic.md) [Resist Magic](Skyrim_Resist_Magic.md)** | [Aster Bloom Core](Skyrim_Aster_Bloom_Core.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.22** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Bleeding Crown](Skyrim_Bleeding_Crown.md), [Bungler's Bane](Skyrim_Bungler%27s_Bane.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.22** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Chicken's Egg](Skyrim_Chicken%27s_Egg.md), [Felsaad Tern Feathers](Skyrim_Felsaad_Tern_Feathers.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Gleamblossom](Skyrim_Gleamblossom.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, [Hagraven Claw](Skyrim_Hagraven_Claw.md), [Hawk's Egg](Skyrim_Hawk%27s_Egg.md)<sup>[HF](Skyrim_Hearthfire.md)</sup>, [Hypha Facia](Skyrim_Hypha_Facia.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.22** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Lavender](Skyrim_Lavender.md), [Tundra Cotton](Skyrim_Tundra_Cotton.md), [Wisp Wrappings](Skyrim_Wisp_Wrappings.md) |
+
+## Ingredients
+22 guaranteed samples can be found in 19 different locations. Locations with multiple samples are:
+
+- 3 on an island north of [Dawnstar](Skyrim_Dawnstar.md) ([The Pale](Skyrim_The_Pale.md))
+- 2 in [Angeline's Aromatics](Skyrim_Angeline%27s_Aromatics.md) ([Solitude](Skyrim_Solitude.md))
+- 2 in [Sarethi Farm](Skyrim_Sarethi_Farm.md) ([The Rift](Skyrim_The_Rift.md))
+- 2 in [Sinderion's Field Laboratory](Skyrim_Sinderion%27s_Field_Laboratory.md) ([Blackreach](Skyrim_Blackreach.md))
+
+It is categorized as a rare ingredient, meaning that most apothecary merchants have a 21% chance of carrying 1-4 samples. In addition, it may be randomly found only in rare-type [apothecary's satchels](Skyrim_Apothecary%27s_Satchel.md). Other possible locations for already-harvested samples include:
+
+- 1-2 guaranteed samples are found on several dead [alchemists](Skyrim_Alchemist.md), including the one found at [Clearpine Pond](Skyrim_Clearpine_Pond.md).
+
+## Plants
+[![](https://images.uesp.net/thumb/f/f0/SR-Skyrim-Map-Nirnroot.png/200px-SR-Skyrim-Map-Nirnroot.png)](https://en.uesp.net/wiki/File:SR-Skyrim-Map-Nirnroot.png) [](https://en.uesp.net/wiki/File:SR-Skyrim-Map-Nirnroot.png) Map of all Nirnroot plants in Skyrim's overworld 166 Nirnroot plants can be found in 85 different locations. Locations with the greatest numbers are:
+
+- 13 around [Northwatch Keep](Skyrim_Northwatch_Keep.md) ([Haafingar](Skyrim_Haafingar.md))
+- 9 around [Sarethi Farm](Skyrim_Sarethi_Farm.md) ([The Rift](Skyrim_The_Rift.md))
+- 6 around [Steepfall Burrow](Skyrim_Steepfall_Burrow.md) ([Haafingar](Skyrim_Haafingar.md))
+- 5 around the [Dawnstar Sanctuary](Skyrim_Dawnstar_Sanctuary.md) ([The Pale](Skyrim_The_Pale.md))
+- 4 around [Bruca's Leap Redoubt](Skyrim_Bruca%27s_Leap_Redoubt.md) ([The Reach](Skyrim_The_Reach.md))
+- 4 around [Evergreen Grove](Skyrim_Evergreen_Grove.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md))
+- 3 around the [Abandoned Shack](Skyrim_Abandoned_Shack.md) ([Hjaalmarch](Skyrim_Hjaalmarch.md))
+- 3 around [Bleakcoast Cave](Skyrim_Bleakcoast_Cave.md) ([Winterhold](Skyrim_Winterhold_(region).md))
+- 3 around [Bleakwind Basin](Skyrim_Bleakwind_Basin.md) ([Whiterun Hold](Skyrim_Whiterun_Hold.md))
+- 3 around [Brinewater Grotto](Skyrim_Brinewater_Grotto.md) ([Haafingar](Skyrim_Haafingar.md))
+- 3 around [Broken Oar Grotto](Skyrim_Broken_Oar_Grotto.md) ([Haafingar](Skyrim_Haafingar.md))
+- 3 around [Gloomreach](Skyrim_Gloomreach.md) ([The Reach](Skyrim_The_Reach.md))
+- 3 around [Heartwood Mill](Skyrim_Heartwood_Mill.md) ([The Rift](Skyrim_The_Rift.md))
+- 3 centered 1120 feet northwest of [Mor Khazgur](Skyrim_Mor_Khazgur.md) ([The Reach](Skyrim_The_Reach.md)) [(map)](https://gamemap.uesp.net/sr/?x=-166846&y=100414)
+- 3 around [Ravenscar Hollow](Skyrim_Ravenscar_Hollow.md) ([Haafingar](Skyrim_Haafingar.md))
+- 3 around [Redoran's Retreat](Skyrim_Redoran%27s_Retreat.md) ([Whiterun Hold](Skyrim_Whiterun_Hold.md))
+- 3 centered 870 feet west-northwest of [Rimerock Burrow](Skyrim_Rimerock_Burrow.md) ([Haafingar](Skyrim_Haafingar.md)) [(map)](https://gamemap.uesp.net/sr/?x=-161516&y=110049)
+- 3 around the [Wreck Of The Brinehammer](Skyrim_Wreck_Of_The_Brinehammer.md) ([The Pale](Skyrim_The_Pale.md))
+- 3 around the [Wreck of the Icerunner](Skyrim_Wreck_of_the_Icerunner.md) ([Hjaalmarch](Skyrim_Hjaalmarch.md))
+
+## Related Quests
+- **[Few and Far Between](Skyrim_Few_and_Far_Between.md)**: Help [Ingun](Skyrim_Ingun_Black-Briar.md) restock [Elgrim](Skyrim_Elgrim.md)'s rare ingredients. - 20 samples are needed for this quest.
+
+## Notes
+- Nirnroot can be sold to [Avrusa Sarethi](Skyrim_Avrusa_Sarethi.md) at [Sarethi Farm](Skyrim_Sarethi_Farm.md) for the quest [Gather Wheat](Skyrim_Gather_Wheat.md) for 10 gold each.
+- Nirnroot and Crimson Nirnroot are not affected by the [Alchemy](Skyrim_Alchemy.md) perk [Green Thumb](Skyrim_Green_Thumb.md); therefore, even with the perk, you will still only collect a single sample from each plant. However, with the [Dragonborn](Skyrim_Dragonborn.md) add-on installed, several regular Nirnroot plants can be found in [Solstheim](Skyrim_Solstheim.md) which yield multiple samples of the ingredient.
+- With the [Hearthfire](Skyrim_Hearthfire.md) add-on, you cannot plant Nirnroot at the [greenhouse or garden](Skyrim_Greenhouse.md) of your [player-built property](Skyrim_Construction.md).
+- Although [Gianna](Skyrim_Gianna.md) claims during the quest [To Kill an Empire](Skyrim_To_Kill_an_Empire.md) that Nirnroot can be added to soups as "a special seasoning", you cannot do this yourself when cooking.
+
+## Bugs
+- An otherwise typical Nirnroot plant within a hollow log on a small island east-southeast of the [Wreck of The Pride of Tel Vos](Skyrim_Wreck_of_The_Pride_of_Tel_Vos.md) and due west of Winterhold cannot be harvested. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.0, fixes this bug.
+- At times, the glow emitted by a Nirnroot may not disappear. - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.6.87, fixes this bug.
+- Sometimes Nirnroot becomes unharvestable; even though the sound of being picked will play, it will not be added to your inventory, nor will the plant disappear. <sup>**?**</sup> - Saving and then reloading the game may make the plant harvestable again.

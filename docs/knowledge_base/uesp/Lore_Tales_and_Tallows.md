@@ -1,0 +1,15 @@
+# Tales and Tallows
+
+[![](https://images.uesp.net/thumb/e/ed/DF-misc-Character_Creation_Map.jpg/200px-DF-misc-Character_Creation_Map.jpg)](https://en.uesp.net/wiki/File:DF-misc-Character_Creation_Map.jpg) [](https://en.uesp.net/wiki/File:DF-misc-Character_Creation_Map.jpg) Map of Tamriel Tales and Tallows is a [holiday](Lore_Holidays.md) observed all over [Tamriel](Lore_Tamriel.md) on the 3<sup>rd</sup> of [Hearthfire](Lore_Hearthfire.md). It is a day associated with the [dead](Lore_Death.md) and spirits, and while most people celebrate it, they still hold superstitious fears of the walking dead in the alleys, particularly the oldest and superstitious townsfolk, who fear evil entities will possess their bodies. As such, no other holiday divides the people of Tamriel as the 3rd of Hearthfire. Tales and Tallows also values [necromancy](Lore_Necromancy.md), which is considered the oldest [magical](Lore_Magic.md) science.<sup>[[1]](#cite_note-AR-1)</sup> Noble families will host parties and invite mages because of the holiday's superstitious nature.<sup>[[2]](#cite_note-P1-2)</sup>
+
+In their active years, the [Mages Guild](Lore_Mages_Guild.md) greatly benefitted during the holiday as magical items were typically sold at half price. Temples are closed to the public, however, to privately pray for the dead.<sup>[[1]](#cite_note-AR-1)</sup> In [Morrowind](Lore_Morrowind.md), this holiday is known as **Ancestor's Day**, and unlike some Tamrielans that view it with superstition, it is a pleasant reunion of family and friends around the clan hearth, where people make [food](Lore_Dunmer_Cuisine.md) and partake in gift-giving. The celebration is generally quiet and respectful for the [hearth spirits](Lore_Ancestor_Worship.md).<sup>[[3]](#cite_note-IWADE-3)</sup>
+
+## Notes
+- Though sources claim that the 3<sup>rd</sup> of Hearthfire is also [Nocturnal](Lore_Nocturnal.md)'s summoning day,<sup>[[4]](#cite_note-IOA-4)</sup> the summoning day in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)* is actually on the 8th of Hearthfire.<sup>[[5]](#cite_note-DFNocturnal-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-AR_1-0)***</sup><sup>***[b](#cite_ref-AR_1-1)***</sup> [Tales and Tallows](https://en.uesp.net/wiki/Arena:Holidays#Tales_and_Tallows) in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. [^](#cite_ref-P1_2-0) [*Palla, volume 1*](Lore_Palla,_volume_1.md) — [Vojne Mierstyyd](Lore_Books_by_Author.md#Vojne_Mierstyyd)
+3. [^](#cite_ref-IWADE_3-0) [*Interview with a Dark Elf*](https://en.uesp.net/wiki/General:Interview_with_a_Dark_Elf)
+4. [^](#cite_ref-IOA_4-0) [*Invocation of Azura*](Lore_Invocation_of_Azura.md) — [Sigillah Parate](Lore_Books_by_Author.md#Sigillah_Parate)
+5. [^](#cite_ref-DFNocturnal_5-0) [Nocturnal's Quest](https://en.uesp.net/wiki/Daggerfall:Nocturnal%27s_Quest) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

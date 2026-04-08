@@ -1,0 +1,37 @@
+# Pieron Desant
+
+| The First Gleaner Pieron Desant | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Pieron Desant.jpg](https://images.uesp.net/thumb/2/27/ON-npc-Pieron_Desant.jpg/200px-ON-npc-Pieron_Desant.jpg)](https://en.uesp.net/wiki/File:ON-npc-Pieron_Desant.jpg) The First Gleaner Pieron Desant | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Male |
+| Resided in | [Fargrave](Lore_Fargrave.md) <br> [Deadlands](Lore_Deadlands.md) <br> [High Isle](Lore_High_Isle.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Pieron_Desant) | | |
+
+*None of these outlandish theories are true. Unless they are.*
+—Pieron Desant<sup>[[1]](#cite_note-TFG-1)</sup> Pieron Desant, also known as **The First Gleaner**<sup>[[1]](#cite_note-TFG-1)</sup> was a [Breton](Lore_Breton.md) thief and planar traveler. He was the founder of the [Gleaners of Aurbis](Lore_Gleaners_of_Aurbis.md), the group composed of mortal and daedric extraplanar travelers who act as thieves and spies.<sup>[[2]](#cite_note-ESOLB-2)</sup> He is known for his mysterious longevity and stealth abilities a few can match. Pieron is considered the greatest thief among the Gleaners ever to prowl the Bazaar of the Fargrave.<sup>[[1]](#cite_note-TFG-1)</sup>
+
+[![](https://images.uesp.net/thumb/9/9c/ON-place-The_Blood_Pit.jpg/200px-ON-place-The_Blood_Pit.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Blood_Pit.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Blood_Pit.jpg) The Blood Pit, a prison Pieron escaped from on numerous occasions [![](https://images.uesp.net/thumb/9/9d/ON-quest-Clandestine_Communications.jpg/200px-ON-quest-Clandestine_Communications.jpg)](https://en.uesp.net/wiki/File:ON-quest-Clandestine_Communications.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Clandestine_Communications.jpg) Gleaner's Gleam - ink only people who work for Pieron can see
+## History
+Little is known of the Pieron Desant's past. Many different and often contradictive stories and beliefs regarding his history and achievements are known. He arrived at Fargrave at an unspecified date several centuries before [2E 582](Lore_Second_Era.md#2E_582) and founded the [Gleaners of Aurbis](Lore_Gleaners_of_Aurbis.md), a faction of plane traveling spies and thieves.<sup>[[2]](#cite_note-ESOLB-2)</sup><sup>[[3]](#cite_note-ESOPD-3)</sup> During his travels he visited numerous locations in various planes, such as [Apocrypha](Lore_Apocrypha.md) and [Deadlands](Lore_Deadlands.md) but he considered Fargrave an inspiring place where the best and most unique and valuable items can be located and then stolen.<sup>[[3]](#cite_note-ESOPD-3)</sup>
+
+He was incarcerated on numerous occasions in the Blood Pit - a prison for Daedra in the [Deadlands](Lore_Deadlands.md), the realm of [Mehrunes Dagon](Lore_Mehrunes_Dagon.md), though whenever he was imprisoned he managed to escape. The last time it happened was centuries before [2E 582](Lore_Second_Era.md#2E_582).<sup>[[3]](#cite_note-ESOPD-3)</sup>
+
+At some point of the history, he stole a vial of the glowing ink from the desk of the leader of the [Saraathu Tong](Lore_Saraathu_Tong.md). He quickly found out that the only ones who could see the ink were the ones who worked for him and that this ink can be utilized in his work. He likened the glow to the storms over Apocrypha.<sup>[[3]](#cite_note-ESOPD-3)</sup> Ever since then he and Gleaners of Aurbis use this ink in their work in multiple ways.<sup>[[2]](#cite_note-ESOLB-2)</sup><sup>[[4]](#cite_note-ESOTQD-4)</sup>
+
+According to his [Spiderkith](Lore_Spiderkith.md) [daedric](Lore_Daedra.md) associates he stole the secret of how to reach the [Fargrave](Lore_Fargrave.md) through the portal from a Kynreeve. Once he arrived there soon he started to steal from locals and when he was finally caught he had a large enough store of treasure confiscated from across Fargrave and from the Grasp that they had to let him stay or risk losing face to this master criminal who happened to be a mortal. Another tale of his arrival to the Fargrave was spread by one of his [Khajiit](Lore_Khajiit.md) coworkers and stipulates that he was an escaped sacrifice from an unknown daedric cult devoted to the [Daedric Prince](Lore_Daedric_Prince.md) [Sanguine](Lore_Sanguine.md). Although some accounts claim that he is not fond of revisiting the [Nirn](Lore_Nirn.md) it is believed that at some point in history he ventured to the [High Isle](Lore_High_Isle.md) and returned with stolen loot.<sup>[[1]](#cite_note-TFG-1)</sup>
+
+Among many mysteries of Pieron is his unusual longevity. Some of his fellow Gleaners believe that he is a Daedra, while others state that all male heirs of the Desant family remain in hiding while they are taught the ways of their fathers before one of them inherits the mantle of Pieron Desant. Pieron was aware of such rumors and neither confirmed nor denied any speculations about his person.<sup>[[1]](#cite_note-TFG-1)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582) Pieron Desant needed to communicate with certain members of his thieves group who were as of that time imprisoned in the Blood Pit in [Deadlands](Lore_Deadlands.md). He ordered his lower rank associate Luna Beriel to handle this task and find a suitable contractor to deliver the messages to the drop sites marked with Gleaners' gleam. The [contractor](Lore_The_Vestige.md) agreed to assist the Gleaners of Aurbis and delivered the messages where they were instructed.<sup>[[4]](#cite_note-ESOTQD-4)</sup> The task was completed and the contractor received payment for their deeds.<sup>[[2]](#cite_note-ESOLB-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Pieron_Desant) [](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC)) article.
+
+### Books
+- ***[The First Gleaner](Lore_The_First_Gleaner.md)*** Compiled by [Haryfire](Lore_Books_by_Author.md#Haryfire) — A compilation of notes written about the founder of the Gleaners of Aurbis
+
+## References
+1. ^ <sup>***[a](#cite_ref-TFG_1-0)***</sup><sup>***[b](#cite_ref-TFG_1-1)***</sup><sup>***[c](#cite_ref-TFG_1-2)***</sup><sup>***[d](#cite_ref-TFG_1-3)***</sup><sup>***[e](#cite_ref-TFG_1-4)***</sup> [*The First Gleaner*](Lore_The_First_Gleaner.md) — [Haryfire](Lore_Books_by_Author.md#Haryfire)
+2. ^ <sup>***[a](#cite_ref-ESOLB_2-0)***</sup><sup>***[b](#cite_ref-ESOLB_2-1)***</sup><sup>***[c](#cite_ref-ESOLB_2-2)***</sup><sup>***[d](#cite_ref-ESOLB_2-3)***</sup> [Luna Beriel](https://en.uesp.net/wiki/Online:Luna_Beriel)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+3. ^ <sup>***[a](#cite_ref-ESOPD_3-0)***</sup><sup>***[b](#cite_ref-ESOPD_3-1)***</sup><sup>***[c](#cite_ref-ESOPD_3-2)***</sup><sup>***[d](#cite_ref-ESOPD_3-3)***</sup> [Pieron Desant](https://en.uesp.net/wiki/Online:Pieron_Desant)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+4. ^ <sup>***[a](#cite_ref-ESOTQD_4-0)***</sup><sup>***[b](#cite_ref-ESOTQD_4-1)***</sup> Events of [Clandestine Communications](https://en.uesp.net/wiki/Online:Clandestine_Communications) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*

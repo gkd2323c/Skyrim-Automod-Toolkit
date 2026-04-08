@@ -1,0 +1,20 @@
+# Razum-dar's Journal, Chapter 3
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Up | *[Razum-dar's Journal](Lore_Razum-dar%27s_Journal.md)* | | |
+| Prev. | *[Chapter 2](Lore_Razum-dar%27s_Journal,_Chapter_2.md)* | Next | *[Chapter 4](Lore_Razum-dar%27s_Journal,_Chapter_4.md)* |
+
+Razum-dar's Journal, Chapter 3 **by [Razum-dar](Lore_Books_by_Author.md#Razum-dar)** *Razum-dar's report on the Mirror Court of the Proxy Queen*
+---
+[These Sermons](Lore_The_Truth_in_Sequence.md) are very eccentric, yes? Even by the standards of silly [Dark Elves](Lore_Dark_Elf.md), who try so hard to be unorthodox that they write rules for it. But [Raz](Lore_Razum-dar.md) admits that if one reads six or seven of these screeds in a row, they start to make a sort of sense, and this one almost begins to doubt the [Riddle'Thar](Lore_Riddle%27Thar.md)'s doctrine of Free Will Under the Moons. Still, it is best to have some understanding of those one investigates, no matter how eccentric. And [Clockwork Apostles](Lore_Clockwork_Apostles.md) take some understanding, as Razum-dar discovered.
+
+Your [Majesty](Lore_Ayrenn.md) remembers how this one's ears perked up on reading [Sotha Sil](Lore_Sotha_Sil.md)'s research notes, but Raz didn't say why? Suspense always makes the story better—but now to explain. In precise and machine-like handwriting, the Clockwork God outlined a plan for a mechanical-magical device that was intended to imprint mortal emotions upon heartless artificial people, the so-called [Factotums](Lore_Factotum.md) Raz mentioned earlier. But though the Tribune had high hopes for this "Affect Inducer" for unspecified personal reasons, he'd abandoned the experiment after it didn't work on Factotums, only inducing emotions in real people.
+
+That's right: it worked only on real people! Razum-dar imagines Her Majesty's raised royal eyebrows as she reads this, because now she understands why this one was alarmed, yes? A magical device that can instill specific emotional responses in its targets has obvious practical applications, especially for those inclined to make mischief in the body politic. And that is why Raz finds himself in funny-smelling Clockwork City where even the mice are machines (which is like a cruel joke aimed specifically at poor Khajiit by malicious Sotha Sil).
+
+So Razum-dar begins asking discreet questions to try and pick up the trail of [Telenger](Lore_Telenger_the_Artificer.md)'s erstwhile friend [Penewen](Lore_Penewen.md), who persuaded him to project her into Clockwork after he read Seht's notes. And he is successful, because Raz is so clever and personable even frigid Clockwork Apostles find him charming! This one makes the acquaintance of an adjunct in the Clockwork Basilica, a robust Apostle lady still mostly flesh named Alveno Apo. She remembers Penewen but is reluctant to speak of her, so Raz decides to become her very good friend.
+
+To become Alveno's very good friend takes time, but Alveno has hidden virtues, so this one finds the task congenial. It is best to enjoy one's work, no? Eventually, in the privacy of her personal lodgings, Alveno reveals to Raz that she had illicitly admitted Penewen into a palace pompously entitled the [Mnemonic Planisphere](Lore_Mnemonic_Planisphere.md), which is apparently some kind of library or archive. When Penewen came out, she had asked if Alveno could, for appropriate inducement, lead her to another site with the more mundane name of Barilzar's Eighth Laboratory.
+
+And Alveno had agreed. Of course, Raz also now desired to see this Barilzar's Eighth Laboratory, so he proceeded to persuade Alveno to take him there, though this one suspects the inducement he used was different than that employed by Penewen. Whoever [Barilzar](Lore_Barilzar.md) is, he is not in his laboratory when Raz enters, and he is met instead by an attractive assistant named Alarvyne who is very upset, because it seems an important piece of equipment entrusted to Barilzar has gone missing. I'll wager Her Majesty can guess what this was!

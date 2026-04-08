@@ -1,0 +1,20 @@
+# Ayleid Revivalists
+
+[![](https://images.uesp.net/thumb/6/6a/ON-npc-King_Nantharion_02.jpg/200px-ON-npc-King_Nantharion_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-King_Nantharion_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-King_Nantharion_02.jpg) Nantharion of House Rayn, a Bosmer cultist and self-proclaimed Ayleid king Ayleid Revivalists are thought to be a secret society<sup>[[1]](#cite_note-1)</sup> that seek to bring about a rebirth of [Ayleid](Lore_Ayleid.md) civilization and restore its dominion over [Cyrodiil](Lore_Cyrodiil.md).<sup>[[2]](#cite_note-OBUmbacano-2)</sup><sup>[[3]](#cite_note-3)</sup>
+
+The [Recollection](Lore_Recollection.md) was a cult dedicated to the [Daedric Prince](Lore_Daedric_Prince.md) [Ithelia](Lore_Ithelia.md) which emerged out of [Silvenar](Lore_Silvenar.md) circa [2E 582](Lore_Second_Era.md#2E_582). Led by King [Nantharion Rayn](Lore_Nantharion.md), the Recollection was mostly made up of [Bosmer](Lore_Bosmer.md) who could claim partial Ayleid ancestry via the [Ayleid Diaspora](Lore_Ayleid_Diaspora.md). Their ancestors once worshipped Ithelia prior to [Hermaeus Mora](Lore_Hermaeus_Mora.md)'s attempt to destroy all memory of her, and Ithelia and her [Shardborn](Lore_Shardborn.md) worked directly with Nantharion to reawaken ancient power within the various [Ayleid ruins](Lore_Ayleid_Ruins.md) throughout [West Weald](Lore_West_Weald.md). This process resulted in devastating [wildburns](https://en.uesp.net/wiki/Lore:Wildburn) in the [Strid Vale](Lore_Strid_Vale.md) region and the growth of a new jungle called Dawnwood. Nantharion led Bosmer out of [Valenwood](Lore_Valenwood.md) to settle this new forest, establishing the settlements of Vashabar and [Hoperoot](Lore_Hoperoot.md) on the Cyrodilic side of the border. He ultimately hoped to use Ithelia's power to conquer West Weald and establish a new Ayleid kingdom, but he perished within the ruins of [Miscarcand](Lore_Miscarcand.md) in service to the Prince, ending the threat posed by the Recollection.<sup>[[4]](#cite_note-4)</sup><sup>[[5]](#cite_note-5)</sup>
+
+The [Third Era](Lore_Third_Era.md) [Altmer](Lore_Altmer.md) collector [Umbacano](Lore_Umbacano.md) was a noted revivalist. In [3E 433](Lore_Third_Era.md#3E_433), he descended into the ruins of [Nenalata](Lore_Nenalata.md) in an attempt to restore the [Last King of the Ayleids](Lore_Laloriaran_Dynar.md) to life and raise an undead army to "begin the restoration" of their ancient glory. He was never to be seen again.<sup>[[2]](#cite_note-OBUmbacano-2)</sup><sup>[[6]](#cite_note-6)</sup><sup>[[7]](#cite_note-7)</sup>
+
+## See Also
+- **[Ayleid Empire](Lore_Ayleid_Empire.md)**
+- **[Dawnway](Lore_Dawnway.md)**
+
+## References
+1. [^](#cite_ref-1) [Glarthir](https://en.uesp.net/wiki/Oblivion:Glarthir)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+2. ^ <sup>***[a](#cite_ref-OBUmbacano_2-0)***</sup><sup>***[b](#cite_ref-OBUmbacano_2-1)***</sup> [Umbacano](https://en.uesp.net/wiki/Oblivion:Umbacano)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. [^](#cite_ref-3) [*Lady Clarisse Laurent Answers Your Questions*](Lore_Lady_Clarisse_Laurent_Answers_Your_Questions.md) — [Lady Clarisse Laurent](Lore_Books_by_Author.md#Lady_Clarisse_Laurent) and [Stibbons](Lore_Books_by_Author.md#Stibbons)
+4. [^](#cite_ref-4) [King Nantharion's Gambit](https://en.uesp.net/wiki/Online:King_Nantharion%27s_Gambit) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [*Meet the Character - Nantharion*](Lore_Meet_the_Character_-_Nantharion.md) — [Beragon](Lore_Books_by_Author.md#Beragon)
+6. [^](#cite_ref-6) [Secrets of the Ayleids](https://en.uesp.net/wiki/Oblivion:Secrets_of_the_Ayleids) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+7. [^](#cite_ref-7) [King of Nenalata](https://en.uesp.net/wiki/Oblivion:King_of_Nenalata) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*

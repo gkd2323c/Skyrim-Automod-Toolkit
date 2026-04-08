@@ -1,0 +1,72 @@
+# Ancient Nord Equipment
+
+## Ancient Nord Weapons
+Ancient Nord weapons do the same damage as [steel](Skyrim_Steel.md#Steel_Weapons) weapons. At higher levels, [Draugr](Skyrim_Draugr.md) have honed weapons, which do the same damage as [elven](Skyrim_Elven.md#Elven_Weapons) weapons.
+
+| | Name ([ID](Skyrim_Form_ID.md)) | [Tempering](Skyrim_Grindstone.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Arrows.png) | Ancient Nord Arrow <br> (00 034182) | | 0 | 1 | 10 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Battle Axe.png) | Ancient Nord Battle Axe <br> (00 01cb64) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 22 | 28 | 18 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Bow.png) | Ancient Nord Bow <br> (00 0302ca) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 12 | 45 | 8 | - Draw speed 0.875 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Dagger.png) | Ancient Nord Dagger<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 000E44) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 3.5 | 5 | 5 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Greatsword.png) | Ancient Nord Greatsword <br> (00 0236a5) <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 880)<sup>[CC](Skyrim_Plague_of_the_Dead.md)</sup> | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 18 | 35 | 17 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Mace.png) | Ancient Nord Mace<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 000E46) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 16 | 17 | 10 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Sword.png) | Ancient Nord Sword <br> (00 02c66f) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 12 | 13 | 8 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord War Axe.png) | Ancient Nord War Axe <br> (00 02c672) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 14 | 15 | 9 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Warhammer.png) | Ancient Nord Warhammer<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 000E47) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 26 | 42 | 20 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Battle Axe.png) | Honed Ancient Nord Battle Axe <br> (00 05bf12) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 25 | 50 | 21 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Dagger.png) | Honed Ancient Nord Dagger<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1ED) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 4.5 | 9 | 8 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Greatsword.png) | Honed Ancient Nord Greatsword <br> (00 05bf13) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 21 | 63 | 20 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Mace.png) | Honed Ancient Nord Mace<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1EE) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 18 | 31 | 13 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Sword.png) | Honed Ancient Nord Sword <br> (00 05bf14) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 15 | 23 | 11 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord War Axe.png) | Honed Draugr War Axe <br> (00 05bf15) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 16 | 27 | 12 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Warhammer.png) | Honed Ancient Nord Warhammer<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1EF) | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Dwarven](Skyrim_Dwarven_Smithing.md) | 29 | 76 | 23 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient Nord Bow.png) | Supple Ancient Nord Bow <br> (00 05d179) | Not possible <sup>[†](#intnote_Supple)</sup> | 18 | 235 | 14 | - Draw speed 0.875 |
+
+[†](#note_Supple) The supple ancient Nord bow cannot be tempered at a grindstone. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.0, addresses this issue. Like the Honed weapons, they can be tempered with a [Steel Ingot](Skyrim_Steel_Ingot.md), receiving bonuses from the [Dwarven Armor](Skyrim_Dwarven_Smithing.md) perk.
+
+## Ancient Nord Armor
+| | Name ([ID](Skyrim_Form_ID.md)) | Type | [Tempering](Skyrim_Workbench.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-jewelry-The Gauldur Amulet.png) | Ancient Nord Amulet <br> (00 0cc842) | Amulet | N/A | 1 | 100 | 0 | - Found in the [Jarl's Longhouse](Skyrim_Jarl%27s_Longhouse_(Falkreath).md) ([Falkreath](Skyrim_Falkreath.md)), in a display case behind Jarl Siddgeir's bed. <br> - Can't be enchanted. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg) <br> The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2.7, fixes this bug. |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Ancient Nord Armor.png) | Ancient Nord Armor <br> (00 018388) | Heavy Armor | [Iron Ingot](Skyrim_Iron_Ingot.md); <br> perk: [Daedric](Skyrim_Daedric_Smithing.md) | 28 | 125 | 25 | - Ancient Nord Armor, Boots, Helmet, and Gauntlets were incorrectly flagged as Daedric material when they should be Steel. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg) <br> The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2.7, addresses this issue. Tempering Ancient Nord Armor now benefits from Steel Smithing perk. |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Ancient Nord Boots.png) | Ancient Nord Boots <br> (00 056a9d) | Heavy Boots | [Iron Ingot](Skyrim_Iron_Ingot.md); <br> perk: [Daedric](Skyrim_Daedric_Smithing.md) | 5 | 25 | 10 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Ancient Nord Gauntlets.png) | Ancient Nord Gauntlets <br> (00 056b17) | Heavy Gauntlets | [Iron Ingot](Skyrim_Iron_Ingot.md); <br> perk: [Daedric](Skyrim_Daedric_Smithing.md) | 4 | 25 | 10 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Ancient Nord Helmet(m).png) [](https://en.uesp.net/wiki/File:SR-icon-armor-Ancient Nord Helmet(f).png) | Ancient Nord Helmet <br> (00 056a9e) | Heavy Helmet | [Iron Ingot](Skyrim_Iron_Ingot.md); <br> perk: [Daedric](Skyrim_Daedric_Smithing.md) | 4 | 60 | 15 | |
+| Ancient Nord Helmet <br> (00 1019ca) | Heavy Helmet | Not possible | 9 | 320 | 23 | - Only equippable through the [console](Skyrim_Console.md). | |
+| Ancient Nord Helmet <br> (00 01fd7c) | Heavy Helmet | Not possible | 1 | 1 | 1 | | |
+| Ancient Nord Helmet <br> (00 01fd7b) <br> (00 01fd77) | Light Helmet | Not possible | 1 | 1 | 1 | | |
+
+#### Gallery
+- [![](https://images.uesp.net/thumb/b/b2/SR-item-Ancient_Nord_Armor_Male.jpg/200px-SR-item-Ancient_Nord_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Ancient_Nord_Armor_Male.jpg) Ancient Nord Armor Male
+- [![](https://images.uesp.net/thumb/1/17/SR-item-Ancient_Nord_Armor_Female.jpg/200px-SR-item-Ancient_Nord_Armor_Female.jpg)](https://en.uesp.net/wiki/File:SR-item-Ancient_Nord_Armor_Female.jpg) Ancient Nord Armor Female
+
+## Nord Hero Weapons
+The Skyforge allows you to convert standard draugr weapons ("Ancient Nord" weapons) into improved "Nord Hero" weapons after completing the main Companions questline and speaking to Eorlund. This can only be done using standard ancient Nord weapons, not the improved honed ancient Nord weapons that appear at higher levels. Daggers, maces, and warhammers are not available without the [Fishing](Skyrim_Fishing.md) [Creation](Skyrim_Creation_Club.md) (which adds these missing draugr weapon types). The source weapons can generally be obtained in large quantities in any [Nordic ruin](Skyrim_Nordic_Ruins.md) or other [Draugr Crypt](https://en.uesp.net/wiki/Category:Skyrim-Places-Draugr_Crypts).
+
+The resulting weapons are all medium-quality weapons, with damage identical to elven, Nordic, or Skyforge steel weapons. However, they are also the lightest available weapons (tied with iron), making them the best option of the four due to lower stamina costs for melee weapons and faster draw time with the bow. All of the weapons can be tempered using 1 [steel ingot](Skyrim_Steel_Ingot.md) (see [bug](#Bugs)). Having the [Steel Smithing](Skyrim_Steel_Smithing.md) perk doubles the quality improvement. While these weapons can only be made at the Skyforge, they can be improved with any grindstone.
+
+If you've completed the Companions questline and still can't forge Nord Hero weapons, talk to Eorlund. He should mention how "the Skyforge feels more... awake."
+
+| | Name ([ID](Skyrim_Form_ID.md)) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Crit. <br> [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Speed | Reach | Raw Materials | Delta | Ratio | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Draugr Weapon | [](https://en.uesp.net/wiki/File:SR-icon-ingot-Steel_Ingot.png) [Steel](Skyrim_Steel_Ingot.md) | [](https://en.uesp.net/wiki/File:SR-icon-misc-Leather Strips.png) [Strips](Skyrim_Leather_Strips.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | | | | | | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Dagger.png) | Nord Hero Dagger<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1E4) | 2 | 55 | 8 | 2 | 1.3 | 0.7 | [Ancient Nord Dagger](Skyrim_Ancient_Nord_Dagger.md) | 1 | 1 | -2.6 | 27 | 0.43 | 1.96 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero Sword.png) | Nord Hero Sword <br> (00 068c7b) | 9 | 135 | 11 | 4 | 1 | 1 | [Ancient Nord Sword](Skyrim_Ancient_Nord_Sword.md) | 2 | 2 | -5.2 | 76 | 0.63 | 2.29 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero War Axe.png) | Nord Hero War Axe <br> (00 068c63) | 11 | 165 | 12 | 6 | 0.9 | 1 | [Ancient Nord War Axe](Skyrim_Ancient_Nord_War_Axe.md) | 2 | 2 | -5.2 | 104 | 0.68 | 2.70 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Mace.png) | Nord Hero Mace<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1E5) | 13 | 195 | 13 | 5 | 0.8 | 1 | [Ancient Nord Mace](Skyrim_Ancient_Nord_Mace.md) | 2 | 2 | -5.2 | 132 | 0.71 | 3.1 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero Bow.png) | Nord Hero Bow <br> (00 068c57) | 7 | 200 | 11 | 4 | 0.875 | 1 | [Ancient Nord Bow](Skyrim_Ancient_Nord_Bow.md) | 3 | 0 | -8 | 95 | 0.47 | 1.90 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero Greatsword.png) | Nord Hero Greatsword <br> (00 0a3115) | 16 | 250 | 20 | 8 | 0.75 | 1.3 | [Ancient Nord Greatsword](Skyrim_Ancient_Nord_Greatsword.md) | 3 | 3 | -5.3 | 146 | 0.75 | 2.40 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero Battle Axe.png) | Nord Hero Battle Axe <br> (00 068c79) | 20 | 300 | 21 | 8 | 0.7 | 1.3 | [Ancient Nord Battle Axe](Skyrim_Ancient_Nord_Battle_Axe.md) | 3 | 3 | -9.3 | 203 | 0.68 | 3.09 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Warhammer.png) | Nord Hero Warhammer<sup>[CC](Skyrim_Fishing.md)</sup> <br> ([xx](Skyrim_Form_ID.md) 08A1E6) | 24 | 350 | 23 | 10 | 0.6 | 1.3 | [Ancient Nord Warhammer](Skyrim_Ancient_Nord_Warhammer.md) | 3 | 3 | -2.6 | 239 | 0.43 | 3.15 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Nord Hero Arrows.png) | Nord Hero Arrow <br> (00 0eafdf) | 0 | 5 | 24<sup>†</sup> | N/A | N/A | N/A | | | | | | | |
+
+† Nord Hero Arrows are only available in the game if using the Unofficial Dawnguard Patch. They can be created in batches of 24 using an equal number of [Ancient Nord Arrows](Skyrim_Ancient_Nord_Arrow.md) and 1 [Steel Ingot](Skyrim_Steel_Ingot.md). The patch alters their damage to 16 instead of 24.
+
+## Notes
+- The three Ancient Nord weapons added by [Fishing](Skyrim_Fishing.md) received a texture update in [Special Edition Patch 1.6.1130](Skyrim_Special_Edition_Patch.md#1.6.1130).
+
+- [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Dagger_(old).png) Ancient Nord Dagger (old textures)
+- [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Mace_(old).png) Ancient Nord Mace (old textures)
+- [](https://en.uesp.net/wiki/File:SR-icon-weapon-Ancient_Nord_Warhammer_(old).png) Ancient Nord Warhammer (old textures)

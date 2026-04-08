@@ -1,0 +1,30 @@
+# Ruddy Man
+
+[![](https://images.uesp.net/thumb/d/d7/MW-concept-15.jpg/200px-MW-concept-15.jpg)](https://en.uesp.net/wiki/File:MW-concept-15.jpg) [](https://en.uesp.net/wiki/File:MW-concept-15.jpg) The Ruddy Man in battle with Vivec The Ruddy Man was one of the eight [monster children](Lore_Monster_Children.md) from the unholy union of [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md), who initially escaped being slain.<sup>[[1]](#cite_note-LOV12-1)</sup><sup>[[2]](#cite_note-LOV18-2)</sup> They are said to have battled Vivec twice according to the teachings of the [Tribunal Temple](Lore_Tribunal_Temple.md). He is a carapace who gives power to those who wear him,<sup>[[3]](#cite_note-LOV28-3)</sup> although he is sometimes considered a [dreugh](Lore_Dreugh.md), or an aspect of Molag Bal worshipped by the dreughs.<sup>[[4]](#cite_note-KCS-4)</sup><sup>[[5]](#cite_note-CETD-5)</sup> The Ruddy Man endures as a symbol of fear in Dunmer culture.<sup>[[6]](#cite_note-RMR-6)</sup>
+
+According to the Temple, the Ruddy Man was created when a [Velothi](Lore_Velothi.md) child from [Gnisis](Lore_Gnisis.md) found a dead carapace, supposedly Molag Bal's old image [from long ago](Lore_Lyg.md) when he ruled [Mundus](Lore_Mundus.md) as chief of the dreugh-kings. Wanting to scare his village, the child wore the carapace, and the Ruddy Man was formed. Vivec did battle with the monster at the Koal Cave site near Gnisis, creating the [West Gash](Lore_West_Gash.md) region of [Vvardenfell](Lore_Vvardenfell.md); it is said that the sounds of battle still echo in the region. Vivec was victorious, and went to give the carapace to the dreughs who had once modified his mother. However their leader, the [Queen of Dreughs](Lore_Trident-Kings.md) (whose name is not easy to spell), was in a period of self-incubation. Her wardens took the carapace from Vivec in her stead and promised to safeguard it, but this is the first recorded account of the dreughs being liars. Instead, the dreugh imbued the living armor with mythic inflexibility. The Ruddy Man appeared again ten years later at [Tear](Lore_Tear.md), this time worn by a wayward shaman of the [House of Troubles](Lore_House_of_Troubles.md). After defeating him a second time, Vivec gave the carapace to the devout and loyal mystics of the Number Room, who made it into "a philosopher's armor".<sup>[[3]](#cite_note-LOV28-3)</sup>
+
+The Shrine of Valor was set up in the Koal Cave by the Temple and served as part of the Pilgrimage of the Seven Graces. Pilgrims were told that the Ruddy Man was the father of all dreughs, and that Vivec spared his life if he and his children agreed to give up their tough hides as armor for the [Dunmer](Lore_Dunmer.md).<sup>[[7]](#cite_note-TPP-7)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), a dreugh known as the Ruddy Broodmother began terrorizing the roads around Molag Mar, killing pilgrim and Buoyant Armiger alike. The Ruddy Broodmother made its lair within the Dreudurai Glass Mine, which the [Erabenimsun](Lore_Erabenimsun_Tribe.md) knew as ancient dreugh spawning grounds.<sup>[[8]](#cite_note-ESOIbaal-8)</sup> The Vestige, with the help of a group of Ashlanders, drew it out of hiding and slew it. A pilgrim who survived the incident and fled into an ancestral tomb believed the creature to be the mythical Ruddy Man, though Ashlanders denied its existence, claiming that the Broodmother was simply a powerful and cunning dreugh. The Buoyant Armigers considered the thought of the beast being the Ruddy Man borderline heresy. The captain of the Buoyant Armigers at the time suggested that if the Ruddy Broodmother truly was related to the creature of legend, that it might be a lesser creature "cut from the same cloth" as the Ruddy Man.<sup>[[9]](#cite_note-ESONaros-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/2/26/MW-interior-Koal_Cave.jpg/200px-MW-interior-Koal_Cave.jpg)](https://en.uesp.net/wiki/File:MW-interior-Koal_Cave.jpg) The Shrine of Valor in Koal Cave
+- [![](https://images.uesp.net/thumb/3/32/ON-creature-Ruddy_Broodmother.jpg/200px-ON-creature-Ruddy_Broodmother.jpg)](https://en.uesp.net/wiki/File:ON-creature-Ruddy_Broodmother.jpg) Ruddy Broodmother
+- [![](https://images.uesp.net/thumb/9/9b/LO-misc-Molag_Bal_Mask.jpg/200px-LO-misc-Molag_Bal_Mask.jpg)](https://en.uesp.net/wiki/File:LO-misc-Molag_Bal_Mask.jpg) Mask depicting an aspect of Molag Bal
+
+## See Also
+
+### Books
+- ***[Ruddy Man Rhyme](Lore_Ruddy_Man_Rhyme.md)*** — A children's rhyme about a scary monster
+
+## References
+1. [^](#cite_ref-LOV12_1-0) [*36 Lessons of Vivec, Sermon 12*](Lore_36_Lessons_of_Vivec,_Sermon_12.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-LOV18_2-0) [*36 Lessons of Vivec, Sermon 18*](Lore_36_Lessons_of_Vivec,_Sermon_18.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+3. ^ <sup>***[a](#cite_ref-LOV28_3-0)***</sup><sup>***[b](#cite_ref-LOV28_3-1)***</sup> [*36 Lessons of Vivec, Sermon 28*](Lore_36_Lessons_of_Vivec,_Sermon_28.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+4. [^](#cite_ref-KCS_4-0) [Koal Cave Shrine](https://en.uesp.net/wiki/Morrowind:Shrines#Koal_Cave_Shrine) description in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-CETD_5-0) [Creating ESO: The Dreugh](https://en.uesp.net/wiki/General:Creating_ESO:_The_Dreugh)
+6. [^](#cite_ref-RMR_6-0) [*Ruddy Man Rhyme*](Lore_Ruddy_Man_Rhyme.md)
+7. [^](#cite_ref-TPP_7-0) [*The Pilgrim's Path*](Lore_The_Pilgrim%27s_Path.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+8. [^](#cite_ref-ESOIbaal_8-0) [Ibaal](https://en.uesp.net/wiki/Online:Ibaal)'s dialogue during [An Armiger's Duty](https://en.uesp.net/wiki/Online:An_Armiger%27s_Duty) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+9. [^](#cite_ref-ESONaros_9-0) [Captain Naros](https://en.uesp.net/wiki/Online:Captain_Naros)' dialogue during [An Armiger's Duty](https://en.uesp.net/wiki/Online:An_Armiger%27s_Duty) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*

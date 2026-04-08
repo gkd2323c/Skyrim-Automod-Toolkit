@@ -1,0 +1,26 @@
+# Meet the Character - Naryu Virian
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/26077)) |
+| Publication Date: | May 31, 2017 |
+
+Meet the Character - Naryu Virian **by [Ashur](Lore_Books_by_Author.md#Ashur)** *A Morag Tong assassin's petition to his Guildmaster*
+---
+[![ON-render-Naryu Virian.jpg](https://images.uesp.net/thumb/5/55/ON-render-Naryu_Virian.jpg/300px-ON-render-Naryu_Virian.jpg)](https://en.uesp.net/wiki/File:ON-render-Naryu_Virian.jpg)
+- Grandmaster,
+
+- I wanted to talk to you face to face, but your auditor refused to grant me entry to your office. She actually ordered me to put my request in writing! When did the business of murder become so regulated, that's what I want to know! I digress. The reason for this letter—I'd like to work with [Naryu Virian](Lore_Naryu_Virian.md) now that she's returned to [Vvardenfell](Lore_Vvardenfell.md).
+
+- Why, you're probably wondering, would an assassin of my rank, standing, and experience within the [Morag Tong](Lore_Morag_Tong.md) want to share a writ or two with a relatively new operative who's been busy gallivanting far from the seat of our power in Vvardenfell? Well, that's just it. Naryu has seen the world, from [Deshaan](Lore_Deshaan.md) to [Eastmarch](Lore_Eastmarch.md), [Mournhold](Lore_Mournhold.md) to the [Gold Coast](Lore_Gold_Coast.md), she's racked up more seals on her travel documents than most of the Morag Tong in recent years. Our status and reputation have improved, as you well know, but we're far from the heights of influence we once commanded. Look at Naryu's perspective and experiences abroad. I want to take advantage of the knowledge she's gained to make me better at my job. Just don't tell her I said that. She thinks that offering compliments is a sign of weakness, and I learned long ago never to show that woman any indication of vulnerability.
+
+- I'm not one to tell you what you already know, but the reports I've been privy to concerning Naryu's activities read like the adventures of Investigator Vale! Stopping [a plague](Lore_Llodos_Plague.md), saving [a king](Lore_Jorunn.md), catching a relentless murderer —all the while completing each and every writ and contract assigned to her. That's impressive! Add to that her sardonic wit, her I-don't-give-a-fetch attitude, and the fact that she makes even Morag Tong leathers look good, and is it any wonder they call her "the Beautiful Darkness?"
+
+- Did you know I helped train Naryu, back in the day? It was a toss-up as to whether or not Varon Davel or I were going to get to mentor her through the final stages of her apprenticeship, but I decided to let Varon have all the fun. I suppose I'm regretting that decision now, so I want to make up for it by getting to work with Naryu. To see her in action. I know this might be a lot to ask for, but when was the last time I requested a favor from our esteemed Grandmaster? True, it was a week ago last Morndas, but what about the time before that? I don't make it a habit is what I'm trying to get across here.
+
+- What can we expect of Naryu Virian now that she's back in Vvardenfell? From all indications, only the best. She's a warrior without equal, capable of cleaving her way through an army of cultists or nonchalantly slipping a dagger between the ribs of a single target with relative ease. She knows more ways to disable or kill a person than even I do, and that's saying something. Poison, [garrote](Lore_Garrote.md), knife, arrow, sword, polearm, stew pot, bed sheet, hairpin, even a copy of Lord [Vivec](Lore_Vivec_(god).md)'s [Twenty-Fourth Sermon](Lore_36_Lessons_of_Vivec,_Sermon_24.md) —she can turn even the most inoffensive bauble into a deadly weapon. I can't wait to see how she handles a writ that targets [House Redoran](Lore_House_Redoran.md) or [House Hlaalu](Lore_House_Hlaalu.md)! I expect it to be an eye-opening experience, to say the least.
+
+- Now, I heard that she's decided to take on an apprentice of her own now that she's back in the bosom of the Morag Tong. Don't let that influence your decision regarding my request. I won't interfere with her teaching duties. If I can't kill it, eat it, or bed it, what do I care? Let her play at being a teacher. But when a particularly intriguing writ comes along, one that requires more than a single assassin to complete, I want to work with Naryu to get the job done. Grant me this minor boon and I promise not to ask for another privilege for at least a month. No, make that two! I just want to bask in the action and adventure that seems to spin around Naryu the way [Baar Dau](Lore_Baar_Dau.md) hangs above [Vivec City](Lore_Vivec_City.md). And, if we can stay close to [Balmora](Lore_Balmora.md), so much the better. The Randy Netch Inn serves a [scuttle](https://en.uesp.net/wiki/Lore:Scuttle) -encrusted fungal eel every Fredas that's just to die for!
+
+- With utmost respect,
+- Ashur of the Quiet Blade

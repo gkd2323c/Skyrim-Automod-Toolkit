@@ -1,0 +1,25 @@
+# Ashland Hymns
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Ashland_Hymns) |
+
+Ashland Hymns *A volume of folk verses collected from Ashlanders*
+---
+[This is a volume of folk verses collected from Ashlanders. 'Wondrous Love' is from the Urshilaku Ashlanders of the northern Ashlands.]
+
+What a wondrous love it is
+
+To bind two souls in faith,
+
+Chained completely together
+
+With never a false word,
+
+Weal and woe, wish and real,
+
+Woven each together
+
+From first kiss to last breath,
+
+First and last whispered in love.

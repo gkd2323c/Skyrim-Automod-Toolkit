@@ -1,0 +1,15 @@
+# Konunleikar
+
+[![](https://images.uesp.net/thumb/7/72/ON-place-Windhelm.jpg/200px-ON-place-Windhelm.jpg)](https://en.uesp.net/wiki/File:ON-place-Windhelm.jpg) [](https://en.uesp.net/wiki/File:ON-place-Windhelm.jpg) Windhelm, the city where the Konunleikar of [2E 582](Lore_Second_Era.md#2E_582) was held The Konunleikar was a traditional celebration held in [Skyrim](Lore_Skyrim.md) on the tenth anniversary of a High King's coronation. It included a lot of events, such as drinking, hunting, fighting and racing contests.<sup>[[1]](#cite_note-ON-1)</sup>
+
+The only known Konunleikar was held in [Windhelm](Lore_Windhelm.md) in [2E 582](Lore_Second_Era.md#2E_582), when [King Jorunn](Lore_Jorunn.md)'s tenth anniversary as the Skald-King was celebrated.<sup>[[2]](#cite_note-Tt A-2)</sup> This Konunleikar was unique, because it was also the tenth anniversary of the formation of Jorunn's [Ebonheart Pact](Lore_Ebonheart_Pact.md). Because of that, an unusually high number of [Dunmer](Lore_Dunmer.md) and [Argonians](Lore_Argonian.md) participated in the celebration, some even working as judges in contests.<sup>[[1]](#cite_note-ON-1)</sup>
+
+[Fildgor Orcthane](Lore_Fildgor.md), Jorunn's brother exiled after [Ada'Soom Dir-Kamal](Lore_Ada%27Soom_Dir-Kamal.md)'s invasion, returned to Eastern Skyrim in 2E 582 and had members of his [Stormfist Clan](Lore_Stormfist_Clan.md) enter the Konunleikar games.<sup>[[3]](#cite_note-Of F-3)</sup> Through cheating, they managed to make it to the final event, a fight in Windhelm's Hall of Trials which was attended by King Jorunn himself. A Stormfist Clan member, Leimaer the Raven, won the competition by poisoning her opponents. When King Jorunn was about to congratulate her for her victory, she announced Fildgor's return and attacked him. The King's life was saved by the [Vestige](Lore_The_Vestige.md), who attended the event after having uncovered the Stormfists' plot.<sup>[[4]](#cite_note-Leimaer_the_Raven-4)</sup><sup>[[5]](#cite_note-Windhelm.27s_Champion-5)</sup><sup>[[6]](#cite_note-One_Victor.2C_One_King-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ON_1-0)***</sup><sup>***[b](#cite_ref-ON_1-1)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Tt A_2-0) [*Tracking the Arena*](Lore_Tracking_the_Arena.md) — [Ebidazner Kornod](Lore_Books_by_Author.md#Ebidazner_Kornod)
+3. [^](#cite_ref-Of F_3-0) [*Orders from Fildgor*](https://en.uesp.net/wiki/Online:Orders_from_Fildgor) — [Fildgor Orcthane](https://en.uesp.net/wiki/Online:Fildgor_Orcthane)
+4. [^](#cite_ref-Leimaer_the_Raven_4-0) [Leimaer the Raven](https://en.uesp.net/wiki/Online:Leimaer_the_Raven)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Windhelm.27s_Champion_5-0) Events of [Windhelm's Champion](https://en.uesp.net/wiki/Online:Windhelm%27s_Champion) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-One_Victor.2C_One_King_6-0) Events of [One Victor, One King](https://en.uesp.net/wiki/Online:One_Victor,_One_King) in [ESO](https://en.uesp.net/wiki/Online:Online)

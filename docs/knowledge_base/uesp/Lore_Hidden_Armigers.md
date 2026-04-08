@@ -1,0 +1,21 @@
+# Hidden Armigers
+
+[![](https://images.uesp.net/thumb/c/c4/ON-npc-Thrush.jpg/200px-ON-npc-Thrush.jpg)](https://en.uesp.net/wiki/File:ON-npc-Thrush.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Thrush.jpg) Thrush, the leader of the Hidden Armigers The Hidden Armigers were a network of spies working as the intelligence arm of the [Ebonheart Pact](Lore_Ebonheart_Pact.md) during its existence in the [Interregnum](Lore_Interregnum.md) period. They were rumored to have been an alchemy group from within [House Telvanni](Lore_House_Telvanni.md) who later jumped ship.<sup>[[1]](#cite_note-ESOValaste-1)</sup> They were based out of [Mournhold](Lore_Mournhold.md) and led by a mysterious [Dunmer](Lore_Dunmer.md) named Thrush, although they ultimately answered to High King [Jorunn](Lore_Jorunn.md) of East [Skyrim](Lore_Skyrim.md). It's unknown if they were related to the [Buoyant Armigers](Lore_Buoyant_Armigers.md), a military order of the [Tribunal Temple](Lore_Tribunal_Temple.md).<sup>[[2]](#cite_note-ESO-2)</sup><sup>[[3]](#cite_note-Thrush-3)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the Hidden Armigers were responsible for several attempts at the lives of the members of the [Ring of Daggers](Lore_Ring_of_Daggers.md).<sup>[[4]](#cite_note-Copper_Dariah-4)</sup> They were also receiving confidential information about the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) war effort from Krin Ren-dro, a traitor and a former member of the [Eyes of the Queen](Lore_Eyes_of_the_Queen.md), until this plot was discovered by the Aldmeri Dominion and their informant was eliminated.<sup>[[5]](#cite_note-GBIB-5)</sup><sup>[[6]](#cite_note-ATL-6)</sup> Later in the same year, the Hidden Armigers worked closely with the [Mages Guild](Lore_Mages_Guild.md), the [Fighters Guild](Lore_Fighters_Guild.md), the outlawed [Morag Tong](Lore_Morag_Tong.md), the Eyes of the Queen, and the [Ring of Daggers](Lore_Ring_of_Daggers.md) in arranging ceasefire talks on [Stirk](Lore_Stirk.md) for the leaders of the [Alliance War](Lore_Alliance_War.md).<sup>[[2]](#cite_note-ESO-2)</sup><sup>[[3]](#cite_note-Thrush-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/00/ON-npc-Scathecraw.jpg/200px-ON-npc-Scathecraw.jpg)](https://en.uesp.net/wiki/File:ON-npc-Scathecraw.jpg) [Scathecraw](https://en.uesp.net/wiki/Online:Scathecraw), a member of the Hidden Armigers
+- [![](https://images.uesp.net/thumb/8/89/ON-npc-Hopper.jpg/200px-ON-npc-Hopper.jpg)](https://en.uesp.net/wiki/File:ON-npc-Hopper.jpg) [Hopper](https://en.uesp.net/wiki/Online:Hopper_(person)), a member of the Hidden Armigers
+- [![](https://images.uesp.net/thumb/e/e7/ON-npc-Longfin.jpg/200px-ON-npc-Longfin.jpg)](https://en.uesp.net/wiki/File:ON-npc-Longfin.jpg) [Longfin](https://en.uesp.net/wiki/Online:Longfin), a member of the Hidden Armigers
+
+## See Also
+- For game-specific Hidden Armigers information, see the [ESO](https://en.uesp.net/wiki/Online:Hidden_Armigers) article.
+
+## References
+1. [^](#cite_ref-ESOValaste_1-0) [Valaste](https://en.uesp.net/wiki/Online:Valaste)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-ESO_2-0)***</sup><sup>***[b](#cite_ref-ESO_2-1)***</sup> Events of [Messages Across Tamriel](https://en.uesp.net/wiki/Online:Messages_Across_Tamriel) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Thrush_3-0)***</sup><sup>***[b](#cite_ref-Thrush_3-1)***</sup> [Thrush](https://en.uesp.net/wiki/Online:Thrush)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Copper_Dariah_4-0) [Copper Dariah](https://en.uesp.net/wiki/Online:Copper_Dariah)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-GBIB_5-0) [General Bathes-In-Blood](https://en.uesp.net/wiki/Online:General_Bathes-In-Blood)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ATL_6-0) Events of [A Traitor's Luck](https://en.uesp.net/wiki/Online:A_Traitor%27s_Luck) in [ESO](https://en.uesp.net/wiki/Online:Online)

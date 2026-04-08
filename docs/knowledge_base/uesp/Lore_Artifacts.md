@@ -1,0 +1,15 @@
+# Artifacts
+
+
+Not all artifacts are Daedric in nature or origin. Some, such as the [Staff of Magnus](Lore_Staff_of_Magnus.md), date back to the creation of [Mundus](Lore_Mundus.md). Others, like [Keening](https://en.uesp.net/wiki/Lore:Keening), were created by mortals. A few form naturally, such as the seven [Star Teeth](https://en.uesp.net/wiki/Lore:Star_Teeth). Several artifacts, such as [Volendrung](https://en.uesp.net/wiki/Lore:Volendrung), were originally created by mortals before they fell under Daedric influence.
+
+Artifacts are near-impossible to permanently destroy, and usually resurface in several years, a notable exception being [Fearstruck](https://en.uesp.net/wiki/Lore:Fearstruck). Most artifacts possess powerful enchantments, superior craftsmanship, or both. Artifacts come in many forms, including [weapons](Lore_Weapons.md), armor, rings, books, and mundane items. They often go by several names, and are well-known to the people of Tamriel. Certain artifacts are grouped together as part of a collection, such as the [Crusader's Relics](https://en.uesp.net/wiki/Lore:Crusader%27s_Relics), [Kagrenac's Tools](https://en.uesp.net/wiki/Lore:Kagrenac%27s_Tools), and [Totems of Hircine](https://en.uesp.net/wiki/Lore:Totems_of_Hircine). Daedric artifacts are predominantly made of [ebony](Lore_Ebony.md). Doom-driven [heroes](Lore_Hero.md) are known to come into contact with many artifacts, and the prophecies of the [Elder Scrolls](Lore_Elder_Scrolls.md) sometimes relate to a specific artifact.
+
+## See Also
+- Game-specific artifacts pages: [*Arena*](https://en.uesp.net/wiki/Arena:Artifacts) • [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Artifacts) • [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Artifacts) • [*Tribunal*](https://en.uesp.net/wiki/Tribunal:Artifacts) • [*Bloodmoon*](https://en.uesp.net/wiki/Bloodmoon:Artifacts) • [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Artifacts) • [*Shivering Isles*](https://en.uesp.net/wiki/Shivering:Artifacts) • [*Skyrim*](Skyrim_Artifacts.md) • [*ESO*](https://en.uesp.net/wiki/Online:Artifacts) • [*Blades*](https://en.uesp.net/wiki/Blades:Artifacts)
+
+## References
+1. [^](#cite_ref-BSLetters_1-0) [*Letters from the Dremora*, Letter 2](https://en.uesp.net/wiki/Battlespire:Letters_from_the_Dremora#Letter_2) in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+2. [^](#cite_ref-OBMartin_2-0) [Martin Septim's dialogue](https://en.uesp.net/wiki/Oblivion:Martin) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. [^](#cite_ref-3) [Lyranth](https://en.uesp.net/wiki/Online:Lyranth)'s dialogue regarding the Mysterium Xarxes during [A Hidden Vault](https://en.uesp.net/wiki/Online:A_Hidden_Vault) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](Online_Blackwood_(Chapter).md)*
+4. [^](#cite_ref-4) [Eveli Sharp-Arrow](https://en.uesp.net/wiki/Online:Eveli_Sharp-Arrow)'s dialogue about her strange dreams during [The Emperor's Secret](https://en.uesp.net/wiki/Online:The_Emperor%27s_Secret) in [ESO](https://en.uesp.net/wiki/Online:Online)

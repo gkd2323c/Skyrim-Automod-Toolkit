@@ -1,0 +1,11 @@
+# House Penot
+
+[![](https://images.uesp.net/thumb/4/48/ON-crown_store-Soulrazer_Wolf.jpg/200px-ON-crown_store-Soulrazer_Wolf.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Soulrazer_Wolf.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Soulrazer_Wolf.jpg) Soulrazer Wolf House Penot is a [Breton](Lore_Breton.md) noble house situated on the [High Isle](Lore_High_Isle.md) on the [Systres Archipelago](Lore_Systres_Archipelago.md). Little is known about them, save that their family crypt is located on the southern coast of High Isle near Breakwater Cave. [Soulrazer](https://en.uesp.net/wiki/Lore:Soulrazer) wolves were known to guard their crypt before it became ruins, leaving them to wander the nearby shorelines at night.<sup>[[1]](#cite_note-1)</sup><sup>[[2]](#cite_note-2)</sup>
+
+Individuals bearing the surname Penot were also found beyond High Isle. Germonde Penot was an [alchemist](Lore_Alchemy.md) from [Camlorn](Lore_Camlorn.md),<sup>[[3]](#cite_note-GP-3)</sup> and Treves Penot was a construction worker from [Wayrest](Lore_Wayrest.md). His younger brother became a member of the [Supernal Dreamers](Lore_Supernal_Dreamers.md), a cult devoted to [Vaermina](Lore_Vaermina.md).<sup>[[4]](#cite_note-TP-4)</sup> Both Germonde and Treves, along with his brother, were active during the [Interregnum](Lore_Interregnum.md), though their connection to the noble House Penot was unclear.<sup>[[3]](#cite_note-GP-3)</sup><sup>[[4]](#cite_note-TP-4)</sup>
+
+## References
+1. [^](#cite_ref-1) [Soulrazer Wolf](https://en.uesp.net/wiki/Online:Soulrazer_Wolf) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-2) [Breakwater Cave](https://en.uesp.net/wiki/Online:Breakwater_Cave) location in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-GP_3-0)***</sup><sup>***[b](#cite_ref-GP_3-1)***</sup> [Germonde Penot](https://en.uesp.net/wiki/Online:Germonde_Penot)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-TP_4-0)***</sup><sup>***[b](#cite_ref-TP_4-1)***</sup> [Treves Penot](https://en.uesp.net/wiki/Online:Treves_Penot)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

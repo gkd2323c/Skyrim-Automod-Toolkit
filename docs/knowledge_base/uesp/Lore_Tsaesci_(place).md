@@ -1,0 +1,18 @@
+# Tsaesci (place)
+
+| --- | --- |
+| Type | Province |
+| Continent | [Akavir](Lore_Akavir.md) |
+| Subregions | [Imperial Province of Akavir](Lore_Imperial_Province_of_Akavir.md) |
+| Demonym(s) | Tsaesci |
+
+Tsaesci (meaning **Snake Palace**; see [pronunciation](Lore_Tsaesci_(race).md)) is a nation found in the southwest of [Akavir](Lore_Akavir.md).<sup>[[1]](#cite_note-RDAI-1)</sup> It was once the most powerful nation in Akavir, before [Tosh Raka](https://en.uesp.net/wiki/Lore:Tosh_Raka) came to [Po Tun](https://en.uesp.net/wiki/Lore:Po_Tun) and renamed it [Ka Po' Tun](Lore_Ka_Po%27_Tun_(place).md). Its naval power remains unrivalled, and its holdings are widespread. Men once lived in Tsaesci, but the vampiric serpent-folk (also called [Tsaesci](Lore_Tsaesci_(race).md)) ate them (the use of the word eaten, however, is up to interpretation—it may be literal or metaphorical). The Tsaesci have enslaved the [goblins](Lore_Goblin.md) of the surrounding isles, and use them for labor and food. They once attempted to enslave the [dragons](Lore_Dragon.md) as well for use as food, and succeeded in [enslaving](Lore_Slavery.md#Tsaesci) the red dragons, but the black dragons fled to Po Tun. A great war was raged, which left both the [cat-folk](Lore_Ka_Po%27_Tun_(race).md) and the snakes weak, and resulted in the death of the dragons.<sup>[[2]](#cite_note-MA-2)</sup>
+
+Tsaesci has had the most interaction with [Tamriel](Lore_Tamriel.md) of any Akaviri nation. The serpent-folk once invaded Tamriel in [1E 2703](Lore_First_Era.md#1E_2703), and survivors left a large cultural influence on the [Empire](Lore_Empire.md). The [Dragonguard](Lore_Dragonguard.md), a group dedicated to dragon hunting, came to Tamriel from Tsaesci and played a part in the formation of the [Blades](Lore_Blades.md).<sup>[[3]](#cite_note-3)</sup> Many Tsaesci relics and ruins remain in Tamriel, and most citizens think of the snake-folk when speaking of Akavir.<sup>[[2]](#cite_note-MA-2)</sup> In the [Third Empire](Lore_Third_Empire.md)'s limited knowledge on Tsaesci, they refer to it as a kingdom and that it was ruled by an unspecified king in the mid- [Third Era](Lore_Third_Era.md).<sup>[[1]](#cite_note-RDAI-1)</sup>
+
+Tsaesci was [invaded](Lore_Invasion_of_Akavir.md) by [Emperor Uriel Septim V](https://en.uesp.net/wiki/Lore:Uriel_Septim_V) in [3E 288](Lore_Third_Era.md#3E_288), who founded the [Imperial Province of Akavir](Lore_Imperial_Province_of_Akavir.md). The settlements of [Septimia](https://en.uesp.net/wiki/Lore:Septimia) and [Ionith](https://en.uesp.net/wiki/Lore:Ionith), located along a large river surrounded by fertile fields, were captured and refounded by the Empire. Thousands of settlers were brought to Akavir, and a road was built connecting the two settlements. The invasion lasted until [3E 290](Lore_Third_Era.md#3E_290), when the Tsaesci attacked the invading Legions, who were already weakened by supernatural weather. This resulted in the death of Uriel V and most of the invasion force. The natives reclaimed the land, and Tsaesci has not been visited by Imperial forces since.<sup>[[1]](#cite_note-RDAI-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-RDAI_1-0)***</sup><sup>***[b](#cite_ref-RDAI_1-1)***</sup><sup>***[c](#cite_ref-RDAI_1-2)***</sup> [*Report: Disaster at Ionith*](Lore_Report__Disaster_at_Ionith.md) — [Lord Pottreid](Lore_Books_by_Author.md#Lord_Pottreid), Chairman
+2. ^ <sup>***[a](#cite_ref-MA_2-0)***</sup><sup>***[b](#cite_ref-MA_2-1)***</sup> [*Mysterious Akavir*](https://en.uesp.net/wiki/Lore:Mysterious_Akavir)
+3. [^](#cite_ref-3) [Esbern](Skyrim_Esbern.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*

@@ -1,0 +1,26 @@
+#  The Azure Plasm
+
+| Book Information | |
+| --- | --- |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Chaotic_Creatia:_The_Azure_Plasm) |
+
+Chaotic Creatia: The Azure Plasm **by [Doctor Rhythandius](Lore_Books_by_Author.md#Doctor_Rhythandius)** *An academic study into Daedric summoning and Azure Plasm* *
+---
+As a Doctor of Transliminal Mythomysticism, I have long been interested in the [soul](Lore_Soul.md)/body problem, the reformation of the [Daedric](Lore_Daedra.md) body post-banishment, and the formation of the body around the essence commonly known as the "[vestige](Lore_Vestige_(soul).md)." Since our [enforced relocation](Lore_Hollow_City.md) to [Coldharbour](Lore_Coldharbour.md), courtesy of [Our Luminous Lady](Lore_Meridia.md), I have had considerable opportunity to observe these processes firsthand, and am now in a position to confirm many hypotheses that, upon [Mundus](Lore_Mundus.md), were fated to remain mere conjecture.
+
+It has long been understood that a Daedra, who lacks the [Anuic](Lore_Anu.md) animus known as the "soul," is not killed when its body is destroyed. A Daedra slain upon Mundus is merely "banished" back to its plane of origin, where its morphotype, or "vestige," gradually forms a new body, so that eventually the Daedra lives again. (This happens as well when a Daedra is slain in its native [Oblivion](Lore_Oblivion.md).)
+
+Furthermore, we have long known from the Daedra themselves that their bodies are formed from the very stuff of chaos, the "[creatia](Lore_Chaotic_Creatia.md)" of Oblivion, a shapeless but energetic material that accretes around a vestige until it conforms to the morphotype's inherent pattern.
+
+Back on Mundus I had naively envisioned this creatia as some sort of misty, amorphous material swirling in a void somewhere. After our arrival in Coldharbour, it was some time before I realized that its ubiquitous pools of blue slime, the substance we've come to call "[Azure Plasm](Lore_Azure_Plasm.md)," was in fact the form that creatia takes upon this plane. By extension, I reasoned that chaotic creatia takes a different but planar-appropriate form in every realm of Oblivion—and this theory was later confirmed for me by the rogue [Xivilai](Lore_Xivilai.md) known as the Sojourner, who has had direct experience of numerous planes of existence.
+
+In fact, it was the Sojourner who first introduced me to one of those secret grottoes where one can observe the process of plasm-accretion in action. (To find such grottoes, where Daedra are "born," it is necessary only to observe the slow flow of the Azure Plasm and follow it to its destination—for plasm-accretion causes a slow drain on adjacent pools.) It was fascinating to watch a vestige gradually absorbing Azure Plasm and converting it from the general to specific, so that over time it slowly took on the size and shape of a hulking, reptilian [daedroth](Lore_Daedroth.md).
+
+Then there are the poor slaves known as the [Soul Shriven](Lore_Soul_Shriven.md). Each is a mortal kidnapped from Mundus at the moment of death, his or her soul stolen by Molag Bal for some unthinkable purpose, and given in exchange the vestige that enables him or her to form a counterfeit body here in Coldharbour. But they are not native to Oblivion, so a Soul Shriven's body is a sad imitation of the body worn in life, suffering rapid wear and decay until it dies—a death that is no liberation, for its vestige only forms a body once again, over and over, ad infinitum ….
+
+Such are the facts. What follows is speculation, born of conversations with the Sojourner during his infrequent and unpredictable visits. His theory is that the Soul Shriven's bodies are flawed because they have lost the focusing principle of their Anuic souls, so their vestiges are imperfect patterns. I concurred that this was likely, and then proposed the theoretical possibility of a Soul Shriven who, despite having lost his or her soul, possessed some other intrinsic Anuic aspect. This shall-we-say "paragon" Soul Shriven would form an unflawed body in Coldharbour that was a perfect duplicate of the body worn in Mundus. In fact, if this paragon bore a sufficiently high Anuic valence, upon contact with [Padomaic](Lore_Padomay.md) creatia its body would form almost instantaneously.
+
+The Sojourner scoffed at my theory, but seemed taken with the idea nonetheless. He went on to speculate that if such a thing were possible, it would probably occur in a situation where the Mundus was in existential jeopardy. In that case the [Heart](Lore_Heart_of_Lorkhan.md) of [Nirn](Lore_Nirn.md) would spontaneously generate such "paragon" individuals as a way of defending itself from destruction, in a manner analogous to the way the mortal body fights off infection.
+
+Ah, Sojourner—how I miss your stimulating conversation. Such flights of fantasy! And yet, given the wonders I've seen in my prolonged existence upon this plane, is anything really impossible?

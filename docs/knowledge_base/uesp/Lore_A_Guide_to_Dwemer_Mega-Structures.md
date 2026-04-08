@@ -1,0 +1,13 @@
+# A Guide to Dwemer Mega-Structures
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:A_Guide_to_Dwemer_Mega-Structures) ([Morrowind](https://en.uesp.net/wiki/Online:Morrowind)) |
+
+A Guide to Dwemer Mega-Structures **by [Vorinara Kleeve](Lore_Books_by_Author.md#Vorinara_Kleeve), Dwemer Scholar** *An essay on Dwemer architecture*
+---
+While we know a great deal about the various forms of [Dwemer](Lore_Dwemer.md) animunculi, many of the larger Dwemer marvels remain a mystery. Legends of Dwemer orreries and fabrication chambers abound, but direct, firsthand scholarship remains scant. I have spent my life in search of these Dwarven mega-structures. While I've met with considerable success, there is one mechanism in particular that I am keen to find: the Dwemer Tonal Resonator.
+
+At the height of their power, the Dwemer exhibited near total mastery of [tonal forces](Lore_Tonal_Architecture.md). Even now, countless centuries later, they remain peerless in this respect. Sound, not magic, facilitated their rise to power. I am continually astounded by tonal forces' wide range of uses. The Dwemer used sound in mining, medicine, architecture—even psychology. It's the latter use that I find most intriguing. According to ancient [Chimeri](Lore_Chimer.md) scholarship, the Dwemer could employ tonal forces to bend weaker minds to their will—a form of complex aural hypnosis. Luckily, the Dwarves never managed to mobilize this technology on the battlefield against our august ancestors. The scale and complexity of the devices likely made transportation nearly impossible. But they still managed to employ it on a limited scale using massive devices called Tonal Resonators.
+
+If the legends are true, these resonators were incredibly complex architectural wonders. They stood taller than the most imposing giants, and filled cavernous chambers with pipes, dials, and pistons. When enabled, the resonators released a series of powerful tones that could alter the brainwaves of lesser mer and men—inducing deep calm and profound pleasure, or even paranoia and terror. The uses for such a device are virtually limitless. Alas, I fear that I will never see one with my own eyes. If such a power could be replicated and perfected, the children of the [Tribunal](Lore_Tribunal.md) could very well reign supreme in [Tamriel](Lore_Tamriel.md) and continents beyond.

@@ -1,0 +1,27 @@
+#  Miredancers
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Tribes_of_Murkmire:_Miredancers) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md)* | | |
+| Prev. | *[Root-House People](Lore_Tribes_of_Murkmire__Root-House_People.md)* | Next | *[The Dead-Water Tribe](Lore_Tribes_of_Murkmire__The_Dead-Water_Tribe.md)* |
+
+[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md): Miredancers **by [Emmanubeth Hurrent](Lore_Books_by_Author.md#Emmanubeth_Hurrent), the Wayfarers' Society of [Wayrest](Lore_Wayrest.md)** *A description of one of the many Argonian tribes within the region of Murkmire* *
+---
+I've had the privilege to speak to two different Miredancer elders now, and I've learned a great deal from both of these conversations. The "Gee-Rusleel," as they call themselves, are among the most introspective [Argonians](Lore_Argonian.md) I've met in my travels. They also tend to be the most pleasant. For all their reclusiveness and wariness, I've never met a people more willing to share a meal or a game of Shells and Stones. They are skilled artisans, with a particular knack for working with [Hist](Lore_Hist.md) [amber](Lore_Amber.md) and egg shells. They are also peerless navigators, master weavers, and skilled cartographers.
+
+The most defining characteristic of the Miredancer tribe, however, is piety. This deep reverence for the Hist has earned them the right to name a "[Sap-Speaker](Lore_Sap-Speakers.md)" for countless generations.
+
+According to the elders I spoke with, the Sap-Speaker is the Hist's direct intermediary. (This is, of course, subject to debate. Many tribes boast unique methods of communion with the Hist. But as far as I have seen, the Miredancers make the most compelling case for the methods they use.) Sap-Speakers often go into seclusion for days or even weeks on end, venturing either down into the roots or high into the canopy of leaves in the uppermost branches. Here, they commune with the Hist. Indeed, the word that one of the elders used was "journey."
+
+These journeys into the Hist tax the Sap-Speakers, and are thoroughly private affairs. After days by themselves, the Sap-Speakers emerge to hide away with old books, scrolls, and tablets. I asked after the purpose of these periods of seclusion. As usual, the answers were light on details. "The Sap-Speaker enters the embrace of the Hist to learn from the great tree," one elder said. "While in close contact with the roots and branches, the Sap-Speaker receives visions and other forms of communication that neither you nor I would understand."
+
+The other elder continued. "Even the Sap-Speaker finds some of what is shown to be mystifying and confusing. I have heard that a Sap-Speaker is treated to ancient metaphors, arcane secrets, and visions that make little sense to creatures so far removed from sap and pulp." Apparently, the second period of seclusion allows the Sap-Speaker time to reflect on what he or she was shown, as well as time to consult with the ancient writings of Sap-Speakers who came before. After a suitable period of study and reflection, the Sap-Speaker emerges to reveal the Hist's will to the tribes.
+
+I attempted to get more information about what happens while the Sap-Speaker meditates among the roots or branches, but I'm not sure the elders knew much more. They did tell me that the only nourishment the Sap-Speaker receives during these periods of seclusion is provided by the Hist itself in the form of sap, leaves, and the otherwise forbidden fruit of the tree.
+
+There is a price to pay for the gift of Hist communion, however. Ingesting large quantities of Hist sap is a dangerous affair, even for Argonians. Sap-Speakers routinely suffer the effects of sap-poisoning, including "gold tongue" (permanent change of mouth pigmentation to a golden hue), unbidden hallucinations, "bark-scale" (thickening and darkening of surface scales), and other maladies they were reticent to talk about. The current Sap-Speaker, Thumarz, was in seclusion during my visit to the tribal village. I hope to meet him someday. If he's half as wise as the elders I interacted with, I'd no doubt learn a great deal from him.
+
+Despite their deeply religious nature, the Miredancers also seem to have an obsession with games of all types. They are particularly fond of the games Nine-Shells and Shells and Stones, as well as sports such as the popular "[teeba-hatsei](Lore_Teeba-Hatsei.md)" (also known as "hip and tail ball.") In addition to lovingly explaining their own games, they wanted to know everything I could tell them about the games we play back in [Wayrest](Lore_Wayrest.md). I must admit, their enthusiasm was quite infectious! And I found it highly amusing to watch them try to recreate Deceiver's Bones from the vague description I provided.
+
+The Miredancers are also inveterate gamblers, but they often forget to collect their winnings. Unlike the games of [men](Lore_Human.md) and [mer](Lore_Mer.md), Miredancer competitions appear completely devoid of malice or injured pride. Victory and defeat seem more like afterthoughts than objectives, due in no small part to their phlegmatic disposition. As in most things, they focus strictly on the moment—the now. It pains me to leave their village, but I still have many more tribes to study. I doubt any of them will be as fascinating or as friendly as the Miredancers.

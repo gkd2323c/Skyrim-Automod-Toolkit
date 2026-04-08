@@ -1,0 +1,32 @@
+# Nunex Faleria
+
+| Lord Nunex Faleria | | | |
+| --- | --- | --- | --- |
+| [![ON-creature-Lord Nunex Faleria.jpg](https://images.uesp.net/thumb/2/22/ON-creature-Lord_Nunex_Faleria.jpg/200px-ON-creature-Lord_Nunex_Faleria.jpg)](https://en.uesp.net/wiki/File:ON-creature-Lord_Nunex_Faleria.jpg) Lord Nunex Faleria | | | |
+| Race | [Nede](Lore_Nede.md) | Gender | Male |
+| Resided in | [Kvatch](Lore_Kvatch.md) <br> Fort Faleria | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Lord_Nunex_Faleria) | | |
+
+Nunex Faleria was a [Nedic](Lore_Nede.md) lord and member of the regency council that oversaw the Kingdom of [Kvatch](Lore_Kvatch.md) circa [1E 361](Lore_First_Era.md#1E_361). In his youth, Lord Faleria fell in love with an [Ayleid](Lore_Ayleid.md) scholar and [necromancer](Lore_Necromancy.md) from [Nenalata](Lore_Nenalata.md), much to the shame of his family. This occurred under the [Alessian Order](Lore_Alessian_Order.md), where Ayleids were still an unwelcome sight in society. Together, they researched dark magics, hoping to find a way to be together always. They married in secret and enjoyed a few years together before the authorities became aware of their union. To hide his wife from the Nenalata purge in [1E 374](Lore_First_Era.md#1E_374), Lord Faleria expanded his fortress into the underground tunnels beneath the structure. They enlarged the space using magic, hired workers, and the help of a tribe of [minotaurs](Lore_Minotaur.md). As a precaution to hide their secret, they had the workers put to death as each wing was completed. Some were buried and others had the life drawn out of them to extend the lives of Lord Faleria and his wife. Of these, some were raised as undead guardians.<sup>[[1]](#cite_note-TLFF-1)</sup>
+
+As his home grew into a grand underground complex, so did Lord Faleria's family. During the birth of their third child, Lady Faleria died. In mourning, Faleria erected a great brass tomb in the tunnels, sealing her away and promising to do anything to protect her children from the religious zealots of the Empire. He delved deeper into the study of dark arts, but edged closer and closer to madness after the death of his wife. Years passed and his Elven family grew into adults, rarely seeing sunlight. His youngest son, Ianus Faleria, was dissatisfied with confinement and escaped the complex often. Eventually, Ianus fell in love with a merchant's daughter and soon they had a child named Maxivian. The girl's family, horrified at the child's Elven traits, discovered that their grandchild was fathered by Lord Faleria's son, and disowned their daughter.<sup>[[1]](#cite_note-TLFF-1)</sup>
+
+To prevent his complex from being discovered, Lord Faleria took his grandson, and hid him with the rest of the family, but it was too late. The [Imperial Legion](Lore_Imperial_Legion.md) arrived at his gates within days. In his madness, Lord Faleria performed a dark ritual which shrouded the entire complex in eternal darkness. Shadows rose from the ground, dissolving objects, walls, men, and mer. Some formed humanoid shapes and attacked the besieging army from within. Others opened up like rifts, and the world fell inside them. In the aftermath, Lord Faleria survived, but his fort was reduced to a hole billowing smoke from the ground. He buried his children and grandchild on the surface, and retreated into the hole, sealing it behind him. The location of his fort was subsequently lost to time.<sup>[[1]](#cite_note-TLFF-1)</sup><sup>[[2]](#cite_note-EP1-2)</sup><sup>[[3]](#cite_note-EP2-3)</sup><sup>[[4]](#cite_note-EP3-4)</sup><sup>[[5]](#cite_note-EP4-5)</sup>
+
+## Excavation of Fort Faleria
+In [2E 582](Lore_Second_Era.md#2E_582), an excavation team led by Finia Sele began a dig at the site of the fort. Unbeknownst to them, they were digging into the remains of Lord Faleria's complex and excavating various relics belonging to him. Unexpectedly, the workers encountered shadowy creatures and disembodied voices in the tunnels and fled, scattering the relics across the [Gold Coast](Lore_Gold_Coast.md).<sup>[[6]](#cite_note-ONSele-6)</sup> Finia hired the Dragonstar Caravan Company to recover the relics and clear the site so that her dig could continue. Within the ruins, the mercenaries encountered a colossal minotaur lord named Limenauruus. It appeared that Limenauruus was possessed by the spirit of Lord Faleria's [lich](Lore_Lich.md), who took exception to their trespass. Ultimately, Lord Faleria and Limenauruus were defeated and Finia Sele continued her work on the excavation.<sup>[[7]](#cite_note-ONLS-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/8f/ON-place-Tribune%27s_Folly.jpg/200px-ON-place-Tribune%27s_Folly.jpg)](https://en.uesp.net/wiki/File:ON-place-Tribune%27s_Folly.jpg) The remains of Fort Faleria in the Second Era
+- [![](https://images.uesp.net/thumb/6/6b/ON-creature-Limenauruus.jpg/200px-ON-creature-Limenauruus.jpg)](https://en.uesp.net/wiki/File:ON-creature-Limenauruus.jpg) Limenauruus
+- [![](https://images.uesp.net/thumb/5/52/ON-quest-Looming_Shadows_03.jpg/200px-ON-quest-Looming_Shadows_03.jpg)](https://en.uesp.net/wiki/File:ON-quest-Looming_Shadows_03.jpg) A shadowy figure summoned by Lord Faleria
+- [![](https://images.uesp.net/thumb/e/e8/OB-interior-Smoke_Hole_Brass_Tomb.jpg/200px-OB-interior-Smoke_Hole_Brass_Tomb.jpg)](https://en.uesp.net/wiki/File:OB-interior-Smoke_Hole_Brass_Tomb.jpg) The brass tomb in the ruins of the fort
+
+## References
+1. ^ <sup>***[a](#cite_ref-TLFF_1-0)***</sup><sup>***[b](#cite_ref-TLFF_1-1)***</sup><sup>***[c](#cite_ref-TLFF_1-2)***</sup> [*The Lost Fort Faleria*](Lore_The_Lost_Fort_Faleria.md)
+2. [^](#cite_ref-EP1_2-0) [Epitaph for Lucina Faleria](https://en.uesp.net/wiki/Online:Epitaph_for_Lucina_Faleria)
+3. [^](#cite_ref-EP2_3-0) [Epitaph for Neransi Faleria](https://en.uesp.net/wiki/Online:Epitaph_for_Neransi_Faleria)
+4. [^](#cite_ref-EP3_4-0) [Epitaph for Ianus Faleria](https://en.uesp.net/wiki/Online:Epitaph_for_Ianus_Faleria)
+5. [^](#cite_ref-EP4_5-0) [Epitaph for Maxivian Faleria](https://en.uesp.net/wiki/Online:Epitaph_for_Maxivian_Faleria)
+6. [^](#cite_ref-ONSele_6-0) [Finia Sele](https://en.uesp.net/wiki/Online:Finia_Sele)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ONLS_7-0) [Looming Shadows](https://en.uesp.net/wiki/Online:Looming_Shadows) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

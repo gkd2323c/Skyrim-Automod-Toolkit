@@ -1,0 +1,18 @@
+# Orcs of Skyrim
+
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Orcs_of_Skyrim) |
+
+Orcs of Skyrim **by [Thora Far-Wanderer](Lore_Books_by_Author.md#Thora_Far-Wanderer)** *A history of the Orcish settlers and strongholds of Skyrim*
+---
+No pest has proven more resilient to the [Nords](Lore_Nord.md) of [Skyrim](Lore_Skyrim.md) than the common [Orc](Lore_Orc.md). The tusked people claim occupancy of our fair realm, stretching back before the time [Ysgramor](Lore_Ysgramor.md) crossed the [Sea of Ghosts](Lore_Sea_of_Ghosts.md). Though few written accounts still exist of that time, there is mention in the histories of the [Companions](Lore_Companions.md) uprooting Orc strongholds even as they burned the [Snow Elves](Lore_Snow_Elf.md) from the land.
+
+Orc strongholds are well defended outposts often situated around deposits of mineral wealth. Each contains the infrastructure to support a dozen or more families, surrounded by walls designed to repel anything but the strongest martial force. Many jarls are remembered in song for dying vainly while attempting to root a stronghold from their lands. Worse, destroyed strongholds often return within a generation of their destruction if not countered by a Nord fort that needs a constant supply of troops and provisions.
+
+Few jarls can afford to defend piles of rock for more than a few years, and thus the Orc strongholds remain a pox upon our land. Some strongholds have persisted in this way for hundreds, if not thousands, of years. It's said that the ancient Orc stronghold of [Cradlecrush](https://en.uesp.net/wiki/Lore:Cradlecrush) in [Eastmarch](Lore_Eastmarch.md) has never been taken by force or abandoned, despite the complete exhaustion of the mineral vein it sits upon.
+
+The height of Orcish power in Skyrim came with the establishment of [Yashnag](https://en.uesp.net/wiki/Lore:Yashnag_gro-Yazgu)'s Chiefdom in the early [Second Era](Lore_Second_Era.md). With the destruction of [Orsinium](Lore_Orsinium.md) by the combined [Breton](Lore_Breton.md) and [Redguard](Lore_Redguard.md) forces, the Orcs were scattered across the North in a great exodus. Yashnag and his people, exiled from [High Rock](Lore_High_Rock.md), fled east to reclaim lands in Skyrim they felt were theirs by ancient right. The King of West Skyrim, [Svartr](Lore_Svartr.md), was ineffective in holding back the Orcs and the [Reachmen](Lore_Reachmen.md) that plagued the West Kingdom during his rule. The chiefdom was a bane upon Western [Falkreath](Lore_Falkreath_Hold.md) for more than thirty years, until it was burned out by [Hakkvilld Yashnag-Slayer](https://en.uesp.net/wiki/Lore:Hakkvild_Yashnag-Slayer) in the year [467](Lore_Second_Era.md#2E_467) of the Second Era.
+
+Hakkvild became Jarl of Falkreath when Yashnag killed his father on the field of battle. The young jarl inherited little more than a crumbling hold largely occupied by Orcish invaders from the west. It is said that Hakkvild challenged Yashnag and a host of Yashnag's Orc champions to a ritual trial by combat. He defeated each in turn. How Hakkvild learned of this obscure Orcish ritual is not known, but with their leader's defeat, Yashnag's followers abandoned the chiefdom.
+
+With the destruction of the chiefdom, the Orcs scattered further into Skyrim or back into the mountains of [Wrothgar](Lore_Wrothgar.md). Orc clans descended from Yashnag's people have an intense hatred of the Kings of Skyrim. It's ironic that this enmity for the Nords has grown, even as the Orcs themselves have re-established ties with the peoples of western [Tamriel](Lore_Tamriel.md) that burned their first home hundreds of years ago.

@@ -1,0 +1,60 @@
+# Artifacts E
+
+[Overview](Lore_Artifacts.md) | [A](Lore_Artifacts_A.md) [B](Lore_Artifacts_B.md) [C](Lore_Artifacts_C.md) [D](Lore_Artifacts_D.md) E [F](Lore_Artifacts_F.md) [G](Lore_Artifacts_G.md) [H](Lore_Artifacts_H.md) [I](Lore_Artifacts_I.md) [J](Lore_Artifacts_J.md) [K](Lore_Artifacts_K.md) [L](Lore_Artifacts_L.md) [M](Lore_Artifacts_M.md) [N](Lore_Artifacts_N.md) [O](Lore_Artifacts_O.md) [P](Lore_Artifacts_P.md) [Q](Lore_Artifacts_Q.md) [R](Lore_Artifacts_R.md) [S](Lore_Artifacts_S.md) [T](Lore_Artifacts_T.md) [U](Lore_Artifacts_U.md) [V](Lore_Artifacts_V.md) [W](Lore_Artifacts_W.md) X Y [Z](Lore_Artifacts_Z.md)
+---
+
+## Ebony Blade
+[![](https://images.uesp.net/thumb/c/c0/SR-item-Ebony_Blade.jpg/200px-SR-item-Ebony_Blade.jpg)](https://en.uesp.net/wiki/File:SR-item-Ebony_Blade.jpg) [](https://en.uesp.net/wiki/File:SR-item-Ebony_Blade.jpg) Ebony Blade The [Ebony Blade](Lore_Ebony_Blade.md), also known as the **Vampire** or **the Leech**, is a Daedric [artifact](Lore_Artifacts.md) created by the [Daedric Prince](Lore_Daedric_Princes.md) [Mephala](Lore_Mephala.md). It resembles an [ebony](Lore_Ebony.md) katana, and is considered to be an artifact of great evil, having the ability to absorb the life essence of those that it strikes. Part of the damage inflicted flows into the wielder as raw power, draining the victim of their health and sometimes stamina. It has also been known to fortify the wielder's skill at using long blades, magically silence opponents to prevent them from casting spells, and deceive victims. Khajiiti myths do not mention the blade by name, but instead refer to it as 'the killing word of the Spider' and 'the black edge of shadow'.
+
+**Found in:** - [Arena](https://en.uesp.net/wiki/Arena:Ebony_Blade), [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Ebony_Blade), [Oblivion](https://en.uesp.net/wiki/Oblivion:Ebony_Blade), [Skyrim](Skyrim_Ebony_Blade.md), [ESO](https://en.uesp.net/wiki/Online:Edge_of_Darkness), [Blades](https://en.uesp.net/wiki/Blades:Ebony_Blade)
+
+## Ebony Mail
+[![](https://images.uesp.net/thumb/8/8e/SR-item-Ebony_Mail.jpg/200px-SR-item-Ebony_Mail.jpg)](https://en.uesp.net/wiki/File:SR-item-Ebony_Mail.jpg) [](https://en.uesp.net/wiki/File:SR-item-Ebony_Mail.jpg) Ebony Mail The [Ebony Mail](Lore_Ebony_Mail.md) is a Daedric [artifact](Lore_Artifacts.md) created by the [Daedric Prince](Lore_Daedric_Princes.md) [Boethiah](Lore_Boethiah.md). It may appear as an [ebony](Lore_Ebony.md) breastplate or occasionally a fuller suit of armor. It grants its wearer resistance to fire and [magic](Lore_Magic.md), as well as magical shielding from physical blows, though in some instances it provides for quieter movements and the ability to poison nearby enemies. According to legend, the artifact was created before recorded history by Boethiah, and it is Boethiah alone who determines who should possess the Mail and for how long a time.
+
+**Found in:** - [Arena](https://en.uesp.net/wiki/Arena:Ebony_Mail), [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Ebony_Mail), [Morrowind](https://en.uesp.net/wiki/Morrowind:Ebony_Mail_(artifact)), [Skyrim](Skyrim_Ebony_Mail.md), [Blades](https://en.uesp.net/wiki/Blades:Ebony_Mail)
+
+## Elder Scrolls
+[![](https://images.uesp.net/thumb/2/2e/OB-quest-The_Ultimate_Heist.jpg/200px-OB-quest-The_Ultimate_Heist.jpg)](https://en.uesp.net/wiki/File:OB-quest-The_Ultimate_Heist.jpg) [](https://en.uesp.net/wiki/File:OB-quest-The_Ultimate_Heist.jpg) Elder Scrolls The [Elder Scrolls](Lore_Elder_Scrolls.md) (**Kelle** in the [Dragon Language](Lore_Dragon_Language.md)), also called the **Aedric Prophecies** (a name of questionable accuracy), are scrolls of unknown origin which archive both past and future events. Some sources claim the [Eye of Magnus](Lore_Eye_of_Magnus.md), which is said to have possibly crashed into [Nirn](Lore_Nirn.md) like a [meteor](Lore_Astronomy.md) eons before the [Fourth Era](Lore_Era.md#Fourth_Era), has a similar origin to the Elder Scrolls.
+
+The exact number of Scrolls in the world is unknowable. They "do not exist in countable form", and they may disappear and reappear from moment to moment and place to place. There exist [books](Lore_The_Elder_Scrolls_(books).md) that seemingly transcribe portions of the Elder Scrolls.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Elder_Scroll), [Skyrim](Skyrim_Elder_Scroll.md), [ESO](https://en.uesp.net/wiki/Online:Elder_Scrolls), [Blades](https://en.uesp.net/wiki/Blades:Quest_Items#Elder_Scroll)
+
+## Eleidon's Ward
+[![](https://images.uesp.net/thumb/d/dc/MW-item-Eleidon%27s_Ward.jpg/200px-MW-item-Eleidon%27s_Ward.jpg)](https://en.uesp.net/wiki/File:MW-item-Eleidon%27s_Ward.jpg) [](https://en.uesp.net/wiki/File:MW-item-Eleidon%27s_Ward.jpg) Eleidon's Ward [Eleidon's Ward](Lore_Eleidon%27s_Ward.md) is an enchanted shield especially built for [Eleidon](Lore_Eleidon.md), a renowned holy [Breton](Lore_Breton.md) knight of legend. One of the many stories about him is that he saved a baron's daughter from sure death at the hands of a warlord, and the baron spent all his riches on the creation of the shield to show his gratitude. Eleidon's eponymous shield grants the wielder the opportunity to heal wounds.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Eleidon%27s_Ward)
+
+## Escutcheon of Chorrol
+[![](https://images.uesp.net/thumb/1/11/OB-item-Escutcheon_of_Chorrol.jpg/200px-OB-item-Escutcheon_of_Chorrol.jpg)](https://en.uesp.net/wiki/File:OB-item-Escutcheon_of_Chorrol.jpg) [](https://en.uesp.net/wiki/File:OB-item-Escutcheon_of_Chorrol.jpg) Escutcheon of Chorrol The [Escutcheon of Chorrol](Lore_Escutcheon_of_Chorrol.md) (also known as the **Shield of Chorrol**) is a massive [ebony](Lore_Ebony.md) shield emblazoned with the Great Oak, the symbol of [Chorrol](Lore_Chorrol.md). It is enchanted to fortify the wearer's endurance, reflect damage back at attackers, or damage an opponent's magicka.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Escutcheon_of_Chorrol), [Blades](https://en.uesp.net/wiki/Blades:Shield_of_Chorrol)
+
+## Everflame Torch
+[![](https://images.uesp.net/thumb/5/52/ON-item-Everflame_Torch.jpg/200px-ON-item-Everflame_Torch.jpg)](https://en.uesp.net/wiki/File:ON-item-Everflame_Torch.jpg) [](https://en.uesp.net/wiki/File:ON-item-Everflame_Torch.jpg) Everflame Torch The [Everflame Torch](Lore_Everflame_Torch.md) was a [druidic](Lore_Druid.md) relic owned by the members of [Stonelore Circle](Lore_Stonelore_Circle.md) in [Glimmertarn](Lore_Glimmertarn.md). The torch was imbued with enchantment, causing it to emit potent blue flames. The torch's magical properties allowed it to ignite beacons that emitted orbs of blue light visible from great distances, spanning the entire [Galen](Lore_Galen.md) Island.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Firesong_Quest_Items#Everflame_Torch)
+
+## Everflow Ewer
+[![](https://images.uesp.net/thumb/2/22/OB-place-Frostfire_Glade_Statue.jpg/200px-OB-place-Frostfire_Glade_Statue.jpg)](https://en.uesp.net/wiki/File:OB-place-Frostfire_Glade_Statue.jpg) [](https://en.uesp.net/wiki/File:OB-place-Frostfire_Glade_Statue.jpg) The Ewer seen trapped under the ice The [Everflow Ewer](Lore_Everflow_Ewer.md) was an ancient [artifact](Lore_Artifacts.md) believed to be capable of supplying endless water once filled. The Ewer has been described as a pitcher made of either crystals or silver. The origin of the Ewer is unknown; some say it was a gift from [Mara](Lore_Mara.md), while others claim that it was enchanted by a powerful sorcerer.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Tears_of_the_Savior)
+
+## Eye of Argonia
+The [Eye of Argonia](Lore_Eye_of_Argonia.md) is a treasured artifact described as the "priceless king's jewel of ancient [Black Marsh](Lore_Black_Marsh.md)".
+
+Little is known of the eye, but it has captured the imagination of treasure hunter's throughout all of [Tamriel](Lore_Tamriel.md) as to what it is capable of. Some theories included this invaluable gem being a key the "lost city of Black Marsh", or that it could serve as a gateway to undiscovered lands.
+
+At some point during the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md) Lark of [Rosgard](Lore_Rosgard.md), a mysterious masked thief sought to obtain the Eye. Years later [Cyrus](Lore_Cyrus.md) the [Redguard](Lore_Redguard.md) and the Cyro-Nordic captain [Tobias](Lore_Tobias.md) both wished to attain the prized artifact as well, although it's unknown if either of them ever succeeded in doing so. An archeologist and author by the name of Rolard Nordssen aspired to claim the fabled eye, a potential accomplishment which he considered even greater than his prior feats. Circa [3E 427](Lore_Third_Era.md#3E_427), the [Nerevarine](Lore_Nerevarine.md) mentioned the legendary jewel as a means to cover for his true intentions to infiltrate the chambers of the Common Tongue press printers. There exists dubious tales about the jewel's discovery.
+
+**Found in:** - [Lore](Lore_Ruins_of_Kemel-Ze.md)
+
+## Eye of Baan Dar
+[![](https://images.uesp.net/thumb/6/6b/ON-item-Talisman_of_Saint_Vorys.jpg/200px-ON-item-Talisman_of_Saint_Vorys.jpg)](https://en.uesp.net/wiki/File:ON-item-Talisman_of_Saint_Vorys.jpg) [](https://en.uesp.net/wiki/File:ON-item-Talisman_of_Saint_Vorys.jpg) The Eye of Baan Dar set within the Talisman of Saint Vorys The [Eye of Baan Dar](Lore_Eye_of_Baan_Dar.md) is a radish-sized hunk of [moonstone](Lore_Moonstone.md) with cultural significance to the [Baandari](Lore_Baandari.md) clan. It was taken from the clan by [Saint Vorys the Immolant](Lore_Vorys.md) during his conquest of [Anequina](Lore_Anequina.md), and served as the centerpiece for the [Talisman of Saint Vorys](Lore_Talisman_of_Saint_Vorys.md). Vorys was under the impression that the stone possessed secret magical power, and spent the rest of his days attempting to unravel its secrets. For centuries, [Telvanni](Lore_House_Telvanni.md) mages of sufficient rank followed in his footsteps, attempting to exert their will over the stone and unravel its mysteries. However, their efforts were in vain: the stone had no magical properties, as it was simply an impressive hunk of unenchanted moonstone. Its only true significance was symbolic: the Eye of [Baan Dar](Lore_Baan_Dar.md) was a token traded between Baandari clans in [Elsweyr](Lore_Elsweyr.md). According to tradition, the Eye's holder may ask for any item or favor within reason, and the receiver must provide. The stone itself has very little value: it is a symbol of indulgence and trading in good faith.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Necrom_Quest_Items#Talisman_of_Saint_Vorys)
+
+## Eye of Magnus
+[![](https://images.uesp.net/thumb/5/57/SR-quest-The_Eye_of_Magnus.jpg/200px-SR-quest-The_Eye_of_Magnus.jpg)](https://en.uesp.net/wiki/File:SR-quest-The_Eye_of_Magnus.jpg) [](https://en.uesp.net/wiki/File:SR-quest-The_Eye_of_Magnus.jpg) Eye of Magnus [![](https://images.uesp.net/thumb/7/71/SR-misc-Eye_of_Magnus.png/200px-SR-misc-Eye_of_Magnus.png)](https://en.uesp.net/wiki/File:SR-misc-Eye_of_Magnus.png) [](https://en.uesp.net/wiki/File:SR-misc-Eye_of_Magnus.png) Eye of Magnus The [Eye of Magnus](Lore_Eye_of_Magnus.md) (sometimes **Magnus' Eye**) is an ancient [artifact](Lore_Artifacts.md) said to have a similar origin to the [Elder Scrolls](Lore_Elder_Scrolls.md) and also features [Elder script](Lore_Elder_Alphabet.md). It is described as a massive ten-foot orb, and is said to be a "distant and mysterious object" that may have crashed into [Nirn](Lore_Nirn.md) like a meteor in the eons before the [Fourth Era](Lore_Era.md#Fourth_Era). The Eye possesses a great amount of magical power and can be manipulated with the [Staff of Magnus](Lore_Staff_of_Magnus.md), which once belonged to the [God of Magic](Lore_Magnus_(god).md) himself. When unstable, the Eye has the potential to unmake or destroy the entire world.
+
+**Found in:** - [Skyrim](Skyrim_The_Eye_of_Magnus.md)

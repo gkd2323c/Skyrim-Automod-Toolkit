@@ -1,0 +1,14 @@
+# Bow of the Fox
+
+*With bow aglow Njor shot the night. Silence bloomed with dawn's first light.*
+—Iogreth<sup>[[1]](#cite_note-Iogreth-1)</sup> Bow of the Fox,<sup>[[2]](#cite_note-PFTF-2)</sup> also known as **Bow of Shor**,<sup>[[3]](#cite_note-TFOSS-3)</sup> is a legendary weapon linked to [Shor](Lore_Shor.md) wielded by Njor the Brave, celebrated in the legends and songs of the [Haefriding](Lore_Haefriding.md) [Nords](Lore_Nords.md). According to the legend it manifested from a dream, transforming from the visage of the [fox](Lore_Fox.md) into a bow and a set of arrows.<sup>[[3]](#cite_note-TFOSS-3)</sup> The tales describe the bow as glowing, and gleaming with power.<sup>[[1]](#cite_note-Iogreth-1)</sup><sup>[[2]](#cite_note-PFTF-2)</sup><sup>[[3]](#cite_note-TFOSS-3)</sup>
+
+## History
+The Bow of the Fox appears in a tale that describes the Haefriding journey to [Solstice](Lore_Solstice_(island).md). During their journey across the sea, a giant [serpent](Lore_Sea_Serpent.md) named Sumodah stretched across the sky, blotting out all light and plunging everything around the crew into eternal darkness. The Nords huddled together in despair, unable to clear the serpent's scales from the heavens. In this desperate moment, Njor's keen eyes caught a glimmer of light beyond the darkness. Rising from his companions, he ventured alone into the still silence.
+
+In a dream, Njor saw a [fox](Lore_Fox.md) whose tail curved back into a bow and whose whiskers transformed into arrows. He then drew the string and fired a shot imbued with the power of [Sovngarde](Lore_Sovngarde.md) straight into the serpent's heart. At dawn, the thirteen remaining members of Thane Haefrid's ship awoke to a sky freed from darkness. They cheered and sought to congratulate Njor, only to find that nothing remained of the hunter but the glowing Bow of Shor.<sup>[[2]](#cite_note-PFTF-2)</sup><sup>[[3]](#cite_note-TFOSS-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Iogreth_1-0)***</sup><sup>***[b](#cite_ref-Iogreth_1-1)***</sup> [Iogreth](https://en.uesp.net/wiki/Online:Iogreth)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-PFTF_2-0)***</sup><sup>***[b](#cite_ref-PFTF_2-1)***</sup><sup>***[c](#cite_ref-PFTF_2-2)***</sup> [*Praise for the Fourteen*](Lore_Praise_for_the_Fourteen.md) — [Knudnar](Lore_Books_by_Author.md#Knudnar)
+3. ^ <sup>***[a](#cite_ref-TFOSS_3-0)***</sup><sup>***[b](#cite_ref-TFOSS_3-1)***</sup><sup>***[c](#cite_ref-TFOSS_3-2)***</sup><sup>***[d](#cite_ref-TFOSS_3-3)***</sup> [*The Founding of Shor's Stand*](Lore_The_Founding_of_Shor%27s_Stand.md) — [Ingorhild](Lore_Books_by_Author.md#Ingorhild), Village Historian

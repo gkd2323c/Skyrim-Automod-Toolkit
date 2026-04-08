@@ -1,0 +1,20 @@
+# Tamrilean Tractates
+
+The Tamrilean Tractates is an ancient and historic record written by an author named [Khosey](Lore_Khosey.md) in [1E 200](Lore_First_Era.md#1E_200),<sup>[[1]](#cite_note-HTo N-1)</sup><sup>[[2]](#cite_note-2)</sup> though events that occurred after its writing were added to its record. It dates back to the early [First Era](Lore_First_Era.md) and it provides early accounts of human history in [Tamriel](Lore_Tamriel.md)<sup>[[3]](#cite_note-PGE1E-3)</sup> and information regarding [Cyrodiil](Lore_Cyrodiil.md)'s geography and environment.<sup>[[4]](#cite_note-SCAS-4)</sup>
+
+These documents are often referenced by scholars after many years of its creation, but the extent and the full content of the book are currently unknown. However, based on the scattered information regarding the Tamrilean Tractates, it mostly covers the information contemporary with the book, such as the [Alessian Slave Rebellion](Lore_Alessian_Slave_Rebellion.md), and the northern conquests of the [First Empire of the Nords](Lore_First_Empire_of_the_Nords.md). The book is famously credited for providing a firsthand account of the [early Bretons](Lore_Proto-Breton.md),<sup>[[3]](#cite_note-PGE1E-3)</sup> as well as miscellaneous information, such as early accounts of the [Troll](Lore_Troll.md)<sup>[[5]](#cite_note-FGt RT-5)</sup> and the jungles of Cyrodiil.<sup>[[4]](#cite_note-SCAS-4)</sup>
+
+## Known Entries
+- Transcribes a firsthand account of the discovery of Bretons. Given to Khosey from a [Nordic](Lore_Nord.md) hunting party.<sup>[[3]](#cite_note-PGE1E-3)</sup>
+- The line, *"dense-jungl'd shore of Rumare"* is a reference to when Cyrodiil (or at least the [Lake Rumare](Lore_Lake_Rumare.md) shoreline) was a jungle.<sup>[[4]](#cite_note-SCAS-4)</sup>
+- Mentions a [Nedic](Lore_Nede.md) slave overseer of [Fanacas](Lore_Fanacas.md) named *"[Tharanus Ye Redde-Hand](Lore_Tharanus_Ye_Redde-Hand.md)"*. He was later revealed to be a distant relative of [House Tharn](Lore_Tharn.md), a noble family of [Cheydinhal](Lore_Cheydinhal.md).<sup>[[1]](#cite_note-HTo N-1)</sup>
+- While the [Church of the Eight](Lore_Imperial_Cult.md) claimed that Alessia revealed to her subjects gods that had always watched over them, ancient records like the Tamrilean Tractates state otherwise.<sup>[[6]](#cite_note-TAX-6)</sup>
+- The line, "*ye Trohl of Rapace, thrice-orbed Enormity [that] Eateth ye Fleshe of [both] Commons and Kyngs"* is an account of a [troll](Lore_Troll.md).<sup>[[5]](#cite_note-FGt RT-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-HTo N_1-0)***</sup><sup>***[b](#cite_ref-HTo N_1-1)***</sup> [*House Tharn of Nibenay*](Lore_House_Tharn_of_Nibenay.md) — [Count Opius Voteporix](Lore_Books_by_Author.md#Count_Opius_Voteporix)
+2. [^](#cite_ref-2) [*Chancellor Abnur Tharn Answers Your Questions*](Lore_Chancellor_Abnur_Tharn_Answers_Your_Questions.md) — [Chancellor Abnur Tharn](Lore_Books_by_Author.md#Lord_Abnur_Tharn)
+3. ^ <sup>***[a](#cite_ref-PGE1E_3-0)***</sup><sup>***[b](#cite_ref-PGE1E_3-1)***</sup><sup>***[c](#cite_ref-PGE1E_3-2)***</sup> [*Pocket Guide to the Empire, 1st Edition: High Rock*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_High_Rock.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+4. ^ <sup>***[a](#cite_ref-SCAS_4-0)***</sup><sup>***[b](#cite_ref-SCAS_4-1)***</sup><sup>***[c](#cite_ref-SCAS_4-2)***</sup> [*Subtropical Cyrodiil: A Speculation*](https://en.uesp.net/wiki/Lore:Subtropical_Cyrodiil__A_Speculation) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+5. ^ <sup>***[a](#cite_ref-FGt RT_5-0)***</sup><sup>***[b](#cite_ref-FGt RT_5-1)***</sup> [*Field Guide to River Trolls*](Lore_Field_Guide_to_River_Trolls.md) — [Phrastus of Elinhir](Lore_Books_by_Author.md#Phrastus_of_Elinhir)
+6. [^](#cite_ref-TAX_6-0) [*Tu'whacca, Arkay, Xarxes*](Lore_Tu%27whacca,_Arkay,_Xarxes.md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)

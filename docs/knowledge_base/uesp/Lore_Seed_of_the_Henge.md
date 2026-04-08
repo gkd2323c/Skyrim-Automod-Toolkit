@@ -1,0 +1,15 @@
+# Seed of the Henge
+
+[![](https://images.uesp.net/thumb/7/70/ON-quest-The_Dark_Night_of_the_Soul.jpg/200px-ON-quest-The_Dark_Night_of_the_Soul.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Dark_Night_of_the_Soul.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Dark_Night_of_the_Soul.jpg) Rooting of the Green Lady [![](https://images.uesp.net/thumb/e/e6/ON-item-Seed_of_Treehenge.jpg/200px-ON-item-Seed_of_Treehenge.jpg)](https://en.uesp.net/wiki/File:ON-item-Seed_of_Treehenge.jpg) [](https://en.uesp.net/wiki/File:ON-item-Seed_of_Treehenge.jpg) Seed of Treehenge Seed of the Henge, also known as the **Seed of Treehenge** is an ancient sacred seed preceding the [Green Pact](Lore_Green_Pact.md). Cast off from the first sprout, predating the [Bosmer](Lore_Bosmer.md)'s ability to control their forms, it existed before the [Green Lady](Lore_Green_Lady.md) and [the Silvenar](Lore_The_Silvenar.md). Safeguarded within Treehenge, it was protected by ancient [spriggan](Lore_Spriggan.md) matrons. It served as a vessel for the soul essence of the Green Ladies,<sup>[[1]](#cite_note-SMT-1)</sup><sup>[[2]](#cite_note-A-2)</sup><sup>[[3]](#cite_note-T-3)</sup> resembling a seed but a faceted gem. When containing a soul, it emanated a pulsing warm light.<sup>[[4]](#cite_note-SOTH-4)</sup> Following their demise, it is customary for the Green Lady to take root within the Seed in the Treehenge.<sup>[[5]](#cite_note-Finoriell-5)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the Seed of the Henge played a crucial role in safeguarding and preserving [Finoriell](Lore_Finoriell.md)'s soul. This act aimed to shield her and the overarching concept of the Green Lady from the potential influence of the [Worm Cult](Lore_Worm_Cult.md).<sup>[[2]](#cite_note-A-2)</sup><sup>[[3]](#cite_note-T-3)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Malabal_Tor_Quest_Items#Seed_of_the_Henge).
+
+## References
+1. [^](#cite_ref-SMT_1-0) [Spriggan Matron (Treehenge)](https://en.uesp.net/wiki/Online:Spriggan_Matron_(Treehenge))'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-A_2-0)***</sup><sup>***[b](#cite_ref-A_2-1)***</sup> Events of [Awakening](https://en.uesp.net/wiki/Online:Awakening) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-T_3-0)***</sup><sup>***[b](#cite_ref-T_3-1)***</sup> Events of [The Dark Night of the Soul](https://en.uesp.net/wiki/Online:The_Dark_Night_of_the_Soul) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-SOTH_4-0) [Seed of the Henge](https://en.uesp.net/wiki/Online:Malabal_Tor_Quest_Items#Seed_of_the_Henge) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Finoriell_5-0) [Finoriell](https://en.uesp.net/wiki/Online:Finoriell)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

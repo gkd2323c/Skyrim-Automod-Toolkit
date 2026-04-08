@@ -1,0 +1,13 @@
+# Reality & Other Falsehoods
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Oblivion](https://en.uesp.net/wiki/Oblivion:Reality_%26_Other_Falsehoods) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:Reality_%26_Other_Falsehoods) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Reality_and_Other_Falsehoods) |
+
+Reality & Other Falsehoods *Summary of the basic principles of Alteration magic*
+---
+It is easy to confuse [Illusion](Lore_Illusion.md) and [Alteration](Lore_Alteration.md). Both schools of [magic](Lore_Magic.md) attempt to create what is not there. The difference is in the rules of nature. Illusion is not bound by them, while Alteration is. This may seem to indicate that Alteration is the weaker of the two, but this is not true. Alteration creates a reality that is recognized by everyone. Illusion's reality is only in the mind of the caster and the target.
+
+To master Alteration, first accept that reality is a falsehood. There is no such thing. Our reality is a perception of greater forces impressed upon us for their amusement. Some say that these forces are the gods, other that they are something beyond the gods. For the wizard, it doesn't really matter. What matters is the appeal couched in a manner that cannot be denied. It must be insistent without being insulting.
+
+To cast Alteration spells is to convince a greater power that it will be easier to change reality as requested than to leave it alone. Do not assume that these forces are sentient. Our best guess is that they are like wind and water. Persistent but not thoughtful. Just like directing the wind or water, diversions are easier than outright resistance. Express the spell as a subtle change and it is more likely to be successful.

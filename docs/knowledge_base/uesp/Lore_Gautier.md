@@ -1,0 +1,21 @@
+# Gautier
+
+[![](https://images.uesp.net/thumb/b/b5/ON-npc-Darien_Gautier.jpg/200px-ON-npc-Darien_Gautier.jpg)](https://en.uesp.net/wiki/File:ON-npc-Darien_Gautier.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Darien_Gautier.jpg) Darien Gautier The Gautier family is a noble clan from the Kingdom of [Camlorn](Lore_Camlorn.md), in the province of [High Rock](Lore_High_Rock.md). For an unspecificed time, the [Ebon Crypt](Lore_Ebon_Crypt.md) in the hills of [King's Guard](Lore_King%27s_Guard.md) served as the family's mausoleum until it was taken over by the necromancer, Thrandyke the Repugnant, who used it as place to do experiments,<sup>[[1]](#cite_note-ESOLoad-1)</sup> leading to the creation of a powerful undead monster known as the Ebon Lord.<sup>[[2]](#cite_note-BOEC-2)</sup><sup>[[3]](#cite_note-TEL-3)</sup>
+
+When the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) was active in the mid- [Interregnum](Lore_Interregnum.md), the Gautier family served the alliance but also played a significant part in the conflict that transpired in [Glenumbra](Lore_Glenumbra.md) against the [Bloodthorn Cult](Lore_Bloodthorn_Cult.md), specifically in the siege and later retaking of Camlorn. General Gautier was a high-ranking member of the [Lion Guard](Lore_Lion_Guard.md), the knightly order of the High King, in this case, [Emeric](Lore_Emeric.md). He led the charge that reclaimed Camlorn from the [werewolves](Lore_Lycanthropy.md) and [Faolchu](Lore_Faolchu.md).<sup>[[4]](#cite_note-ESORally-4)</sup> He also fought alongside Lady [Arabelle Davaux](Lore_Arabelle_Davaux.md) of the [Ring of Daggers](Lore_Ring_of_Daggers.md), who rescued him from a Reach stronghold during the border raids of 2E 566.<sup>[[5]](#cite_note-LAD-5)</sup>
+
+His son, [Darien Gautier](Lore_Darien_Gautier.md) was the captain of the city guard during the city's siege and was able to rescue many citizens.<sup>[[6]](#cite_note-ESOLingering-6)</sup> He later joined the Lion Guard and helped in their latter battles such as the raid over [Cath Bedraud](Lore_Cath_Bedraud.md),<sup>[[7]](#cite_note-ESOAngof-7)</sup> the liberation of [Northpoint](Lore_Northpoint.md),<sup>[[8]](#cite_note-ESOLiberation-8)</sup> and later the invasion of [Coldharbour](Lore_Coldharbour.md) with the [Fighters Guild](Lore_Fighters_Guild.md).<sup>[[9]](#cite_note-ESOMeridia-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/31/ON-npc-General_Gautier.jpg/200px-ON-npc-General_Gautier.jpg)](https://en.uesp.net/wiki/File:ON-npc-General_Gautier.jpg) General Gautier
+
+## References
+1. [^](#cite_ref-ESOLoad_1-0) [Ebon Crypt](https://en.uesp.net/wiki/Online:Ebon_Crypt_(place)) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-BOEC_2-0) [*Bloodthorn Orders: Ebon Crypt*](https://en.uesp.net/wiki/Online:Bloodthorn_Orders:_Ebon_Crypt)
+3. [^](#cite_ref-TEL_3-0) [The Ebon Lord](https://en.uesp.net/wiki/Online:The_Ebon_Lord) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-ESORally_4-0) [Rally Cry](https://en.uesp.net/wiki/Online:Rally_Cry) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-LAD_5-0) [Lady Arabelle Davaux](https://en.uesp.net/wiki/Online:Lady_Arabelle_Davaux)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+6. [^](#cite_ref-ESOLingering_6-0) [A Lingering Hope](https://en.uesp.net/wiki/Online:A_Lingering_Hope) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ESOAngof_7-0) [Angof the Gravesinger](https://en.uesp.net/wiki/Online:Angof_the_Gravesinger_(quest)) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ESOLiberation_8-0) [The Liberation of Northpoint](https://en.uesp.net/wiki/Online:The_Liberation_of_Northpoint) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ESOMeridia_9-0) [The Army of Meridia](https://en.uesp.net/wiki/Online:The_Army_of_Meridia) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,3 @@
+# DunBluePalacePelagiusArenaFaction
+
+Redirects to [DunBluePalacePelagiusArenaFaction](Skyrim_Factions_P.md#DunBluePalacePelagiusArenaFaction).

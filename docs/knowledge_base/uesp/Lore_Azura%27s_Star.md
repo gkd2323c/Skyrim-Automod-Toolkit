@@ -1,0 +1,56 @@
+# Azura's Star
+
+This article is about the artifact. For the astronomical object, see [Azura's Star (astronomy)](Lore_Azura%27s_Star_(astronomy).md).
+
+[![](https://images.uesp.net/thumb/6/60/SR-item-Azura%27s_Star.jpg/200px-SR-item-Azura%27s_Star.jpg)](https://en.uesp.net/wiki/File:SR-item-Azura%27s_Star.jpg) [](https://en.uesp.net/wiki/File:SR-item-Azura%27s_Star.jpg) Azura's Star Azura's Star (also called the **Twilight Star**)<sup>[[1]](#cite_note-1)</sup> is a Daedric [artifact](Lore_Artifacts.md) created by the [Daedric Prince](Lore_Daedric_Princes.md) [Azura](Lore_Azura.md), and is prominently used as her symbol.<sup>[[2]](#cite_note-2)</sup> In appearance it looks like a large, intricately designed throwing star or gemstone, with eight star-like prongs. In the right hands, Azura's Star acts as a reusable [soul gem](Lore_Soul_Gem.md) of almost unlimited capacity.<sup>[[3]](#cite_note-CKL-3)</sup> It is considered to possess legendary magical powers.<sup>[[4]](#cite_note-MH-4)</sup> This makes it highly sought by mages and assassins. It can only capture white [souls](Lore_Souls.md), but was once corrupted by mortals to trap black souls instead, becoming the **Black Star**.<sup>[[5]](#cite_note-Skyrim-5)</sup> Using Azura's Star empties it, freeing the trapped soul to make its journey to [Oblivion](Lore_Oblivion.md).<sup>[[6]](#cite_note-DAG-6)</sup> Some believe Azura's Star can turn living creatures into statues.<sup>[[7]](#cite_note-Daggerfall-7)</sup>
+
+Wielders of Azura's Star are known to her faithful as Star-Bearer.<sup>[[8]](#cite_note-Oblivion-8)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/7/7c/SR-interior-Azura%27s_Star_Realm.jpg/200px-SR-interior-Azura%27s_Star_Realm.jpg)](https://en.uesp.net/wiki/File:SR-interior-Azura%27s_Star_Realm.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Azura%27s_Star_Realm.jpg) Inside Azura's Star An [unknown agent](Lore_The_Agent.md) of the [Blades](Lore_Blades.md) received the Star from the previous owner, a worshipper of Azura, in return for killing a priest in the [Iliac Bay](Lore_Iliac_Bay.md) area who had insulted the Prince by condemning her sphere of egotism. <sup>[[7]](#cite_note-Daggerfall-7)</sup> Between [3E 411](Lore_Third_Era.md#3E_411) and [3E 412](Lore_Third_Era.md#3E_412), two friends named Charwich and Koniinge searched for the Star.<sup>[[3]](#cite_note-CKL-3)</sup> It was discovered that a man named Hadwaf Neithwyr had summoned Azura in the town of [Tel Aruhn](Lore_Tel_Aruhn.md) in [Morrowind](Lore_Morrowind.md) and had accepted the Star. He then returned to [High Rock](Lore_High_Rock.md), where he and his sister Peryra attempted to kill the [lycanthropic](Lore_Lycanthropy.md) caretaker of their family graveyard to power the Star. They failed, and the caretaker hid their remains in one of the crypts. Charwich found the Star, and tricked Koniinge into thinking he was dead by sending misleading letters.<sup>[[3]](#cite_note-CKL-3)</sup> Charwich and his fiancée Lady Elysbetta Moorling ran away with the Star, using it to become wealthy and powerful. Eventually the Star vanished, and Koniinge caught up with both of them and killed them. The letters between the two have been published in the *[Charwich-Koniinge Letters](Lore_Charwich-Koniinge_Letters.md)* series of books.<sup>[[3]](#cite_note-CKL-3)</sup>
+
+The Star was returned to the mortal realm when the [Nerevarine](Lore_Nerevarine.md) did a service for Azura in [3E 427](Lore_Third_Era.md#3E_427). She and [Sheogorath](Lore_Sheogorath.md) had a wager that Azura's priestess, Rayna Drolan, could live in silence for one hundred years. The time was almost up, so Sheogorath sent his [Golden Saint](Lore_Golden_Saint.md) champion [Staada](Lore_Staada.md) to lead his servants to disturb the priestess on her secluded island, located in the [Sheogorad](Lore_Sheogorad.md) region of [Vvardenfell](Lore_Vvardenfell.md). The Nerevarine banished the Mad God's Daedric servants, and was given the Star in return.<sup>[[9]](#cite_note-Morrowind-9)</sup>
+
+In [3E 433](Lore_Third_Era.md#3E_433) the star was again given as a reward, to an adventurer who visited Azura's shrine in the [Jerall Mountains](Lore_Jerall_Mountains.md) of [Cyrodiil](Lore_Cyrodiil.md). Azura sent the adventurer to cleanse a nest of vampires who had once been her worshippers. Their eternal suffering pained her, so she unsealed their prison in order for the adventurer to put them to rest.<sup>[[8]](#cite_note-Oblivion-8)</sup> In the same year, the Star was needed by [Martin Septim](Lore_Martin_Septim.md) to open a portal to the realm of [Gaiar Alata](Lore_Gaiar_Alata.md), [Mankar Camoran's](Lore_Mankar_Camoran.md) Paradise. The [Hero of Kvatch](Lore_Hero_of_Kvatch.md) was sent to recover the Star from the cave where it was held, and took it from the shrine's pedestal found within.<sup>[[10]](#cite_note-OBMobile-10)</sup> The Star was consumed in Martin's ritual, and was not seen again for many years.<sup>[[8]](#cite_note-Oblivion-8)</sup> Some say another artifact was used for this purpose instead.
+
+Some time in the second century of the [Fourth Era](Lore_Fourth_Era.md), one Malyn Varen, a teacher at the [College of Winterhold](Lore_College_of_Winterhold.md) with a scholarly interest in soul gems, came into possession of Azura's Star and began to study it along with a few colleagues and students. Unknown to the others, Varen was dying and was trying to find a way to trap his own soul in the Star, becoming immortal. This research drove him insane, partly due to the visions sent to torment him by Azura, until one day he killed a student and used her soul in his experimentation. He was banished from the College, after which he and a few loyal disciples moved to [Ilinalta's Deep](Lore_Ilinalta%27s_Deep.md), an abandoned Imperial fort which sunk into [Lake Ilinalta](Lore_Lake_Ilinalta.md). This band of rogue necromancers continued their experimentation, and Varen eventually succeeded in corrupting Azura's artifact to accept black souls, renaming it as the Black Star. Varen eventually died, but his soul remained, trapped in the Star.<sup>[[5]](#cite_note-Skyrim-5)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), the [Last Dragonborn](Lore_Hero.md) was summoned to the Shrine of Azura south of [Winterhold](Lore_Winterhold_(city).md), built by the [Dunmer](Lore_Dunmer.md) refugees who fled from [Morrowind](Lore_Morrowind.md). Aranea Ienith, Azura's priestess, tasked the Dragonborn with finding her lost artifact. Azura's message led the Dragonborn to Nelacar, a mage living in Winterhold who was once a member of the college there. He knew of Varen and directed the Dragonborn to Ilinalta's Deep. There, the Dragonborn found the broken Black Star and was captured by it. The interior of the Star consisted of crystalline paths suspended in a void and was home to Varen and his [Dremora](Lore_Dremora.md) minions. The Dragonborn destroyed Varen's soul and had to decide whether to give the Star to Ienith, who would have Azura restore the artifact, or bring it to Nelacar, who offered to complete Varen's work and permanently corrupt the artifact, leaving it as the Black Star.<sup>[[5]](#cite_note-Skyrim-5)</sup> It is unknown which option the Dragonborn chose.
+
+### Previous Owners:
+- Anonymous Worshipper of Azura
+- Hadwaf Neithwyr
+- Peryra Neithwyr
+- Charwich (Lord Gemyn)
+- Lady Elysbetta Moorling (Countess Zyliana)
+- [Emperor Martin Septim](Lore_Martin_Septim.md)
+- Malyn Varen
+- Nelacar
+- Aranea Ienith
+
+## Gallery
+- [![](https://images.uesp.net/7/74/DF-item-Azura%27s_Star.png)](https://en.uesp.net/wiki/File:DF-item-Azura%27s_Star.png) Daggerfall
+- [![](https://images.uesp.net/thumb/a/a5/MW-item-Azura%27s_Star.jpg/200px-MW-item-Azura%27s_Star.jpg)](https://en.uesp.net/wiki/File:MW-item-Azura%27s_Star.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/2/2b/OB-item-Azura%27s_Star.jpg/200px-OB-item-Azura%27s_Star.jpg)](https://en.uesp.net/wiki/File:OB-item-Azura%27s_Star.jpg) Oblivion
+- [![](https://images.uesp.net/thumb/c/c0/OM-quest-Blood_of_the_Daedra.png/172px-OM-quest-Blood_of_the_Daedra.png)](https://en.uesp.net/wiki/File:OM-quest-Blood_of_the_Daedra.png) Oblivion Mobile
+- [![](https://images.uesp.net/thumb/9/9e/SR-item-The_Black_Star.jpg/200px-SR-item-The_Black_Star.jpg)](https://en.uesp.net/wiki/File:SR-item-The_Black_Star.jpg) Skyrim (The Black Star)
+- [![](https://images.uesp.net/c/ca/ON-concept-Prince-Azura-emblem.png)](https://en.uesp.net/wiki/File:ON-concept-Prince-Azura-emblem.png) Azura's Star as a flag's emblem (ESO)
+- [![](https://images.uesp.net/thumb/f/fd/LG-cardart-Barter.png/200px-LG-cardart-Barter.png)](https://en.uesp.net/wiki/File:LG-cardart-Barter.png) Barter card depicting Azura's Star sold to a market (Legends)
+
+## Notes
+- The card [Barter](https://en.uesp.net/wiki/Legends:Barter) from *[Legends](https://en.uesp.net/wiki/Legends:Legends)* depicts Azura's Star as an item in a market stall.
+
+## See Also
+- For game-specific information see the [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Azura%27s_Star), [Morrowind](https://en.uesp.net/wiki/Morrowind:Azura%27s_Star), [Oblivion](https://en.uesp.net/wiki/Oblivion:Azura%27s_Star), [Oblivion Mobile](https://en.uesp.net/wiki/OBMobile:Blood_of_the_Daedra), [Skyrim](Skyrim_Azura%27s_Star.md), [Skyrim Black Star](https://en.uesp.net/wiki/Skyrim:The_Black_Star), and [Skyrim place](Skyrim_Azura%27s_Star_Interior.md) articles.
+
+## References
+1. [^](#cite_ref-1) [*The Elder Scrolls: The Official Survival Guide to Tamriel*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Survival_Guide_to_Tamriel) — [Tori Schafer](https://en.uesp.net/wiki/General:Tori_Schafer)
+2. [^](#cite_ref-2) Banner of Azura in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-CKL_3-0)***</sup><sup>***[b](#cite_ref-CKL_3-1)***</sup><sup>***[c](#cite_ref-CKL_3-2)***</sup><sup>***[d](#cite_ref-CKL_3-3)***</sup> [*Charwich-Koniinge Letters*](Lore_Charwich-Koniinge_Letters.md) — Charwich and Koniinge
+4. [^](#cite_ref-MH_4-0) [*Modern Heretics*](Lore_Modern_Heretics.md) — [Haderus of Gottlesfont](Lore_Books_by_Author.md#Haderus_of_Gottlesfont)
+5. ^ <sup>***[a](#cite_ref-Skyrim_5-0)***</sup><sup>***[b](#cite_ref-Skyrim_5-1)***</sup><sup>***[c](#cite_ref-Skyrim_5-2)***</sup> [The Black Star](https://en.uesp.net/wiki/Skyrim:The_Black_Star) quest in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-DAG_6-0) [Azura's Star](https://en.uesp.net/wiki/Daggerfall:Azura%27s_Star) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+7. ^ <sup>***[a](#cite_ref-Daggerfall_7-0)***</sup><sup>***[b](#cite_ref-Daggerfall_7-1)***</sup> [Azura's Quest](https://en.uesp.net/wiki/Daggerfall:Azura%27s_Quest) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+8. ^ <sup>***[a](#cite_ref-Oblivion_8-0)***</sup><sup>***[b](#cite_ref-Oblivion_8-1)***</sup><sup>***[c](#cite_ref-Oblivion_8-2)***</sup> [Azura](https://en.uesp.net/wiki/Oblivion:Azura)'s quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. [^](#cite_ref-Morrowind_9-0) [Azura's Quest](https://en.uesp.net/wiki/Morrowind:Azura%27s_Quest) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-OBMobile_10-0) Events of *[Oblivion Mobile](https://en.uesp.net/wiki/OBMobile:Oblivion_Mobile)*

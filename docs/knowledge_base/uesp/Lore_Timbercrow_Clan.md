@@ -1,0 +1,23 @@
+# Timbercrow Clan
+
+[![](https://images.uesp.net/thumb/4/44/ON-crown_store-Timbercrow_Style.jpg/200px-ON-crown_store-Timbercrow_Style.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Timbercrow_Style.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Timbercrow_Style.jpg) Weapons of the Timbercrow Clan [![](https://images.uesp.net/thumb/3/31/ON-npc-Kelsel.jpg/200px-ON-npc-Kelsel.jpg)](https://en.uesp.net/wiki/File:ON-npc-Kelsel.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Kelsel.jpg) A member of the Timbercrow Clan wearing Timbercrow Wanderers garbs ca. [2E 582](Lore_Second_Era.md#2E_582) Timbercrow Clan was a [clan](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-Kelsel-1)</sup>
+
+**Timbercrow Wanderers** was a select group within the Timbercrow Clan ranks. They served as scouts and assassins, who carried out orders of the clan. They were known for striking quickly and quietly from stealth and their simple and light garbs. Timbecrow Wanderers' outfits and weapons were designed to remain unfettered by the chains of civilization. Despite their penchant for stealth they also were effective in combat within plain sight.<sup>[[2]](#cite_note-TW-2)</sup><sup>[[3]](#cite_note-TS-3)</sup>
+
+## History
+In [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md). The Timbercrow Clan, led by their clan chief answered the call and moved to the City of Stone. Although they had their differences with other clans they were open to cooperation and decided to stay in the Markarth, not only for protection but also in hopes to aid other Reachfolk.<sup>[[1]](#cite_note-Kelsel-1)</sup> Despite their altruistic attitude some of the city Reachfolk seen them with suspicion. Numerous superstitious rumors were spread among the Markarth citizens. Some claimed that Timbercrow clan members eat crows,<sup>[[4]](#cite_note-Deanbroogha-4)</sup> others believed that they may have crafted dolls from local tailor's materials with evil intentions in mind, such as [soul trapping](Lore_Soul.md).<sup>[[5]](#cite_note-Ayddelsa-5)</sup> Some citizens, however worked to dispel the harmful rumors in an attempt to stop the disinformation.<sup>[[4]](#cite_note-Deanbroogha-4)</sup>
+
+In the same year, Ghum, a member of the [Dark Brotherhood](Lore_Dark_Brotherhood.md) claimed to do a contract job for the members of the clan, however, it is unknown whether he actually performed a contract for them or not.<sup>[[6]](#cite_note-Ghum-6)</sup>
+
+Some of its members had extensive knowledge regarding the geography of the region and were willing to offer their services to the Ard.<sup>[[1]](#cite_note-Kelsel-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Timbercrow_Clan) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Kelsel_1-0)***</sup><sup>***[b](#cite_ref-Kelsel_1-1)***</sup><sup>***[c](#cite_ref-Kelsel_1-2)***</sup> [Kelsel](https://en.uesp.net/wiki/Online:Kelsel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-TW_2-0) [Timbercrow Wanderer](https://en.uesp.net/wiki/Online:Timbercrow_Wanderer) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TS_3-0) [Timbercrow Style](https://en.uesp.net/wiki/Online:Timbercrow_Style) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-Deanbroogha_4-0)***</sup><sup>***[b](#cite_ref-Deanbroogha_4-1)***</sup> [Deanbroogha](https://en.uesp.net/wiki/Online:Deanbroogha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-Ayddelsa_5-0) [Ayddelsa](https://en.uesp.net/wiki/Online:Ayddelsa)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+6. [^](#cite_ref-Ghum_6-0) [Ghum](https://en.uesp.net/wiki/Online:Ghum)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

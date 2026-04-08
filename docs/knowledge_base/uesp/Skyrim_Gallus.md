@@ -1,0 +1,47 @@
+# Gallus
+
+| --- | --- | --- | --- |
+| Location | [Twilight Sepulcher](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher) | | |
+| Race | [Imperial](Skyrim_Imperial.md) | Gender | Male |
+| Level | 15 | Class | [Thief](Skyrim_Thief_(class).md) |
+| [Ref ID](Skyrim_NPCs.md#Console_IDs) | 00 01A2D2 | [Base ID](Skyrim_NPCs.md#Console_IDs) | 00 01BB5D |
+| Other Information | | | |
+| Class Details | [Combat Thief](https://en.uesp.net/wiki/Skyrim:Combat Thief) | | |
+| [Morality](Skyrim_Morality.md) | No Crime | [Aggression](Skyrim_Aggression.md) | Unaggressive |
+| [Essential](Skyrim_Essential_NPCs.md) | Yes | | |
+| Voice Type | [Unique](https://en.uesp.net/wiki/Category:Skyrim-Voice-Unique) | | |
+| [Faction(s)](Skyrim_Factions.md) | [Favor Excluded Faction](Skyrim_FavorExcludedFaction.md) | | |
+
+[![](https://images.uesp.net/thumb/f/fd/SR-npc-Gallus.jpg/200px-SR-npc-Gallus.jpg)](https://en.uesp.net/wiki/File:SR-npc-Gallus.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Gallus.jpg) The ghost of Gallus Gallus Desidenius was an [Imperial](Skyrim_Imperial.md) [thief](Skyrim_Thief_(class).md) who became Guild Master of the [Thieves Guild](Skyrim_Thieves_Guild_(faction).md) in [Skyrim](Lore_Skyrim.md) during the [Fourth Era](Lore_Fourth_Era.md). He purportedly maintained strong ties with many influential families in Skyrim, which allowed the Guild to operate relatively safely. He was also a member of the [Nightingale Trinity](Skyrim_Nightingales.md), along with [Karliah](Skyrim_Karliah.md), with whom he had a romantic relationship, and [Mercer Frey](Skyrim_Mercer_Frey.md). The three of them swore an oath to [Nocturnal](Skyrim_Nocturnal.md) to protect the [Skeleton Key](https://en.uesp.net/wiki/Skyrim:Skeleton_Key), which holds the [Ebonmere](https://en.uesp.net/wiki/Lore:Ebonmere) portal open at the [Twilight Sepulcher](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher). Gallus was the author of *[The Nightingales](https://en.uesp.net/wiki/Skyrim:The_Nightingales)*.
+
+Over time, Gallus became suspicious of Mercer's behavior. Mercer, in turn, became aware of Gallus' scrutiny. Though he was unable to find hard proof, Gallus became convinced that Mercer was responsible for desecrating the Twilight Sepulcher and stealing the Skeleton Key. Before he could dig any further, Mercer arranged a meeting, where he betrayed and murdered Gallus. Gallus' spirit became the last of the [Nightingale Sentinels](https://en.uesp.net/wiki/Skyrim:Nightingale_Sentinel) and defended the Sepulcher alone for about 25 years. For more information, see the [lore article](Lore_Gallus_Desidenius.md).
+
+Gallus's only actions in the game are to provide guidance to you upon entering Twilight Sepulcher during the quest [Darkness Returns](Skyrim_Darkness_Returns.md), and to reunite with Karliah immediately after the quest is completed. His final task complete, Gallus is then released from Nocturnal's service, and allowed to become one with the [Evergloam](https://en.uesp.net/wiki/Lore:Evergloam), to which his spirit then departs.
+
+As a ghost, he wears a full set of unplayable Nightingale armor.
+
+## Related Quests
+- **[Darkness Returns](Skyrim_Darkness_Returns.md)**: Walk the [Pilgrim's Path](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher) and return the [Skeleton Key](https://en.uesp.net/wiki/Skyrim:Skeleton_Key) to its rightful place.
+
+## Quest-Related Dialogue
+
+### Darkness Returns
+*"I don't recognize you, but I sense that you're one of us. Who are you?"* **I'd ask the same question of you.** *"The last of the Nightingale Sentinels, I'm afraid. I've defended the Sepulcher alone for what seems like an eternity."* **The last? What happened to the rest?** *"We were betrayed by one of our own kind. In fact, I'm to blame for what's happened here."* **How are you to blame?** *"I was blinded. Blinded by dark treachery masquerading as friendship. Perhaps if I had been more vigilant, then Mercer Frey wouldn't have lured me to my fate and stolen the Skeleton Key."* **Wait a moment... You're Gallus!** *"I haven't heard that name in a long time. How do you know of me?"* **I have the Key.** *"The Key! You have the Skeleton Key! I never thought I'd see it again. And Mercer Frey?"* **Dead.** *"Then... it's over and my death wasn't in vain. I owe you a great deal, Nightingale."* **I did this for Nocturnal.** *"That's quite a noble sentiment for someone in our... well, in your line of work. My only regret is that you had to undertake this task alone."* **I did this to honor the Guild.** *"You've done the Guild a great deed. And although they may not show it, I'm certain they appreciate your sacrifices. My only regret is that you had to undertake this task alone."* **I did this to get rich.** *"Were I able to provide it, I'd shower you in wealth for what you've done. My only regret is that you had to undertake this task alone."* All three options lead to:
+
+**Karliah helped me.** *"Karliah... she's still alive? I feared she'd befallen the same fate, ending up a victim of Mercer's betrayal."* **Then take the Key and right all the wrongs.** *"Nothing would bring me more pride than to return the Key, but I'm afraid it's impossible. From the moment I arrived here, I've felt myself... well... dying."* **How can a spirit die?** *"The Sepulcher isn't merely a temple or a vault to house the Key. Within these walls is the Ebonmere... a conduit to Nocturnal's realm of Evergloam. When Mercer stole the Key, that conduit closed, severely limiting our ties to her."* **Then I'll have to proceed alone.** *"I'm afraid so. I'm weakening, and I can feel myself slipping away. The years without restoration of my power have taken their toll. Whatever damage has been caused can only be corrected by following the Pilgrim's Path to the Ebonmere and replacing the Key."* **How does the Ebonmere affect all of us?** *"The Ebonmere is a conduit through which Nocturnal influences our world. Not through magic or blessings, but purely through luck."* **Luck is meaningless. What we do involves skill.** *"Yes, absolutely. Your skill is your own... don't let anyone ever tell you otherwise. But Nocturnal, she influences our luck; nearly imperceptible assistance we get when we ply our trade."* **How's that changing the way things are?** *"Think about the Guild... about the state it was in when you began. Think about all the little things you might have heard. A pick breaking when it shouldn't have, the clouds in the nighttime sky clearing at the wrong moment... Our access to those bits of luck are what separate us from common bandits."* **So with the Ebonmere closed, our luck's run dry.** *"Precisely. There are a few who still call Nocturnal "Lady Luck" and for good reason."* **What will I face in the Pilgrim's Path?** *"I wish I could help you, but I've been a prisoner in this very chamber for the last quarter century. The only possible help I've come across are the remains of some poor fellow who was trying to follow in your footsteps. Perhaps his journal can help?"* **Can't you just take the Key?** *"Whatever is affecting the Nightingale Sentinels is starting to affect me too. As I get closer to the Ebonmere I begin to feel myself slipping away. Even right this moment, I feel strange... when I don't think I should be feeling anything at all."* **What's wrong with the other Nightingale Sentinels?** *"With the Ebonmere closed, and their sudden severance from the realm of Evergloam, I fear they've undergone a drastic change. They're shadows of their former selves. They no longer remember their true purpose or their original identities."* **Why aren't you like them?** *"My spirit didn't manifest itself in the Sepulcher immediately, so fortunately I wasn't present when the Ebonmere was sealed. However, ever since that day, I've felt my power waning... slowly draining away."* [![](https://images.uesp.net/thumb/d/d4/SR-quest-Darkness_Returns_08.jpg/200px-SR-quest-Darkness_Returns_08.jpg)](https://en.uesp.net/wiki/File:SR-quest-Darkness_Returns_08.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Darkness_Returns_08.jpg) Karliah's final farewell to Gallus Before you leave the Twilight Sepulcher there is a short scene where Gallus appears and speaks to Karliah before entering the Evergloam:
+
+**Gallus:** *"Karliah?"*
+**Karliah:** *"Gallus! I feared I would never see you again. I was afraid you'd become like the others."*
+**Gallus:** *"If it were not for the actions of this Nightingale, your fears would have come true. He/She honors us all."*
+**Karliah:** *"What will you do now, my love?"*
+**Gallus:** *"Nocturnal calls me to the Evergloam. My contract has been fulfilled."*
+**Karliah:** *"Will I ever see you again?"*
+**Gallus:** *"When your debt to Nocturnal has been paid, we'll embrace once again."*
+**Karliah:** *"Farewell, Gallus. Eyes open... walk with the shadows."*
+**Gallus:** *"Goodbye, Karliah."*
+
+## Notes
+- He is voiced by [Craig Sechler](https://www.wikipedia.org/wiki/Craig_Sechler).
+- If you attack Gallus while he is speaking to Karliah, he will behave like an essential NPC. Karliah will even join you in attacking him. However, after a few seconds of combat, he will disappear from the game. You can still engage Karliah in conversation normally after this.
+- In-game, Gallus is referred to as a [Nightingale Sentinel](https://en.uesp.net/wiki/Skyrim:Nightingale_Sentinel) before identifying himself.
+- There's a skeleton at the end in Snow Veil Sanctum, which may be the body of Gallus.

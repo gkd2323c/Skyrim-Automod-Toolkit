@@ -1,0 +1,36 @@
+# Moon Bishop Hunal Answers Your Questions
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Loremaster's Archive](Lore_Loremaster%27s_Archive.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/25039)) |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+
+Moon Bishop Hunal Answers Your Questions **by [Moon Bishop Hunal](Lore_Books_by_Author.md#Moon-Bishop_Hunal)** *Moon Bishop Hunal answers questions on lore*
+---
+**"Esteemed Moon Bishop, in the wake of the horrific events in the [Reaper's March](Lore_Reaper%27s_March.md) region, many non- [Khajiiti](Lore_Khajiit.md) citizens wonder at the true nature of the [dro-m'Athra](Lore_Dro-m%27Athra.md). The majority of your people refuse to speak of these dark spirits, who have long been deemed by scholars to be the inverse of the Khajiit. In a word, they are seen as [Daedra](Lore_Daedra.md). Is the [Den of Lorkhaj](Lore_Den_of_Lorkhaj.md) therefore a realm of [Oblivion](Lore_Oblivion.md)? How did the Dark Mane become dro-m'Athra, and what did the [Tharns](Lore_Tharn.md) hope to gain from trafficking with these forces?" – Legoless, Doyen of the United Explorers of Scholarly Pursuits**
+
+Moon Bishop Hunal says, "This subject is dangerous even to speak about, especially on moons-less nights, when the pull of the Darks is strong, and one's tail twitches to the Bent Dance. I have addressed these matters in this one's pamphlet entitled '[Litter-Mates of Darkness](Lore_Litter-Mates_of_Darkness.md),' but perhaps you have not been afforded an opportunity to read it.
+
+"The Den of Lorkhaj, like everything relating to the [Lost Runt](https://en.uesp.net/wiki/Lore:Lost_Runt), is a thing of the [Mundus](Lore_Mundus.md). Though a true cat's spirit is bathed in the spirit-light of the moons, every cat also knows the drawing of the Darks, and feels the urge to join the Bent Dance. A true cat who listens too much to the Darks becomes a Bent Cat, whose spirit is carried by [Namiira](Lore_Namiira.md) down into the [Dark Behind the World](Lore_Dark_Behind_the_World.md), eventually to become dro-m'Athra. This is what happened to the unfortunate so-called Dark Mane.
+
+"As to the motives of the Tharns of [Nibenay](Lore_Nibenay.md), this one cannot speak. They are known to traffic with Daedra, however, and seem to find some profit in it. Insofar as 'Daedra' means 'not-Aedra,' the term can certainly be applied to the dro-m'Athra; perhaps the Tharns hoped to employ them in the same manner as they use the Daedra of Oblivion."
+
+**"Khajiit hold that [Masser](Lore_Masser.md) and [Secunda](Lore_Secunda.md) existed before [Lorkhaj](Lore_Lorkhaj.md) was born, whereas [The Lunar Lorkhan](Lore_The_Lunar_Lorkhan.md) states that they were created after [Trinimac](Lore_Trinimac.md) the Valiant ripped out [Lorkhan's heart](Lore_Heart_of_Lorkhan.md). Your people also believe that Lorkhaj's body was flung to the moons, and [The Moon Cats and their Dance](Lore_The_Moon_Cats_and_their_Dance.md) whisper of a [Dead Moon](https://en.uesp.net/wiki/Lore:Dead_Moon) in the [Lunar Lattice](Lore_Lunar_Lattice.md). Are the moons really Lorkhan's corpse? And what is the 'Dead Moon?'" – Eis Vuur Warden, Wayward and Contract Scholar**
+
+Moon Bishop Hunal says, "When true cats commune with the moons and their spirits climb the Lunar Lattice, then can a Khajiit see the Dead Moon sailing behind [Jone](Lore_Jone.md) and [Jode](Lore_Jode.md). This moon is the corpse of Lorkhaj. After he made the world for [Nirni](Lore_Nirni.md)'s children to live in, the Darks in the heart of Lorkhaj also made a prison of the world—for he did not know the First Secret. Thus his heart was cut out and buried in the Dark Behind the World, and his body was hurled on high to follow the moons forever. This all true cats learn from their Clan Mothers."
+
+**"This one greets you, yes? This one has long wondered how the Khajiit view [werewolves](Lore_Werewolf.md). This one knows the natural dislike between Canine and Feline, but both are influenced by Jone and Jode. If a Khajiit was, say, a long-time werewolf, would this impact their worship of Jone and Jode any? Bright Moons and Warm Sands, To'raji."**
+
+Moon Bishop Hunal says, "Every Khajiiti hunter respects Lord [Hircine](Lore_Hircine.md) —and what true cat is not a hunter, at times? But not all the Hungry Cat's gifts are proper for true cats to accept. The Lunar Lattice grants Khajiiti their skins, and to change those skins for others is impermissible. This one considers the werewolves' worship of the moons a parody of the true lunar faith."
+
+**"Our scribes are currently working on the transcription of the 'Ri'datta-ssabavezi.' In this story, your people are climbing 'cat upon cat' and finally reach Jone, where they founded something called '[Lleswer](Lore_Llesw%27er.md).' But we failed to understand the meaning of this. Some at the Guild suggest it has to be taken literally, but it seems impossible. Am I right?" – Iszara the Restless, Singer of the [Scenarist Guild](Lore_Scenarist_Guild.md)**
+
+Moon Bishop Hunal says, "It is the nature of myth to be true and yet at the same time mere allegory. Are you 'right'? In this context, the question is without meaning. But do not be offended, hairless one. Many stories are puzzles with more than one solution."
+
+**"Moon Bishop Hunal, many Khajiit have ingested [Skooma](Lore_Skooma.md), although many nations frown on the consumption of such a substance and forbid it entirely. As a Moon Bishop yourself, what is your opinion of the consumption of Skooma for religious ceremonies?" - J'Kierr Solhir, Simple Khajiit Merchant and Sellsword.**
+
+Moon Bishop Hunal says, "Skooma is the scourge of our people; its continued usage inevitably leads a Khajiit into the Darks. It is true that it can be used to achieve a state of religious ecstasy, but the visions therefrom are all false and heretical."
+
+**"Many have heard the stories that a Khajiit's form is determined by the cycle of the moons. Would it then be possible for an [Alfiq](Lore_Alfiq.md) (housecat sized Khajiit) to give birth to a [Senche-Raht](Lore_Senche-raht.md) battlecat, said to be as tall as two [Altmer](Lore_Altmer.md)?" – The Human Floyd**
+
+Moon Bishop Hunal says, "Ah, hairless ones. What imaginations they have! The simple answer is yes; it is absolutely true that the [ja-Kha'jay](Lore_Ja-Kha%27jay.md) determines a Khajiit's furstock, or 'breed,' as some say. However, the extent to which we catfolk vary in size has been exaggerated in certain [Imperial](Lore_Imperial.md) sources. During the [Reman](Lore_Reman.md) Conquests, when the [Cyrodiils](Lore_Cyrodiil.md) were seeking justification for invasion of the Khajiiti kingdoms, we were tagged with the epithet '[beast-men](Lore_Beastfolk.md),' and propaganda was spread emphasizing our similarities to our cousins of lesser sentience. For what could be wrong with liberating a fertile land such as ours from lowly 'beast-men'? Indeed, curious one, there are truly seventeen distinct furstocks of Khajiiti, but do not be taken in by the exaggerations of Imperial propaganda."

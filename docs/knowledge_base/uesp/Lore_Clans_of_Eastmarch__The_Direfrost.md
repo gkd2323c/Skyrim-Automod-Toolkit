@@ -1,0 +1,15 @@
+#  The Direfrost
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Clans_of_Eastmarch:_The_Direfrost) |
+
+Clans of Eastmarch: The Direfrost *A brief history of the Direfrost clan* *
+---
+The lineage of the Direfrosts goes back to a time before recorded history. The most accurate recorded accounts reveal a lineage stretching into the past for at least thirteen generations to the earliest known patron, Hroldin Direfrost, who settled in northern [Eastmarch](Lore_Eastmarch.md) and became lord of the surrounding villages.
+
+The Direfrosts have a reputation as kind and gentle rulers, except in cases involving practitioners of witchcraft. In such cases, Direfrost intolerance is notorious. Over the centuries they have participated in the execution of hundreds of citizens found guilty of witchcraft.
+
+[Castle Direfrost](Lore_Castle_Direfrost.md) is located within Eastmarch bordering on the mountains. The cold northern winds are said to be held at bay by the hearthfire that ever burns in the meadhall of Direfrost.
+
+There have been no known insurrections against their rule.

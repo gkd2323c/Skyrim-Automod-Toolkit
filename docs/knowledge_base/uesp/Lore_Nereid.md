@@ -1,0 +1,48 @@
+# Nereid
+
+[![](https://images.uesp.net/thumb/8/82/ON-creature-Nereid.jpg/200px-ON-creature-Nereid.jpg)](https://en.uesp.net/wiki/File:ON-creature-Nereid.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Nereid.jpg) Nereid (ESO) The Nereids (also called **Sirens**,<sup>[[1]](#cite_note-1)</sup> **Water Sprites** by the [Redguards](Lore_Redguard.md), or **Water [Nymphs](Lore_Nymph.md)**)<sup>[[2]](#cite_note-KCAHC-2)</sup> are [mer](Lore_Mer.md) -like, feminine [water spirits](Lore_Nature_Spirit.md) that live near bodies of water and can often be heard singing an angelic, but transfixing [melody](Lore_Music.md), often referred to as a siren song. They are known practitioners of [water magic](Lore_Water_Magic.md), an obscure form of magic, and can either become hostile or tolerant of people's company.<sup>[[2]](#cite_note-KCAHC-2)</sup> Generally speaking, the Nereid are an intelligent-folk that tend to protect the land they live on and its denizens, even claiming old ruins as their own haven.
+
+The Nereid are attuned to nature and the wild elements, and they are also mystically connected to the bodies of water they inhabit, more specifically pure and flowing fresh water.<sup>[[3]](#cite_note-ONLoad Nereid-3)</sup> Generally speaking, they can serve as caretakers and guardians of their respective habitats. They will go through great lengths to keep the sanctity and life of their home, even if it is at the expense of others. If any amount of harm comes to their homes, they will be corrupted and even suffer until they eventually perish. The Nereid and their powers can be attractive to the modern races of Tamriel, like when the Nereid of Cicatrice tended to the ill for many years and since then a settlement formed around it,<sup>[[4]](#cite_note-ONIokkas-4)</sup> and there are examples like the [Bosmer](Lore_Bosmer.md) of [Dread Vullain](Lore_Dread_Vullain.md), who forsook their veneration of [Y'ffre](Lore_Y%27ffre.md) in exchange for the Nereid Sisters in the hills of [Greenshade](Lore_Greenshade.md).<sup>[[5]](#cite_note-GMJ-5)</sup> Even the Queen of [Summerset Isles](Lore_Summerset_Isles.md), [Ayrenn](Lore_Ayrenn.md) was said to have danced with the Nereids of the [Ilessan Hills](Lore_Ilessan_Hills.md).<sup>[[6]](#cite_note-TROQA-6)</sup>
+
+[![](https://images.uesp.net/thumb/b/bf/ON-quest-Scars_of_the_Past.jpg/200px-ON-quest-Scars_of_the_Past.jpg)](https://en.uesp.net/wiki/File:ON-quest-Scars_of_the_Past.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Scars_of_the_Past.jpg) Corrupted Nereid Pools However, the corrupted pools of a Nereid can lead to heinous changes, such as the case with the Nereid sorceress, Shada, who tainted the waters of a [Nedic](Lore_Nede.md) city in [Craglorn](Lore_Craglorn.md). When the [Ra Gada](Lore_Ra_Gada.md) invaded in [1E 808](Lore_First_Era.md#1E_808),<sup>[[7]](#cite_note-HOTIB-7)</sup> the Nedes made a bargain with Shada for great strength and everlasting life by drinking her water, but at the price of one's sanity and flesh. Ever since then, the city's people blindly worship the sorceress and it has since been called Shada's Tear.<sup>[[8]](#cite_note-ONNhalan-8)</sup> Another such example is with the aforementioned Cicatrice.
+
+The Nereid is feminine and mer-like in appearance, but with their own features, such as fin-like ears and scaly-striped skin. They can come in different colors ranging from blue and green, and their hair color can range greatly from black<sup>[[9]](#cite_note-LGFarsight-9)</sup> to silver,<sup>[[10]](#cite_note-LGFate-10)</sup> or even blue like their skin tone. They adorn themselves in shells, seaweed, and even [coral](Lore_Coral.md) that is fashioned into clothing.<sup>[[11]](#cite_note-LGSisters-11)</sup> They can also be seen wearing bracers crafted from metal, like [gold](Lore_Gold.md)<sup>[[9]](#cite_note-LGFarsight-9)</sup> or plain silver. Attached to these bracers is a long and tattered robe of sorts. Nereids are sometimes called *"water-sprites"*.<sup>[[2]](#cite_note-KCAHC-2)</sup> Despite the fact that they look completely different to the common [sprite](Lore_Sprite.md), this brings about an indirect connection to the [Faerie](Lore_Faerie.md).
+
+## Leimenid
+[![](https://images.uesp.net/thumb/d/db/ON-creature-Leimenid.jpg/200px-ON-creature-Leimenid.jpg)](https://en.uesp.net/wiki/File:ON-creature-Leimenid.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Leimenid.jpg) A Leimenid The **Leimenid** is a variant of nereid that practices frost magic. They resemble the typical nereid, but appear more ethereal and in a frosty mist. They are typically found in cold climates such as the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md), or atop wintry mountains like Scalecaller Peak.<sup>[[12]](#cite_note-ONPestilience-12)</sup> They have also been used in the [Maelstrom Arena](Lore_Maelstrom.md), the pocket realm of the [demiprince](Lore_Demiprince.md) [Fa-Nuit-Hen](Lore_Fa-Nuit-Hen.md).<sup>[[13]](#cite_note-ONMaelstrom-13)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/d/d5/LG-cardart-Fate_Weaver.jpg/200px-LG-cardart-Fate_Weaver.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Fate_Weaver.jpg) Fate Weaver (Legends)
+- [![](https://images.uesp.net/thumb/a/a9/LG-cardart-Farsight_Nereid.png/161px-LG-cardart-Farsight_Nereid.png)](https://en.uesp.net/wiki/File:LG-cardart-Farsight_Nereid.png) Farsight Nereid (Legends)
+- [![](https://images.uesp.net/thumb/8/81/LG-cardart-Nereid_Sister.png/200px-LG-cardart-Nereid_Sister.png)](https://en.uesp.net/wiki/File:LG-cardart-Nereid_Sister.png) Nereid Sisters (Legends)
+- [![](https://images.uesp.net/thumb/a/af/ON-creature-The_Frigid_Temptress.jpg/200px-ON-creature-The_Frigid_Temptress.jpg)](https://en.uesp.net/wiki/File:ON-creature-The_Frigid_Temptress.jpg) Ice Nereid (ESO)
+- [![](https://images.uesp.net/thumb/a/a7/ON-creature-Shavali_the_Befouled.jpg/200px-ON-creature-Shavali_the_Befouled.jpg)](https://en.uesp.net/wiki/File:ON-creature-Shavali_the_Befouled.jpg) Corrupted Nereid (ESO)
+- [![](https://images.uesp.net/thumb/9/9d/ON-creature-Shield_Maiden.jpg/200px-ON-creature-Shield_Maiden.jpg)](https://en.uesp.net/wiki/File:ON-creature-Shield_Maiden.jpg) Spectral Nereid (ESO)
+
+## Notes
+- There is a type of blue, luminescent flower called the [Nereid's Smile](https://en.uesp.net/wiki/Lore:Nereid%27s_Smile) that grows east of [Greenheart](Lore_Greenheart.md).<sup>[[14]](#cite_note-ONHartmin-14)</sup>
+
+## See Also
+- [Nereid Names](Lore_Names.md#Nereid)
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Nereid) and [*Legends*](https://en.uesp.net/wiki/Legends:Nereid) articles.
+
+### Books
+- ***[A Nereid Stole My Husband](https://en.uesp.net/wiki/Lore:A_Nereid_Stole_My_Husband)*** — A cautionary tale
+- ***[Gifts of the Nereids](Lore_Gifts_of_the_Nereids.md)*** — An anecdotal account of the nereids
+- ***[The Nereid's Dilemma](Lore_The_Nereid%27s_Dilemma.md)*** by [Anthil Morvir](Lore_Books_by_Author.md#Anthil_Morvir) — A poem on the mono-gendered nature of the Nereids
+
+## References
+1. [^](#cite_ref-1) [Desuuga the Siren](https://en.uesp.net/wiki/Online:Desuuga_the_Siren) and [Siren's Song](https://en.uesp.net/wiki/Online:Siren%27s_Song) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-KCAHC_2-0)***</sup><sup>***[b](#cite_ref-KCAHC_2-1)***</sup><sup>***[c](#cite_ref-KCAHC_2-2)***</sup> [*Kyne's Challenge: A Hunter's Companion*](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion) — David S. J. Hodgson
+3. [^](#cite_ref-ONLoad Nereid_3-0) [Nereid Temple Cave](https://en.uesp.net/wiki/Online:Nereid_Temple_Cave) loading screen text in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-ONIokkas_4-0) [Iokkas](https://en.uesp.net/wiki/Online:Iokkas)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr_(DLC))*
+5. [^](#cite_ref-GMJ_5-0) [*General Malgoth's Journal*](Lore_General_Malgoth%27s_Journal.md) — [General Malgoth](Lore_Books_by_Author.md#General_Malgoth)
+6. [^](#cite_ref-TROQA_6-0) [*The Rise of Queen Ayrenn*](Lore_The_Rise_of_Queen_Ayrenn.md) — [Nuulehtel of Skywatch](Lore_Books_by_Author.md#Nuulehtel_of_Skywatch)
+7. [^](#cite_ref-HOTIB_7-0) [*Holidays of the Iliac Bay*](Lore_Holidays_of_the_Iliac_Bay.md) — [Theth-i](Lore_Books_by_Author.md#Theth-i)
+8. [^](#cite_ref-ONNhalan_8-0) [Nhalan](https://en.uesp.net/wiki/Online:Nhalan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. ^ <sup>***[a](#cite_ref-LGFarsight_9-0)***</sup><sup>***[b](#cite_ref-LGFarsight_9-1)***</sup> [Farsight Nereid](https://en.uesp.net/wiki/File:LG-cardart-Farsight_Nereid.png) card art in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+10. [^](#cite_ref-LGFate_10-0) [Fate Weaver](https://en.uesp.net/wiki/File:LG-cardart-Fate_Weaver.png) card art in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+11. [^](#cite_ref-LGSisters_11-0) [Nereid Sister](https://en.uesp.net/wiki/File:LG-cardart-Nereid_Sister.png) card art in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+12. [^](#cite_ref-ONPestilience_12-0) [Plans of Pestilence](https://en.uesp.net/wiki/Online:Plans_of_Pestilence) group quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragon Bones](https://en.uesp.net/wiki/Online:Dragon_Bones)*
+13. [^](#cite_ref-ONMaelstrom_13-0) [Maelstrom Arena](https://en.uesp.net/wiki/Online:Maelstrom_Arena_(quest)) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))*
+14. [^](#cite_ref-ONHartmin_14-0) [Hartmin](https://en.uesp.net/wiki/Online:Hartmin)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

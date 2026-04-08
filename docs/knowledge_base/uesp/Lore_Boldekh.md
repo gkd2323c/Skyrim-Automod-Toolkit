@@ -1,0 +1,35 @@
+# Boldekh
+
+| Warden Boldekh | | | |
+| --- | --- | --- | --- |
+| [![ON-trailer-morrowind-Warden and Bear.jpg](https://images.uesp.net/thumb/d/d8/ON-trailer-morrowind-Warden_and_Bear.jpg/200px-ON-trailer-morrowind-Warden_and_Bear.jpg)](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Warden_and_Bear.jpg) Warden Boldekh | | | |
+| Race | [Redguard](Lore_Redguard.md) | Gender | Male |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) | | |
+| Resided in | [Vvardenfell](Lore_Vvardenfell.md) | | |
+
+[![](https://images.uesp.net/thumb/2/2c/ON-trailer-Morrowind-Naryu_attacks_grandmaster.jpg/200px-ON-trailer-Morrowind-Naryu_attacks_grandmaster.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Morrowind-Naryu_attacks_grandmaster.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-Morrowind-Naryu_attacks_grandmaster.jpg) Naryu Virian attacking the fugitive Grandmaster Boldekh was a member of the [Wardens](Lore_Wardens.md),<sup>[[1]](#cite_note-NV-1)</sup> [Y'ffre](Lore_Y%27ffre.md) worshipers and master storytellers whose nature tales become magical reality to defend [the Green](Lore_The_Green.md).<sup>[[2]](#cite_note-ESOWarden-2)</sup><sup>[[3]](#cite_note-Warden_Costume-3)</sup><sup>[[4]](#cite_note-WATW-4)</sup> He aided [Vivec](Lore_Vivec.md) and [Naryu Virian](Lore_Naryu_Virian.md) in the elimination of the Grandmaster [Rythe Verano](Lore_Rythe_Verano.md) and foiling the plot of the Seven Secretives.<sup>[[1]](#cite_note-NV-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/e/e7/ON-trailer-morrowind-Dwarven_Colossus.jpg/200px-ON-trailer-morrowind-Dwarven_Colossus.jpg)](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Dwarven_Colossus.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Dwarven_Colossus.jpg) Boldekh and Naryu facing the Dwarven Collosus [![](https://images.uesp.net/thumb/5/53/ON-trailer-morrowind-Warden_Casting.jpg/200px-ON-trailer-morrowind-Warden_Casting.jpg)](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Warden_Casting.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Warden_Casting.jpg) Boldekh using ice magic For centuries Wardens were mostly silent, focused on watching, guiding, and protecting the Green, but the time to rejoin the world of man has come for the Wardens eventually.<sup>[[5]](#cite_note-TESOMWFT-5)</sup> In the years leading to [2E 582](Lore_Second_Era.md#2E_582) Boldekh resided in the isle of [Vvardenfell](Lore_Vvardenfell.md) in the region of [Bitter Coast](Lore_Bitter_Coast.md) and, together with his partner was responsible for the protection of a sacred grove, which was located there. At some point, Grandmaster Rythe Verano ordered to cut the sacred grove down in order to build a merchant warehouse. Boldekh's partner died defending the grove.<sup>[[1]](#cite_note-NV-1)</sup>
+
+Boldekh later contacted the member of [Tribunal](Lore_Tribunal.md), Vivec, who granted him an audience. When the member of [Morag Tong](Lore_Morag_Tong.md) Naryu Virian requested the Tribunal sanction for the extrajudicial execution of the fugitive Grandmaster and was granted the permission aid from the living god Vivec. He also granted her assistance of Boldekh the Warden, who also sought to kill the Grandmaster to avenge his deceased partner. Boldekh and Naryu worked together and tracked the traitor down. Their investigation led them to the [Skar](Lore_Skar.md) and later to [Sadrith Mora](Lore_Sadrith_Mora.md), where they spotted a [Telvanni](Lore_House_Telvanni.md) mage teleporting him to the [Clockwork City](Lore_Clockwork_City.md) and him vanishing along with the portal. They convinced the mage to give them passage to the Clockwork City, and once there, they tracked Verano into a mechanist's workshop where he obtained [Sotha Sil](Lore_Sotha_Sil.md)'s Simulacrum Rubric. He spotted them, panicked, and summoned a portal back to Vvardenfell. Naryu and Boldekh followed him through it and emerged in [Mudan Ruins](Lore_Mudan_Ruins.md). [Argonian](Lore_Argonian.md) guards were waiting for him there but fled when an army of [Dwemer Animunculi](Lore_Dwemer_Animunculi.md) appeared out of the ruin. A Dwarven colossus appeared out of the ruin, blasting it apart and immolating Verano along with the satchel that held Sotha Sil's Simulacrum Rubric. With the combined efforts of Naryu and Boldekh, they destroyed the colossus. At some point, he showed Naryu a Warden's "true nature".<sup>[[1]](#cite_note-NV-1)</sup><sup>[[6]](#cite_note-Trailer1-6)</sup><sup>[[7]](#cite_note-NVGTW-7)</sup>
+
+## See Also
+
+### Books
+- ***[Naryu's Journal/Vvardenfell, Before](Lore_Naryu%27s_Journal_Vvardenfell,_Before.md)*** by [Naryu Virian](Lore_Naryu_Virian.md) — The illustrated diary of a Morag Tong assassin
+
+## Gallery
+- [![ON-trailer-Boldekh.jpg](https://images.uesp.net/thumb/8/8a/ON-trailer-Boldekh.jpg/200px-ON-trailer-Boldekh.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Boldekh.jpg)
+- [![ON-concept-The Warden.jpg](https://images.uesp.net/thumb/6/6a/ON-concept-The_Warden.jpg/200px-ON-concept-The_Warden.jpg)](https://en.uesp.net/wiki/File:ON-concept-The_Warden.jpg)
+- [![ON-trailer-morrowind-Warden and Naryu.jpg](https://images.uesp.net/thumb/1/1e/ON-trailer-morrowind-Warden_and_Naryu.jpg/200px-ON-trailer-morrowind-Warden_and_Naryu.jpg)](https://en.uesp.net/wiki/File:ON-trailer-morrowind-Warden_and_Naryu.jpg)
+- [![ON-trailer-Morrowind Cinematic Trailer Thumbnail.jpg](https://images.uesp.net/thumb/c/c7/ON-trailer-Morrowind_Cinematic_Trailer_Thumbnail.jpg/200px-ON-trailer-Morrowind_Cinematic_Trailer_Thumbnail.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Morrowind_Cinematic_Trailer_Thumbnail.jpg)
+
+## References
+1. ^ <sup>***[a](#cite_ref-NV_1-0)***</sup><sup>***[b](#cite_ref-NV_1-1)***</sup><sup>***[c](#cite_ref-NV_1-2)***</sup><sup>***[d](#cite_ref-NV_1-3)***</sup> [*Naryu's Journal/Vvardenfell, Before*](Lore_Naryu%27s_Journal_Vvardenfell,_Before.md) — [Naryu Virian](Lore_Naryu_Virian.md)
+2. [^](#cite_ref-ESOWarden_2-0) [Warden](https://en.uesp.net/wiki/Online:Warden) [class](https://en.uesp.net/wiki/Online:Classes) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Warden_Costume_3-0) [Austere Warden Outfit](https://en.uesp.net/wiki/Online:Austere_Warden_Outfit) costume description in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-WATW_4-0) [*Who Are the Wardens?*](Lore_Who_Are_the_Wardens%3F.md) — [Lady Cinnabar](Lore_Books_by_Author.md#Lady_Cinnabar_of_Taneth) of [Taneth](Lore_Taneth.md)
+5. [^](#cite_ref-TESOMWFT_5-0) [The Elder Scrolls Online: Morrowind – Warden Gameplay Trailer](https://en.uesp.net/wiki/General:The_Elder_Scrolls_Online:_Morrowind_%E2%80%93_Warden_Gameplay_Trailer)
+6. [^](#cite_ref-Trailer1_6-0) [The Elder Scrolls Online: Morrowind Announcement Trailer](https://en.uesp.net/wiki/General:The_Elder_Scrolls_Online:_Morrowind_Announcement_Trailer)
+7. [^](#cite_ref-NVGTW_7-0) [The Elder Scrolls Online: Morrowind – Naryu's Guide to the Wardens](https://en.uesp.net/wiki/General:The_Elder_Scrolls_Online:_Morrowind_%E2%80%93_Naryu%27s_Guide_to_the_Wardens)

@@ -1,0 +1,46 @@
+# Lhotun
+
+| King Lhotun | | | |
+| --- | --- | --- | --- |
+| [![DF-npc-Lhotun (face).png](https://images.uesp.net/0/0f/DF-npc-Lhotun_%28face%29.png)](https://en.uesp.net/wiki/File:DF-npc-Lhotun_(face).png) King Lhotun in his younger days | | | |
+| Race | [Redguard](Lore_Redguard.md) | Gender | Male |
+| Born | [3E 393](Lore_Third_Era.md#3E_393) | | |
+| Resided in | [Sentinel](Lore_Sentinel.md) | | |
+| Previous Ruler | [Akorithi](Lore_Akorithi.md) | | |
+| Appears in | [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Lhotun) | | |
+
+Lhotun was the King of the Kingdom of [Sentinel](Lore_Sentinel_(kingdom).md) at the end of the [Third Era](Lore_Third_Era.md).<sup>[[1]](#cite_note-PGE3H-1)</sup> He was born in [3E 393](Lore_Third_Era.md#3E_393), the youngest child of King [Camaron](Lore_Camaron.md) and Queen [Akorithi](Lore_Akorithi.md). Lhotun was brother to [Arthago](Lore_Arthago.md),<sup>[[2]](#cite_note-NFOS-2)</sup> [Aubk-i](Lore_Aubk-i.md), and [Greklith](Lore_Greklith.md).<sup>[[3]](#cite_note-Daggerfall-3)</sup>
+
+Some years after the [Warp in the West](Lore_Warp_in_the_West.md), Prince Greklith and Queen Akorithi both fell victim to a plague.<sup>[[2]](#cite_note-NFOS-2)</sup> Thus, Lhotun ascended to the throne, and became known as one of the most powerful leaders in [Tamriel](Lore_Tamriel.md).<sup>[[4]](#cite_note-TWITW-4)</sup> The rapid expansion of Sentinel's domain following the [Miracle of Peace](Lore_Miracle_of_Peace.md) had brought many [Crown](Lore_Crown.md) sympathizers under the control of a [Forebear](Lore_Forebear.md) kingdom, forcing Lhotun to form what was considered a third party, dubbed the [Lhotunic movement](Lore_Lhotunics.md), to try and reconcile the two factions.<sup>[[1]](#cite_note-PGE3H-1)</sup>
+
+## History
+
+### Early Life
+[![](https://images.uesp.net/5/5e/DF-npc-Lhotun.png)](https://en.uesp.net/wiki/File:DF-npc-Lhotun.png) [](https://en.uesp.net/wiki/File:DF-npc-Lhotun.png) As a young prince in the royal court of Sentinel In [3E 393](Lore_Third_Era.md#3E_393), the fourth child of King [Camaron](Lore_Camaron.md) and Queen [Akorithi](Lore_Akorithi.md) of [Sentinel](Lore_Sentinel.md) was born.<sup>[[5]](#cite_note-DFCTree-5)</sup> Though he was the royal couple's third son, they named him Lhotun, an ancient [Redguard](Lore_Redguard.md) word meaning "second boy".<sup>[[6]](#cite_note-DC-6)</sup> This proved prophetic when Arthago, his eldest sibling and heir to the throne, vanished in [3E 400](Lore_Third_Era.md#3E_400). It was widely rumored that Arthago had either died of a fever (he was known to be a sickly child) or had been kidnapped by the [Underking](Lore_Underking.md).<sup>[[7]](#cite_note-DFMissing-7)</sup> Prince [Greklith](Lore_Greklith.md) (whose own name meant "strong king")<sup>[[6]](#cite_note-DC-6)</sup> became the new heir, but when Camaron was killed during the [War of Betony](Lore_War_of_Betony.md) in [3E 403](Lore_Third_Era.md#3E_403), Akorithi became the regent.<sup>[[8]](#cite_note-FWOB-8)</sup>
+
+In his youth, Lhotun was known to fall into dark moods.<sup>[[9]](#cite_note-DFRumors-9)</sup> Lhotun had not forgotten about Prince Arthago, and whenever he asked about his brother he received a different story.<sup>[[10]](#cite_note-DFLhotun-10)</sup> He wanted to know the truth, and sought the services of an [agent](Lore_Hero.md#The_Agent) of the [Blades](Lore_Blades.md) who was investigating a haunting in [Daggerfall](Lore_Daggerfall.md), offering information.<sup>[[7]](#cite_note-DFMissing-7)</sup> The agent agreed, and received help from the Underking's minions, who claimed the mysterious figure wanted to prove his innocence. And he was innocent; the agent found a document containing the last words of Prince Arthago.<sup>[[7]](#cite_note-DFMissing-7)</sup> The missive revealed that the doomed prince's own parents, disgusted at his fragile health and interest in scholarly pursuits, had him kidnapped and left to die in a forgotten dungeon, which he did.<sup>[[6]](#cite_note-DC-6)</sup> This revelation, while confirming Lhotun's worst fears about his brother's fate, did appear to put the young prince's mind at ease, at least for a time.<sup>[[9]](#cite_note-DFRumors-9)</sup><sup>[[10]](#cite_note-DFLhotun-10)</sup>
+
+### King of Sentinel
+Following the [Miracle of Peace](Lore_Miracle_of_Peace.md) in [3E 417](Lore_Third_Era.md#3E_417), Sentinel grew to encompass the entire northern coast of [Hammerfell](Lore_Hammerfell.md).<sup>[[1]](#cite_note-PGE3H-1)</sup> A few years later, a plague claimed the lives of Prince Greklith and Queen Akorithi,<sup>[[2]](#cite_note-NFOS-2)</sup> and the throne of the sprawling kingdom passed to King Lhotun.<sup>[[4]](#cite_note-TWITW-4)</sup> However, there was still unrest in Sentinel, a [Forebear](Lore_Forebear.md) kingdom, as most of the formerly independent lands that Sentinel now encompassed were [Crown](Lore_Crown.md) sympathizers.<sup>[[1]](#cite_note-PGE3H-1)</sup>
+
+As of [3E 432](Lore_Third_Era.md#3E_432), King Lhotun had overseen military, diplomatic, and religious missions to maintain the peace within the kingdom. As a compromise, Lhotun created what was considered by some a third party, the Lhotunic. This faction maintained a reverence for the Redguards' [Yokudan](Lore_Yokuda.md) past, but also held respect for the Imperial ways. Unsurprisingly, the moderate Lhotunics were reviled by Crown and Forebear kingdoms alike.<sup>[[1]](#cite_note-PGE3H-1)</sup>
+
+Queen Clavilla of Taneth (a Forebear land) tried unsuccessfully to revoke the charters of the independent guilds in Sentinel lands, claiming the accepted worship of [Satakal](Lore_Satakal.md) was grounds for heresy against the Empire. Ayaan-si, High Prophet of the Crown city of [Elinhir](Lore_Elinhir.md), incited the "True Crowns of the north" to rebel against Lhotun, and also financed several border skirmishes in [Bergama](Lore_Bergama.md) and [Dak'fron](Lore_Dak%27fron.md). These efforts were unsuccessful, save one significant development; [Totambu](Lore_Totambu.md) (named after the [Na-Totambu](Lore_Na-Totambu.md) of Yokuda, the progenitors of the Crowns) declared its independence from Sentinel. However, Sentinel still completely surrounded Totambu. Though the resistance held for a time, it isn't known how this incident was resolved.<sup>[[1]](#cite_note-PGE3H-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Lhotun).
+
+## Notes
+- King Lhotun is mentioned in the book *[Night Falls on Sentinel](Lore_Night_Falls_on_Sentinel.md)*, which tells the story of an agent of Sentinel sent by the king to exact vengeance upon Prince Arthago's kidnappers. While the historical accuracy of the narrative is not known, the book does serve to provide closure to [Lhotun's quest](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) in *[TES II: Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*.
+
+## References
+1. ^ <sup>***[a](#cite_ref-PGE3H_1-0)***</sup><sup>***[b](#cite_ref-PGE3H_1-1)***</sup><sup>***[c](#cite_ref-PGE3H_1-2)***</sup><sup>***[d](#cite_ref-PGE3H_1-3)***</sup><sup>***[e](#cite_ref-PGE3H_1-4)***</sup><sup>***[f](#cite_ref-PGE3H_1-5)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Ra Gada: Hammerfell*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Hammerfell) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+2. ^ <sup>***[a](#cite_ref-NFOS_2-0)***</sup><sup>***[b](#cite_ref-NFOS_2-1)***</sup><sup>***[c](#cite_ref-NFOS_2-2)***</sup> [*Night Falls on Sentinel*](Lore_Night_Falls_on_Sentinel.md) — [Boali](Lore_Books_by_Author.md#Boali)
+3. [^](#cite_ref-Daggerfall_3-0) Events of *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+4. ^ <sup>***[a](#cite_ref-TWITW_4-0)***</sup><sup>***[b](#cite_ref-TWITW_4-1)***</sup> [*The Warp in the West*](Lore_The_Warp_in_the_West.md) — [Ulvius Tero](Lore_Books_by_Author.md#Ulvius_Tero)
+5. [^](#cite_ref-DFCTree_5-0) *[The Daggerfall Chronicles](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles)* family tree
+6. ^ <sup>***[a](#cite_ref-DC_6-0)***</sup><sup>***[b](#cite_ref-DC_6-1)***</sup><sup>***[c](#cite_ref-DC_6-2)***</sup> [*Death Certificate*](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) — Prince Arthago
+7. ^ <sup>***[a](#cite_ref-DFMissing_7-0)***</sup><sup>***[b](#cite_ref-DFMissing_7-1)***</sup><sup>***[c](#cite_ref-DFMissing_7-2)***</sup> [The Missing Prince](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+8. [^](#cite_ref-FWOB_8-0) [*The War of Betony*](Lore_The_War_of_Betony_(Fav%27te).md) — [Fav'te](Lore_Books_by_Author.md#Fav.27te)
+9. ^ <sup>***[a](#cite_ref-DFRumors_9-0)***</sup><sup>***[b](#cite_ref-DFRumors_9-1)***</sup> [Rumors](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+10. ^ <sup>***[a](#cite_ref-DFLhotun_10-0)***</sup><sup>***[b](#cite_ref-DFLhotun_10-1)***</sup> [Prince Lhotun's dialogue](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

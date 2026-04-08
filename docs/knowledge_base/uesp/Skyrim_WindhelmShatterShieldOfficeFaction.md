@@ -1,0 +1,3 @@
+# WindhelmShatterShieldOfficeFaction
+
+Redirects to [WindhelmShatterShieldOfficeFaction](Skyrim_Factions_W.md#WindhelmShatterShieldOfficeFaction).

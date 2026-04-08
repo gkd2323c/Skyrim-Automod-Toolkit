@@ -1,0 +1,21 @@
+# Gorge
+
+| The Gorge | |
+| --- | --- |
+| Type | Plane |
+| Realm | [Oblivion](Lore_Oblivion.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:The_Gorge_(place)) |
+
+[![](https://images.uesp.net/thumb/a/ac/ON-place-The_Gorge_%28The_Insatiable%29.jpg/200px-ON-place-The_Gorge_%28The_Insatiable%29.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Gorge_(The_Insatiable).jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Gorge_(The_Insatiable).jpg) The Insatiable's lair in the Gorge The Gorge is a thin, vestigial realm of [Oblivion](Lore_Oblivion.md) which acts as a divide between the realms of [Boethiah](Lore_Boethiah.md) and [Clavicus Vile](Lore_Clavicus_Vile.md). It is a realm where need and hunger are one, described as a pit of famine and desperation where brutal [Daedra](Lore_Daedra.md) spend eternity devouring anything they can, even each other, to feed a boundless hunger that will never be satiated. Pinnacle among them is [the Insatiable](Lore_The_Insatiable_(creature).md), a [Hunger](Lore_Hunger.md) of great cunning and power.<sup>[[1]](#cite_note-TG-1)</sup>
+
+The Gorge clings to the skin of [Mundus](Lore_Mundus.md), gnawing in futility to break through.<sup>[[1]](#cite_note-TG-1)</sup> As such, it resembles a horrifying mirror image of [Nirn](Lore_Nirn.md), almost identical save for the fleshy growths and Daedric beasts. It is known to be home to hungers, [scamps](Lore_Scamp.md), [ogrim](Lore_Ogrim.md), [daedrats](Lore_Daedrat.md), [fiendroths](Lore_Fiendroth.md), red [torchbugs](Lore_Torchbug.md), and [watchers](Lore_Watcher.md).<sup>[[2]](#cite_note-2)</sup>
+
+The Insatiable can be summoned to Nirn through Daedric ritual.<sup>[[3]](#cite_note-3)</sup> Once summoned, it will tirelessly feast on life, using the essence it devours to slip freely between the Gorge and Nirn in order to ambush its prey. Mortal sorcerers willing to brave the horrors of the Gorge can similarly move between these realms by creating an anchor using their own vital essence at a place where the barrier between Nirn and Oblivion is thinnest. When complete, the anchor will allow permanent passage between the realms until the sigils are snuffed out. This ability can act as a powerful means of passing undetected in the mortal world.<sup>[[1]](#cite_note-TG-1)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), the [Court of Bedlam](Lore_Court_of_Bedlam.md) ordered a cultist named Teraniel to strike a deal with the Insatiable. She created an anchor to the realm using an ancient [Aldmeri](Lore_Aldmer.md) altar in the ruined Vaults of Heinarwe on [Summerset Isle](Lore_Summerset_Isle.md), and subsequently summoned the Insatiable to the nearby Cey-Tarn Keep in order to occupy the keep's defenders. The hunger began to hunt and devour the occupants, forcing the [Divine Prosecution](Lore_Divine_Prosecution.md) to seal the keep and begin an investigation. Little progress was made until Silurie, an ex-member of the Divine Prosecution, arrived at the keep and used [Stendarran](Lore_Stendarr.md) magic she learned in [Chorrol](Lore_Chorrol.md) to track down the Daedra. Together with [the Vestige](Lore_The_Vestige.md) and members of the Divine Prosecution, Silurie entered the Gorge and tracked the Insatiable to its lair. It was swiftly banished, although part of the group became trapped within the realm and were captured by Teraniel, who planned to sacrifice them in order to restore the Insatiable. However, the Vestige located Teraniel's anchor and used it to reenter the Gorge to kill Teraniel and rescue the trapped group members.<sup>[[4]](#cite_note-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TG_1-0)***</sup><sup>***[b](#cite_ref-TG_1-1)***</sup><sup>***[c](#cite_ref-TG_1-2)***</sup> [*The Gorge*](https://en.uesp.net/wiki/Online:The_Gorge)
+2. [^](#cite_ref-2) Appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [*The Insatiable*](Lore_The_Insatiable.md)
+4. [^](#cite_ref-4) [The Taste of Fear](https://en.uesp.net/wiki/Online:The_Taste_of_Fear) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

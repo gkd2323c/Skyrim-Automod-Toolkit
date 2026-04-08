@@ -1,0 +1,8 @@
+# Pocket Cabal
+
+The Pocket Cabal was one of the eight [monster children](Lore_Monster_Children.md) from the unholy union of [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md), who initially escaped being slain.<sup>[[1]](#cite_note-LOV12-1)</sup><sup>[[2]](#cite_note-LOV18-2)</sup><sup>[[3]](#cite_note-LOV26-3)</sup> It is said to have hidden itself in the spell-lists of the great [Chimeri](Lore_Chimer.md) wizards of the [extreme east](Lore_Telvanni_Peninsula.md), which later became the [House Telvanni](Lore_House_Telvanni.md). Vivec ventured to slay the monster, but the tenuous sense-fabric he wore drew out a giant bug. Inside the insect was the most powerful eastern wizard, who scolded Vivec for creating the monster. In retaliation, Vivec stabbed the wizard through his soul. The monster was eventually destroyed by Vivec, who contained it in a dome-head demon. [Sotha Sil](Lore_Sotha_Sil.md) was fascinated by the creature and asked Vivec if he may treasure it. Vivec gifted them it but warned Seht never to release it into the middle world.<sup>[[3]](#cite_note-LOV26-3)</sup>
+
+## References
+1. [^](#cite_ref-LOV12_1-0) [*36 Lessons of Vivec, Sermon 12*](Lore_36_Lessons_of_Vivec,_Sermon_12.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-LOV18_2-0) [*36 Lessons of Vivec, Sermon 18*](Lore_36_Lessons_of_Vivec,_Sermon_18.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+3. ^ <sup>***[a](#cite_ref-LOV26_3-0)***</sup><sup>***[b](#cite_ref-LOV26_3-1)***</sup> [*36 Lessons of Vivec, Sermon 26*](Lore_36_Lessons_of_Vivec,_Sermon_26.md) — [Vivec](Lore_Books_by_Author.md#Vivec)

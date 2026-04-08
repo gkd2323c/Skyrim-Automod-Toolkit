@@ -1,0 +1,51 @@
+# Fire and Darkness
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book7a.png) Book Information <br> *Fire and Darkness* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01AFDA | | |
+| See Also | [Lore version](Lore_Fire_and_Darkness.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 50 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [One-handed](Skyrim_One-handed.md) | | |
+| Locations | | | |
+| Found in the following locations: - [Dawnstar Sanctuary](Skyrim_Dawnstar_Sanctuary.md), basement <br> - [Folgunthur](Skyrim_Folgunthur.md) ([Hjaalmarch](Skyrim_Hjaalmarch.md)), lower level <br> - 480 ft ENE of [Moss Mother Cavern](https://en.uesp.net/wiki/Skyrim:Moss_Mother_Cavern) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)) [(map)](https://gamemap.uesp.net/sr/?x=-46732&y=-46678&zoom=17&legacy=true) <br> - [The Ratway Warrens](https://en.uesp.net/wiki/Skyrim:The_Ratway_Warrens) ([Riften](Skyrim_Riften.md)), in Esbern's room <br> - 320 ft SW of [Wreck of The Pride of Tel Vos](Skyrim_Wreck_of_The_Pride_of_Tel_Vos.md) ([Winterhold](Skyrim_Winterhold_(region).md)) [(map)](https://gamemap.uesp.net/sr/?x=132892&y=102500&zoom=17&legacy=true) <br> - [Apocrypha](Skyrim_Apocrypha.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Epistolary Acumen](Skyrim_Apocrypha_(Epistolary_Acumen).md#Chapter_III), Chapter III | | | |
+
+Fire and Darkness **by [Ynir Gorming](Lore_Books_by_Author.md#Ynir_Gorming)** *The history of the Morag Tong assassin guild*
+---
+"Brother, I still call you brother for we share our bonds of blood, tested but unbroken by hatred. Even if I am murdered, which seems inevitable now, know that, brother. You and I are not innocents, so our benedictions of mutual enmity is not tragedy, but horror. This state of silent, shadowed war, of secret poisons and sleeping men strangled in their beds, of the sudden arrow and the artful dagger, has no end that I can see. No possibility for peace. I see the shadows in the room move though the flame of my candle is steady. I know the signs that I …"
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+his note was found where it had fallen beneath the floorboards of an abandoned house in the [Nordic](Skyrim_Nord.md) village of [Jallenheim](Lore_Jallenheim.md) in the [358 th](Lore_Second_Era.md#2E_358) year of the [second era](Lore_Second_Era.md). It was said that a quiet cobbler lived in the house, whispered by some to be a member of the dread [Morag Tong](Skyrim_Morag_Tong.md), the assassin's guild outlawed throughout [Tamriel](Lore_Tamriel.md) thirty-four years previously. The house itself was perfectly in order, as if the cobbler had simply vanished. There was a single drop of blood on the note.
+
+The [Dark Brotherhood](Skyrim_Dark_Brotherhood.md) had paid a call.
+
+This note and others like it are rare. Both the Morag Tong and its hated child, the Dark Brotherhood, are scrupulous about leaving no evidence behind - their members know that to divulge secrets of their orders is a lethal infraction. This obviously makes the job of the historian seeking to trace their histories very difficult.
+
+The Morag Tong, according to most scholars, had been a facet of the culture of [Morrowind](Lore_Morrowind.md) almost since its beginning. After all, the history of Resdayn, the ancient name of Morrowind, is rife with assassination, blood sacrifice, and religious zealotry, hallmarks of the order. It is commonly said that the Morag Tong then as now murdered for the glory of the [Daedra Prince](Lore_Daedric_Princes.md) [Mephala](Lore_Mephala.md), but common assumptions are rarely completely accurate. It is my contention that the earliest form of the Tong additionally worshipped an even older and more malevolent deity than Mephala. As terrifying as that Prince of [Oblivion](Lore_Oblivion.md) is, they had and have reverence for a far greater evil.
+
+Writs of assassination from the first era offer rare glimpses into the Morag Tong's earliest philosophy. They are as matter of fact as current day writs, but many contain snatches of poetry which have perplexed our scholars for hundreds of years. "Lisping sibilant hisses,' 'Ether's sweet sway,' 'Rancid kiss of passing sin,' and other strange, almost insane insertions into the writs were codes for the name of the person to be assassinated, his or her location, and the time at which death was to come. They were also direct references to the divine spirit called Sithis.
+
+Evidence of the Morag Tong's expertise in assassination seems scarcely necessary. The few instances of someone escaping a murder attempt by them are always remarkable and rare, proving that they were and are patient, capable murderers who use their tools well. A fragment of a letter found among the effects of a well-known armorer has been sealed in our vaults for some time. It was likely penned by an unknown Tong assassin ordering weapons for his order, and offers some illumination into what they looked for in their blades, as well the mention of [Vounoura](Lore_Vounoura.md), the island where the Tong sent its agents in retirement --
+
+'I congratulate you on your artistry, and the balance and heft of your daggers. The knife blade is whisper thin, elegantly wrought, but inpractical *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. It must have a bolder edge, for arteries, when cut, have a tendencies to self seal, preventing adequate blood loss. I will be leaving Vounoura in two weeks time to inspect your new tools, hoping they will be more satisfactory.'
+
+The Morag Tong spread quietly throughout Tamriel in the early years of the second era, worshipping Mephala and [Sithis](Lore_Sithis.md) with blood, as they had always done.
+
+When the Morag Tong assassinated the Emperor [Reman](Lore_Reman_III.md) in the year [2920](Lore_First_Era.md#1E_2920) of the first era, and his successor, Potentate Versidae-Shae *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* in the [324 th](Lore_Second_Era.md#2E_324) year of the second era, the assassins so long in the shadows were suddenly thrust into the light. They had become brazen, drunk with murder, literally painting the words 'MORAG TONG' on the wall in the Potentate's blood.
+
+The Morag Tong was instantly and unanimously outlawed in all corners of Tamriel, with the exception of its home province of Morrowind. There they continued to operate with the blessings of the Houses, apparently cutting off all contact with their satellite brothers to the west. There they continue their quasi-legal existence, accepting black writs and murdering with impunity.
+
+Most scholars believe that the birth of the Dark Brotherhood, the secular, murder-for- profit order of assassins, was as a result of a religious schism in the Morag Tong. Given the secrecy of both cults, it is difficult to divine the exact nature of it, but certain logical assumptions can be made.
+
+In order to exist, the Morag Tong must have appealed to the highest power in Morrowind, which at that time, the Second Era, could only have been the [Tribunal](Lore_Tribunal.md) of [Almalexia](Lore_Almalexia.md), [Sotha Sil](Lore_Sotha_Sil.md), and [Vivec](Lore_Vivec.md). Mephala, whom the Tong worshipped with Sithis, was said to have been the Anticipation of Vivec. Is it not logical to assume that in exchange for toleration of their continued existence, the Tong would have ceased their worship of Mephala in exchange for the worship of Vivec?
+
+The Morag Tong continues, as we know, to worship Sithis. The Dark Brotherhood is not considered a religious order by most, merely a secular organization, offering murder for gold. I have seen, however, proof positive in the form of writs to the Brotherhood that Sithis is still revered above all.
+
+So where, the reader, asks, is the cause for the schism? How could a silent war have begun, when both groups are so close? Both assassin's guilds, after all, worship Sithis. And yet, a figure emerges from history who should give those with this assumption pause.
+
+The [Night Mother](Skyrim_Night_Mother.md).
+
+Who the Night Mother is, where she came from, what her functions are, no one knows. [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway) in his generally well-researched historical fiction [2920: The Last Year of the First Era](https://en.uesp.net/wiki/Skyrim:2920,_The_Last_Year_of_the_First_Era) tries to make her the leader of the Morag Tong. But she is never historically associated with the Tong, only the Dark Brotherhood.
+
+The Night Mother, my dear friend, is Mephala. The Dark Brotherhood of the west, unfettered by the orders of the Tribunal, continue to worship Mephala. They may not call her by her name, but the daedra of murder, sex, and secrets is their leader still. And they did not, and still do not, to this day, forgive their brethren for casting her aside.
+
+The cobbler who met his end in the second era, who saw no end in the war between the Brotherhood and the Tong, was correct. In the shadows of the Empire, the Brothers of Death remain locked in combat, and they will likely remain that way forever.

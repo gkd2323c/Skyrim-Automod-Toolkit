@@ -1,0 +1,7 @@
+# Unraveling Palimpsest
+
+The Unraveling Palimpsest was an [arcane](Lore_Magic.md) tome of [Apocrypha](Lore_Apocrypha.md) the contents of which transform depending on the reader, taking a form unique to each. In actuality a manifest supernatural phenomenon created in response to the endless seas of knowledge within Apocrypha, the tome allows its reader to learn any secret as long as it pertains to their own life and [fate](Lore_Fate.md), in essence "unraveling" the secrets of their fateline. In [2E 582](Lore_Second_Era.md#2E_582) [Azandar-al-Cybiades](Lore_Azandar_al-Cybiades.md) delved into Quires Wind, a facility in Apocrypha where the tome was stored, and used it to discern which defining moments of his life anchored the Adversary, a frayed fate intent on absorbing its alternate fates and replacing its originator, to him.<sup>[[1]](#cite_note-Azandar-1)</sup><sup>[[2]](#cite_note-Tempting Fates-2)</sup>
+
+## References
+1. [^](#cite_ref-Azandar_1-0) [Azandar-al-Cybiade](https://en.uesp.net/wiki/Online:Azandar_al-Cybiades)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Tempting Fates_2-0) Events of [Tempting Fates](https://en.uesp.net/wiki/Online:Tempting_Fates) in [ESO](https://en.uesp.net/wiki/Online:Online)

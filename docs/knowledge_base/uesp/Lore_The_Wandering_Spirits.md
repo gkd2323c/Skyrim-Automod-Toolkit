@@ -1,0 +1,20 @@
+# The Wandering Spirits
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Writer | [Andrew Young](https://en.uesp.net/wiki/General:Andrew_Young) | | |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Wandering_Spirits) ([Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)) | | |
+| Up | *[Spirits of Amun-dro](Lore_Spirits_of_Amun-dro.md)* | | |
+| Prev. | *[The Worldly Spirits](Lore_The_Worldly_Spirits.md)* | Next | *[The Adversarial Spirits](Lore_The_Adversarial_Spirits.md)* |
+
+[Spirits of Amun-dro](Lore_Spirits_of_Amun-dro.md): The Wandering Spirits **by [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest** *A pre-ri'Datta text listing old gods*
+---
+[Akha](Lore_Akha.md). The First Cat, whom we know as the Pathfinder and the One Unmourned. In the earliest days, when [Ahnurr](Lore_Ahnurr.md) and [Fadomai](Lore_Fadomai.md) were still in love, he explored the [heavens](Lore_Aetherius.md) and his trails became the Many Paths. He was Ahnurr's Favored Son, and his father told him to find love like Ahnurr found with Fadomai. Akha mated with the [Winged Serpent of the](Lore_Winged_Serpent_of_the_East.md) [East](Lore_Akavir.md), the [Dune Queen of the](Lore_Dune_Queen_of_the_West.md) [West](Lore_Yokuda.md), and the [Mother Mammoth of the](Lore_Mother_Mammoth_of_the_North.md) [North](Lore_Atmora.md). He then went to the [South](Lore_Aldmeris.md) and never returned. Instead, Alkosh appeared speaking warnings of the things Akha had made along the Many Paths. Since then, Alkosh and his faithful watch over the many children of Akha, for they are both terrible and kind.
+
+[Alkosh](Lore_Alkosh.md). The [Dragon](Lore_Dragon.md) King. The Highmane. He was granted rule over the myriad kingdoms of Akha along the Many Paths. In time, the children of Akha overthrew him and scattered his body on the West Wind. It is said that when [Khenarthi](Lore_Khenarthi.md) learned this, she flew across the Many Paths and put Alkosh back together. In doing so, she saw all the things Akha had wrought, including those that should not be. Now, Alkosh and Khenarthi safeguard the Many Paths from the wayward children of Akha. Pray to Alkosh not for his strength or his mighty roar, but for his sense of duty and purpose.
+
+[Alkhan](Lore_Alduin.md). The Scaled Prince. Firstborn of Akha, who bred with a [demon of fire and shadow](Lore_Demon_of_Fire_and_Shadow.md). He can devour the [souls](Lore_Souls.md) of those he kills to grow to an immense size. The songs tell us Alkhan was slain by [Lorkhaj](Lore_Lorkhaj.md) and his companions, but as an immortal Son of Akha he will return from the Many Paths in time. He is the enemy of Alkosh, Khenarthi, and Lorkhaj, and ever hungers for his crown.
+
+[Boethra](Lore_Boethra.md). The Warrior of the East and West. She is the mate of [Mafala](Lore_Mafala.md), who did not forget her love for Boethra after Ahnurr sent her into exile for her rebellious nature. Boethra walked the Many Paths in exile, and she returned. It was she who pried the eye from [Magrus](Lore_Magrus.md), and this is why [Khajiit](Lore_Khajiit.md) value swords as well as claws. There is no need for a True Cat to pray to Boethra, as you honor this spirit merely by walking the Path, and only hiding in order to pounce. It is forbidden to say her name on nights of the [Ghost Moon](Lore_Ghost_Moon.md), as during these phases Boethra dons the [death](Lore_Ebony.md) - [shroud](Lore_Ebony_Mail.md) of Lorkhaj and wages war beyond the [Lattice](Lore_Lunar_Lattice.md).
+
+[Mafala](Lore_Mafala.md). The Teaching Mother. Elder Spirit and the Keeper of the Ancient Secrets of Fadomai. These were the secrets her children only needed in the beginning, and it was Mafala that carried them down. She watches over Eight of the Many Paths, each of which a Khajiit must walk in time. Mafala aids the Clan Mothers in guiding the Khajiiti people along the Path and protecting our secrets from Others. She is an ally of [Azurah](Lore_Azurah.md), Boethra, and Lorkhaj. Her numbers are Eight and Sixteen, and these are two of her keys.

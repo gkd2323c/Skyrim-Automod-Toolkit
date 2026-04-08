@@ -1,0 +1,23 @@
+# Bloodmist Clan
+
+[![](https://images.uesp.net/thumb/e/e8/ON-npc-Otholug_gro-Goldfolly.jpg/200px-ON-npc-Otholug_gro-Goldfolly.jpg)](https://en.uesp.net/wiki/File:ON-npc-Otholug_gro-Goldfolly.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Otholug_gro-Goldfolly.jpg) Otholug gro-Goldfolly *We are no longer pariahs, but the blessed children of Molag Bal*
+—A Bloodmist Clansman<sup>[[1]](#cite_note-BVD-1)</sup> The Bloodmist Clan was a [vampiric](Lore_Vampire.md) [Orc](Lore_Orc.md) clan that lived in the Bloodworks Drainage of the Imperial Sewers beneath the [Imperial City](Lore_Imperial_City.md) in the year [2E 582](Lore_Second_Era.md#2E_582), during the [Planemeld Obverse](Lore_Planemeld_Obverse.md).<sup>[[1]](#cite_note-BVD-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/04/ON-place-Bloodmist_Slaughterhouse.jpg/200px-ON-place-Bloodmist_Slaughterhouse.jpg)](https://en.uesp.net/wiki/File:ON-place-Bloodmist_Slaughterhouse.jpg) [](https://en.uesp.net/wiki/File:ON-place-Bloodmist_Slaughterhouse.jpg) Bloodmist Slaughterhouse within the Bloodworks The exact history of the Bloodmist Clan is unclear, but their leader, Otholug gro-Goldfolly, originated from [Goldfolly](Lore_Goldfolly.md),<sup>[[2]](#cite_note-OGG-2)</sup> a ruined [Wood Orc](Lore_Wood_Orc.md) stronghold in [Grahtwood](Lore_Grahtwood.md), within the province of [Valenwood](Lore_Valenwood.md).<sup>[[3]](#cite_note-FP-3)</sup><sup>[[4]](#cite_note-G-4)</sup> During the [Interregnum](Lore_Interregnum.md) in 2E 582, Goldfolly was still an active Wood Orc settlement, but a significant transformation had occurred. One fateful day, the [Altmer](Lore_Altmer.md) vampire Lenendore arrived and turned many of the Wood Orcs into mindless, [Bloodfiends](Lore_Bloodfiend.md).<sup>[[5]](#cite_note-BH-5)</sup> The townsfolk found themselves trapped in a grim fate, unable to escape or survive, yet unwilling to give up.<sup>[[6]](#cite_note-LTP-6)</sup> While the exact connection between the vampires of the Goldfolly and the Bloodmist Clan of the Imperial City is unclear, it is noted that they did not associate with the [Wrothgarian Orcs](Lore_Wrothgarian_Orcs.md) and [City-Orcs](Lore_City-Orcs.md) of the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md).<sup>[[1]](#cite_note-BVD-1)</sup>
+
+During the Planemeld Obverse of the same year, the Bloodmist Clan was found preying on both the living and the [Daedra](Lore_Daedra.md), such as [daedrats](Lore_Daedrat.md) within the Imperial City sewers, led by Otholug gro-Goldfolly. They began to venerate [Molag Bal](Lore_Molag_Bal.md), although some clan members still honored [Malacath](Lore_Malacath.md). However, many believed they no longer needed Malacath's guidance, choosing to follow Molag Bal exclusively. They answered to Otholug without question, fully committed to their new path. They were known for their unique training, which centered around mastering the ways of the Blood Mist. Some vowed to forgo marriage, dedicating themselves solely to the Bloodmist Master. Some members questioned how much longer they had to hunt, feeling they were already deserving of rewards for their efforts.<sup>[[1]](#cite_note-BVD-1)</sup><sup>[[2]](#cite_note-OGG-2)</sup>
+
+## Known Chieftains
+- Otholug gro-Goldfolly *(ca. [2E 582](Lore_Second_Era.md#2E_582))*<sup>[[1]](#cite_note-BVD-1)</sup><sup>[[2]](#cite_note-OGG-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Bloodmist_Clan) [](https://en.uesp.net/wiki/Online:Imperial_City_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-BVD_1-0)***</sup><sup>***[b](#cite_ref-BVD_1-1)***</sup><sup>***[c](#cite_ref-BVD_1-2)***</sup><sup>***[d](#cite_ref-BVD_1-3)***</sup><sup>***[e](#cite_ref-BVD_1-4)***</sup> [Bloodworks Vampire](https://en.uesp.net/wiki/Online:Bloodworks_Vampire_Dialogue)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+2. ^ <sup>***[a](#cite_ref-OGG_2-0)***</sup><sup>***[b](#cite_ref-OGG_2-1)***</sup><sup>***[c](#cite_ref-OGG_2-2)***</sup> [Otholug gro-Goldfolly](https://en.uesp.net/wiki/Online:Otholug_gro-Goldfolly)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+3. [^](#cite_ref-FP_3-0) [*Faltonia's Promise*](Lore_Faltonia%27s_Promise.md)
+4. [^](#cite_ref-G_4-0) [Goldfolly](https://en.uesp.net/wiki/Online:Goldfolly) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-BH_5-0) Events of [Blood Hunt](https://en.uesp.net/wiki/Online:Blood_Hunt) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-LTP_6-0) [*Leave This Place*](https://en.uesp.net/wiki/Online:Leave_This_Place)

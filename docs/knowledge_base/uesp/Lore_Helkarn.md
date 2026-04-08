@@ -1,0 +1,35 @@
+# Helkarn
+
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Elsweyr](Lore_Elsweyr.md) |
+| Region | [Anequina](Lore_Anequina.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Helkarn_Land) |
+
+[![](https://images.uesp.net/thumb/1/17/AR-place-Helkarn_Land.jpg/200px-AR-place-Helkarn_Land.jpg)](https://en.uesp.net/wiki/File:AR-place-Helkarn_Land.jpg) [](https://en.uesp.net/wiki/File:AR-place-Helkarn_Land.jpg) Helkarn Land (Arena) Helkarn (also called **Helkarn Land**)<sup>[[1]](#cite_note-AR-1)</sup> is a settlement located on the edge of [Anequina](Lore_Anequina.md), in the province of [Elsweyr](Lore_Elsweyr.md). Though now it is a simple village located in the heart of Elsweyr,<sup>[[2]](#cite_note-ONWolf-2)</sup> it was originally one of the [sixteen kingdoms](https://en.uesp.net/wiki/Lore:Sixteen_Kingdoms), known for its expert [shepherds](https://en.uesp.net/wiki/Lore:Sheep) and herders.<sup>[[3]](#cite_note-TSK-3)</sup> Its people bred the [Helkarn Wolf](https://en.uesp.net/wiki/Lore:Helkarn_Wolf), which is considered by some to be the province's finest wolf mount.<sup>[[2]](#cite_note-ONWolf-2)</sup><sup>[[4]](#cite_note-ONBarded-4)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/6/63/ON-furnishing-Helkarn_Wolf.jpg/200px-ON-furnishing-Helkarn_Wolf.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Helkarn_Wolf.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Helkarn_Wolf.jpg) The Helkarn Wolf Helkarn and the sixteen kingdoms started as nomadic clans under the dominion of the [Moon-Emperor](https://en.uesp.net/wiki/Lore:Moon-Emperor) and stood out for being masters at a particular trade or skill. How the original [Khajiit](Lore_Khajiit.md) clan of Helkarn earned its name is told in the lullaby called *Hasa Zha'ja*. These clans, over time, fell into their roles and limited geographies where their kingdoms were henceforth established. The poem, *Zhan Zhab* describes Helkarn and the other kingdoms' transition from clanholds to nations.<sup>[[5]](#cite_note-AAPAI-5)</sup> In the [Merethic Era](Lore_Merethic_Era.md), the kingdoms were rivaling fiefdoms ruled by a hunter aristocracy. In northern Elsweyr, the lands were in constant famine and drought, while the hunt-lords constantly feuded and organized large-scale drafts of their peasantry.<sup>[[6]](#cite_note-OOTKMT-6)</sup>
+
+The [Temples of Two-Moons Dance](https://en.uesp.net/wiki/Lore:Temple_of_Two-Moons_Dance) were the only ones to keep them in check, but in time, they were harshly suppressed, and the northern hunt-lords imposed a weapon confiscation policy to undermine any potential retaliation. As the temple adepts and clergy secluded themselves and meditated inward, the hunt-lords continued their petty conflicts at the expense of the lower class. Their reign came to an end in the late days of the [Merethic Era](Lore_Merethic_Era.md), when Helkarn and [Meirvale](Lore_Meirvale.md) clashed in war and drafted thousands of peasants. This brought about one of the worst famines in Elsweyr's history. After three years of conflict, their armies turned on their hunt-lords and used their new martial knowledge, the modern-day [claw-dances](Lore_Claw-Dances.md) to overthrow them. In time, other northern kingdoms followed suit, and the hunt-lords' thousand-year reigns were over as a new form of royalty replaced it.<sup>[[6]](#cite_note-OOTKMT-6)</sup>
+
+One of Rajhin's shadows claimed that little [gold](Lore_Gold_(currency).md) could have been made in Helkarn and that its people did not take kindly to thieves like him.<sup>[[7]](#cite_note-ONRajhin-7)</sup> The Kingdom of Helkarn continued for many years until the [Thrassian Plague](Lore_Thrassian_Plague.md) in [1E 2200](Lore_First_Era.md#1E_2200) came and destroyed the sixteen kingdoms of Elsweyr. Because of the countless deaths, the kingdoms were forced to merge into one of two states. Helkarn and the northern kingdoms formed into the present-day Kingdom of Anequina and resumed their tribal customs while the south became [Pellitine](Lore_Pellitine.md) and took inspiration from foreign cultures.<sup>[[5]](#cite_note-AAPAI-5)</sup>
+
+Helkarn continued to live on as a village in the heart of Elsweyr. The Helkarn Wolf, in modern times, is lauded as a quality mount. They are known for their gentle and trusting natures. When the people of Helkarn realized that they made terrible watchdogs, they bred them into mounts.<sup>[[2]](#cite_note-ONWolf-2)</sup> During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the village of Helkarn Land was an active settlement. It was ruled by Lord Fa'gh and had a rivalry with Neumar Walk.<sup>[[1]](#cite_note-AR-1)</sup> Helkarn Land is neighbored by several settlements, such as [Corinth](https://en.uesp.net/wiki/Lore:Corinth) to the south and Greenhall to the north.<sup>[[8]](#cite_note-ARMap-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/b5/ON-crown_store-Helkarn_Wolf_Pup.jpg/200px-ON-crown_store-Helkarn_Wolf_Pup.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Helkarn_Wolf_Pup.jpg) The Helkarn Wolf Pup
+
+## See Also
+- For game-specific information, see the [*Arena* article](https://en.uesp.net/wiki/Arena:Helkarn_Land).
+
+## References
+1. ^ <sup>***[a](#cite_ref-AR_1-0)***</sup><sup>***[b](#cite_ref-AR_1-1)***</sup> [Helkarn Land](https://en.uesp.net/wiki/Arena:Helkarn_Land) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. ^ <sup>***[a](#cite_ref-ONWolf_2-0)***</sup><sup>***[b](#cite_ref-ONWolf_2-1)***</sup><sup>***[c](#cite_ref-ONWolf_2-2)***</sup> [Helkarn Wolf](https://en.uesp.net/wiki/Online:Helkarn_Wolf) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TSK_3-0) [*The Sixteen Kingdoms*](https://en.uesp.net/wiki/Lore:The_Sixteen_Kingdoms)
+4. [^](#cite_ref-ONBarded_4-0) [Dragonscale Barded Wolf](https://en.uesp.net/wiki/Online:Dragonscale_Barded_Wolf) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-AAPAI_5-0)***</sup><sup>***[b](#cite_ref-AAPAI_5-1)***</sup> [*Anequina and Pellitine: An Introduction*](https://en.uesp.net/wiki/Lore:Anequina_and_Pellitine__An_Introduction) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+6. ^ <sup>***[a](#cite_ref-OOTKMT_6-0)***</sup><sup>***[b](#cite_ref-OOTKMT_6-1)***</sup> [*Origins of the Khajiiti Martial Tradition*](https://en.uesp.net/wiki/Lore:Origins_of_the_Khajiiti_Martial_Tradition) — [Tendwuayne](Lore_Books_by_Author.md#Tendwuayne), Sapiarch of Foreign Customs
+7. [^](#cite_ref-ONRajhin_7-0) [Rajhin's Shadow](Online_Rajhin%27s_Shadow_(Northern_Elsweyr).md)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+8. [^](#cite_ref-ARMap_8-0) [Map of Elsweyr – The Elder Scrolls: Arena](https://en.uesp.net/wiki/File:AR-map-Elsweyr_towns.png)

@@ -1,0 +1,44 @@
+# Chaurus Hunter Antennae
+
+| [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Chaurus_Hunter_Antennae.png) Chaurus Hunter Antennae <br> [xx](Skyrim_Form_ID.md) 0183b7 | | | |
+| --- | --- | --- | --- |
+| Added by | [Dawnguard](Skyrim_Dawnguard.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 2 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0.1 |
+| [Alchemy Effects](Skyrim_Alchemy_Effects.md) | | | |
+| 1st | [](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md) | | |
+| 2nd | [](Skyrim_Fortify_Conjuration.md) [Fortify Conjuration](Skyrim_Fortify_Conjuration.md) | | |
+| 3rd | [](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md) | | |
+| 4th | [](Skyrim_Fortify_Enchanting.md) [Fortify Enchanting](Skyrim_Fortify_Enchanting.md) | | |
+| Sources | | | |
+| # Samples | 0 | | |
+| Creature | [Chaurus Hunter](Skyrim_Chaurus_Hunter.md) | | |
+| Merchant Avail. | None | | |
+
+[![](https://images.uesp.net/thumb/1/10/SR-ingredient-Chaurus_Hunter.jpg/200px-SR-ingredient-Chaurus_Hunter.jpg)](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Hunter.jpg) [](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Hunter.jpg) A Chaurus Hunter **Chaurus Hunter Antennae** are an alchemy ingredient dropped by [chaurus hunters](Skyrim_Chaurus_Hunter.md) and [chaurus hunter fledglings](Skyrim_Chaurus_Hunter_Fledgling.md), along with 1 [chaurus chitin](Skyrim_Chaurus_Chitin.md), a 25% chance of 1 [chaurus egg](Skyrim_Chaurus_Eggs.md) sample, and minor loot. There are no guaranteed samples of antennae, however they can be looted at almost any location featuring the [Falmer](Skyrim_Falmer.md) and their chaurus pets.
+
+## Combinations
+In terms of combinations of two ingredients, Chaurus Hunter Antennae can be combined with 41 other ingredients.
+
+### 4 Effects
+| Desired Effect | Combine with: | | | |
+| --- | --- | --- | --- | --- |
+| **[](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md)** | **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | **[](Skyrim_Fortify_Conjuration.md) [Fortify Conjuration](Skyrim_Fortify_Conjuration.md)** | **[](Skyrim_Fortify_Enchanting.md) [Fortify Enchanting](Skyrim_Fortify_Enchanting.md)** | [Ancestor Moth Wing](Skyrim_Ancestor_Moth_Wing.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, [Blue Butterfly Wing](Skyrim_Blue_Butterfly_Wing.md) |
+
+### 2 Effects
+| Desired Effect | Combine with: | |
+| --- | --- | --- |
+| **[](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md)** | **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | [Spider Egg](https://en.uesp.net/wiki/Skyrim:Spider_Egg) |
+| **[](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md)** | **[](Skyrim_Fortify_Conjuration.md) [Fortify Conjuration](Skyrim_Fortify_Conjuration.md)** | [Blue Mountain Flower](Skyrim_Blue_Mountain_Flower.md) |
+| **[](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md)** | **[](Skyrim_Fortify_Enchanting.md) [Fortify Enchanting](Skyrim_Fortify_Enchanting.md)** | [Spriggan Sap](https://en.uesp.net/wiki/Skyrim:Spriggan_Sap) |
+| **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | **[](Skyrim_Fortify_Conjuration.md) [Fortify Conjuration](Skyrim_Fortify_Conjuration.md)** | [Berit's Ashes](Skyrim_Berit%27s_Ashes.md), [Bone Meal](Skyrim_Bone_Meal.md) |
+
+### 1 Effect
+| Desired Effect | Combine with: |
+| --- | --- |
+| **[](Skyrim_Damage_Stamina.md) [Damage Stamina](Skyrim_Damage_Stamina.md)** | [Ash Creep Cluster](Skyrim_Ash_Creep_Cluster.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Blisterwort](Skyrim_Blisterwort.md), [Bog Beacon](Skyrim_Bog_Beacon.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Canis Root](Skyrim_Canis_Root.md), [Comberry](Skyrim_Comberry.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Crimson Nirnroot](Skyrim_Crimson_Nirnroot.md) (**3.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Cyrodilic Spadetail](Skyrim_Cyrodilic_Spadetail.md), [Giant's Toe](Skyrim_Giant%27s_Toe.md), [Jarrin Root](Skyrim_Jarrin_Root.md), [Marshmerrow](https://en.uesp.net/wiki/Skyrim:Marshmerrow)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.33** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.36** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Nirnroot](https://en.uesp.net/wiki/Skyrim:Nirnroot), [Rock Warbler Egg](https://en.uesp.net/wiki/Skyrim:Rock_Warbler_Egg) |
+| **[](Skyrim_Fortify_Conjuration.md) [Fortify Conjuration](Skyrim_Fortify_Conjuration.md)** | [Congealed Putrescence](Skyrim_Congealed_Putrescence.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.22** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Frost Salts](Skyrim_Frost_Salts.md), [Hagraven Feathers](Skyrim_Hagraven_Feathers.md), [Lavender](Skyrim_Lavender.md), [Sload Soap](https://en.uesp.net/wiki/Skyrim:Sload_Soap)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.22** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Damage_Magicka_Regen.md) [Damage Magicka Regen](Skyrim_Damage_Magicka_Regen.md)** | [Bear Claws](Skyrim_Bear_Claws.md), [Burnt Spriggan Wood](Skyrim_Burnt_Spriggan_Wood.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Chicken's Egg](Skyrim_Chicken%27s_Egg.md), [Daedroth Teeth](Skyrim_Daedroth_Teeth.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Glow Dust](Skyrim_Glow_Dust.md), [Hanging Moss](Skyrim_Hanging_Moss.md), [Hawk's Egg](Skyrim_Hawk%27s_Egg.md)<sup>[HF](Skyrim_Hearthfire.md)</sup>, [Human Heart](Skyrim_Human_Heart.md), [Mort Flesh](https://en.uesp.net/wiki/Skyrim:Mort_Flesh)<sup>[CC](Skyrim_Plague_of_the_Dead.md)</sup>, [Minotaur Horn](https://en.uesp.net/wiki/Skyrim:Minotaur_Horn)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Nightshade](https://en.uesp.net/wiki/Skyrim:Nightshade), [Scalon Fin](https://en.uesp.net/wiki/Skyrim:Scalon_Fin)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Fortify_Enchanting.md) [Fortify Enchanting](Skyrim_Fortify_Enchanting.md)** | [Dreugh Wax](Skyrim_Dreugh_Wax.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Hagraven Claw](Skyrim_Hagraven_Claw.md), [Snowberries](Skyrim_Snowberries.md), [Spawn Ash](https://en.uesp.net/wiki/Skyrim:Spawn_Ash)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Stoneflower Petals](https://en.uesp.net/wiki/Skyrim:Stoneflower_Petals)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)) |
+
+## Notes
+- All four alchemical properties are shared with [blue butterfly wings](Skyrim_Blue_Butterfly_Wing.md) and [ancestor moth wings](Skyrim_Ancestor_Moth_Wing.md). Combining chaurus hunter antennae with either of the two ingredients will therefore result in all four effects being discovered at once.

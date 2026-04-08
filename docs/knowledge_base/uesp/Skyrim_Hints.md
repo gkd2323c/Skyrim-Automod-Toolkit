@@ -1,0 +1,31 @@
+# Hints
+
+- **[Activities](Skyrim_Activities.md)** — Miscellaneous activities available while playing the game
+- **[Alchemy](Skyrim_Alchemy.md)** — A guide to all things related to Alchemy
+- **[Combat](Skyrim_Combat.md)** — How combat works and tips for winning battles
+- **[Commerce](Skyrim_Commerce.md)** — An overview of how buying and selling works
+- **[Containers](Skyrim_Containers.md)** — Places to find, collect and store items
+- **[Creation Club First Time Players](Skyrim_Creation_Club_First_Time_Players.md)**<sup>[CC](Skyrim_Creation_Club.md)</sup> — A spoiler-free guide on how to find all of the Creation Club content included with the *Anniversary Edition*
+- **[Crime](Skyrim_Crime.md)** — How the game deals with crime and punishment
+- **[Dead Thrall](Skyrim_Dead_Thrall.md)** — A guide to using the high-level necromancy spell
+- **[Dragon Riding](Skyrim_Dragon_Riding.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>** — A guide to riding dragons
+- **[Dungeons](Skyrim_Dungeons.md)** — General information on who and what to expect while exploring
+- **[Followers](Skyrim_Followers.md)** — How to get NPCs to follow you, and what you can ask them to do
+- **[Ingredients](Skyrim_Ingredients.md)** — List of the numerous alchemical ingredients in the game
+- **[Items](Skyrim_Items.md)** — General information about items in the game as well as specific data on special items
+- **[Magic Overview](Skyrim_Magic_Overview.md)** — A guide to casting magic spells
+- **[Magical Effects](Skyrim_Magical_Effects.md)** — Description of the effects available from spells, potions and scrolls
+- **[Making Money](Skyrim_Making_Money.md)** — Effective money making methods for beginner and seasoned adventurers
+- **[Mountain Climbing](https://en.uesp.net/wiki/Skyrim:Mountain_Climbing)** — Tips for effective climbing
+- **[NPCs](Skyrim_NPCs.md)** — Who the non-player characters are in the game
+- **[Quest Timing](Skyrim_Quest_Timing.md)** — General guidance on the most beneficial or convenient times to complete certain quests
+- **[Spells](Skyrim_Spells.md)** — List of all the spells available for purchase
+- **[Statistics](Skyrim_Statistics.md)** — A list of the statistics displayed in the "General Stats" menu screen
+- **[Stealth](Skyrim_Stealth.md)** — Options for stealthy characters
+- **[Time](https://en.uesp.net/wiki/Skyrim:Time)** — Details of how time works in the land of Skyrim
+- **[Trainers](Skyrim_Trainers.md)** — Where to learn skills without the hard work
+- **[Transport](Skyrim_Transport.md)** — Options for getting around in Skyrim
+- **[Traps](Skyrim_Traps.md)** — An assortment of trap types and how to recognize and avoid them
+- **[Useful Poisons](Skyrim_Useful_Potions.md#Useful_Poisons)** — How to create and use poisons
+- **[Useful Potions](Skyrim_Useful_Potions.md)** — A short listing of a few useful potion and poison recipes
+- **[Vampirism](Skyrim_Vampirism.md)** — How to become a vampire and how to cure it

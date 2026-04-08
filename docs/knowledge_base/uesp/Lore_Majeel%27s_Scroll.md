@@ -1,0 +1,16 @@
+# Majeel's Scroll
+
+[![](https://images.uesp.net/thumb/2/2e/ON-quest-Temple%27s_Treasures.jpg/200px-ON-quest-Temple%27s_Treasures.jpg)](https://en.uesp.net/wiki/File:ON-quest-Temple%27s_Treasures.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Temple%27s_Treasures.jpg) High Temple of Satakalaam [![](https://images.uesp.net/thumb/c/c2/ON-item-Majeel%27s_Scroll.jpg/200px-ON-item-Majeel%27s_Scroll.jpg)](https://en.uesp.net/wiki/File:ON-item-Majeel%27s_Scroll.jpg) [](https://en.uesp.net/wiki/File:ON-item-Majeel%27s_Scroll.jpg) Majeel's Scroll in the High Temple The Majeel's Scroll is a sacred ornament that dates back to the time of the [Ra Gada](Lore_Ra_Gada.md). It is an item of importance to the [Redguard](Lore_Redguard.md) culture and religion. Together with [Sword of Shabnam](Lore_Sword_of_Shabnam.md) and [Lamp of the Satakalaam](Lore_Lamp_of_the_Satakalaam.md), they represent the aspects of the Redguard in body, mind, and spirit. The scroll represented the mind.<sup>[[1]](#cite_note-High_Priest_Zuladr-1)</sup><sup>[[2]](#cite_note-ADQI-2)</sup>
+
+Together with two other relics, it was dedicated centuries before the time of the [Three Banners War](Lore_Three_Banners_War.md), back when the High Temple of [Satakalaam](Lore_Satakalaam.md) was built. Since then, they have been the sacred tokens of Satakalaam's High Temple. Although all temples had relics to honor the gods, the Majeel's Scroll was specific to this temple.<sup>[[1]](#cite_note-High_Priest_Zuladr-1)</sup>
+
+## History
+Circa [2E 582](Lore_Second_Era.md#2E_582), during the Three Banners War, the temple was ransacked by the [Imperials](Lore_Imperial.md) of the [Seventh Legion](Lore_Seventh_Legion.md) during their occupation of the city. The Imperial cultists of [Molag Bal](Lore_Molag_Bal.md) slaughtered all the clergy (save for High Priest Zuladr), defiled the sacred grounds and stole the artifacts. Zuladr asked the [Agent](Lore_The_Vestige.md) of the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) to help him restore the relics. The relics were found within the city perimeters. The agent succeeded and delivered the relics back to the temple, where they placed them back on their respective altars. The city was eventually liberated and Zuladr swore to build a shrine to honor his fellow priests that were slain during the Imperial attack.<sup>[[1]](#cite_note-High_Priest_Zuladr-1)</sup><sup>[[2]](#cite_note-ADQI-2)</sup><sup>[[3]](#cite_note-TT-3)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Alik%27r_Desert_Quest_Items#Majeel.27s_Scroll).
+
+## References
+1. ^ <sup>***[a](#cite_ref-High_Priest_Zuladr_1-0)***</sup><sup>***[b](#cite_ref-High_Priest_Zuladr_1-1)***</sup><sup>***[c](#cite_ref-High_Priest_Zuladr_1-2)***</sup> [High Priest Zuladr](https://en.uesp.net/wiki/Online:High_Priest_Zuladr)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-ADQI_2-0)***</sup><sup>***[b](#cite_ref-ADQI_2-1)***</sup> [Majeel's Scroll](https://en.uesp.net/wiki/Online:Alik%27r_Desert_Quest_Items#Majeel.27s_Scroll)'s item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TT_3-0) Events of [Temple's Treasures](https://en.uesp.net/wiki/Online:Temple%27s_Treasures) in [ESO](https://en.uesp.net/wiki/Online:Online)

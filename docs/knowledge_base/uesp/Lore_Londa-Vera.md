@@ -1,0 +1,16 @@
+# Londa-Vera
+
+*She is everywhere and nowhere, the feminine power of magic that allowed the Mundus to exist despite the impossibility of it all.*
+— *[The Nine Coruscations](Lore_The_Nine_Coruscations.md)*<sup>[[1]](#cite_note-9C-1)</sup> Londa-Vera, **the Green Star** is one of the lesser-known [Magna Ge](Lore_Magna_Ge.md), one of the Star-Orphans and an [Anuic](Lore_Anu.md) ur-entity.<sup>[[1]](#cite_note-9C-1)</sup><sup>[[2]](#cite_note-EOMN-2)</sup> She was one of [Magnus](Lore_Magnus.md)'s daughters and the sister of [Merid-Nunda](Lore_Merid-Nunda.md), [Mnemo-Li](Lore_Mnemo-Li.md), [Iana-Lor](Lore_Iana-Lor.md), [Xero-Lyg](Lore_Xero-Lyg.md), the eldest [Prime Archon](Lore_Ithelia.md), [Sheza-Rana](Lore_Sheza-Rana.md), [Unala-Se](Lore_Unala-Se.md), and [Valia-Sha](Lore_Valia-Sha.md). Alongside her sisters, she was part of the Nine Coruscations, who followed the parabolas that led away from Magnus and separated from him when he withdrew from the creation of the [Aurbis](Lore_Aurbis.md).<sup>[[1]](#cite_note-9C-1)</sup><sup>[[2]](#cite_note-EOMN-2)</sup> Similarly to other Magna Ge she is now synonymous with the [star](Lore_Stars.md), which she created.<sup>[[2]](#cite_note-EOMN-2)</sup><sup>[[3]](#cite_note-WOT-3)</sup>
+
+In the text authored by Star-Queen Varalias, she is associated with the [element of earth](Lore_Elements.md#Earth), and the "Starry Heart". When Magnus devised his plans, he aimed to create what he could aptly name a perfect being, born of Light within Love. He drew inspiration from the beauty of [Nir](Lore_Nir.md), the gaze of [Azura](Lore_Azura.md), the warmth of [Mara](Lore_Mara.md)'s smile, the grace of [Dibella](Lore_Dibella.md)'s form, the freedom of [Kynareth](Lore_Kynareth.md)'s wings, the resolve of [Boethiah](Lore_Boethiah.md)'s will, the enigma of [Vaermina](Lore_Vaermina.md)'s mystery, the insight of [Mephala](Lore_Mephala.md)'s wisdom, and the resolve of [Namira](Lore_Namira.md)'s determination. From the fateful forge emerged Londa-Vera, her cry echoing through endless ages. Her birth was so unique that she never fully coalesced; instead, the facets of her essence scattered across the Aurbis and fractured. She exists everywhere and nowhere, embodying the feminine magic that enabled the Mundus to exist despite its inherent impossibility.<sup>[[1]](#cite_note-9C-1)</sup>
+
+## See Also
+
+### Books
+- ***[The Nine Coruscations](Lore_The_Nine_Coruscations.md)*** by [Star-Queen Varalias](Lore_Books_by_Author.md#Star-Queen_Varalias) — A list of the Star Orphans
+
+## References
+1. ^ <sup>***[a](#cite_ref-9C_1-0)***</sup><sup>***[b](#cite_ref-9C_1-1)***</sup><sup>***[c](#cite_ref-9C_1-2)***</sup><sup>***[d](#cite_ref-9C_1-3)***</sup> [*The Nine Coruscations*](Lore_The_Nine_Coruscations.md) — [Star-Queen Varalias](Lore_Books_by_Author.md#Star-Queen_Varalias)
+2. ^ <sup>***[a](#cite_ref-EOMN_2-0)***</sup><sup>***[b](#cite_ref-EOMN_2-1)***</sup><sup>***[c](#cite_ref-EOMN_2-2)***</sup> [*Exegesis of Merid-Nunda*](Lore_Exegesis_of_Merid-Nunda.md) — [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md)
+3. [^](#cite_ref-WOT_3-0) [*Wayshrines of Tamriel*](Lore_Wayshrines_of_Tamriel.md) — [Beredalmo the Signifier](Lore_Books_by_Author.md#Beredalmo_the_Signifier)

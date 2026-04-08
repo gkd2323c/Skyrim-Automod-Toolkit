@@ -1,0 +1,7 @@
+# Imperial Commission of the Occupation
+
+The Imperial Commission of the Occupation was an [Imperial](Lore_Imperial.md) administrative institution active in the [Third Era](Lore_Third_Era.md). It was responsible for law enforcement within the [provinces](Lore_Provinces.md) that constituted parts of the [Empire](Lore_Empire.md). Although the Commission was generally tolerant of various cults, it outlawed practices and groups deemed hostile to the [Emperor](Lore_Tamrielic_Emperors.md) and the Empire. It was authorized to imprison and execute members of such faiths. In [Morrowind](Lore_Morrowind.md), the Imperial Commission of the Occupation allowed the [Ordinators](Lore_Ordinators.md) to serve as religious law enforcers themselves.<sup>[[1]](#cite_note-NFH-1)</sup> Although [Daedra](Lore_Daedra.md) worship was legal under Imperial law at that time,<sup>[[2]](#cite_note-MH-2)</sup> certain other cults, such as the [Nerevarine Cult](Lore_Nerevarine_Cult.md), were prosecuted.<sup>[[1]](#cite_note-NFH-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-NFH_1-0)***</sup><sup>***[b](#cite_ref-NFH_1-1)***</sup> [*Notes from Huleeya*](Lore_Notes_from_Huleeya.md) — [Huleeya](Lore_Books_by_Author.md#Huleeya)
+2. [^](#cite_ref-MH_2-0) [*Modern Heretics*](Lore_Modern_Heretics.md) — [Haderus of Gottlesfont](Lore_Books_by_Author.md#Haderus_of_Gottlesfont)

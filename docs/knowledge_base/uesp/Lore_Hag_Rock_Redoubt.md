@@ -1,0 +1,37 @@
+# Briar Rock Ruins
+
+| Briar Rock Ruins | |
+| --- | --- |
+| Type | Nordic Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [The Reach](Lore_The_Reach.md) |
+| Appears in | [Skyrim](Skyrim_Hag_Rock_Redoubt.md), [ESO](https://en.uesp.net/wiki/Online:Briar_Rock_Ruins) |
+
+[![](https://images.uesp.net/thumb/e/e2/ON-load-Briar_Rock_Ruins.png/200px-ON-load-Briar_Rock_Ruins.png)](https://en.uesp.net/wiki/File:ON-load-Briar_Rock_Ruins.png) [](https://en.uesp.net/wiki/File:ON-load-Briar_Rock_Ruins.png) Briar Rock Ruins ca. [2E 582](Lore_Second_Era.md#2E_582) Briar Rock Ruins is a large set of nordic ruins situated deep in the mountain valley of [the Reach](Lore_The_Reach.md). It was originally an Ancient [Nordic](Lore_Nord.md) watchtower that contained a crypt of [draugr](Lore_Draugr.md), but it has since been a safe refuge for the local clans of [Reachmen](Lore_Reachmen.md) that need it.<sup>[[1]](#cite_note-ONMedone-1)</sup><sup>[[2]](#cite_note-Bretull-2)</sup> The ruins have been commonly occupied by the [Thornroot Clan](Lore_Thornroot_Clan.md), who are staunch protectors of their land and will stand against any foreign threat.<sup>[[3]](#cite_note-OTCOTR-3)</sup> Briar Rock is divided into two areas, the main ruin is known as **Hag Rock Redoubt**, whereas the innermost tower and summit is called **Dead Crone Rock**.
+
+## History
+Little is known about the history of the site before the arrival of the Nords, except that the region was inhabited by the native Reachfolk.<sup>[[4]](#cite_note-LVR-4)</sup> The Ancient Nords built their fortress there at an unspecified time and erected a [Word Wall](Lore_Word_Walls.md) there many years ago.<sup>[[5]](#cite_note-BRR-5)</sup> Members of the [Hillhunter Clan](Lore_Hillhunter_Clan.md) remember that ruins have always existed there since forever.<sup>[[1]](#cite_note-ONMedone-1)</sup> By the time the Nords were out of the Reach, the local Reachfolk took solace with the abandoned compound and used it as a shelter in times of trouble. The Thornroot, a clan of Reach warrior-folk have been known to settle around Briar Rock since at least [2E 568](Lore_Second_Era.md#2E_568).<sup>[[3]](#cite_note-OTCOTR-3)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. While most of the Reachfolk stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md), the Thornroot Clan took refuge in Briar Rock Ruins and out of desperation to combat the [vampiric](Lore_Vampire.md) army, they allied with a [hagraven](Lore_Hagraven.md) coven to create more [briarheart](Lore_Briar_Heart.md) warriors. The Hillhunter Clan led by Chieftain [Faorin](Lore_Faorin.md) traveled to Briar Rock to seek refuge with the Thornroot, but they were instead imprisoned and made unwilling subjects of the briarheart ritual. The Thornroot hagravens sought to create an army of briarheart berserkers rather than provide protection for all clans.<sup>[[1]](#cite_note-ONMedone-1)</sup> The chieftain's daughter, Medone enlisted the help of a [traveler](Lore_The_Vestige.md) to liberate her clan and father, as well as burn the briarheart tree in Dead Crone Rock. The traveler fought their way through Briar Rock and not defeated the hagraven matron, Grygarsnit, but burned down the tree and freed the Hillhunter Clan. They later moved on to parlay with the [Wayward Guardians](Lore_Wayward_Guardians.md).<sup>[[6]](#cite_note-ONBetrayal-6)</sup>
+
+During the [Skyrim Civil War](Lore_Skyrim_Civil_War.md) in [4E 201](Lore_Fourth_Era.md#4E_201), the rebel-faction of Reachfolk, the [Forsworn](Lore_Forsworn.md) had taken control of the ruins. They were led by the hagraven witch, Drascua, who fled to Dead Crone Rock after the [Markarth Incident](Lore_Markarth_Incident.md) in [4E 176](Lore_Fourth_Era.md#4E_176). Not only was she considered a major threat by the Jarl of [Markarth](Lore_Markarth.md), but she was the eighth descendant of [Sorcha](Lore_Sorcha.md), who was given the important task of guarding the pommel of [Mehrunes' Razor](Lore_Mehrunes%27_Razor.md).<sup>[[7]](#cite_note-TKOTR-7)</sup> Drascua was tracked down by [Silus Vesuius](Lore_Silus_Vesuius.md) of [Dawnstar](Lore_Dawnstar.md), who sought to reassemble the razor to honor his forefathers, the [Mythic Dawn](Lore_Mythic_Dawn.md).<sup>[[8]](#cite_note-SRPieces-8)</sup> At that same time, the hagraven leader of Dead Crone Rock was in possession of a [Stone of Barenziah](Lore_Stone_of_Barenziah.md), which were in circulation all over Skyrim until they were recovered by the [Thieves Guild](Lore_Thieves_Guild.md) and reassembled into the Crown.<sup>[[9]](#cite_note-SRUnturned-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/5a/SR-place-Hag_Rock_Redoubt.jpg/200px-SR-place-Hag_Rock_Redoubt.jpg)](https://en.uesp.net/wiki/File:SR-place-Hag_Rock_Redoubt.jpg) Hag Rock Redoubt (Skyrim)
+- [![](https://images.uesp.net/thumb/5/5a/SR-place-Dead_Crone_Rock.jpg/200px-SR-place-Dead_Crone_Rock.jpg)](https://en.uesp.net/wiki/File:SR-place-Dead_Crone_Rock.jpg) Dead Crone Rock (Skyrim)
+
+## See Also
+- For game-specific information on Briar Rock Ruins, see the [ESO](https://en.uesp.net/wiki/Online:Briar_Rock_Ruins) article.
+- For game-specific information on each ruin in [Skyrim](Skyrim_Skyrim.md), see the [Dead Crone Rock](Skyrim_Dead_Crone_Rock.md) and [Hag Rock Redoubt](Skyrim_Hag_Rock_Redoubt.md) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-ONMedone_1-0)***</sup><sup>***[b](#cite_ref-ONMedone_1-1)***</sup><sup>***[c](#cite_ref-ONMedone_1-2)***</sup> [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-Bretull_2-0) [Bretull](https://en.uesp.net/wiki/Online:Bretull)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. ^ <sup>***[a](#cite_ref-OTCOTR_3-0)***</sup><sup>***[b](#cite_ref-OTCOTR_3-1)***</sup> [*On the Clans of the Reach*](Lore_On_the_Clans_of_the_Reach.md) — [Theopho Harvian](Lore_Books_by_Author.md#Theopho_Harvian), [Imperial](Lore_Imperial.md) Scribe
+4. [^](#cite_ref-LVR_4-0) [Lost Valley Redoubt](https://en.uesp.net/wiki/Online:Lost_Valley_Redoubt) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-BRR_5-0) [Dead Crone Rock](Skyrim_Dead_Crone_Rock.md) in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-ONBetrayal_6-0) [Betrayal at Briar Rock](https://en.uesp.net/wiki/Online:Betrayal_at_Briar_Rock) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+7. [^](#cite_ref-TKOTR_7-0) [*The Keepers of the Razor*](Lore_The_Keepers_of_the_Razor.md) — [Silus Vesuius](Skyrim_Silus_Vesuius.md)
+8. [^](#cite_ref-SRPieces_8-0) [Pieces of the Past](Skyrim_Pieces_of_the_Past.md) daedric quest in *[Skyrim](Skyrim_Skyrim.md)*
+9. [^](#cite_ref-SRUnturned_9-0) [No Stone Unturned](Skyrim_No_Stone_Unturned.md) faction quest in *[Skyrim](Skyrim_Skyrim.md)*

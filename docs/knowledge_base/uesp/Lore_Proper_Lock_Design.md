@@ -1,0 +1,15 @@
+# Proper Lock Design
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Oblivion](https://en.uesp.net/wiki/Oblivion:Proper_Lock_Design) <br> - [Skyrim](Skyrim_Proper_Lock_Design.md) |
+
+Proper Lock Design and Construction *Written as a manual for lock designers, unintentionally helpful to thieves* *
+---
+I have encountered many thieves whose sole interest in locks is how to open them and thereby pilfer the protected contents of the room or chest. I have taken it upon myself to devise a system of locks that can defeat such villianous *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* intent.
+
+The materials used to create a lock are of utmost importance. Shoddy brass or copper will give way to a well placed kick, thereby rendering the lock itself useless. I recommend steel over iron when choosing a material. More robust materials tend to be prohibitively expensive and necessitate the door being made of similar metals. I have been chagrined to stumble across the shattered shell of a wooden chest, it's *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* [dwarven](Lore_Dwemer.md) lock intact and still locked.
+
+Once these basics are settled, pay particular attention to the offset of the tumblers. A seven degree offset to the keyhole will allow a torque style key to work smoothly, while at the same time causing numerous headaches for the thief attempting to insert non-torque lockpicks.
+
+In similar fashion, the springs of the tumblers should be made by different smiths. Each smith will unknowingly create a spring with different tension than his fellow smiths. This variance will also create difficulties for anyone attempting to pick the lock.

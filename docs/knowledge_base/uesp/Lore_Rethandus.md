@@ -1,0 +1,30 @@
+# Rethandus
+
+[![](https://images.uesp.net/thumb/e/e2/MW-place-Rethandus_Ancestral_Tomb.jpg/200px-MW-place-Rethandus_Ancestral_Tomb.jpg)](https://en.uesp.net/wiki/File:MW-place-Rethandus_Ancestral_Tomb.jpg) [](https://en.uesp.net/wiki/File:MW-place-Rethandus_Ancestral_Tomb.jpg) Rethandus Ancestral Tomb [![](https://images.uesp.net/thumb/f/f0/ON-npc-Aamela_Rethandus.jpg/200px-ON-npc-Aamela_Rethandus.jpg)](https://en.uesp.net/wiki/File:ON-npc-Aamela_Rethandus.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Aamela_Rethandus.jpg) Aamela Rethandus The Rethandus clan is an ancient family of [Dunmer](Lore_Dunmer.md) that lives in the province of [Morrowind](Lore_Morrowind.md). They are one of the thirty revered families of [Vvardenfell](Lore_Vvardenfell.md),<sup>[[1]](#cite_note-ATOTTRF-1)</sup> and were associated with [House Dagoth](Lore_House_Dagoth.md) at some point.<sup>[[2]](#cite_note-ONRethandus-2)</sup> The **Rethandus Ancestral Tomb** is located in the [West Gash](Lore_West_Gash.md) region, on a peninsula northeast of [Gnisis](Lore_Gnisis.md), west of [Maelkashishi](Lore_Maelkashishi.md) and south of [Khuul](Lore_Khuul.md).<sup>[[2]](#cite_note-ONRethandus-2)</sup><sup>[[3]](#cite_note-MWRethandus-3)</sup>
+
+## History
+With the other twenty-nine ancient families of Vvardenfell, the Rethandus clan hid the [Library of Andule](Lore_Library_of_Andule.md), the secret repository of the [Great Houses](Lore_Great_Houses.md), and placed a clue in their ancestral tomb.<sup>[[4]](#cite_note-ONBradyn-4)</sup> Its location remained a secret for many years until Bradyn of the Library of Vivec enlisted an [outlander](Lore_The_Vestige.md) to find the tombs and uncover it in [2E 582](Lore_Second_Era.md#2E_582). They were able to find all thirty tombs and find the lost Library of Andule.<sup>[[5]](#cite_note-ONAncestral-5)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), Aamela Rethandus was a resident healer of Selfora who took care of the wounded during the crisis caused by Magistrix [Urili Vox](Lore_Urili_Vox.md).<sup>[[6]](#cite_note-AR-6)</sup><sup>[[7]](#cite_note-SR-7)</sup> A family from the clan, consisting of Bevene, Turath, and their son Galos, were victims of the [Sul-Xan](Lore_Sul-Xan.md) and were forced to work within the Silent Halls until they were found by [the Vestige](Lore_The_Vestige.md). It is unknown whether the entire family was saved or if Bevene died there.<sup>[[8]](#cite_note-HH-8)</sup><sup>[[9]](#cite_note-BTGR-9)</sup> While their ancestral tomb was marked with the sigil of House Dagoth,<sup>[[2]](#cite_note-ONRethandus-2)</sup> the contemporary members of the family swore by [the Tribunal](Lore_Tribunal_Temple.md).<sup>[[6]](#cite_note-AR-6)</sup>
+
+As of [3E 427](Lore_Third_Era.md#3E_427), the Rethandus Ancestral Tomb was guarded by the [undead](Lore_Undead.md) and [Daedra](Lore_Daedra.md).<sup>[[3]](#cite_note-MWRethandus-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/b2/ON-place-Rethandus_Ancestral_Tomb.jpg/200px-ON-place-Rethandus_Ancestral_Tomb.jpg)](https://en.uesp.net/wiki/File:ON-place-Rethandus_Ancestral_Tomb.jpg) Rethandus Ancestral Tomb with House Dagoth crest
+- [![](https://images.uesp.net/thumb/b/ba/ON-npc-Bevene_Rethandus.jpg/200px-ON-npc-Bevene_Rethandus.jpg)](https://en.uesp.net/wiki/File:ON-npc-Bevene_Rethandus.jpg) Bevene Rethandus
+- [![](https://images.uesp.net/thumb/6/6e/ON-npc-Turath_Rethandus.jpg/200px-ON-npc-Turath_Rethandus.jpg)](https://en.uesp.net/wiki/File:ON-npc-Turath_Rethandus.jpg) Turath Rethandus
+- [![](https://images.uesp.net/thumb/2/28/ON-npc-Galos_Rethandus.jpg/200px-ON-npc-Galos_Rethandus.jpg)](https://en.uesp.net/wiki/File:ON-npc-Galos_Rethandus.jpg) Galos Rethandus
+
+## See Also
+- For game-specific information on the ancestral tomb, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Rethandus_Ancestral_Tomb) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Rethandus_Ancestral_Tomb) articles.
+
+## References
+1. [^](#cite_ref-ATOTTRF_1-0) [*Ancestral Tombs of the Thirty Revered Families*](Lore_Ancestral_Tombs_of_the_Thirty_Revered_Families.md) — [Librarian Bradyn](Lore_Books_by_Author.md#Librarian_Bradyn)
+2. ^ <sup>***[a](#cite_ref-ONRethandus_2-0)***</sup><sup>***[b](#cite_ref-ONRethandus_2-1)***</sup><sup>***[c](#cite_ref-ONRethandus_2-2)***</sup> [Rethandus Ancestral Tomb](https://en.uesp.net/wiki/Online:Ancestral_Tombs#Rethandus_Ancestral_Tomb) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+3. ^ <sup>***[a](#cite_ref-MWRethandus_3-0)***</sup><sup>***[b](#cite_ref-MWRethandus_3-1)***</sup> [Rethandus Ancestral Tomb](https://en.uesp.net/wiki/Morrowind:Rethandus_Ancestral_Tomb) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+4. [^](#cite_ref-ONBradyn_4-0) [Librarian Bradyn](https://en.uesp.net/wiki/Online:Librarian_Bradyn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+5. [^](#cite_ref-ONAncestral_5-0) [The Ancestral Tombs](https://en.uesp.net/wiki/Online:The_Ancestral_Tombs) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+6. ^ <sup>***[a](#cite_ref-AR_6-0)***</sup><sup>***[b](#cite_ref-AR_6-1)***</sup> [Aamela Rethandus](https://en.uesp.net/wiki/Online:Aamela_Rethandus)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-SR_7-0) [Supply Run](https://en.uesp.net/wiki/Online:Supply_Run) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-HH_8-0) [Harrada Harvest](https://en.uesp.net/wiki/Online:Harrada_Harvest) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+9. [^](#cite_ref-BTGR_9-0) [Bevene Rethandus](https://en.uesp.net/wiki/Online:Bevene_Rethandus), [Turath Rethandus](https://en.uesp.net/wiki/Online:Turath_Rethandus), and [Galos Rethandus](https://en.uesp.net/wiki/Online:Galos_Rethandus)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

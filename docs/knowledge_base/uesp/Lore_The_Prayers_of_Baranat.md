@@ -1,0 +1,37 @@
+# The Prayers of Baranat
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:The_Prayers_of_Baranat) |
+
+The Prayers of Baranat *Adventure of a man in his quest to release a kidnapped lady*
+---
+<center>A Traditional Myth</center> When the Lady Genevrah was kidnapped from her estate and held for ransom, her mother sent word out that whoever rescued her would be allowed to marry her and inherit the land. Unfortunately, in those troubled days, kidnappings, murders, and thievery were rampant, and there was a dearth of able-bodied adventurers for such assignments. In fact, the only person who answered her call was a skinny, little fellow named Baranat.
+
+"You are certainly brave, but I fear you would never survive," said the old woman. "My daughter, you see, has been kidnapped by the Coribael brothers whose physical prowess is the stuff of legend."
+
+"My lady," said Baranat. "When I was born, I was blessed by [Vivec](Lore_Vivec_(god).md), [Almalexia](Lore_Almalexia.md), and [Sotha Sil](Lore_Sotha_Sil.md), and I have the ear of the saints. If I run into any trouble, I'll call on them to aid my quest."
+
+Doubtful, but having no other prospects, the old woman sent Baranat off, explaining that the four brothers' camp was to the north. In the center of the camp, the eldest and most powerful brother Airen Coribael was holding Lady Genevrah personally. Each of his brothers guarded a different post along the valley -- Baranat would have to defeat each to rescue the lady.
+
+Baranat rode many miles through the northern swamps before he came to the first of the brothers' guard posts. There he saw Vanis Coribael, the youngest of the brothers, watching the valley for intruders. Vanis was known to be faster than the wind, a warrior who could thrash his opponents before they even unsheathed their weapons. Baranat look *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* a look at his sad, cut-rate iron blade, and prayed to the saints.
+
+Saint [Veloth](Lore_Veloth.md) the Pilgrim appeared before Baranat in shining robes, and smiled upon him, "Baranat, put down your blade and I will make you swifter than bolt *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* of lightning."
+
+Baranat dropped his blade and ran at Vanis, moving so fast he didn't rustle a leaf with his pace. In a flash, Vanis was dead by Baranat's hands. The adventurer continued on until he reached the second youngest Coribael brother, Feryn, who not only was as fast as Vanis, but so strong, he could rip a [trama shrub](Lore_Trama_Root.md) up by the roots with two fingers. Baranat hid himself and trembled as he looked at the [giant](Lore_Giant.md) Feryn Coribael. Again, the young adventurer prayed to the saints.
+
+Saint [Nerevar](Lore_Nerevar.md) the Captain appeared before Baranat in golden armor, and smiled upon him, "Baranat, I will make you stronger than a hundred warriors."
+
+Baranat rushed at Feryn, knocking the giant through a boulder which turned to dust on impact. Feryn tried to get to his feet, but Baranat tore him apart, scattering him across the valley floor in eighty-seven pieces. Beyond Feryn's post was a raging river, where the second eldest Coribael brother, Horis, stood guard. Horis, who was faster than his brother Vanis, stronger than his brother Feryn, and so tough that he could swim in the lava of [Dagoth Ur](Lore_Dagoth-Ur_(place).md) like it was the [Padomaic Ocean](Lore_Padomaic_Ocean.md). Baranat thought of his own tolerance for pain, which was minimal, and prayed to the saints for help.
+
+Saint [Roris](Lore_Roris.md) the Martyr appeared before Baranat with flesh like sparkling gems, and smiled on him, "Baranat, I will make you unyielding as the heart of [Oblivion](Lore_Oblivion.md)."
+
+Baranat rushed at Horis, and two plunged into the rushing river. For twelve hours, they wrestled one another under the water, until Horis could hold his breath no more and drowned. Baranat pulled himself out of the river and continued down the valley, until he reached the camp. Airen Coribael himself was there, guarding a squirming sack which Baranat assumed either contained Lady Genevrah or several large cats. The young adventurer quailed at the prospect of doing battle with Airen Coribael, the swiftest, strongest, sturdiest, and most accomplished fighter of the brothers. He prayed to the saints for help.
+
+Saint [Olms](Lore_Olms.md) the Just appeared before Baranat in a burst of flame, and smiled on him, "Baranat, I will make you more cunning in battle than the most dangerous of [daedra](Lore_Daedra.md)."
+
+Baranat walked calmly into the camp and began battle with Airen Coribael. The fight lasted seven days, and for six of them, Airen had the upper hand. He rained kicks and punches down using the arrhythmic style the [Khajiit](Lore_Khajiit.md) call [Goutfang](Lore_Goutfang.md); he parried and blocked in all the fashions of the great [Nordic](Lore_Nord.md) warriors; he maintained his balance, coordination, speed, strength, timing, and tactics as the moons rose and fell from the sky. But on the seventh day, as he was preparing his Killing Blow, he suddenly stopped, eyes wide open. The blood drained from his face, and he realized the trap he had stepped into. A trap with no escape. With three quick flashes of his hand, Baranat completed the Cycle of Blood, the old [Redguard](Lore_Redguard.md) fighting style he had begun on day one. Airen Coribael breathed no more.
+
+The young adventurer ran to open the sack where Lady Genevrah lay. His first surprise. She had a face like a [dreugh](Lore_Dreugh.md) and as she began to berate him for taking his time, he realized that she had a very, very, very unpleasant personality as well. Several days later, when they were back at the old woman's court, he discovered that the estate that he would be inheriting was utterly dissolute by decades of blight storms and poor crops.
+
+Saint [Delyn](Lore_Delyn.md) the Wise watched the young adventurer from a cloud in the sky, and smiled on him, "Baranat, before you fight, find out what you're fighting for."

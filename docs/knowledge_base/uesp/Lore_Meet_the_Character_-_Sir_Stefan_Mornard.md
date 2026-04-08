@@ -1,0 +1,29 @@
+# Meet the Character - Sir Stefan Mornard
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/63073)) |
+| Writer | [Bill Slavicsek](https://en.uesp.net/wiki/General:Bill_Slavicsek) |
+| Publication Date: | October 19, 2022 |
+
+Meet the Character - Sir Stefan Mornard **by [Knight Commander Jourvel](Lore_Books_by_Author.md#Knight_Commander_Jourvel)** *A briefing on the heir to House Mornard*
+---
+[![LO-book-Sir Stefan Mornard.jpg](https://images.uesp.net/thumb/7/7e/LO-book-Sir_Stefan_Mornard.jpg/300px-LO-book-Sir_Stefan_Mornard.jpg)](https://en.uesp.net/wiki/File:LO-book-Sir_Stefan_Mornard.jpg) To Duchess [Elea Dufort](Lore_Elea_Dufort.md), Duchess of the [Systres Archipelago](Lore_Systres.md),
+
+Your grace, I have done as you requested and instigated a more thorough investigation of Sir Stefan Mornard. I understand your concerns, what with the recent unrest in [High Isle](Lore_High_Isle.md) and the ongoing tensions between [House Dufort](Lore_House_Dufort.md) and [House Mornard](Lore_House_Mornard.md). While the rivalry of your houses goes back generations, we can trace the current animosity emanating from Count Leonard Mornard and his vassals to his [father](Lore_Avrippe_Mornard.md)'s loss of the duchy when High King [Emeric](Lore_Emeric.md) stripped the title from him and awarded it to your father—gods rest his soul. The count obviously harbors ill will over the loss of his inheritance and most likely always will.
+
+That said, I find no compelling evidence that House Mornard is in any way involved in the recent troubles that plague the Systres Archipelago. In fact, the count and his son have been gracious in offering what support they can even as their own island of [Galen](Lore_Galen.md) begins to see troubles of its own. Which brings me to the true purpose of this missive—my opinion regarding the count's son, Sir Stefan Mornard. As you have said to me on more than one occasion, Sir Stefan appears too good to be true. But is it just an appearance? Allow me to elaborate on the results of my inquiries.
+
+Sir Stefan earned his rank and knighthood when he reached adulthood after serving as squire to the Knight Commander of House Mornard. He proved himself a brave and capable warrior at the Battle of Broken Path, where he and a small squad of knights and squires saved a merchant caravan from a Dreadsails raiding party. The young Squire Stefan killed two of the [Sea Elf](Lore_Maormer.md) pirates and drove off three others to save the merchant's daughter and protect the rest of goods. For that display of courage and skill, he was promoted from squire to knight, and he continues to proudly serve as part of the House Mornard contingent. Interestingly, he tends to present himself as a knight, considering his position as a baron and heir to House Mornard as almost of lesser consequence. He never presents his noble title, only his rank as a knight.
+
+However, Sir Stefan's education extends beyond the usual schooling afforded a knight and a noble's son. When he was younger, before his mother passed, she instilled in Stefan a powerful curiosity regarding the [druids](Lore_Druids.md) of the island. This fascination led Stefan to the [Stonelore Circle](Lore_Stonelore_Circle.md) after his mother died, and he trained alongside druid aspirants for a number of years before returning to Castle Mornard. He is still particularly close with Druid Laurel and Archdruid Rahval, whom he regards as a mentor. This dual education gives Sir Stefan his unique view of the world, which seems to be much more open and progressive than that of his father, the count.
+
+Sir Stefan continues to prove himself a courageous spellknight with a keen sense of personal honor. He genuinely seems disquieted by some of House Mornard's less than savory dealings and seeks to elevate the activities and reputation of his house—much to his father's dismay. He can be impetuous, however. Perhaps even reckless. He's been known to take up sword and shield and rush off to defend the countryside alongside the other knights of the house, despite the risk. His father disapproves, as Stefan is his only heir, but he has never actually forbidden his son from following his own heart. That said, Sir Stefan is audacious, not stupid, and his courage and skill at arms always seems to see him through.
+
+Well educated in two very different approaches to study, Sir Stefan is nonetheless clearly a man of action at heart. He may even have higher expectations of himself than his father, and I hazard to guess that he carries the weight of his house on his shoulders. In other ways, I think he struggles with the age-old quandary—what does it mean to be a [Breton](Lore_Breton.md)? Perhaps his deep commitment to both druidism and knighthood demonstrates his attempt to make sense of it all. Or perhaps I'm just adding some of my own musings to what I see in young Sir Stefan.
+
+So, your grace, why this sudden interest in Count Mornard's son? Are you considering some grand gesture to finally heal the rift between the two prominent houses of the Systres? Or are you just curious about the man who will one day rule the strongest rival to your house? I know, I know. I can hear your words already. "Mind your own business, knight commander, and allow me to mind mine."
+
+To sum up, I can find no obvious threat or deception in Sir Stefan Mornard. He seems to be exactly as he appears—a good man, trained as a druid and a spellknight, trying to do what's best for his house and his island.
+
+In service to House Dufort and the Systres Duchy, Knight Commander Jourvel

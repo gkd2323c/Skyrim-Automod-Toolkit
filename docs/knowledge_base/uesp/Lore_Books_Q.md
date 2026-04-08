@@ -1,0 +1,6 @@
+# Books Q
+
+[Overview](Lore_Library.md) | [Numeric](Lore_Books_Numeric.md) [A](Lore_Books_A.md) [B](Lore_Books_B.md) [C](Lore_Books_C.md) [D](Lore_Books_D.md) [E](Lore_Books_E.md) [F](Lore_Books_F.md) [G](Lore_Books_G.md) [H](Lore_Books_H.md) [I](Lore_Books_I.md) [J](Lore_Books_J.md) [K](Lore_Books_K.md) [L](Lore_Books_L.md) [M](Lore_Books_M.md) [N](Lore_Books_N.md) [O](Lore_Books_O.md) [P](Lore_Books_P.md) Q [R](Lore_Books_R.md) [S](Lore_Books_S.md) [T](Lore_Books_T.md) [U](Lore_Books_U.md) [V](Lore_Books_V.md) [W](Lore_Books_W.md) [X](Lore_Books_X.md) [Y](Lore_Books_Y.md) [Z](Lore_Books_Z.md) | [By Author](Lore_Books_by_Author.md) | [By Subject](Lore_Books_by_Subject.md) | [Mentioned Texts](Lore_Mentioned_Texts.md) | Title | Author | Description | Game(s) |
+| --- | --- | --- | --- |
+| [***The Quiet Room***](Lore_The_Quiet_Room.md) | | A riddle regarding a locked Safe Room | - [ESO](https://en.uesp.net/wiki/Online:The_Quiet_Room) |
+| [***Quotes from the Greats***](Lore_Quotes_from_the_Greats.md) | [Scaporius Pulex](Lore_Books_by_Author.md#Scaporius_Pulex) | Words of advice from arena champions | - [ESO](https://en.uesp.net/wiki/Online:Quotes_from_the_Greats) |

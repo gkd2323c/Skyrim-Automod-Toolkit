@@ -1,0 +1,23 @@
+# Hollow Moon (faction)
+
+*In [Senchal](Lore_Senchal.md), thieves flaunt their abilities and keep each other in check. They give to the hungry, keeping little more than what they need to survive.
+Here, they hide in the shadows benefitting no one. They are not all this way, but such is the rule.*
+—Shan-ra The Hollow Moon was a charitable organization of thieves which operated at the Redfur Trading Post in [Grahtwood](Lore_Grahtwood.md) during the [Second Era](Lore_Second_Era.md). Lead by a [Khajiit](Lore_Khajiit.md) named Valirr, they embodied what the leader of the trading coster at the time called the "Senchal lifestyle" — they stole from wealthy merchants and gave what they took to those in need.<sup>[[1]](#cite_note-ESOShan-1)</sup> Gold to buy food, silks to trade for other goods or gold to buy food and medicine for the sickly were among the goods the Hollow Moon gave to the poor.<sup>[[2]](#cite_note-FC-2)</sup><sup>[[3]](#cite_note-ESOValirr-3)</sup> Agents of the organization would often give simple rings called Hollow Moon Tokens to the infirm, so their need was not questioned when they petitioned the Hollow Moon for aid.<sup>[[4]](#cite_note-HMT-4)</sup><sup>[[5]](#cite_note-ESOFadi-5)</sup>
+
+The Hollow Moon often clashed with [Jode's Chariot](Lore_Jode%27s_Chariot.md), the local law enforcement group. The two organizations generally had mutual respect for one another. Both sides agreed that giving to the poor was a noble cause, and thieves were good for business at the trading post. The Hollow Moon kept the market fluid and stopped too much wealth from accumulating in one place.<sup>[[6]](#cite_note-ESOTulira-6)</sup> However, agents of the Hollow Moon couldn't just waltz up to a merchant and steal their goods; Jode's Chariot was still contractually obligated to stop thieves. Aspiring agents of the Hollow Moon had two choices: spend time in the stocks, or become better thieves.<sup>[[2]](#cite_note-FC-2)</sup><sup>[[6]](#cite_note-ESOTulira-6)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the Redfur Trading Post experienced an influx of new thieves from out of town who took things without giving back to the community.<sup>[[6]](#cite_note-ESOTulira-6)</sup> Shan-ra, the leader of the trading coster, was about ready to crack down on thieves by calling in the [Thalmor](Lore_Thalmor.md). This would have put Jode's Chariot out of business and dissolved the Hollow Moon, as there would be no need for the former and the Thalmor wouldn't understand the latter as the Chariots did.<sup>[[3]](#cite_note-ESOValirr-3)</sup> Jode's Chariot and the Hollow Moon came to a mutual agreement, and an agent of the Hollow Moon braved the dangers of the Tomb of [Anahbi](Lore_Anahbi.md) and stole the treasure hidden within. The treasure was presented before Shan-ra, who would use it to fund Jode's Chariot further, strengthening local law enforcement by allowing them more resources and keeping the Hollow Moon in business.<sup>[[2]](#cite_note-FC-2)</sup>
+
+## Notes
+- The Hollow Moon is also an alternate name for the "third moon" known as the [Dark Moon](Lore_Dark_Moon.md).
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Hollow_Moon).
+
+## References
+1. [^](#cite_ref-ESOShan_1-0) [Shan-ra](https://en.uesp.net/wiki/Online:Shan-ra)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-FC_2-0)***</sup><sup>***[b](#cite_ref-FC_2-1)***</sup><sup>***[c](#cite_ref-FC_2-2)***</sup> Events of [Flipping the Coin](https://en.uesp.net/wiki/Online:Flipping_the_Coin) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-ESOValirr_3-0)***</sup><sup>***[b](#cite_ref-ESOValirr_3-1)***</sup> [Valirr](https://en.uesp.net/wiki/Online:Valirr)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Flipping_the_Coin)
+4. [^](#cite_ref-HMT_4-0) The [Hollow Moon Token](https://en.uesp.net/wiki/Online:Grahtwood_Quest_Items#Hollow_Moon_Token)'s purpose during [Flipping the Coin](https://en.uesp.net/wiki/Online:Flipping_the_Coin) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ESOFadi_5-0) [Fadi](https://en.uesp.net/wiki/Online:Fadi)'s dialogue during [ESO](https://en.uesp.net/wiki/Online:Flipping_the_Coin)
+6. ^ <sup>***[a](#cite_ref-ESOTulira_6-0)***</sup><sup>***[b](#cite_ref-ESOTulira_6-1)***</sup><sup>***[c](#cite_ref-ESOTulira_6-2)***</sup> [Tulira](https://en.uesp.net/wiki/Online:Tulira)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Flipping_the_Coin)

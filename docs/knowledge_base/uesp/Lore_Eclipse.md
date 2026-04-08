@@ -1,0 +1,40 @@
+# Eclipse
+
+[![](https://images.uesp.net/thumb/d/d2/CT-ruling-Eclipse_02.jpg/200px-CT-ruling-Eclipse_02.jpg)](https://en.uesp.net/wiki/File:CT-ruling-Eclipse_02.jpg) [](https://en.uesp.net/wiki/File:CT-ruling-Eclipse_02.jpg) A solar eclipse An Eclipse is an astronomical phenomenon that happens when a celestial body is temporarily obscured by passing into the shadow of another body, usually by having another body pass between it and the sky of [Nirn](Lore_Nirn.md). Due to the two [moons](Lore_Moons.md), [solar](Lore_Sun.md) eclipses can happen in [Tamriel](Lore_Tamriel.md) several times a year and are known as **Vampire Days**.<sup>[[UOL 1]](#cite_note-ESOTwitter-1)</sup> During eclipses [spirits](Lore_Ghost.md), [vampires](Lore_Vampire.md) and other [undead](Lore_Undead.md), are said to be encountered more frequently. The phenomenon is sometimes thought to represent the loss of the favor of [Akatosh](Lore_Akatosh.md) and to be possible to undo with diligent prayer to that deity. Tamrielic kings have also been known to sometimes use [time altering](Lore_Time_Magic.md) magical items such as Arcane Hourglasses to dispel them. Inhabitants of Tamriel can sometimes receive warning of an impending eclipse in the form of [prophetic](Lore_Sight.md) nightmares revolving around it and the subsequent surge of spirits and undead.<sup>[[1]](#cite_note-Castles Rulings-2)</sup><sup>[[2]](#cite_note-Castles Items-3)</sup> There are some stories about [Daedric armor](Lore_Daedric_Equipment.md) that say that it should always be worked on at night, and never during an eclipse.<sup>[[3]](#cite_note-HAF-4)</sup>
+
+During a dark eclipse, both moons eclipse the sun, and this alignment reveals the "third moon" called the [Dark Moon](Lore_Dark_Moon.md). This event is significant to the [Khajiiti](Lore_Khajiit.md) people's spiritual duality.<sup>[[4]](#cite_note-PGE1EC-5)</sup> Khajiit born under a mutual eclipse of Nirn's two moons are designated as part of the [Mane](Lore_Mane.md) furstock, and are "beacons" of Alkosh's divine grace, even though not all of them will go on to become the titular Mane. The Moons call them stronger than others, so they must maintain a strong will to resist that call, lest allowing the darkness of Lorkhaj to darken their heart.<sup>[[5]](#cite_note-TPo A-6)</sup><sup>[[6]](#cite_note-RJ-7)</sup> In [Tamriel](Lore_Tamriel.md) at large, those born during a rare eclipse of Tamriel's moons are unusually gifted in the magical arts, such as the [Breton](Lore_Breton.md) mage of legend, [Gyron Vardengroet](Lore_Gyron_Vardengroet.md).<sup>[[7]](#cite_note-TS-8)</sup>
+
+The [Necromancer's Moon](Lore_Necromancer%27s_Moon.md) eclipses the planet [Arkay](Lore_Arkay_(planet).md) every eight days, preventing its light from reaching Nirn for 24 hours. This celestial phenomenon is known as the Shade of the Revenant, and casts a purple light down on certain locations across [Tamriel](Lore_Tamriel.md) during this period.<sup>[[8]](#cite_note-OB-9)</sup><sup>[[9]](#cite_note-10)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/37/Maligned_Saligned.jpg/200px-Maligned_Saligned.jpg)](https://en.uesp.net/wiki/File:Maligned_Saligned.jpg) A syzygy or "dark eclipse" (mutual eclipse of Secunda shadowing Masser at the front, blocking out the Sun at the back)
+- [![](https://images.uesp.net/thumb/8/8d/CT-ruling-Eclipse_05.jpg/200px-CT-ruling-Eclipse_05.jpg)](https://en.uesp.net/wiki/File:CT-ruling-Eclipse_05.jpg) An Eclipse passing
+- [![](https://images.uesp.net/thumb/4/4f/CT-ruling-Eclipse.jpg/200px-CT-ruling-Eclipse.jpg)](https://en.uesp.net/wiki/File:CT-ruling-Eclipse.jpg) The Sun shining brighter after an Eclipse
+- [![](https://images.uesp.net/thumb/9/9d/CT-ruling-Eclipse_04.jpg/200px-CT-ruling-Eclipse_04.jpg)](https://en.uesp.net/wiki/File:CT-ruling-Eclipse_04.jpg) A castle during an eclipse in the daytime
+- [![](https://images.uesp.net/thumb/2/26/ON-place-Moon_Gate_of_Anequina_03.jpg/200px-ON-place-Moon_Gate_of_Anequina_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Moon_Gate_of_Anequina_03.jpg) Moon gate functioning due to an eclipse
+- [![](https://images.uesp.net/thumb/3/3a/OB-quest-Necromancer%27s_Moon.jpg/200px-OB-quest-Necromancer%27s_Moon.jpg)](https://en.uesp.net/wiki/File:OB-quest-Necromancer%27s_Moon.jpg) The Shade of the Revenant (*Oblivion*)
+- [![](https://images.uesp.net/thumb/6/67/OBR-misc-Shade_of_the_Revenant.jpg/200px-OBR-misc-Shade_of_the_Revenant.jpg)](https://en.uesp.net/wiki/File:OBR-misc-Shade_of_the_Revenant.jpg) The Shade of the Revenant (*Oblivion Remastered*)
+- [![](https://images.uesp.net/thumb/b/bd/ON-skill-Eclipse.jpg/200px-ON-skill-Eclipse.jpg)](https://en.uesp.net/wiki/File:ON-skill-Eclipse.jpg) Magic ability named for the Eclipse
+- [![](https://images.uesp.net/thumb/a/ab/ON-place-Syzygial_Rostrum.jpg/200px-ON-place-Syzygial_Rostrum.jpg)](https://en.uesp.net/wiki/File:ON-place-Syzygial_Rostrum.jpg) Syzygial Rostrum Ritual Site
+- [![](https://images.uesp.net/thumb/8/82/ON-major_adornment-Warlock%27s_Veil_%28Khajiit%29.jpg/200px-ON-major_adornment-Warlock%27s_Veil_%28Khajiit%29.jpg)](https://en.uesp.net/wiki/File:ON-major_adornment-Warlock%27s_Veil_(Khajiit).jpg) An enchanted veil crafted to view an eclipse
+- [![](https://images.uesp.net/thumb/d/d2/ON-furnishing-Moonlight_Mirror_03.jpg/148px-ON-furnishing-Moonlight_Mirror_03.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Moonlight_Mirror_03.jpg) Artistic depiction of Jone and Jode aligned, with the Dark Moon behind
+- [![](https://images.uesp.net/thumb/d/d2/ON-concept-Eclipse.jpg/200px-ON-concept-Eclipse.jpg)](https://en.uesp.net/wiki/File:ON-concept-Eclipse.jpg) Concept art
+
+## Notes
+- In the original concept for the early, unreleased version of Summerset zone for [ESO](https://en.uesp.net/wiki/Online:Online), the rogue planet Orgnavar would eclipse the sky and darken heaven's glory with malevolence.<sup>[[UOL 2]](#cite_note-Cut Content-11)</sup>
+
+## References
+1. [^](#cite_ref-Castles Rulings_2-0) [Rulings](https://en.uesp.net/wiki/Castles:Rulings) text in *[Castles](https://en.uesp.net/wiki/Castles:Castles)*
+2. [^](#cite_ref-Castles Items_3-0) [Arcane Hourglass](https://en.uesp.net/wiki/Castles:Items) item and use in *[Castles](https://en.uesp.net/wiki/Castles:Castles)*
+3. [^](#cite_ref-HAF_4-0) [*Heavy Armor Forging*](Lore_Heavy_Armor_Forging.md) — [Sven Two-Hammers](Lore_Books_by_Author.md#Sven_Two-Hammers)
+4. [^](#cite_ref-PGE1EC_5-0) [*Pocket Guide to the Empire, 1st Edition: The Elsweyr Confederacy*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_Elsweyr) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+5. [^](#cite_ref-TPo A_6-0) [*The Pride of Alkosh*](Lore_The_Pride_of_Alkosh.md) — Clan Mother [Hizuni](Lore_Books_by_Author.md#Hizuni)
+6. [^](#cite_ref-RJ_7-0) [*Ra'khajin's Journal*](https://en.uesp.net/wiki/Online:Ra%27khajin%27s_Journal) — [Ra'khajin](https://en.uesp.net/wiki/Online:Ra%27khajin)
+7. [^](#cite_ref-TS_8-0) [*The Sage*](Lore_The_Sage.md) — [Aegrothius Goth](Lore_Books_by_Author.md#Aegrothius_Goth)
+8. [^](#cite_ref-OB_9-0) [Shade of the Revenant](https://en.uesp.net/wiki/Oblivion:Shade_of_the_Revenant) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. [^](#cite_ref-10) [Necromancer's Moon](https://en.uesp.net/wiki/Oblivion:Necromancer%27s_Moon) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-ESOTwitter_1-0) [Elder Scrolls Online Official Twitter account on Solar Eclipses](https://en.uesp.net/wiki/General:Twitter_Archive)
+2. [^](#cite_ref-Cut Content_11-0) [ESO Cut Content](https://en.uesp.net/wiki/Online:Cut_Content/Aldmeri_Dominion) - [*Alinor and Ayarynne*](https://www.imperial-library.info/content/eso-alinor-and-ayarene)

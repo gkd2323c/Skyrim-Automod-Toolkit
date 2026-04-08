@@ -1,0 +1,50 @@
+# Firesong Circle
+
+[![](https://images.uesp.net/thumb/9/94/ON-npc-Firesong_Druid.jpg/200px-ON-npc-Firesong_Druid.jpg)](https://en.uesp.net/wiki/File:ON-npc-Firesong_Druid.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Firesong_Druid.jpg) A member of the Circle The Firesong Circle is the oldest<sup>[[1]](#cite_note-DP-1)</sup> and most hostile of the three prominent [Druidic Circles](Lore_Druids.md) in the [Systres Archipelago](Lore_Systres.md),<sup>[[2]](#cite_note-SH-2)</sup> where they live on [Y'ffelon](Lore_Y%27ffelon.md) where outsiders aren't welcome. Their religion is centered around the island's volcano, [Mount Firesong](Lore_Mount_Firesong.md),<sup>[[3]](#cite_note-OSRCodex-3)</sup> where they hear [Y'ffre](Lore_Y%27ffre.md)'s voice in its restlessness.<sup>[[4]](#cite_note-ESODR-4)</sup>
+
+The Oakensoul Ring [artifact](Lore_Artifacts.md) showcases druidic master craftsmanship with some Direnni influence. It represents the authority of the Draoife, and its power comes from the various components that make up the ring's anatomy. The ring's oaken loop is accented with enchanted igneous flakes representing the Firesong Circle, theorized to bring immovable strength.<sup>[[3]](#cite_note-OSRCodex-3)</sup> They were known for their therapeutic soaking salts harvested from one of the Systres' hot springs. It was believed that they were used to put both mind and body at ease.<sup>[[5]](#cite_note-Contraband F-5)</sup> They were known to utilize volcanic rocks, [skarn](https://en.uesp.net/wiki/Lore:Skarn) and [obsidian](https://en.uesp.net/wiki/Lore:Obsidian).<sup>[[6]](#cite_note-Style-6)</sup>
+
+## History
+The Firesong along with the [Eldertide](Lore_Eldertide_Circle.md) and [Stonelore](Lore_Stonelore_Circle.md) circles, originally made up the unified group known as the [Druids of Galen](Lore_Druids_of_Galen.md) before they dissolved into these three major sects, each with their own interpretation of Y'ffre's will.<sup>[[4]](#cite_note-ESODR-4)</sup><sup>[[7]](#cite_note-ONSHV1-7)</sup> Despite the religious schism, to symbolize their unity matters more and that they share the same goals, the druidic circles came to shaping knot-work into a [triquetra](Lore_Triquetra.md),<sup>[[8]](#cite_note-8)</sup> a symbol that would become adopted by civilized Bretons.<sup>[[9]](#cite_note-9)</sup>
+
+The Allwither Order was created by Firesong Circle heretics who possibly wanted to enact revenge on the Direnni.<sup>[[10]](#cite_note-ONSHADG-10)</sup> They killed Kasorayn the last Druid King when they attempted to seize the Ivy Throne,<sup>[[11]](#cite_note-ESODruid King-11)</sup> but the Allwither heretics were defeated.<sup>[[11]](#cite_note-ESODruid King-11)</sup>
+
+The Dream of Kasorayn foretells of druids retaking their place in Tamriel. A possible future where the druidic circles reestablish themselves as the Druids of Galen after uniting under the banner of a new Druid King.<sup>[[UOL 1]](#cite_note-12)</sup><sup>[[UOL 2]](#cite_note-ESOYoutube Firesong Tour-13)</sup><sup>[[12]](#cite_note-ESOOrlaith-14)</sup><sup>[[13]](#cite_note-ESODL-15)</sup> Circa 2E 582, the Firesong Circle attempted to forcebly unite the druidic circles and reclaim the Systres from the Tamfolk. They assassinated the Draoife when they refused to elect a new ruler, and made moves to obtain the other circle's seeds. The leader of the Firesong was disposed of, but the puppeteer and leader of the Ascendant Order, Lord Bacaro Volorus, took matters to his own hands and took the Ivy Throne. Bacaro's reign was swiftly put to an end by the [Vestige](Lore_Vestige.md), and thus the Green Scourge was prevented. In the aftermath of Lord Bacaro's defeat and the nature spirit Frii assuming the role of Y'ffelon's Guardian Spirit, the remnants of the Firesong Circle came under the de facto leadership of Orlaith's former aide, Nhevin, who vowed that he would do all he could to redeem the Firesong for Orlaith's crimes and restore the shattered trust between the Circles.<sup>[[14]](#cite_note-16)</sup>
+
+[Gladesong Arboretum](https://en.uesp.net/wiki/Lore:Gladesong_Arboretum) was an abandoned settlement on the isle of Galen. Although the circle to which it belonged was unclear, there were elements of its appearance that bore the hallmarks typical of Firesong craftsmanship.<sup>[[15]](#cite_note-GA-17)</sup><sup>[[16]](#cite_note-LS-18)</sup>
+
+The significance of the Firesong Circle allowed them to be documented within the Infinite Archive in [Apocrypha](Lore_Apocrypha.md). There, copies of them were subsequently created as [maligraphies](Lore_Maligraphy.md), creatures composed of vivified ink manifested by stories from books, and serve as mindless extensions of the [Daedric Lord](Lore_Daedric_Lord.md) [Tho'at Replicanum](Lore_Tho%27at_Replicanum.md).<sup>[[17]](#cite_note-Q.26A-19)</sup><sup>[[18]](#cite_note-MM-20)</sup><sup>[[19]](#cite_note-Enemies-21)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/fd/ON-wallpaper-Lost_Depths.jpg/200px-ON-wallpaper-Lost_Depths.jpg)](https://en.uesp.net/wiki/File:ON-wallpaper-Lost_Depths.jpg) Undaunted adventuerers fighting a shapeshifted Firesong druid
+- [![](https://images.uesp.net/thumb/8/84/ON-npc-Archdruid_Devyric.jpg/200px-ON-npc-Archdruid_Devyric.jpg)](https://en.uesp.net/wiki/File:ON-npc-Archdruid_Devyric.jpg) An Archdruid
+- [![](https://images.uesp.net/thumb/7/7d/ON-npc-Firesong_Groveshaper.jpg/200px-ON-npc-Firesong_Groveshaper.jpg)](https://en.uesp.net/wiki/File:ON-npc-Firesong_Groveshaper.jpg) Firesong Groveshaper
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Firesong_Circle).
+
+## References
+1. [^](#cite_ref-DP_1-0) [Druid Peeska](https://en.uesp.net/wiki/Online:Druid_Peeska)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-SH_2-0) [*Systres History*](https://en.uesp.net/wiki/Lore:Systres_History) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+3. ^ <sup>***[a](#cite_ref-OSRCodex_3-0)***</sup><sup>***[b](#cite_ref-OSRCodex_3-1)***</sup> [Oakensoul Ring](https://en.uesp.net/wiki/Online:Oakensoul_Ring) [codex](https://en.uesp.net/wiki/Online:Mythic_Items) entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-ESODR_4-0)***</sup><sup>***[b](#cite_ref-ESODR_4-1)***</sup> [Druid Ryvana](https://en.uesp.net/wiki/Online:Druid_Ryvana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Contraband F_5-0) [Firesong Soaking Salts](https://en.uesp.net/wiki/Online:Contraband_F#Firesong_Soaking_Salts) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-Style_6-0) [*Crafting Motif 117: Firesong Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_117__Firesong_Style) — [Battle Crafter Bachard](Lore_Books_by_Author.md#Maxilien_Bachard)
+7. [^](#cite_ref-ONSHV1_7-0) [*Systres History: Volume 1*](https://en.uesp.net/wiki/Lore:Systres_History__Volume_1) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+8. [^](#cite_ref-8) [Druidic Knotwork Body Tattoos](https://en.uesp.net/wiki/Online:Druidic_Knotwork_Body_Tattoos) markings description in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [*Crafting Motif 93: Ancestral Breton Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_93__Ancestral_Breton_Style) — [Serge Serlyn](Lore_Books_by_Author.md#Serge_Serlyn), "Military Scholar of Much Renown"
+10. [^](#cite_ref-ONSHADG_10-0) [*Systres History Addendum: The Druids of Galen*](https://en.uesp.net/wiki/Lore:Systres_History_Addendum__The_Druids_of_Galen) — [Varona Vedralu](Lore_Books_by_Author.md#Varona_Vedralu), Senior Lecturer, [University of Gwylim](Lore_University_of_Gwylim.md)
+11. ^ <sup>***[a](#cite_ref-ESODruid King_11-0)***</sup><sup>***[b](#cite_ref-ESODruid King_11-1)***</sup> [Druid King Kasorayn](https://en.uesp.net/wiki/Online:Druid_King_Kasorayn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-ESOOrlaith_14-0) [Archdruid Orlaith](https://en.uesp.net/wiki/Online:Archdruid_Orlaith)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-ESODL_15-0) [Druid Laurel](https://en.uesp.net/wiki/Online:Druid_Laurel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-16) Events of [Firesong](https://en.uesp.net/wiki/Online:Firesong) DLC in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-GA_17-0) [Gladesong Arboretum](https://en.uesp.net/wiki/Online:Gladesong_Arboretum)'s location and appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-LS_18-0) [Gladesong Arboretum](https://en.uesp.net/wiki/Online:Gladesong_Arboretum)'s loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-Q.26A_19-0) [*Loremaster's Archive - Infinite Archive*](Lore_Loremaster%27s_Archive_-_Infinite_Archive.md) — [Master Malkhest](Lore_Malkhest.md)
+18. [^](#cite_ref-MM_20-0) [Master Malkhest](https://en.uesp.net/wiki/Online:Master_Malkhest)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+19. [^](#cite_ref-Enemies_21-0) [Enemies](https://en.uesp.net/wiki/Online:Infinite_Archive/Enemies) in [Infinite Archive](https://en.uesp.net/wiki/Online:Infinite_Archive) in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-12) <https://www.twitch.tv/videos/1604662466> Twitch Stream of *ESO Live Legacy of the Bretons Autumn Event*, time stamp 59:10-59:26
+2. [^](#cite_ref-ESOYoutube Firesong Tour_13-0) <https://www.youtube.com/watch?v=Jh Qe U-Izx1w> Youtube Stream of *Firesong DLC Guided Tour with the Developers*, time stamp 25:33-26:08

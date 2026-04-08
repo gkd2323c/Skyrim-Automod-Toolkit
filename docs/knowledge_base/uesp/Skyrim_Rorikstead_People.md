@@ -1,0 +1,12 @@
+# Rorikstead People
+
+| \| [Cowflop Farmhouse](Skyrim_Cowflop_Farmhouse.md) \| <br> \| --- \| <br> \| **[Ennis](Skyrim_Ennis.md)** <br> **[Halvar](Skyrim_Halvar.md)**<sup>[CC](Skyrim_Pets_of_Skyrim.md)</sup> <br> **[Reldith](Skyrim_Reldith.md)** \| <br> \| [Frostfruit Inn](Skyrim_Frostfruit_Inn.md) \| <br> \| **[Erik](Skyrim_Erik_the_Slayer.md) [](Skyrim_Followers.md)** <br> **[Mralki](Skyrim_Mralki.md)** [](Skyrim_Inns.md) [](Skyrim_Merchants.md) \| | [Cowflop Farmhouse](Skyrim_Cowflop_Farmhouse.md) | **[Ennis](Skyrim_Ennis.md)** <br> **[Halvar](Skyrim_Halvar.md)**<sup>[CC](Skyrim_Pets_of_Skyrim.md)</sup> <br> **[Reldith](Skyrim_Reldith.md)** | [Frostfruit Inn](Skyrim_Frostfruit_Inn.md) | **[Erik](Skyrim_Erik_the_Slayer.md) [](Skyrim_Followers.md)** <br> **[Mralki](Skyrim_Mralki.md)** [](Skyrim_Inns.md) [](Skyrim_Merchants.md) | \| [Lemkil's Farmhouse](Skyrim_Lemkil%27s_Farmhouse.md) \| <br> \| --- \| <br> \| **[Britte](Skyrim_Britte.md)** <br> **[Lemkil](Skyrim_Lemkil.md)** <br> **[Sissel](Skyrim_Sissel.md)** \| <br> \| [Rorik's Manor](Skyrim_Rorik%27s_Manor.md) \| <br> \| **[Jouane Manette](Skyrim_Jouane_Manette.md)** <br> **[Rorik](Skyrim_Rorik.md)** \| | [Lemkil's Farmhouse](Skyrim_Lemkil%27s_Farmhouse.md) | **[Britte](Skyrim_Britte.md)** <br> **[Lemkil](Skyrim_Lemkil.md)** <br> **[Sissel](Skyrim_Sissel.md)** | [Rorik's Manor](Skyrim_Rorik%27s_Manor.md) | **[Jouane Manette](Skyrim_Jouane_Manette.md)** <br> **[Rorik](Skyrim_Rorik.md)** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Cowflop Farmhouse](Skyrim_Cowflop_Farmhouse.md) | | | | | | | | | |
+| **[Ennis](Skyrim_Ennis.md)** <br> **[Halvar](Skyrim_Halvar.md)**<sup>[CC](Skyrim_Pets_of_Skyrim.md)</sup> <br> **[Reldith](Skyrim_Reldith.md)** | | | | | | | | | |
+| [Frostfruit Inn](Skyrim_Frostfruit_Inn.md) | | | | | | | | | |
+| **[Erik](Skyrim_Erik_the_Slayer.md) [](Skyrim_Followers.md)** <br> **[Mralki](Skyrim_Mralki.md)** [](Skyrim_Inns.md) [](Skyrim_Merchants.md) | | | | | | | | | |
+| [Lemkil's Farmhouse](Skyrim_Lemkil%27s_Farmhouse.md) | | | | | | | | | |
+| **[Britte](Skyrim_Britte.md)** <br> **[Lemkil](Skyrim_Lemkil.md)** <br> **[Sissel](Skyrim_Sissel.md)** | | | | | | | | | |
+| [Rorik's Manor](Skyrim_Rorik%27s_Manor.md) | | | | | | | | | |
+| **[Jouane Manette](Skyrim_Jouane_Manette.md)** <br> **[Rorik](Skyrim_Rorik.md)** | | | | | | | | | |

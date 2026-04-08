@@ -1,0 +1,66 @@
+# Rislav The Righteous
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book5a.png) Book Information <br> *Rislav The Righteous* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01B004 | | |
+| See Also | [Lore version](Lore_Rislav_The_Righteous.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 50 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Light Armor](Skyrim_Light_Armor.md) | | |
+| Locations | | | |
+| Found in the following locations: - 160 ft W of [Abandoned Prison](Skyrim_Abandoned_Prison.md) ([Eastmarch](Skyrim_Eastmarch.md)), in the debris surrounding a cabin crushed by a fallen tree [(map)](https://gamemap.uesp.net/sr/?x=92249&y=-15446&zoom=17&legacy=true) <br> - 420 ft S of [Bleakcoast Cave](Skyrim_Bleakcoast_Cave.md) ([Winterhold](Skyrim_Winterhold_(region).md)) [(map)](https://gamemap.uesp.net/sr/?x=147241&y=82176&zoom=17&legacy=true) <br> - [Cracked Tusk Vaults](Skyrim_Cracked_Tusk_Vaults.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)) <br> - [Fort Greymoor](Skyrim_Fort_Greymoor.md) ([Whiterun Hold](Skyrim_Whiterun_Hold.md)), second-floor training room <br> - [Riverside Shack](Skyrim_Riverside_Shack.md) [(map)](https://gamemap.uesp.net/sr/?x=121485&y=7177&zoom=17&legacy=true) | | | |
+
+Rislav The Righteous **by [Sinjin](Lore_Books_by_Author.md#Sinjin)** *Heroic tales of Rislav Larich, ancient King of Skingrad*
+---
+
+![L](https://images.uesp.net/thumb/c/c5/L_letter.png/33px-L_letter.png)
+ike all true heroes, [Rislav Larich](Lore_Rislav_Larich.md) had inauspicious beginnings. We are told by chroniclers that the springtide night in the [448th year of the first era](Lore_First_Era.md#1E_448) on which he was born was unseasonably cold, and that his mother Queen Lynada died very shortly after setting eyes upon her son. If he were much beloved of his father, King Mhorus of [Skingrad](Lore_Skingrad.md), who already had plenty of heirs, three sons and four daughters before him, the chroniclers make no mention of it.
+
+His existence was so very undistinguished that we hear virtually nothing of him for the first twenty years of his life. His schooling, we can suppose, was similar to that of any "spare prince" in the [Colovian West](Lore_Colovian_West.md), with [Ayleid](Lore_Ayleid.md) tutors to teach him the ways of hunting and battle. Etiquette, religious instruction, and even basic statecraft were seldom a part of the training of a prince of the Highlands, as it was in the more civilized valley of [Nibenay](Lore_Nibenay.md).
+
+There is a brief reference to him, together with his family, as part of the rolls of honor during the coronation of the Emperor [Gorieus](Lore_Gorieus.md) on the 23rd of Sun's Dawn [1E 461](Lore_First_Era.md#1E_461). The ceremony, of course, held during the time of the [Alessian Doctrines](Lore_Alessian_Doctrines.md) of [Marukh](Lore_Marukh.md), and so was without entertainment, but the thirteen-year-old Rislav was still witness to some of the greatest figures of legend. The Beast of [Anequina](Lore_Anequina.md), [Darloc Brae](Lore_Darloc_Brae.md), represented his kingdom, giving honor to the [Empire](Lore_Alessian_Empire.md). The Chieftain of [Skyrim](Lore_Skyrim.md) [Kjoric the White](Lore_Kjoric_the_White.md) and his son [Hoag](Lore_Hoag_Merkiller.md) were in attendance. And despite the Empire's intolerance of all elves, [chimer](Lore_Chimer.md) Indoril [Nerevar](Lore_Nerevar.md) and [dwemer](Lore_Dwemer.md) [Dumac Dwarfking](Lore_Dumac_Dwarfking.md) were evidently there as well, diplomatically representing [Resdayn](Lore_Resdayn.md), all in relative peace.
+
+Also mentioned on the rolls was a young mer in service to the Imperial court of [High Rock](Lore_High_Rock.md), who was to have a great history with Rislav. [Ryain Direnni](Lore_Ryain_Direnni.md).
+
+Whether the two young men of about the same age met and conversed is entirely the stuff of historian's fancy. Ryain is spoken of in praising words as a powerful land-owner, eventually buying the [island of Balfiera](Lore_Isle_of_Balfiera.md) in the [Iliac Bay](Lore_Iliac_Bay.md) and gradually conquering all of High Rock and large parts of [Hammerfell](Lore_Hammerfell.md) and Skyrim, but Rislav is not heard of again in history's books for another seventeen years. We can only offer supposition based on the facts that follow.
+
+Children of kings are, of course, married to the children of other kings to bind alliances. The kingdoms of Skingrad and [Kvatch](Lore_Kvatch.md) skirmished over common territory throughout the fifth century, until they reached a peace in the year [472](Lore_First_Era.md#1E_472). The details of this accord are not recorded, but since we know that Prince Rislav was in the court of Kvatch six years later, as husband to Belene, the daughter of King Justinius, it is fair to make an educated guess that they were married then to make peace.
+
+This brings us to the year [478](Lore_First_Era.md#1E_478), when a great plague swept through all of [Cyrodiil](Lore_Cyrodiil.md) and seemed particularly concentrated in the independent Colovian West. Among the victims were King Mhorus and the rest of the entire royal family in Skingrad. Rislav's only surviving elder brother, Dorald, survived, being in the [Imperial City](Lore_Imperial_City.md) as a priest of Marukh. He returned to his homeland to assume the throne.
+
+Of Dorald, we have some history. The King's second son, he was slightly simple-minded and evidently very pious. All the chroniclers spoke of his sweetness and decency, how he saw a vision in his early years that brought him - with his father's blessing - from Skingrad to the Imperial City and the priesthood. The priesthood of Marukh, of course, saw no difference between spiritual and political matters. It was the religion of the Alessian Empire, and it taught that to resist the Emperor was to resist the [Gods](Lore_Eight_Divines.md). Given that, it is scarcely a surprise what Dorald did when he became King of the independent kingdom of Skingrad.
+
+His first edict, on his very first day, was to cede the kingdom to the Empire.
+
+The reaction throughout the Colovian Estates was shock and outrage, nowhere more so than in the court of Kvatch. Rislav Larich, we are told, rode forth to his brother's kingdom, together with his wife and two dozen of his father-in-law's cavalry. It was surely not an impressive army, no matter how the chroniclers embellish it, but they had little trouble defeating all the guards Dorald sent to stop them. In truth, there was no actual battling, for the soldiers of Skingrad resented their new king's decision to give up their autonomy.
+
+The brothers faced one another in the castle courtyard where they had grown up.
+
+In typical Colovian fashion, there was no trial, no accusations of treason, no jury, no judge. Only an executioner.
+
+"Thou art no brother of mine," Rislav Larich said, and struck Dorald's head from his shoulders in one blow. He was crowned King of Skingrad still holding the same bloody axe in his arms.
+
+If King Rislav had no battle experience beforehand, that was shortly to change. Word spread quickly to the Imperial City that Skingrad, once offered, was now being taken back. Gorieus was an accomplished warrior even before taking the throne, and the seventeen years he had as Emperor were scarcely peaceful. Only eight months before Dorald's assassination and Rislav's ascendancy, Gorieus and the Alessian army had faced another of his coronation guests, Kjoric the White, on the fields of the frozen north. The High Chieftain of Skyrim lost his life in the Battle of [Sungard](Lore_Sungard.md). While the [pact of chieftains](Lore_Pact_of_Chieftains.md) was selecting a new leader, Cyrodiil was busily grabbing back the land of southern Skyrim that it had lost.
+
+In short, Emperor Gorieus knew how to deal with rebellious vassals.
+
+The Alessian army poured westward "like a flood of death," to borrow the chronicler's phrase, in numbers far exceeding what would be required to conquer Skingrad. Gorieus could not have thought actual battle was likely. Rislav, as we said, had little to no experience at warfare, and only a few days' practice at kingcraft. His kingdom and all of the Colovian West had just been ravaged by plague. The Alessians anticipated that a mere show of arms, and a surrender.
+
+Rislav instead prepared for battle. He quickly inspected his troops and drew up plans.
+
+The chroniclers who had heretofore ignored the life of Rislav now devote verse after verse describing the king's aspect with fetishistic delight. While it may lack literary merit and taste, we are at least given some details at last. Not surprisingly, the king wore the finest armor of his era, as the Colovian Estates then had the finest leathersmiths - the only type of armor available - in all of [Tamriel](Lore_Tamriel.md). The king's klibanion mail, boiled and waxed for hardness, and studded with inch-long spikes, was a rich chestnut red, and he wore it over his black tunic but under his black cloak. The statue of Rislav the Righteous which now stands in Skingrad is a romanticized version of king, but not inaccurate except in the armor represented. No bard of the Colovian West would have gone to the market so lightly protected. But it does, as we will see, include the most important accouterments of Rislav: his trained [hawk](Skyrim_Hawk.md) and his fast [horse](Skyrim_Horse.md).
+
+The winter rains had washed through the roads to the south, sending much of the [West Weald](Lore_West_Weald.md) spilling into [Valenwood](Lore_Valenwood.md). The Emperor took the northern route, and King Rislav with a small patrol of guards met him at a low pass on what is now the [Gold Road](Lore_Gold_Road.md). The Emperor's army, it is said, was so large that the Beast of [Anequina](Lore_Anequina.md) could hear its march from hundreds of miles away, and despite himself, the chroniclers say, he quaked in fear.
+
+Rislav, it was said, did not quake. With perfect politeness, he told the Emperor that his party was too large to be accommodated in the tiny kingdom of Skingrad.
+
+"Next time," Rislav said. "Write before you come."
+
+The Emperor was, like most Alessian Emperors, not a man of great humor, and he thought Rislav touched by [Sheogorath](Skyrim_Sheogorath.md). He ordered his personal guards to arrest the poor madman, but at that moment, the King of Skingrad raised his arm and sent his hawk flying into the sky. It was a signal his army had been waiting for. The Alessian were all within the pass and the range of their arrows.
+
+King Rislav and his guard began riding westward as fast as if they had been "kissed by wild [Kynareth](Lore_Kynareth.md)," as the chroniclers said. He did not dare to look behind him, but his plan went faultlessly. The far eastern end of the pass was sealed by rolling boulders, giving the Alessian no direction to go but westward. The Skingrad archers rained arrows down upon the [Imperial](Skyrim_Imperial.md) army from far above on the plateaus, remaining safe from reprisal. The furious Emperor Gorieus chased Rislav from the [Weald](Lore_West_Weald.md) to the [Highlands](Lore_Colovian_Highlands.md), leaving Skingrad far behind, all the while his army growing steadily smaller and smaller.
+
+In the ancient Highland forest, the Imperial army met the army of Rislav's father-in-law, the King of Kvatch. The Alessian army likely still outnumbered their opponents, but they were exhausted and their morale had been obliterated by the chase amid a sea of arrows. After an hour's battle, they retreated north into what is now the [Imperial Reserve](Lore_Imperial_Reserve.md), and from there, further north and east, to slip back to nurse their wounds and pride in [Nibenay](Lore_Nibenay_Valley.md).
+
+It was the beginning of the end of the Alessian hegemony. The Kings of the Colovian West joined with Kvatch and Skingrad to resist Imperial incursions. The Clan [Direnni](Lore_Direnni.md) under Ryain was inspired to outlaw the religion of the Alessian Reform throughout his lands in High Rock, and began pushing into Imperial territories. The new High Chief of Skyrim, Hoag, now called Hoag Merkiller, though sharing the Emperor's official xenophobia, also joined the resistance. His heir, King Ysmir [Wulfharth](Lore_Wulfharth.md) of [Atmora](Lore_Atmora.md), helped continue the struggle upon Hoag's death in battle, and also insured his place in history.
+
+The heroic King of Skingrad, who faced the Emperor's army virtually alone, and triggered its end, justly deserves his sobriquet of Rislav the Righteous.

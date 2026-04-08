@@ -1,0 +1,3 @@
+# CWMission08AllGiantsPlayerFriendFaction
+
+Redirects to [CWMission08AllGiantsPlayerFriendFaction](Skyrim_Factions_O.md#CWMission08AllGiantsPlayerFriendFaction).

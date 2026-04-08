@@ -1,0 +1,14 @@
+# Koomu Alezer'i
+
+[![](https://images.uesp.net/thumb/b/b7/ON-place-Sentinel.jpg/200px-ON-place-Sentinel.jpg)](https://en.uesp.net/wiki/File:ON-place-Sentinel.jpg) [](https://en.uesp.net/wiki/File:ON-place-Sentinel.jpg) Sentinel (ESO) [![](https://images.uesp.net/thumb/5/59/DF-map-Sentinel.png/200px-DF-map-Sentinel.png)](https://en.uesp.net/wiki/File:DF-map-Sentinel.png) [](https://en.uesp.net/wiki/File:DF-map-Sentinel.png) The Kingdom of Sentinel The Koomu Alezer'i Yaghoub<sup>[[1]](#cite_note-STJOA-1)</sup> ([Yoku](Lore_Yoku.md) for *"We Acknowledge Yaghoub"*), also simply called **Koomu Alezer'i**<sup>[[2]](#cite_note-DFHolidays-2)</sup> is a holiday held on the 17th of [Second Seed](Lore_Second_Seed.md)<sup>[[nb 1]](#intnote_Seat)</sup> and observed by the [Redguards](Lore_Redguard.md) of [Sentinel](Lore_Sentinel_(kingdom).md). It is a day made in remembrance of the [city](Lore_Sentinel.md)'s founder, [Yaghoub](Lore_Yaghoub.md) the Seafarer, who discovered the city's harborage on that day in the early-mid [First Era](Lore_First_Era.md) by following [the Steed](Lore_The_Steed.md) constellation and named it after the watchman who first saw it.<sup>[[1]](#cite_note-STJOA-1)</sup>
+
+The people celebrate by sharing [pomegranates](Lore_Pomegranate.md) with each other<sup>[[1]](#cite_note-STJOA-1)</sup> and partaking in the harvest. Whether the harvest provides or not, the kingdom's people give thanks to the gods and pray for their good graces.<sup>[[2]](#cite_note-DFHolidays-2)</sup> Some scholars suggest that Koomu Alezer'i was a springtide holiday.<sup>[[3]](#cite_note-HOTIB-3)</sup>
+
+## Notes
+- | [^](#note_Seat) | The holiday in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)* was set on the 11th of [Last Seed](Lore_Last_Seed.md) but in modern sources from *[ESO](https://en.uesp.net/wiki/Online:Online)* it is the 17th of Second Seed to correspond with other lore bits. |
+| --- | --- |
+
+## References
+1. ^ <sup>***[a](#cite_ref-STJOA_1-0)***</sup><sup>***[b](#cite_ref-STJOA_1-1)***</sup><sup>***[c](#cite_ref-STJOA_1-2)***</sup> [*Sentinel, the Jewel of Alik'r*](Lore_Sentinel,_the_Jewel_of_Alik%27r.md) — [The Unveiled Azadiyeh](Lore_Books_by_Author.md#The_Unveiled_Azadiyeh), Songbird of [Satakalaam](Lore_Satakalaam.md)
+2. ^ <sup>***[a](#cite_ref-DFHolidays_2-0)***</sup><sup>***[b](#cite_ref-DFHolidays_2-1)***</sup> [Koomu Alezer'i](https://en.uesp.net/wiki/Daggerfall:Holidays#Koomu_Alezer.27i) holiday in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. [^](#cite_ref-HOTIB_3-0) [*Holidays of the Iliac Bay*](Lore_Holidays_of_the_Iliac_Bay.md) — [Theth-i](Lore_Books_by_Author.md#Theth-i)

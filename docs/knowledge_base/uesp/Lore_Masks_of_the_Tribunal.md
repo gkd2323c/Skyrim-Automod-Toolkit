@@ -1,0 +1,28 @@
+# Masks of the Tribunal
+
+Masks of the Tribunal,<sup>[[1]](#cite_note-MOTS-1)</sup> also known as **killing masks**,<sup>[[2]](#cite_note-TTIS-2)</sup> **war masks**,<sup>[[3]](#cite_note-TIEGTTM-3)</sup> or **ash masks**,<sup>[[4]](#cite_note-TPP-4)</sup> are a set of masks worn by the [ALMSIVI](Lore_Almsivi.md): the [Mask of Almalexia](Lore_Mask_of_Almalexia.md), the [Mask of Sotha Sil](Lore_Mask_of_Sotha_Sil.md), and [Vivec's Ash Mask](Lore_Vivec%27s_Ash_Mask.md).<sup>[[1]](#cite_note-MOTS-1)</sup> [Mask of Dagoth Ur](Lore_Mask_of_Dagoth_Ur.md) was a similar ceremonial mask.<sup>[[5]](#cite_note-MODU-5)</sup><sup>[[6]](#cite_note-Matriarch-6)</sup>
+
+## Masks of the Tribunal
+
+### Mask of Almalexia
+[![](https://images.uesp.net/thumb/3/37/SR-item-Mask_of_Almalexia.jpg/100px-SR-item-Mask_of_Almalexia.jpg)](https://en.uesp.net/wiki/File:SR-item-Mask_of_Almalexia.jpg) [](https://en.uesp.net/wiki/File:SR-item-Mask_of_Almalexia.jpg) Mask of Almalexia The [Mask of Almalexia](Lore_Mask_of_Almalexia.md) is the [Daedric](Lore_Daedric_Equipment.md) ceremonial War Mask (also known as a killing mask) of the Tribunal god [Almalexia](Lore_Almalexia.md). It features prominent tusks and serpentine aesthetics, fitting of the goddess's title of the Face-Snaked Queen.
+
+It is one of the Masks of the Tribunal, the other two being the [Mask of Sotha Sil](Lore_Mask_of_Sotha_Sil.md), and [Vivec's Ash Mask](Lore_Vivec%27s_Ash_Mask.md).
+
+### Mask of Sotha Sil
+[![](https://images.uesp.net/thumb/4/4e/SR-item-Mask_of_Sotha_Sil.jpg/100px-SR-item-Mask_of_Sotha_Sil.jpg)](https://en.uesp.net/wiki/File:SR-item-Mask_of_Sotha_Sil.jpg) [](https://en.uesp.net/wiki/File:SR-item-Mask_of_Sotha_Sil.jpg) Mask of Sotha Sil The [Mask of Sotha Sil](Lore_Mask_of_Sotha_Sil.md) is the **blessed mask** (also known as the **killing mask**, or **warmaker helm**) of the [Tribunal](Lore_Tribunal.md) god [Sotha Sil](Lore_Sotha_Sil.md). It embodies his idea for a *Anuvanna'si* (Tamriel Final), whose one of many goals was where life would undergo a synthesis of organic and non-organic nature (akin to the [Fabricants](Lore_Fabricants.md)). Indeed, overtime, Sotha Sil's body would become more and more synthetic, and his mask also changed to undergo this transformation. His followers, the [Clockwork Apostles](Lore_Clockwork_Apostles.md), mimic this synthesis with modifying their bodies, as well as craft their headwear in the Clockwork God's image.
+
+It is one of the Masks of the Tribunal, the other two being [Almalexia](Lore_Almalexia.md)'s [War Mask](Lore_Mask_of_Almalexia.md), and [Vivec](Lore_Vivec.md)'s [Ash Mask](Lore_Vivec%27s_Ash_Mask.md).
+
+### Vivec's Ash Mask
+[![](https://images.uesp.net/thumb/e/e6/SR-item-Mask_of_Vivec.jpg/100px-SR-item-Mask_of_Vivec.jpg)](https://en.uesp.net/wiki/File:SR-item-Mask_of_Vivec.jpg) [](https://en.uesp.net/wiki/File:SR-item-Mask_of_Vivec.jpg) Mask of Vivec [Vivec's Ash Mask](Lore_Vivec%27s_Ash_Mask.md), also known simply as the **Mask of Vivec**, is a holy relic of the Dunmeri god [Vivec](Lore_Vivec.md) that was once kept in the temple of Gnisis, where it attracted pilgrims from all over Morrowind for the Pilgrimages of the Seven Graces. The mask was created in the early days of the return of the Sharmat [Dagoth Ur](Lore_Dagoth_Ur.md). When he rained the [blight](Lore_The_Blight.md) and ash among the Dunmer people, Vivec helped his people flee and gathered them to the site of modern day [Gnisis](Lore_Gnisis.md) where they could rest. When they awoke, all of the Dunmeri people and even Lord Vivec himself were encased in casts of ash. Vivec, overwhelmed with grief, shed tears which weakened his ash cast and he was able to free himself and all of his people and then revive them and cure them of the blight. The mask was the center of one of the Shrines of the Seven Graces known specifically as the Shrine of Justice. The sacred Mask was left in Gnisis after Vivec made a potion there to cure a villager who had fallen ill but could not pay for the healing. The Mask served as his promise that the Temple would always cure those who could not pay. Touching it would cure people of their common and blight diseases.
+
+It is one of the Masks of the Tribunal, the other two being [Almalexia's War Mask](Lore_Mask_of_Almalexia.md), and the [Mask of Sotha Sil](Lore_Mask_of_Sotha_Sil.md).
+
+## References
+1. ^ <sup>***[a](#cite_ref-MOTS_1-0)***</sup><sup>***[b](#cite_ref-MOTS_1-1)***</sup> [*Masks of the Tribunal*](Lore_Masks_of_the_Tribunal_(book).md)
+2. [^](#cite_ref-TTIS_2-0) [*The Truth in Sequence*](Lore_The_Truth_in_Sequence.md) — [Deldrise Morvayn](Lore_Books_by_Author.md#Deldrise_Morvayn), Fourth Tourbillon to the [Mainspring Ever-Wound](Lore_Sotha_Sil.md)
+3. [^](#cite_ref-TIEGTTM_3-0) [*The Improved Emperor's Guide to Tamriel: Stonefalls and Deshaan*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Morrowind) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+4. [^](#cite_ref-TPP_4-0) [*The Pilgrim's Path*](Lore_The_Pilgrim%27s_Path.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+5. [^](#cite_ref-MODU_5-0) [Mask of Dagoth Ur](https://en.uesp.net/wiki/Skyrim:Mask_of_Dagoth_Ur) in *[Skyrim](Skyrim_Skyrim.md): [Creation Club](Skyrim_Creation_Club.md)*
+6. [^](#cite_ref-Matriarch_6-0) [*Matriarch Drevlan's Note*](https://en.uesp.net/wiki/Lore:Matriarch_Drevlan%27s_Note) — Matriarch Drevlan

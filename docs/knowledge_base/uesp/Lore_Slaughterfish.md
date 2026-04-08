@@ -1,0 +1,65 @@
+# Slaughterfish
+
+| Slaughterfish | |
+| --- | --- |
+| [![LG-cardart-Slaughterfish.png](https://images.uesp.net/thumb/6/62/LG-cardart-Slaughterfish.png/200px-LG-cardart-Slaughterfish.png)](https://en.uesp.net/wiki/File:LG-cardart-Slaughterfish.png) A slaughterfish (Legends) | |
+| Type | [Beast](Lore_Bestiary.md) ([Fish](Lore_Fish.md)) |
+| Range | [Nirn](Lore_Nirn.md) <br> [Clockwork City](Lore_Clockwork_City.md), [Coldharbour](Lore_Coldharbour.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Slaughterfish), [Morrowind](https://en.uesp.net/wiki/Morrowind:Slaughterfish), [Oblivion](https://en.uesp.net/wiki/Oblivion:Slaughterfish), [Skyrim](Skyrim_Slaughterfish.md), [ESO](https://en.uesp.net/wiki/Online:Slaughterfish), [Legends](https://en.uesp.net/wiki/Legends:Slaughterfish) |
+
+Slaughterfish are large, aggressive fish with razor-sharp teeth found in the waters of nearly all of [Nirn](Lore_Nirn.md) and even in other realms such as [Coldharbour](Lore_Coldharbour.md). They are often found in large groups that will swarm unwary prey quickly and lethally, some specimens have been known to grow at least twice as large than average due to plentiful meals.<sup>[[1]](#cite_note-giant-1)</sup>
+
+Slaughterfish tend to prefer foul waters<sup>[[2]](#cite_note-ONFishing Guide-2)</sup> but can thrive in a variety of aquatic environments across [Tamriel](Lore_Tamriel.md), such as deep inland lakes and underground rivers.<sup>[[3]](#cite_note-guide-3)</sup> They have even been sighted in the heavily polluted, oily waters of the [Clockwork City](Lore_Clockwork_City.md), where most other fish species had been rendered near-extinct.<sup>[[4]](#cite_note-RTCCSA-4)</sup>
+
+## Species
+In both the [Second](Lore_Second_Era.md) and [Third](Lore_Third_Era.md) Eras, Lake Rumare in central Cyrodiil was known for its unusually large and aggressive population of slaughterfish, the infestation so extreme that by [2E 582](Lore_Second_Era.md#2E_582), swimming in the lake was considered certain death.<sup>[[5]](#cite_note-ONSW-5)</sup> By the time of [3E 433](Lore_Third_Era.md#3E_433) and the [Oblivion Crisis](Lore_Oblivion_Crisis.md), the slaughterfish population had diverged into two species, with the appearance of the Rumare Slaughterfish, a larger variety native to the lake.<sup>[[6]](#cite_note-OBGo Fish-6)</sup>
+
+In the [Wrothgarian Mountains](Lore_Wrothgar.md) there are records of a rare breed of slaughterfish known as the Crab-Slaughter-Crane, that is said to be big enough to "swallow a [mudcrab](Lore_Mudcrab.md) and a [crane](Lore_Crane.md) in one gulp".<sup>[[7]](#cite_note-CSC-7)</sup> Other larger variants include the Blind Slaughterfish and the Electric Slaughterfish, native to the waters of [Vvardenfell](Lore_Vvardenfell.md).<sup>[[8]](#cite_note-BGN-8)</sup>
+
+The slaughterfish of the [Iliac Bay](Lore_Iliac_Bay.md) are known to average around six feet in length, with "thousands of poisonous needlethin teeth" and are attracted to the taste of bloody water. <sup>[[3]](#cite_note-guide-3)</sup> Small Slaughterfish are a less threatening variant, smaller in size and possessing shorter fangs.<sup>[[9]](#cite_note-9)</sup> Giant Slaughterfish are a rare variant which are much larger in size. Based on analysis of their stomach contents, these giants appear to target people and even boats.<sup>[[10]](#cite_note-OBGiant-10)</sup> A Giant Slaughterfish attack can trigger a feeding frenzy among its smaller kin, causing them to attack in groups.<sup>[[11]](#cite_note-11)</sup> They are very rarely seen and seem to live deep underwater. One specimen was found living at the bottom of a deep chasm in the flooded grottoes of [Fathis Aren's Tower](Lore_Fathis_Aren%27s_Tower.md), deep beneath the lake bed of [Niben Bay](Lore_Niben_Bay.md).<sup>[[10]](#cite_note-OBGiant-10)</sup>
+
+## Culture
+With this fish being so prevalent, slaughterfish bites are a somewhat common occurrence and dangerous enough to maim limbs.<sup>[[12]](#cite_note-ONAelwin-12)</sup> Another health risk associated with the fish is that it is a carrier for the [Greenspore](Lore_Greenspore.md) disease, which can cause mental issues such as dementia.<sup>[[13]](#cite_note-MWMWSTSF-13)</sup> This has lead to a lucrative market for slaughterfish preventatives and cures, with products ranging from alchemical slurries marketed as repellents, to books full of remedies, the success of these products have been mixed.<sup>[[14]](#cite_note-ONRepel-14)</sup><sup>[[15]](#cite_note-ONRemedy-15)</sup> Some fishermen were known to use enchanted bobbers which glow green in the presence of slaughterfish.<sup>[[16]](#cite_note-ONBobber-16)</sup>
+
+Various parts of the slaughterfish have been found to hold value, their [scales](Lore_Slaughterfish_Scales.md) and [eggs](Lore_Slaughterfish_Egg.md) are prized by alchemists for their alchemical properties, while their sharp teeth prove useful when used to enhance grappling hooks.<sup>[[17]](#cite_note-ONGrapple-17)</sup> They are also fit for consumption and due to the species' widespread range, there are numerous culinary traditions involving slaughterfish. In [Vvardenfell](Lore_Vvardenfell.md), the scales are dried and consumed as a "crunchy treat" by the locals, while disdaining slaughterfish flesh, describing it as "meally and noisome".<sup>[[18]](#cite_note-MWAnarenen-18)</sup> However, in [Nordic](Lore_Nord.md) areas, such as [Bleakrock Isle](Lore_Bleakrock_Isle.md), stone-cooked splayed slaughterfish was considered a delicacy, while on the mainland, seared slaughterfish is a common meal.<sup>[[19]](#cite_note-EFS-19)</sup><sup>[[20]](#cite_note-ONCooking Rock-20)</sup><sup>[[21]](#cite_note-ONSeared-21)</sup> Both the [Maormer](Lore_Maormer.md) and sailors are known to smoke slaughterfish while out at sea by using [fire salts](Lore_Fire_Salts.md) for cooking.<sup>[[22]](#cite_note-HTPSF-22)</sup> Meanwhile in the heartland of [Cyrodiil](Lore_Cyrodiil.md), slaughterfish pie was well known in the [Lake Rumare](Lore_Lake_Rumare.md) area.<sup>[[23]](#cite_note-Rumare Pie-23)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/4/45/DF-creature-Slaughterfish.gif)](https://en.uesp.net/wiki/File:DF-creature-Slaughterfish.gif) Slaughterfish (Daggerfall)
+- [![](https://images.uesp.net/thumb/7/79/MW-creature-Slaughterfish.jpg/200px-MW-creature-Slaughterfish.jpg)](https://en.uesp.net/wiki/File:MW-creature-Slaughterfish.jpg) Slaughterfish (Morrowind)
+- [![](https://images.uesp.net/thumb/3/39/OB-creature-Slaughterfish.jpg/200px-OB-creature-Slaughterfish.jpg)](https://en.uesp.net/wiki/File:OB-creature-Slaughterfish.jpg) Slaughterfish (Oblivion)
+- [![](https://images.uesp.net/thumb/f/f2/OB-creature-Slaughterfishes.jpg/200px-OB-creature-Slaughterfishes.jpg)](https://en.uesp.net/wiki/File:OB-creature-Slaughterfishes.jpg) Giant Slaughterfish next to a regular-sized one (Oblivion)
+- [![](https://images.uesp.net/thumb/d/d9/LG-cardart-Giant_Slaughterfish.png/135px-LG-cardart-Giant_Slaughterfish.png)](https://en.uesp.net/wiki/File:LG-cardart-Giant_Slaughterfish.png) Giant Slaughterfish (Legends)
+- [![](https://images.uesp.net/thumb/f/fe/SR-creature-Slaughterfish.jpg/200px-SR-creature-Slaughterfish.jpg)](https://en.uesp.net/wiki/File:SR-creature-Slaughterfish.jpg) Slaughterfish (Skyrim)
+- [![](https://images.uesp.net/thumb/4/41/ON-creature-Slaughterfish.jpg/200px-ON-creature-Slaughterfish.jpg)](https://en.uesp.net/wiki/File:ON-creature-Slaughterfish.jpg) Slaughterfish (ESO)
+- [![](https://images.uesp.net/thumb/2/28/MW-creature-Small_Slaughterfish.jpg/200px-MW-creature-Small_Slaughterfish.jpg)](https://en.uesp.net/wiki/File:MW-creature-Small_Slaughterfish.jpg) Small Slaughterfish (Morrowind)
+- [![](https://images.uesp.net/thumb/c/c1/LG-cardart-Slaughterfish_Spawning.png/131px-LG-cardart-Slaughterfish_Spawning.png)](https://en.uesp.net/wiki/File:LG-cardart-Slaughterfish_Spawning.png) Two slaughterfish (Legends)
+- [](https://en.uesp.net/wiki/File:ON-icon-fish-Slaughterfish.png) Slaughterfish icon (ESO)
+- [](https://en.uesp.net/wiki/File:ON-icon-fish-Crab-Slaughter-Crane.png) A rare Crab-Slaughter-Crane (ESO)
+
+## See Also
+- For game-specific information, see the [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Slaughterfish), [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Slaughterfish), [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Slaughterfish), [*Skyrim*](Skyrim_Slaughterfish.md), [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Slaughterfish), and *[Legends](https://en.uesp.net/wiki/Legends:Slaughterfish)* [](https://en.uesp.net/wiki/Legends:Core_Set) articles.
+
+## References
+1. [^](#cite_ref-giant_1-0) [Giant Slaughterfish](https://en.uesp.net/wiki/Oblivion:Giant_Slaughterfish) from *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+2. [^](#cite_ref-ONFishing Guide_2-0) [*A Guide to Fishing Tamriel*](Lore_A_Guide_to_Fishing_Tamriel.md) — "[The Old Slaughterfish](Lore_Books_by_Author.md#The_Old_Slaughterfish)"
+3. ^ <sup>***[a](#cite_ref-guide_3-0)***</sup><sup>***[b](#cite_ref-guide_3-1)***</sup> [*Daggerfall User's Guide*](https://en.uesp.net/wiki/Books:Daggerfall_User%27s_Guide)
+4. [^](#cite_ref-RTCCSA_4-0) [Submerged Aqueduct](https://en.uesp.net/wiki/Legends:Submerged_Aqueduct) quest in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+5. [^](#cite_ref-ONSW_5-0) Numerous [*Slaughterfish Warning*](https://en.uesp.net/wiki/Online:Slaughterfish_Warning) signs around the lake and connecting waterways in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-OBGo Fish_6-0) [Go Fish](https://en.uesp.net/wiki/Oblivion:Go_Fish) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+7. [^](#cite_ref-CSC_7-0) [Atorag](https://en.uesp.net/wiki/Online:Atorag)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))*
+8. [^](#cite_ref-BGN_8-0) [Briring](https://en.uesp.net/wiki/Morrowind:Briring) and [Gudling the Rascal](https://en.uesp.net/wiki/Morrowind:Gudling_the_Rascal)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+9. [^](#cite_ref-9) [Small Slaughterfish](https://en.uesp.net/wiki/Morrowind:Small_Slaughterfish) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. ^ <sup>***[a](#cite_ref-OBGiant_10-0)***</sup><sup>***[b](#cite_ref-OBGiant_10-1)***</sup> [Giant Slaughterfish](https://en.uesp.net/wiki/Oblivion:Giant_Slaughterfish) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+11. [^](#cite_ref-11) [Giant Slaughterfish](https://en.uesp.net/wiki/Legends:Giant Slaughterfish) card in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+12. [^](#cite_ref-ONAelwin_12-0) [Aelwin Merowald](https://en.uesp.net/wiki/Oblivion:Aelwin_Merowald)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+13. [^](#cite_ref-MWMWSTSF_13-0) [Mehra Drora](https://en.uesp.net/wiki/Morrowind:Mehra_Drora)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+14. [^](#cite_ref-ONRepel_14-0) [Slaughterfish Repellent](https://en.uesp.net/wiki/Online:Contraband_S#Slaughterfish_Repellent) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-ONRemedy_15-0) [1001 Remedies For Slaughterfish Bites Field Guide](https://en.uesp.net/wiki/Online:Contraband_Numeric#1001_Remedies_For_Slaughterfish_Bites_Field_Guide) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-ONBobber_16-0) [Slaughterfish Bobber](https://en.uesp.net/wiki/Online:Contraband_S#Slaughterfish_Bobber) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-ONGrapple_17-0) [Slaughterfish-Tooth Grappel](https://en.uesp.net/wiki/Online:Contraband_S#Slaughterfish-Tooth_Grappel) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-MWAnarenen_18-0) [Anarenen](https://en.uesp.net/wiki/Morrowind:Anarenen)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+19. [^](#cite_ref-EFS_19-0) [*Eiman's Fishy Secrets*](https://en.uesp.net/wiki/Online:Eiman%27s_Fishy_Secrets) — [Eiman](https://en.uesp.net/wiki/Online:Eiman)
+20. [^](#cite_ref-ONCooking Rock_20-0) [Slaughterfish Cooking Rock](https://en.uesp.net/wiki/Online:Contraband_S#Slaughterfish_Cooking_Rock) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-ONSeared_21-0) [Seared Slaughterfish with Mammoth Cheese](https://en.uesp.net/wiki/Online:Seared_Slaughterfish_with_Mammoth_Cheese) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-HTPSF_22-0) [*How To Prepare Slaughterfish*](Lore_How_To_Prepare_Slaughterfish.md)
+23. [^](#cite_ref-Rumare Pie_23-0) [Rumare Slaughterfish Pie](https://en.uesp.net/wiki/Online:Rumare_Slaughterfish_Pie) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)

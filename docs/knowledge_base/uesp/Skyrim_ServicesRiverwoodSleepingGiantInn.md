@@ -1,0 +1,3 @@
+# ServicesRiverwoodSleepingGiantInn
+
+Redirects to [ServicesRiverwoodSleepingGiantInn](Skyrim_Factions_S.md#ServicesRiverwoodSleepingGiantInn).

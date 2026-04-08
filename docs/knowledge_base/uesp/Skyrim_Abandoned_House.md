@@ -1,0 +1,47 @@
+# Abandoned House
+
+| --- | --- |
+| Home: <br> Abandoned House <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Abandoned+House)) | |
+| # of Zones | 1 |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | Never (storage is [safe](Skyrim_Containers.md#Safe_Locations)) |
+| [Level](https://en.uesp.net/wiki/Skyrim:Encounter_Zone_Level) | Min: 10 |
+| Console Location Code(s) | |
+| Markarth Abandoned House | |
+| Region | |
+| [The Reach](Skyrim_The_Reach.md) | |
+| Location | |
+| [Markarth](Skyrim_Markarth.md) | |
+| Special Features | |
+| [Shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) | [](Skyrim_Shadowmarks_(Thieves_Guild).md) Empty |
+
+[![](https://images.uesp.net/thumb/4/4d/SR-place-Abandoned_House.jpg/200px-SR-place-Abandoned_House.jpg)](https://en.uesp.net/wiki/File:SR-place-Abandoned_House.jpg) [](https://en.uesp.net/wiki/File:SR-place-Abandoned_House.jpg) The Abandoned House in Markarth The **Abandoned House** is a building in [Markarth](Skyrim_Markarth.md) next to [Arnleif and Sons Trading Company](Skyrim_Arnleif_and_Sons_Trading_Company.md) with a shrine to the [Daedric Prince](Lore_Daedric_Princes.md) [Molag Bal](Lore_Molag_Bal.md).
+
+Although abandoned, the house is fully furnished. It has four rooms and a tunnel in the basement leading to the shrine.
+
+## Related Quests
+- **[The House of Horrors](Skyrim_The_House_of_Horrors.md)**: Help [Molag Bal](Lore_Molag_Bal.md) take revenge upon a servant of [Boethiah](Lore_Boethiah.md). ([radiant](Skyrim_Radiant.md))
+
+## Abandoned House
+[![](https://images.uesp.net/thumb/7/72/SR-interior-Abandoned_House.jpg/200px-SR-interior-Abandoned_House.jpg)](https://en.uesp.net/wiki/File:SR-interior-Abandoned_House.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Abandoned_House.jpg) Shrine of Molag Bal in the Abandoned House The front door opens to a spacious, multipurpose room. A shelving unit just to the right of the front door holds a [Potion of True Shot](https://en.uesp.net/wiki/Skyrim:Potion_of_True_Shot) and a [sabre cat pelt](https://en.uesp.net/wiki/Skyrim:Sabre_Cat_Pelt), as well as some [wine](https://en.uesp.net/wiki/Skyrim:Wine) and [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine). Right next to the cupboard is an unlocked chest containing leveled items. A selection of [iron weaponry](https://en.uesp.net/wiki/Skyrim:Iron_Weapons) and a [hunting bow](https://en.uesp.net/wiki/Skyrim:Hunting_Bow) is displayed on the adjacent table, together with more wine and alto wine. However, any of these items may become dislodged during the first stages of the related quest, and subsequently found on the floor nearby. The nearby dresser is a safe storage option, but contains only clothes. A mace is sitting on top.
+
+The other side of the room serves as a kitchen and dining area. While the spit over the fire is not usable, plenty of foodstuffs can be found in this area, both on the table and scattered on the floor. A basket with two [cabbages](https://en.uesp.net/wiki/Skyrim:Cabbage) is by the front door. A small round table around the corner holds a bottle of wine, a bottle of alto wine, and a loaf of [bread](https://en.uesp.net/wiki/Skyrim:Bread). A dried [elves ear](Skyrim_Elves_Ear.md), two [garlic braids](https://en.uesp.net/wiki/Skyrim:Garlic_Braids), and a dried [frost mirriam](Skyrim_Dried_Frost_Mirriam.md) are hanging to the left of the fire, with a [woodcutter's axe](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe) on a pile of wood below. To the right of the fireplace are two [rabbits](Skyrim_Rabbit_(dead).md) and a [pheasant](Skyrim_Pheasant.md), along with an [eidar cheese wedge](https://en.uesp.net/wiki/Skyrim:Eidar_Cheese_Wedge), a [sliced eidar cheese](https://en.uesp.net/wiki/Skyrim:Sliced_Eidar_Cheese), and another cabbage. The cupboard to the right holds only tableware and a [troll skull](https://en.uesp.net/wiki/Skyrim:Troll_Skull), but is a safe storage option. The table is laden with food: two [potatoes](https://en.uesp.net/wiki/Skyrim:Potato), a [baked potato](https://en.uesp.net/wiki/Skyrim:Baked_Potatoes), a serving of [grilled leeks](https://en.uesp.net/wiki/Skyrim:Grilled_Leeks), a [raw rabbit leg](https://en.uesp.net/wiki/Skyrim:Raw_Rabbit_Leg), a [pheasant breast](https://en.uesp.net/wiki/Skyrim:Pheasant_Breast), a [salmon steak](https://en.uesp.net/wiki/Skyrim:Salmon_Steak), a [seared slaughterfish steak](https://en.uesp.net/wiki/Skyrim:Seared_Slaughterfish), a [goat cheese wheel](https://en.uesp.net/wiki/Skyrim:Goat_Cheese_Wheel), a [sliced goat cheese](https://en.uesp.net/wiki/Skyrim:Sliced_Goat_Cheese), a [goat cheese wedge](https://en.uesp.net/wiki/Skyrim:Goat_Cheese_Wedge), a sliced eidar cheese, an eidar cheese wedge, two loaves and a piece of bread, two bottles of alto wine, and a bottle of wine. A second unlocked chest by the table contains leveled items. The end table has clutter, but is another safe storage option.
+
+The second room is furnished with a usable bed. A hidden chest containing leveled items is tucked underneath the foot of the bed. More safe storage options are in the bedroom, including the end table by the bed and the dresser across from the bed. A bottle of wine is on the end table, and a bottle of alto wine and a cheap book are on the dresser. The cupboard is also safe, and holds a [potion of minor healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Healing), an iron sword, and a sabre cat pelt. A copy of *[Boethiah's Proving](https://en.uesp.net/wiki/Skyrim:Boethiah%27s_Proving)* may be found under the cupboard. An unlocked chest by the doorway to the next room contains leveled items.
+
+The next room and lower levels of the house are used mostly for storage. A small coin purse, clutched by a skeletal arm, is on the pillar at the foot of the stairs. To the left is a shelving unit containing clutter, a bottle of wine, a bottle of alto wine, and two loaves of bread. Two rabbits, a pheasant, a dried elves ear, and a garlic braid hang straight ahead on the west wall, near another potato and a [gourd](https://en.uesp.net/wiki/Skyrim:Gourd) on a barrel. To the right is a wall shelf with some sacks, a loaf of bread, and a goat cheese wheel. In the northeast corner is a cupboard containing clutter and two potatoes. Next to the cupboard is a wall shelf with more sacks. The furniture is safe storage, but contains nothing of interest. Before the next room is a small area with a wall shelf containing clutter, more sacks, and a barrel, with a [pickaxe](https://en.uesp.net/wiki/Skyrim:Pickaxe) on the floor.
+
+The next room down contains a desk ahead with a bottle of wine, a bottle of [Nord mead](https://en.uesp.net/wiki/Skyrim:Nord_Mead), and a barrel containing more Nord mead. To the left are four more barrels, three of which contain more Nord mead. There is a shelving unit to the left of the barrels containing clutter, some sacks, two bottles of alto wine, and two bottles of wine. In the remaining half of the room are four more shelving units containing clutter, sacks, another bottle of alto wine, and another pickaxe, with five more barrels nearby, three containing Nord mead. When exploring the room, you will notice a draft coming from the south. Following this leads you to a tunnel heading down. The tunnel winds through some [Dwemer](Lore_Dwemer.md) ruins to the shrine of Molag Bal. The only item of slight interest in the tunnel is another pickaxe.
+
+## Notes
+- The house can be used as free player housing, as items will not disappear from the containers.
+- There are no cooking, alchemy, or enchanting facilities, but the house has the largest amount of storage containers in the game, with 62 in total.
+- The poltergeist effect that triggers as part of the House of Horrors can be avoided in order to keep the house tidy. If [Vigilant Tyranus](Skyrim_Vigilant_Tyranus.md) is killed before the effect starts, it will never occur, and all furniture will remain positioned normally, while the quest will proceed without problems. - The effect causes the chairs in the entrance room to become rearranged atop the table. If this happens and you prefer the old arrangement, the chairs can be reset by activating the console and typing `prid c2527` followed by `disable`.
+- A copy of the book *[Boethiah's Proving](https://en.uesp.net/wiki/Skyrim:Boethiah%27s_Proving)* can be found under a cupboard in the second room after you reach level 30, leading to another Daedric quest.
+- There is an "Empty" [shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) at the bottom left of the entrance door, due to the lack of notable loot inside.
+- The house is referred to as [Logrolf](https://en.uesp.net/wiki/Skyrim:Logrolf_the_Willful)'s House in the Creation Kit.
+- The house is [occupied by seemingly normal people](https://en.uesp.net/wiki/Online:Etavarn%27s_House) in *[The Elder Scrolls Online](https://en.uesp.net/wiki/Online:Online): [Markarth](Online_Markarth_(DLC).md)*. The altar to Molag Bal didn't yet exist at that time.
+
+## Bugs
+- Tyranus can go missing from his usual location outside the building. If this occurs, he may reappear near the stables outside of the city.
+- The scene between Yngvar and Tyranus in front of the building that introduces The House of Horrors may cause Yngvar to warp back from Windhelm if he was exiled to there as a result of the Civil War. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Skyrim_Patch), version 1.3.3, fixes this bug.

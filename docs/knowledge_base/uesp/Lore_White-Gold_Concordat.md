@@ -1,0 +1,19 @@
+# White-Gold Concordat
+
+
+The terms of the treaty outlawed the worship of [Talos](Lore_Talos.md) in the Empire, forced [the Blades](Lore_Blades.md) to disband, and delivered a large portion of southern [Hammerfell](Lore_Hammerfell.md) into the control of the Aldmeri Dominion. [Emperor Titus Mede II](https://en.uesp.net/wiki/Lore:Emperor_Titus_Mede_II) made these concessions to the [Thalmor](Lore_Thalmor.md) hierarchy to give the [Imperial Legion](Lore_Imperial_Legion.md) time to recover its strength, as it had been decimated in the [Battle of the Red Ring](Lore_Great_War.md).<sup>[[1]](#cite_note-TGW-1)</sup> The Thalmor were also granted the authority to operate within the Empire to ensure the terms were enforced.<sup>[[6]](#cite_note-Elenwen-6)</sup><sup>[[7]](#cite_note-FFTT-7)</sup>
+
+The [Redguards](Lore_Redguard.md) of Hammerfell, however, refused to accept the terms of the White-Gold Concordat, and continued to resist the Thalmor. This forced Titus Mede to officially renounce Hammerfell as a province of the Empire to preserve the peace stipulated in the treaty. Viewing this as a betrayal, Hammerfell became an independent state, and managed to fight the Dominion to a standstill, culminating in the signing of the [Second Treaty of Stros M'Kai](Lore_Second_Treaty_of_Stros_M%27Kai.md) five years later in [4E 180](Lore_Fourth_Era.md#4E_180), which resulted in all Aldmeri forces withdrawing from Hammerfell. Hammerfell thus became an independent, if devastated, nation. Diplomatic relations between Hammerfell and the Empire remain strained, an outcome that Legate Justianus Quintius postulates was a long-term goal of the Thalmor.<sup>[[1]](#cite_note-TGW-1)</sup>
+
+The Talos ban was initially not enforced in [Skyrim](Lore_Skyrim.md),<sup>[[8]](#cite_note-SKALvor-8)</sup> but when the Thalmor discovered that Jarl Hrolfdir of Markarth had formally granted [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) and his militia the freedom to worship Talos in return for their aid, the Emperor was forced to crack down.<sup>[[8]](#cite_note-SKALvor-8)</sup><sup>[[9]](#cite_note-SRIgmund-9)</sup> Ulfric and his men were arrested, which became a seminal moment for the [Stormcloaks](Lore_Stormcloaks.md) and their [rebellion](Lore_Stormcloak_Rebellion.md).<sup>[[9]](#cite_note-SRIgmund-9)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TGW_1-0)***</sup><sup>***[b](#cite_ref-TGW_1-1)***</sup><sup>***[c](#cite_ref-TGW_1-2)***</sup> [*The Great War*](Lore_The_Great_War_(book).md) — Legate [Justianus Quintius](Lore_Books_by_Author.md#Justianus_Quintius)
+2. [^](#cite_ref-2) [Loading Screen](Skyrim_Loading_Screens.md) in [*Skyrim*](Skyrim_Skyrim.md)
+3. [^](#cite_ref-3) [Hadvar](Skyrim_Hadvar.md)'s dialogue during [Before the Storm](Skyrim_Before_the_Storm.md) in [*Skyrim*](Skyrim_Skyrim.md)
+4. [^](#cite_ref-4) [Ondolemar](Skyrim_Ondolemar.md)'s dialogue during [Diplomatic Immunity](Skyrim_Diplomatic_Immunity.md) in [*Skyrim*](Skyrim_Skyrim.md)
+5. [^](#cite_ref-5) [Delphine](Skyrim_Delphine.md)'s dialogue during [A Blade in the Dark](Skyrim_A_Blade_in_the_Dark.md) in [*Skyrim*](Skyrim_Skyrim.md)
+6. [^](#cite_ref-Elenwen_6-0) [Elenwen](Skyrim_Elenwen.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+7. [^](#cite_ref-FFTT_7-0) [*Flight from the Thalmor*](https://en.uesp.net/wiki/Lore:Flight_from_the_Thalmor) — [Hadrik Oaken-Heart](Lore_Books_by_Author.md#Hadrik_Oaken-Heart)
+8. ^ <sup>***[a](#cite_ref-SKALvor_8-0)***</sup><sup>***[b](#cite_ref-SKALvor_8-1)***</sup> [Alvor](https://en.uesp.net/wiki/Skyrim:Alvor)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+9. ^ <sup>***[a](#cite_ref-SRIgmund_9-0)***</sup><sup>***[b](#cite_ref-SRIgmund_9-1)***</sup> [Igmund](Skyrim_Igmund.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*

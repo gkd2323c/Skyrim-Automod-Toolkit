@@ -1,0 +1,27 @@
+# Ancotar's Journal
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Oblivion](https://en.uesp.net/wiki/Oblivion:Ancotar%27s_Journal) |
+
+Ancotar's Journal **by [Ancotar](Lore_Books_by_Author.md#Ancotar)** *The journal of a mage, Ancotar, and his experiments with conjuration and invisibility spells*
+---
+12th of Rains Hand: Today I begin my great project on the spontaneous generation of life. I expect that there will be difficult days ahead, but if I succeed, my place among the great mages of history will be assured.
+
+23rd Rains Hand: Still not able to even reproduce [Empedocles](https://en.uesp.net/wiki/Lore:Empedocles)'s results with maggots. I'm beginning to think his reputation is overblown.
+
+3rd Second Seed, Tirdas: Empedocles was right! The mistranslation of "sunlit" to "scorching heat" explains my earlier problems. From now on I will work only in the original [daedric](Lore_Daedric_Alphabet.md), despite the risks.
+
+Fredas (mid Second Seed?): Local peasants came by to complain about the noise. I promised them that all that was behind me. A pleasant if dull-witted crew.
+
+Morndas (I think): The experiment today went better than expected. Although the number of [rats](Lore_Rat.md) produced was surprising, they were all remarkably docile, just as [Malham](Lore_Malham.md) predicted (although only I have ever proven it empirically!).
+
+Middas: Villagers again. More complaints. You would think they'd never seen a rat before! They are starting to become a real nuisance.
+
+I've run into a terrible snag. [Galerion](Lore_Vanus_Galerion.md)'s Ninth Law appears immutable! If the total life generated cannot exceed the cube of the source, this line of research may prove a dead end. I must reread Empedocles for any hint that he was able to circumvent this barrier.
+
+Next day: The locals are becoming insufferable! While I was walking in the woods, some of them broke into my laboratory and spilled the solution I was preparing -- nearly a full quart of purified [imp gall](https://en.uesp.net/wiki/Lore:Imp_Gall) wasted! They did not seem to grasp the absurdity of a crowd of unwashed peasants with dung on their boots complaining about the smell. It is well past time I did something about this problem.
+
+Two days later: I dug up the notes from my permanent invisibility thesis. No time like the present to put theory into practice!
+
+Today: The spell worked! Not perfect invisibility, of course ([Vanto](https://en.uesp.net/wiki/Lore:Vanto)'s Third Law), but it was more powerful than I expected. And there were none of the side effects that Professor [Traven](Lore_Hannibal_Traven.md) had predicted. Ha ha, even in my youth I was already outstripping my elders. Now I can get back to my real work in peace.

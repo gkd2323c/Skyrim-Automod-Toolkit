@@ -1,0 +1,37 @@
+# Cross
+
+
+Circa [2E 582](Lore_Second_Era.md#2E_582) members of the [Fighters Guild](Lore_Fighters_Guild.md) fell under the control of a unique [Spider Daedra](https://en.uesp.net/wiki/Lore:Spider_Daedra) in a cave in [Glenumbra](https://en.uesp.net/wiki/Lore:Glenumbra); those that weren't controlled were captured and strung up on wooden crosses with web.<sup>[[6]](#cite_note-6)</sup>
+
+A variation of the cross that includes two additional diagonal lines is sometimes used.<sup>[[7]](#cite_note-7)</sup> This design was utilized by [Daedric](Lore_Daedra.md) cultists to create [iron](https://en.uesp.net/wiki/Lore:Iron) torture devices.<sup>[[2]](#cite_note-IC-2)</sup><sup>[[8]](#cite_note-ICL-8)</sup>
+
+## Known Temples That Use the Cross
+[![](https://images.uesp.net/c/c0/AR-npc-Temple_Priest A.gif)](https://en.uesp.net/wiki/File:AR-npc-Temple_Priest A.gif) [](https://en.uesp.net/wiki/File:AR-npc-Temple_Priest A.gif) A priest wearing a cross and holding a book with a cross on it (Arena) | - [Brotherhood of Charity](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of Faith](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of Gideon](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of Justice](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of Mercy](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of the One](https://en.uesp.net/wiki/Lore:Brotherhood_of_the_One) <br> - [Brotherhood of Seth](Lore_Brotherhood_of_Seth.md) <br> - [Brotherhood of Temperance](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Brotherhood of War](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) | - [Conclave of Baal](https://en.uesp.net/wiki/Lore:Conclave_of_Baal) <br> - [Conclave of Charity](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Faith](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Justice](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Mercy](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of the One](https://en.uesp.net/wiki/Lore:Conclave_of_the_One) <br> - [Conclave of the One Prophet](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Riana](https://en.uesp.net/wiki/Lore:Conclave_of_Riana) | - [Conclave of Solitude](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Temperance](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Conclave of Truth](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Order of the Gentle Hand](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Order of the Golden Tomb](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Order of the Knights of Hope](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Order of the One Prophet](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) <br> - [Order of the Red Rose](Lore_Imperial.md#Cyrodilic_Empire.27s_Common_Temples) |
+| --- | --- | --- |
+
+## Gallery
+- [![](https://images.uesp.net/a/aa/AR-npc-Inn_Monk A.gif)](https://en.uesp.net/wiki/File:AR-npc-Inn_Monk A.gif) A monk wearing a cross and carrying a basket with a cross on it (Arena)
+- [![](https://images.uesp.net/e/e8/AR-sprite-DLGT.png)](https://en.uesp.net/wiki/File:AR-sprite-DLGT.png) A cross on a wall (Arena)
+- [![](https://images.uesp.net/1/17/DF-sprite-Tombstone.png)](https://en.uesp.net/wiki/File:DF-sprite-Tombstone.png) Unused cross-shaped tombstone sprite (Daggerfall)
+- [![](https://images.uesp.net/3/34/DF-sprite-Large_Cross.png)](https://en.uesp.net/wiki/File:DF-sprite-Large_Cross.png) Unused wooden cross sprite (Daggerfall)
+- [![](https://images.uesp.net/0/03/DF-sprite-Crucifixion.png)](https://en.uesp.net/wiki/File:DF-sprite-Crucifixion.png) Unused crucifixion sprite (Daggerfall)
+- [![](https://images.uesp.net/c/cf/DF-sprite-Crucifixion_02.png)](https://en.uesp.net/wiki/File:DF-sprite-Crucifixion_02.png) Unused sprite of a crow looming over a crucified man (Daggerfall)
+- [![](https://images.uesp.net/thumb/a/a8/LO-book-Chance%27s_Folly.jpg/200px-LO-book-Chance%27s_Folly.jpg)](https://en.uesp.net/wiki/File:LO-book-Chance%27s_Folly.jpg) A flag or banner depicting the cross
+- [![](https://images.uesp.net/thumb/b/be/SK-place-Nym%27s_Airship.jpg/200px-SK-place-Nym%27s_Airship.jpg)](https://en.uesp.net/wiki/File:SK-place-Nym%27s_Airship.jpg) A Cross on the sail of Captain Nym's [Airship](https://en.uesp.net/wiki/Lore:Airships) (Shadowkey)
+- [![](https://images.uesp.net/thumb/3/33/ON-npc-Mereel.jpg/200px-ON-npc-Mereel.jpg)](https://en.uesp.net/wiki/File:ON-npc-Mereel.jpg) A victim affixed to a wooden cross (ESO)
+- [![](https://images.uesp.net/thumb/d/d3/ON-item-armor-Worm_Cult_Hunter_Shield.jpg/200px-ON-item-armor-Worm_Cult_Hunter_Shield.jpg)](https://en.uesp.net/wiki/File:ON-item-armor-Worm_Cult_Hunter_Shield.jpg) Cross designs on an anti-Worm Cult shield (ESO)
+- [![](https://images.uesp.net/9/92/ON-concept-Prince-Meridia-emblem.png)](https://en.uesp.net/wiki/File:ON-concept-Prince-Meridia-emblem.png) A cross emblem associated with Meridia
+- [](https://en.uesp.net/wiki/File:ON-icon-stolen-Cross.png) A cross pin (ESO)
+- [![](https://images.uesp.net/thumb/d/d8/ON-head_marking-Black_Cross%2C_Cheek_Diagonals.jpg/200px-ON-head_marking-Black_Cross%2C_Cheek_Diagonals.jpg)](https://en.uesp.net/wiki/File:ON-head_marking-Black_Cross,_Cheek_Diagonals.jpg) Facial markings of a cross (ESO)
+- [![](https://images.uesp.net/thumb/5/53/ON-furnishing-Iron_Cross.jpg/200px-ON-furnishing-Iron_Cross.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Iron_Cross.jpg) An iron cross (ESO)
+- [![](https://images.uesp.net/thumb/2/28/ON-furnishing-Iron_Cross%2C_Large.jpg/200px-ON-furnishing-Iron_Cross%2C_Large.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Iron_Cross,_Large.jpg) A large iron cross (ESO)
+
+## References
+1. ^ <sup>***[a](#cite_ref-AP_1-0)***</sup><sup>***[b](#cite_ref-AP_1-1)***</sup> [Priests](https://en.uesp.net/wiki/Arena:Priest) in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. ^ <sup>***[a](#cite_ref-IC_2-0)***</sup><sup>***[b](#cite_ref-IC_2-1)***</sup> [Iron Cross](https://en.uesp.net/wiki/Online:Iron_Cross) furnishing in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [Menwendel](https://en.uesp.net/wiki/Online:Menwendel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) [Severius Rutilus](https://en.uesp.net/wiki/Online:Severius_Rutilus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Eorda_5-0) [Eorda](https://en.uesp.net/wiki/Online:Eorda)'s dialogue in [ESO](Online_The_Deadlands_(DLC).md)
+6. [^](#cite_ref-6) [Mereel](https://en.uesp.net/wiki/Online:Mereel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-7) [Black Cross, Cheek Diagonals](https://en.uesp.net/wiki/Online:Black_Cross,_Cheek_Diagonals) head marking in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ICL_8-0) [Iron Cross, Large](https://en.uesp.net/wiki/Online:Iron_Cross,_Large) furnishing in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,28 @@
+# Book of the Warrior God
+
+[![](https://images.uesp.net/thumb/c/cd/ON-item-Book_of_Trinimac.jpg/200px-ON-item-Book_of_Trinimac.jpg)](https://en.uesp.net/wiki/File:ON-item-Book_of_Trinimac.jpg) [](https://en.uesp.net/wiki/File:ON-item-Book_of_Trinimac.jpg) Book of Trinimac The Book of the Warrior God,<sup>[[1]](#cite_note-TSOA-1)</sup><sup>[[2]](#cite_note-TSOV-2)</sup><sup>[[3]](#cite_note-TSOU-3)</sup> also referred to as the **Book of Trinimac**<sup>[[4]](#cite_note-Ordatha-4)</sup> is a holy scripture of the [Orc](Lore_Orc.md) branch of the Cult of [Trinimac](Lore_Trinimac.md) and its extremist branch [Vosh Rakh](Lore_Vosh_Rakh.md).<sup>[[4]](#cite_note-Ordatha-4)</sup><sup>[[5]](#cite_note-Elder_Akarah-5)</sup><sup>[[6]](#cite_note-TAOAK-6)</sup> It contains tenets of the faith as well as stories of grand champions of the Orsimer.<sup>[[1]](#cite_note-TSOA-1)</sup><sup>[[2]](#cite_note-TSOV-2)</sup><sup>[[3]](#cite_note-TSOU-3)</sup> Sermons from the Book of the Warrior God were read in centers of the Trinimac's worship such as the Temple of Ire.<sup>[[4]](#cite_note-Ordatha-4)</sup>
+
+## Known Excerpts
+[![](https://images.uesp.net/thumb/0/0f/ON-interior-Temple_of_Ire.jpg/200px-ON-interior-Temple_of_Ire.jpg)](https://en.uesp.net/wiki/File:ON-interior-Temple_of_Ire.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Temple_of_Ire.jpg) Reading of the Book of the Warrior God in the Temple of Ire - 3:24—Avalian's Flight: "And the volcano erupted with a thunderous boom. The ground rattled and the sky filled with ash. This did not break [Avalian](Lore_Avalian.md)'s will. He stared at his enemy—a fiery god of lava and stone. His blade drawn, Trinimac's blessed child Avalian charged the mountain. Though lava flowed and covered the path, Avalian traversed the mountain with such quickness that the heat did not scorch his feet. As quick as the wind, Avalian dove into the mountain, driving his blade into the heart of the beast."<sup>[[1]](#cite_note-TSOA-1)</sup>
+- 4:18— Vaia's Courage: "As the hammer fell, [Vaia](Lore_Vaia.md) stood her ground. [Rhogar the Destroyer](Lore_Rhogar_the_Destroyer.md) had shattered entire armies with the power of his enchanted hammer. But this did not dampen Vaia's resolve. Holding her shield above her head, she knew that Trinimac watched over her. A loud crash, a thunderous boom, and a crack that toppled nearby trees echoed throughout the land. But when the dust settled, it was not the small wooden shield that Vaia held that lay shattered on the ground. It was Rhogar's mighty hammer."<sup>[[2]](#cite_note-TSOV-2)</sup>
+- 4:22—The Rage of Usunok: "He hunted not for food or sport. He hunted not for the thrill of the kill. No, he hunted to prove his strength. The beast before him rose, taller than the trees. [Usunok](Lore_Usunok.md), armed only with his fists and the blessing of his god Trinimac, charged forward to deliver a single blow. For with Trinimac's blessing upon him, one blow was all he would need. In an instant, it was over. No amount of scales or fat or muscle could stop the force of Usunok's rage striking its target. The beast fell with hardly a cry or a whimper. Usunok did not celebrate. He did not cheer. He simply went hunting for his next challenge."<sup>[[3]](#cite_note-TSOU-3)</sup>
+- "Trinimac's blessed child Avalian charged the mountain, driving his blade into the heart of the beast."<sup>[[4]](#cite_note-Ordatha-4)</sup>
+- "Armed only with his fists and the blessing of Trinimac, Usunok charged forward to deliver a single blow."<sup>[[4]](#cite_note-Ordatha-4)</sup>
+- "Trinimac is strong, not brutish. He is wise, not murderous. Trinimac is life."<sup>[[4]](#cite_note-Ordatha-4)</sup>
+- "You welcome the dead to an endless parade of war and celebrations, mighty Trinimac. Share with us your blessing!"<sup>[[4]](#cite_note-Ordatha-4)</sup>
+- "Rhogar held her shield above her head, knowing that Trinimac watched over her."<sup>[[4]](#cite_note-Ordatha-4)</sup>
+
+## See Also
+
+### Books
+- ***[The Scroll of Avalian](Lore_The_Scroll_of_Avalian.md)*** — An account of Avalian's battle with a fiery beast
+- ***[The Scroll of Vaia](Lore_The_Scroll_of_Vaia.md)*** — An account of Vaia's battle with Rhogar the Destroyer
+- ***[The Scroll of Usunok](Lore_The_Scroll_of_Usunok.md)*** — An account of Usunok's hunt
+
+## References
+1. ^ <sup>***[a](#cite_ref-TSOA_1-0)***</sup><sup>***[b](#cite_ref-TSOA_1-1)***</sup><sup>***[c](#cite_ref-TSOA_1-2)***</sup> [*The Scroll of Avalian*](Lore_The_Scroll_of_Avalian.md)
+2. ^ <sup>***[a](#cite_ref-TSOV_2-0)***</sup><sup>***[b](#cite_ref-TSOV_2-1)***</sup><sup>***[c](#cite_ref-TSOV_2-2)***</sup> [*The Scroll of Vaia*](Lore_The_Scroll_of_Vaia.md)
+3. ^ <sup>***[a](#cite_ref-TSOU_3-0)***</sup><sup>***[b](#cite_ref-TSOU_3-1)***</sup><sup>***[c](#cite_ref-TSOU_3-2)***</sup> [*The Scroll of Usunok*](Lore_The_Scroll_of_Usunok.md)
+4. ^ <sup>***[a](#cite_ref-Ordatha_4-0)***</sup><sup>***[b](#cite_ref-Ordatha_4-1)***</sup><sup>***[c](#cite_ref-Ordatha_4-2)***</sup><sup>***[d](#cite_ref-Ordatha_4-3)***</sup><sup>***[e](#cite_ref-Ordatha_4-4)***</sup><sup>***[f](#cite_ref-Ordatha_4-5)***</sup><sup>***[g](#cite_ref-Ordatha_4-6)***</sup><sup>***[h](#cite_ref-Ordatha_4-7)***</sup> [Ordatha](https://en.uesp.net/wiki/Online:Ordatha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Elder_Akarah_5-0) [Elder Akarah](https://en.uesp.net/wiki/Online:Elder_Akarah)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-TAOAK_6-0) Events of [The Anger of a King](https://en.uesp.net/wiki/Online:The_Anger_of_a_King) in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,38 @@
+# Council of Nedic Kings
+
+
+## History
+[![](https://images.uesp.net/thumb/8/85/ON-interior-Skyreach_Catacombs_04.jpg/200px-ON-interior-Skyreach_Catacombs_04.jpg)](https://en.uesp.net/wiki/File:ON-interior-Skyreach_Catacombs_04.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Skyreach_Catacombs_04.jpg) The Council of Nedic Kings in the Skyreach Catacombs [![](https://images.uesp.net/thumb/d/d6/ON-creature-Virmaril_the_Betrayer.jpg/200px-ON-creature-Virmaril_the_Betrayer.jpg)](https://en.uesp.net/wiki/File:ON-creature-Virmaril_the_Betrayer.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Virmaril_the_Betrayer.jpg) Virmaril In [1E 808](Lore_First_Era.md#1E_808),<sup>[[3]](#cite_note-PGE-3)</sup> the Kings convened in secret within the catacombs beneath Skyreach to debate how best to defend against the Yokudan invaders. These catacombs were often used for clandestine meetings and covert travel.<sup>[[1]](#cite_note-CD-1)</sup> During this gathering, [Virmaril](https://en.uesp.net/wiki/Lore:Virmaril), the court wizard of the High King, betrayed them. He harbored resentment after High King Durac arranged a marriage between King [Kestic](https://en.uesp.net/wiki/Lore:Kestic) of the forest region and his own daughter, Saradin, to strengthen ties between their factions, as Virmaril himself loved Saradin.<sup>[[4]](#cite_note-SD-4)</sup><sup>[[5]](#cite_note-VJ-5)</sup> Feigning loyalty, Virmaril proposed a strategy to Durac for combating the [Anka-Ra](https://en.uesp.net/wiki/Lore:Anka-Ra), prompting the High King to summon a broader council of rulers from various Nedic clans, including Kestic and many other kings loyal to Durac to the Skyreach Catacombs. There, Virmaril murdered the assembled kings and used [necromancy](https://en.uesp.net/wiki/Lore:Necromancy) to seize control of both their corpses and the interred dead within the catacombs. His victory was short-lived, however, as he was ultimately sealed deep within the inner sanctum. Skyreach was later besieged by the Anka-Ra, and the Nedic kingdoms soon collapsed.<sup>[[5]](#cite_note-VJ-5)</sup><sup>[[2]](#cite_note-WSJ-2)</sup>
+
+Centuries later, during the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md), an expedition from the [Antiquarian Circle](https://en.uesp.net/wiki/Lore:Antiquarian_Circle) of the [University of Gwylim](Lore_University_of_Gwylim.md), including scholars such as Verita Numida and Reginus Buca, ventured into the Skyreach Catacombs and identified the chamber where the ancient gathering of kings had taken place. One member of the expedition, who believed Virmaril to have been real despite his largely mythical status by that time, reported sensing an eerie, hostile presence. Although the group found no direct evidence of Virmaril's survival, they chose to withdraw when it was suggested that their investigations might have stirred the long-dormant sorcerer.<sup>[[6]](#cite_note-SE-6)</sup> In [2E 582](Lore_Second_Era.md#2E_582), [a band of adventurers](Lore_The_Vestige.md) entered the Skyreach Catacombs after dark magic was seen emanating from the ruins. There, they confronted the risen Nedic kings in successive waves, ultimately destroying them all at once, and later facing Virmaril himself and ending the threat.<sup>[[7]](#cite_note-ESOSot B-7)</sup>
+
+## Members
+[![](https://images.uesp.net/thumb/a/a5/LO-misc-Nedic_Banners.png/450px-LO-misc-Nedic_Banners.png)](https://en.uesp.net/wiki/File:LO-misc-Nedic_Banners.png) [](https://en.uesp.net/wiki/File:LO-misc-Nedic_Banners.png) Banners of the Nedic Kings (Spirit, Storm, Sun, Forest, High King Durac, Shadow, Frost, Flame, Blood) - High King [Durac](https://en.uesp.net/wiki/Lore:Durac) - Court Wizard [Virmaril](https://en.uesp.net/wiki/Lore:Virmaril)
+- King [Kestic](https://en.uesp.net/wiki/Lore:Kestic), the Forest King
+- The [Blood King](https://en.uesp.net/wiki/Lore:Blood_King)
+- The [Flame King](https://en.uesp.net/wiki/Lore:Flame_King)
+- The [Frost King](https://en.uesp.net/wiki/Lore:Frost_King)
+- The [Shadow King](https://en.uesp.net/wiki/Lore:Shadow_King)
+- The [Spirit King](https://en.uesp.net/wiki/Lore:Spirit_King)
+- The [Storm King](https://en.uesp.net/wiki/Lore:Storm_King)
+- The [Sun King](https://en.uesp.net/wiki/Lore:Sun_King)
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/a8/ON-npc-High_King_Durac_02.jpg/200px-ON-npc-High_King_Durac_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-High_King_Durac_02.jpg) High King Durac
+- [![](https://images.uesp.net/thumb/9/90/ON-npc-The_Forest_King_02.jpg/200px-ON-npc-The_Forest_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Forest_King_02.jpg) Forest King Kestic
+- [![](https://images.uesp.net/thumb/2/23/ON-npc-The_Blood_King_02.jpg/200px-ON-npc-The_Blood_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Blood_King_02.jpg) The Blood King
+- [![](https://images.uesp.net/thumb/c/c1/ON-npc-The_Flame_King_02.jpg/200px-ON-npc-The_Flame_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Flame_King_02.jpg) The Flame King
+- [![](https://images.uesp.net/thumb/1/13/ON-npc-The_Frost_King_02.jpg/200px-ON-npc-The_Frost_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Frost_King_02.jpg) The Frost King
+- [![](https://images.uesp.net/thumb/1/13/ON-npc-The_Shadow_King_02.jpg/200px-ON-npc-The_Shadow_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Shadow_King_02.jpg) The Shadow King
+- [![](https://images.uesp.net/thumb/f/ff/ON-npc-The_Spirit_King_02.jpg/200px-ON-npc-The_Spirit_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Spirit_King_02.jpg) The Spirit King
+- [![](https://images.uesp.net/thumb/d/d1/ON-npc-The_Storm_King_02.jpg/200px-ON-npc-The_Storm_King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Storm_King_02.jpg) The Storm King
+- [![](https://images.uesp.net/thumb/c/c8/ON-npc-The_Sun_King_03.jpg/200px-ON-npc-The_Sun_King_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Sun_King_03.jpg) The Sun King
+
+## References
+1. ^ <sup>***[a](#cite_ref-CD_1-0)***</sup><sup>***[b](#cite_ref-CD_1-1)***</sup> [Crusader Dalamar](https://en.uesp.net/wiki/Online:Crusader_Dalamar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-WSJ_2-0)***</sup><sup>***[b](#cite_ref-WSJ_2-1)***</sup> [*Watcher Shavmar's Journal*](https://en.uesp.net/wiki/Lore:Watcher_Shavmar%27s_Journal) — [Watcher Shavmar](Lore_Books_by_Author.md#Watcher_Shavmar)
+3. [^](#cite_ref-PGE_3-0) [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-SD_4-0) [*Saradin's Diary*](https://en.uesp.net/wiki/Lore:Saradin%27s_Diary) — [Saradin](Lore_Books_by_Author.md#Saradin)
+5. ^ <sup>***[a](#cite_ref-VJ_5-0)***</sup><sup>***[b](#cite_ref-VJ_5-1)***</sup> [*Virmaril's Journal*](https://en.uesp.net/wiki/Lore:Virmaril%27s_Journal) — [Virmaril](Lore_Books_by_Author.md#Virmaril), Advisor to [High King Durac](https://en.uesp.net/wiki/Lore:High_King_Durac)
+6. [^](#cite_ref-SE_6-0) [*Skyreach Explorer*](https://en.uesp.net/wiki/Lore:Skyreach_Explorer) — [Reginus Buca](Lore_Books_by_Author.md#Reginus_Buca), Historian, [University of Gwylim](Lore_University_of_Gwylim.md)
+7. [^](#cite_ref-ESOSot B_7-0) [Souls of the Betrayed](https://en.uesp.net/wiki/Online:Souls_of_the_Betrayed) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,25 @@
+# Numinex
+
+| Numinex | | | |
+| --- | --- | --- | --- |
+| [![SR-creature-Numinex.jpg](https://images.uesp.net/thumb/d/d3/SR-creature-Numinex.jpg/200px-SR-creature-Numinex.jpg)](https://en.uesp.net/wiki/File:SR-creature-Numinex.jpg) The skull of Numinex in Dragonsreach | | | |
+| Race | [Dragon](Lore_Dragon.md) | Gender | Male |
+| Resided in | [Skyrim](Lore_Skyrim.md) | | |
+
+Yes. This was ages ago, you understand. There were more of us then. Before the bruniike - the Akaviri - came and killed all my zeymah. I used to visit him from time to time. Nearly crazed by loneliness and captivity. Tiiraz sivaas. He did not even remember his own name. I do not know how he came to be caught. But the bronjun... the Jarl... was very proud of his pet. Paak! The hofkahsejun has been known as Dragonsreach ever since.
+— [Paarthurnax](Lore_Paarthurnax.md) on Numinex<sup>[[1]](#cite_note-Paarthurnax-1)</sup> Numinex was a fearsome [dragon](Lore_Dragon.md) famous for his battle with [Olaf One-Eye](Lore_Olaf_One-Eye.md) in the [First Era](Lore_First_Era.md), which occurred some time before [1E 420](Lore_First_Era.md#1E_420) when Olaf became High King and ended the [War of Succession](Lore_War_of_Succession.md).<sup>[[2]](#cite_note-Proventus-2)</sup><sup>[[3]](#cite_note-Olaf-3)</sup>
+
+A few ancient bard texts assert Numinex was particularly foul-tempered because he was extremely old. In these accounts, the dragon spends his final years terrorizing the countryside before flying off to the top of [Mount Anthor](Lore_Mount_Anthor.md) to die in peace, but was interrupted by the opportunistic Olaf. This version of the story is questionable, however, as dragons do not actually die of old age. Regardless, Numinex had wiped out entire villages, burned cities, and killed countless Nords.<sup>[[4]](#cite_note-OATD-4)</sup> Along with a few trusted warriors, Olaf confronted and fought Numinex at his lair atop Mount Anthor.<sup>[[2]](#cite_note-Proventus-2)</sup><sup>[[4]](#cite_note-OATD-4)</sup> The two battled, blade against claw, by some accounts for days.<sup>[[4]](#cite_note-OATD-4)</sup>
+
+Eventually, their battle incorporated the [thu'um](Lore_Thu%27um.md), and the two engaged in an epic shouting duel. Finally, Numinex collapsed from a combination of injury and sheer exhaustion. Somehow—and this detail is conspicuously absent in virtually every account—Olaf managed to convey the dragon all the way back to the capital city of Whiterun.<sup>[[4]](#cite_note-OATD-4)</sup> By Olaf's decree, the city's keep was renovated to become a prison for Numinex. Since then, the great keep has been called "Dragonsreach".<sup>[[2]](#cite_note-Proventus-2)</sup><sup>[[1]](#cite_note-Paarthurnax-1)</sup> This feat granted Olaf grand renown, which eventually led to him becoming the High King of Skyrim.<sup>[[5]](#cite_note-TCOF-5)</sup>
+
+Numinex was apparently driven half-mad by many, many years of loneliness and captivity, though [Paarthurnax](Lore_Paarthurnax.md) would manage to visit him from time to time.<sup>[[1]](#cite_note-Paarthurnax-1)</sup> While it is claimed Numinex eventually escaped,<sup>[[6]](#cite_note-6)</sup> his skull can still be seen hanging above the Jarl's throne at Dragonsreach.<sup>[[1]](#cite_note-Paarthurnax-1)</sup> According to some sources Numinex paid for their life by providing the kings of Skyrim with draconic armor.<sup>[[7]](#cite_note-Dov-rha_Sabatons-7)</sup> Due to the nature of dragons, Numinex is not truly dead and could be raised again, although his scattered remains make this an unlikely possibility.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Paarthurnax_1-0)***</sup><sup>***[b](#cite_ref-Paarthurnax_1-1)***</sup><sup>***[c](#cite_ref-Paarthurnax_1-2)***</sup><sup>***[d](#cite_ref-Paarthurnax_1-3)***</sup> [Paarthurnax](Skyrim_Paarthurnax_(dragon).md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. ^ <sup>***[a](#cite_ref-Proventus_2-0)***</sup><sup>***[b](#cite_ref-Proventus_2-1)***</sup><sup>***[c](#cite_ref-Proventus_2-2)***</sup> [Proventus Avenicci](Skyrim_Proventus_Avenicci.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+3. [^](#cite_ref-Olaf_3-0) [Commemorative plaque in Windhelm](https://en.uesp.net/wiki/File:SR-misc-Olaf_Plaque.png)
+4. ^ <sup>***[a](#cite_ref-OATD_4-0)***</sup><sup>***[b](#cite_ref-OATD_4-1)***</sup><sup>***[c](#cite_ref-OATD_4-2)***</sup><sup>***[d](#cite_ref-OATD_4-3)***</sup> [*Olaf and the Dragon*](Lore_Olaf_and_the_Dragon.md) — [Adonato Leotelli](Lore_Books_by_Author.md#Adonato_Leotelli)
+5. [^](#cite_ref-TCOF_5-0) [*The Crown of Freydis*](Lore_The_Crown_of_Freydis.md) — [Taleon Mythmaker](Lore_Taleon_Mythmaker.md)
+6. [^](#cite_ref-6) [Viarmo](Skyrim_Viarmo.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+7. [^](#cite_ref-Dov-rha_Sabatons_7-0) [Dov-rha Sabatons](https://en.uesp.net/wiki/Online:Dov-rha_Sabatons)'s antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)

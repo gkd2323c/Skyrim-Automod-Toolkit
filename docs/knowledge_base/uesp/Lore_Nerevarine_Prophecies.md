@@ -1,0 +1,161 @@
+# Nerevarine Prophecy
+
+[![](https://images.uesp.net/thumb/d/de/GEN-misc-Foul_Murder.png/200px-GEN-misc-Foul_Murder.png)](https://en.uesp.net/wiki/File:GEN-misc-Foul_Murder.png) [](https://en.uesp.net/wiki/File:GEN-misc-Foul_Murder.png) Depiction of the murder of Nerevar The Nerevarine Prophecy foretold that [Indoril Nerevar](Lore_Nerevar.md), the Hortator or military leader of the united [Chimer](Lore_Chimer.md) people during the early [First Era](Lore_First_Era.md), would return as the [Nerevarine](Lore_Nerevarine.md) for the salvation of the descendants of the Chimer, the [Dunmer](Lore_Dunmer.md). It was especially associated with the [Nerevarine cult](Lore_Nerevarine_Cult.md) of the [Ashlanders](Lore_Ashlanders.md), which believed that the Nerevarine would cast down the [Tribunal](Lore_Tribunal.md) as false gods and expel the foreigners, or at least the [Empire](Lore_Third_Empire.md), from [Morrowind](Lore_Morrowind.md).<sup>[[1]](#cite_note-MWNev Cult-1)</sup><sup>[[2]](#cite_note-Nev Cult Notes-2)</sup><sup>[[3]](#cite_note-NMS-3)</sup>
+
+Over the millennia after Nerevar's death, a number of Dunmer unsuccessfully attempted to satisfy the Prophecy, becoming what were called "[Failed Incarnates](Lore_Failed_Incarnates.md)" in the process—a phenomenon taken by the [Tribunal Temple](Lore_Tribunal_Temple.md) to disprove the Prophecy, but by the Nerevarine cult to reinforce it.<sup>[[4]](#cite_note-4)</sup> The Prophecy is generally believed to have been fulfilled, however, in [3E 427](Lore_Third_Era.md#3E_427) by [an outsider](Lore_Hero.md#Nerevarine) who united the Dunmer [Great Houses](Lore_Great_House.md) and Ashlander tribes of [Vvardenfell](Lore_Vvardenfell.md), defeated the "Sharmat" [Dagoth Ur](Lore_Dagoth_Ur.md), and definitively ended the rule of the Tribunal by killing the Tribunal goddess [Almalexia](Lore_Almalexia.md) and removing the [Heart of Lorkhan](Lore_Heart_of_Lorkhan.md), the source of their divine powers, from the world.<sup>[[5]](#cite_note-MW-5)</sup><sup>[[6]](#cite_note-MG-6)</sup> This outsider had in fact been dispatched to Vvardenfell by [Emperor Uriel Septim VII](Lore_Uriel_Septim_VII.md) with the explicit goal of fulfilling the Prophecy.<sup>[[7]](#cite_note-Decoded-7)</sup> Though Uriel took great personal interest in the legend,<sup>[[7]](#cite_note-Decoded-7)</sup> how he came to learn of it is unknown.<sup>[[8]](#cite_note-Lo US-8)</sup>
+
+## Origins
+[![](https://images.uesp.net/thumb/0/02/ON-furnishing-St._Nerevar%2C_Moon-and-Star_02.jpg/200px-ON-furnishing-St._Nerevar%2C_Moon-and-Star_02.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-St._Nerevar,_Moon-and-Star_02.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-St._Nerevar,_Moon-and-Star_02.jpg) A late First Era bust of Indoril Nerevar At the [Battle of Red Mountain](Lore_Battle_of_Red_Mountain.md) circa [1E 700](Lore_First_Era.md#1E_700), the united forces of the Chimer faced off against the [Dwemer](Lore_Dwemer.md) in the climactic engagement of the [War of the First Council](Lore_War_of_the_First_Council.md). Nerevar led the Chimer forces at this time, assisted by his wife [Almalexia](Lore_Almalexia.md) and his advisors [Vivec](Lore_Vivec.md) and [Sotha Sil](Lore_Sotha_Sil.md), and sought to prevent the Dwemer from building [an artificial god](Lore_Numidium.md) powered by the Heart of Lorkhan. At the height of the battle, Vivec records, the Dwemer engineer [Kagrenac](Lore_Kagrenac.md) tapped the Heart and his race [immediately disappeared](Lore_Disappearance_of_the_Dwarves.md) —others say that the [Daedric Prince](Lore_Daedric_Princes.md) [Azura](Lore_Azura.md), who was worshipped by the Chimer, directed the use of [Kagrenac's instruments](Lore_Kagrenac%27s_Tools.md) to separate the Dwemer from the Heart, causing them to crumble into dust.<sup>[[9]](#cite_note-TBo RM-9)</sup><sup>[[10]](#cite_note-Na RM-10)</sup> Nerevar's three counsellors persuaded him to retain the Tools the Dwemer had used on the Heart, but the Hortator made them swear an oath upon Azura that they would not use the Tools to attain divinity.<sup>[[9]](#cite_note-TBo RM-9)</sup>
+
+[Voryn Dagoth](Lore_Voryn_Dagoth.md), the later Dagoth Ur, had been left at [Red Mountain](Lore_Red_Mountain.md) in custody of the Heart and Kagrenac's Tools. What transpired when Nerevar and his advisors proceeded there is unclear, but when the three advisors emerged, Nerevar had been slain and Voryn was presumed dead. Vivec recorded that in his dying words Nerevar repeated his command not to acquire divinity.<sup>[[9]](#cite_note-TBo RM-9)</sup> [House Dagoth](Lore_House_Dagoth.md) was suppressed, its remaining members slain or adopted into other houses.<sup>[[11]](#cite_note-Hasphat-11)</sup>
+
+The promise was not kept. Sotha Sil, Almalexia, and Vivec used Kagrenac's Tools and the power of the Heart to attain apotheosis, and became the gods of the Tribunal. Some sources claim that it was they who murdered Nerevar as part of the ritual.<sup>[[10]](#cite_note-Na RM-10)</sup> In any case, Azura, in whose name the oath they had broken was made, appeared to the new gods and prophesied that Nerevar would return to punish them for their broken word, and ensure that no one could ever again achieve divinity by their methods. The prophecy of the Nerevarine was thus set in motion.<sup>[[9]](#cite_note-TBo RM-9)</sup><sup>[[10]](#cite_note-Na RM-10)</sup>
+
+## Statements of the Prophecy
+Rather than a single recorded statement like the [Prophecy of the Dragonborn](Lore_Prophecy_of_the_Dragonborn.md), the Nerevarine Prophecy was foretold in different terms across a number of written texts and oral legends. The Ashlanders, indeed, believed that there were many Nerevarine Prophecies, each with different implications, and over time some had been forgotten, hidden, or deliberately lost.<sup>[[12]](#cite_note-Nibani-12)</sup> Their interpretation is often uncertain, though their overlapping elements and relation to real events can help to clarify their meaning. These stipulated various requirements of the true Nerevarine. The most significant were as follows:
+
+### The Lost Prophecy
+*[The Lost Prophecy](Lore_The_Lost_Prophecy.md)* is a record of the Apographa, the secret scriptures of the Tribunal Temple's [Dissident Priests](Lore_Dissident_Priests.md), describing the provenance and trials of the Nerevarine.
+
+- *From seventh sign of eleventh generation,*
+- *Neither Hound nor Guar, nor Seed nor Harrow,*
+- *But Dragon-born and far-star-marked,*
+- *Outlander Incarnate beneath Red Mountain,*
+- *Blessed Guest counters seven curses,*
+- *Star-blessed hand wields thrice-cursed blade,*
+- *To reap the harvest of the unmourned house.*
+
+In this verse, "Dragon-born and far-star-marked" is believed to refer to the Nerevarine being born in foreign lands under the rule of the [Empire](Lore_Third_Empire.md), whose symbol is the dragon. With the "star" blessing of Azura and wielding the "thrice-cursed" Dwemer blade [Keening](Lore_Keening.md), one of Kagrenac's Tools, the Nerevarine would "reap the harvest of"—reward and punish—the "unmourned house", House Dagoth.<sup>[[13]](#cite_note-TLP-13)</sup>
+
+### The Seven Curses
+[![](https://images.uesp.net/thumb/1/18/LG-quest-The_Heart%2C_Revealed_02.jpg/200px-LG-quest-The_Heart%2C_Revealed_02.jpg)](https://en.uesp.net/wiki/File:LG-quest-The_Heart,_Revealed_02.jpg) [](https://en.uesp.net/wiki/File:LG-quest-The_Heart,_Revealed_02.jpg) *"From the halls of the oath-breaking house*
+*rings seven curses of gods blasphemed"* *[The Seven Curses](Lore_The_Seven_Curses.md)* is another extract of the Apographa, and names the threats that would be faced by the Nerevarine.
+
+- *...through the doors of the unmourned house*
+- *where scoffers scoff and schemers scheme*
+- *from the halls of the oath-breaking house*
+- *rings * [[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)] * seven curses of gods blasphemed*
+
+- *first curse, Curse-of-Fire*
+- *second curse, Curse-of-Ash*
+- *third curse, Curse-of-Flesh*
+- *fourth curse, Curse-of-Ghosts*
+- *fifth curse, Curse-of-Seed*
+- *sixth curse, Curse-of-Despair*
+- *seventh curse, Curse-of-Dreams...*
+
+The curses sounded from the "unmourned" and "oath-breaking" house—House Dagoth—appear to refer severally to the signs of the rise of Dagoth Ur: fire and ash emanating from Red Mountain, the [Blight](Lore_The_Blight.md) and the [corprus](Lore_Corprus.md) disease, and his manipulation of the Dunmer's dreams as [his plan](Lore_Dagoth_Ur%27s_Plans.md) came to a climax. The meaning of the Curses of Ghosts, Seed, and Despair, however, remains unclear.<sup>[[14]](#cite_note-TSC-14)</sup>
+
+### The Seven Visions
+[![](https://images.uesp.net/thumb/4/45/ON-interior-Cavern_of_the_Incarnate.jpg/200px-ON-interior-Cavern_of_the_Incarnate.jpg)](https://en.uesp.net/wiki/File:ON-interior-Cavern_of_the_Incarnate.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Cavern_of_the_Incarnate.jpg) *"In caverns dark Azura's eye sees*
+*And makes to shine the moon and star."* [![](https://images.uesp.net/thumb/1/11/TR-creature-Sotha_Sil.jpg/200px-TR-creature-Sotha_Sil.jpg)](https://en.uesp.net/wiki/File:TR-creature-Sotha_Sil.jpg) [](https://en.uesp.net/wiki/File:TR-creature-Sotha_Sil.jpg) *"His mercy frees the cursed false gods,*
+*Binds the broken, redeems the mad."* *[The Seven Visions](Lore_The_Seven_Visions.md)* is an oral tradition of the Ashlanders detailing the seven trials that would prove the Nerevarine. The form given here was recorded from the words of the [Urshilaku](Lore_Urshilaku_Tribe.md) wise woman Nibani Maesa by the ostensible Nerevarine themselves in [3E 427](Lore_Third_Era.md#3E_427).<sup>[[15]](#cite_note-MSM-15)</sup>
+
+- seven trials
+- *What he puts his hand to, that shall be done.*
+- *What is left undone, that shall be done.*
+
+- first trial
+- *On a certain day to uncertain parents*
+- *Incarnate moon and star reborn.*
+
+- second trial
+- *Neither blight nor age can harm him.*
+- *The Curse-of-Flesh before him flies.*
+
+- third trial
+- *In caverns dark Azura's eye sees*
+- *And makes to shine the moon and star.*
+
+- fourth trial
+- *A stranger's voice unites the Houses.*
+- *Three Halls call him Hortator.*
+
+- fifth trial
+- *A stranger's hand unites the Velothi.*
+- *Four Tribes call him Nerevarine.*
+
+- sixth trial
+- *He honors blood of the tribe unmourned.*
+- *He eats their sin, and is reborn.*
+
+- seventh trial
+- *His mercy frees the cursed false gods,*
+- *Binds the broken, redeems the mad.*
+
+- one destiny
+- *He speaks the law for Veloth's people.*
+- *He speaks for their land, and names them great.*
+
+The first trial references the Nerevarine's origins. The second denotes the Nerevarine's immunity to Blight and corprus, and the third their selection by Azura and perhaps their ability to wear the enchanted ring [Moon-and-Star](Lore_Moon-and-Star.md), blessed by Azura so that it could only be borne by Nerevar.<sup>[[2]](#cite_note-Nev Cult Notes-2)</sup><sup>[[12]](#cite_note-Nibani-12)</sup> The fourth and fifth trials refer to the Nerevarine's unification of the Great Houses and the Ashlander tribes, each naming them Hortator and Nerevarine. The sixth trial probably relates to the Nerevarine's ending of Dagoth Ur and atonement for his sin—though the "tribe unmourned" may also be the Dwemer, whose Tools the Nerevarine would use—and the seventh to the overthrow of the "false gods" of the Tribunal.<sup>[[12]](#cite_note-Nibani-12)</sup> Finally, the verses speak of the Nerevarine uniting "[Veloth](Lore_Veloth.md)'s people", the Dunmer, under one law, perhaps denoting the end of the hostility between the Tribunal Temple, the Dissident Priests, and the Ashlanders,<sup>[[12]](#cite_note-Nibani-12)</sup> which took place after the fall of the Tribunal.<sup>[[16]](#cite_note-Rec-16)</sup>
+
+### The Stranger
+[![](https://images.uesp.net/thumb/9/96/MW-weather-The_Blight.jpg/200px-MW-weather-The_Blight.jpg)](https://en.uesp.net/wiki/File:MW-weather-The_Blight.jpg) [](https://en.uesp.net/wiki/File:MW-weather-The_Blight.jpg) *"When earth is sundered, and skies choked black,
+And sleepers serve the seven curses, ..."* *[The Stranger](Lore_The_Stranger.md)* is another Ashlander oral tradition. Like *The Seven Visions*, the following text was spoken by Nibani Maesa and recorded by the Nerevarine,<sup>[[15]](#cite_note-MSM-15)</sup> but an almost identical verse was known at that time to Imperial authorities.<sup>[[17]](#cite_note-Decoded Full-17)</sup>
+
+- *When earth is sundered, and skies choked black,*
+- *And sleepers serve the seven curses,*
+- *To the hearth there comes a stranger,*
+- *Journeyed far 'neath moon and star.*
+
+- *Though stark-born to sire uncertain,*
+- *His aspect marks his certain fate.*
+- *Wicked stalk him, righteous curse him.*
+- *Prophets speak, but all deny.*
+
+- *Many trials make manifest*
+- *The stranger's fate, the curses' bane.*
+- *Many touchstones try the stranger.*
+- *Many fall, but one remains.*
+
+These verses describe the Blight and the activity of Red Mountain following Dagoth Ur's rise, and reference the Nerevarine's long journeys as well as Nerevar's family crest, the moon and star,<sup>[[17]](#cite_note-Decoded Full-17)</sup> while also seemingly referring to the enchanted ring by that name.<sup>[[2]](#cite_note-Nev Cult Notes-2)</sup> The Nerevarine's "aspect" is the horoscope of their birth. The "seven curses" and "many trials" indicate, once more, the trials that would be faced by the Nerevarine.<sup>[[17]](#cite_note-Decoded Full-17)</sup>
+
+## Fulfillment
+The outsider who defeated Dagoth Ur in [3E 427](Lore_Third_Era.md#3E_427) set out deliberately to fulfill the terms of the Prophecy, and did so primarily by following the trials described in the *Seven Visions*:<sup>[[5]](#cite_note-MW-5)</sup>
+
+| Trial | Fulfilment | |
+| --- | --- | --- |
+| 1 | *On a certain day to uncertain parents* <br> *Incarnate moon and star reborn.* | The Nerevarine was born on a certain day to uncertain parents under the requisite starsign.<sup>[[7]](#cite_note-Decoded-7)</sup><sup>[[12]](#cite_note-Nibani-12)</sup> |
+| 2 | *Neither blight nor age can harm him.* <br> *The Curse-of-Flesh before him flies.* | After being infected with the corprus disease, the "Curse-of-Flesh", the Nerevarine received an experimental treatment from the mage [Divayth Fyr](Lore_Divayth_Fyr.md), which suppressed the symptoms of corprus and rendered them immune to all diseases, including the Blight—and, seemingly, to aging.<sup>[[18]](#cite_note-Corprus Cure-18)</sup> |
+| 3 | *In caverns dark Azura's eye sees* <br> *And makes to shine the moon and star.* | In the Cavern of the Incarnate, the Nerevarine communed with Azura and received from her the enchanted ring Moon-and-Star, a symbol of Nerevar's identity which they were capable of wearing without ill effect.<sup>[[19]](#cite_note-Path-19)</sup> |
+| 4 | *A stranger's voice unites the Houses.* <br> *Three Halls call him Hortator.* | Three of the Great Houses— [Hlaalu](Lore_House_Hlaalu.md), [Redoran](Lore_House_Redoran.md), and [Telvanni](Lore_House_Telvanni.md) —named the Nerevarine Hortator after they gained the approval of the Houses' leaders.<sup>[[5]](#cite_note-MW-5)</sup> |
+| 5 | *A stranger's hand unites the Velothi.* <br> *Four Tribes call him Nerevarine.* | The four Ashlander tribes of Vvardenfell— [Ahemmusa](Lore_Ahemmusa.md), [Erabenimsun](Lore_Erabenimsun.md), [Urshilaku](Lore_Urshilaku.md), and [Zainab](Lore_Zainab.md) —each recognized the outsider as the Nerevarine after they fulfilled certain tasks for the tribes.<sup>[[5]](#cite_note-MW-5)</sup> |
+| 6 | *He honors blood of the tribe unmourned.* <br> *He eats their sin, and is reborn.* | The "tribe unmourned" may be either House Dagoth or the Dwemer.<sup>[[12]](#cite_note-Nibani-12)</sup> The Nerevarine defeated Dagoth Ur and, in the process, suffered and was "reborn" from his creation, the corprus disease.<sup>[[20]](#cite_note-Citadels-20)</sup><sup>[[18]](#cite_note-Corprus Cure-18)</sup> The Nerevarine also used the Tools of the Dwemer engineer Kagrenac to end the divinity of Dagoth Ur and the Tribunal, which had originally been acquired through them.<sup>[[20]](#cite_note-Citadels-20)</sup> |
+| 7 | *His mercy frees the cursed false gods,* <br> *Binds the broken, redeems the mad.* | The Nerevarine fulfilled the terms of Azura's curse on the Tribunal, taking away the source of their power, the Heart of Lorkhan.<sup>[[20]](#cite_note-Citadels-20)</sup> After the loss of the Tribunal's power, the Nerevarine avenged Almalexia's murder of the so-called "mad god" Sotha Sil, slaying the Tribunal goddess.<sup>[[6]](#cite_note-MG-6)</sup> |
+
+After the outsider had fulfilled the first five trials, the Tribunal Temple, at the command of its Patriarch and Archcanon Tholer Saryoni, approved their claim to be the Nerevarine and ended its official suppression of the Prophecy.<sup>[[21]](#cite_note-Nft A-21)</sup><sup>[[22]](#cite_note-Saryoni-22)</sup> The Tribunal gods Vivec and Almalexia also recognized their identity,<sup>[[23]](#cite_note-MWVivec-23)</sup><sup>[[24]](#cite_note-TRAlmalexia-24)</sup> though Sotha Sil would die before he could speak to the Nerevarine.<sup>[[6]](#cite_note-MG-6)</sup>
+
+The defeat of Dagoth Ur and Almalexia and the removal of the Heart marked the end of the Tribunal. The fall of the God-Monarchs led, some years later, to the disasters of the [Red Year](Lore_Red_Year.md) in [4E 5](Lore_Fourth_Era.md#4E_5).<sup>[[25]](#cite_note-TIC-25)</sup> The religious distinction between the Ashlanders and Temple Dunmer dissolved.<sup>[[16]](#cite_note-Rec-16)</sup> In the [new era](Lore_Fourth_Era.md) that followed the [Oblivion Crisis](Lore_Oblivion_Crisis.md), the Empire relinquished Morrowind—perhaps a final fulfilment of the prophecies of the Nerevarine cult.<sup>[[26]](#cite_note-SRAdril-26)</sup>
+
+## Notes
+- Some of the hopes attached to the Nerevarine Prophecy, such as the beliefs that they would cast down the Tribunal and expel the foreigners from Morrowind, are also characteristic of the promises made by Dagoth Ur through his revived Sixth House. Indeed, the Nerevarine cult's belief that the Nerevarine would drive out the foreigners from Morrowind is not stated in any of the texts of the Prophecy given above, but is an objective ascribed to Dagoth Ur.<sup>[[27]](#cite_note-DUP-27)</sup> Dagoth Ur is described as an ally of Nerevar who sought to avenge his death in some texts,<sup>[[10]](#cite_note-Na RM-10)</sup> and he offered an alliance with the Nerevarine at the time of their final confrontation.<sup>[[28]](#cite_note-Dagoth-28)</sup>
+
+## References
+1. [^](#cite_ref-MWNev Cult_1-0) ["Nerevarine cult" generic dialogue](https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_N) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+2. ^ <sup>***[a](#cite_ref-Nev Cult Notes_2-0)***</sup><sup>***[b](#cite_ref-Nev Cult Notes_2-1)***</sup><sup>***[c](#cite_ref-Nev Cult Notes_2-2)***</sup> [*Nerevarine cult notes*](Lore_Nerevarine_cult_notes.md) — [Sharn gra-Muzgob](Lore_Books_by_Author.md#Sharn_gra-Muzgob)
+3. [^](#cite_ref-NMS_3-0) [*Nerevar Moon-and-Star*](Lore_Nerevar_Moon-and-Star.md)
+4. [^](#cite_ref-4) [Huleeya](https://en.uesp.net/wiki/Morrowind:Huleeya)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. ^ <sup>***[a](#cite_ref-MW_5-0)***</sup><sup>***[b](#cite_ref-MW_5-1)***</sup><sup>***[c](#cite_ref-MW_5-2)***</sup><sup>***[d](#cite_ref-MW_5-3)***</sup> Events of the [Main Quest](https://en.uesp.net/wiki/Morrowind:Main_Quest) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. ^ <sup>***[a](#cite_ref-MG_6-0)***</sup><sup>***[b](#cite_ref-MG_6-1)***</sup><sup>***[c](#cite_ref-MG_6-2)***</sup> Events of [The Mad God](https://en.uesp.net/wiki/Tribunal:The_Mad_God) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+7. ^ <sup>***[a](#cite_ref-Decoded_7-0)***</sup><sup>***[b](#cite_ref-Decoded_7-1)***</sup><sup>***[c](#cite_ref-Decoded_7-2)***</sup> *[Decoded package](https://en.uesp.net/wiki/Morrowind:Decoded_package)* — Glabrio Bellienus, Personal Secretary to the Emperor
+8. [^](#cite_ref-Lo US_8-0) [*A Life of Uriel Septim VII*](Lore_A_Life_of_Uriel_Septim_VII.md) — [Rufus Hayn](Lore_Books_by_Author.md#Rufus_Hayn)
+9. ^ <sup>***[a](#cite_ref-TBo RM_9-0)***</sup><sup>***[b](#cite_ref-TBo RM_9-1)***</sup><sup>***[c](#cite_ref-TBo RM_9-2)***</sup><sup>***[d](#cite_ref-TBo RM_9-3)***</sup> [*The Battle of Red Mountain*](Lore_The_Battle_of_Red_Mountain.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+10. ^ <sup>***[a](#cite_ref-Na RM_10-0)***</sup><sup>***[b](#cite_ref-Na RM_10-1)***</sup><sup>***[c](#cite_ref-Na RM_10-2)***</sup><sup>***[d](#cite_ref-Na RM_10-3)***</sup> [*Nerevar at Red Mountain*](Lore_Nerevar_at_Red_Mountain.md) — [the Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+11. [^](#cite_ref-Hasphat_11-0) [Hasphat Antabolis](https://en.uesp.net/wiki/Morrowind:Hasphat_Antabolis)' dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+12. ^ <sup>***[a](#cite_ref-Nibani_12-0)***</sup><sup>***[b](#cite_ref-Nibani_12-1)***</sup><sup>***[c](#cite_ref-Nibani_12-2)***</sup><sup>***[d](#cite_ref-Nibani_12-3)***</sup><sup>***[e](#cite_ref-Nibani_12-4)***</sup><sup>***[f](#cite_ref-Nibani_12-5)***</sup> [Nibani Maesa](https://en.uesp.net/wiki/Morrowind:Nibani_Maesa)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+13. [^](#cite_ref-TLP_13-0) [*The Lost Prophecy*](Lore_The_Lost_Prophecy.md) — [Gilvas Barelo](Lore_Books_by_Author.md#Gilvas_Barelo)
+14. [^](#cite_ref-TSC_14-0) [*The Seven Curses*](Lore_The_Seven_Curses.md) — [Gilvas Barelo](Lore_Books_by_Author.md#Gilvas_Barelo)
+15. ^ <sup>***[a](#cite_ref-MSM_15-0)***</sup><sup>***[b](#cite_ref-MSM_15-1)***</sup> Events of [Meet Sul-Matuul](https://en.uesp.net/wiki/Morrowind:Meet_Sul-Matuul) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+16. ^ <sup>***[a](#cite_ref-Rec_16-0)***</sup><sup>***[b](#cite_ref-Rec_16-1)***</sup> [*The Reclamations*](Lore_The_Reclamations.md) — [Thara of Rihad](Lore_Books_by_Author.md#Thara_of_Rihad)
+17. ^ <sup>***[a](#cite_ref-Decoded Full_17-0)***</sup><sup>***[b](#cite_ref-Decoded Full_17-1)***</sup><sup>***[c](#cite_ref-Decoded Full_17-2)***</sup> [Fully decoded *Package for Caius Cosades*](https://en.uesp.net/wiki/Morrowind:Package_for_Caius_Cosades/Decoded)
+18. ^ <sup>***[a](#cite_ref-Corprus Cure_18-0)***</sup><sup>***[b](#cite_ref-Corprus Cure_18-1)***</sup> Events of [Corprus Cure](https://en.uesp.net/wiki/Morrowind:Corprus_Cure) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+19. [^](#cite_ref-Path_19-0) Events of [The Path of the Incarnate](https://en.uesp.net/wiki/Morrowind:The_Path_of_the_Incarnate) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+20. ^ <sup>***[a](#cite_ref-Citadels_20-0)***</sup><sup>***[b](#cite_ref-Citadels_20-1)***</sup><sup>***[c](#cite_ref-Citadels_20-2)***</sup> Events of [The Citadels of the Sixth House](https://en.uesp.net/wiki/Morrowind:The_Citadels_of_the_Sixth_House) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+21. [^](#cite_ref-Nft A_21-0) [*Note from the Archcanon*](Lore_Note_from_the_Archcanon.md) — [Dileno Lloran](Lore_Books_by_Author.md#Dileno_Lloran), Priest of Vivec
+22. [^](#cite_ref-Saryoni_22-0) [Tholer Saryoni](https://en.uesp.net/wiki/Morrowind:Tholer_Saryoni)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+23. [^](#cite_ref-MWVivec_23-0) [Vivec](https://en.uesp.net/wiki/Morrowind:Vivec_(god))'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+24. [^](#cite_ref-TRAlmalexia_24-0) [Almalexia](https://en.uesp.net/wiki/Tribunal:Almalexia)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+25. [^](#cite_ref-TIC_25-0) [*The Infernal City*](Lore_The_Infernal_City.md) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+26. [^](#cite_ref-SRAdril_26-0) [Adril Arano](Skyrim_Adril_Arano.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+27. [^](#cite_ref-DUP_27-0) [*Dagoth Ur's Plans*](Lore_Dagoth_Ur%27s_Plans.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+28. [^](#cite_ref-Dagoth_28-0) [Dagoth Ur](https://en.uesp.net/wiki/Morrowind:Dagoth_Ur_(god))'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*

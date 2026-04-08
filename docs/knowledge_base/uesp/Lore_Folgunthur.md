@@ -1,0 +1,36 @@
+# Folgunthur
+
+| Folgunthur | |
+| --- | --- |
+| Type | Nordic Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [Hjaalmarch](Lore_Hjaalmarch.md) <br> ([Drajkmyr Marsh](Lore_Drajkmyr_Marsh.md)) |
+| Appears in | [Skyrim](Skyrim_Folgunthur.md), [ESO](https://en.uesp.net/wiki/Online:Folgunthur_Barrow) |
+
+[![](https://images.uesp.net/thumb/9/94/SR-place-Folgunthur.jpg/200px-SR-place-Folgunthur.jpg)](https://en.uesp.net/wiki/File:SR-place-Folgunthur.jpg) [](https://en.uesp.net/wiki/File:SR-place-Folgunthur.jpg) Folgunthur ca. [4E 201](Lore_Fourth_Era.md#4E_201) Folgunthur is an ancient Nordic barrow found in the northern coast of [Hjaalmarch](Lore_Hjaalmarch.md), in the province of [Skyrim](Lore_Skyrim.md). At the base of the [Great Arch](Lore_Great_Arch.md) that holds [Solitude](Lore_Solitude.md), this ancient tomb is known for containing the remains of Mikrul Gauldurson, the youngest son of the auspicious but forgotten [First Era](Lore_First_Era.md) mage, [Gauldur](Lore_Gauldur.md).<sup>[[1]](#cite_note-DVN-1)</sup> It had also contained a [Word Wall](Lore_Word_Walls.md),<sup>[[2]](#cite_note-Folgunthur-2)</sup> and the great treasure trove of the master [illusionist](Lore_Illusion.md), [Maelmoth the Mysterious](Lore_Maelmoth.md).<sup>[[3]](#cite_note-MMM-3)</sup>
+
+## History
+The barrow of Folgunthur had been used as far back as the early First Era, during the reign of High King [Harald](Lore_Harald.md).<sup>[[4]](#cite_note-LL-4)</sup> After the death of their father, the Gauldurson brothers, Mikrul, Jyrik and Sigdis Gauldurson took their father's prized [amulet](Lore_Gauldur_Amulet.md) and split it among themselves and gained newfound power. With it, they laid waste to the countryside and brought about great destruction the likes of which began to involve the Archmage, [Geirmund](Lore_Geirmund.md). The brothers had soon split across Skyrim to escape his wrath. Mikrul, the youngest traveled to Folgunthur and fought back for three days and nights, but he had ultimately lost and was interred into the tomb, sealed away by an ivory dragon claw. The brothers were defeated one by one and Gauldur's body was kept away in Reachwater Rock. His very name was later wiped from the annals of history,<sup>[[1]](#cite_note-DVN-1)</sup> but legends of the Gauldurson brothers still persisted countless years later.<sup>[[4]](#cite_note-LL-4)</sup>
+
+Sometime in the First Era and contemporary with Arch-Mage [Shalidor](Lore_Shalidor.md), the master illusionist, Maelmoth the Mysterious had amassed a great treasure trove of items from throughout his journey and stored them inside Folgunthur Barrow.<sup>[[5]](#cite_note-ONNarsis-5)</sup> This trove was known as the Maelmoth Mysterium and it consisted of many odd trinkets and baubles such as a wastrel's boots from [Wayrest](Lore_Wayrest.md) and the pot of a [Hagraven](Lore_Hagraven.md). But among these things was the Nested Illusion, at first glance, an ordinary bottle, but is one of his greatest works of illusion magic. It lied dormant in the vaults of the tomb, untouched for countless years until it would inevitably be discovered. He left an apparition of his own visage to guard the trove.<sup>[[3]](#cite_note-MMM-3)</sup>
+
+In the midst of the [Interregnum](Lore_Interregnum.md) in [2E 582](Lore_Second_Era.md#2E_582), the famed historian, [Narsis Dren](https://en.uesp.net/wiki/Lore:Narsis_Dren) traveled to the northwest of Skyrim to lay claim over the Maelmoth Mysterium. He went to the local [Mages Guild](Lore_Mages_Guild.md) in Solitude and uncovered a scroll that he thought could give him a clue on the treasures' whereabouts but inadvertently turned into a bottle. The curse was broken by an [assistant](Lore_The_Vestige.md) of his, and so the two had officially begun their quest. Traveled across the surrounding region and went through Maelmoth's several riddles and trials until it eventually brought them to the barrow. There, they battled Maelmoth's visage and discovered his trove. The assistant took notice of the bottle and without hesitation, Narsis Dren grabbed the artifact and turned into a bottle again. He was brought back to the Mages Guild.<sup>[[6]](#cite_note-ONMysterium-6)</sup>
+
+Sometime in the second century of the [Fourth Era](Lore_Fourth_Era.md), the [Dunmeri](Lore_Dunmer.md) historian, Daynas Valen had spent many years researching the story of Gauldur and began to search for his amulet. By [4E 201](Lore_Fourth_Era.md#4E_201), his quest brought him to Skyrim, where he hired a group of mercenaries to delve into Folgunthur with him.<sup>[[7]](#cite_note-DVJ-7)</sup> However, it all ended in tragedy and everyone was killed by the [Draugr](Lore_Draugr.md). Not long after, another [adventurer](Lore_Last_Dragonborn.md) traversed through the dungeon and encountered the reanimated Mikrul. He was wielding one of the amulet fragments and his weapon, the Gauldur Blackblade. The adventurer slew the dead man and claimed the fragment, continuing their quest to rebuild the amulet.<sup>[[8]](#cite_note-SRLegend-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/a2/ON-place-Folgunthur_Barrow.jpg/200px-ON-place-Folgunthur_Barrow.jpg)](https://en.uesp.net/wiki/File:ON-place-Folgunthur_Barrow.jpg) Folgunthur (ESO)
+- [![](https://images.uesp.net/thumb/c/cf/SR-quest-Forbidden_Legend_04.jpg/200px-SR-quest-Forbidden_Legend_04.jpg)](https://en.uesp.net/wiki/File:SR-quest-Forbidden_Legend_04.jpg) Mikrul Gauldurson
+- [![](https://images.uesp.net/thumb/2/21/SR-quest-Forbidden_Legend.jpg/200px-SR-quest-Forbidden_Legend.jpg)](https://en.uesp.net/wiki/File:SR-quest-Forbidden_Legend.jpg) Daynas Valen
+- [](https://en.uesp.net/wiki/File:SR-icon-misc-Ivory Dragon Claw.png) The Ivory Dragon Claw
+
+## References
+1. ^ <sup>***[a](#cite_ref-DVN_1-0)***</sup><sup>***[b](#cite_ref-DVN_1-1)***</sup> [*Daynas Valen's Notes*](Lore_Daynas_Valen%27s_Notes.md) — [Daynas Valen](Lore_Books_by_Author.md#Daynas_Valen)
+2. [^](#cite_ref-Folgunthur_2-0) [Folgunthur](Skyrim_Folgunthur.md) in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-MMM_3-0)***</sup><sup>***[b](#cite_ref-MMM_3-1)***</sup> [*Maelmoth's Marvelous Masterpiece*](https://en.uesp.net/wiki/Online:Maelmoth%27s_Marvelous_Masterpiece) — [Maelmoth](https://en.uesp.net/wiki/Online:Maelmoth_the_Mysterious), Master of Mysterious Illusions!
+4. ^ <sup>***[a](#cite_ref-LL_4-0)***</sup><sup>***[b](#cite_ref-LL_4-1)***</sup> [*Lost Legends*](Lore_Lost_Legends.md) — [Talsgar the Elder](Lore_Books_by_Author.md#Talsgar_the_Elder), Archivist of Winterhold
+5. [^](#cite_ref-ONNarsis_5-0) [Narsis Dren](https://en.uesp.net/wiki/Online:Narsis_Dren#Maelmoth.27s_Journal_and_a_Cold-Blood_Librarian)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+6. [^](#cite_ref-ONMysterium_6-0) [The Maelmoth Mysterium](https://en.uesp.net/wiki/Online:The_Maelmoth_Mysterium) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+7. [^](#cite_ref-DVJ_7-0) [*Daynas Valen's Journal*](Skyrim_Daynas_Valen%27s_Journal.md) — [Daynas Valen](Skyrim_Daynas_Valen.md)
+8. [^](#cite_ref-SRLegend_8-0) [Forbidden Legend](Skyrim_Forbidden_Legend.md) quest in *[Skyrim](Skyrim_Skyrim.md)*

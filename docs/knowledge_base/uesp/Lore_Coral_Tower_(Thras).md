@@ -1,0 +1,26 @@
+# Coral Tower (Thras)
+
+This article is about the historic Thrassian structure. For the Coldharbour reconstruction, see [Coral Tower (Coldharbour)](Lore_Coral_Tower_(Coldharbour).md). For the extant Thrassian structure, see [Pillar of Thras](Lore_Pillar_of_Thras.md).
+
+| Coral Tower | |
+| --- | --- |
+| Type | Tower |
+| Continent | [Thras](Lore_Thras.md) |
+
+The Coral Tower of [Thras](Lore_Thras.md) was a giant structure once located on the main island in the center of the archipelago. The tower was made of blood-red coral and reached into the sky, with a terrible blue light flickering at its apex. The light was seemingly a portal to [Coldharbour](Lore_Coldharbour.md). It has been speculated that the tower was built by the [Sload](Lore_Sload.md) by magically inducing coral to grow rapidly skyward, in a similar manner to many of their more mundane structures.<sup>[[1]](#cite_note-TAAYQ2-1)</sup>
+
+The tower was the first sign of Thras seen by the [All-Flags Navy](Lore_All-Flags_Navy.md) when they navigated their way through the thick fog surrounding the archipelago circa [1E 2260](Lore_First_Era.md#1E_2260) to take vengeance upon the Sload. Baron-Admiral [Bendu Olo](Lore_Bendu_Olo.md) ordered a siege of the tower, and the main island was assaulted in force. The Sload on the island attempted to fight back despite their race's poor melee prowess, and they whispered curses to [Molag Bal](Lore_Molag_Bal.md) with their dying breaths. These curses began to cause the blue light to "pulse and bleed energy into the clouded sky", and the [Tamrielic](Lore_Tamriel.md) invaders were forced to flee back to their ships when the island began to crack and sink into the ocean. The tower subsequently collapsed, causing the blue light to descend into the sea and create a large whirlpool. Half the fleet were pulled into the maelstrom, and the islands of Thras were ultimately sunk. The remaining navy returned to Tamriel, victorious in their quest for revenge.<sup>[[2]](#cite_note-JTE-2)</sup>
+
+The ships that were pulled into the whirlpool were transported to Coldharbour, where they fell from the sky and onto the dead landscape of the Fist of Stone region. Many members of the crew survived the fall, and the captain of the *Golden Era* made a pact with Molag Bal.<sup>[[2]](#cite_note-JTE-2)</sup> He became the Lost Fleet Admiral and was given the [Crown of Bones](Lore_Crown_of_Bones.md), cursing himself and the sailors to eternal undeath as [skeletons](Lore_Skeleton.md), but allowing him total control over their actions. The admiral commanded his crew to begin construction of a new [Coral Tower](Lore_Coral_Tower_(Coldharbour).md), hoping to use it to reach the portal in the sky and return to [Nirn](Lore_Nirn.md).<sup>[[3]](#cite_note-3)</sup>
+
+It is possible that the whirlpool that destroyed Thras is the infamous Maelstrom of Bal, a deadly whirlpool in the [Abecean Sea](Lore_Abecean_Sea.md) which similarly functions as a portal to [Oblivion](Lore_Oblivion.md). Thras rose again following its sinking,<sup>[[4]](#cite_note-4)</sup> although seemingly in a different location. Modern Thras is home to the [Pillar of Thras](Lore_Pillar_of_Thras.md), a thousand foot tall spiral of coral that stands on the largest island, where the Sload's sacrifices are sometimes known to disappear into Oblivion before being dashed on the rocks below.<sup>[[5]](#cite_note-5)</sup>
+
+It has been speculated that the Coral Tower's purpose is similar to the other [Towers](Lore_The_Towers.md) of Nirn, acting as both a focus and a projector of mystical power. However, it is unknown if the structure was a true Tower, or simply a failed imitation similar to the [Doomcrag](Lore_Doomcrag.md).<sup>[[6]](#cite_note-FNot S-6)</sup> It is further speculated that the Pillar of Thras was built by the Sload as a replacement Tower.<sup>[[1]](#cite_note-TAAYQ2-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TAAYQ2_1-0)***</sup><sup>***[b](#cite_ref-TAAYQ2_1-1)***</sup> [*Telenger the Artificer Answers Your Questions 2*](Lore_Telenger_the_Artificer_Answers_Your_Questions_2.md) — [Telenger the Artificer](Lore_Books_by_Author.md#Telenger_the_Artificer)
+2. ^ <sup>***[a](#cite_ref-JTE_2-0)***</sup><sup>***[b](#cite_ref-JTE_2-1)***</sup> [*Journal of Tsona-Ei*](Lore_Journal_of_Tsona-Ei.md) — [Tsona-Ei](Lore_Books_by_Author.md#Tsona-Ei)
+3. [^](#cite_ref-3) [Tsona-Ei](https://en.uesp.net/wiki/Online:Argonian_Skeleton)'s dialogue during [Between Blood and Bone](https://en.uesp.net/wiki/Online:Between_Blood_and_Bone) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+4. [^](#cite_ref-4) [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+5. [^](#cite_ref-5) [*The Doors of Oblivion*](Lore_The_Doors_of_Oblivion.md) — [Seif-ij Hidja](Lore_Books_by_Author.md#Seif-ij_Hidja)
+6. [^](#cite_ref-FNot S_6-0) [*Further Notes on the Sload*](Lore_Further_Notes_on_the_Sload.md) — [Telenger the Artificer](Lore_Books_by_Author.md#Telenger_the_Artificer)

@@ -1,0 +1,7 @@
+# Books Z
+
+[Overview](Lore_Library.md) | [Numeric](Lore_Books_Numeric.md) [A](Lore_Books_A.md) [B](Lore_Books_B.md) [C](Lore_Books_C.md) [D](Lore_Books_D.md) [E](Lore_Books_E.md) [F](Lore_Books_F.md) [G](Lore_Books_G.md) [H](Lore_Books_H.md) [I](Lore_Books_I.md) [J](Lore_Books_J.md) [K](Lore_Books_K.md) [L](Lore_Books_L.md) [M](Lore_Books_M.md) [N](Lore_Books_N.md) [O](Lore_Books_O.md) [P](Lore_Books_P.md) [Q](Lore_Books_Q.md) [R](Lore_Books_R.md) [S](Lore_Books_S.md) [T](Lore_Books_T.md) [U](Lore_Books_U.md) [V](Lore_Books_V.md) [W](Lore_Books_W.md) [X](Lore_Books_X.md) [Y](Lore_Books_Y.md) Z | [By Author](Lore_Books_by_Author.md) | [By Subject](Lore_Books_by_Subject.md) | [Mentioned Texts](Lore_Mentioned_Texts.md) | Title | Author | Description | Game(s) |
+| --- | --- | --- | --- |
+| [***Zainsubani's Notes***](Lore_Zainsubani%27s_Notes.md) | [Hassour Zainsubani](Lore_Books_by_Author.md#Hassour_Zainsubani) | Notes on the Ashlanders and the Nerevarine Cult | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Zainsubani%27s_Notes) |
+| [***Zakhin's Many Heroes***](Lore_Zakhin%27s_Many_Heroes.md) | [The Unveiled Azadiyeh](Lore_Books_by_Author.md#The_Unveiled_Azadiyeh) | A traditional Redguard children's tale | |
+| [***Zealotry***](Lore_Zealotry.md) | | The beliefs and ways of the Zealots dedicated to Sheogorath | - [Shivering Isles](https://en.uesp.net/wiki/Shivering:Zealotry) |

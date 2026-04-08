@@ -1,0 +1,23 @@
+#  Travels Beyond the Village, Part 3
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Keshu:_Travels_Beyond_the_Village,_Part_3) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[Keshu: Travels Beyond the Village](Lore_Keshu__Travels_Beyond_the_Village.md)* | | |
+| Prev. | *[Part 2](Lore_Keshu__Travels_Beyond_the_Village,_Part_2.md)* | Next | *[The Black Fin Goes to War, Part 1](Lore_Keshu__The_Black_Fin_Goes_to_War,_Part_1.md)* |
+
+[Keshu](Lore_Keshu.md): Travels Beyond the Village, Part 3 **by [Peek-Ereel](Lore_Books_by_Author.md#Peek-Ereel), Friend and Confidant to Keshu the Black Fin** *The tale of Keshu the Black Fin's exploration of ancient ruins* *
+---
+My tale of the younger days of [Keshu](Lore_Keshu_the_Black_Fin.md), war hero and founder of the movement for an advanced [Saxhleel](Lore_Saxhleel.md) society, continues. Our travels beyond the village of Seekhat-Xol, the village where we grew up, proceeded, with Keshu determining every step we took through the greater marsh. Our company had grown from the five of us to a group of more than a dozen. Most of the slaves we freed from the [House Dres](Lore_House_Dres.md) enclave in [Stormhold](Lore_Stormhold.md) had departed, seeking to make their way back to homes and families. But not all of them had something to return to. And, it seemed, Keshu was developing into as charismatic and popular a leader as [Jorunn](Lore_Jorunn.md) the [Nord](Lore_Nord.md), who we met in Stormhold.
+
+Keshu had always been fascinated by the tales of an advanced Saxhleel society that supposedly thrived in the distant past. For this part of our journey, she was determined to visit the site of one of these ancient cities. We followed clues contained in an old book she had borrowed from our teacher, the raj-deelith, Drameencin, and traveled deeper into the marsh. We moved through a portion of the swamp that was as dangerous to Saxhleel as it was to scaleless outsiders. In addition to strange predators and clouds of noxious poison that drifted casually on the breeze, we also had to contend with meat-eating plants, ambulatory mounds of flesh-dissolving mud, and swarms of hungry insects. But we were adult Saxhleel, tested and proven strong (well, except for me, who still had to complete my rites of maturity), and the great and powerful Black Fin was our leader. The swamp never stood a chance.
+
+We wandered for a time, trying to locate a specific landmark in the bleakness of the deep marsh. According to Keshu's book, we were looking for two huge shining cypress trees, their trunks twisted by age and proximity so that they were intertwined like a thick, knotted rope. It was Tee-Wan who eventually found the tangled trees, calling out his discovery with a mix of excitement and dread. For beyond the trees, looming like a mountain from the murky water of the swamp, was the ancient stone ruins of the advanced Saxhleel civilization.
+
+The ruins waited before us, consisting of equal parts oppressive stone and dark shadow. Most of us were wary if not outright fearful of approaching the place. How could true Saxhleel have tolerated living in such a structure? But Keshu displayed not a hint of the fear the rest of us were feeling. In fact, her face shone with wonder and excitement. Before any of us could stop her, she was racing up the stone steps toward the top of the xanmeer, anxious to discover the secrets of the lost civilization. When she saw that the rest of us were hanging back, she returned and addressed our group.
+
+"Vos-Huruk," Keshu said, "lead the group back to Seekhat-Xol. I will follow and meet you there shortly." We were worried about Keshu remaining among the ruins by herself, but we were also eager to return to our village. "What will you do out here?" I asked. Keshu erected the spine of compassion and simply replied, "Learn whatever I can."
+
+We had been back in the village for almost the entire cycle of the moons when Keshu emerged from the swamp and returned to Seekhat-Xol. She received a hero's welcome, for the stories of our adventures had grown with each telling, and Keshu was considered to be the greatest of us all. She never encouraged the accolades, never sought glory. She greeted us each in turn, asked about the welfare of the freed slaves who had accompanied us, and then went to seek the counsel of the teacher, Drameencin. She found our old mentor in his mud hut, seeking solace from the heat of the day. "Welcome home, student," he said, raising the spine of greeting.
+
+"Raj-deelith," Keshu began, "let me tell you what I found in the place of the Old Ones."

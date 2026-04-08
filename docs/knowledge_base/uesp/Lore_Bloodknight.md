@@ -1,0 +1,20 @@
+# Bloodknight
+
+[![](https://images.uesp.net/thumb/4/44/ON-npc-Gray_Host_Bloodknight_02.jpg/200px-ON-npc-Gray_Host_Bloodknight_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Gray_Host_Bloodknight_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Gray_Host_Bloodknight_02.jpg) A Bloodknight Bloodknights are an alchemically altered strain of [vampires](Lore_Vampire.md) who absorb the power of other vampires.<sup>[[1]](#cite_note-Gwendis Castle Thorn-1)</sup> They are larger, stronger and faster than normal vampires.<sup>[[2]](#cite_note-RNCV-2)</sup> Bloodknights have a difficult time restraining their more base instincts, giving them a beast-like quality.<sup>[[2]](#cite_note-RNCV-2)</sup> They usually operate in service to [Vampire Lords](Lore_Vampire_Lord.md).<sup>[[1]](#cite_note-Gwendis Castle Thorn-1)</sup> [Lady Essenia](Lore_Essenia.md) of [Greymoor Keep](Lore_Greymoor_Keep.md) created bloodknights by alchemically blending the bloodlines of several vampires, using [Azure Plasm](Lore_Azure_Plasm.md) as a catalyst.<sup>[[2]](#cite_note-RNCV-2)</sup> She would then infect vampires with this mixture, infecting her subjects with a strain of vampirism she dubbed Chaotica Vampiris.<sup>[[2]](#cite_note-RNCV-2)</sup> Unlike [Porphyric Hemophilia](Lore_Porphyric_Hemophilia.md) or [Sanguinare Vampiris](Lore_Sanguinare_Vampiris.md), Chaotica Vampiris only affects those already inflicted with vampirism.<sup>[[2]](#cite_note-RNCV-2)</sup>
+
+The alchemist Arkasis managed to create his own bloodknights through use of a substance called vitalizer fluid. The alchemist discovered the process needed vitalizer fluid as it spurred on process of bloodknight development and growth.<sup>[[3]](#cite_note-SGDN-3)</sup> The process required the vitalizer fluid to continuously circulate through alchemical vats, due to the process being quite delicate. If the process were to stop, the bloodknight would be rendered inviable as a result.<sup>[[4]](#cite_note-TVFMF-4)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/1/14/ON-render-Subclassing_%28Templar_Nightblade%29.jpg/200px-ON-render-Subclassing_%28Templar_Nightblade%29.jpg)](https://en.uesp.net/wiki/File:ON-render-Subclassing_(Templar_Nightblade).jpg) A Templar Nightblade attacking Bloodknights
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Bloodknight).
+
+### Books
+- ***[Research Notes: Chaotica Vampiris](https://en.uesp.net/wiki/Lore:Research_Notes__Chaotica_Vampiris)*** by [Lady Essenia](Lore_Books_by_Author.md#Lady_Essenia), Master Alchemist and High Chamberlain of [Greymoor Keep](Lore_Greymoor_Keep.md) — An account on the creation of bloodknights
+
+## References
+1. ^ <sup>***[a](#cite_ref-Gwendis Castle Thorn_1-0)***</sup><sup>***[b](#cite_ref-Gwendis Castle Thorn_1-1)***</sup> [Gwendis](https://en.uesp.net/wiki/Online:Gwendis)' dialogue during [Blood of the Past](https://en.uesp.net/wiki/Online:Blood_of_the_Past) in [ESO:](https://en.uesp.net/wiki/Online:Online) [Stonethorn](https://en.uesp.net/wiki/Online:Stonethorn)
+2. ^ <sup>***[a](#cite_ref-RNCV_2-0)***</sup><sup>***[b](#cite_ref-RNCV_2-1)***</sup><sup>***[c](#cite_ref-RNCV_2-2)***</sup><sup>***[d](#cite_ref-RNCV_2-3)***</sup><sup>***[e](#cite_ref-RNCV_2-4)***</sup> [*Research Notes: Chaotica Vampiris*](https://en.uesp.net/wiki/Lore:Research_Notes__Chaotica_Vampiris) — [Lady Essenia](Lore_Books_by_Author.md#Lady_Essenia), Master Alchemist and High Chamberlain of [Greymoor Keep](Lore_Greymoor_Keep.md)
+3. [^](#cite_ref-SGDN_3-0) [*Stone Garden Dissection Notes*](Lore_Stone_Garden_Dissection_Notes.md) — [Arkasis](Lore_Books_by_Author.md#Arkasis) the Mad Alchemist
+4. [^](#cite_ref-TVFMF_4-0) [*The Vitalizer Fluid Must Flow*](https://en.uesp.net/wiki/Online:The_Vitalizer_Fluid_Must_Flow) — [Arkasis the Mad Alchemist](https://en.uesp.net/wiki/Online:Arkasis_the_Mad_Alchemist)

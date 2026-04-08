@@ -1,0 +1,90 @@
+# Frostmere Crypt
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) \| Nordic Ruin: <br> Frostmere Crypt <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Frostmere+Crypt)) ([lore page](Lore_Frostmere_Crypt.md)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) | Nordic Ruin: <br> Frostmere Crypt <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Frostmere+Crypt)) ([lore page](Lore_Frostmere_Crypt.md)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) | Nordic Ruin: <br> Frostmere Crypt <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Frostmere+Crypt)) ([lore page](Lore_Frostmere_Crypt.md)) | |
+| # of Zones | 2 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](Skyrim_Respawn.md) | Never (storage is [safe](Skyrim_Containers.md#Safe_Locations)) | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 6 | |
+| Occupants | | |
+| [Bandits](Skyrim_Bandit.md), [The Pale Lady](Skyrim_The_Pale_Lady_(creature).md) | | |
+| Important Treasure | | |
+| [The Pale Blade](Skyrim_The_Pale_Blade.md) <br> *[The Red Kitchen Reader](Skyrim_The_Red_Kitchen_Reader.md)* | | |
+| Console Location Code(s) | | |
+| Frostmere Crypt Exterior01, Frostmere Crypt Start, Frostmere Crypt01, Frostmere Crypt World01, Frostmere Crypt World02 | | |
+| Region | | |
+| [The Pale](Skyrim_The_Pale.md) | | |
+| Location | | |
+| South-southwest of [Dawnstar](Skyrim_Dawnstar.md) <br> East-northeast of [Stonehills](Skyrim_Stonehills.md) | | |
+| Special Features | | |
+| [Word Wall](Skyrim_Word_Wall.md) | [Ice Form](Skyrim_Ice_Form.md) | |
+| # of [Grindstones](Skyrim_Grindstone.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 2 | |
+| # of [Corundum](Skyrim_Corundum_Ore.md) | 2 | |
+| # of [Silver](Skyrim_Silver_Ore.md) | 1 | |
+| # of [Orichalcum](Skyrim_Orichalcum_Ore.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/6/67/SR-place-Frostmere_Crypt.jpg/200px-SR-place-Frostmere_Crypt.jpg)](https://en.uesp.net/wiki/File:SR-place-Frostmere_Crypt.jpg) [](https://en.uesp.net/wiki/File:SR-place-Frostmere_Crypt.jpg) Frostmere Crypt **Frostmere Crypt** is a medium-sized [Nordic ruin](Skyrim_Nordic_Ruins.md) south-southwest of [Dawnstar](Skyrim_Dawnstar.md) containing [bandits](Skyrim_Bandit.md) and the unique wispmother the [Pale Lady](Skyrim_The_Pale_Lady_(creature).md). It contains two zones: *[Frostmere Crypt](#Frostmere_Crypt)* and *[Frostmere Depths](#Frostmere_Depths)*.
+
+Its [word wall](Skyrim_Word_Wall.md) teaches part of the [Ice Form](Skyrim_Ice_Form.md) [dragon shout](Skyrim_Dragon_Shouts.md).
+
+## Related Quests
+- **[Amulet of the Moon](Skyrim_Amulet_of_the_Moon.md)**: Find the [Moon Amulet](Skyrim_Moon_Amulet.md) for [Kharjo](Skyrim_Kharjo.md). ([radiant](Skyrim_Radiant.md))
+- **[Bandit Attack](Skyrim_Bandit_Attack.md)**<sup>[HF](Skyrim_Hearthfire.md)</sup>: Rescue your beloved from kidnappers. ([radiant](Skyrim_Radiant.md))
+- **[The Pale Lady](Skyrim_The_Pale_Lady.md)**: Find out what happened in Frostmere Crypt.
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Exterior
+Stairs lead up to the entryway, where an empty pot hangs over a firepit. To the right is a broken sideboard with a [ruined book](Skyrim_Ruined_Book.md) and a pair of [gauntlets](Skyrim_Gauntlets.md) on top. To the right of this in the corner is an [iron sword](Skyrim_Iron_Sword.md). To the right of the door leading inside are two [rabbits](Skyrim_Rabbit_(dead).md) hanging from a rack, and to the left is a [burial urn](Skyrim_Burial_Urn.md). Outside the entrance a short distance to the west are two [corundum ore veins](Skyrim_Corundum_Ore_Vein.md). On the snowy hill behind the dungeon, you can find another ruined book, and a dead [Vigilant of Stendarr](Skyrim_Vigilant_of_Stendarr.md).
+
+### Frostmere Crypt
+Upon entering, you will be at the top of a flight of stairs; if you are sneaking, you will be able to overhear two bandits discussing [Eisa](Skyrim_Eisa_Blackthorn.md) and the stolen sword. There is a stone table immediately on your left as you enter holding a random war axe, a random healing potion, and some ruined books. There are also four sacks under the table, and an unusable barrel and a chair opposite. Taking the stairs down past three more unusable barrels on your right and a pile of firewood on your left, the passageway opens into a room containing two bandits, with plenty of sacks, crates, boxes, and barrels around the room. On the left is a stone table with two chairs, where the bandits are sitting. On the table are three sacks, two bottles of [Nord mead](Skyrim_Nord_Mead.md), an [iron dagger](Skyrim_Iron_Dagger.md), and *[Kyr's Bounty](Skyrim_Kyr%27s_Bounty.md)*. To the left of the table is an [urn](Skyrim_Urn.md). There is a gated path ahead, and an open gate on the right; through this doorway will come another bandit, who will probably be alerted when you attack the first two.
+
+In the room to the right are more crates, sacks, and barrels, and an apprentice-locked [chest](Skyrim_Chest.md). To the right of the chest is a set of shelves containing copies of *[The Song of Pelinal, v7](Skyrim_The_Song_of_Pelinal,_v7.md)*, *[The Oblivion Crisis](Skyrim_The_Oblivion_Crisis.md)*, and *[A Dance in Fire, v1](Skyrim_A_Dance_in_Fire,_v1.md)*, a ruined book, a skull, a sample of [snowberries](Skyrim_Snowberries.md), some random armor, and two sacks. To the right of the shelves is a table and a chair with a small window looking out into the first room. On the table is a copy of *[Darkest Darkness](Skyrim_Darkest_Darkness.md)*.
+
+Back in the first room, to the left of the gated passageway is a pull chain that opens it. The passageway leads down some stairs and turns to the west; you will hear talking ahead, and pass a large urn on your left. Just past this is a junction with a turn to the south, and an iron door straight ahead that is barred from the other side. There is a lit brazier on your right at the junction, with a random [greatsword](Skyrim_Greatsword.md) on top. There is an end table on the left just after the junction, with a random [potion of healing](Skyrim_Potion_of_Minor_Healing.md) on top.
+
+Taking the left turn at the junction, you can see a covered raised walkway ahead, with a table and chair where it turns. On the table is a random [dagger](Skyrim_Dagger.md) and a copy of *[Palla, volume 1](Skyrim_Palla,_volume_1.md)*. The walkway is in a room with three levels. You can see a bandit down on the middle level guarding a lever. Following the covered walkway east to a passageway running north-south, there are a couple cages ahead, with blood splattered up the wall. To the left (north) as you enter the passageway is a bandit guarding an adept-locked door; he is to the right of the door, and can be quite hard to see. To the left of this door is a chair and a set of shelves holding several ruined books, and copies of *[The Ransom of Zarek](Skyrim_The_Ransom_of_Zarek.md)*, *[Yellow Book of Riddles](Skyrim_Yellow_Book_of_Riddles.md)*, and *[The "Madmen" of the Reach](Skyrim_The_%22Madmen%22_of_the_Reach.md)*. Behind the adept-locked door is a small storage room containing a [grindstone](Skyrim_Grindstone.md), three unusable barrels, two food sacks, and a set of four weapon racks. There is a pair of random [boots](Skyrim_Armor.md#Boots) on the floor in front of the weapon racks, and a [helmet](Skyrim_Armor.md#Helmets) on the barrels. The racks hold an [iron sword](Skyrim_Iron_Sword.md), an [iron battleaxe](Skyrim_Iron_Battleaxe.md), and a random [warhammer](Skyrim_Warhammer.md).
+
+Following the passageway to the south, you will pass two sets of shelves, one on either side of the passageway. The shelves on the left hold more ruined books, a copy of *[Thief of Virtue](Skyrim_Thief_of_Virtue.md)*, and a troll skull. The shelves on the right have various items of crockery, more ruined books, and on a plinth in front, a copy of the [Sneak](Skyrim_Sneak.md) [skill book](Skyrim_Skill_Books.md) *[The Red Kitchen Reader](Skyrim_The_Red_Kitchen_Reader.md)*. Continue into the next room, which has two open doors on this level, as well as wooden stairs descending to a lower level where two more bandits are discussing the theft of the sword. The first room on your left appears to be [Kyr](Skyrim_Kyr.md) the bandit leader's bedroom. It contains an unowned double bed with an end table to the right. On top of the end table is *[Kyr's Log](Skyrim_Kyr%27s_Log.md)*. To the right of the end table is a sideboard holding a random [mace](Skyrim_Mace.md) and a [potion of stamina](Skyrim_Potion_of_Minor_Stamina.md). Reading the log will update the quest [The Pale Lady](Skyrim_The_Pale_Lady.md). There is also an unlocked chest, an unusable barrel, several sacks, and a chair in the room. The next room appears to be another bedroom, with a dresser by the door with a random helmet on top. There are also two bedrolls, a table and two chairs, and a crate and a food sack with a [pickaxe](Skyrim_Pickaxe.md) leaning against them. On the table is *[Ra'jirr's Note](Skyrim_Ra%27jirr%27s_Note.md)* and *[Eisa's Journal](Skyrim_Eisa%27s_Journal.md)*, which give you more info on what has happened.
+
+Down the stairs, after dealing with the two bandits, you will find four long tables with two benches each around the room. To the east is a large fireplace, with an empty pot over it. To the right are several sacks and barrels containing food. There is a sideboard against the south wall holding a [sliced goat cheese](Skyrim_Sliced_Goat_Cheese.md) and a bottle of [Alto wine](Skyrim_Alto_Wine.md). To the right is a cupboard, with a couple sacks on a shelf. Hanging above the sideboard are two [garlic braids](Skyrim_Garlic_Braid.md), a sample of [dried frost mirriam](Skyrim_Dried_Frost_Mirriam.md), two [pheasants](Skyrim_Pheasant.md), and a rabbit. There is a doorway to the north leading to a raised wooden bridge, and an unlocked wooden door to the west.
+
+Through the door to the west is another bedroom, with a bandit sitting at a table in front of you. Behind the table is a fireplace, with a wardrobe to the left, and four bedrolls scattered around this part of the room. Farther into the room is a dresser on the right, with a copy of *[Yellow Book of Riddles](Skyrim_Yellow_Book_of_Riddles.md)* on top. Behind a pile of rubble is another bedroll, with another bandit sleeping. Opposite this bedroll is a small set of shelves holding a medium [coin purse](Skyrim_Coin_Purse.md) and some ruined books. Continuing along a passageway is a sideboard on your left, with a random healing potion on top. Just past this sideboard, through a door to the right, is the bandit guarding the lever you saw earlier. The lever operates the raised bridge. At the end of the passageway is an [imp stool](Skyrim_Imp_Stool.md) fungus growth, with a partially buried burial urn behind.
+
+Returning to the wooden bridge, dropping it may well have alerted two more bandits, who come to investigate. After dealing with the bandits, cross the bridge to a stone pillar, which is circled by a wooden spiral ramp leading to the bottom level. There is a sack at the bottom of the ramp, and an [iron ore vein](Skyrim_Iron_Ore_Vein.md) under the ramp. Around the room are two carts full of rubble, several pickaxes, and a long table holding a pair of [iron gauntlets](Skyrim_Iron_Gauntlets.md). There is a tunnel heading down to the west. At the bottom of the stairs, you will hear two bandits talking on the right, next to a cart. The tunnel turns to the south and continues to descend. Be careful, as there is a [falling boulder trap](Skyrim_Falling_Boulders.md) at the top of the stairs. The easiest way to avoid it is to walk to the top of the stairs, and as soon as you hear it activating, stand still until it finishes. At the bottom of the stairs is a junction, with the tunnel running east-west. Opposite you at the junction is a lit brazier on the ground; to the left of the brazier is a second iron ore vein. The dead end to the east has an empty open chest, probably the one mentioned in Kyr's log as the bandits' first big discovery. Next to the chest is a pickaxe.
+
+Taking the tunnel to the west, you pass a cart on your left, then descend more stairs. At the bottom of the stairs, the passage starts looking like a typical Nord burial site, with alcoves in the walls for corpses. The passageway runs north-south again; to the south is a bandit mining at a dead end. There is a [silver ore vein](Skyrim_Silver_Ore_Vein.md) here on the west wall. Following the passage north, you will see another partially buried burial urn, and an iron door leading to *Frostmere Depths*.
+
+### Frostmere Depths
+Upon entering this area, you will see a forest in front of you, with Kyr dying to your right. He will try to talk to you, but apart from finding out what you already knew about [Ra'jirr](Skyrim_Ra%27jirr.md) trying to take the sword back, you will learn nothing new. Once he is dead, you can loot his body. The path leads forward, and you will see [wisps](Skyrim_Wisp.md) floating around and Ra'jirr ahead being attacked by a wispmother named the Pale Lady. They will be fighting in front of a stone table which has a weapon stand on it, with a medium coin purse, a loose [septim](Skyrim_Gold.md), and a filled random [soul gem](Skyrim_Soul_Gems.md) next to the stand. The table is on a stone island, with water nearly all the way around it.
+
+If you follow the cave wall on the left from the entrance door, you will pass under a fallen tree. There is a lootable skeleton leaning against a tree next to a leveled warhammer and a random [shield](Skyrim_Shield.md). Continuing past the skeleton and climbing slightly to the left of a stone pillar, you will find a master-locked chest at the base of a tree (near the northwest corner of the cave).
+
+There is a stream to the right of the table. Follow the stream up to the source for an [orichalcum ore vein](Skyrim_Orichalcum_Ore_Vein.md). Crossing the stream, you come to a flight of stairs ascending to the northwest. Turning to your right, at the top you will see the word wall, which teaches part of the Ice Form shout. To the left of the wall is a burial urn. Past the wall is a second flight of stairs up from this level, which leads to an iron door that is a shortcut back to *Frostmere Crypt*. To the left of the door is another unlocked chest, with a random greatsword stuck in the stone to the left of the chest (see [bugs](#Bugs)). Before using the door, jump up the rock formations to the west along the wall of the cavern to reach a stream above two waterfalls, with another taller waterfall falling from near the roof above. On this natural shelf, careful searching will reveal an iron sword and three loose septims.
+
+In this zone, you can find at least five [blue mountain flowers](Skyrim_Blue_Mountain_Flower.md), seven [red mountain flowers](Skyrim_Red_Mountain_Flower.md), eight [purple mountain flowers](Skyrim_Purple_Mountain_Flower.md), and ten [mora tapinella](Skyrim_Mora_Tapinella.md), as well as two [torchbugs](Skyrim_Torchbug.md) flying around.
+
+Through the iron door back in the first zone is a flight of stairs, with a pressure plate at the top which triggers a dart trap from the left. You can avoid all damage by waiting on the plate until the darts stop firing. The passage then leads to a flooded room, with a bridge spanning the room, and a flight of wooden steps on the right descending into the water. Under the water there is a lot to collect, including an adept-locked chest. To the south, next to a piece of fallen stonework, is a sideboard with a leveled battleaxe and a random poison on top. Against the north wall in a semi-circular formation are two random soul gems, one filled, one empty. Finally, in the northwest corner on a broken stone table is a random [cuirass](Skyrim_Armor.md). Crossing the bridge leads to an iron door barred from this side; from there, you may retrace your steps to the exit.
+
+## Notes
+- According to data in the Creation Kit, Frostmere Crypt was once named **Palemoon Crypt** instead.
+- The forest section of the dungeon is considered outdoors, therefore you can fast travel from there.
+
+## Bugs
+- Approaching Frostmere Crypt from the north may not trigger the quest, [The Pale Lady](Skyrim_The_Pale_Lady.md). - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.9.26.0.8, fixes this bug.
+- If the quest [Amulet of the Moon](Skyrim_Amulet_of_the_Moon.md) directs you here, check to see whether you have already visited this location. This location does not respawn, so if you have been here before, the Moon Amulet cannot spawn here and you cannot complete the quest. - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.9, fixes this bug.
+
+- [![On PC](https://images.uesp.net/d/d7/Computer.svg)](https://www.wikipedia.org/wiki/PC_game) This bug is fixed by version 2.1.0 of the [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch).
+- You will need to reload a previous save and get a different quest location from [Kharjo](Skyrim_Kharjo.md).
+- You may find the greatsword floating in the air above the chest. - The sword cannot be interacted with and is not affected by shouts, spells, or most attacks. However, shooting it with an arrow will drop it to the ground for retrieval.
+- Using the grindstone will swing the camera past the cell and into the blue void. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.0, addresses this issue. The grindstone has been moved to the center of the room.
+
+- Exit the grindstone, and the camera will return to normal.

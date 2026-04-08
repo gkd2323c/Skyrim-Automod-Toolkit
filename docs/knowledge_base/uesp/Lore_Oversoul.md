@@ -1,0 +1,22 @@
+# Oversoul
+
+
+## Amulet of Kings
+The [Amulet of Kings](Lore_Amulet_of_Kings.md) housed an Oversoul of [Dragonborn](Lore_Dragonborn.md) Emperors who had passed on. This Oversoul was capable of describing events that occurred within a [Dragon Break](Lore_Dragon_Break.md), which even the [Elder Scrolls](Lore_Elder_Scrolls.md) could not.<sup>[[1]](#cite_note-WWY-1)</sup> Along with the Elder Council, and the Emperor themself, a Third Era [Prophet](https://en.uesp.net/wiki/Lore:The_Prophet) was able to sense the speech of the Amulet's Oversoul.<sup>[[2]](#cite_note-OBProphet-2)</sup> When [Martin Septim](Lore_Martin_Septim.md), the final Dragonborn Emperor, shattered the Amulet of Kings to become an Avatar of [Akatosh](Lore_Akatosh.md), the Oversoul seemingly attained some type of afterlife or ascendant state, as Martin claimed he took his place with his [father](Lore_Uriel_Septim_VII.md), and his father's fathers.<sup>[[3]](#cite_note-OBMartin-3)</sup> Martin, by certain accounts, was said to have [mantled](Lore_Mantling.md) Akatosh.<sup>[[UOL 1]](#cite_note-MKP-4)</sup><sup>[[UOL 2]](#cite_note-GIKurt Kuhlmann-5)</sup>
+
+## Enantiomorph
+[![](https://images.uesp.net/thumb/8/85/Underking1.jpg/200px-Underking1.jpg)](https://en.uesp.net/wiki/File:Underking1.jpg) [](https://en.uesp.net/wiki/File:Underking1.jpg) Zurin Arctus Two enigmatic individuals, [Talos](Lore_Tiber_Septim.md) and [Zurin Arctus](https://en.uesp.net/wiki/Lore:Zurin_Arctus), joined together to form an Oversoul to fortify the throne and land of [Tamriel](Lore_Tamriel.md).<sup>[[2]](#cite_note-OBProphet-2)</sup> They had become an [Enantiomorph](https://en.uesp.net/wiki/Lore:Enantiomorph), and their Oversoul was known to the world as Tiber Septim.<sup>[[4]](#cite_note-Po M-6)</sup> In this state, they were described as the two-headed ruling king, and the red jewel of conquest who contained multitudes.<sup>[[5]](#cite_note-LOV-7)</sup> This Oversoul split when One betrayed the Other, and the world shuddered from this separation. Some viewed the aftermath as [Anumidium](https://en.uesp.net/wiki/Lore:Anumidium) forming an Empire of Evil to house the malignant half of its soul.<sup>[[4]](#cite_note-Po M-6)</sup> According to some sources, the ultimate victor of the Enantiomorph was Zurin Arctus,<sup>[[6]](#cite_note-UDF-8)</sup><sup>[[7]](#cite_note-AH-9)</sup> who attained Apotheosis this way.<sup>[[UOL 1]](#cite_note-MKP-4)</sup>
+
+## References
+1. [^](#cite_ref-WWY_1-0) [*Where Were You When the Dragon Broke?*](https://en.uesp.net/wiki/Lore:Where_Were_You_When_the_Dragon_Broke%3F) — Various
+2. ^ <sup>***[a](#cite_ref-OBProphet_2-0)***</sup><sup>***[b](#cite_ref-OBProphet_2-1)***</sup> [The Prophet](https://en.uesp.net/wiki/Oblivion:The_Prophet)'s dialogue in [*Oblivion: Knights of the Nine*](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)
+3. [^](#cite_ref-OBMartin_3-0) [Martin](https://en.uesp.net/wiki/Oblivion:Brother_Martin)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. ^ <sup>***[a](#cite_ref-Po M_6-0)***</sup><sup>***[b](#cite_ref-Po M_6-1)***</sup> [*People of Morrowind*](https://en.uesp.net/wiki/General:People_of_Morrowind) — Various
+5. [^](#cite_ref-LOV_7-0) [*The 36 Lessons of Vivec*](https://en.uesp.net/wiki/Lore:The_36_Lessons_of_Vivec) — [Vivec](Lore_Books_by_Author.md#Vivec)
+6. [^](#cite_ref-UDF_8-0) [The Underking](https://en.uesp.net/wiki/Daggerfall:Journey_to_Aetherius#The_Underking) ending in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+7. [^](#cite_ref-AH_9-0) [*The Arcturian Heresy*](Lore_The_Arcturian_Heresy.md) — [The Underking](Lore_Underking.md), [Ysmir](Lore_Ysmir.md) Kingmaker
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-MKP_4-0)***</sup><sup>***[b](#cite_ref-MKP_4-1)***</sup> [*Michael Kirkbride's Posts*](https://en.uesp.net/wiki/General:Michael_Kirkbride%27s_Posts)
+2. [^](#cite_ref-GIKurt Kuhlmann_5-0) [Kurt Kuhlmann](https://en.uesp.net/wiki/General:Kurt_Kuhlmann)'s comments on *[Decrypting The Elder Scrolls](https://en.uesp.net/wiki/General:Decrypting_the_Elder_Scrolls)* — [Game Informer](https://www.wikipedia.org/wiki/Game_Informer) article

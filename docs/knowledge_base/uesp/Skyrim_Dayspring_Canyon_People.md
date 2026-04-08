@@ -1,0 +1,6 @@
+# Dayspring Canyon People
+
+| \| [Dayspring Canyon](Skyrim_Dayspring_Canyon.md) \| <br> \| --- \| <br> \| **[Alvide](Skyrim_Alvide.md)** <br> **[Barknar](Skyrim_Barknar_(Dawnguard).md)** <br> **[Jayri](Skyrim_Jayri.md)** <br> **[Ollrod](https://en.uesp.net/wiki/Skyrim:Ollrod)** <br> **[Sern](https://en.uesp.net/wiki/Skyrim:Sern)** <br> **[Tilde](https://en.uesp.net/wiki/Skyrim:Tilde)** <br> **[Vori](https://en.uesp.net/wiki/Skyrim:Vori)** \| | [Dayspring Canyon](Skyrim_Dayspring_Canyon.md) | **[Alvide](Skyrim_Alvide.md)** <br> **[Barknar](Skyrim_Barknar_(Dawnguard).md)** <br> **[Jayri](Skyrim_Jayri.md)** <br> **[Ollrod](https://en.uesp.net/wiki/Skyrim:Ollrod)** <br> **[Sern](https://en.uesp.net/wiki/Skyrim:Sern)** <br> **[Tilde](https://en.uesp.net/wiki/Skyrim:Tilde)** <br> **[Vori](https://en.uesp.net/wiki/Skyrim:Vori)** |
+| --- | --- | --- |
+| [Dayspring Canyon](Skyrim_Dayspring_Canyon.md) | | |
+| **[Alvide](Skyrim_Alvide.md)** <br> **[Barknar](Skyrim_Barknar_(Dawnguard).md)** <br> **[Jayri](Skyrim_Jayri.md)** <br> **[Ollrod](https://en.uesp.net/wiki/Skyrim:Ollrod)** <br> **[Sern](https://en.uesp.net/wiki/Skyrim:Sern)** <br> **[Tilde](https://en.uesp.net/wiki/Skyrim:Tilde)** <br> **[Vori](https://en.uesp.net/wiki/Skyrim:Vori)** | | |

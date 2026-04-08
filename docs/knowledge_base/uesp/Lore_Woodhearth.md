@@ -1,0 +1,59 @@
+# Woodhearth
+
+| Woodhearth | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) |
+| Region | [Greenshade](Lore_Greenshade.md) <br> ([Drowned Coast](Lore_Drowned_Coast.md)) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Woodhearth), [ESO](https://en.uesp.net/wiki/Online:Woodhearth) |
+
+[![](https://images.uesp.net/thumb/5/51/ON-place-Woodhearth.jpg/200px-ON-place-Woodhearth.jpg)](https://en.uesp.net/wiki/File:ON-place-Woodhearth.jpg) [](https://en.uesp.net/wiki/File:ON-place-Woodhearth.jpg) Woodhearth circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/d/d2/LO-map-Valenwood_%28Oblivion_Codex%29.jpg/200px-LO-map-Valenwood_%28Oblivion_Codex%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Valenwood_(Oblivion_Codex).jpg) [](https://en.uesp.net/wiki/File:LO-map-Valenwood_(Oblivion_Codex).jpg) Map of Valenwood Woodhearth is a coastal city in southwestern [Valenwood](Lore_Valenwood.md) and the capital of the [Greenshade](Lore_Greenshade.md) region.<sup>[[1]](#cite_note-ESO-1)</sup>
+
+## History
+The city was constructed by the [Second Empire](Lore_Second_Empire.md) in the late [First Era](Lore_First_Era.md) to act as an [Imperial](Lore_Imperial.md) outpost with the aim of facilitating trade with the native [Bosmer](Lore_Bosmer.md). Imperial-style buildings, port, sewers and walls in the settlement were constructed back in that time. The Bosmer had mixed reactions to Imperial presence. After several violent attacks against the settlement, a peace was eventually struck with the [Green Pact](Lore_Green_Pact.md) Bosmer tribes and a Bosmer settlement was created adjacent to it. Natural Bosmeri architecture began to replace the Imperial original buildings, which were gradually replaced or fell into disrepair, though the city in general thrived. As the Bosmer secured their place within the Empire, control was gradually ceded back to autonomous Bosmeri rule and a treethane began to rule over the cosmopolitan population, having a reputation for determined leadership and fair judgment.<sup>[[2]](#cite_note-WAPG-2)</sup> With Woodhearth treethane ascension to power, the city became the capital of the Kingdom of Greenshade, one of the six independent kingdoms ruled by local Bosmer nobility who were under the Second Empire banner and protection in Valenwood. Soon, the city rose from a fortified trading post to both a busy port and a mighty bastion.<sup>[[3]](#cite_note-PGE3V-3)</sup>
+
+During the [Akaviri Potentate](Lore_Akaviri_Potentate.md), in the early Second Era, the [Maormer](Lore_Maormer.md) from [Pyandonea](Lore_Pyandonea.md) launched an incursion in southern Valenwood, landing and sacking [Haven](Lore_Haven.md) and Woodhearth and marching inland towards [Elden Root](Lore_Elden_Root.md), where they plundered the settlement and the very Elden Tree before returning to the sea.<sup>[[4]](#cite_note-ACOV-4)</sup>
+
+In [2E 580](Lore_Second_Era.md#2E_580), Woodhearth was one of the settlements in Greenshade which were incorporated into the [First Aldmeri Dominion](Lore_Aldmeri_Dominion.md). Soon after its admission into the Dominion, the [Thalmor](Lore_Thalmor.md) established an outpost on the port city to oversee the region and many settlers came from the [Summerset Isles](Lore_Summerset_Isles.md), replacing many of the old Imperial-style buildings with [Altmer](Lore_Altmer.md) -style ones. Woodhearth so became one of the principal mainland ports in Greenshade, along with Seaside Sanctuary.<sup>[[1]](#cite_note-ESO-1)</sup><sup>[[2]](#cite_note-WAPG-2)</sup> In [2E 582](Lore_Second_Era.md#2E_582) and after the death of [Prince Naemon](Lore_Naemon.md), [Vicereeve Pelidil](Lore_Pelidil.md) assumed leadership of the [Veiled Heritance](Lore_Veiled_Heritance.md) and stole the [Staff of Magnus](Lore_Staff_of_Magnus.md) from its vault in [Marbruk](Lore_Marbruk.md). An Eye of the Queen tracked Heritance activity in the sewers of Woodhearth. There, both the agent and the [Vestige](Lore_The_Vestige.md) tricked a Veiled Heritance militant to try to murder the agent, who was magically disguised as [Queen Ayrenn](Lore_Ayrenn.md), discovering this way that Heritance soldiers were hiding in the abandoned Imperial prison of Woodhearth, where they tried to assemble an army to conquer the city. Having their plans foiled by the Vestige's intervention, the Heritance retreated to Seaside Sanctuary with their [Maormer](Lore_Maormer.md) allies. After this disturbance was solved, the city remained in the Dominion until its eventual dissolution.<sup>[[1]](#cite_note-ESO-1)</sup>
+
+In [2E 830](Lore_Second_Era.md#2E_830), the city was again annexed by the Second Aldmeri Dominion after the intervention of [Summerset](Lore_Summerset_Isles.md) in another Camoran civil war.<sup>[[5]](#cite_note-PGE1AD-5)</sup> However, the catastrophic use of the [Numidium](Lore_Numidium.md) by Tiber Septim resulted in the conquest of both the entirely of Valenwood and the Summerset Isles in [2E 896](Lore_Second_Era.md#2E_896), ending the Second Aldmeri Dominion control of the settlement, which was incorporated to the [Third Empire](Lore_Third_Empire.md).<sup>[[6]](#cite_note-BHot E1-6)</sup>
+
+During the [Third Era](Lore_Third_Era.md), the city remained in Empire hands except for the [Camoran Usurper Rebellion](Lore_Camoran_Usurper.md) between [3E 249](Lore_Third_Era.md#3E_249) and [3E 267](Lore_Third_Era.md#3E_267).<sup>[[7]](#cite_note-TR-7)</sup><sup>[[8]](#cite_note-TFOTU-8)</sup> In [3E 397](Lore_Third_Era.md#3E_397), during the [War of the Blue Divide](Lore_War_of_the_Blue_Divide.md), as part of the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) wars, the Summerset Isles surrounded Woodhearth with the intent of starving its inhabitants and forcing them to surrender. Amidst the Imperial Simulacrum, the city-state of Woodhearth was an active settlement. It was ruled by Queen Laredra, and it had a rivalry with [Greenheart](Lore_Greenheart.md). Woodhearth was neighbored by several settlements, including Cori Silmoor in the far northeast, and [Vullain Haven](https://en.uesp.net/wiki/Lore:Vullain_Haven) to the southeast.<sup>[[9]](#cite_note-Map Arena-9)</sup> Since the Bosmer practice cannibalism, the attack was presumed to have been a tactical error on Summerset's part. A humorous contemporary remark stated that *"at the end, only one fat wood elf will remain to wave the flag"*.<sup>[[10]](#cite_note-ADIF5-10)</sup> The [Oblivion Crisis](Lore_Oblivion_Crisis.md) that ended the Third Era and weakened the Empire provided the opportunity for the Thalmor to seized the Summerset Isles. In [4E 29](Lore_Fourth_Era.md#4E_29), a Thalmor-backed coup overthrew Valenwood's government, routing Imperial forces and their Bosmer supporters. Alinor and Valenwood then proclaimed a union, and a new Aldmeri Dominion was formed. The city fell into Aldmeri hands for the third time in history.<sup>[[11]](#cite_note-TGW-11)</sup>
+
+## Culture
+Woodhearth is considered one of the safer places in Valenwood for foreigners, despite [skooma](Lore_Skooma.md) smuggling beyond the city's streets and the infamous Bosmer thieves. Beside drugs dealing, contraband of other products are also common through its extensive and partially abandoned Imperial sewers.<sup>[[12]](#cite_note-AMGTV-12)</sup><sup>[[13]](#cite_note-ESOC2-13)</sup>
+
+Ironically, during the construction of [Marbruk](Lore_Marbruk.md) in the [Second Era](Lore_Second_Era.md), it was reportedly the relatively "civilized" Bosmer living in cites like Woodhearth who voiced the greatest opposition to the destruction of Valenwood foliage. The Green Pact Bosmer, meanwhile, showed more fascination than anything else.<sup>[[1]](#cite_note-ESO-1)</sup><sup>[[14]](#cite_note-MBL-14)</sup>
+
+A certain type of three-finger-hole nose flute, known among musicians, was manufactured by city's artisans.<sup>[[15]](#cite_note-ESOC1-15)</sup>
+
+## Notes
+- *[Arena](https://en.uesp.net/wiki/Arena:Arena)* was originally conceived as a fighting game featuring a tournament that took the player to each of Tamriel's cities to challenge different gladiatorial teams. According to a file from that stage of development left behind in the final game, Woodhearth's gladiatorial team would have been called "the Nomads".<sup>[[UOL 1]](#cite_note-16)</sup>
+
+## See Also
+- For game-specific information, see the [ESO article](https://en.uesp.net/wiki/Online:Woodhearth).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESO_1-0)***</sup><sup>***[b](#cite_ref-ESO_1-1)***</sup><sup>***[c](#cite_ref-ESO_1-2)***</sup><sup>***[d](#cite_ref-ESO_1-3)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-WAPG_2-0)***</sup><sup>***[b](#cite_ref-WAPG_2-1)***</sup> [*Woodhearth: A Pocket Guide*](https://en.uesp.net/wiki/Lore:Woodhearth__A_Pocket_Guide)
+3. [^](#cite_ref-PGE3V_3-0) [*Pocket Guide to the Empire, 3rd Edition: The Wilds Remain: Valenwood*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Valenwood) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-ACOV_4-0) [*Ayleid Cities of Valenwood*](Lore_Ayleid_Cities_of_Valenwood.md) — the Esteemed Historian [Homfrey](Lore_Books_by_Author.md#Homfrey) at the [University of Gwylim](Lore_University_of_Gwylim.md), [2E 455](Lore_Second_Era.md#2E_455)
+5. [^](#cite_ref-PGE1AD_5-0) [*Pocket Guide to the Empire, 1st Edition: Aldmeri Dominion*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_Aldmeri_Dominion) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+6. [^](#cite_ref-BHot E1_6-0) [*Brief History of the Empire v 1*](https://en.uesp.net/wiki/Lore:Brief_History_of_the_Empire_v_1) — [Stronach k'Thojj III](Lore_Books_by_Author.md#Stronach_k.27Thojj_III)
+7. [^](#cite_ref-TR_7-0) [*The Refugees*](Lore_The_Refugees.md) — [Geros Albreigh](Lore_Books_by_Author.md#Geros_Albreigh)
+8. [^](#cite_ref-TFOTU_8-0) [*The Fall of the Usurper*](Lore_The_Fall_of_the_Usurper.md) — [Palaux Illthre](Lore_Books_by_Author.md#Palaux_Illthre)
+9. [^](#cite_ref-Map Arena_9-0) [Map of Valenwood – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Valenwood_towns.png)
+10. [^](#cite_ref-ADIF5_10-0) [*A Dance in Fire, Chapter 5*](Lore_A_Dance_in_Fire,_Chapter_5.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+11. [^](#cite_ref-TGW_11-0) [*The Great War*](Lore_The_Great_War_(book).md) — Legate [Justianus Quintius](Lore_Books_by_Author.md#Justianus_Quintius)
+12. [^](#cite_ref-AMGTV_12-0) [*A Merchant's Guide to Valenwood*](Lore_A_Merchant%27s_Guide_to_Valenwood.md)
+13. [^](#cite_ref-ESOC2_13-0) The description of [Woodhearth Sewer Map](https://en.uesp.net/wiki/Online:Contraband_W#Woodhearth_Sewer_Map) in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-MBL_14-0) [*Marbruk Builder's Log*](Lore_Marbruk_Builder%27s_Log.md)
+15. [^](#cite_ref-ESOC1_15-0) The description of [Woodhearth Nose Flute](https://en.uesp.net/wiki/Online:Contraband_W#Woodhearth_Nose_Flute) in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-16) [Original TES: Arena texts at the Imperial Library](http://www.imperial-library.info/content/go-blades)
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Lore:Woodhearth&action=edit).*

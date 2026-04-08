@@ -1,0 +1,25 @@
+# First Council
+
+| **To meet our site's higher standard of quality, this article or section may require cleanup. ** **The user who placed this here had the following concern:** <br> needs references, general cleanup <br> To leave a message about the cleanup for this article, please add it to this article's [talk page](https://en.uesp.net/wiki/Lore_talk:First_Council). |
+| --- |
+
+[![](https://images.uesp.net/thumb/7/77/MW-misc-Anniversary_Art_2025_Crop.png/200px-MW-misc-Anniversary_Art_2025_Crop.png)](https://en.uesp.net/wiki/File:MW-misc-Anniversary_Art_2025_Crop.png) [](https://en.uesp.net/wiki/File:MW-misc-Anniversary_Art_2025_Crop.png) Various members of the First Council (Nerevar as depicted in life, others depicted post-dissolution) Since the Nordic invasion and conquest of present-day [Morrowind](Lore_Morrowind.md) by King [Vrage](Lore_Vrage.md) around [1E 240](Lore_First_Era.md#1E_240),<sup>[[1]](#cite_note-PGE1-1)</sup> the [Nords](Lore_Nord.md) had ruled the region. At the turn of the second century of suppression, [Dumac](Lore_Dumac.md) Dwarfking's [Dwemer](Lore_Dwemer.md) and Indoril [Nerevar](Lore_Nerevar.md)'s united Velothi [Chimer](Lore_Chimer.md) forged an alliance against the common foe.<sup>[[2]](#cite_note-PGE3-2)</sup> The alliance ultimately succeeded in driving the invaders from the land in [1E 416](Lore_First_Era.md#1E_416), leading to the First Council of newly-named [Resdayn](Lore_Resdayn.md). Indoril Nerevar and Dumac Dwarfking were elected as leaders of the First Council. Resdayn flourished under the leadership of Dumac and Nerevar and the peace between the Chimer and Dwemer brought an unprecedented prosperity and flowering of both cultures for a time.<sup>[[3]](#cite_note-battle-3)</sup><sup>[[4]](#cite_note-NARM-4)</sup>
+
+The peace existed mainly by the strength of personal friendship, forged in battle, between Dumac and Nerevar, as they both were counseled to war with each other and end their "unholy" alliance. The scheming of [Almsivi](Lore_Almsivi.md) and Tonal Architect Lord [Kagrenac](Lore_Kagrenac.md) bore fruit. The discord was triggered by Azura's interference,<sup>[[5]](#cite_note-WWYWTDB-5)</sup> the plans of Kagrenac for the [Anumidium](Lore_Anumidium.md) project, and Dumac's ignorance of it, which led to a falling-out with Nerevar.<sup>[[3]](#cite_note-battle-3)</sup><sup>[[4]](#cite_note-NARM-4)</sup><sup>[[6]](#cite_note-TWOTFC-6)</sup>
+
+The council was dissolved in [1E 668](Lore_First_Era.md#1E_668) following the [War of the First Council](Lore_War_of_the_First_Council.md), which led to the deaths of Nerevar and Dumac, the apotheosis and rise of the [Tribunal](Lore_Tribunal.md), and the disappearance of the Dwemer after the [Battle of Red Mountain](Lore_Battle_of_Red_Mountain.md).<sup>[[3]](#cite_note-battle-3)</sup><sup>[[4]](#cite_note-NARM-4)</sup>
+
+The idea of a uniting council was taken up later, as [Vivec](Lore_Vivec.md) formed the [Grand Council](Lore_Grand_Council.md) of Morrowind, which contained the surviving [Great Houses](Lore_Great_Houses.md).<sup>[[6]](#cite_note-TWOTFC-6)</sup>
+
+## See Also
+- ***[Nerevar at Red Mountain](Lore_Nerevar_at_Red_Mountain.md)*** by [the Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple) — A scholarly description of the events surrounding the Battle at Red Mountain and its aftermath
+- ***[The Battle of Red Mountain](Lore_The_Battle_of_Red_Mountain.md)*** by [Vivec](Lore_Books_by_Author.md#Vivec) — The story of the Battle of Red Mountain and the Nerevarine Prophecies from Vivec's perspective
+- ***[Pocket Guide to the Empire, 1st Edition: Morrowind](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Morrowind.md)*** by [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md)
+
+## References
+1. [^](#cite_ref-PGE1_1-0) [*Pocket Guide to the Empire, 1st Edition: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+2. [^](#cite_ref-PGE3_2-0) [*Pocket Guide to the Empire, 3rd Edition: All the Eras of Man, A Comprehensive History of our History*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_All_the_Eras_of_Man.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+3. ^ <sup>***[a](#cite_ref-battle_3-0)***</sup><sup>***[b](#cite_ref-battle_3-1)***</sup><sup>***[c](#cite_ref-battle_3-2)***</sup> [*The Battle of Red Mountain*](Lore_The_Battle_of_Red_Mountain.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+4. ^ <sup>***[a](#cite_ref-NARM_4-0)***</sup><sup>***[b](#cite_ref-NARM_4-1)***</sup><sup>***[c](#cite_ref-NARM_4-2)***</sup> [*Nerevar at Red Mountain*](Lore_Nerevar_at_Red_Mountain.md) — [the Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+5. [^](#cite_ref-WWYWTDB_5-0) [*Where Were You ... Dragon Broke*](Lore_Where_Were_You_..._Dragon_Broke.md) — Various
+6. ^ <sup>***[a](#cite_ref-TWOTFC_6-0)***</sup><sup>***[b](#cite_ref-TWOTFC_6-1)***</sup> [*The War of the First Council*](Lore_The_War_of_the_First_Council.md) — [Agrippa Fundilius](Lore_Books_by_Author.md#Agrippa_Fundilius)

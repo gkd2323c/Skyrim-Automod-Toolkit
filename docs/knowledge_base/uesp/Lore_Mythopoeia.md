@@ -1,0 +1,20 @@
+# Mythopoeia
+
+— *[Red Mountain's Might](https://en.uesp.net/wiki/Lore:Red_Mountain%27s_Might)* Mythopoeia is a term that refers to the supernatural forces of myths relating to the [divine](https://en.uesp.net/wiki/Lore:Gods).<sup>[[1]](#cite_note-MWYagrum-1)</sup><sup>[[2]](#cite_note-RMM-2)</sup><sup>[[3]](#cite_note-MDC-3)</sup><sup>[[UOL 1]](#cite_note-MUW-4)</sup><sup>[[UOL 2]](#cite_note-RI-5)</sup> The [Dwemer](Lore_Dwemer.md) were known to utilize **mythopoeic [enchantments](Lore_Enchanting.md)** via their [tonal architecture](https://en.uesp.net/wiki/Lore:Tonal_Architecture), which allowed them to shape reality by means of altering archetypes and myth.<sup>[[1]](#cite_note-MWYagrum-1)</sup><sup>[[UOL 1]](#cite_note-MUW-4)</sup> It has been claimed gods can be shaped by the mythopoeic forces of their [mantlers](Lore_Mantling.md).<sup>[[UOL 3]](#cite_note-MKP-6)</sup> The *[Mythic Dawn Commentaries](Lore_Mythic_Dawn_Commentaries.md)* of [Mankar Camoran](Lore_Mankar_Camoran.md) make mention of walking in the Mythic to make it surrender its power to you. Additionally stating that; "Myth is nothing more than first wants. Unutterable truth."<sup>[[3]](#cite_note-MDC-3)</sup> The historian [Hasphat Antabolis](https://en.uesp.net/wiki/Lore:Hasphat_Antabolis) believed it was the essential duty of a historian to "separate the "true myths" (those which can be attested to the transcendent Powers) from the "created myths" (those which are created by mundane powers to bolster their own interests on the backs of the gullible)".<sup>[[UOL 2]](#cite_note-RI-5)</sup>
+
+[Lord Kagrenac](https://en.uesp.net/wiki/Lore:Kagrenac) of the Dwemer created his [tools](https://en.uesp.net/wiki/Lore:Kagrenac%27s_Tools) to shape mythopoeic forces, intending to transcend the limits of Dwemer mortality through using them on the [Heart of Lorkhan](https://en.uesp.net/wiki/Lore:Heart_of_Lorkhan).<sup>[[1]](#cite_note-MWYagrum-1)</sup><sup>[[4]](#cite_note-KT-7)</sup> [Wraithguard](https://en.uesp.net/wiki/Lore:Wraithguard) in particular was known to be imbued with mythopoeic enchantments. The last living Dwemer, [Yagrum Bagarn](https://en.uesp.net/wiki/Lore:Yagrum_Bagarn), was known to have the capabilities to restore its mythopoeic enchantments.<sup>[[1]](#cite_note-MWYagrum-1)</sup>
+
+## Notes
+- In real-life, [mythopoeia](http://wiktionary.org/wiki/mythopoeia) refers to the making of myths.
+
+## References
+1. ^ <sup>***[a](#cite_ref-MWYagrum_1-0)***</sup><sup>***[b](#cite_ref-MWYagrum_1-1)***</sup><sup>***[c](#cite_ref-MWYagrum_1-2)***</sup><sup>***[d](#cite_ref-MWYagrum_1-3)***</sup> [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+2. [^](#cite_ref-RMM_2-0) [*Red Mountain's Might*](https://en.uesp.net/wiki/Lore:Red_Mountain%27s_Might) — [Anrunn Frozen-Cove](Lore_Books_by_Author.md#Anrunn_Frozen-Cove)
+3. ^ <sup>***[a](#cite_ref-MDC_3-0)***</sup><sup>***[b](#cite_ref-MDC_3-1)***</sup> [*Mythic Dawn Commentaries 3*](https://en.uesp.net/wiki/Lore:Mythic_Dawn_Commentaries_3) — [Mankar Camoran](Lore_Books_by_Author.md#Mankar_Camoran)
+4. [^](#cite_ref-KT_7-0) [*Kagrenac's Tools*](Lore_Kagrenac%27s_Tools_(book).md) — [Gilvas Barelo](Lore_Books_by_Author.md#Gilvas_Barelo)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-MUW_4-0)***</sup><sup>***[b](#cite_ref-MUW_4-1)***</sup> [Made Up Word Round Up](https://en.uesp.net/wiki/General:Made_Up_Word_Round_Up)
+2. ^ <sup>***[a](#cite_ref-RI_5-0)***</sup><sup>***[b](#cite_ref-RI_5-1)***</sup> [Kurt Kuhlmann](https://en.uesp.net/wiki/General:Kurt_Kuhlmann)'s posts in [*Reman I*](https://en.uesp.net/wiki/General:Reman_I)
+3. [^](#cite_ref-MKP_6-0) [*Michael Kirkbride's Posts*](https://en.uesp.net/wiki/General:Michael_Kirkbride%27s_Posts)

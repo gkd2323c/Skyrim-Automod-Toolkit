@@ -1,0 +1,39 @@
+# Castle Rilis
+
+| Castle Rilis | |
+| --- | --- |
+| Type | Elven Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Summerset Isles](Lore_Summerset_Isles.md) |
+| Region | [Auridon](Lore_Auridon.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Castle_Rilis) |
+
+[![](https://images.uesp.net/thumb/f/fc/ON-place-Castle_Rilis.jpg/200px-ON-place-Castle_Rilis.jpg)](https://en.uesp.net/wiki/File:ON-place-Castle_Rilis.jpg) [](https://en.uesp.net/wiki/File:ON-place-Castle_Rilis.jpg) Castle Rilis ca. [2E 582](Lore_Second_Era.md#2E_582) Castle Rilis was a ruin built by the [Ancients](Lore_Ancients.md), found on the northern tip of the island of [Auridon](Lore_Auridon.md) within the province of the [Summerset Isles](Lore_Summerset_Isles.md).
+
+Castle Rilis was one of the oldest Altmer ruins found in the province, named after the royal family of [Firsthold](Lore_Firsthold.md), the Rilis clan. The vaults and catacombs underneath Castle Rilis were even older, and contained secrets that were long forgotten.<sup>[[1]](#cite_note-Rilis_Loading-1)</sup> One of these vaults was **the Banished Cells**, a prison said to contain various [Altmer](Lore_Altmer.md) that delved into the forbidden knowledge and dealings of the [Daedra](Lore_Daedra.md).<sup>[[2]](#cite_note-Banished_Loading-2)</sup>
+
+## History
+Castle Rilis was one of the oldest ruins on the Summerset Isles, but even before the castle's construction, there were underground halls were older and were used to house the dead.<sup>[[1]](#cite_note-Rilis_Loading-1)</sup> It contained the past monarchs of Firsthold, all the way back to High Kinlord Rilis I.<sup>[[3]](#cite_note-3)</sup> In order to contain Daedra-conspiring Altmer, the Banished Halls were constructed. At some point, Castle Rilis fell into ruin. The monarchy of Firsthold continued to rule from Castle Firsthold and still buried their dead within the catacombs. When High Kinlord [Rilis XII](Lore_Rilis_XII.md) attained immortality through cooperating with the Daedra, the Ancient Keepers were established to hold the immortal phantom in his prison in the Banished Cells. Keeper [Cirion](Lore_Cirion.md) became the first warden.<sup>[[4]](#cite_note-Cirion-4)</sup> Following Rilis XII's death, his court jester, Falarel took residence in the ruins of Castle Rilis. By [2E 578](Lore_Second_Era.md#2E_578), Falarel had gone insane and was killed in an accident when he brought [Telenger the Artificer](Lore_Telenger_the_Artificer.md) and [Flaccus Terentius](Lore_Flaccus_Terentius.md) into the catacombs, to show the spirit of his former master.<sup>[[5]](#cite_note-Emperor.2FAuridon-5)</sup> His spirit continued to haunt the ruins and kill unsuspecting passersby.
+
+[![](https://images.uesp.net/thumb/0/0b/ON-quest-Banishing_the_Banished.jpg/200px-ON-quest-Banishing_the_Banished.jpg)](https://en.uesp.net/wiki/File:ON-quest-Banishing_the_Banished.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Banishing_the_Banished.jpg) The Ancient Keepers and Rilis XII During the [Interregnum](Lore_Interregnum.md) in [2E 582](Lore_Second_Era.md#2E_582), the half-brother of High Kinlord Rilis XIII, Sorondil traveled to Castle Rilis, to claim his inheritance and assume the throne of Firsthold. His mother, the former mistress of Rilis XII hired a [wandering traveler](Lore_Soulless_One.md) to help Sorondil. Sorondil sought to wear the [Rilis Helm](https://en.uesp.net/wiki/Lore:Rilis_Helm), worn by Rilis I, so that it would turn him into a powerful warrior. In the end, because of Sorondil's illegitimacy, the helm transformed him into a [werewolf](Lore_Werewolf.md), and he was forcefully killed by the wandering traveler.<sup>[[6]](#cite_note-6)</sup> After the spirit of Falarel, which still haunted Castle Rilis, was destroyed, the souls of his victims were able to move on in peace.<sup>[[7]](#cite_note-7)</sup>
+
+At around this time, the spirit of Rilis XII attempted to escape the Banished Cells and in doing so allowed the prison to be overrun with Daedra. Keeper Cirion was the only one of the Ancient Keepers to escape from Rilis XII's clutches while the others were imprisoned. Keeper Cirion enlisted the help of the [Undaunted](Lore_Undaunted.md) to free the other keepers and defeat Rilis XII before he could escape. After freeing the keepers and confronting Rilis, the cells became fused into [Coldharbour](Lore_Coldharbour.md). The Undaunted emerged victoriously and the Ancient Keepers sealed Rilis into a new prison cell.<sup>[[8]](#cite_note-8)</sup> The other keepers formed Daedric pacts to ensure Rilis' imprisonment, but in doing so, they became Rilis' servants. Rilis attempted to escape again, forcing Keeper Cirion to once again enlist the Undaunted, to defeat his former keepers, and defeat Rilis once and for all. In the end, High Kinlord Rilis was banished into the depths of [Oblivion](Lore_Oblivion.md), with the cost of Cirion's life. The Ancient Keepers were released from their eternal service and their spirits allowed to rest.<sup>[[9]](#cite_note-9)</sup>
+
+## Notes
+- For additional game-specific information, see the ESO articles on [Castle Rilis](https://en.uesp.net/wiki/Online:Castle_Rilis), [The Banished Cells I](https://en.uesp.net/wiki/Online:The_Banished_Cells_I), and [The Banished Cells II](https://en.uesp.net/wiki/Online:The_Banished_Cells_II).
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/36/ON-place-The_Banished_Cells.jpg/200px-ON-place-The_Banished_Cells.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Banished_Cells.jpg) The Banished Cells
+- [![](https://images.uesp.net/thumb/c/c8/ON-interior-The_Vault_of_Exile.jpg/200px-ON-interior-The_Vault_of_Exile.jpg)](https://en.uesp.net/wiki/File:ON-interior-The_Vault_of_Exile.jpg) The Vault of Exile, underneath Castle Rilis
+- [![](https://images.uesp.net/thumb/a/a9/ON-quest-The_Jester%27s_Joke_02.jpg/200px-ON-quest-The_Jester%27s_Joke_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Jester%27s_Joke_02.jpg) The Soulfire within the Antechamber
+
+## References
+1. ^ <sup>***[a](#cite_ref-Rilis_Loading_1-0)***</sup><sup>***[b](#cite_ref-Rilis_Loading_1-1)***</sup> [Castle Rilis](https://en.uesp.net/wiki/Online:Castle_Rilis) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Banished_Loading_2-0) [The Banished Cells I](https://en.uesp.net/wiki/Online:The_Banished_Cells_I)/[The Banished Cells II](https://en.uesp.net/wiki/Online:The_Banished_Cells_II) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [High Kinlord Rilis I](https://en.uesp.net/wiki/Online:High_Kinlord_Rilis_I) NPC in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Cirion_4-0) [Keeper Cirion](https://en.uesp.net/wiki/Online:Keeper_Cirion)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Emperor.2FAuridon_5-0) [*The Improved Emperor's Guide to Tamriel: The Summerset Isles: Auridon*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Summerset_Isles) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+6. [^](#cite_ref-6) [Rightful Inheritance](https://en.uesp.net/wiki/Online:Rightful_Inheritance) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-7) [The Jester's Joke](https://en.uesp.net/wiki/Online:The_Jester%27s_Joke) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [Banishing the Banished](https://en.uesp.net/wiki/Online:Banishing_the_Banished) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [The Plan](https://en.uesp.net/wiki/Online:The_Plan) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

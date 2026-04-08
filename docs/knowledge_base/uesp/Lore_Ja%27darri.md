@@ -1,0 +1,47 @@
+# Ja'darri
+
+| Ja'darri | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Ja'darri 02.jpg](https://images.uesp.net/thumb/5/57/ON-npc-Ja%27darri_02.jpg/200px-ON-npc-Ja%27darri_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Ja%27darri_02.jpg) Ja'darri the Endless | | | |
+| Race | [Khajiit](Lore_Khajiit.md) | Gender | Female |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Ja%27darri) | | |
+
+- *"She was kind, immeasurably so. I suspect she had overcome a great sorrow, for she had a way of finding the light in the darkest of times. The good in the cruelest of souls. And she was strong, in body and heart. Strong enough to brave anything."* —Nahfahlaar on Ja'darri
+
+Ja'darri the Endless (also known the **Endless One**<sup>[[1]](#cite_note-So AC-1)</sup> and in the dragon tongue as **Toshrakhat**), was an ancient Khajiiti hero who founded [Pridehome](Lore_Pridehome.md) and formed the Pride of Alkosh.<sup>[[2]](#cite_note-To J-2)</sup><sup>[[3]](#cite_note-P:APOT-3)</sup> She bore the [Mask of Alkosh](Lore_Mask_of_Alkosh.md), a relic capable of granting the bearer immense power when tapped into by a [Dragon](Lore_Dragon.md).
+
+In life, Ja'darri was born under the [Dark Moons](Lore_Dark_Moons.md), and thus was of the [Mane](Lore_Mane.md) furstock but ultimately was not destined to become the spiritual leader of the Khajiit.<sup>[[4]](#cite_note-ESOJD-4)</sup> Later on in her life, Ja'darri found that she could hear the beating of [Lorkhaj](Lore_Lorkhaj.md)'s [heart](Lore_Heart_of_Lorkhan.md) and that she was slowly becoming a [dro-m'Athra](Lore_Dro-m%27Athra.md).<sup>[[4]](#cite_note-ESOJD-4)</sup> She decided to make her way to the [Sands Behind the Stars](Lore_Sands_Behind_the_Stars.md) before she was fully lost, but instead she underwent a trial with [Khenarthi](Lore_Khenarthi.md)'s blessing to fight her inner darkness. To do this, she was granted the blessing of a blade and lamp that were imbued with [Alkosh](Lore_Alkosh.md)'s power. The Halls of the Highmane were built to reflect to Ja'darri's internal trials.<sup>[[4]](#cite_note-ESOJD-4)</sup>
+
+She succeeded in overcoming her inner darkness, and was granted the [Mask of Alkosh](Lore_Mask_of_Alkosh.md) along with a task by the Dragon King of Time as his champion. She was to use the mask's power to extinguish a creature that threatened to unravel all of time: [Laatvulon](Lore_Laatvulon.md), the Demon from the East.<sup>[[1]](#cite_note-So AC-1)</sup><sup>[[4]](#cite_note-ESOJD-4)</sup> To undertake this task, [Pridehome](Lore_Pridehome.md) was founded and many warriors gathered under her banner; additionally she made allies of two important powers of the time— [Reman](Lore_Reman.md)'s [Dragonguard](Lore_Dragonguard.md) lead by [Vashu-Pir](Lore_Vashu-Pir.md) and the dragon [Nahfahlaar](Lore_Nahfahlaar.md).<sup>[[5]](#cite_note-DOTE-5)</sup><sup>[[6]](#cite_note-GVP-6)</sup><sup>[[7]](#cite_note-ESOSai-7)</sup><sup>[[8]](#cite_note-ESONahfahlaar-8)</sup><sup>[[9]](#cite_note-ESODK-9)</sup><sup>[[3]](#cite_note-P:APOT-3)</sup>
+
+The unlikely alliance with a dragon came about when Ja'darri sought Nahfahlaar out for his assistance in fighting his ancient rival Laatvulon. Over time, Nafaalaar grew to respect Ja'darri greatly, giving her a Dragon name and granting her a boon in the form of [his horn](https://en.uesp.net/wiki/Lore:Horn_of_Ja%27darri), which was later named after her.<sup>[[8]](#cite_note-ESONahfahlaar-8)</sup> However these advantages and allies were not enough to defeat Laatvulon, so Ja'darri asked Nahfahlaar to empower the Mask of Alkosh which he refused and ultimately would regret.<sup>[[8]](#cite_note-ESONahfahlaar-8)</sup>
+
+Ja'darri and the Dragonguard were left to fight Laatvulon with limited power and their final battle came about at Doomstone Keep.<sup>[[8]](#cite_note-ESONahfahlaar-8)</sup><sup>[[9]](#cite_note-ESODK-9)</sup> While the Dragonguard were able to subdue and imprison Laatvulon, it cost Ja'darri her life and she died during the battle.<sup>[[10]](#cite_note-ESONuziwa-10)</sup> Upon death, she was said to join Alkosh in a realm beyond even the [Sands Behind the Stars](Lore_Sands_Behind_the_Stars.md).<sup>[[10]](#cite_note-ESONuziwa-10)</sup>
+
+In the year [2E 582](Lore_Second_Era.md#2E_582), Laatvulon had been freed from his imprisonment and was wreaking havoc on Southern Elsweyr, along with the formation of the [Order of the New Moon](Lore_Order_of_the_New_Moon.md) cult.<sup>[[11]](#cite_note-ESOUA-11)</sup> [The Vestige](Lore_The_Vestige.md) had become allies with Nahfahlaar and gradually learned the story of Ja'darri. This culminated in them entering a realm known as the [Spilled Sand](Lore_Spilled_Sand.md), seeking to imbue the Mask of Alkosh in order to stop Laatvulon.<sup>[[12]](#cite_note-ESOTD-12)</sup> Ja'darri's spirit was waiting for them and under her guidance, the two performed a ritual to imbue the mask and would ultimately defeat Laatvulon and later [Kaalgrontiid.](Lore_Kaalgrontiid.md)<sup>[[12]](#cite_note-ESOTD-12)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/34/LO-people-Ja%27darri.jpg/200px-LO-people-Ja%27darri.jpg)](https://en.uesp.net/wiki/File:LO-people-Ja%27darri.jpg) [Statue](Lore_Statues.md) of Ja'darri
+- [![](https://images.uesp.net/thumb/0/00/ON-npc-Ja%27darri_03.jpg/200px-ON-npc-Ja%27darri_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-Ja%27darri_03.jpg) Ja'darri's spirit and Nahfahlaar in the Spilled Sand
+- [![](https://images.uesp.net/thumb/7/7d/ON-tapestry-The_Dragonguard_02.jpg/200px-ON-tapestry-The_Dragonguard_02.jpg)](https://en.uesp.net/wiki/File:ON-tapestry-The_Dragonguard_02.jpg) Tapestry depicting Ja'darri with the mask of Alkosh
+- [![](https://images.uesp.net/thumb/6/66/ON-tapestry-The_Dragonguard_03.jpg/200px-ON-tapestry-The_Dragonguard_03.jpg)](https://en.uesp.net/wiki/File:ON-tapestry-The_Dragonguard_03.jpg) Tapestry depicting Nahfahlaar's refusal to imbue the Mask of Alkosh for Ja'darri
+- [![](https://images.uesp.net/thumb/9/9c/ON-tapestry-The_Dragonguard.jpg/200px-ON-tapestry-The_Dragonguard.jpg)](https://en.uesp.net/wiki/File:ON-tapestry-The_Dragonguard.jpg) Tapestry depicting Ja'darri and the Dragonguard confronting Laatvulon
+- [![](https://images.uesp.net/thumb/3/36/ON-tapestry-The_Dragonguard_04.jpg/200px-ON-tapestry-The_Dragonguard_04.jpg)](https://en.uesp.net/wiki/File:ON-tapestry-The_Dragonguard_04.jpg) Tapestry depicting Laatvulon's imprisonment and Ja'darri's death.
+- [![](https://images.uesp.net/thumb/3/32/ON-quest-The_Horn_of_Ja%27darri_03.jpg/200px-ON-quest-The_Horn_of_Ja%27darri_03.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Horn_of_Ja%27darri_03.jpg) The Horn of Ja'darri
+
+## See Also
+For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Ja%27darri) [](https://en.uesp.net/wiki/Online:Dragonhold) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-So AC_1-0)***</sup><sup>***[b](#cite_ref-So AC_1-1)***</sup> [*Song of Alkosh's Champion*](https://en.uesp.net/wiki/Lore:Song_of_Alkosh%27s_Champion)
+2. [^](#cite_ref-To J_2-0) [*The Tomb of Ja'darri*](https://en.uesp.net/wiki/Online:The_Tomb_of_Ja%27darri)
+3. ^ <sup>***[a](#cite_ref-P:APOT_3-0)***</sup><sup>***[b](#cite_ref-P:APOT_3-1)***</sup> [*Pridehome: A Place Outside Time?*](https://en.uesp.net/wiki/Lore:Pridehome__A_Place_Outside_Time%3F) — [Kaalaleth](Lore_Books_by_Author.md#Kaalaleth) of the Mages Guild
+4. ^ <sup>***[a](#cite_ref-ESOJD_4-0)***</sup><sup>***[b](#cite_ref-ESOJD_4-1)***</sup><sup>***[c](#cite_ref-ESOJD_4-2)***</sup><sup>***[d](#cite_ref-ESOJD_4-3)***</sup> [Ja'darri](https://en.uesp.net/wiki/Online:Ja%27darri)'s dialogue during [The Dragonguard](https://en.uesp.net/wiki/Online:The_Dragonguard) in [ESO](https://en.uesp.net/wiki/Online:Dragonhold)
+5. [^](#cite_ref-DOTE_5-0) [*Demon from the East*](Lore_Demon_from_the_East.md)
+6. [^](#cite_ref-GVP_6-0) [*Grandmaster Vashu-Pir*](Lore_Grandmaster_Vashu-Pir_(1E_2734_-_2758).md)
+7. [^](#cite_ref-ESOSai_7-0) [Sai Sahan](https://en.uesp.net/wiki/Online:Sai_Sahan)'s dialogue during [The Pride of Alkosh](https://en.uesp.net/wiki/Online:The_Pride_of_Alkosh_(quest))
+8. ^ <sup>***[a](#cite_ref-ESONahfahlaar_8-0)***</sup><sup>***[b](#cite_ref-ESONahfahlaar_8-1)***</sup><sup>***[c](#cite_ref-ESONahfahlaar_8-2)***</sup><sup>***[d](#cite_ref-ESONahfahlaar_8-3)***</sup> [Nahfahlaar](https://en.uesp.net/wiki/Online:Nahfahlaar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+9. ^ <sup>***[a](#cite_ref-ESODK_9-0)***</sup><sup>***[b](#cite_ref-ESODK_9-1)***</sup> [Doomstone Keep](https://en.uesp.net/wiki/Online:Doomstone_Keep) loading screen description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+10. ^ <sup>***[a](#cite_ref-ESONuziwa_10-0)***</sup><sup>***[b](#cite_ref-ESONuziwa_10-1)***</sup> [Moon-Priest Nuziwa](https://en.uesp.net/wiki/Online:Moon-Priest_Nuziwa)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+11. [^](#cite_ref-ESOUA_11-0) Events of [Uneasy Alliances](https://en.uesp.net/wiki/Online:Uneasy_Alliances) in [ESO](https://en.uesp.net/wiki/Online:Dragonhold)
+12. ^ <sup>***[a](#cite_ref-ESOTD_12-0)***</sup><sup>***[b](#cite_ref-ESOTD_12-1)***</sup> Events of [The Dragonguard](https://en.uesp.net/wiki/Online:The_Dragonguard) in [ESO](https://en.uesp.net/wiki/Online:Dragonhold)

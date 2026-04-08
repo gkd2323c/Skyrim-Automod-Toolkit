@@ -1,0 +1,41 @@
+# Velas
+
+[![](https://images.uesp.net/thumb/7/73/TR-place-Mournhold%2C_Godsreach_03.jpg/200px-TR-place-Mournhold%2C_Godsreach_03.jpg)](https://en.uesp.net/wiki/File:TR-place-Mournhold,_Godsreach_03.jpg) [](https://en.uesp.net/wiki/File:TR-place-Mournhold,_Godsreach_03.jpg) Velas Manor (right) [![](https://images.uesp.net/thumb/d/d4/TR-npc-Gavis_Velas.jpg/200px-TR-npc-Gavis_Velas.jpg)](https://en.uesp.net/wiki/File:TR-npc-Gavis_Velas.jpg) [](https://en.uesp.net/wiki/File:TR-npc-Gavis_Velas.jpg) Gavis Velas The Velas clan is an ancient family of [Dunmer](Lore_Dunmer.md) that lives in the province of [Morrowind](Lore_Morrowind.md). They are one of the thirty revered families of [Vvardenfell](Lore_Vvardenfell.md)<sup>[[1]](#cite_note-ATOTTRF-1)</sup> and are a sub-faction of the Great [House Dres](Lore_House_Dres.md).<sup>[[2]](#cite_note-ONVelas-2)</sup> The clan are descendants of accomplished mages such as [Malkur Valos](Lore_Malkur_Valos.md) and Gavis Velas.<sup>[[3]](#cite_note-TNM-3)</sup> The **Velas Ancestral Tomb** is located on a beach in [Azura's Coast](Lore_Azura%27s_Coast.md), between the town of [Suran](Lore_Suran.md) and the ancient stronghold Telasero.<sup>[[2]](#cite_note-ONVelas-2)</sup>
+
+## History
+With the other twenty-nine ancient families of Vvardenfell, the Velas clan hid the [Library of Andule](Lore_Library_of_Andule.md), the secret repository of the [Great Houses](Lore_Great_Houses.md) and placed a clue in their ancestral tomb.<sup>[[4]](#cite_note-ONBradyn-4)</sup> Its location remained a secret for many years until Bradyn of the Library of Vivec enlisted an [outlander](Lore_The_Vestige.md) to find the tombs and uncover it in [2E 582](Lore_Second_Era.md#2E_582). They were able to find all thirty tombs and find the lost Library of Andule.<sup>[[5]](#cite_note-ONAncestral-5)</sup>
+
+An off-branch ancestor to the modern-day Velas clan was [Malkur Valos](Lore_Malkur_Valos.md), the talented son of a powerful mage who was raised by a [Golden Saint](Lore_Golden_Saint.md) in the [Shivering Isles](Lore_Shivering_Isles.md). Years later after moving back to [Tamriel](Lore_Tamriel.md), he quickly became acquainted with [Vanus Galerion](Lore_Vanus_Galerion.md) and the [Mages Guild](Lore_Mages_Guild.md).<sup>[[3]](#cite_note-TNM-3)</sup> Nadene Velas was a character in *[The Lusty Argonian Footman](Lore_The_Lusty_Argonian_Footman,_Volume_1.md)*, a play that shares the same name with an inn in [Lilmoth](Lore_Lilmoth.md).<sup>[[6]](#cite_note-ONFootman-6)</sup>
+
+In 2E 582, Lolethys Velas was a priestess of the [Divines](Lore_Divines.md) that regularly preached in front of the Temple of the Winds in [Gonfalon Bay](Lore_Gonfalon_Bay.md), the main city in the [Systres Archipelago](Lore_Systres_Archipelago.md).<sup>[[7]](#cite_note-ONLolethys-7)</sup> Llaalam Velas was a member of the [Camonna Tong](Lore_Camonna_Tong.md) and was based in Cammonnaruhn, a fortress in the southernmost part of the [Telvanni Peninsula](Lore_Telvanni_Peninsula.md).<sup>[[8]](#cite_note-BHTT-8)</sup>
+
+In [3E 427](Lore_Third_Era.md#3E_427), Gavis Velas became a well-renowned mage and lived with his brother Ovis in the Godsreach district of [Mournhold](Lore_Mournhold.md). While Gavis lived a humble life, Ovis liked to coast off his brother's success and take credit for his accomplishments. One day, while preaching his "power" to the masses, he chose an [adventurer](Lore_Nerevarine.md) to demonstrate his wrath on but suffice it to say, he was quickly dealt with. Upon hearing the news of his brother's death, Gavis challenged the adventurer to a duel and hoped to avenge him. Although the battle was much more difficult, Gavis was also defeated by the adventurer.<sup>[[9]](#cite_note-TRSummoner-9)</sup>
+
+At around the same time, Ereven Velas was a bandit witchhunter and follower of Llaren Terano, a powerful sorcerer and [Molag Bal](Lore_Molag_Bal.md) worshipper who converted [Rotheran](Lore_Rotheran.md) in [Sheogorad](Lore_Sheogorad.md) into a gladiatorial arena to put [slaves](Lore_Slavery.md) against each other.<sup>[[10]](#cite_note-MWRotheran-10)</sup> Thanelen Velas was a [smith](Lore_Smithing.md) in service of the [Balmora](Lore_Balmora.md) Camonna Tong and earned the rank of Tough. Thanelen was involved in an incident and died that year. It is unknown if he was killed for allegedly killing the [Hlaalu](Lore_Hlaalu.md) noble, Ralen Hlaalo or if he died with other Camonna Tong members when Larrius Varro of [Moonmoth Legion Fort](Lore_Moonmoth_Legion_Fort.md) orchestrated their deaths.<sup>[[11]](#cite_note-MWThanelen-11)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/c3/ON-furnishing-Dark_Elf_Tomb_Marker%2C_Velas.jpg/200px-ON-furnishing-Dark_Elf_Tomb_Marker%2C_Velas.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Dark_Elf_Tomb_Marker,_Velas.jpg) A Velas tomb marker
+- [![](https://images.uesp.net/thumb/7/78/MW-place-Velas_Ancestral_Tomb.jpg/200px-MW-place-Velas_Ancestral_Tomb.jpg)](https://en.uesp.net/wiki/File:MW-place-Velas_Ancestral_Tomb.jpg) Velas Ancestral Tomb (Morrowind)
+- [![](https://images.uesp.net/thumb/6/6f/ON-npc-Malkur_Valos_02.jpg/200px-ON-npc-Malkur_Valos_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Malkur_Valos_02.jpg) Malkur Valos
+- [![](https://images.uesp.net/thumb/5/50/ON-npc-Lolethys_Velas.jpg/200px-ON-npc-Lolethys_Velas.jpg)](https://en.uesp.net/wiki/File:ON-npc-Lolethys_Velas.jpg) Lolethys Velas
+- [![](https://images.uesp.net/thumb/0/02/MW-npc-Thanelen_Velas.jpg/200px-MW-npc-Thanelen_Velas.jpg)](https://en.uesp.net/wiki/File:MW-npc-Thanelen_Velas.jpg) Thanelen Velas
+
+## Notes
+- Velas is also used as female name for Dunmer.<sup>[[12]](#cite_note-VTW-12)</sup>
+
+## See Also
+- For game-specific information on the ancestral tomb, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Velas_Ancestral_Tomb) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Velas_Ancestral_Tomb) articles.
+
+## References
+1. [^](#cite_ref-ATOTTRF_1-0) [*Ancestral Tombs of the Thirty Revered Families*](Lore_Ancestral_Tombs_of_the_Thirty_Revered_Families.md) — [Librarian Bradyn](Lore_Books_by_Author.md#Librarian_Bradyn)
+2. ^ <sup>***[a](#cite_ref-ONVelas_2-0)***</sup><sup>***[b](#cite_ref-ONVelas_2-1)***</sup> [Velas Ancestral Tomb](https://en.uesp.net/wiki/Online:Ancestral_Tombs#Velas_Ancestral_Tomb) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+3. ^ <sup>***[a](#cite_ref-TNM_3-0)***</sup><sup>***[b](#cite_ref-TNM_3-1)***</sup> [*The Nameless Mage*](Lore_The_Nameless_Mage.md)
+4. [^](#cite_ref-ONBradyn_4-0) [Librarian Bradyn](https://en.uesp.net/wiki/Online:Librarian_Bradyn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+5. [^](#cite_ref-ONAncestral_5-0) [The Ancestral Tombs](https://en.uesp.net/wiki/Online:The_Ancestral_Tombs) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind_(DLC))*
+6. [^](#cite_ref-ONFootman_6-0) [The Lusty Argonian Footman](https://en.uesp.net/wiki/Online:The_Lusty_Argonian_Footman) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+7. [^](#cite_ref-ONLolethys_7-0) [Lolethys Velas](https://en.uesp.net/wiki/Online:Lolethys_Velas) in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+8. [^](#cite_ref-BHTT_8-0) [*Bringing Home the Trolls*](https://en.uesp.net/wiki/Online:Bringing_Home_the_Trolls) — Feralea Thenim
+9. [^](#cite_ref-TRSummoner_9-0) [The Summoner](https://en.uesp.net/wiki/Tribunal:The_Summoner) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+10. [^](#cite_ref-MWRotheran_10-0) [Rotheran](https://en.uesp.net/wiki/Morrowind:Rotheran) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+11. [^](#cite_ref-MWThanelen_11-0) [Thanelen Velas](https://en.uesp.net/wiki/Morrowind:Thanelen_Velas) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+12. [^](#cite_ref-VTW_12-0) [Velas the Weaver](https://en.uesp.net/wiki/Online:Velas_the_Weaver)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,21 @@
+# The Blackwater War, Volume 7
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Blackwater_War,_Volume_7) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[The Blackwater War](Lore_The_Blackwater_War.md)* | | |
+| Prev. | *[Volume 6](Lore_The_Blackwater_War,_Volume_6.md)* | Next | None |
+
+The Blackwater War, Volume 7 **by [Valenca Arvina](Lore_Books_by_Author.md#Valenca_Arvina), Historian-in-Residence at [Gwylim University](Lore_Gwylim_University.md)** *A historical account of Black Marsh's annexation as an Imperial Province*
+---
+Historians often refer to the [Blackwater War](Lore_Blackwater_War.md) as a single conflict that spanned twenty-six years. While the primary combatants were essentially the same, the first, second, and third campaigns had almost nothing in common with one another. By the year [1E 2833](Lore_First_Era.md#1E_2833), the [Imperial](Lore_Imperial_Legion.md) strategy had been so heavily revised that it was barely recognizable as Imperial. While "Sardecus' Reforms" had reorganized the Legion, the "Falco Doctrine" was the true catalyst that drove the war's endgame.
+
+General Lucinia Falco took command of the Legion shortly after Sardecus' passing. She was the natural choice: a close confidant of Sardecus; strong, fiercely loyal to the Empire; and utterly ruthless. She received her officer's commission shortly after the [Battle of Argonia](Lore_Battle_of_Argonia.md), which meant that her entire military career had been shaped by the Blackwater War. Unlike her predecessors, she knew that the battle could not be won on a single front. She urged the Empire to offer letters of marque and temporary commissions to the countless pirates off the coast of [Lilmoth](Lore_Lilmoth.md) and [Archon](Lore_Archon.md). Working in conjunction with a legion of Diamond Marines, this force succeeded in taking vast swaths of territory in the southeastern marshes and even parts of the interior swamp.
+
+Using [Gideon](Lore_Gideon.md) as her base of operations, Falco launched the second prong in the region-wide attack. Rather than sending out a full legion as her predecessors had done, she broke her force into hundreds of compact, highly lethal units. These expeditionary platoons (later referred to as "redbelts") were led by grizzled swamp veterans—some of which had been serving since the inception of the second campaign.
+
+The redbelts met with a great deal of success early on, claiming most of western [Black Marsh](Lore_Black_Marsh.md) before finally grinding to a halt outside the thick bogs and eerie silence of the region's core. Unfortunately, given each unit's size, they could not hold what they took for long. What began as a battle of two nations became a protracted and complex guerrilla war, replete with all the horrors associated with such a conflict. [1E 2834](Lore_First_Era.md#1E_2834) to [2836](Lore_First_Era.md#1E_2836) was a dark time for both sides. The [Argonians](Lore_Argonian.md) and the Imperials each conducted campaigns of intimidation and terror.
+
+Rather than an official armistice, the war seemed to simply end in late 1E 2836. Argonians who had been fighting Imperials for decades abruptly buried their weapons and went back to farming, fishing, and weaving without rendering a formal surrender. The Empire wasted no time in officially claiming the region in [1E 2837](Lore_First_Era.md#1E_2837). At long last, the Blackwater War came to a sudden and inexplicable end.
+
+The Argonians' abrupt cessation of hostilities is just another in a long series of mysteries associated with this conflict. The prevailing assumption is that their bizarre tree-worshipping tradition had something to do with it, but we may never know why they actually laid down their weapons. As a historian, it's a vexing situation, but mysteries born in the deep murk of Black Marsh are seldom solved. At least, they are seldom solved to a satisfying conclusion.

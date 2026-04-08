@@ -1,0 +1,67 @@
+# The Kendhall Book of Riddles
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Battlespire](https://en.uesp.net/wiki/Battlespire:The_Kendhall_Book_of_Riddles) |
+
+The Kendhall Book of Riddles **by [Kendhall](Lore_Books_by_Author.md#Kendhall)** *A book giving the answers to various riddles*
+---
+[[Among the hundreds of riddles in this weighty tome, THE KENDHALL BOOK OF RIDDLES, four have been marked with scraps of paper:]]
+
+### Page 1
+Loadbearer, Warrior
+
+Spirited, Brave
+
+Fleet-foot, Ironshod
+
+Faithful One, Slave
+
+Answer: Horse
+
+### Page 2
+I rise above the roofs below
+
+Finger up-raised to heaven.
+
+I speak in clear tones
+
+That aim for others
+
+To gather where I call.
+
+Answer: Bell Tower
+
+### Page 3
+Some live in me, some live on,
+
+And some shave me to stride upon.
+
+I rarely leave my native land.
+
+Until my death I always stand.
+
+High and low I may be found
+
+Both above and under ground.
+
+Answer: Tree
+
+### Page 4
+Armor bright
+
+Gleaming white
+
+A single rank
+
+Their faces blank
+
+Now hid by night
+
+Now bold by light
+
+Bright red the land
+
+Where soldiers stand
+
+Answer: Teeth

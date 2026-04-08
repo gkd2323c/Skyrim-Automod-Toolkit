@@ -1,0 +1,18 @@
+# Felldew
+
+[![](https://images.uesp.net/thumb/8/88/LG-cardart-Felldew.png/200px-LG-cardart-Felldew.png)](https://en.uesp.net/wiki/File:LG-cardart-Felldew.png) [](https://en.uesp.net/wiki/File:LG-cardart-Felldew.png) Felldew (Legends) Felldew, a poisonous bright green ichor, is a highly addictive [narcotic substance](Lore_Drugs.md) used by the mortal inhabitants of the [Shivering Isles](Lore_Shivering_Isles.md). It is produced in the bodies of a unique variety of [Elytra](Lore_Elytra.md) native to Dunroot Burrow that emit a green glow. Upon consumption, Felldew creates a powerful euphoria that boosts the strength, intelligence and agility of the imbiber. This euphoria is short-lived, and after several minutes the imbiber begins to suffer from crippling withdrawal symptoms, damaging strength, intelligence, agility, speed, willpower, endurance, luck and health. These symptoms persist indefinitely until another dose is taken to restore the euphoria. Long-term use of the drug seems to cause facial deformations and aggressiveness.
+
+The entrance to Dunroot Burrow is sealed by barrier membranes, which only open after having taken Felldew. Deep within the root tunnels is a man-made chamber inhabited by addicts called the Sanctum of Decadence. [Duke Thadon](Lore_Thadon.md) of [Mania](Lore_Mania.md) created an artifact known as the Chalice of Reversal. Drinking from the Chalice permanently cures Felldew addiction and inhibits withdrawal symptoms, as well as creating a stronger euphoria which boosts health and magicka. Thadon used the Chalice to indulge heavily in Felldew, but after his affair with [Duchess Syl](Lore_Syl.md) of [Dementia](Lore_Dementia_(place).md) ended badly circa [3E 433](Lore_Third_Era.md#3E_433), Syl brought the Chalice to the Sanctum in Dunroot Burrow. In order to gain the Duke's favor, the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) recovered the Chalice for Thadon. It was later put on display in [Sheogorath](Lore_Sheogorath.md)'s throne room.<sup>[[1]](#cite_note-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/08/SI-ingredient-Felldew.jpg/200px-SI-ingredient-Felldew.jpg)](https://en.uesp.net/wiki/File:SI-ingredient-Felldew.jpg) Felldew (Shivering Isles)
+- [![](https://images.uesp.net/thumb/6/66/SI-creature-Elytra_%28Felldew%29.jpg/200px-SI-creature-Elytra_%28Felldew%29.jpg)](https://en.uesp.net/wiki/File:SI-creature-Elytra_(Felldew).jpg) A Felldew-producing Elytra
+- [![](https://images.uesp.net/thumb/6/67/SI-interior-Dunroot_Burrow%2C_Kelp_Fen.jpg/200px-SI-interior-Dunroot_Burrow%2C_Kelp_Fen.jpg)](https://en.uesp.net/wiki/File:SI-interior-Dunroot_Burrow,_Kelp_Fen.jpg) Dunroot Burrow
+- [![](https://images.uesp.net/thumb/0/09/SI-quest-Addiction.jpg/200px-SI-quest-Addiction.jpg)](https://en.uesp.net/wiki/File:SI-quest-Addiction.jpg) The Chalice of Reversal
+- [![](https://images.uesp.net/thumb/7/7a/SI-npc-Felldew_Addict_8ef80.jpg/200px-SI-npc-Felldew_Addict_8ef80.jpg)](https://en.uesp.net/wiki/File:SI-npc-Felldew_Addict_8ef80.jpg) A Felldew addict
+
+## See Also
+- For game-specific information, see the [*Shivering Isles*](https://en.uesp.net/wiki/Shivering:Felldew) and *[Legends](https://en.uesp.net/wiki/Legends:Felldew)* [](https://en.uesp.net/wiki/Legends:Isle_of_Madness) articles.
+
+## References
+1. [^](#cite_ref-1) [Addiction](https://en.uesp.net/wiki/Shivering:Addiction) quest in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*

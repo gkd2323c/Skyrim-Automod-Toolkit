@@ -1,0 +1,29 @@
+# Origins of the Khajiiti Martial Tradition
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Origins_of_the_Khajiiti_Martial_Tradition) ([Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)) |
+
+Origins of the Khajiiti Martial Tradition **by [Tendwuayne](Lore_Books_by_Author.md#Tendwuayne), Sapiarch of Foreign Customs** *The history of the Merethic hunt-lords of Elsweyr and the origins of claw-dancing*
+---
+Despite its status as one of the [Elsweyr](Lore_Elsweyr.md)'s most enduring traditions, the origins of Khajiiti martial arts, or "[Claw-Dances](Lore_Claw-Dances.md)," remain murky at best. The burning of [Corinthe](Lore_Corinthe.md)'s Grand Archive by [Merrunz](Lore_Merrunz.md) cultists in [1E 463](Lore_First_Era.md#1E_463) destroyed most of the region's [Merethic](Lore_Merethic_Era.md) records, making the work of cultural historians like myself very difficult indeed. Luckily, [Darloc Brae](Lore_Darloc_Brae.md), the famed conqueror and so-called Golden Beast of [Anequina](Lore_Anequina.md), took great pains to secure what histories remained, placing them in vaults and smaller archives throughout Elsweyr. Gaining access to these archives is no small feat for a [High Elf](Lore_High_Elf.md), I can tell you. But years of dogged persistence have borne some meager fruits.
+
+From what I can ascertain, life in Merethic Era Elsweyr was a toilsome affair. At that time, the famed sixteen kingdoms of the Khajiit were little more than competing fiefdoms, ruled by a cruel hunter-aristocracy. Severe droughts and periods of famine struck Anequina with pitiless regularity, and the constant feuding of the hunter-nobles resulted in widespread military conscription—robbing peasant communities of youthful labor and prompting still greater famine across the region. The only check placed on the hunt-lords resided in the [Temples of Two-Moons Dance](Lore_Temple_of_Two-Moons_Dance.md). Khajiiti adepts and other [Torval](Lore_Torval.md) clergy wielded significant cultural influence, and occasionally used it to vex or even overthrow particularly vicious hunt-lords. The aristocracy chafed at these intrusions, but knew better than to challenge the adepts directly.
+
+At some point in the high days of the Merethic Era, a particularly ruthless hunt-lord named Takanzin the Striped Death paid a flock of criminals to set fire to the Rawl'kha Temple. The clergy displaced by the blaze immediately fielded a small army of warrior-adepts to punish those responsible. The details of the conflict are lost to the ages, but the resolution was quite clear: Takanzin's forces quashed the priestly uprising and drove the remaining adepts out of the Kingdom of [Dune](Lore_Dune.md) altogether.
+
+Seizing the opportunity to be done with the adepts' meddling once and for all, the other hunt-lords across the northern tier of what is now Elsweyr instituted a policy of weapon confiscation. They cited the violence in [Rawl'kha](Lore_Rawl%27kha.md) as evidence of the clergy's treasonous intentions and brutally suppressed any religious order that refused to comply.
+
+After an extended period of deep despondency and contemplation, the adepts turned inward—cutting ties with the politics of the age and focusing entirely on self-perfection. Religious meditation was an essential part of that journey.
+
+In many cultures, meditation is a quiet and motionless activity. Not so for Khajiit. Their nervous energy and focus on raw physicality drove them to adopt a lyrical, dance-like form of meditation. It couldn't have taken long for the adepts' dancing to transform into something akin to a martial art. Smooth, meditative dance gave way to swift claw-strikes and daring leaps. This should come as no surprise, given the Khajiit's predatory instincts. People possessing claws and fangs cannot be expected to remain peaceful forever!
+
+After centuries of isolation, the adepts emerged from their cloisters, bristling with martial skill and wisdom. By this point, the hunter-aristocracy was nearing its end. Disparities in wealth and influence had reached a tipping point, paving the way for a long-overdue public uprising. The adepts wasted no time sharing their hard-earned skills with the beleaguered peasantry. Within the span of a few generations, the adepts' martial arts were completely ubiquitous. All the people needed was a spark.
+
+In the latter days of the Merethic Era, feuding hunt-lords from [Meirvale](Lore_Meirvale.md) and [Helkarn](Lore_Helkarn.md) drafted thousands of peasants into military service, bringing about one of the worst famines in Elsweyr's history. After three years of futile conflict, the armies of both lords turned on their masters, toppling the aristocracy in a rain of slashing claws, wind-kicks, and bone-breaking punches.
+
+Before long, peasant uprisings broke out in nearby [Riverhold](Lore_Riverhold.md), [Orcrest](Lore_Orcrest.md), [Verkarth](Lore_Verkarth_(Elsweyr).md), [Bruk'ra](Lore_Bruk%27ra.md), and [Ne Quin-al](Lore_Ne_Quin-al_(city).md). Within a century, the regal hunter caste that had reigned over Elsweyr for thousands of years fell from power.
+
+We know that the glorious dream of a farming utopia never took hold in Elsweyr. Within a few hundred years, a new brand of landed nobility ascended to the thrones of the sixteen kingdoms. But the people have never forgotten the power they wield. Despite the lack of written records, the rich oral traditions of the Khajiiti clan mothers ensure that the Cat-Folk never forget their struggles and triumphs.
+
+I remain an outsider here, but I cannot help but think that we approach a new tipping point in Elsweyr. The [Imperial](Lore_Imperial.md), [Euraxia Tharn](Lore_Euraxia_Tharn.md), is not so very different from the hunt-lords of millennia past. And if she does not learn from her missteps, she may well share their fate.

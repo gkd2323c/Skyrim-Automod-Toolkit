@@ -1,0 +1,29 @@
+# Arox
+
+| Arox | | | |
+| --- | --- | --- | --- |
+| [![ON-creature-Arox the Mutilator.jpg](https://images.uesp.net/thumb/e/e6/ON-creature-Arox_the_Mutilator.jpg/200px-ON-creature-Arox_the_Mutilator.jpg)](https://en.uesp.net/wiki/File:ON-creature-Arox_the_Mutilator.jpg) Arox the Mutilator | | | |
+| Race | [Daedric Titan](Lore_Daedric_Titan.md)/[Daedrat](Lore_Daedrat.md) | Gender | Male |
+| Resided in | [Deadlands](Lore_Deadlands.md) <br> [Fargrave](Lore_Fargrave.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Arox_the_Mutilator) | | |
+
+**Lord** Arox is a [Daedrat](Lore_Daedrat.md) who was once an [Ash Titan](Lore_Ash_Titan.md) lieutenant in service to Mehrunes Dagon. During his tenure, he earned many titles, including the **Mutilator**, the **Terror of the Deadlands**, the **Sunderer of the Seven Skies**, the **Ruin of Varondo** and the **Warrior of the Floating Wastes**.<sup>[[1]](#cite_note-Arox-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/e/eb/ON-creature-Arox_the_Mutilator_02.jpg/200px-ON-creature-Arox_the_Mutilator_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Arox_the_Mutilator_02.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Arox_the_Mutilator_02.jpg) Arox in his Titan form During the time of the Ayleids, an event known as the "Harrowing of [Varondo](Lore_Varondo.md)" took place. Arox the Mutilator was present at the city the day it occurred, and burned down an army of Ayleids was "like dry grass in a wildfire" using his fiery breath, garnering him the title the "Ruin of Varondo".<sup>[[1]](#cite_note-Arox-1)</sup> He was also a part of the forces that aided Dagon in the destruction of [Ald Sotha](Lore_Ald_Sotha.md) in the [First Era](Lore_First_Era.md);<sup>[[1]](#cite_note-Arox-1)</sup> [Sotha Sil](Lore_Sotha_Sil.md) was the sole survivor, having been saved by [Vivec](Lore_Vivec.md).<sup>[[2]](#cite_note-Saryoni-2)</sup><sup>[[3]](#cite_note-ABHo AS-3)</sup>
+
+Arox at one point became the overseer of the Blood Pit, a terrible prison that Dagon sends his enemies to, until he was defeated by Nokvroz of the Ruinblood Clan through trickery. Reduced to the form of a Daedrat, he fled to the demiplane of Fargrave where he was captured by the [Watcher](Lore_Watcher.md) Gazmond the Collector, who added Arox to his gallery.<sup>[[1]](#cite_note-Arox-1)</sup> Meanwhile, in Arox's absence, Ruinblood Clan came into power with the aid of the [Firescourge Clan](Lore_Firescourge_Clan.md), who disposed of the Mindcleaver Clan,<sup>[[4]](#cite_note-ONMRM-4)</sup> and destroyed all evidence of their existence.<sup>[[5]](#cite_note-5)</sup>
+
+Cica [2E 582](Lore_Second_Era.md#2E_582), in seeking a translator to break a Dagonic code, Arox was rescued by [the Vestige](Lore_The_Vestige.md), [the Anchorite](Lore_Mairead.md) and [Lyranth](Lore_Lyranth.md) the Foolkiller, the former who he pledged his fealty to.<sup>[[1]](#cite_note-Arox-1)</sup><sup>[[6]](#cite_note-ONSE-6)</sup> Using Arox's knowledge of being the former overseer of the Blood Pits, he aided in the infiltration of the prison, allowing for the extraction of knowledge from the [Moth Priest](Lore_Cult_of_the_Ancestor_Moth.md) Elegian, which consisted on knowledge on the Riven Cataclyst, a device capable of transforming Daedra into living disasters.<sup>[[7]](#cite_note-ONTDV-7)</sup>
+
+Shortly after infiltrating the Blood Pit, Arox accompanied the Vestige and Lyranth on an assault against Nokvroz's stronghold, Ardent Hope. During the assault, Lyranth surmised that a rod the Vestige was carrying contained Arox's true power, and breaking it would temporarily restore his Ash Titan form, but with the drawback of him being unable to be freed from the curse permanently. Regardless, Arox urged the Vestige to test Lyranth's theory, which turned out to be correct. The Vestige broke the rod and Arox aided Rynkyus of the Bladebearer Clan in combat against Nokvroz's Dremora. <sup>[[8]](#cite_note-ONAAH-8)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Arox_1-0)***</sup><sup>***[b](#cite_ref-Arox_1-1)***</sup><sup>***[c](#cite_ref-Arox_1-2)***</sup><sup>***[d](#cite_ref-Arox_1-3)***</sup><sup>***[e](#cite_ref-Arox_1-4)***</sup> [Arox the Mutilator](https://en.uesp.net/wiki/Online:Arox_the_Mutilator)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Saryoni_2-0) [Tholer Saryoni](https://en.uesp.net/wiki/Morrowind:Tholer_Saryoni)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+3. [^](#cite_ref-ABHo AS_3-0) [*A Brief History of Ald Sotha*](https://en.uesp.net/wiki/Lore:A_Brief_History_of_Ald_Sotha) — [Varlinsi Arandu](Lore_Books_by_Author.md#Varlinsi_Arandu), Apostle of Sotha Sil
+4. [^](#cite_ref-ONMRM_4-0) [Markyn Ring of Majesty](https://en.uesp.net/wiki/Online:Markyn_Ring_of_Majesty) codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+5. [^](#cite_ref-5) [Mindcleaver Clan Banner](https://en.uesp.net/wiki/Online:The_Deadlands_Antiquities#Mindcleaver_Clan_Banner) Antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+6. [^](#cite_ref-ONSE_6-0) [Destruction Incarnate](https://en.uesp.net/wiki/Online:Destruction_Incarnate) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ONTDV_7-0) [The Durance Vile](https://en.uesp.net/wiki/Online:The_Durance_Vile) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ONAAH_8-0) [Against All Hope](https://en.uesp.net/wiki/Online:Against_All_Hope) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

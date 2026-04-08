@@ -1,0 +1,18 @@
+# Graht-Elk
+
+[![](https://images.uesp.net/thumb/2/2e/BL-misc-Spirit_of_the_Hunt_Promo.png/200px-BL-misc-Spirit_of_the_Hunt_Promo.png)](https://en.uesp.net/wiki/File:BL-misc-Spirit_of_the_Hunt_Promo.png) [](https://en.uesp.net/wiki/File:BL-misc-Spirit_of_the_Hunt_Promo.png) A depiction of Hircine, slayer of Graht-Elk Graht-Elk is a figure found in [Khajiit](Lore_Khajiit.md) religion and folklore, known as the champion of [Y'ffer](Lore_Y%27ffer.md). According to text from before the times of [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md), Y'ffer succumbed to corruption by the [Great Darkness](Lore_Namira.md) following the demise of [Lorkhaj](Lore_Lorkhaj.md). In a fit of chaos, Y'ffer struck down [Nirni](Lore_Nirni.md), whom he had once cherished, causing her demise. In retaliation, [Azurah](Lore_Azurah.md), [Khenarthi](Lore_Khenarthi.md), and [Hircine](Lore_Hircine.md) joined forces to vanquish Y'ffer and fashioned a burial mound for Nirni using his remains. Hircine, who harbored affection for Nirni, was particularly aggrieved by her choice of Y'ffer, leading him to slay the Graht-Elk, an entity associated with Y'ffer. As a trophy of his victory, Hircine adorns himself with the head of the Graht-Elk.<sup>[[1]](#cite_note-TWS-1)</sup>
+
+Hircine's depiction, whether in his chosen form or as portrayed across different cultures, consistently includes [elk](Lore_Elk.md) attributes, often featuring the head or skull of an elk.<sup>[[2]](#cite_note-DFAppearance-2)</sup><sup>[[3]](#cite_note-HS-3)</sup><sup>[[4]](#cite_note-SOH-4)</sup> Furthermore, he adopts titles like "Elk of Arrows" in [Druidic](Lore_Druids.md) [Breton](Lore_Breton.md) culture or "Old Elk-Eye" in [Reachfolk](Lore_Reachfolk.md) culture.<sup>[[5]](#cite_note-GSOTR-5)</sup><sup>[[6]](#cite_note-ONNighthunter Cowl-6)</sup>
+
+## See Also
+
+### Books
+- ***[The Worldly Spirits](Lore_The_Worldly_Spirits.md)*** by [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest — A pre-ri'Datta text listing deities associated with the world
+
+## References
+1. [^](#cite_ref-TWS_1-0) [*The Worldly Spirits*](Lore_The_Worldly_Spirits.md) — [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest
+2. [^](#cite_ref-DFAppearance_2-0) Hircine's appearances in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Hircine%27s_Quest)*, *[Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Hircine)*, *[Oblivion](https://en.uesp.net/wiki/Oblivion:Hircine)*, *[Skyrim](Skyrim_Ill_Met_By_Moonlight.md)*, [ESO](https://en.uesp.net/wiki/Online:Hircine), *[Blades](https://en.uesp.net/wiki/Blades:Spirit_of_the_Hunt_(celebration))* and *[Legends](https://en.uesp.net/wiki/Legends:Aspect_of_Hircine)*
+3. [^](#cite_ref-HS_3-0) [Hircine's Shrine](https://en.uesp.net/wiki/Oblivion:Hircine%27s_Shrine) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. [^](#cite_ref-SOH_4-0) [Statue of Hircine](https://en.uesp.net/wiki/Online:Statue_of_Hircine) and [Statue of Hircine's Bitter Mercy](https://en.uesp.net/wiki/Online:Statue_of_Hircine%27s_Bitter_Mercy) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-GSOTR_5-0) [*Great Spirits of the Reach: Volume 2*](https://en.uesp.net/wiki/Lore:Great_Spirits_of_the_Reach__Volume_2) — [Vashu gra-Morga](Lore_Books_by_Author.md#Vashu_gra-Morga), Chief Daedrotheologist at the [University of Gwylim](Lore_University_of_Gwylim.md)
+6. [^](#cite_ref-ONNighthunter Cowl_6-0) [Nighthunter's Cowl](https://en.uesp.net/wiki/Online:Nighthunter%27s_Cowl) description in [ESO](https://en.uesp.net/wiki/Online:Online)

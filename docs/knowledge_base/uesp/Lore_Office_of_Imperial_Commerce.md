@@ -1,0 +1,13 @@
+# Office of Imperial Commerce
+
+[![](https://images.uesp.net/thumb/5/5b/OB-place-Office_of_Imperial_Commerce.jpg/200px-OB-place-Office_of_Imperial_Commerce.jpg)](https://en.uesp.net/wiki/File:OB-place-Office_of_Imperial_Commerce.jpg) [](https://en.uesp.net/wiki/File:OB-place-Office_of_Imperial_Commerce.jpg) The Office of Imperial Commerce The Office of Imperial Commerce is an [Imperial](Lore_Imperial.md) institution based in the [Market District](Lore_Market_District_(Imperial_City).md) of the [Imperial City](Lore_Imperial_City.md). The proprietor of the office takes all merchant complaints in the city, often amassing crowds of people.<sup>[[1]](#cite_note-GIC-1)</sup> The uncleanliness of the surrounding district leads some people to send servants in their stead.<sup>[[1]](#cite_note-GIC-1)</sup> When a complaint is made, forms are filed and sent to higher-ups, who usually ignore them.<sup>[[2]](#cite_note-Vinicia-2)</sup> The office also deals in property and is authorised to sell houses in the city.<sup>[[2]](#cite_note-Vinicia-2)</sup><sup>[[3]](#cite_note-3)</sup>
+
+## Notes
+- The Market District of the Imperial City was destroyed during [Varen's Rebellion](Lore_Varen%27s_Rebellion.md) in [2E 577](Lore_Second_Era.md#2E_577). The entire district was subsequently converted into a graveyard for the fallen and became known as the Memorial District.<sup>[[4]](#cite_note-GL-4)</sup><sup>[[5]](#cite_note-5)</sup> It is unknown where the Office of Imperial Commerce was based during this period, or whether the office existed at all prior to the [Third Era](Lore_Third_Era.md).
+
+## References
+1. ^ <sup>***[a](#cite_ref-GIC_1-0)***</sup><sup>***[b](#cite_ref-GIC_1-1)***</sup> [*Guide to the Imperial City*](Lore_Guide_to_the_Imperial_City.md) — [Alessia Ottus](Lore_Books_by_Author.md#Alessia_Ottus)
+2. ^ <sup>***[a](#cite_ref-Vinicia_2-0)***</sup><sup>***[b](#cite_ref-Vinicia_2-1)***</sup> [Vinicia Melissaeia](https://en.uesp.net/wiki/Oblivion:Vinicia_Melissaeia)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. [^](#cite_ref-3) [Buy a house in the Imperial City](https://en.uesp.net/wiki/Oblivion:Buy_a_house_in_the_Imperial_City) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. [^](#cite_ref-GL_4-0) [*Groundskeeper's Letter*](Lore_Groundskeeper%27s_Letter.md) — [Groundskeeper Gavros](Lore_Books_by_Author.md#Groundskeeper_Gavros)
+5. [^](#cite_ref-5) [The Imperial City Guide: Areas](https://en.uesp.net/wiki/General:The_Imperial_City_Guide:_Areas)

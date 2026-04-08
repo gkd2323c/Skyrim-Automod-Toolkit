@@ -1,0 +1,27 @@
+# Aranias
+
+| Aranias | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Aranias.jpg](https://images.uesp.net/thumb/4/47/ON-npc-Aranias.jpg/200px-ON-npc-Aranias.jpg)](https://en.uesp.net/wiki/File:ON-npc-Aranias.jpg) Aranias | | | |
+| Race | [Altmer](Lore_Altmer.md) | Gender | Female |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Aranias) | | |
+
+Aranias was an [Altmer](Lore_Altmer.md) girl from the mid- [Second Era](Lore_Second_Era.md) who was born with the power to control the earth. She became the [Wilderqueen](https://en.uesp.net/wiki/Lore:Wilderqueen) of [Greenshade](Lore_Greenshade.md) in [2E 582](Lore_Second_Era.md#2E_582).<sup>[[1]](#cite_note-TOTWK-1)</sup>
+
+## History
+Aranias grew up on the island of [Silatar](Lore_Silatar.md), and used powerful magic to create a fantastical and beautiful paradise on the island. However, Silatar's beauty felt wrong and unnatural to behold, and Aranias' parents were disapproving of her magic. Aranias went on to be known as the Rock Witch of Silatar, and after she accidentally destroyed a passing ship with her powers, her parents departed the island circa [2E 582](Lore_Second_Era.md#2E_582) to seek a trainer.<sup>[[2]](#cite_note-TWOS-2)</sup>
+
+While her parents were away, [Bosmer](Lore_Bosmer.md) bandits attacked Silatar and burned the farms, and Aranias was forced to drive them off alone.<sup>[[2]](#cite_note-TWOS-2)</sup> Her parents returned with High Kinlady [Estre](Lore_Estre.md) and the [Veiled Heritance](Lore_Veiled_Heritance.md), who promised to help. However, Estre sought only to use Aranias as a weapon, and forced her to rip an innocent Bosmer to pieces as a demonstration of her loyalty. She then departed the island to join the Heritance.<sup>[[2]](#cite_note-TWOS-2)</sup>
+
+For a time, Aranias aided the Heritance on [Auridon](Lore_Auridon.md). She was responsible for the group's infiltration of the College of Aldmeri Propriety, and established their base at the ruins of Quendeluun.<sup>[[3]](#cite_note-Ara Dia-3)</sup> After Estre failed to usurp Queen [Ayrenn](Lore_Ayrenn.md) and was killed later that year, the Veiled Heritance sent Aranias to [Greenshade](Lore_Greenshade.md) with her "trainer", an Altmer named Andur.<sup>[[3]](#cite_note-Ara Dia-3)</sup> The Heritance hoped to use her power to kill the [Wilderking](Lore_Wilderking.md), a god-king with similar powers who ruled over parts of Greenshade. The [Vinedusk Rangers](Lore_Vinedusk_Rangers.md) attempted to hunt her down on Auridon along with several other Heritance members,<sup>[[4]](#cite_note-ESOFB-4)</sup> only to discover that she had already departed for the mainland.<sup>[[4]](#cite_note-ESOFB-4)</sup><sup>[[3]](#cite_note-Ara Dia-3)</sup>
+
+Seeking to gain the Wilderking's allegiance, the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) sent the [Vestige](Lore_The_Vestige.md) to prevent the Heritance's assassination attempt. A Bosmer [Spinner](Lore_Spinners.md) named Maruin told the tale of Silatar's creation, but in doing so he altered the story—and therefore Aranias' memory, so that she would recognize the Vestige as a childhood friend who lived with her on the island. In Mariun's telling, Aranias did not face the bandits alone and refused to kill the Bosmer woman, instead killing Andur and trapping the Heritance representatives. Although these events never transpired, the Spinner's magic showed Aranias that the Heritance was her true enemy, and she was able to fulfill her destiny by becoming the next Wilderqueen.<sup>[[1]](#cite_note-TOTWK-1)</sup>
+
+After this mantling, Aranias' identity and memories were consumed by the Wilderqueen.<sup>[[1]](#cite_note-TOTWK-1)</sup> Her final autonomous act was to reveal key details about the Heritance's plot to use the stolen [Staff of Magnus](Lore_Staff_of_Magnus.md). However, the new Wilderqueen remained influenced by the Spinner's tale, and swore allegiance to the Dominion.<sup>[[1]](#cite_note-TOTWK-1)</sup> She saved the vampire hunter Mel Adrys from undeath circa [2E 582](Lore_Second_Era.md#2E_582) in memory of the Vestige.<sup>[[5]](#cite_note-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TOTWK_1-0)***</sup><sup>***[b](#cite_ref-TOTWK_1-1)***</sup><sup>***[c](#cite_ref-TOTWK_1-2)***</sup><sup>***[d](#cite_ref-TOTWK_1-3)***</sup> Events of [Throne of the Wilderking](https://en.uesp.net/wiki/Online:Throne_of_the_Wilderking) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-TWOS_2-0)***</sup><sup>***[b](#cite_ref-TWOS_2-1)***</sup><sup>***[c](#cite_ref-TWOS_2-2)***</sup> Events of [The Witch of Silatar](https://en.uesp.net/wiki/Online:The_Witch_of_Silatar) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Ara Dia_3-0)***</sup><sup>***[b](#cite_ref-Ara Dia_3-1)***</sup><sup>***[c](#cite_ref-Ara Dia_3-2)***</sup> [*Aranias' Diary*](https://en.uesp.net/wiki/Online:Aranias%27_Diary) — [Aranias](https://en.uesp.net/wiki/Online:Aranias)
+4. ^ <sup>***[a](#cite_ref-ESOFB_4-0)***</sup><sup>***[b](#cite_ref-ESOFB_4-1)***</sup> [Final Blows](https://en.uesp.net/wiki/Online:Final_Blows)
+5. [^](#cite_ref-5) [Mel Adrys](https://en.uesp.net/wiki/Online:Mel_Adrys)' dialogue in [Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))

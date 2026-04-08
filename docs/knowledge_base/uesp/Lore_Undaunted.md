@@ -1,0 +1,114 @@
+# Undaunted
+
+[![](https://images.uesp.net/thumb/6/65/ON-event-Undaunted_Event_2020.jpg/200px-ON-event-Undaunted_Event_2020.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Event_2020.jpg) [](https://en.uesp.net/wiki/File:ON-event-Undaunted_Event_2020.jpg) An Undaunted Pledge Master The Undaunted were a loose faction of adventurers contemporary with the [Three Banners War](Lore_Three_Banners_War.md). Neutral in the ongoing war, the Undaunted had members all across [Tamriel](Lore_Tamriel.md) and worked together to raid the greatest dungeons in the land for wealth and glory. They had so-called enclaves in some major cities, such as [Mournhold](Lore_Mournhold.md), [Elden Root](Lore_Elden_Root.md), and [Wayrest](Lore_Wayrest.md) but often chose to meet at inns or taverns.<sup>[[1]](#cite_note-The Undaunted-1)</sup>
+
+## History
+*Who knows no fear … of beast or blade?
+Undaunted! Undaunted!
+Who knows no fear … of Daedric planes?
+We are Undaunted!
+Who knows no fear … of death? Of age?
+Undaunted! Undaunted! We are Undaunted!*
+— *The Undaunted Song* The guild was founded primarily by [Turuk Redclaws](Lore_Turuk_Redclaws.md), and his companions [Kailstig the Axe](Lore_Kailstig_the_Axe.md) and [Mighty Mordra](Lore_Mordra.md). Turuk was a thrill-seeker ever since his youth. A member of the [Fighters Guild](Lore_Fighters_Guild.md) for a short while, he eventually got bored with all its restrictions and regulations. Wanting fun from life, he set off as an adventurer, delving into the darkest places of Tamriel. Throughout these journeys he met fellow wanderers who could keep up with him, daring one another to do insane challenges-such as the naked dungeon run. Tales of their adventures and insane accomplishments spread, resulting in other heroes seeking them out, and this way the Undaunted were born.<sup>[[2]](#cite_note-Lo Glory-2)</sup>
+
+## Organization
+The Undaunted have a very loose rank and file, with different roles assigned to members. Recruiters like Turuk Redclaws are responsible for bringing new members into the guild. Pledge Masters assign daily challenges and tasks to tackle various threats across Tamriel,<sup>[[3]](#cite_note-GRDialogue-3)</sup> while Trailblazers venture out to discover new dungeons and adventures that can be turned into pledges.<sup>[[4]](#cite_note-Ct B-4)</sup><sup>[[5]](#cite_note-MTC-5)</sup> Finally, there are the various adventurers who join in search of gold and glory,<sup>[[3]](#cite_note-GRDialogue-3)</sup> and the Quartermasters who are responsible for handling the equipment and gear.<sup>[[6]](#cite_note-UQ-6)</sup>
+
+Members were taught magical spells as they rose in standing, becoming further known as they cleared pledges and other quests throughout Tamriel.<sup>[[7]](#cite_note-USkill Lines-7)</sup> They didn't shy away from darker sides of spellcraft, such as [blood magic](Lore_Blood_Magic.md) and "practical" [necromancy](Lore_Necromancy.md), viewing them as simply other branches of magic, whose beneficial applications are overshadowed by their taboo natures. Few Undaunted would shy away from such magic if it meant the difference between life and death.<sup>[[4]](#cite_note-Ct B-4)</sup><sup>[[7]](#cite_note-USkill Lines-7)</sup>
+
+Circa [2E 582](Lore_Second_Era.md), the Undaunted's exact membership size wasn't known, with at least 32 members,<sup>[[8]](#cite_note-To TU-8)</sup> but they had a much smaller retention of new recruits than of similar guilds, such as the Fighters and [Mages](Lore_Mages_Guild.md) Guilds. This was not for a strict membership policy, or for lack of interest. The exact contrary is true, as the Undaunted took in anyone and everyone- from the eager youth to the infirm and old. Even [vampires](Lore_Vampire.md) and [ghosts](Lore_Ghost.md) are found among their ranks.<sup>[[9]](#cite_note-UVamp-9)</sup><sup>[[10]](#cite_note-UGhost-10)</sup> One must only seek out a recruiter and prove themselves by clearing out a dungeon to join the guild.<sup>[[11]](#cite_note-OFTU-11)</sup> A well known adventurer may also receive a personal invitation to join the group. Either way, if they survived, they'd sign their name under the Tome of the Undaunted.<sup>[[12]](#cite_note-TTUP-12)</sup> Instead, the reason for the Undaunted's high turnover rate is the simple fact that many, many of its members are killed by Tamriel's depths, but those who survive came out true Undaunted.<sup>[[13]](#cite_note-TRAYQ-13)</sup>
+
+The Undaunted were sponsored by the leaders of [Ebonheart Pact](Lore_Ebonheart_Pact.md), [Aldmeri Dominion](Lore_Aldmeri_Dominion.md), and [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) to clear out the corners of their realms. This arrangement ensured a continuous flow of plunder for the organization.<sup>[[14]](#cite_note-Serileth-14)</sup><sup>[[15]](#cite_note-GTTU-15)</sup>
+
+## Accomplishments and Spoils
+The Undaunted had a tendency to strip dungeons of all of their wealth, looting them for all the treasure they could get at.<sup>[[16]](#cite_note-UPledge-16)</sup> The Undaunted would always take the heads of those they defeated, sometimes to wear as powerful arcane armor and sometimes to display as mounted trophies. Similarly, they'd also craft busts of their vanquished foes.<sup>[[4]](#cite_note-Ct B-4)</sup><sup>[[17]](#cite_note-MSets-17)</sup><sup>[[18]](#cite_note-Und Furn-18)</sup> Some Undaunted even wear the clothing of fallen foes.<sup>[[19]](#cite_note-FEWear-19)</sup> As rewards for completing pledges, Undaunted were rewarded a number of keys depending on how great the challenge. They could then use these keys to open a variety of treasure chests stocked around the enclaves.<sup>[[3]](#cite_note-GRDialogue-3)</sup> During special occasions, unique loot was part of the bounty, such as pearlescent blue variations of previous treasures or furniture crafted from the spoils of battle.<sup>[[20]](#cite_note-Undaunt Event-20)</sup><sup>[[21]](#cite_note-Opal-21)</sup><sup>[[22]](#cite_note-Undaunt Reward-22)</sup>
+
+Members of the Undaunted were known to use arcane [Scrolls](Lore_Scrolls.md) of Glorious Battle, created by [one of their members](Lore_Hroltar.md), to empower their foes, this way making their pledges more dangerous and deeds even more legendary.<sup>[[23]](#cite_note-SOGB-23)</sup><sup>[[24]](#cite_note-GTR-24)</sup><sup>[[25]](#cite_note-MAR-25)</sup><sup>[[26]](#cite_note-UCB-26)</sup> Their exploits also took them outside of [Nirn](Lore_Nirn.md) to other realms, such the [Deadlands](Lore_Deadlands.md), [Coldharbour](Lore_Coldharbour.md), and even the [Clockwork City](Lore_Clockwork_City.md).<sup>[[27]](#cite_note-Pledge Deadlands-27)</sup><sup>[[28]](#cite_note-Pledge Coldharbour-28)</sup><sup>[[29]](#cite_note-Pledge Clockwork City-29)</sup> They were known to train [scamps](Lore_Scamp.md) to serve as pets and "pack mules".<sup>[[30]](#cite_note-Pack Scamp-30)</sup>
+
+## See Also
+
+### Notable Undaunted
+- **[Turuk Redclaws](Lore_Turuk_Redclaws.md)** — Khajiit, founder.
+- **[Kailstig the Axe](Lore_Kailstig_the_Axe.md)** — Nord, founding member.
+- **[Mighty Mordra](https://en.uesp.net/wiki/Lore:Mighty_Mordra)** — Orc, founding member.
+- **Glirion the Redbeard** — Bosmer, Pledge Master.
+- **Maj al-Ragath** — Redguard, Pledge Master, member of a famous adventurer family.
+- **Urgarlag Chief-bane** — Orc, Pledge Master.
+- **[Yisareh](Lore_Yisareh.md)** — Redguard, the First Trailblazer.
+- **[Hroltar the Boaster](Lore_Hroltar.md)** — Reachfolk, creator of Scrolls of Glorious Battle.
+
+### Books
+- ***[We Were Undaunted](https://en.uesp.net/wiki/Lore:We_Were_Undaunted)*** by [Mallam Darano](Lore_Books_by_Author.md#Mallam_Darano) — An Undaunted healer's account of their capture and imprisonment
+- ***[Tome of the Undaunted](https://en.uesp.net/wiki/Lore:Tome_of_the_Undaunted)*** — A record of individuals who took the Pledge of the Undaunted
+- ***[Turuk Redclaws Answers Your Questions](https://en.uesp.net/wiki/Lore:Turuk_Redclaws_Answers_Your_Questions)*** by [Turuk Redclaws](Lore_Books_by_Author.md#Turuk_Redclaws) — Turuk Redclaws answers questions on lore
+
+## Gallery
+- [![](https://images.uesp.net/thumb/d/d5/ON-place-Undaunted_Enclave_%28Elden_Root%29.jpg/200px-ON-place-Undaunted_Enclave_%28Elden_Root%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Undaunted_Enclave_(Elden_Root).jpg) [Elden Root](Lore_Elden_Root.md)'s enclave
+- [![](https://images.uesp.net/thumb/6/6f/ON-place-Undaunted_Enclave_%28Mournhold%29.jpg/200px-ON-place-Undaunted_Enclave_%28Mournhold%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Undaunted_Enclave_(Mournhold).jpg) [Mournhold](Lore_Mournhold.md)'s enclave
+- [![](https://images.uesp.net/thumb/6/66/ON-place-Undaunted_Enclave_%28Wayrest%29.jpg/200px-ON-place-Undaunted_Enclave_%28Wayrest%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Undaunted_Enclave_(Wayrest).jpg) [Wayrest](Lore_Wayrest.md)'s enclave
+- [![](https://images.uesp.net/thumb/e/e6/ON-banner-Undaunted.png/200px-ON-banner-Undaunted.png)](https://en.uesp.net/wiki/File:ON-banner-Undaunted.png) Undaunted Banner
+- [![](https://images.uesp.net/thumb/1/1b/ON-npc-Mighty_Mordra.jpg/200px-ON-npc-Mighty_Mordra.jpg)](https://en.uesp.net/wiki/File:ON-npc-Mighty_Mordra.jpg) Mighty Mordra, one of the founders of the Undaunted
+- [![](https://images.uesp.net/thumb/c/c7/ON-npc-Turuk_Redclaws.jpg/200px-ON-npc-Turuk_Redclaws.jpg)](https://en.uesp.net/wiki/File:ON-npc-Turuk_Redclaws.jpg) Turuk Redclaws, one of the founders of the Undaunted
+- [![](https://images.uesp.net/thumb/9/93/ON-npc-Kailstig_the_Axe.jpg/200px-ON-npc-Kailstig_the_Axe.jpg)](https://en.uesp.net/wiki/File:ON-npc-Kailstig_the_Axe.jpg) Kailstig the Axe, one of the founders of the Undaunted
+- [![](https://images.uesp.net/thumb/7/7e/ON-npc-Hroltar_the_Boaster.jpg/200px-ON-npc-Hroltar_the_Boaster.jpg)](https://en.uesp.net/wiki/File:ON-npc-Hroltar_the_Boaster.jpg) Hroltar the Boaster, one of the senior members of the Undaunted, inventor of Scrolls of Glorious Battle
+- [![](https://images.uesp.net/thumb/e/e5/ON-npc-Glirion_the_Redbeard.jpg/200px-ON-npc-Glirion_the_Redbeard.jpg)](https://en.uesp.net/wiki/File:ON-npc-Glirion_the_Redbeard.jpg) Glirion the Redbeard, one of the Pledge Masters
+- [![](https://images.uesp.net/thumb/9/9b/ON-npc-Maj_al-Ragath.jpg/200px-ON-npc-Maj_al-Ragath.jpg)](https://en.uesp.net/wiki/File:ON-npc-Maj_al-Ragath.jpg) Maj al-Ragath, one of the Pledge Masters
+- [![](https://images.uesp.net/thumb/6/62/ON-npc-Urgarlag_Chief-bane.jpg/200px-ON-npc-Urgarlag_Chief-bane.jpg)](https://en.uesp.net/wiki/File:ON-npc-Urgarlag_Chief-bane.jpg) Urgarlag Chief-bane, one of the Pledge Masters
+- [![](https://images.uesp.net/thumb/1/1a/ON-npc-Yisareh.jpg/200px-ON-npc-Yisareh.jpg)](https://en.uesp.net/wiki/File:ON-npc-Yisareh.jpg) Yisareh, the first Trailblazer
+- [![](https://images.uesp.net/thumb/1/15/ON-crown_store-Fatemirror_Evening_Wear.jpg/200px-ON-crown_store-Fatemirror_Evening_Wear.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Fatemirror_Evening_Wear.jpg) A fallen Shardborn's dress, worn by the Undaunted Falena Rothalor.
+- [![](https://images.uesp.net/thumb/b/b1/ON-crown_store-Hroltar_the_Boaster.jpg/200px-ON-crown_store-Hroltar_the_Boaster.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Hroltar_the_Boaster.jpg) Undaunted listening to Hroltar's stories
+- [![](https://images.uesp.net/thumb/3/38/ON-event-Undaunted_Celebration-Serileth.jpg/200px-ON-event-Undaunted_Celebration-Serileth.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration-Serileth.jpg) Serileth, an Undaunted liaison during events
+- [![](https://images.uesp.net/thumb/1/17/ON-prerelease-Undaunted_Celebration_02.jpg/200px-ON-prerelease-Undaunted_Celebration_02.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Undaunted_Celebration_02.jpg) Undaunted adventurers.
+- [![](https://images.uesp.net/thumb/6/63/ON-render-Undaunted_2020.jpg/200px-ON-render-Undaunted_2020.jpg)](https://en.uesp.net/wiki/File:ON-render-Undaunted_2020.jpg) Undaunted adventurers.
+- [![](https://images.uesp.net/thumb/7/79/ON-event-Undaunted_Celebration_2017.jpg/200px-ON-event-Undaunted_Celebration_2017.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2017.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/1/12/ON-event-Undaunted_Celebration_2021.jpg/200px-ON-event-Undaunted_Celebration_2021.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2021.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/5/50/ON-event-Undaunted_Celebration_2017_02.jpg/200px-ON-event-Undaunted_Celebration_2017_02.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2017_02.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/8/88/ON-event-Undaunted_Celebration_2019.jpg/200px-ON-event-Undaunted_Celebration_2019.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2019.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/9/95/ON-event-Undaunted_Celebration_2023.jpg/200px-ON-event-Undaunted_Celebration_2023.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2023.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/0/0d/ON-event-Undaunted_Celebration_2023_2.jpg/200px-ON-event-Undaunted_Celebration_2023_2.jpg)](https://en.uesp.net/wiki/File:ON-event-Undaunted_Celebration_2023_2.jpg) Undaunted adventurers
+- [![](https://images.uesp.net/thumb/a/ac/ON-crown_store-Undaunted_Skill_Line.jpg/200px-ON-crown_store-Undaunted_Skill_Line.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Undaunted_Skill_Line.jpg) Undaunted adventurers wearing monster sets
+- [![](https://images.uesp.net/thumb/4/4e/ON-prerelease-Undaunted_Pledges_02.jpg/200px-ON-prerelease-Undaunted_Pledges_02.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Undaunted_Pledges_02.jpg) Undaunted treasure chests
+- [![](https://images.uesp.net/thumb/a/a2/ON-prerelease-Undaunted_Style_Events.jpg/200px-ON-prerelease-Undaunted_Style_Events.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Undaunted_Style_Events.jpg) An Undaunted key
+- [![](https://images.uesp.net/thumb/8/8c/ON-prerelease-Undaunted_Pledges.jpg/200px-ON-prerelease-Undaunted_Pledges.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Undaunted_Pledges.jpg) Examples of gear crafted from fallen foes
+- [![](https://images.uesp.net/thumb/b/bd/ON-quest-Taking_the_Undaunted_Pledge.jpg/200px-ON-quest-Taking_the_Undaunted_Pledge.jpg)](https://en.uesp.net/wiki/File:ON-quest-Taking_the_Undaunted_Pledge.jpg) The Tome of the Undaunted
+- [![](https://images.uesp.net/thumb/0/0b/ON-concept-Undaunted_Porter_Scamp.jpg/200px-ON-concept-Undaunted_Porter_Scamp.jpg)](https://en.uesp.net/wiki/File:ON-concept-Undaunted_Porter_Scamp.jpg) Trained Porter Scamp
+- [](https://en.uesp.net/wiki/File:ON-icon-achievement-The_Alpha_Predator.png) Scroll of Glorious Battle
+- [![](https://images.uesp.net/thumb/8/83/ON-furnishing-Keg_of_Triumph%2C_Jeering_Clannfear_Beer.jpg/200px-ON-furnishing-Keg_of_Triumph%2C_Jeering_Clannfear_Beer.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Keg_of_Triumph,_Jeering_Clannfear_Beer.jpg) A keg crafted from a slain clannfear
+- [![](https://images.uesp.net/thumb/e/e5/ON-furnishing-Tankard_of_Undaunted_Victory%2C_Bone.jpg/200px-ON-furnishing-Tankard_of_Undaunted_Victory%2C_Bone.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tankard_of_Undaunted_Victory,_Bone.jpg) An Undaunted mug
+- [![](https://images.uesp.net/thumb/b/bf/ON-furnishing-Tankard_of_Undaunted_Victory%2C_Infernal.jpg/200px-ON-furnishing-Tankard_of_Undaunted_Victory%2C_Infernal.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tankard_of_Undaunted_Victory,_Infernal.jpg) An Undaunted mug
+- [![](https://images.uesp.net/thumb/8/89/ON-furnishing-Tankard_of_Undaunted_Victory%2C_Green.jpg/200px-ON-furnishing-Tankard_of_Undaunted_Victory%2C_Green.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tankard_of_Undaunted_Victory,_Green.jpg) An Undaunted mug
+- [![](https://images.uesp.net/thumb/a/a5/ON-furnishing-Garland_of_Undaunted_Trophies.jpg/200px-ON-furnishing-Garland_of_Undaunted_Trophies.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Garland_of_Undaunted_Trophies.jpg) A display of Undaunted loot
+- [![](https://images.uesp.net/thumb/3/38/ON-furnishing-Wind_Chimes%2C_Undaunted_Glory.jpg/200px-ON-furnishing-Wind_Chimes%2C_Undaunted_Glory.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Wind_Chimes,_Undaunted_Glory.jpg) Windchimes crafted from a fallen foe
+- [![](https://images.uesp.net/thumb/c/ce/ON-furnishing-Stuffed_Troll_Head%2C_Ivy-Adorned.jpg/200px-ON-furnishing-Stuffed_Troll_Head%2C_Ivy-Adorned.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Stuffed_Troll_Head,_Ivy-Adorned.jpg) A decorated troll's head
+
+## References
+1. [^](#cite_ref-The Undaunted_1-0) The [Undaunted](https://en.uesp.net/wiki/Online:Undaunted) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Lo Glory_2-0) [*Undaunted: A Life of Glory*](https://en.uesp.net/wiki/Lore:Undaunted__A_Life_of_Glory) — [Turuk Redclaws](Lore_Books_by_Author.md#Turuk_Redclaws)
+3. ^ <sup>***[a](#cite_ref-GRDialogue_3-0)***</sup><sup>***[b](#cite_ref-GRDialogue_3-1)***</sup><sup>***[c](#cite_ref-GRDialogue_3-2)***</sup> [Glirion the Redbeard](https://en.uesp.net/wiki/Online:Glirion_the_Redbeard)'s dialogue during [Taking the Undaunted Pledge](https://en.uesp.net/wiki/Online:Taking_the_Undaunted_Pledge) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-Ct B_4-0)***</sup><sup>***[b](#cite_ref-Ct B_4-1)***</sup><sup>***[c](#cite_ref-Ct B_4-2)***</sup> [Yisareh](https://en.uesp.net/wiki/Online:Yisareh)'s dialogue during [Casting the Bones](https://en.uesp.net/wiki/Online:Casting_the_Bones) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-MTC_5-0) [*Meet the Character - Yisareh*](https://en.uesp.net/wiki/Lore:Meet_the_Character_-_Yisareh) — [Glirion the Redbeard](Lore_Books_by_Author.md#Glirion_the_Redbeard)
+6. [^](#cite_ref-UQ_6-0) [Undaunted Quartermasters](https://en.uesp.net/wiki/Online:Undaunted_Quartermasters) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-USkill Lines_7-0)***</sup><sup>***[b](#cite_ref-USkill Lines_7-1)***</sup> [Undaunted Skill Line](https://en.uesp.net/wiki/Online:Undaunted#Skill_Perks) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-To TU_8-0) [*Tome of the Undaunted*](https://en.uesp.net/wiki/Lore:Tome_of_the_Undaunted)
+9. [^](#cite_ref-UVamp_9-0) [Ilmindil the Incendiary](https://en.uesp.net/wiki/Online:Ilmindil_the_Incendiary) Undaunted in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-UGhost_10-0) [Tubidan the Alarmist](https://en.uesp.net/wiki/Online:Tubidan_the_Alarmist), [Sahba the Bonecrusher](https://en.uesp.net/wiki/Online:Sahba_the_Bonecrusher) and [Savage Sehlena](https://en.uesp.net/wiki/Online:Savage_Sehlena) in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-OFTU_11-0) Events of [One of the Undaunted](https://en.uesp.net/wiki/Online:One_of_the_Undaunted) in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-TTUP_12-0) Events of [Taking the Undaunted Pledge](https://en.uesp.net/wiki/Online:Taking_the_Undaunted_Pledge) in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-TRAYQ_13-0) [*Turuk Redclaws Answers Your Questions*](https://en.uesp.net/wiki/Lore:Turuk_Redclaws_Answers_Your_Questions) — [Turuk Redclaws](Lore_Books_by_Author.md#Turuk_Redclaws)
+14. [^](#cite_ref-Serileth_14-0) [Serileth](https://en.uesp.net/wiki/Online:Serileth)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-GTTU_15-0) Events of [Glory of the Undaunted](https://en.uesp.net/wiki/Online:Glory_of_the_Undaunted) in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-UPledge_16-0) [Undaunted Pledges](https://en.uesp.net/wiki/Online:Undaunted#Pledges) in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-MSets_17-0) [Monster Sets](https://en.uesp.net/wiki/Online:Monster_Helm_Sets) in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-Und Furn_18-0) [Undaunted Trophies](https://en.uesp.net/wiki/Online:Gallery_Furnishings/Undaunted_Trophies) and [Undaunted Busts](https://en.uesp.net/wiki/Online:Gallery_Furnishings/Undaunted_Busts) in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-FEWear_19-0) [Fatemirror Evening Wear](https://en.uesp.net/wiki/Online:Fatemirror_Evening_Wear) [costume](https://en.uesp.net/wiki/Online:Costumes) in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. [^](#cite_ref-Undaunt Event_20-0) [Undaunted Celebration](https://en.uesp.net/wiki/Online:Undaunted_Celebration) in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-Opal_21-0) [Opal Undaunted Styles](https://en.uesp.net/wiki/Online:Opal_Undaunted_Styles) in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-Undaunt Reward_22-0) [Undaunted Celebration Furniture Rewards](https://en.uesp.net/wiki/Online:Undaunted_Celebration) in [ESO](https://en.uesp.net/wiki/Online:Online)
+23. [^](#cite_ref-SOGB_23-0) [Scrolls of Glorious Battle](https://en.uesp.net/wiki/Online:Group_Dungeons#Veteran_Difficulty) in [Group Dungeons](https://en.uesp.net/wiki/Online:Group_Dungeons) in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. [^](#cite_ref-GTR_24-0) [Glirion the Redbeard](https://en.uesp.net/wiki/Online:Glirion_the_Redbeard)'s dialogue during [Pledge](https://en.uesp.net/wiki/Online:Pledges) quests in [ESO](https://en.uesp.net/wiki/Online:Online)
+25. [^](#cite_ref-MAR_25-0) [Maj al-Ragath](https://en.uesp.net/wiki/Online:Maj_al-Ragath)'s dialogue during [Pledge](https://en.uesp.net/wiki/Online:Pledges) quests in [ESO](https://en.uesp.net/wiki/Online:Online)
+26. [^](#cite_ref-UCB_26-0) [Urgarlag Chief-bane](https://en.uesp.net/wiki/Online:Urgarlag_Chief-bane)'s dialogue during [Pledge: Moon Hunter Keep](https://en.uesp.net/wiki/Online:Pledge:_Moon_Hunter_Keep), [Pledge: Bloodroot Forge](https://en.uesp.net/wiki/Online:Pledge:_Bloodroot_Forge) and [Pledge: Scalecaller Peak](https://en.uesp.net/wiki/Online:Pledge:_Scalecaller_Peak) in [ESO](https://en.uesp.net/wiki/Online:Online)
+27. [^](#cite_ref-Pledge Deadlands_27-0) Events of [Return to Ash](https://en.uesp.net/wiki/Online:Return_to_Ash) in [ESO](https://en.uesp.net/wiki/Online:Online)
+28. [^](#cite_ref-Pledge Coldharbour_28-0) Events of [Mind of Madness](https://en.uesp.net/wiki/Online:Mind_of_Madness) in [ESO](https://en.uesp.net/wiki/Online:Online)
+29. [^](#cite_ref-Pledge Clockwork City_29-0) Events of [Saints' Mercy](https://en.uesp.net/wiki/Online:Saints%27_Mercy) in [ESO](https://en.uesp.net/wiki/Online:Online)
+30. [^](#cite_ref-Pack Scamp_30-0) [Undaunted Porter Scamp](https://en.uesp.net/wiki/Online:Undaunted_Porter_Scamp) pet in [ESO](https://en.uesp.net/wiki/Online:Online)

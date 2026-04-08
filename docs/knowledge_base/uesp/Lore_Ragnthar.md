@@ -1,0 +1,31 @@
+# Ragnthar
+
+| Ragnthar | |
+| --- | --- |
+| Type | Dwemer Ruin |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Ragnthar) |
+
+[![](https://images.uesp.net/thumb/b/bc/ON-interior-Ragnthar.jpg/200px-ON-interior-Ragnthar.jpg)](https://en.uesp.net/wiki/File:ON-interior-Ragnthar.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Ragnthar.jpg) Ragnthar Ragnthar is a [Dwemer ruin](Lore_Dwemer_Ruins.md) that exists outside space and time. It is believed to have once been built into the mountains of [Hammerfell](Lore_Hammerfell.md) until the Dwemer performed a "Temporospatial Claudication", a twisting of time and space, and entering it means to cross a threshold that leaves [Nirn](Lore_Nirn.md). It has multiple entrances throughout Tamriel.<sup>[[1]](#cite_note-TSCo R-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/a/a5/ON-quest-Proving_the_Deed_02.jpg/200px-ON-quest-Proving_the_Deed_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-Proving_the_Deed_02.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Proving_the_Deed_02.jpg) Aelif questions the spirit of Jofnir Iceblade Early on, Ragnthar was originally no different from most Dwemer cities, with evidence of its design and nature indicating that it was once built into the mountainside of Hammerfell, but no precise origin point has been found.<sup>[[1]](#cite_note-TSCo R-1)</sup> The gears found within are similar to that of Mzeneldt, another ruin in Hammerfell.<sup>[[2]](#cite_note-Pt D-2)</sup> At some point, the Dwemer expended enormous amounts of magical energy required to remove a complex from known reality, twisting it out of time and space through into a state of temporospatial claudication past the threshold of Nirn.<sup>[[1]](#cite_note-TSCo R-1)</sup><sup>[[3]](#cite_note-Akhita-3)</sup> It is thought that they sought to quantify mystical absolutes, enabling them to manipulate the substance of reality without employing the intercession of divinities.<sup>[[4]](#cite_note-Load-4)</sup> The Dwemer themselves later disappeared, leaving Ragnthar's secrets a mystery.
+
+The [Mages Guild](Lore_Mages_Guild.md) had conducted archeological expeditions into the ruins sometime during the early [Second Era](Lore_Second_Era.md), uncovering many artifacts from it and researching its temporospatial claudication.<sup>[[3]](#cite_note-Akhita-3)</sup> During the start of the Planemeld, Jofnir Iceblade visited Ragnthar to meet with Sees-All-Colors. The Dwemer constructs functioned as a way to set watch and keep the place safe from visitors, as Jofnir did not want interruptions.<sup>[[5]](#cite_note-Jo Jo-5)</sup> Sees-All-Colors tried to persuade Jofnir to mobilize the Guild against the Dark Anchors appearing around the continent, but he would not listen, prompting her to murder him and usurp his position.<sup>[[6]](#cite_note-SAC-6)</sup> Sees-All-Colors put a magical shield on Jofnir's body, a protective barrier on the entrance, and left an Auroran to keep guard to cover her tracks.<sup>[[2]](#cite_note-Pt D-2)</sup>
+
+Tracking Jofnir's location, the Vestige and Aelif found themselves at one of Ragnthar's sealed entrances in Tamriel. Using magic, Aelif managed to break the barrier on the door. Upon finding Jofnir's body with his guild insignia, the shield was activated, and together they dispelled it by breaking the soul gems powering it. Aelif summoned Jofnir's spirit, who in exchange for his freedom told them that Sees-All-Colors murdered him and the barrier kept him from communicating, but unbeknownst to the guild Aelif kept his soul bound to her for her own purposes.<sup>[[7]](#cite_note-Jo Jo IB-7)</sup><sup>[[8]](#cite_note-Ma A-8)</sup> They then left the ruins to report back to the guild council with details of Jofnir's murder.<sup>[[2]](#cite_note-Pt D-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/c1/ON-place-Ragnthar_%28Alik%27r_Desert%29.jpg/200px-ON-place-Ragnthar_%28Alik%27r_Desert%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Ragnthar_(Alik%27r_Desert).jpg) Alik'r Desert entrance
+- [![](https://images.uesp.net/thumb/9/9a/ON-place-Ragnthar_%28Eastmarch%29.jpg/200px-ON-place-Ragnthar_%28Eastmarch%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Ragnthar_(Eastmarch).jpg) Eastmarch entrance
+- [![](https://images.uesp.net/thumb/5/57/ON-place-Ragnthar_%28Malabal_Tor%29.jpg/200px-ON-place-Ragnthar_%28Malabal_Tor%29.jpg)](https://en.uesp.net/wiki/File:ON-place-Ragnthar_(Malabal_Tor).jpg) Malabal Tor entrance
+- [![](https://images.uesp.net/thumb/c/cb/ON-quest-Proving_the_Deed.jpg/200px-ON-quest-Proving_the_Deed.jpg)](https://en.uesp.net/wiki/File:ON-quest-Proving_the_Deed.jpg) Sees-All-Colors magical barrier
+
+## References
+1. ^ <sup>***[a](#cite_ref-TSCo R_1-0)***</sup><sup>***[b](#cite_ref-TSCo R_1-1)***</sup><sup>***[c](#cite_ref-TSCo R_1-2)***</sup> [*The Strange Case of Ragnthar*](Lore_The_Strange_Case_of_Ragnthar.md) — [Guylaine Marilie](Lore_Books_by_Author.md#Guylaine_Marilie)
+2. ^ <sup>***[a](#cite_ref-Pt D_2-0)***</sup><sup>***[b](#cite_ref-Pt D_2-1)***</sup><sup>***[c](#cite_ref-Pt D_2-2)***</sup> [Proving the Deed](https://en.uesp.net/wiki/Online:Proving_the_Deed) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Akhita_3-0)***</sup><sup>***[b](#cite_ref-Akhita_3-1)***</sup> [Akhita](https://en.uesp.net/wiki/Online:Akhita)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Load_4-0) [Ragnthar](https://en.uesp.net/wiki/Online:Ragnthar) [Loading Screen](https://en.uesp.net/wiki/Online:Loading_Screens/Unzoned)
+5. [^](#cite_ref-Jo Jo_5-0) [*Jofnir's Journal*](https://en.uesp.net/wiki/Online:Jofnir%27s_Journal_(Fort_Amol)) — [Jofnir Iceblade](https://en.uesp.net/wiki/Online:Jofnir_Iceblade)
+6. [^](#cite_ref-SAC_6-0) [Sees-All-Colors](https://en.uesp.net/wiki/Online:Sees-All-Colors)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-Jo Jo IB_7-0) [Jofnir Iceblade](https://en.uesp.net/wiki/Online:Jofnir_Iceblade)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-Ma A_8-0) [Merric at-Aswala](https://en.uesp.net/wiki/Online:Merric_at-Aswala)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

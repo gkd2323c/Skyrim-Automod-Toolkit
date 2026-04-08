@@ -1,0 +1,41 @@
+# The Alik'r
+
+| Book Information | |
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Daggerfall](https://en.uesp.net/wiki/Daggerfall:The_Alik%27r) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:The_Alik%27r) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Alik%27r_(Second_Era)) |
+
+The Alik'r **by [Enric Milres](Lore_Books_by_Author.md#Enric_Milres)** *A description of time spent in the Alik'r Desert*
+---
+This page is for the version appearing in [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Daggerfall) and [*Skyrim*](Skyrim_Skyrim.md). The penultimate paragraph is different in [*ESO*](https://en.uesp.net/wiki/Online:Elder_Scrolls_Online). In *Daggerfall* and *Skyrim*, it refers to war with the [kingdom of Daggerfall](Lore_Daggerfall_(kingdom).md); in *ESO*, it refers to war with the [Ebonheart Pact](Lore_Ebonheart_Pact.md) and the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md).
+
+---
+I might never have gone to the [Alik'r](Lore_Alik%27r.md) Desert had I not met [Weltan](Lore_Weltan.md) in a little tavern in [Sentinel](Lore_Sentinel.md). Weltan is a [Redguard](Lore_Redguard.md) poet whose verse I had read, but only in translation. He chooses to write in the old language of the Redguards, not in Tamrielic. I once asked him why.
+
+"The [Tamrielic](Lore_Tamrielic.md) word for the divinely rich child of rot, silky, pressed sour milk is … cheese," said Weltan, a huge smile spreading like a tide over his lampblack face. "The [Old Redguard](Lore_Yoku.md) word for it is mluo. Tell me, if you were a poet fluent in both languages, which word would you use?"
+
+I am a child of the cities, and I would tell him tales of the noise and corruption, wild nights and energy, culture and decadence. He listened with awed appreciation of the city of my birth: white-marbled [Imperial City](Lore_Imperial_City.md) where all the citizenry are convinced of their importance because of the proximity of the Emperor and the lustration of the streets. They say that a beggar on the boulevards of the Imperial City is a man living in a palace. Over spiced ale, I regaled Weltan with descriptions of the swarming marketplace of [Riverhold](Lore_Riverhold.md); of dark, brooding [Mournhold](Lore_Mournhold.md); of the mold-encrusted villas of [Lilmoth](Lore_Lilmoth.md); the wonderful, dangerous alleys of [Helstrom](Lore_Helstrom.md); the stately avenues of grand old [Solitude](Lore_Solitude.md). For all this, he marvelled, inquired, and commented.
+
+"I feel as if I know your home, the Alik'r Desert, from your poems even though I've never been there." I told him.
+
+"Oh, but you don't. No poem can express the Alik'r. It may prepare you for a visit far better than the best guide book can. But if you want to know [Tamriel](Lore_Tamriel.md) and be a true citizen of the planet, you must go and feel the desert yourself."
+
+It took me a little over a year to break off engagements, save money (my greatest challenge), and leave the urban life for the Alik'r Desert. I brought several books of Weltan's poems as my travel guide.
+
+"A sacred flame rises above the fire, The ghosts of great men and women without names, Cities long dead rise and fall in the flame, The Dioscori Song of Revelation, Bursting walls and deathless rock, Fiery sand that heals and destroys."
+
+These first six lines from my friend's "[On the Immortality of Dust](Lore_On_the_Immortality_of_Dust.md)" prepared me for my first image of the Alik'r Desert, though they hardly do it justice. My poor pen cannot duplicate the severity, grandeur, ephemera and permanence of the Alik'r.
+
+All the principalities and boundaries the nations have placed on the land dissolve under the moving sand in the desert. I could never tell if I was in [Antiphyllos](Lore_Antiphyllos.md) or [Bergama](Lore_Bergama_(barony).md), and few of the inhabitants could tell me. For them, and so it came to me, we were simply in the Alik'r. No. We are part of the Alik'r. That is closer to the philosophy of the desert people.
+
+I saw the sacred flame of which Weltan wrote on my first morning in the desert: a vast, red mist that seemed to come from the deep mystery of Tamriel. Long before the noon sun, the mist had disappeared. Then I saw the cities of Weltan. The ruins of the Alik'r rise from the sand by one blast of the unbounded wind and are covered by the next. Nothing in the desert lasts, but nothing dies forever.
+
+At daylight, I hid myself in tents, and thought about the central character of the Redguards that would cause them to adopt this savage, eternal land. They are warriors by nature. As a group, there are none better. Nothing for them has worth unless they have struggled for it. No one fought them for the desert, but the Alik'r is a great foe. The battle goes on. It is a war without rancor, a holy war in the sense the phrase should always imply.
+
+By night, I could contemplate the land itself in its relative serenity. But the serenity was superficial. The stones themselves burned with a heat and a light that comes not from the sun, nor the moons [Jone](Lore_Jone.md) and [Jode](Lore_Jode.md). The power of the stones comes from the beat of the heart of Tamriel itself.
+
+Two years I spent in the Alik'r.
+
+As write this, I am back in Sentinel. We are at war with the kingdom of [Daggerfall](Lore_Daggerfall_(kingdom).md) for the possession of a [grass-covered rock](Lore_Betony.md) that belongs to the water of the [Iliac Bay](Lore_Iliac_Bay.md). All my fellow poets, writers, and artists are despondent for the greed and pride that brought these people into battle. It is a low point, a tragedy. In the words of Old Redguard, an ajcea, a spiral down.
+
+Yet, I cannot be sorrowful. In the years I spent in the glories of the Alik'r, I have seen the eternal stones that live on while men go dead. I have found my inner eye in the tractless, formless, changeless and changeable land. Inspiration and hope, like the stones of the desert, are eternal though men be not.

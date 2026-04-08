@@ -1,0 +1,3 @@
+# MQSovngardeCombatDialogueFaction
+
+Redirects to [MQSovngardeCombatDialogueFaction](Skyrim_Factions_O.md#MQSovngardeCombatDialogueFaction).

@@ -1,0 +1,22 @@
+# Cold Flame of Agnon
+
+
+The flame originates from its shrine at [Cylarne](https://en.uesp.net/wiki/Lore:Cylarne), the original capital of the Isles. Cylarne was destroyed during a previous [Greymarch](Lore_Greymarch.md) and is now counted among the many [Predecessor ruins](https://en.uesp.net/wiki/Lore:Predecessor_Ruins) that dot the realm. When lit, the Flame emanates from a central pillar, glowing both orange and aquamarine to represent the duality of [Mania](Lore_Mania.md) and [Dementia](Lore_Dementia_(place).md). The orange flame is fed from the Altar of Rapture, guarded by the [Aureal](https://en.uesp.net/wiki/Lore:Aureal) and located within the surface ruins. The aquamarine flame is fed from the Altar of Despair, guarded by the [Mazken](https://en.uesp.net/wiki/Lore:Mazken) in Cylarne's subterranean Underdeep.<sup>[[1]](#cite_note-SICold-1)</sup>
+
+The Altars of Rapture and Despair can only be ignited by the ritual self-sacrifice of one of Sheogorath's immortal servants. The Aureal and Mazken, in their efforts to please Lord [Sheogorath](Lore_Sheogorath.md), are locked in an eternal battle to gain control of both altars for the honor of serving as sacrifice.<sup>[[1]](#cite_note-SICold-1)</sup> At Sheogorath's command, his servants leap to sacrifice themselves upon the Altars.<sup>[[2]](#cite_note-2)</sup>
+
+Generally, there is no need to reignite the Great Torch. It shines above New Sheoth as a symbol of hope for the city's mortal inhabitants. It is lit from the Sacellum [Arden-Sul](https://en.uesp.net/wiki/Lore:Arden-Sul), which possesses two braziers. The color of the Torch's flame differs depending on which of the two braziers is lit.<sup>[[1]](#cite_note-SICold-1)</sup> This is determined at the whim of Sheogorath. When the Mad God favors the Manic district of [Bliss](Lore_Bliss_(place).md), the flame burns orange. When it burns aquamarine, Sheogorath instead favors [Crucible](https://en.uesp.net/wiki/Lore:Crucible).<sup>[[3]](#cite_note-3)</sup> The residents of either district celebrate accordingly.<sup>[[4]](#cite_note-4)</sup>
+
+The extinguishment of the Great Torch is one of the first signs of an impending Greymarch. Circa [3E 433](Lore_Third_Era.md#3E_433), Sheogorath ordered the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) to relight the Flame at Cylarne and reignite the Great Torch, to prevent New Sheoth's citizenry from losing hope and potentially defecting to the [Forces of Order](https://en.uesp.net/wiki/Lore:Forces_of_Order).<sup>[[5]](#cite_note-5)</sup> The Hero carried the Flame back to New Sheoth by stepping into the brazier, setting their entire body alight with the cold flame.<sup>[[1]](#cite_note-SICold-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/6c/SI-place-New_Sheoth.jpg/200px-SI-place-New_Sheoth.jpg)](https://en.uesp.net/wiki/File:SI-place-New_Sheoth.jpg) The Great Torch of New Sheoth
+- [![](https://images.uesp.net/thumb/6/64/LG-cardart-Altar_of_Despair.png/200px-LG-cardart-Altar_of_Despair.png)](https://en.uesp.net/wiki/File:LG-cardart-Altar_of_Despair.png) The Altar of Despair
+- [![](https://images.uesp.net/thumb/5/5a/OBR-place-Cylarne_02.jpg/200px-OBR-place-Cylarne_02.jpg)](https://en.uesp.net/wiki/File:OBR-place-Cylarne_02.jpg) The Altar of Rapture
+
+## References
+1. ^ <sup>***[a](#cite_ref-SICold_1-0)***</sup><sup>***[b](#cite_ref-SICold_1-1)***</sup><sup>***[c](#cite_ref-SICold_1-2)***</sup><sup>***[d](#cite_ref-SICold_1-3)***</sup><sup>***[e](#cite_ref-SICold_1-4)***</sup> [The Cold Flame of Agnon](https://en.uesp.net/wiki/Shivering:The_Cold_Flame_of_Agnon) quest in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+2. [^](#cite_ref-2) [Haskill](https://en.uesp.net/wiki/Shivering:Haskill)'s dialogue in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+3. [^](#cite_ref-3) [Sacellum Arden-Sul](https://en.uesp.net/wiki/Shivering:Sacellum_Arden-Sul) after becoming Sheogorath in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+4. [^](#cite_ref-4) [New Sheoth](https://en.uesp.net/wiki/Shivering:New_Sheoth) dialogue in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+5. [^](#cite_ref-5) [Sheogorath](https://en.uesp.net/wiki/Shivering:Sheogorath)'s dialogue in *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*

@@ -1,0 +1,54 @@
+# Dainty Sload
+
+This article is about the ship. For the quest, see [The Dainty Sload](https://en.uesp.net/wiki/Skyrim:The_Dainty_Sload).
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Shipwreck.png) \| Ship: <br> Dainty Sload <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dainty+Sload)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Shipwreck.png) | Ship: <br> Dainty Sload <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dainty+Sload)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Shipwreck.png) | Ship: <br> Dainty Sload <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dainty+Sload)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days or 30 days | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 8 | |
+| Occupants | | |
+| [Corsairs](Skyrim_Corsair.md), [First Mate](Skyrim_First_Mate.md) | | |
+| Important Treasure | | |
+| *[A Dance in Fire, v6](Skyrim_A_Dance_in_Fire,_v6.md)* <br> [Unusual Gem](Skyrim_Unusual_Gem.md) | | |
+| Console Location Code(s) | | |
+| Dainty Sload Exterior01, Dainty Sload Exterior02, Dainty Sload01 | | |
+| Region | | |
+| [Haafingar](Skyrim_Haafingar.md) | | |
+| Location | | |
+| North of [Solitude](Skyrim_Solitude.md) <br> Southwest of [Solitude Lighthouse](https://en.uesp.net/wiki/Skyrim:Solitude_Lighthouse) | | |
+
+[![](https://images.uesp.net/thumb/9/99/SR-place-Dainty_Sload.jpg/200px-SR-place-Dainty_Sload.jpg)](https://en.uesp.net/wiki/File:SR-place-Dainty_Sload.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dainty_Sload.jpg) The Dainty Sload The **Dainty Sload** is a [ship](https://en.uesp.net/wiki/Skyrim:Shipwrecks) docked north of [Solitude](Skyrim_Solitude.md).
+
+The ship is currently docked for supplies. It has one interior zone: the *[Dainty Sload](#Dainty_Sload)*.
+
+## Related Quests
+- **[The Dainty Sload](https://en.uesp.net/wiki/Skyrim:The_Dainty_Sload)**: Frame a ship's captain to get revenge for a [jilted merchant](Skyrim_Erikur.md).
+- **[No Stone Unturned](Skyrim_No_Stone_Unturned.md)**: Find the [24 gems](Skyrim_Unusual_Gem.md) to restore the Crown of Barenziah.
+
+## Walkthrough
+
+### Exterior
+[![](https://images.uesp.net/thumb/8/8a/SR-place-Dainty_Sload_02.jpg/200px-SR-place-Dainty_Sload_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Dainty_Sload_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dainty_Sload_02.jpg) Sload figurehead The Dainty Sload's topside deck is guarded by two [corsairs](Skyrim_Corsair.md): one sits or stands looking out to sea, while another roams the deck. If you wish to avoid them, wait until the roaming corsair disappears behind the cabin and slip through the unlocked door. There are numerous sacks and barrels on-deck containing a mixture of [ingredients](Skyrim_Ingredients.md) and [foodstuffs](Skyrim_Food.md). You can also find a [woodcutter's axe](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe) and to the right of the entrance to the cabin there are two bottles of [skooma](https://en.uesp.net/wiki/Skyrim:Skooma) on top of a crate. Against the port-side railing are two open crates; one contains five [giant lichen](Skyrim_Giant_Lichen.md) and the other several [cabbages](Skyrim_Cabbage.md). On shore by the start of the jetty is a [deathbell](Skyrim_Deathbell.md) bush and two patches of [spiky grass](Skyrim_Grass_Pod.md).
+
+### Dainty Sload
+[![](https://images.uesp.net/thumb/2/2b/SR-interior-Dainty_Sload_02.jpg/200px-SR-interior-Dainty_Sload_02.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dainty_Sload_02.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dainty_Sload_02.jpg) One of the corsairs If your [Sneak](Skyrim_Sneak.md) skill is fairly high, then it is a quite easy to slip past all of the corsairs that wait below-decks. To the right of the entrance is a rare [fur helmet](Skyrim_Fur_Helmet.md) and set of [fur armor](Skyrim_Fur_Armor.md) on a sideboard and crate. Next to this is a cupboard with a [knapsack](Skyrim_Knapsack.md), a woodcutter's axe and [iron mace](Skyrim_Iron_Mace.md) on the shelves, and an unlocked [chest](Skyrim_Chest.md). Turning around at the bottom of the stairs, you will find a kitchen of sorts on the left with quite a few items of food in barrels and open crates. One of the open crates contains a [gourd](Skyrim_Gourd.md), [fly amanita](Skyrim_Fly_Amanita.md) and a [rock warbler egg](https://en.uesp.net/wiki/Skyrim:Rock_Warbler_Egg), while the other contains [bread](Skyrim_Bread.md) and cheese. There is a table and chairs where two corsairs sit. Behind them is a cupboard with an [iron helmet](Skyrim_Iron_Helmet.md) on the shelf and a sideboard beside the table with a [salt pile](https://en.uesp.net/wiki/Skyrim:Salt_Pile), a bottle of [alto wine](Skyrim_Alto_Wine.md) and a common [book](Skyrim_Books.md) on top. Following the linear passage, there is an open door with a random [weapon](Skyrim_Weapons.md) on the floor to the left. Through the door and past another table with bread, cheese, and a [tomato](https://en.uesp.net/wiki/Skyrim:Tomato) on top, and behind among a stack of crates is a [lute](https://en.uesp.net/wiki/Skyrim:Lute). You will come to a room on the left with a sleeping corsair inside who will wake shortly after the door is opened. In this room is an unowned single bed, an end table with a set of [clothes](Skyrim_Clothes.md) on top and a pair of [boots](Skyrim_Boots.md) beside it, and a sideboard with three bulbs of [garlic](Skyrim_Garlic.md), a gourd, a bunch of [tundra cotton](https://en.uesp.net/wiki/Skyrim:Tundra_Cotton) and a single loose [septim](Skyrim_Gold.md) on top. Past this room is a set of shelves holding several small mead barrels, two bottles of [Nord mead](https://en.uesp.net/wiki/Skyrim:Nord_Mead), and a bottle of [wine](https://en.uesp.net/wiki/Skyrim:Wine).
+
+Following the passage to the waterlogged bowels of the ship brings you to the last corsair on board. Under the stairs just descended is an unlocked chest, and to the right of the room are two [garlic braids](Skyrim_Garlic_Braid.md) and a bunch of [dried frost mirriam](Skyrim_Dried_Frost_Mirriam.md). Opposite these, on top of a barrel is a [pickaxe](https://en.uesp.net/wiki/Skyrim:Pickaxe). Through the door at the far end is a set of shelves straight ahead, holding a [draught of strength](Skyrim_Draught_of_Strength.md), a [potion of health](https://en.uesp.net/wiki/Skyrim:Potion_of_Health), a [potion of regeneration](https://en.uesp.net/wiki/Skyrim:Potion_of_Regeneration), two bunches of [lavender](Skyrim_Lavender.md), and a common book. To the left is an adept-locked chest. On top of the end table in the corner to the right is another fur helmet and [fur shoes](Skyrim_Fur_Shoes.md).
+
+[![](https://images.uesp.net/thumb/0/05/SR-interior-Dainty_Sload.jpg/200px-SR-interior-Dainty_Sload.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dainty_Sload.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dainty_Sload.jpg) The First Mate onboard Follow the passage all the way to the end to face the [first mate](Skyrim_First_Mate.md), who will be found sitting at a table facing away from you. On the table is an [unusual gem](Skyrim_Unusual_Gem.md), a random [poison](Skyrim_Poison.md), a bottle of alto wine, two [empty wine bottles](Skyrim_Empty_Wine_Bottle.md), a deathbell flower, three copies of *[The Firmament](https://en.uesp.net/wiki/Skyrim:The_Firmament)*, a plate of [horker loaf](Skyrim_Horker_Loaf.md) and a [green apple](Skyrim_Green_Apple.md), a loaf of bread and a copy of the [Speech](Skyrim_Speech.md) [skill book](Skyrim_Skill_Books.md) *[A Dance in Fire, v6](Skyrim_A_Dance_in_Fire,_v6.md)*. Just before the first mate, there is another unowned bed on the right and end table opposite with a set of [fine clothes](Skyrim_Fine_Clothes.md) on top and a pair of [fine boots](Skyrim_Fine_Boots.md) beside the bed. The captain's chest can be unlocked with the [Dainty Sload footlocker key](https://en.uesp.net/wiki/Skyrim:Dainty_Sload_Footlocker_Key), which is carried by the first mate. Backtrack to the captain's chest. If you are here during the [related quest](https://en.uesp.net/wiki/Skyrim:The_Dainty_Sload) the captain's chest is where you need to place the [Balmora Blue](Skyrim_Balmora_Blue.md). Beside this a cupboard with [fur bracers](Skyrim_Fur_Bracers.md), a food sack, a deathbell flower, a basket containing a bunch of tundra cotton, five common books, and an empty [strongbox](https://en.uesp.net/wiki/Skyrim:Strongbox) on the shelves, with another pair of fur shoes on the floor beside it. Continue backtracking to a dining table laid with fine crockery, holding two [seared slaughterfish](https://en.uesp.net/wiki/Skyrim:Seared_Slaughterfish) steaks, three [salmon steaks](https://en.uesp.net/wiki/Skyrim:Salmon_Steak), two bottles of alto wine, a [baked potato](Skyrim_Baked_Potatoes.md), bread and cheese, a bunch of tundra cotton and a potion of regeneration.
+
+## Notes
+- On the other side of the rocks by the plants is an [iron ore vein](Skyrim_Iron_Ore_Vein.md).
+- During the quest, you can kill everyone on the ship, including the First Mate, with no repercussions at all.
+- If the corsairs and the First Mate have been killed prior to the quest [The Dainty Sload](https://en.uesp.net/wiki/Skyrim:The_Dainty_Sload), the ship will fully reset, giving you a chance to double your loot.
+- The Balmora Blue that you need to plant in the Captain's Chest during the quest The Dainty Sload is never removed from the chest after planting it there. The Balmora Blue also loses its quest item status afterwards, allowing you to take it back out of the Captain's Chest.
+- During [Diplomatic Immunity](Skyrim_Diplomatic_Immunity.md), anyone who escapes the [Thalmor Embassy](Skyrim_Thalmor_Embassy.md) with you will eventually end up close to the ship and disappear if not killed in a hostile random encounter. Their deaths can also be avoided by fast-traveling once you are outside Reeking Cave.
+- The corsairs may carry [scimitars](https://en.uesp.net/wiki/Skyrim:Scimitar), which are otherwise quite difficult to find.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/7e/SR-map-Dainty_Sload.jpg/200px-SR-map-Dainty_Sload.jpg)](https://en.uesp.net/wiki/File:SR-map-Dainty_Sload.jpg) Dainty Sload
+- [![](https://images.uesp.net/thumb/3/35/SR-place-Dainty Sload_Stone Location.jpg/200px-SR-place-Dainty Sload_Stone Location.jpg)](https://en.uesp.net/wiki/File:SR-place-Dainty Sload_Stone Location.jpg) Location of Unusual Gem
+- [![](https://images.uesp.net/thumb/3/3a/LO-misc-Sload_figurehead.jpg/200px-LO-misc-Sload_figurehead.jpg)](https://en.uesp.net/wiki/File:LO-misc-Sload_figurehead.jpg) Figurehead upclose

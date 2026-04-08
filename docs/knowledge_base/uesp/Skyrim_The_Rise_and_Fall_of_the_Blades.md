@@ -1,0 +1,42 @@
+# The Rise and Fall of the Blades
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book6.png) Book Information <br> *The Rise and Fall of the Blades* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0F4530 | | |
+| See Also | [Lore version](Lore_The_Rise_and_Fall_of_the_Blades.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 11 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 3 | | |
+| Locations | | | |
+| Found in the following locations: - [College of Winterhold](Skyrim_College_of_Winterhold_(place).md), [Arcanaeum](Skyrim_The_Arcanaeum.md), on a table <br> - [High Hrothgar](Skyrim_High_Hrothgar.md), in the living area <br> - [The Katariah](Skyrim_The_Katariah.md), [Emperor's Quarters](Skyrim_The_Katariah.md#Emperor.27s_Quarters), on a sideboard behind the chair <br> - [Ratway Warrens](Skyrim_The_Ratway_Warrens.md), on a nightstand near the bed in [Esbern](Skyrim_Esbern.md)'s room | | | |
+
+The Rise and Fall of the Blades **by Anonymous** *On the Blades' origins and their fate* *
+---
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+here are many that still remember the [Blades](Skyrim_Blades.md). There are fewer that can pass down their stories, their origins and their downfall. My father could. In his proudest moments he said to me, "You keep secrets like the Blades."
+
+The Blades were good at keeping secrets. They didn't write down much. They passed information carefully between their spies in every province, to their elite members that protected the Emperors. Even amongst their members, they kept much secret.
+
+Most associate the Blades with their ceremonial [Akaviri](Lore_Akavir.md) armor and curved longswords. One can trace the Blades back to the fiercest warriors of Akavir, the Dragonguard. It was there, just as they would do in [Tamriel](Lore_Tamriel.md), that they protected rulers and their kingdom. But recent discoveries show it to be much more than that.
+
+Many classic texts tell us of adventures to Akavir, known as the dragon lands of the east. Many from Tamriel have attempted to conquer it, most famously [Emperor Uriel V](Lore_Uriel_Septim_V.md) and his [Tenth Legion](Lore_Tenth_Legion.md) in [3E288](Lore_Third_Era.md#3E_288) as documented in the Imperial dispatch "[Disaster at Ionith](Lore_Report__Disaster_at_Ionith.md)." [Dragon](Skyrim_Dragon.md) have long been legend in Akavir, and many believe that their brief appearance in Tamriel's history are those that escaped Akaviri *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*, for it was there they were hunted and killed off by the Dragonguard. The Dragonguard would follow those that fled to Tamriel in the late [1st Era](Lore_First_Era.md).
+
+Invading from the north, the Dragonguard met not only dragons, but the men of [Skyrim](Lore_Skyrim.md), who don't meet invasions with pitchers of mead. The Dragonguard cut a path through Skyrim, and it was not until they were stopped by [Reman Cyrodiil](Lore_Reman_Cyrodiil.md) during the battle at [Pale Pass](Skyrim_Pale_Pass.md) that the invasion came to an end. It was Reman who united the human lands of [Cyrodiil](Lore_Cyrodiil.md) and defeated the Akaviri invaders.
+
+Reman is one of the first documented, and widely accepted, of the mythic [Dragonborn](Lore_Dragonborn.md); those anointed by [Akatosh](Lore_Akatosh.md) and [Alessia](Lore_Alessia.md) themselves. "Born with the soul of a dragon" is what his followers would say. Reports differ widely on the nature of the battle at Pale Pass. But the end result is the same, that the remaining Dragonguard, upon hearing the voice of Reman Cyrodiil, knelt and swore their lives to him, their conqueror and savior. Fragments of from late 1st era texts refer to the warriors dropping to their knees saying "we were not hunting" (or "did not intend", author - rough translation), continuing "we have been searching, for you."
+
+They protected Reman with their lives, as well as his descendants, as the [Reman Dynasty](Lore_Reman_Dynasty.md) ushered in Tamriel's [2nd era](Lore_Second_Era.md). It was through these years that their reach extended, and their order grew to become the Blades. Their conquest of the dragons complete, they only sought to protect the Dragonborn, and through him, the [Empire](Lore_Empire.md).
+
+They reached their height late during the [3rd era](Lore_Third_Era.md) under the rule of the [Septim](Lore_Septim_Dynasty.md) emprors *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. Despite their numbers, they kept their secrecy. The most visible and well documented were the members who personally guarded the Emperor, still wearing the original Akaviri armor. But that was the just the tip of the spear, for the Blades were a larger organization, stretching to every corner of Tamriel. These agents were of every race. They were merchants, thieves, craftsman, mages, and warriors, all acting as spies, protecting the Empire as needed, and operating in secret. They often acted alone, but some fragments speak of them meeting in secret fortresses across the continent. The most famous being Cyrodiil's [Cloud Ruler Temple](Lore_Cloud_Ruler_Temple.md), where they hung the swords of those slain protecting the Dragonborn. Other maps speak of [Wind Scour Temple](Lore_Wind_Scour_Temple.md) under the great expanse of [Hammerfell](Lore_Hammerfell.md)'s [Alik'r desert](Lore_Alik%27r_Desert.md), [Sky Haven Temple](Skyrim_Sky_Haven_Temple.md) in the mountains of Skyrim, and [Storm Talon Temple](Lore_Storm_Talon_Temple.md) east of [Wayrest](Lore_Wayrest.md).
+
+They were known to have a "Grandmaster", who often lived amongst the people, unknown to others. The nature of their communications, meeting places, and missions were known to only a few elite members. The only two to know all were the Grandmaster himself and the Chronicler, whose only job was to make sure the group's mission was never known, but never lost.
+
+With the death of [Uriel Septim VII](Lore_Uriel_Septim_VII.md) and his son, [Martin](Lore_Martin_Septim.md), the 3rd era came to a close with the Blades fortifying themselves deep within Cyrodiil's Cloud Ruler Temple, as they waited for a Dragonborn to return when they would be called upon again.
+
+The Empire of the [4th era](Lore_Fourth_Era.md) no longer saw the Blades openly protecting it, or the Emperors. That role is now filled by the [Penitus Oculatus](Skyrim_Penitus_Oculatus.md), a purely [Imperial](Skyrim_Imperial.md) organization. But the Blades continued their secret work, to watch for the Dragonborn and guard against future enemies. The Blades were among the first to see the signs that the [Thalmor](Skyrim_Thalmor.md) of the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) would not remain isolated within their borders forever. They could do what the Penitus Oculatus, servant to Imperial policy, could not, and thus earned the lasting hatred of the Thalmor.
+
+The warnings of the Blades were proved right, as is well known to all. The [Great War](Lore_Great_War.md) between the Empire and the Thalmor consumed the Empire and nearly destroyed it. Emperor [Titus Mede II](Skyrim_Emperor_Titus_Mede_II_(real).md) eventually brokered peace with the Thalmor, but at a price many of us still bear.
+
+The reach and destructive nature of the Thalmor is known to many (author's note - in my family firsthand). They are not fools. They knew early on that the Blades were an enemy. So they hunted them throughout the Great War. Some were killed defending their Temples, others as they slept in their hideaways, alone. Some fought, some ran, some hid. But the Thalmor found them all.
+
+There are those that say the Blades still exist around us, in hiding from the Thalmor. Waiting as they have done time and time again, for a Dragonborn to return. For one to protect, for one to guide them.

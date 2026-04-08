@@ -1,0 +1,3 @@
+# MarriageLoveInterestWitnessFaction
+
+Redirects to [MarriageLoveInterestWitnessFaction](Skyrim_Factions_M.md#MarriageLoveInterestWitnessFaction).

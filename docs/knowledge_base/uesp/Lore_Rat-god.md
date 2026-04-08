@@ -1,0 +1,52 @@
+# Gods R
+
+[Overview](Lore_Gods.md) | [A](Lore_Gods_A.md) [B](Lore_Gods_B.md) [C](Lore_Gods_C.md) [D](Lore_Gods_D.md) [E](Lore_Gods_E.md) [F](Lore_Gods_F.md) [G](Lore_Gods_G.md) [H](Lore_Gods_H.md) [I](Lore_Gods_I.md) [J](Lore_Gods_J.md) [K](Lore_Gods_K.md) [L](Lore_Gods_L.md) [M](Lore_Gods_M.md) [N](Lore_Gods_N.md) [O](Lore_Gods_O.md) [P](Lore_Gods_P.md) [Q](Lore_Gods_Q.md) R [S](Lore_Gods_S.md) [T](Lore_Gods_T.md) [U](Lore_Gods_U.md) [V](Lore_Gods_V.md) [W](Lore_Gods_W.md) [X](Lore_Gods_X.md) [Y](Lore_Gods_Y.md) [Z](Lore_Gods_Z.md)
+---
+
+#### Rat-god
+The **Rat-god** was an obscure [Khajiiti](Lore_Khajiit.md) deity worshipped during the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md).<sup>[[1]](#cite_note-1)</sup> He is known to have dedicated followers among them.<sup>[[UOL 1]](#cite_note-DGP-2)</sup>
+
+#### Raen, Breton God of Agriculture
+**Raen** is the [Breton](Lore_Breton.md) God of Agriculture, with his associated temples being called The Conservatory of Raen and the associated knightly order being The Knights of the Field. Reliquaries of Raen can be found across the Iliac Bay region.<sup>[[2]](#cite_note-3)</sup> Praying to Raen can result in one's navigational skills being increased.
+
+Raen is mentioned in [King Edward, Part X](Lore_King_Edward,_Part_X.md), where [Mara](Lore_Mara.md) mentions that Raen and herself were needed elsewhere.
+
+#### Rajhin, Footpad, Thief God of the Khajiiti
+[Rajhin the Purring Liar](Lore_Rajhin.md), also known as the **Trickster God**, the **Footpad**, **Cat Who Walks**, and the **Cat-King of Thieves** is the Thief god of the [Khajiiti](Lore_Khajiit.md) people. Tales of Rajhin are an integral part of Khajiiti culture and is popular among their storytellers, but he also finds worship among thieves and deceivers. Though he is the most famous burglar in [Elsweyr](Lore_Elsweyr.md)'s history, he also targeted many other lands, even venturing to the realms of [Oblivion](Lore_Oblivion.md) to add other's possessions to his collection. He was also very successful in wooing his lovers with his great treasures. It is said that every idol of Rajhin ever made will find its way into a pouch of a thief, but his idols are also popular as a ward against thieves. Rajhin himself was described as being "the very embodiment of speed, agility, and slyness". He has Seven Shadows that each represent different aspects of his being and carry out his bidding.
+
+#### Reman Cyrodiil
+[Reman Cyrodiil](Lore_Reman.md) (sometimes enumerated as **Reman I**), called the **Worldly God**, **Reman Born-a-Man**, and **Old Reman**, was a cultural god-hero of the [Second Empire](Lore_Second_Empire.md), founder of the [Reman Dynasty](Lore_Reman_Dynasty.md), and the greatest hero of the [Akaviri Trouble](Lore_First_Era_Wars.md#First_Akaviri_Invasion) of [1E 2703](Lore_First_Era.md#1E_2703). His name, Reman, means "Light of Man". Contrary to popular belief, the province of [Cyrodiil](Lore_Cyrodiil.md) was not named after him; rather, he adopted the ancient [Ayleid](Lore_Ayleid.md) name for the province, Cyrod, as his surname.
+
+#### Reymon Ebonarm
+[Reymon Ebonarm](Lore_Reymon_Ebonarm.md) (also called **Ebonarm** or the **Black Knight**) is the God of War and the companion and protector of all warriors. He is said to ride a golden [stallion](Lore_Horse.md) named [War Master](Lore_War_Master.md), and is accompanied by a pair of huge [ravens](Lore_Raven.md). Ebonarm's name refers to the [Ebony](Lore_Ebony.md) sword fused to his right arm due to the wounds he suffered in titanic battles of the past, and he is never seen without a full suit of ebony armor. He is described as bearded, tall, muscular, and having flowing reddish blonde hair and steel blue eyes. Emblazoned on his ebony tower shield is the symbol of a red rose, a flower known for blooming on battlefields where he appears. According to legend, he appears on the battlefield to reconcile opposing sides and prevent bloodshed.
+
+#### Riana
+[Riana](Lore_Riana.md) is the object of reverence for the [Conclave of Riana](Lore_Conclave_of_Riana.md).<sup>[[3]](#cite_note-Arena-4)</sup>
+
+#### Riddle'Thar, Two-Moons Dance
+The cosmic order deity of the [Khajiiti](Lore_Khajiit.md), the Riddle'Thar was revealed to [Elsweyr](Lore_Elsweyr.md) by the prophet [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md), the [Mane](Lore_Mane.md). The Riddle'Thar is more a set of guidelines by which to live than a single entity<sup>[[4]](#cite_note-Sot RT-5)</sup>, but some of his avatars like to appear as humble messengers of the gods. Also known as the Sugar God.<sup>[[5]](#cite_note-VOF-6)</sup> Those who reached the highest levels of the way of Riddle'Thar are nearly unbeatable in weaponless combat.<sup>[[6]](#cite_note-MZT-7)</sup> The Riddle'Thar promised a paradise to the Khajiit known as [Llesw'er](Lore_Llesw%27er.md).<sup>[[7]](#cite_note-PGE3E-8)</sup>
+
+#### Ruddy Man
+[![](https://images.uesp.net/thumb/d/d7/MW-concept-15.jpg/200px-MW-concept-15.jpg)](https://en.uesp.net/wiki/File:MW-concept-15.jpg) [](https://en.uesp.net/wiki/File:MW-concept-15.jpg) The Ruddy Man in battle with Vivec The [Ruddy Man](Lore_Ruddy_Man.md) was one of the eight [monster children](Lore_Monster_Children.md) from the unholy union of [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md), who initially escaped being slain. They are said to have battled Vivec twice according to the teachings of the [Tribunal Temple](Lore_Tribunal_Temple.md). He is a carapace who gives power to those who wear him, although he is sometimes considered a [dreugh](Lore_Dreugh.md), or an aspect of Molag Bal worshipped by the dreughs. The Ruddy Man endures as a symbol of fear in Dunmer culture.
+
+According to the Temple, the Ruddy Man was created when a [Velothi](Lore_Velothi.md) child from [Gnisis](Lore_Gnisis.md) found a dead carapace, supposedly Molag Bal's old image [from long ago](Lore_Lyg.md) when he ruled [Mundus](Lore_Mundus.md) as chief of the dreugh-kings. Wanting to scare his village, the child wore the carapace, and the Ruddy Man was formed. Vivec did battle with the monster at the Koal Cave site near Gnisis, creating the [West Gash](Lore_West_Gash.md) region of [Vvardenfell](Lore_Vvardenfell.md); it is said that the sounds of battle still echo in the region. Vivec was victorious, and went to give the carapace to the dreughs who had once modified his mother. However their leader, the [Queen of Dreughs](Lore_Trident-Kings.md) (whose name is not easy to spell), was in a period of self-incubation. Her wardens took the carapace from Vivec in her stead and promised to safeguard it, but this is the first recorded account of the dreughs being liars. Instead, the dreugh imbued the living armor with mythic inflexibility. The Ruddy Man appeared again ten years later at [Tear](Lore_Tear.md), this time worn by a wayward shaman of the [House of Troubles](Lore_House_of_Troubles.md). After defeating him a second time, Vivec gave the carapace to the devout and loyal mystics of the Number Room, who made it into "a philosopher's armor".
+
+The Shrine of Valor was set up in the Koal Cave by the Temple and served as part of the Pilgrimage of the Seven Graces. Pilgrims were told that the Ruddy Man was the father of all dreughs, and that Vivec spared his life if he and his children agreed to give up their tough hides as armor for the [Dunmer](Lore_Dunmer.md).
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), a dreugh known as the Ruddy Broodmother began terrorizing the roads around Molag Mar, killing pilgrim and Buoyant Armiger alike. The Ruddy Broodmother made its lair within the Dreudurai Glass Mine, which the [Erabenimsun](Lore_Erabenimsun_Tribe.md) knew as ancient dreugh spawning grounds. The Vestige, with the help of a group of Ashlanders, drew it out of hiding and slew it. A pilgrim who survived the incident and fled into an ancestral tomb believed the creature to be the mythical Ruddy Man, though Ashlanders denied its existence, claiming that the Broodmother was simply a powerful and cunning dreugh. The Buoyant Armigers considered the thought of the beast being the Ruddy Man borderline heresy. The captain of the Buoyant Armigers at the time suggested that if the Ruddy Broodmother truly was related to the creature of legend, that it might be a lesser creature "cut from the same cloth" as the Ruddy Man.
+
+#### Ruptga, Tall Papa
+[Ruptga](Lore_Ruptga.md), more commonly **Tall Papa**, is the chief deity of the [Yokudan](Lore_Yokuda.md) and [Redguard](Lore_Redguard.md) pantheon. He was the first god to figure out how to survive the Hunger of [Satakal](Lore_Satakal.md).
+
+## References
+1. [^](#cite_ref-1) [Khajiit](https://en.uesp.net/wiki/Arena:Khajiit) exclamations in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. [^](#cite_ref-3) [Reliquaries of Raen](https://en.uesp.net/wiki/Daggerfall:Shrines) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. [^](#cite_ref-Arena_4-0) Events of [*Arena*](https://en.uesp.net/wiki/Arena:Arena)
+4. [^](#cite_ref-Sot RT_5-0) [*Secrets of the Riddle'Thar*](Lore_Secrets_of_the_Riddle%27Thar.md) — [Rid-Thar-ri'Datta](Lore_Books_by_Author.md#Rid-Thar-ri.27Datta), First Mane of the Epiphany
+5. [^](#cite_ref-VOF_6-0) [*Varieties of Faith*](Lore_Varieties_of_Faith.md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+6. [^](#cite_ref-MZT_7-0) [*Master Zoaraym's Tale*](Lore_Master_Zoaraym%27s_Tale.md) — [Gi'Nanth](Lore_Books_by_Author.md#Gi.27Nanth)
+7. [^](#cite_ref-PGE3E_8-0) [*Pocket Guide to the Empire, 3rd Edition: Sugar and Blood: the Cats of the South*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Sugar_and_Blood.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-DGP_2-0) [Douglas Goodall's Posts](https://en.uesp.net/wiki/General:Douglas_Goodall%27s_Posts)

@@ -1,0 +1,25 @@
+# Ne Quin-al (city)
+
+| Ne Quin-al | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Elsweyr](Lore_Elsweyr.md) |
+| Region | [Anequina](Lore_Anequina.md) |
+
+[![](https://images.uesp.net/thumb/f/f4/LO-map-Elsweyr_%28PGE1%29.jpg/200px-LO-map-Elsweyr_%28PGE1%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Elsweyr_(PGE1).jpg) [](https://en.uesp.net/wiki/File:LO-map-Elsweyr_(PGE1).jpg) Ne Quin-al in a map of Elsweyr Ne Quin-al was a settlement located in north-central [Elsweyr](Lore_Elsweyr.md) and served as the capital of [Anequina](Lore_Anequina.md), the northern kingdom of the province. After the [Elsweyr Confederacy](Lore_Elsweyr_Confederacy.md)'s formation in [2E 309](Lore_Second_Era.md#2E_309), the city became the province's capital for a brief time until it fell to [Khajiiti](Lore_Khajiit.md) rebels in [2E 326](Lore_Second_Era.md#2E_326).<sup>[[1]](#cite_note-AAPAI-1)</sup><sup>[[2]](#cite_note-PGE1-2)</sup> The settlement's [Temple of Two-Moons Dance](Lore_Temple_of_Two-Moons_Dance.md) was still famous in the modern age, by at least the late [Third Era](Lore_Third_Era.md).<sup>[[3]](#cite_note-PGE3-3)</sup>
+
+## History
+The date of Ne Quin-al's founding is unknown, but as the sixteen clans mastered their discipline, they were forced into a limited geographic area to suit that skill. The Ne Quin-al clan were a nomadic, warrior folk and trained its members in martial discipline and battle tactics.<sup>[[1]](#cite_note-AAPAI-1)</sup><sup>[[4]](#cite_note-TSK-4)</sup> In the [Merethic Era](Lore_Merethic_Era.md), the sixteen clans were competing fiefdoms ruled by a cruel hunter-aristocracy that brought famine and drought to the main peasant population. Only the Temples of Two-Moons Dance were the ones to keep them in check and wield signifianct influence over the common folk.<sup>[[5]](#cite_note-OOTKMT-5)</sup>
+
+After Hunt-Lord Takanzin the Striped-Death orchestrated the destruction of [Rawl'kha](Lore_Rawl%27kha.md)'s temple, the House of the Dance and the other hunt-lords imposed a policy that meant no one could oppose them, the adepts and clergy went into seclusion and underwent deep meditation and reflection. They returned in the late days of the Merethic Era and introduced [claw-dances](Lore_Claw-Dances.md) to the peasantry. After one of the worst famines in the province's history, peasant uprisings broke out across other settlements in northern Elsweyr, such as Ne Quin-al.<sup>[[5]](#cite_note-OOTKMT-5)</sup>
+
+In 2E 309, King [Keirgo](Lore_Keirgo.md) of Anequina married Queen [Eshita](Lore_Eshita.md) of Pellitine, consolidating the two kingdoms and establishing the Elsweyr Confederacy. Ne Quin-al was named its capital and housed the royal family for a few years. Their union was some of the first steps toward a unified Khajiiti nation but two years after [Versidue-Shaie](Lore_Versidue-Shaie.md)'s assassination in [Senchal](Lore_Senchal.md), Ne Quin-al was attacked by Khajiiti rebels. In the end, the city was sacked and most of the royal family was slaughtered in 2E 326. Their deaths led to further instability in the province that only ended after [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md), the First Mane of the [Epiphany](Lore_Riddle%27Thar_Epiphany.md) issued a great change that saw to the balance of power across Elsweyr.<sup>[[1]](#cite_note-AAPAI-1)</sup><sup>[[2]](#cite_note-PGE1-2)</sup> By [2E 582](Lore_Second_Era.md#2E_582), [Rimmen](Lore_Rimmen.md) replaced Ne Quin-al as the capital of Anequina.<sup>[[6]](#cite_note-GTNE-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-AAPAI_1-0)***</sup><sup>***[b](#cite_ref-AAPAI_1-1)***</sup><sup>***[c](#cite_ref-AAPAI_1-2)***</sup> [*Anequina and Pellitine: An Introduction*](Lore_Anequina_and_Pellitine__An_Introduction.md) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+2. ^ <sup>***[a](#cite_ref-PGE1_2-0)***</sup><sup>***[b](#cite_ref-PGE1_2-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: The Elsweyr Confederacy*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_The_Elsweyr_Confederacy.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+3. [^](#cite_ref-PGE3_3-0) [*Pocket Guide to the Empire, 3rd Edition: Sugar and Blood: the Cats of the South*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Sugar_and_Blood.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-TSK_4-0) [*The Sixteen Kingdoms*](Lore_The_Sixteen_Kingdoms.md)
+5. ^ <sup>***[a](#cite_ref-OOTKMT_5-0)***</sup><sup>***[b](#cite_ref-OOTKMT_5-1)***</sup> [*Origins of the Khajiiti Martial Tradition*](Lore_Origins_of_the_Khajiiti_Martial_Tradition.md) — [Tendwuayne](Lore_Books_by_Author.md#Tendwuayne), Sapiarch of Foreign Customs
+6. [^](#cite_ref-GTNE_6-0) [*Guide to Northern Elsweyr*](Lore_Guide_to_Northern_Elsweyr.md) — [Infrasia Mallius](Lore_Books_by_Author.md#Infrasia_Mallius)

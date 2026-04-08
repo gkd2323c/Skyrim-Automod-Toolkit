@@ -1,0 +1,3 @@
+# DLC2SVWulfWildbloodsHouseFaction
+
+Redirects to [DLC2SVWulfWildbloodsHouseFaction](Skyrim_Factions_S.md#DLC2SVWulfWildbloodsHouseFaction).

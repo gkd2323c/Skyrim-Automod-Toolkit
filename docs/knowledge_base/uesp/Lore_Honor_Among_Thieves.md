@@ -1,0 +1,31 @@
+# Honor Among Thieves
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Honor_Among_Thieves) |
+
+Honor Among Thieves **by [Arnie the Scrib](Lore_Books_by_Author.md#Arnie_the_Scrib)** *A manual for those wishing to join the Thieves Guild*
+---
+Many admirers ask, "Arnie, how can I become a flash and prosperous fellow like you?"
+
+And I tell them, "You want to join [the Guild](Lore_Thieves_Guild.md). Make friends. Be a part of something."
+
+"But who can join?" they ask.
+
+We're just like any other trade guild. We've got requirements. And if you want to advance in the ranks, we've got standards.
+
+You want to be fast and agile. You want to move undetected. You want to know about security -- locks, traps, and how to get around them. You want to defend yourself. You travel light and fast, and want light arms like daggers and shortswords. You don't want to get into a slugging match, so you want the marksman's weapons -- the bow, crossbow, throwing star, and dart. You want light armor, so you can keep moving, and moving fast.
+
+Why belong? Simple. Everybody needs friends.
+
+The help of friends includes information. Your friends at the Thieves Guild know where the action is, and where the action is safe, and where it is not. The help of friends includes a place to rest, and a place to buy supplies and services -- training and tools. The help of friends includes fixing things with the guards at a discount rate. That's where the 'honor among thieves' part comes in. Friends stick together, and help each other.
+
+"But what about the competition?" my admirers ask.
+
+The competition is the [Camonna Tong](Lore_Camonna_Tong.md). And you don't want to join them, because they don't want you. They have this thing about outlanders. They want them all dead. So, unless your ambition is to be dead, you don't want to join them.
+
+And the Camonna Tong are bad people. The Camonna Tong don't mind killing people. Heck, they LIKE killing people. The Thieves Guild, on the other hand, thinks killing people is bad business. You want to be good people, right? So join the Thieves Guild, and stay far, far away from the Camonna Tong.
+
+So you want to join. But where do you look?
+
+Being a thief is not like being a fighter. You don't just go to the local guild Hall. The Thieves Guild doesn't have Guild Halls. But thieves like to be where their friends are. And where are their friends? At the local cornerclub or tradehouse. In [Vvardenfell](Lore_Vvardenfell.md), look for friends in [Balmora](Lore_Balmora.md), [Ald'ruhn](Lore_Ald%27ruhn.md), [Sadrith Mora](Lore_Sadrith_Mora.md), and the Foreign Quarter of [Vivec](Lore_Vivec_(city).md).

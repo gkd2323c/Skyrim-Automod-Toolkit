@@ -1,0 +1,30 @@
+# Ancestor Glade
+
+| --- | --- |
+| Type | Glade |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Appears in | [Skyrim](Skyrim_Ancestor_Glade.md) |
+
+[![](https://images.uesp.net/thumb/8/8e/SR-interior-Ancestor_Glade.jpg/200px-SR-interior-Ancestor_Glade.jpg)](https://en.uesp.net/wiki/File:SR-interior-Ancestor_Glade.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Ancestor_Glade.jpg) One of the Ancestor Glades circa [4E 201](Lore_Fourth_Era.md#4E_201) Ancestor Glades are secluded places scattered across [Tamriel](Lore_Tamriel.md). [Canticle Trees](Lore_Canticle_Tree.md), which attract [Ancestor Moths](Lore_Ancestor_Moth.md), are known to grow in Ancestor Glades. Due to the presence of Ancestor Moths and the Canticle Tree sap's magical properties, the [Ritual of the Ancestor Moth](Lore_Ritual_of_the_Ancestor_Moth.md) is typically performed by the Moth Priests of the [Cult of the Ancestor Moth](Lore_Cult_of_the_Ancestor_Moth.md) at these locations.<sup>[[1]](#cite_note-U-1)</sup><sup>[[2]](#cite_note-D-2)</sup>
+
+Canticle trees that grow in the glades are unpredictable in their growth. The conditions required for them to take root differ from one location to another. However, according to tales from the Cult of the Ancestor Moth, these trees have been known to thrive in environments ranging from loose sand to frozen soil. The elders of the Cult of the Ancestor Moth claim that, once a Canticle Tree had had its first bloom, it becomes almost impossible to kill. Even without tenders, moths, sunlight, or water, the trees just go dormant, hiding away inside themselves and shedding their petals to appear dead when, in actuality, they're not. There are tales of Canticle Trees that were withered down to a stump under a collapsed structure and denied water and sunlight for centuries being fully restored after proper tending.<sup>[[3]](#cite_note-LAESMP-3)</sup>
+
+One of the known Ancestor Glades was found in the region of [Pine Forest](https://en.uesp.net/wiki/Lore:Pine_Forest), high in the [Jerall Mountains](Lore_Jerall_Mountains.md) within the [Falkreath Hold](Lore_Falkreath_Hold.md). It was located southeast of [Falkreath's capital](Lore_Falkreath.md), and was the only Ancestor Glade in the entire province of [Skyrim](Lore_Skyrim.md).<sup>[[1]](#cite_note-U-1)</sup><sup>[[2]](#cite_note-D-2)</sup>
+
+Little is known of fauna and flora of every individual Ancestor Glade, except for the presence of canticle trees and ancestor moths.<sup>[[2]](#cite_note-D-2)</sup> The Ancestor Glade of Falkreath, however was also known for its rich ecosystem, different from anywhere else in Skyrim,<sup>[[4]](#cite_note-S-4)</sup> consisting of blue, red, yellow, and purple [mountain flowers](https://en.uesp.net/wiki/Lore:Mountain_Flower), [dragon's tongues](https://en.uesp.net/wiki/Lore:Dragon%27s_Tongue), [hanging moss](https://en.uesp.net/wiki/Lore:Hanging_Moss), [lavender](https://en.uesp.net/wiki/Lore:Lavender), and [tundra cotton](Lore_Tundra_Cotton.md). [Spriggan](https://en.uesp.net/wiki/Lore:Spriggan) earth mothers were also known to inhabit this glade.<sup>[[5]](#cite_note-AG-5)</sup> Waters of the glade were also home to several rare fish species such as [angelfish](https://en.uesp.net/wiki/Lore:Angelfish), [pygmy sunfish](https://en.uesp.net/wiki/Lore:Sunfish), and [spadefish](https://en.uesp.net/wiki/Lore:Spadefish).<sup>[[5]](#cite_note-AG-5)</sup><sup>[[6]](#cite_note-F-6)</sup>
+
+## History
+[Nedic](https://en.uesp.net/wiki/Lore:Nede) texts held by the Cult of the Ancestor Moth claim that the Ancestor Glades scattered across Tamriel were first established after the slaves tasked with tending the [Elder Scroll](Lore_Elder_Scrolls.md) reading rooms within the [White-Gold Tower](Lore_White-Gold_Tower.md) were taught how to read the Scrolls by the [Ayleids](Lore_Ayleids.md). These Nedic moth tenders spirited away the components of the reading ritual and established their own sacred glades, beginning the tradition that gave rise to the Cult of the Ancestor Moth.<sup>[[3]](#cite_note-LAESMP-3)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), the [Last Dragonborn](Lore_Hero.md), together with Dexion Evicus and [Serana](Lore_Serana.md) performed the ritual with three [Elder Scrolls](Lore_Elder_Scrolls.md) to reveal the location of [Auriel's Bow](Lore_Auriel%27s_Bow.md) in an effort to stop the fulfillment of the [Tyranny of the Sun](Lore_Tyranny_of_the_Sun.md) prophecy.<sup>[[1]](#cite_note-U-1)</sup> It was secluded, and was not visited by [men](Lore_Men.md), [mer](Lore_Mer.md) or [betmer](https://en.uesp.net/wiki/Lore:Betmer) for centuries before their arrival.<sup>[[4]](#cite_note-S-4)</sup>
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Ancestor_Glade.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-U_1-0)***</sup><sup>***[b](#cite_ref-U_1-1)***</sup><sup>***[c](#cite_ref-U_1-2)***</sup> Events of [Unseen Visions](Skyrim_Unseen_Visions.md) in *[Skyrim](Skyrim_Skyrim.md)*
+2. ^ <sup>***[a](#cite_ref-D_2-0)***</sup><sup>***[b](#cite_ref-D_2-1)***</sup><sup>***[c](#cite_ref-D_2-2)***</sup> [Dexion Evicus](Skyrim_Dexion_Evicus.md)' dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-LAESMP_3-0)***</sup><sup>***[b](#cite_ref-LAESMP_3-1)***</sup> [*Loremaster's Archive - Elder Scrolls & Moth Priests*](Lore_Loremaster%27s_Archive_-_Elder_Scrolls_%26_Moth_Priests.md) — [Sister Chana Nirine](Lore_Books_by_Author.md#Sister_Chana)
+4. ^ <sup>***[a](#cite_ref-S_4-0)***</sup><sup>***[b](#cite_ref-S_4-1)***</sup> [Serana](Skyrim_Serana.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+5. ^ <sup>***[a](#cite_ref-AG_5-0)***</sup><sup>***[b](#cite_ref-AG_5-1)***</sup> [Ancestor Glade](Skyrim_Ancestor_Glade.md) in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-F_6-0) [Fishing](Skyrim_Fishing.md) [Creation](Skyrim_Creation_Club.md) for *[Skyrim](Skyrim_Skyrim.md)*

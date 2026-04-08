@@ -1,0 +1,12 @@
+# House Mantel
+
+[![](https://images.uesp.net/thumb/5/5d/ON-map-Systres_Archipelago.jpg/200px-ON-map-Systres_Archipelago.jpg)](https://en.uesp.net/wiki/File:ON-map-Systres_Archipelago.jpg) [](https://en.uesp.net/wiki/File:ON-map-Systres_Archipelago.jpg) The Systres Archipelago, encompassing High Isle, Amenos, Galen, and Y'ffelon House Mantel was a Breton noble family dating at least back to the twenty-fifth century of the [First Era](Lore_First_Era.md). They were briefly rulers of [the Systres](Lore_The_Systres.md), after the previous rulers of the isles, House [Guimard](Lore_Guimard.md) fell into disfavor because of a jilted marriage proposal in ca. [1E 2477](Lore_First_Era.md#1E_2477). Their reign over the archipelago was short-lived however, because of the eruption of the [Mount Firesong](Lore_Mount_Firesong.md) in [1E 2484](Lore_First_Era.md#1E_2484). This cataclysmic event claimed the lives of nearly one-third of the archipelago's inhabitants, including nearly all of the nobility, ending their rule over the isles.<sup>[[1]](#cite_note-SH-1)</sup>
+
+Although the exact fate of the house is unknown, by the middle [Second Era](Lore_Second_Era.md), Mantel was a common surname across [Bretons](Lore_Breton.md) in [Wayrest](Lore_Wayrest.md),<sup>[[2]](#cite_note-S1-2)</sup><sup>[[3]](#cite_note-S2-3)</sup> and [Daggerfall](Lore_Daggerfall.md) in [High Rock](Lore_High_Rock.md).<sup>[[4]](#cite_note-S3-4)</sup><sup>[[5]](#cite_note-S4-5)</sup>
+
+## References
+1. [^](#cite_ref-SH_1-0) [*Systres History*](https://en.uesp.net/wiki/Lore:Systres_History) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+2. [^](#cite_ref-S1_2-0) [Laetitia Mantel](https://en.uesp.net/wiki/Online:Laetitia_Mantel) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-S2_3-0) [Jasmine Mantel](https://en.uesp.net/wiki/Online:Jasmine_Mantel) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-S3_4-0) [Elona Mantel](https://en.uesp.net/wiki/Online:Elona_Mantel) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-S4_5-0) [Leonora Mantel](https://en.uesp.net/wiki/Online:Leonora_Mantel) in [ESO](https://en.uesp.net/wiki/Online:Online)

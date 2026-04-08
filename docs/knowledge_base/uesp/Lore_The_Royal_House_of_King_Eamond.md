@@ -1,0 +1,17 @@
+# The Royal House of King Eamond
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Royal_House_of_King_Eamond) |
+
+The Royal House of King Eamond **by [Seneschal Derric Andras](Lore_Books_by_Author.md#Seneschal_Derric_Andras) of [Castle Evermore](Lore_Evermore.md)** *On the lineage of the King of Evermore*
+---
+As our king's loyal seneschal, it falls upon me to convey to the populace at large the details of his noble lineage—a burden I take up joyfully, and with a due recognition of the honor.
+
+King [Eamond](Lore_Eamond.md) is a scion of the right noble House of [Guimard](Lore_Guimard.md), an aristocratic family that claims to have been in [Evermore](Lore_Evermore.md) since the port was founded after the fall of [Orsinium](Lore_Orsinium.md). As every Evermore schoolchild knows, our fair city was founded in the year [983 of the First Era](Lore_First_Era.md#1E_983) by the [River Horse Bretons](Lore_River_Horse_Bretons.md), after the [Bjoulsae](Lore_Bjoulsae_River.md) trade was opened up thanks to the suppression of the [Orcs](Lore_Orc.md). This particular fact is impossible to verify without access to the Guimard family documents, which they hold for safekeeping in the castle vaults (and in these unstable times, who can blame them?). However, the name can be publicly documented shortly thereafter in the Decretal of Fiefdoms by the Empress [Hestra](Lore_Hestra.md) upon the entry of [High Rock](Lore_High_Rock.md) into the [Cyrodilic Empire](Lore_Alessian_Empire.md). That document, drawn up in [1E 1029](Lore_First_Era.md#1E_1029), includes a citation recognizing a certain "Barron Guy Marde of ye Rivver Banke."
+
+Thereafter the heroes of House Guimard appear again and again in the annals of Evermore: there was a Baron-Captain Olsien Guy Mard in the [All Flags Navy](Lore_All_Flags_Navy.md) of [1E 2260](Lore_First_Era.md#1E_2260); a Baroness Falinne Guimard defending [Bangkorai Garrison](Lore_Bangkorai_Garrison.md) against the [Alessian](Lore_Alessia.md) [Legions](Lore_Imperial_Legion.md) in [1E 2305](Lore_First_Era.md#1E_2305); and Baron Fulvert Guimard had his lands improved to a duchy for his martial exploits at the second sacking of Orsinium in [2E 431](Lore_Second_Era.md#2E_431).
+
+When the former monarch of Evermore, King [Heseph](Lore_Heseph.md) of House Moile, died without an heir when the city was sacked by [Durcorach](Lore_Durcorach.md) the Black [Drake](Lore_Dragon.md) in [542](Lore_Second_Era.md#2E_542), it was Duke [Blaise Guimard](Lore_Blaise_Guimard.md) who led the [Knights of Saint Pelin](Lore_Knights_of_Saint_Pelin.md) in the charge that eventually retook the city. Duke Blaise was then elected to the throne by the nobles of [Bangkorai](Lore_Bangkorai.md), and House Guimard was elevated to royalty.
+
+King Blaise came to [Emeric](Lore_Emeric.md)'s aide in [Ranser's War](Lore_Ranser%27s_War.md), and was rewarded with Emeric's niece [Arzhela](Lore_Arzhela.md)'s hand in marriage for his son, Prince Eamond. Shortly thereafter, in [568](Lore_Second_Era.md#2E_568), King Blaise died and was succeeded by his son, King Eamond. So far our lovely Queen Arzhela has presented her lord with two healthy children, the Princess [Elara](https://en.uesp.net/wiki/Lore:Elara) and the Prince Adrien. Long may they reign in peace and prosperity over our land!

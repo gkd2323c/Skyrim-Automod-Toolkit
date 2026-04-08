@@ -1,0 +1,76 @@
+# Blue God's Journal
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal1.png) Book Information <br> *Blue God's Journal* | | | |
+| --- | --- | --- | --- |
+| Added by | [Goblins](Skyrim_Goblins.md) | | |
+| [ID](Skyrim_Form_ID.md) | FE [xxx](Skyrim_Form_ID.md#Creation_Club) 887 | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 5 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Needed for | [Blue in the Face](Skyrim_Blue_in_the_Face.md) | | |
+| Locations | | | |
+| Found in the following locations: - Carried by the [Blue God](Skyrim_Blue_God.md) | | | |
+
+Blue God's Journal **by [Blue God](Skyrim_Blue_God.md)** *The stained journal of an unfortunate tribal Orc*
+---
+**Day 1**
+
+The tribe demanded I prove myself as a hunter. They want me to trap some game and return to the [Stronghold](Skyrim_Orc_Strongholds.md), probably for a celebratory feast. It shouldn't be too hard. I already set up a snare by the water. Now I can just sit back and let the food come to me.
+
+**Day 2**
+
+My snare trap doesn't seem to be working. I tied it to a stick just like they said. Clearly [Lob](https://en.uesp.net/wiki/Skyrim:Lob) gave me a flimsy rope. Either that or the sticks out here are no good. I don't know how they expect me to hunt with such broken tools.
+
+**Day 3**
+
+It's only been a few days, but I already feel like giving up. I'm hungry and I've gone through all the [bread](Skyrim_Bread.md) [Atub](Skyrim_Atub.md) gave me. By [Malacath](Skyrim_Malacath.md), they really expect me to die out here.
+
+**Day 5**
+
+The [rabbits](Skyrim_Rabbit.md) here are too nimble to chase down. I thought I could just grab one if I put some bait in my pockets, but problem is, I don't have any bait. I shouldn't have eaten all the [carrots](Skyrim_Carrot.md) in my sack but I was starving.
+
+**Day 6**
+
+Malacath's blessings, I'm alive! I found a cave south of my camp full of [strange blue mushrooms](https://en.uesp.net/wiki/Skyrim:Steel-Blue_Entoloma), which I immediately ate. I remember Atub saying something about some mushrooms being poisonous, but I didn't get sick so what does she know. Anyways, I ended up filling my sack with them. If I come back with a full stomach maybe I can convince the others we don't need to hunt.
+
+**Day 7**
+
+I came back to [Largashbur](Skyrim_Largashbur.md) with my sack full of mushrooms and one by one they spit them out and mocked my hunting skills.
+
+If that wasn't humiliating enough, [Chief Yamarz](Skyrim_Chief_Yamarz.md) took a hammer and crushed the sack, then dumped the contents on my head. None of my tribe mates bothered to defend me, they just stood there and laughed.
+
+Now Yamarz says I have to go back out there and catch something with some legs. It's not fair. When's the last time he caught anything?
+
+**Day 8**
+
+I'm so hungry. Hunting is impossible. Maybe I'll just die. That'll teach them to leave me out here alone.
+
+**Day 9**
+
+By Malacath, what just happened? I went back to the cave to pick some more mushrooms, when something must've tripped me because I fell into a pit.
+
+I yelled out for help, but instead of getting rescued, I was quickly surrounded by a horde of green monsters, hissing and gnashing their teeth. I figured that was it. They were going to eat me.
+
+But before I could scream, one of them dropped to his knees and started bowing! The others followed.
+
+Could they be [goblins](Skyrim_Goblin.md)? You never see them this far north. In any case, they seem to be treating me like an honored guest.
+
+**Day 11**
+
+Blessings of Malacath, it turns out they think I'm a [god](Lore_Gods.md)! They don't seem to treat other [Orcs](Skyrim_Orc.md) the same, so it must be the blue stains on my face. I need to thank Yamarz for dumping that sack on my head. I think I'll do that, right before I have my goblins claw open his face.
+
+**Day 15**
+
+My army grows by the day. Soon we'll have enough numbers to overrun the Stronghold. For now I have them collecting blue mushrooms from [Cyrodiil](Lore_Cyrodiil.md) so I can maintain the ruse, although some of them might be starting to suspect.
+
+The other day I think one of them saw me use a stick to spread blue paint on my back. I'll need to keep a close eye on him.
+
+**Day 18**
+
+I figured out who it was that saw me, it's that [nasty little runt](Skyrim_Gogh.md) with the [funny-looking spear](Skyrim_Spear_of_Bitter_Mercy.md). It seems he's the hunter of the group. He reminds me of every Orc back at Largashbur who laughed in my face.
+
+I tried to grab the spear from him but he must've done something to it because it was too heavy to lift. I don't know if it's [Hircine](Skyrim_Hircine.md) or Malacath that's protecting him, but he needs to learn that goblins only have one god. The Blue God. Me.
+
+**Day 21**
+
+The tunnel the goblins were using to come here from Cyrodiil's collapsed. No matter. My army is nearly big enough to take the Stronghold, and once that's done I can sell Yamarz's things for a whole wagon full of paint. Before I do that though, I need to make an example of the non-believer.
+
+Once he's dealt with, it'll show all the other goblins what happens when you question your god.

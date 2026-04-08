@@ -1,0 +1,28 @@
+# Bad Man's Hallows
+
+| Bad Man's Hallows | |
+| --- | --- |
+| Type | Plane |
+| Realm | [Oblivion](Lore_Oblivion.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Bad_Man%27s_Hallows) |
+
+[![](https://images.uesp.net/thumb/a/ad/ON-place-Bad_Man%27s_Hallows_03.jpg/200px-ON-place-Bad_Man%27s_Hallows_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows_03.jpg) The roots of Bad Man's Hallows [![](https://images.uesp.net/thumb/a/a7/ON-place-Bad_Man%27s_Hallows_02.jpg/200px-ON-place-Bad_Man%27s_Hallows_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows_02.jpg) The tree in Bad Man's Glen Bad Man's Hallows is a pocket realm of [Oblivion](Lore_Oblivion.md) centered around a giant tree. The tree is in fact a minor [Daedra Lord](Lore_Daedra_Lord.md) who channels dark energy through the tree's roots. It is claimed that as the tree grows, so does the realm itself.<sup>[[1]](#cite_note-EV-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), a circle of mages testing the boundaries of conjuration, including Curator Nicholas, Eveline Vette, and Finvir, performed the summoning of a [Dremora Lord](Lore_Dremora_Lord.md) out of curiosity and the search for divine knowledge. Though it had many risks and was unauthorized by the [Mages Guild](Lore_Mages_Guild.md), the conjurers managed to summon the Dremora Lord using a number of gems. However, the Lord killed most of the conjurers and corrupted the rest of the circle to mindlessly do its bidding. It then impersonated an old [Breton](Lore_Breton.md) harvest god named [Sheor](Lore_Sheor.md), the Bad Man, and made a deal with Nicholas. "Bad Man" would have the mindless followers trick gullible visitors to the tree's glen into burning food as part of the "Harvest Festival" to drain their souls and feed the tree, expanding the realm.<sup>[[1]](#cite_note-EV-1)</sup><sup>[[2]](#cite_note-CN-2)</sup><sup>[[3]](#cite_note-So H-3)</sup>
+
+[The Vestige](Lore_The_Vestige.md) would soon arrive and be convinced to partake in the Harvest Festival. Though seemingly consumed by the tree, their undying nature had them survive in the roots beneath where they met with a captured Eveline Vette. The roots beneath were home to wildlife like [hoarvors](Lore_Hoarvor.md), [shalks](Lore_Shalk.md), [skeevers](Lore_Skeever.md), and [giant snakes](Lore_Giant_Snake.md), with the insane sacrifices and undead [skeletons](Lore_Skeleton.md) of conjurers wandering the tunnels as well.<sup>[[1]](#cite_note-EV-1)</sup><sup>[[4]](#cite_note-4)</sup> With the help of Vette, they used shalk glands and tendrils to burn the roots,<sup>[[3]](#cite_note-So H-3)</sup> and collected the summoning gems sought by Finvir.<sup>[[5]](#cite_note-CTi WT-5)</sup> Vette then sent the Vestige back to the glen, where the "Season of Harvest" had taken place. Wounded by the damaged roots, Bad Man set the glen on fire, and the Vestige burnt the remaining tendrils on the offering altar. Bad Man arrived at the burning tree to deal with the hero directly, but was defeated.<sup>[[3]](#cite_note-So H-3)</sup> Using the gems, Finvir assured the hero that Bad Man would be vanquished from the realm and could never return to [Nirn](Lore_Nirn.md).<sup>[[6]](#cite_note-Finvir-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/f6/ON-place-Bad_Man%27s_Hallows.jpg/200px-ON-place-Bad_Man%27s_Hallows.jpg)](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows.jpg) Entrance to the realm on the coastline of Glenumbra
+- [![](https://images.uesp.net/thumb/b/b9/ON-quest-Season_of_Harvest.jpg/200px-ON-quest-Season_of_Harvest.jpg)](https://en.uesp.net/wiki/File:ON-quest-Season_of_Harvest.jpg) Offering of grains and apples being burnt as part of the Harvest Festival
+- [![](https://images.uesp.net/thumb/4/40/ON-quest-Can%27t_Take_It_With_Them.jpg/200px-ON-quest-Can%27t_Take_It_With_Them.jpg)](https://en.uesp.net/wiki/File:ON-quest-Can%27t_Take_It_With_Them.jpg) Finvir in the roots with a device reversing the ritual's effects
+- [![](https://images.uesp.net/thumb/d/d4/ON-place-Bad_Man%27s_Hallows_04.jpg/200px-ON-place-Bad_Man%27s_Hallows_04.jpg)](https://en.uesp.net/wiki/File:ON-place-Bad_Man%27s_Hallows_04.jpg) The burning glen after the Season of Harvest
+- [![](https://images.uesp.net/thumb/8/83/ON-npc-Bad_Man.jpg/200px-ON-npc-Bad_Man.jpg)](https://en.uesp.net/wiki/File:ON-npc-Bad_Man.jpg)"Bad Man" manifesting in his Dremora Lord form
+
+## References
+1. ^ <sup>***[a](#cite_ref-EV_1-0)***</sup><sup>***[b](#cite_ref-EV_1-1)***</sup><sup>***[c](#cite_ref-EV_1-2)***</sup> Dialogue with [Eveline Vette](https://en.uesp.net/wiki/Online:Eveline_Vette)
+2. [^](#cite_ref-CN_2-0) Dialogue with [Curator Nicholas](https://en.uesp.net/wiki/Online:Curator_Nicholas)
+3. ^ <sup>***[a](#cite_ref-So H_3-0)***</sup><sup>***[b](#cite_ref-So H_3-1)***</sup><sup>***[c](#cite_ref-So H_3-2)***</sup> [Season of Harvest](https://en.uesp.net/wiki/Online:Season_of_Harvest) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) Appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-CTi WT_5-0) [Can't Take It With Them](https://en.uesp.net/wiki/Online:Can%27t_Take_It_With_Them) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-Finvir_6-0) Dialogue with [Finvir](https://en.uesp.net/wiki/Online:Finvir)

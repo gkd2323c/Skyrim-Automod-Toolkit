@@ -1,0 +1,52 @@
+# Kaladas
+
+| Saint Kaladas the Architect | | | |
+| --- | --- | --- | --- |
+| [![ON-statue-Saint Kaladas.jpg](https://images.uesp.net/thumb/2/28/ON-statue-Saint_Kaladas.jpg/200px-ON-statue-Saint_Kaladas.jpg)](https://en.uesp.net/wiki/File:ON-statue-Saint_Kaladas.jpg) Statue of Saint Kaladas holding the Mace of the Crusader in front of the Great Chapel of Zenithar | | | |
+| Race | [Man](Lore_Man.md) | Gender | Male |
+| Born | [1st Era](Lore_First_Era.md#1st_Era) | | |
+| Died | [1st Era](Lore_First_Era.md#1st_Era) <br> [Leyawiin](Lore_Leyawiin.md) | | |
+| Resided in | [Leyawiin](Lore_Leyawiin.md) | | |
+
+Saint Kaladas the Architect<sup>[[1]](#cite_note-ESOBody Markings-1)</sup> was a [First Era](Lore_First_Era.md)<sup>[[2]](#cite_note-Uvoo-2)</sup> master craftsman and [Imperial saint](Lore_Imperial_Saints.md) who lived in [Leyawiin](Lore_Leyawiin.md) several centuries after the [Alessian Slave Rebellion](Lore_Alessian_Slave_Rebellion.md). He constructed the Great Chapel of [Zenithar](Lore_Zenithar.md) in Leyawiin in tribute to the legend of a messenger who is said to have carried the [Mace of the Crusader](Lore_Mace_of_the_Crusader.md) to Leyawiin following the death of [Pelinal Whitestrake](Lore_Pelinal_Whitestrake.md) at the hands of the [Ayleids](Lore_Ayleid.md).<sup>[[3]](#cite_note-Ralvas-3)</sup>
+
+## Worship
+[![](https://images.uesp.net/thumb/4/44/OBR-place-Great_Chapel_of_Zenithar.jpg/200px-OBR-place-Great_Chapel_of_Zenithar.jpg)](https://en.uesp.net/wiki/File:OBR-place-Great_Chapel_of_Zenithar.jpg) [](https://en.uesp.net/wiki/File:OBR-place-Great_Chapel_of_Zenithar.jpg) The Great Chapel of Zenithar circa [3E 433](Lore_Third_Era.md#3E_433), built by Saint Kaladas Saint Kaladas is venerated at shrines and votives that often feature imagery of thorns and angles. They are ancient Nibenese symbols of grace and precision, used to display true dedication to one's craft.<sup>[[4]](#cite_note-ESOFace Markings-4)</sup> Some devotees choose to tattoo their bodies and faces with this imagery in a budding script in order to demonstrate their adoration of Kaladas.<sup>[[1]](#cite_note-ESOBody Markings-1)</sup><sup>[[4]](#cite_note-ESOFace Markings-4)</sup>
+
+Pilgrims once came to the Tomb of Saint Kaladas to receive visions of the Mace of the Crusader, but none could reach the Mace. Each vision was the same: the Mace would appear upon bowing to the shrine, separated by a great chasm. Many tried and failed to reach the Mace, and would instead fall into the chasm each time, awakening from the vision.<sup>[[3]](#cite_note-Ralvas-3)</sup>
+
+According to legend, Saint Kaladas used gnarled [iron](Lore_Iron.md) nails to assemble the original pulpit in the Chapel of Zenithar. These nails were later removed from the chapel and became very valuable relics.<sup>[[5]](#cite_note-Contraband N-5)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d4/OBR-interior-Great_Chapel_of_Zenithar%2C_Chapel_Undercroft_%28Tomb_of_Saint_Kaladas%29.jpg/200px-OBR-interior-Great_Chapel_of_Zenithar%2C_Chapel_Undercroft_%28Tomb_of_Saint_Kaladas%29.jpg)](https://en.uesp.net/wiki/File:OBR-interior-Great_Chapel_of_Zenithar,_Chapel_Undercroft_(Tomb_of_Saint_Kaladas).jpg) [](https://en.uesp.net/wiki/File:OBR-interior-Great_Chapel_of_Zenithar,_Chapel_Undercroft_(Tomb_of_Saint_Kaladas).jpg) The Tomb of Saint Kaladas According to legend, Kaladas was driven to build the Great Chapel of Zenithar by constant dreams of Pelinal.<sup>[[2]](#cite_note-Uvoo-2)</sup> The Mace of the Crusader, which had been given to Pelinal by Zenithar, had not been seen for many centuries. However, when Saint Kaladas was laid to rest in the chapel undercroft, those who prayed to Zenithar at his tomb began to receive visions of the Mace.<sup>[[6]](#cite_note-6)</sup><sup>[[3]](#cite_note-Ralvas-3)</sup><sup>[[7]](#cite_note-7)</sup>
+
+During the [Anequine Conquests](Lore_Anequine_Conquests.md) of the [1E 400s](Lore_First_Era.md#Fifth_Century), Leyawiin was annexed by the [Khajiit](Lore_Khajiit.md) wander-kings of [Bruk'ra](Lore_Bruk%27ra.md). Although not reflected in Imperial histories, scholars have theorized that construction of the Great Chapel of Zenithar had been completed by this time, and that the structure was converted to a [Temple of Two-Moons Dance](Lore_Temple_of_Two-Moons_Dance.md).<sup>[[8]](#cite_note-ONGlass Anti-8)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), hundreds of Zenithar worshippers would journey to Leyawiin each year to glimpse the architectural marvel of the Great Chapel of Zenithar. The Kaladas Inn was a local tavern that offered respite to many of these pilgrims.<sup>[[9]](#cite_note-9)</sup>
+
+In [3E 111](Lore_Third_Era.md#3E_111), the [Knights of the Nine](Lore_Knights_of_the_Nine.md) were founded in search of the [Crusader's Relics](Lore_Crusader%27s_Relics.md),<sup>[[10]](#cite_note-10)</sup> and the [Dunmer](Lore_Dunmer.md) knight Sir Ralvas devoted himself to recovering the Mace of the Crusader. He prayed at the Tomb of Saint Kaladas many times, but died at some point prior to [3E 153](Lore_Third_Era.md#3E_153) without ever reaching the Mace.<sup>[[3]](#cite_note-Ralvas-3)</sup><sup>[[11]](#cite_note-11)</sup>
+
+Circa [3E 433](Lore_Third_Era.md#3E_433), the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) refounded the Knights of the Nine and was guided to the tomb by the ghost of Sir Ralvas. It transpired that the only way to cross the chasm and recover the Mace was to wear the [Boots of the Crusader](Lore_Boots_of_the_Crusader.md), a sacred relic of [Kynareth](Lore_Kynareth.md). In this way, the pilgrim would acknowledge the close ties between Zenithar and Kynareth, and the reliance that craftsmen have on the materials provided by the natural world.<sup>[[3]](#cite_note-Ralvas-3)</sup> The Hero was given the Boots by Kynareth herself, and duly managed to recover the Mace by wearing them while praying at the tomb.<sup>[[12]](#cite_note-12)</sup><sup>[[13]](#cite_note-13)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/96/OB-interior-Great_Chapel_of_Zenithar%2C_Chapel_Undercroft_%28Tomb_of_Saint_Kaladas%29.jpg/200px-OB-interior-Great_Chapel_of_Zenithar%2C_Chapel_Undercroft_%28Tomb_of_Saint_Kaladas%29.jpg)](https://en.uesp.net/wiki/File:OB-interior-Great_Chapel_of_Zenithar,_Chapel_Undercroft_(Tomb_of_Saint_Kaladas).jpg) The Tomb of Saint Kaladas (Oblivion)
+- [![](https://images.uesp.net/thumb/2/2a/ON-place-The_Great_Chapel_of_Zenithar.jpg/200px-ON-place-The_Great_Chapel_of_Zenithar.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Great_Chapel_of_Zenithar.jpg) The Great Chapel of Zenithar (ESO)
+- [![](https://images.uesp.net/thumb/e/e4/OB-quest-The_Path_of_the_Righteous.jpg/200px-OB-quest-The_Path_of_the_Righteous.jpg)](https://en.uesp.net/wiki/File:OB-quest-The_Path_of_the_Righteous.jpg) The vision of the Mace of the Crusader (Oblivion)
+- [![](https://images.uesp.net/thumb/4/47/ON-crown_store-Statuette_Kaladas_of_Leyawiin.jpg/200px-ON-crown_store-Statuette_Kaladas_of_Leyawiin.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Statuette_Kaladas_of_Leyawiin.jpg) Statuette of Kaladas (ESO)
+- [![](https://images.uesp.net/thumb/9/97/ON-body_marking-Saint_Kaladas_Body_Markings_and_Face_Markings.jpg/200px-ON-body_marking-Saint_Kaladas_Body_Markings_and_Face_Markings.jpg)](https://en.uesp.net/wiki/File:ON-body_marking-Saint_Kaladas_Body_Markings_and_Face_Markings.jpg) Saint Kaladas body markings (ESO)
+- [![](https://images.uesp.net/thumb/5/55/ON-concept-Kaladas.jpg/200px-ON-concept-Kaladas.jpg)](https://en.uesp.net/wiki/File:ON-concept-Kaladas.jpg) Statue of Saint Kaladas
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOBody Markings_1-0)***</sup><sup>***[b](#cite_ref-ESOBody Markings_1-1)***</sup> [Saint Kaladas Body Markings](https://en.uesp.net/wiki/Online:Saint_Kaladas_Body_Markings) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Uvoo_2-0)***</sup><sup>***[b](#cite_ref-Uvoo_2-1)***</sup> [Uvoo Vadryon](https://en.uesp.net/wiki/Online:Uvoo_Vadryon)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Ralvas_3-0)***</sup><sup>***[b](#cite_ref-Ralvas_3-1)***</sup><sup>***[c](#cite_ref-Ralvas_3-2)***</sup><sup>***[d](#cite_ref-Ralvas_3-3)***</sup><sup>***[e](#cite_ref-Ralvas_3-4)***</sup> [Sir Ralvas](https://en.uesp.net/wiki/Oblivion:Sir_Ralvas)' dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+4. ^ <sup>***[a](#cite_ref-ESOFace Markings_4-0)***</sup><sup>***[b](#cite_ref-ESOFace Markings_4-1)***</sup> [Saint Kaladas Face Markings](https://en.uesp.net/wiki/Online:Saint_Kaladas_Face_Markings) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Contraband N_5-0) [Nails of Saint Kaladas](https://en.uesp.net/wiki/Online:Contraband_N#Nails_of_Saint_Kaladas) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) [*Traveler's Guide to Leyawiin*](Lore_Traveler%27s_Guide_to_Leyawiin.md) — [Astinia Isauricus](Lore_Books_by_Author.md#Astinia_Isauricus); published 1 Frost Fall, [2E 569](Lore_Second_Era.md#2E_569)
+7. [^](#cite_ref-7) [Carodus Oholin](https://en.uesp.net/wiki/Oblivion:Carodus_Oholin)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+8. [^](#cite_ref-ONGlass Anti_8-0) [Stained Glass of Lunar Phases](https://en.uesp.net/wiki/Online:Northern_Elsweyr_Antiquities#Stained_Glass_of_Lunar_Phases) Antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [Pilgrim's Rest](https://en.uesp.net/wiki/Online:Pilgrim%27s_Rest) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-10) [*The Knights of the Nine*](Lore_The_Knights_of_the_Nine.md) — [Karoline of Solitude](Lore_Books_by_Author.md#Karoline_of_Solitude)
+11. [^](#cite_ref-11) [*Sir Amiel's Journal*](Lore_Sir_Amiel%27s_Journal.md) — [Sir Amiel](https://en.uesp.net/wiki/Oblivion:Sir_Amiel)
+12. [^](#cite_ref-12) [Nature's Fury](https://en.uesp.net/wiki/Oblivion:Nature%27s_Fury) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+13. [^](#cite_ref-13) [The Path of the Righteous](https://en.uesp.net/wiki/Oblivion:The_Path_of_the_Righteous) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*

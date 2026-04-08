@@ -1,0 +1,54 @@
+# Dawnbreak
+
+| Dawnbreak | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Summerset Isles](Lore_Summerset_Isles.md) |
+| Region | [Auridon](Lore_Auridon.md) |
+| Subregions | [Vafe](Lore_Vafe.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:West_Guard), [ESO](https://en.uesp.net/wiki/Online:Dawnbreak) |
+
+[![](https://images.uesp.net/thumb/2/2f/ON-place-Dawnbreak.jpg/200px-ON-place-Dawnbreak.jpg)](https://en.uesp.net/wiki/File:ON-place-Dawnbreak.jpg) [](https://en.uesp.net/wiki/File:ON-place-Dawnbreak.jpg) Dawnbreak, mostly destroyed, circa [2E 582](Lore_Second_Era.md#2E_582) Dawnbreak (also known as **West Guard**)<sup>[[1]](#cite_note-RGMap-1)</sup> is a small town located in northern [Auridon](Lore_Auridon.md), in a valley of southern [Vafe](Lore_Vafe.md). It is neighbored by numerous settlements, including [Firsthold](Lore_Firsthold.md) to the northwest, [Skywatch](Lore_Skywatch.md) to the southeast, and [Shattered Grove](Lore_Shattered_Grove.md) to the south.
+
+## Layout & Geography
+[![](https://images.uesp.net/thumb/e/e7/ON-place-Isle_of_Contemplation.jpg/200px-ON-place-Isle_of_Contemplation.jpg)](https://en.uesp.net/wiki/File:ON-place-Isle_of_Contemplation.jpg) [](https://en.uesp.net/wiki/File:ON-place-Isle_of_Contemplation.jpg) Surroundings of Dawnbreak Dawnbreak is located in a valley of southern Vafe. The settlement has no walls or any other defensive structure. Most of the town is built along the road between Skywatch and Firsthold.<sup>[[2]](#cite_note-ESODawnbreak-2)</sup>
+
+The surrounding environment is praised for its beauty, the paramount of serenity on all of Tamriel. The locals enjoy its calm and magical atmosphere,<sup>[[3]](#cite_note-AEV-3)</sup> one with lush, verdant hills, towering escarpments, and emerald woodland. The local [Altmer](Lore_Altmer.md) prune and dig at their surroundings in an effort to tame the rugged but beautiful countryside, to the standard of the Isle of Comtemplation. However, much of southern Vafe is wild and untouched. The forest covers almost forgotten Aldmeri ruins.<sup>[[4]](#cite_note-TIEGTSI-4)</sup><sup>[[5]](#cite_note-ESOBewan-5)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/a/a0/AR-place-West_Guard.jpg/200px-AR-place-West_Guard.jpg)](https://en.uesp.net/wiki/File:AR-place-West_Guard.jpg) [](https://en.uesp.net/wiki/File:AR-place-West_Guard.jpg) West Guard during the Imperial Simulacrum It is unknown exactly when Dawnbreak was founded. It has often been used as an inland supply stop between Firsthold and Skywatch, much like any other town in Auridon.<sup>[[6]](#cite_note-Landare-6)</sup> There was a time when Dawnbreak was a minor mining town, but the tunnels were all abandoned by the mid-Second Era.<sup>[[7]](#cite_note-ESOAshes-7)</sup>
+
+[![](https://images.uesp.net/thumb/6/6a/ON-quest-Through_the_Ashes.jpg/200px-ON-quest-Through_the_Ashes.jpg)](https://en.uesp.net/wiki/File:ON-quest-Through_the_Ashes.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Through_the_Ashes.jpg) Daedric portals to the [Deadlands](Lore_Deadlands.md) in [2E 582](Lore_Second_Era.md#2E_582) [Queen Ayrenn](Lore_Ayrenn.md) toured through Auridon following her pilgrimage to [Tanzelwil](Lore_Tanzelwil.md) in [2E 582](Lore_Second_Era.md#2E_582), and Dawnbreak was en route towards Firsthold. Preparations for the scheduled visit lasted for months and was mostly supervised by the Canonreeve's wife, Tenyemanwe.<sup>[[8]](#cite_note-DD-8)</sup> The people very excited about the upcoming visit, even if some of them were still unaccepting of the newly formed alliance with the [Bosmer](Lore_Bosmer.md) and [Khajiit](Lore_Khajiit.md).<sup>[[9]](#cite_note-FD-9)</sup> Tenyemanwe was one of the most loyal subjects to Queen Ayrenn in Dawnbreak, and tried to stop her husband from becoming involved with the [Veiled Heritance](Lore_Veiled_Heritance.md) and [High Kinlady Estre](Lore_Estre.md), the Veiled Queen, unsuccessfully.<sup>[[10]](#cite_note-ESOTenyemanwe-10)</sup> His involvement with the radical group led to Dawnbreak's partial destruction. Estre summoned daedra in the town's abandoned mine, from the [Deadlands](Lore_Deadlands.md) of [Oblivion](Lore_Oblivion.md). They set the town alight and attacked the people, until the First Auridon Marines intervened and organized the evacuation. The marines managed to stop the hordes from spreading across the area until an [Agent](Lore_Hero.md#Soulless One) of the Queen came and defeated the [Dremora](Lore_Dremora.md) that orchestrated the assault.<sup>[[7]](#cite_note-ESOAshes-7)</sup> Dawnbreak's devastation was nothing but an attempt to impede the pass of Queen Ayrenn and her troops to Firsthold, and allowing their Maormer allies to roam freely around northern Auridon.<sup>[[11]](#cite_note-TGo A-11)</sup> The damage was severe, many marines and locals either died or was injured. The town was rendered temporarily uninhabitable,<sup>[[12]](#cite_note-ESOAlmion-12)</sup><sup>[[13]](#cite_note-ESOQoramir-13)</sup><sup>[[14]](#cite_note-ESOArtinaire-14)</sup> however, most of the citizens were safely escorted out of the settlement and the road to Firsthold remained open from the South.<sup>[[15]](#cite_note-ESOSonlonwe-15)</sup><sup>[[16]](#cite_note-ESOOhtandilwe-16)</sup>
+
+After the city burned down, Tenyemanwe, organized the town's reconstruction,<sup>[[10]](#cite_note-ESOTenyemanwe-10)</sup> which took quite some time, giving the mass destruction.<sup>[[17]](#cite_note-Hecalindil-17)</sup><sup>[[18]](#cite_note-ESOEsaranir-18)</sup> Despite his part in the conflict, Sinyon was not charged with treason, due to his renounced relationship with both Estre and the Veiled Heritance.<sup>[[19]](#cite_note-ESOCanonreeve-19)</sup><sup>[[10]](#cite_note-ESOTenyemanwe-10)</sup> The town of still stood hundreds of years later, by the time of the [Tiber War](Lore_Tiber_War.md).<sup>[[1]](#cite_note-RGMap-1)</sup>
+
+By the time of the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), West Guard was still a vibrant town, being under the rule of Count Corelas. It had a rivalry with [Belport Run](Lore_Belport_Run.md) and [Vulkhel Guard](Lore_Vulkhel_Guard.md), and had direct road connections to [Skywatch](Lore_Skywatch.md) and [Firsthold](Lore_Firsthold.md).<sup>[[20]](#cite_note-Arena-20)</sup>
+
+## Government & Culture
+A Canonreeve is tasked to rule the settlement,<sup>[[19]](#cite_note-ESOCanonreeve-19)</sup> which has been bestowed with his own heraldic arms.<sup>[[21]](#cite_note-ESOContraband-21)</sup>
+
+Dawnbreak's main trade once it was no longer mining town was husbandry,<sup>[[7]](#cite_note-ESOAshes-7)</sup> mostly of horses,<sup>[[10]](#cite_note-ESOTenyemanwe-10)</sup> and inland trade, as the settlement was founded as a supply-stop between Firsthold and Skywatch.<sup>[[6]](#cite_note-Landare-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-RGMap_1-0)***</sup><sup>***[b](#cite_ref-RGMap_1-1)***</sup> [Map of West Tamriel – *The Elder Scrolls Adventures: Redguard*](https://en.uesp.net/wiki/File:RG-map-West_Tamriel-1024x768.png)
+2. [^](#cite_ref-ESODawnbreak_2-0) [Dawnbreak](https://en.uesp.net/wiki/Online:Dawnbreak)'s layout in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-AEV_3-0) [*Auridon Explored, Chapter V*](Lore_Auridon_Explored,_Chapter_V.md) — [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer)
+4. [^](#cite_ref-TIEGTSI_4-0) [*The Improved Emperor's Guide to Tamriel: The Summerset Isles: Auridon*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Summerset_Isles) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+5. [^](#cite_ref-ESOBewan_5-0) [Bewan](https://en.uesp.net/wiki/Online:Bewan)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. ^ <sup>***[a](#cite_ref-Landare_6-0)***</sup><sup>***[b](#cite_ref-Landare_6-1)***</sup> [Captain Landare](https://en.uesp.net/wiki/Online:Captain_Landare)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-ESOAshes_7-0)***</sup><sup>***[b](#cite_ref-ESOAshes_7-1)***</sup><sup>***[c](#cite_ref-ESOAshes_7-2)***</sup> [Through the Ashes](https://en.uesp.net/wiki/Online:Through_the_Ashes) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-DD_8-0) [*Dawnbreak Decree*](https://en.uesp.net/wiki/Online:Dawnbreak_Decree) — [Tenyemanwe](https://en.uesp.net/wiki/Online:Tenyemanwe)
+9. [^](#cite_ref-FD_9-0) [*Fasaran's Diary*](https://en.uesp.net/wiki/Online:Fasaran%27s_Diary) — [Fasaran](https://en.uesp.net/wiki/Online:Fasaran)
+10. ^ <sup>***[a](#cite_ref-ESOTenyemanwe_10-0)***</sup><sup>***[b](#cite_ref-ESOTenyemanwe_10-1)***</sup><sup>***[c](#cite_ref-ESOTenyemanwe_10-2)***</sup><sup>***[d](#cite_ref-ESOTenyemanwe_10-3)***</sup> [Tenyemanwe](https://en.uesp.net/wiki/Online:Tenyemanwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-TGo A_11-0) [*The Gift of Arson*](https://en.uesp.net/wiki/Online:The_Gift_of_Arson)
+12. [^](#cite_ref-ESOAlmion_12-0) [Almion](https://en.uesp.net/wiki/Online:Almion)'s death in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-ESOQoramir_13-0) [Qoramir](https://en.uesp.net/wiki/Online:Qoramir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-ESOArtinaire_14-0) [Sergeant Artinaire](https://en.uesp.net/wiki/Online:Sergeant_Artinaire)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-ESOSonlonwe_15-0) [Sonlonwe](https://en.uesp.net/wiki/Online:Sonlonwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-ESOOhtandilwe_16-0) [Ohtandilwe](https://en.uesp.net/wiki/Online:Ohtandilwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-Hecalindil_17-0) [Hecalindil](https://en.uesp.net/wiki/Online:Hecalindil)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-ESOEsaranir_18-0) [Esaranir](https://en.uesp.net/wiki/Online:Esaranir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. ^ <sup>***[a](#cite_ref-ESOCanonreeve_19-0)***</sup><sup>***[b](#cite_ref-ESOCanonreeve_19-1)***</sup> [Canonreeve Sinyon](https://en.uesp.net/wiki/Online:Canonreeve_Sinyon)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. [^](#cite_ref-Arena_20-0) Events of *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+21. [^](#cite_ref-ESOContraband_21-0) [Canonreeve's Silken Handkerchiefs](https://en.uesp.net/wiki/Online:Contraband_C#Canonreeve.27s_Silken_Handkerchiefs)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)

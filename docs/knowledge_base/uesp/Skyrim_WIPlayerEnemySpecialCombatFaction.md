@@ -1,0 +1,3 @@
+# WIPlayerEnemySpecialCombatFaction
+
+Redirects to [WIPlayerEnemySpecialCombatFaction](Skyrim_Factions_W.md#WIPlayerEnemySpecialCombatFaction).

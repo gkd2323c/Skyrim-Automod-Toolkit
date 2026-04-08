@@ -1,0 +1,23 @@
+# Cygnus Irregulars
+
+[![](https://images.uesp.net/thumb/a/a4/LG-cardart-Cygnus_Standard_Bearer.jpg/200px-LG-cardart-Cygnus_Standard_Bearer.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Cygnus_Standard_Bearer.jpg) [](https://en.uesp.net/wiki/File:LG-cardart-Cygnus_Standard_Bearer.jpg) A Cygnus Standard Bearer (Legends) The Cygnus Irregulars were a cohort of the [Imperial Legion](Lore_Imperial_Legion.md) under the command of Prefect Calo that is known to have been active from [2E 576](Lore_Second_Era.md#2E_576) to [2E 582](Lore_Second_Era.md#2E_582). The Irregulars were mainly military engineers, scouts, and trainers.<sup>[[1]](#cite_note-calo-1)</sup>
+
+In 2E 576, the Irregulars were assigned to accompany [Euraxia Tharn](Lore_Euraxia_Tharn.md) on a diplomatic mission to [Elsweyr](Lore_Elsweyr.md), but she instead had King [Hemakar](Lore_Hemakar.md) and the rest of the royal family of [Rimmen](Lore_Rimmen.md) executed and declared herself Queen of Rimmen, an event known as the [Frostfall Coup](Lore_The_Frostfall_Coup.md).<sup>[[1]](#cite_note-calo-1)</sup><sup>[[2]](#cite_note-TFC-2)</sup> After the Frostfall Coup, the Irregulars feigned loyalty to Euraxia due to being outnumbered by her Nibenese mercenaries.<sup>[[1]](#cite_note-calo-1)</sup> However, they often sabotaged her plans.<sup>[[1]](#cite_note-calo-1)</sup><sup>[[3]](#cite_note-CSI-3)</sup>
+
+In 2E 582, the Cygnus Irregulars were pardoned by Lord Gharesh-ri and formed an alliance with Queen Khamira against the remaining Euraxians and the dragons after Calo was imprisoned for refusing to follow orders handed down directly from Euraxia.<sup>[[1]](#cite_note-calo-1)</sup><sup>[[3]](#cite_note-CSI-3)</sup> Following this, the Irregulars helped at the Dov-Vahl Shrine, standing guard against any Euraxian reinforcements while the [Dragonhorn](Lore_Dragonhorn.md) was recovered.<sup>[[4]](#cite_note-TFO-4)</sup> The Irregulars assisted the Northern Elsweyr Defense Force at the Moon Gate of Anequina, holding off the Euraxians and [dragons](Lore_Dragon.md) from Jode's Core.<sup>[[5]](#cite_note-JC-5)</sup>
+
+After the defeat of the Euraxians and dragons in [Northern Elsweyr](Lore_Northern_Elsweyr.md), the surviving Irregulars and Calo attended the royal coronation of Queen Khamira.<sup>[[6]](#cite_note-THo A-6)</sup> She accepted the assistance of the Cygnus Irregulars to help Elsweyr as engineers and trainers.<sup>[[1]](#cite_note-calo-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/2/28/ON-npc-Prefect_Calo_02.jpg/200px-ON-npc-Prefect_Calo_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Prefect_Calo_02.jpg) Prefect Calo, commander of the Cygnus Irregulars (ESO)
+- [![](https://images.uesp.net/thumb/c/cd/LG-cardart-Shrewd_Strategist.jpg/200px-LG-cardart-Shrewd_Strategist.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Shrewd_Strategist.jpg) Prefect Calo (Legends)
+- [![](https://images.uesp.net/thumb/a/a0/ON-npc-Cygnus_Irregular.jpg/200px-ON-npc-Cygnus_Irregular.jpg)](https://en.uesp.net/wiki/File:ON-npc-Cygnus_Irregular.jpg) A female Cygnus Irregular (ESO)
+- [![](https://images.uesp.net/thumb/e/ef/ON-npc-Cygnus_Irregular_03.jpg/200px-ON-npc-Cygnus_Irregular_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-Cygnus_Irregular_03.jpg) A male Cygnus Irregular (ESO)
+
+## References
+1. ^ <sup>***[a](#cite_ref-calo_1-0)***</sup><sup>***[b](#cite_ref-calo_1-1)***</sup><sup>***[c](#cite_ref-calo_1-2)***</sup><sup>***[d](#cite_ref-calo_1-3)***</sup><sup>***[e](#cite_ref-calo_1-4)***</sup><sup>***[f](#cite_ref-calo_1-5)***</sup> [Prefect Calo](https://en.uesp.net/wiki/Online:Prefect_Calo)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+2. [^](#cite_ref-TFC_2-0) [*The Frostfall Coup*](Lore_The_Frostfall_Coup.md) — [Tandemen](Lore_Books_by_Author.md#Tandemen), Sapiarch of Foreign Observations
+3. ^ <sup>***[a](#cite_ref-CSI_3-0)***</sup><sup>***[b](#cite_ref-CSI_3-1)***</sup> [*Captain Saulinia's Instructions*](https://en.uesp.net/wiki/Online:Captain_Saulinia%27s_Instructions) — [Captain Saulinia](https://en.uesp.net/wiki/Online:Captain_Saulinia)
+4. [^](#cite_ref-TFO_4-0) [The Final Order](https://en.uesp.net/wiki/Online:The_Final_Order) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+5. [^](#cite_ref-JC_5-0) [Jode's Core](https://en.uesp.net/wiki/Online:Jode%27s_Core_(quest)) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+6. [^](#cite_ref-THo A_6-0) [The Heir of Anequina](https://en.uesp.net/wiki/Online:The_Heir_of_Anequina) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*

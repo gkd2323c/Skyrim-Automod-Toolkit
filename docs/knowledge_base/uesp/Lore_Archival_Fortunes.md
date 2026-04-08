@@ -1,0 +1,24 @@
+# Archival Fortunes
+
+[](https://en.uesp.net/wiki/File:ON-icon-Archival_Fortunes.png) [](https://en.uesp.net/wiki/File:ON-icon-Archival_Fortunes.png) An Archival Fortune (ESO) Archival Fortunes are a form of [currency](Lore_Currency.md) used in the [Infinite Archive](Lore_Infinite_Archive.md), a border realm of [Apocrypha](Lore_Apocrypha.md). They are [soul](Lore_Souls.md) -forged currency, taking the form of eye-focused signets. Both [Daedra](Lore_Daedra.md) and mortal scholars dwelling in the Infinite Archive utilize them for trade. Magical analysis unmistakably reveals the incorporation of [soul gems](Lore_Soul_Gems.md) in crafting these distinctive signets. A clear connection exists between comprehending the aetheric index at the core of the Archive and acquiring these iconic signets, likely explaining their value within that realm's confines.<sup>[[1]](#cite_note-Ant-1)</sup> Archival Fortunes were frequently employed as rewards for individuals who carried out tasks for the [hierophant](Lore_Malkhest.md) and other denizens of the archive,<sup>[[2]](#cite_note-Container Quest-2)</sup><sup>[[3]](#cite_note-IA-3)</sup><sup>[[4]](#cite_note-AF-4)</sup> such as halting the invasion of [Tho'at Replicanum](Lore_Tho%27at_Replicanum.md),<sup>[[5]](#cite_note-MM-5)</sup><sup>[[6]](#cite_note-TMOI-6)</sup><sup>[[7]](#cite_note-RE-7)</sup> slaying [Fabled](Lore_Fabled.md) and Marauder [maligraphies](Lore_Maligraphy.md),<sup>[[8]](#cite_note-Esalinwe-8)</sup><sup>[[9]](#cite_note-IAMF-9)</sup> or helping with restoring the lost pieces of literature, such as *[Fynboar the Resurrected](Lore_Fynboar_the_Resurrected.md)*<sup>[[10]](#cite_note-ABB-10)</sup><sup>[[11]](#cite_note-RTR-11)</sup> or *Theories on Apocrypha*.<sup>[[12]](#cite_note-Destozuno-12)</sup><sup>[[13]](#cite_note-ROT-13)</sup> Exclusive exotic goods were often available for purchase solely using these fortunes within the Archive.<sup>[[14]](#cite_note-Merchants-14)</sup>
+
+[Gabrielle Benele](Lore_Gabrielle_Benele.md) of the [University of Gwylim](Lore_University_of_Gwylim.md) was known for delving into the research of the Archival Fortunes.<sup>[[1]](#cite_note-Ant-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Archival_Fortunes).
+
+## References
+1. ^ <sup>***[a](#cite_ref-Ant_1-0)***</sup><sup>***[b](#cite_ref-Ant_1-1)***</sup> [Archival Fortune Pouch](https://en.uesp.net/wiki/Online:Apocrypha_Antiquities#Archival_Fortune_Pouch), [Archival Fortune Pouch, Grand](https://en.uesp.net/wiki/Online:Apocrypha_Antiquities#Archival_Fortune_Pouch.2C_Grand), and [Archival Fortune Pouch, Lucky](https://en.uesp.net/wiki/Online:Apocrypha_Antiquities#Archival_Fortune_Pouch.2C_Lucky) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Container Quest_2-0) Archival Fortunes Container
+3. [^](#cite_ref-IA_3-0) [Infinite Archive](https://en.uesp.net/wiki/Online:Infinite_Archive) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-AF_4-0) [Archival Fortunes](https://en.uesp.net/wiki/Online:Archival_Fortunes) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-MM_5-0) [Master Malkhest](https://en.uesp.net/wiki/Online:Master_Malkhest)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-TMOI_6-0) [The Margins of Ire](https://en.uesp.net/wiki/Online:The_Margins_of_Ire) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-RE_7-0) [Replication Elimination](https://en.uesp.net/wiki/Online:Replication_Elimination) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-Esalinwe_8-0) [Esalinwe](https://en.uesp.net/wiki/Online:Esalinwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-IAMF_9-0) [Infinite Avenger: Marauder](https://en.uesp.net/wiki/Online:Infinite_Avenger:_Marauder) quest and [Infinite Avenger: Fabled](https://en.uesp.net/wiki/Online:Infinite_Avenger:_Fabled) in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-ABB_10-0) [A Bookbinder's Bind](https://en.uesp.net/wiki/Online:A_Bookbinder%27s_Bind) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-RTR_11-0) [Restoring the Resurrected](https://en.uesp.net/wiki/Online:Restoring_the_Resurrected) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-Destozuno_12-0) [Destozuno](https://en.uesp.net/wiki/Online:Destozuno)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-ROT_13-0) [Restorer of Theories](https://en.uesp.net/wiki/Online:Restorer_of_Theories) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-Merchants_14-0) [Filer Tezurs](https://en.uesp.net/wiki/Online:Filer_Tezurs), [Filer Brax](https://en.uesp.net/wiki/Online:Filer_Brax), and [Filer Ool](https://en.uesp.net/wiki/Online:Filer_Ool) in [ESO](https://en.uesp.net/wiki/Online:Online)

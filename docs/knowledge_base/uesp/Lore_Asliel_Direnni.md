@@ -1,0 +1,28 @@
+# Asliel Direnni
+
+| Asliel Direnni | | | |
+| --- | --- | --- | --- |
+| Race | [Altmer](Lore_Altmer.md) | Gender | Male |
+| Born | [Merethic Era](Lore_Merethic_Era.md#Merethic_Era) <br> [Tyrigel](Lore_Tyrigel.md) | | |
+| Resided in | [Tyrigel](Lore_Tyrigel.md) <br> [Artaeum](Lore_Artaeum.md) | | |
+
+[![A Clan Direnni banner](https://images.uesp.net/thumb/8/86/ON-banner-Direnni.png/150px-ON-banner-Direnni.png)](https://en.uesp.net/wiki/File:ON-banner-Direnni.png) Asliel Direnni was an [Altmer](Lore_Altmer.md) member of Clan [Direnni](Lore_Direnni.md), originating from the [Tyrigel](Lore_Tyrigel.md) on [Summerset Isle](Lore_Summerset_Isle.md). He was a pioneer alchemist and a member of a [Psijic Order](Lore_Psijic_Order.md).<sup>[[1]](#cite_note-Once-1)</sup>
+
+## History
+Asliel's beginnings were humble. He was born in Tyrigel, a small settlement in the northeastern parts of [Summerset Isle](Lore_Summerset_Isle.md). During this time Clan Direnni was a small group composed mostly of farmers. He started as a simple planter and herbalist. Soon he became a local medic, who helped people who sought cures for various diseases. Through his work he discovered an exact formula for combining black lichen and roobrush to create a cure for all manners of poison, as well as the amount of willow anther to crush and mix with chokeweed to cure diseases.<sup>[[2]](#cite_note-DRD-2)</sup>
+
+At some point, the lands of Direnni were noticed by the [Locvar Tribe](Lore_Locvar.md), a group of barbarians native to the isle. They decided to raid Tyrigel. The farmers of Tyrigel were helpless and could only flee and watch the Locvar take the best of their crops, raid after raid. Asliel soon devised a plan to defend his people. He devised a concoction that turned most able-bodied Direnni invisible. Alchemically imbued farmers were able to defend their lands from numerous raids until Locvar sent a scout to find their secrets.<sup>[[2]](#cite_note-DRD-2)</sup>
+
+Once the source of their losses was discovered the Locvar decided to make the alchemist unable to help his kin. Asliel was kidnapped by the Locvar without alerting the other Direnni. The chieftain of the Locvar tribe decided that he wanted to use the Direnni's weapon against them and coveted the secret of the invisibility potion. The chieftain's scout told him that Asliel had used the [dust of a vampire](Lore_Vampire_Dust.md) to make the farmers invisible, but he was unsure what the other ingredient had been. The Locvar chieftain ordered Asliel to be tortured in order to extract from him the secrets of the alchemical concoction. Ultimately the tortured Altmer lied, telling his torturers that the second element of the mixture was [Glow Dust](https://en.uesp.net/wiki/Lore:Glow_Dust), the remains of [Will-o-the-Wisps](Lore_Will-o-the-Wisp.md).<sup>[[2]](#cite_note-DRD-2)</sup>
+
+The tribesmen of the Locvar gathered the ingredients and the captured alchemist began the process of brewing the potion. While he was not being observed, he added [redwort](https://en.uesp.net/wiki/Lore:Redwort_Flower) to the concoction – a very common herb and actual second ingredient of the invisibility potion. Once it was ready the Locvar chieftain ordered Asliel to drink it first. The potion Asliel created was in fact an invisibility potion, but it was also a very potent poison. Asliel took the poison, but immediately after cured himself with the antidote. The Locvar tribe was tricked - all the members drank the potion of invisibility which was also poison, and they all perished. The Direnni were in danger no more, and without the aggressive neighbors that disturbed their growth, eventually grew to become a powerful and prosperous faction.<sup>[[2]](#cite_note-DRD-2)</sup>
+
+One of his greatest achievements was formulating alchemy into an art and science. He revolutionized the understanding of alchemy, and even pioneered a way to combat the spread of [vampirism](Lore_Vampire.md) by making a potion that poisoned the victim's blood and killed vampires who attempted to feast on them. The formula to make such potions has since been lost to history.<sup>[[2]](#cite_note-DRD-2)</sup> He was also an author of *Compendious Almanac of Reagents*, a tome without which "the art of Alchemy was all but undefined".<sup>[[1]](#cite_note-Once-1)</sup> Due to his excellence in the field of alchemy he was invited to join the first monks of the Psijic Order.<sup>[[1]](#cite_note-Once-1)</sup><sup>[[2]](#cite_note-DRD-2)</sup>
+
+## Notes
+- Alembic is of the prominent symbols of Clan Direnni. Some Direnni banners feature an alembic. It is unknown whether it is related to his accomplishment.<sup>[[3]](#cite_note-Banner-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Once_1-0)***</sup><sup>***[b](#cite_ref-Once_1-1)***</sup><sup>***[c](#cite_ref-Once_1-2)***</sup> [*Once*](Lore_Once.md) — [Beredalmo the Signifier](Lore_Books_by_Author.md#Beredalmo_the_Signifier)
+2. ^ <sup>***[a](#cite_ref-DRD_2-0)***</sup><sup>***[b](#cite_ref-DRD_2-1)***</sup><sup>***[c](#cite_ref-DRD_2-2)***</sup><sup>***[d](#cite_ref-DRD_2-3)***</sup><sup>***[e](#cite_ref-DRD_2-4)***</sup><sup>***[f](#cite_ref-DRD_2-5)***</sup> [*De Rerum Dirennis*](Lore_De_Rerum_Dirennis.md) — [Vorian Direnni](Lore_Books_by_Author.md#Vorian_Direnni)
+3. [^](#cite_ref-Banner_3-0) [Direnni Banner, Hanging](https://en.uesp.net/wiki/Online:Direnni_Banner,_Hanging) item description and appearance in [ESO](https://en.uesp.net/wiki/Online:Online)

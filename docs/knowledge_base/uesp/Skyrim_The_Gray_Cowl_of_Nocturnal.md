@@ -1,0 +1,73 @@
+# The Gray Cowl of Nocturnal
+
+| **This page is currently being rewritten as part of the [Skyrim Quest Redesign Project](https://en.uesp.net/wiki/UESPWiki:Skyrim_Quest_Redesign_Project).** <br> The page is being rewritten and checked in several stages. All users are welcome to make changes to the page. If you make a change that is relevant to the project, please update this template accordingly, and make sure you have observed the [project guidelines](https://en.uesp.net/wiki/UESPWiki:Skyrim_Quest_Redesign_Project#Guidelines). <br> Details **Walkthrough**: written by [Legoless](https://en.uesp.net/wiki/User:Legoless), *not checked* <br> **Reward**: written by Sab Sparrow, checked by [Legoless](https://en.uesp.net/wiki/User:Legoless) |
+| --- |
+
+| [![SR-qico-Miscellaneous.png](https://images.uesp.net/thumb/9/96/SR-qico-Miscellaneous.png/172px-SR-qico-Miscellaneous.png)](https://en.uesp.net/wiki/File:SR-qico-Miscellaneous.png) | **Investigate the legend of the Gray Fox.** |
+| --- | --- |
+
+| Quest Giver: | Automatically added after purchasing [The Gray Cowl Returns!](Skyrim_The_Gray_Cowl_Returns!.md) [Creation](Skyrim_Creation_Club.md) |
+| --- | --- |
+| Location(s): | [Riften](Skyrim_Riften.md), [Solitude](Skyrim_Solitude.md), [Silverdrift Lair](Skyrim_Silverdrift_Lair.md) |
+| Reward: | [Gray Cowl of Nocturnal](Skyrim_Gray_Cowl_of_Nocturnal.md) |
+| ID: | cc BGSSSE020_Quest |
+| Suggested Level: | 6 |
+| Added by: | [The Gray Cowl Returns!](Skyrim_The_Gray_Cowl_Returns!.md) |
+
+[![](https://images.uesp.net/thumb/c/c2/SR-quest-The_Gray_Cowl_of_Nocturnal_02.jpg/200px-SR-quest-The_Gray_Cowl_of_Nocturnal_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-The_Gray_Cowl_of_Nocturnal_02.jpg) [](https://en.uesp.net/wiki/File:SR-quest-The_Gray_Cowl_of_Nocturnal_02.jpg) Follow a series of dead drops in search of the Gray Cowl
+## Quick Walkthrough
+1. Kill the [thief](Skyrim_Thief_(The_Gray_Cowl_Returns!).md) in [Riften](Skyrim_Riften.md) graveyard and read his [note](Skyrim_Thief%27s_Note.md).
+2. Speak to a Riften [beggar](Skyrim_Beggars.md) and break into the strongbox in [Bolli's House](Skyrim_Bolli%27s_House.md).
+3. Obtain the [deed](Skyrim_Land_Title_and_Deed.md) from [Erikur's House](Skyrim_Erikur%27s_House.md) and find the barrel behind [The Winking Skeever](Skyrim_The_Winking_Skeever.md).
+4. Locate the [key](Skyrim_Silverdrift_Chest_Key.md) in [Silverdrift Lair](Skyrim_Silverdrift_Lair.md) and retrieve the [Ancestral Sword of Clan Ice-Blade](Skyrim_Ancestral_Sword_of_Clan_Ice-Blade.md).
+5. Bring the deed and the sword back to the Riften graveyard for your reward.
+
+## Detailed Walkthrough
+
+### The Gray Cowl
+To begin this quest, you must make your way to the [Riften](Skyrim_Riften.md) graveyard and defend yourself from a confused [thief](Skyrim_Thief_(The_Gray_Cowl_Returns!).md) who will attack you on sight (or, if the guards see him before you do, they may kill him and you will get the quest notification to loot his body before you ever found him). He has apparently come to the graveyard following rumors that the Gray Fox, the legendary leader of the [Thieves Guild](Skyrim_Thieves_Guild_(faction).md), is buried there together with the [Gray Cowl](Skyrim_Gray_Cowl_of_Nocturnal.md), a Daedric artifact stolen from [Nocturnal](Skyrim_Nocturnal.md) herself. Kill the thief and read the [note](Skyrim_Thief%27s_Note.md) on his body to learn that he was an acquaintance of the previous Gray Fox, who had died and therefore passed on his Cowl. It seems this thief had the same idea as you and sought to check the grave. The note also mentions a code phrase to use on the town [beggars](Skyrim_Beggars.md): "Shadow hide you."
+
+Track down either [Edda](Skyrim_Edda.md) or [Snilf](Skyrim_Snilf.md) and say the phrase to be passed a [note](Skyrim_Stranger%27s_Note.md) from a Stranger. This individual is offering you a job, provided you can break into the strongbox upstairs in [Bolli's House](Skyrim_Bolli%27s_House.md) for further instructions. You can try to [Persuade](Skyrim_Speech.md) or Intimidate his wife [Nivenor](Skyrim_Nivenor.md) into giving you the [key](Skyrim_Nivenor%27s_Strongbox_Key.md) by telling her a thief planted something inside, or you can just pick the lock yourself. Within, you will find a [forged deed](Skyrim_Forged_Deed.md), *[Nivenor's Journal](Skyrim_Nivenor%27s_Journal.md)*, and *[Stranger's Instructions](Skyrim_Stranger%27s_Instructions.md)*. You can also find a note labeled *[Requested Report](Skyrim_Requested_Report.md)* on an end table in his house for more insight to what is happening. You will need to read the instructions to begin the next stage of the job.
+
+### The Solitude Job
+You are instructed to take the forged deed to [Solitude](Skyrim_Solitude.md) and break into [Erikur's House](Skyrim_Erikur%27s_House.md), where you will steal the real [land title and deed](Skyrim_Land_Title_and_Deed.md) and replace it with the fake one. However, with a little snooping around the house, you will be pointed towards a *[Letter to Gisli](Skyrim_Letter_to_Gisli.md)*, which reveals that [Gisli](Skyrim_Gisli.md) and her associates used a young boy as a political puppet in [Jehanna](Lore_Jehanna.md) to approve land transfers as the most senior member of the Ice-Blade clan, before shipping him off to Riften. If you confront Gisli with this information, you can offer to buy the deed off her for 8,000 gold, or you can attempt to Persuade her with high [Speech](Skyrim_Speech.md) skill, without ever needing the forged document. You can also simply pickpocket her.
+
+[![](https://images.uesp.net/thumb/3/30/SR-quest-The_Gray_Cowl_of_Nocturnal.jpg/200px-SR-quest-The_Gray_Cowl_of_Nocturnal.jpg)](https://en.uesp.net/wiki/File:SR-quest-The_Gray_Cowl_of_Nocturnal.jpg) [](https://en.uesp.net/wiki/File:SR-quest-The_Gray_Cowl_of_Nocturnal.jpg) A stranger in the flesh Once you have the original deed in hand, head to a barrel behind [The Winking Skeever](Skyrim_The_Winking_Skeever.md) for your next set of instructions. *[Stranger's Final Instructions](Skyrim_Stranger%27s_Final_Instructions.md)* promises to introduce you to the Gray Fox if you enter [Silverdrift Lair](Skyrim_Silverdrift_Lair.md) and recover the [Ancestral Sword of Clan Ice-Blade](Skyrim_Ancestral_Sword_of_Clan_Ice-Blade.md). The sword can be found in a locked chest deep inside the dungeon. Though you can just pick open the lock, you can find the [key](Skyrim_Silverdrift_Chest_Key.md) in the next room to the north on the body of a dead [draugr](Skyrim_Draugr.md). This corpse is distinguished by a lit lantern placed behind it, as well as two "Loot" [shadowmarks](Skyrim_Shadowmarks_(Thieves_Guild).md) above it. The chest also contains a [document](Skyrim_The_Sword_of_Clan_Ice-Blade.md) describing the sword, as well as boss-level loot. You do not have to continue exploring Silverdrift Lair.
+
+### Meeting with a Stranger
+After you have exited the dungeon with the Ancestral Sword, you will need to return to the Riften graveyard and locate the Gray Fox's tombstone. There, you will find the *[Stranger's Journal](Skyrim_Stranger%27s_Journal.md)*, revealing that the current Gray Fox is in fact the true heir of the Ice-Blade clan. After Gisli's associates poisoned his sister and endangered her orphan son, he knew he had to pass on the Cowl to someone else and return to his old life. The journal ends there, but after reading it you will be immediately confronted by none other than the [Gray Fox](Skyrim_Stranger.md) himself. He will take the sword and the deed from your possession, granting you the [Gray Cowl of Nocturnal](Skyrim_Gray_Cowl_of_Nocturnal.md) in return. Having passed on the mantle, the Stranger's true identity is revealed to be [Pjofr Ice-Blade](Skyrim_Pjofr_Ice-Blade.md), accompanied by his now-rescued nephew [Smaref Ice-Blade](Skyrim_Smaref_Ice-Blade.md). On the promise that you not breathe a word of these events to anyone, Pjofr and his charge depart for Jehanna, leaving you with a powerful enchanted [light](Skyrim_Light_Armor.md) [helmet](Skyrim_Helmet.md).
+
+Just be sure not to equip the Cowl in the middle of town, as it will turn all [guards](Skyrim_Guards.md) hostile if they see you wearing it.
+
+## Notes
+- This quest would originally begin automatically upon installing [The Gray Cowl Returns!](Skyrim_The_Gray_Cowl_Returns!.md) [Creation](Skyrim_Creation_Club.md). This was changed with the [Anniversary Edition](Skyrim_Anniversary_Edition.md) update.
+- The thief may be attacked and killed by a patrolling guard off screen without your involvement. That makes the quest appear to start randomly by itself. In that case, just go to the graveyard and locate the body by yourself.
+- Using some Thief skills such as Pickpocketing and Lockpicking will cause you to fail Optional objectives to use Speech (Bribery, Persuasion, or Intimidation) with Nivenor and Gisli. Similarly, in Silverdrift Lair, the quest objective is shown to be the chest, which you encounter before finding the relevant corpse.
+- The Ancestral Sword never goes into Pjofr Ice-Blade's inventory, so you can't see if it is more powerful when equipped by its rightful owner.
+
+## Quest Stages
+| The Gray Cowl of Nocturnal (cc BGSSSE020_Quest) | | |
+| --- | --- | --- |
+| Stage | Finishes Quest | Journal Entry |
+| 10 | | It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. *Objective 10:* Travel to the cemetery in Riften |
+| 20 | | It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. At the cemetery, I found a thief loitering near a tombstone. *Objective 20:* Search the thief's body |
+| 25 | | It's rumored that the Gray Fox is buried in the cemetery in Riften. If so, he may have been buried with his cowl. At the cemetery, I found a thief loitering near a tombstone. On his body was a note. *Objective 25:* Read the thief's note |
+| 30 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I should speak to a beggar and try to learn more. *Objective 30:* Speak the code phrase to a beggar |
+| 35 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I then spoke to a beggar who handed me a note. *Objective 35:* Read the Stranger's Note |
+| 40 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I spoke to a beggar who handed me a note informing me of a job. But first I must find a way into a strongbox in Bolli's House. *Objective 40:* Retrieve the instructions from Bolli's House *Objective 45:* (Optional) Convince Nivenor to give you her keys *Objective 46:* (Optional) Search Nivenor's corpse for the strongbox key |
+| 45 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. I spoke to a beggar who handed me a note informing me of a job. I managed to find further instructions in a strongbox at Bolli's house. *Objective 47:* Read the Stranger's Instructions |
+| 50 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. After some investigating, I found a note in a strongbox that has details on a job in Solitude. If I perform the task in question, I may be rewarded. *Objective 50:* Steal the land deed from Gisli *Objective 55:* (Optional) Investigate Erikur's House *Objective 60:* (Optional) Persuade or purchase the deed from Gisli |
+| | | *Objective 64:* Pick up the forged deed |
+| | | *Objective 65:* Place the forged deed on the dresser |
+| | | *Objective 70:* Read the Stranger's Final Instructions |
+| 70 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. To prove my worth, I retrieved a note in a strongbox that had details on a job in Solitude. I finished the job and received further instructions to retrieve an ancestral item in Silverdrift Lair. *Objective 80:* Obtain the Ancestral Sword *Objective 85:* (Optional) Find the key on the corpse with the lantern |
+| 90 | | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. To prove my worth, I underwent a series of trials to retrieve items for a Stranger. Having found them all, I must now return to Riften so I can hand it and the deed over at the grave of the Gray Fox. *Objective 90:* Meet the Stranger at the tomb of the Gray Fox |
+| 100 | Finishes quest <br> ![☑](https://images.uesp.net/4/4d/Green_Tick.svg) | At the Riften cemetery, I found a thief loitering near a tombstone. On his body was a note that mentioned the Gray Fox was dead, and his cowl was to be passed on to a new owner. After some trials, I met with the Stranger who revealed himself to be the real Gray Fox. After some brief words, he handed me the Gray Cowl as a reward and left the city with a young child. |
+
+- The following empty quest stages were omitted from the table: 1,2,3,4,5,6,7,8,9,15,43,44,55,56,57,60,69,85,95.
+
+Notes - Any text displayed in angle brackets (e.g., `<Alias=Location Hold>`) is dynamically set by the Radiant Quest system, and will be filled in with the appropriate word(s) when seen in game.
+- Not all Journal Entries may appear in your journal; which entries appear and which entries do not depends on the manner in which the quest is done.
+- Stages are not always in order of progress. This is usually the case with quests that have multiple possible outcomes or quests where certain tasks may be done in any order. Some stages may therefore repeat objectives seen in other stages.
+- If an entry is marked as "Finishes Quest" it means the quest disappears from the Active Quest list, but you may still receive new entries for that quest.
+- On the PC, it is possible to use the [console](Skyrim_Console.md) to advance through the quest by entering `setstage cc BGSSSE020_Quest stage`, where `stage` is the number of the stage you wish to complete. It is not possible to un-complete (i.e. go back) quest stages, but it is possible to clear all stages of the quest using `resetquest cc BGSSSE020_Quest`.

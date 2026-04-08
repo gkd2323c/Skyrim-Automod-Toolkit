@@ -1,0 +1,28 @@
+# Benevolence of Mara
+
+[![](https://images.uesp.net/thumb/0/01/OB-Window-Mara.jpg/165px-OB-Window-Mara.jpg)](https://en.uesp.net/wiki/File:OB-Window-Mara.jpg) [](https://en.uesp.net/wiki/File:OB-Window-Mara.jpg) Mara [![](https://images.uesp.net/d/df/DF-sign-Benevolence_of_Mara.png)](https://en.uesp.net/wiki/File:DF-sign-Benevolence_of_Mara.png) [](https://en.uesp.net/wiki/File:DF-sign-Benevolence_of_Mara.png) Benevolence of Mara *Temples devoted to the Mother Goddess of Tamriel are called Benevolences, for we are devoted to the charge of uniting all creatures as brethren, childer of Mara. We are intolerant only of those who show intolerance; we hate only those who hate. Mara is our Mother Goddess, and thus she blesses all with the gift of love. Particularly, she favors those who help her followers in Tamriel. Our priests and priestesses study the greatness of Mara's Tamriel and have learned much. So there is much to share with our initiates who are judged to be true to Mara's calling.*
+—A member of the Benevolence in [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall) The Benevolence of Mara (often called **Her Benevolence**)<sup>[[1]](#cite_note-SRDinya-1)</sup> is the temple dedicated to [Mara](Lore_Mara.md) the Divine Mother, Goddess of Compassion and Fertility. These are generally the place of worship for Mara. The priesthood is devoted to achieving the unification of all creatures through the spread and research of love. The Maran Knights is the Benevolence's militant arm. The [Akatosh Chantry](Lore_Akatosh_Chantry.md), the [House of Dibella](Lore_House_of_Dibella.md), and the [Temple of Stendarr](Lore_Temple_of_Stendarr.md) are considered its allies, all the while the [Resolution of Zenithar](Lore_Resolution_of_Zenithar.md) are its enemies. In the [Iliac Bay](Lore_Iliac_Bay.md), the Benevolence of Mara has many chapters, some of which including [Anticlere](Lore_Anticlere.md), [Betony](Lore_Betony.md), [Ephesus](Lore_Ephesus_(march).md), and [Glenumbra Moors](Lore_Glenumbra_Moors_(barony).md).
+
+## Further Information
+The Benevolence of Mara has been the place of worship for the Divine Mother for a long time, as far as the late [First Era](Lore_First_Era.md).<sup>[[2]](#cite_note-2920v1-2)</sup> One of its key philosophies is forbidding the harm of other living creatures willingly.<sup>[[3]](#cite_note-DFAPS-3)</sup> The highest position in the Benevolence of Mara is known as either the Patriarch/Matriarch<sup>[[4]](#cite_note-DFRanks-4)</sup> or the Primate.<sup>[[5]](#cite_note-OBNPC-5)</sup> During the [Oblivion Crisis](Lore_Oblivion_Crisis.md) in [3E 433](Lore_Third_Era.md#3E_433), the Living Saint of Mara, [Olava the Fair](https://en.uesp.net/wiki/Lore:Olava_the_Fair) was present at the Great Chapel of Mara in [Bravil](Lore_Bravil.md). Acolytes of the Benevolence must first enact Mara's benevolence across the land, by giving those in need the gift of love and the path towards eternity. Her priesthood receives visions from the goddess herself, and send these acolytes to help these people find their way.<sup>[[6]](#cite_note-SRTBo L-6)</sup>
+
+## Maran Knights
+The **Maran Knights** is the militant arm of the Benevolence of Mara. Despite the fact that their very existence is contradictory to the temple itself, the Maran Knights are sworn to enforce the divine will of Mara, which often is required to bring about the peace. Some members of the Benevolence even feel as if the knightly order should actually disband, but they are, however, in the minority.<sup>[[7]](#cite_note-DFMK-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/cb/OB-place-Great_Chapel_of_Mara.jpg/151px-OB-place-Great_Chapel_of_Mara.jpg)](https://en.uesp.net/wiki/File:OB-place-Great_Chapel_of_Mara.jpg) The Great Chapel of Mara in Bravil
+- [![](https://images.uesp.net/thumb/9/9b/SR-interior-Temple_of_Mara.jpg/200px-SR-interior-Temple_of_Mara.jpg)](https://en.uesp.net/wiki/File:SR-interior-Temple_of_Mara.jpg) The Temple of Mara in Riften
+- [![](https://images.uesp.net/thumb/3/37/SR-quest-The_Bonds_of_Matrimony.jpg/200px-SR-quest-The_Bonds_of_Matrimony.jpg)](https://en.uesp.net/wiki/File:SR-quest-The_Bonds_of_Matrimony.jpg) A Wedding Ceremony in Mara's Benevolence
+
+## See Also
+- For game-specific information on the Benevolence, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Benevolence_of_Mara).
+- For game-specific information on the Knightly Order, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Maran_Knights).
+
+## References
+1. [^](#cite_ref-SRDinya_1-0) [Dinya Balu](Skyrim_Dinya_Balu.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-2920v1_2-0) [*2920, Morning Star*](Lore_2920,_Morning_Star_(v1).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+3. [^](#cite_ref-DFAPS_3-0) [A Powerful Spirit](https://en.uesp.net/wiki/Daggerfall:A_Powerful_Spirit) quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+4. [^](#cite_ref-DFRanks_4-0) [Ranks](https://en.uesp.net/wiki/Daggerfall:Factions#Guild_Titles_and_Ranks) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+5. [^](#cite_ref-OBNPC_5-0) [Chana Mona](https://en.uesp.net/wiki/Oblivion:Chana_Mona) NPC in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+6. [^](#cite_ref-SRTBo L_6-0) [The Book of Love](Skyrim_The_Book_of_Love.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+7. [^](#cite_ref-DFMK_7-0) [Maran Knights](https://en.uesp.net/wiki/Daggerfall:Maran_Knights) description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

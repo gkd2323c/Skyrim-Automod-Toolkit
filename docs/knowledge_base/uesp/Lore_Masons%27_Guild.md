@@ -1,0 +1,23 @@
+# Masons' Guild
+
+The Masons' Guild is an officially sanctioned guild that has been active since at least the [Second Era](Lore_Second_Era.md). As their name implies, they employ masons from across the [Empire](Lore_Empire.md).<sup>[[1]](#cite_note-HOTFG-1)</sup> One of the only known positions in the guild is the Guild Historian, who is responsible for maintaining the records of the guild and studying the history of masonry in general.<sup>[[2]](#cite_note-NOEA-2)</sup>
+
+During the [Akaviri Potentate](Lore_Akaviri_Potentate.md) in [2E 321](Lore_Second_Era.md#2E_321), [Versidue-Shaie](Lore_Versidue-Shaie.md) gave his approval for the [Guild Act](Lore_Guild_Act.md), which sanctioned numerous guilds and businesses. Although Mason's Guild was not among the guilds sanctioned by the first act, many new guilds, that followed by later sanctions were formed.<sup>[[1]](#cite_note-HOTFG-1)</sup> Masons' Guild was already established and employed Guild Historians as of [2E 580](Lore_Second_Era.md#2E_580).<sup>[[2]](#cite_note-NOEA-2)</sup><sup>[[3]](#cite_note-IGTT-3)</sup><sup>[[4]](#cite_note-ATUQ-4)</sup> All the sanctioned guilds named in the Guild Act, and those formed later were hence protected by the Empire of [Cyrodiil](Lore_Cyrodiil.md), even into the [Third Era](Lore_Third_Era.md), but would be required to pay them if they wanted to expand their influence. The Empire had subsequently strengthened since the Guild Act was passed,<sup>[[1]](#cite_note-HOTFG-1)</sup> and the creation of guilds was considered beneficial for the Tamriel as a whole.<sup>[[5]](#cite_note-AP-5)</sup> The Guild Historian of an unknown branch of the guild, [Gastinus Florus](Lore_Books_by_Author.md#Gastinus_Florus), authored a treatise on [Altmeri](Lore_Altmer.md) architecture,<sup>[[2]](#cite_note-NOEA-2)</sup> which was later cited in *[The Improved Emperor's Guide to Tamriel](Lore_The_Improved_Emperor%27s_Guide_to_Tamriel.md)* by [Flaccus Terentius](Lore_Flaccus_Terentius.md).<sup>[[3]](#cite_note-IGTT-3)</sup> As of [3E 405](Lore_Third_Era.md#3E_405) masons in the region of the [Iliac Bay](Lore_Iliac_Bay.md) were often hired to repair stonework at various temple holdings, estates of the local lords and cities.<sup>[[6]](#cite_note-ARENA-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/90/SR-concept-6877549801.jpg/145px-SR-concept-6877549801.jpg)](https://en.uesp.net/wiki/File:SR-concept-6877549801.jpg) Concept art mentioning the Stonecutter Guild
+
+## Notes
+- An organization known as the Stonecutter Guild was active in [Markarth](Lore_Markarth.md) circa [4E 201](Lore_Fourth_Era.md#4E_201). They were responsible for floating the quarried stone slabs down the [Karth River](Lore_Karth_River.md) to other cities on barks.<sup>[[UOL 1]](#cite_note-AA-7)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-HOTFG_1-0)***</sup><sup>***[b](#cite_ref-HOTFG_1-1)***</sup><sup>***[c](#cite_ref-HOTFG_1-2)***</sup> [*History of the Fighters Guild*](https://en.uesp.net/wiki/Lore:History_of_the_Fighters_Guild)
+2. ^ <sup>***[a](#cite_ref-NOEA_2-0)***</sup><sup>***[b](#cite_ref-NOEA_2-1)***</sup><sup>***[c](#cite_ref-NOEA_2-2)***</sup> [*Notes on Elven Architecture*](Lore_Notes_on_Elven_Architecture.md) — [Gastinus Florus](Lore_Books_by_Author.md#Gastinus_Florus), Masons' Guild Historian
+3. ^ <sup>***[a](#cite_ref-IGTT_3-0)***</sup><sup>***[b](#cite_ref-IGTT_3-1)***</sup> [*The Improved Emperor's Guide to Tamriel: The Summerset Isles: Auridon*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Summerset_Isles) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+4. [^](#cite_ref-ATUQ_4-0) [*Ayrenn: The Unforeseen Queen*](https://en.uesp.net/wiki/Lore:Ayrenn__The_Unforeseen_Queen) — [Headmaster Tanion](Lore_Books_by_Author.md#Headmaster_Tanion) of the College of Aldmeri Propriety
+5. [^](#cite_ref-AP_5-0) [Avita Pitio](https://en.uesp.net/wiki/Online:Avita_Pitio)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ARENA_6-0) [Mason's greetings](https://en.uesp.net/wiki/Arena:Greetings#Professions_and_Descriptions) in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-AA_7-0) [Skyrim Concept](Skyrim_Concept_Art_3.md) [Art](https://en.uesp.net/wiki/File:SR-concept-6877549801.jpg) by Adam Adamowicz

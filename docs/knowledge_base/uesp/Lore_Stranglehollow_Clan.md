@@ -1,0 +1,6 @@
+# Stranglehollow Clan
+
+[![](https://images.uesp.net/thumb/9/95/ON-npc-Bodgrannagh.jpg/200px-ON-npc-Bodgrannagh.jpg)](https://en.uesp.net/wiki/File:ON-npc-Bodgrannagh.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Bodgrannagh.jpg) Bodgrannagh, a Reacholk brewer who knew the traditions of the Stranglehollow Clan Stranglehollow Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md). They were extinct as of the times of the [Three Banners War](Lore_Three_Banners_War.md), during the [Interregnum](Lore_Interregnum.md) in the [Second Era](Lore_Second_Era.md), but some of their traditions were still remembered by the Reachfolk of [Markarth](Lore_Markarth.md) in [2E 582](Lore_Second_Era.md#2E_582). One of their customs involved [bones of their ancestors](Lore_Ancestor_Worship.md#Other_Traditions) and [local drinks](Lore_Reachman_Cuisine.md). The Stranglehollows toasted each other with a drink mixed using the fingerbone of an ancestor.<sup>[[1]](#cite_note-ONBodgrannagh-1)</sup>
+
+## References
+1. [^](#cite_ref-ONBodgrannagh_1-0) [Bodgrannagh](https://en.uesp.net/wiki/Online:Bodgrannagh)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

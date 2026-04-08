@@ -1,0 +1,30 @@
+# Cult of the Spider
+
+[![](https://images.uesp.net/thumb/c/cb/ON-npc-Vila_Theran.jpg/200px-ON-npc-Vila_Theran.jpg)](https://en.uesp.net/wiki/File:ON-npc-Vila_Theran.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Vila_Theran.jpg) Member of the Spider Cult [![](https://images.uesp.net/thumb/6/64/ON-npc-Mephala_03.jpg/200px-ON-npc-Mephala_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-Mephala_03.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Mephala_03.jpg) Mephala the Webspinner The Cult of the Spider (or simply the **Spider Cult**)<sup>[[1]](#cite_note-Iwa SC-1)</sup> is an outlawed and notoriously secretive temple of worship dedicated to the [Daedric Prince](Lore_Daedric_Prince.md) of Sin and Secrecy, [Mephala](Lore_Mephala.md) the Webspinner. To the common-folk, the inner workings have been a great mystery for many years and have been denounced as a club of debauched orgies, a claim that has some validity. The cult uses seduction and copulation as tools. Oftentimes, inductees must engage in such activities to join the Spider Cult.<sup>[[1]](#cite_note-Iwa SC-1)</sup>
+
+## Further Information
+There is a general hierarchy in the Spider Cult, split threeways. *"The Widow"* is the leader of the cult and is the direct link between the cult hood and Mephala herself. They usually assign tasks to other members of the cult. *"The Deathweavers"* is the militant arm of the cult and physically enacts the prince's will, usually to kill in the name of their lord. Anything lower is *"The Scuttlers,"* who take on their lord's more discreet tasks.<sup>[[1]](#cite_note-Iwa SC-1)</sup> The Spider Cult uses the [Daedric Spider](Lore_Spider_Daedra.md) as their companions.<sup>[[2]](#cite_note-ONDesc Scorpion-2)</sup> The [Obsidian Husk](Lore_Obsidian_Husk.md), a magical stone associated with Mephala had been passed down by members of the Spider Cult for an untold time, but because it never stays with one individual, as is the nature of artifacts, chapters of the cult are known to scheme or fight over it. Some of the most powerful members of the cult are known to use the stone to enchant others, encase them in a thicket of shadow and grant them abnormal abilities.<sup>[[3]](#cite_note-TOH-3)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the Obsidian Husk was tracked down by the Spider Cult in the old cave system, Fungal Grotto. In the southwest valley of [Stonefalls](Lore_Stonefalls.md), in the province of [Morrowind](Lore_Morrowind.md). The Widow, Vila Theran led an expedition to Fungal Grotto, only to find it infested with the [Murkwater Tribe](https://en.uesp.net/wiki/Lore:Murkwater_Tribe) of [Goblins](Lore_Goblin.md) and the [Dreugh](Lore_Dreugh.md). With the help of an [adventurer](Lore_Soulless_One.md), the Spider Cult was able to rally the goblins and defeat the Dreugh to secure the daedric shrine and the Obsidian Husk.<sup>[[4]](#cite_note-ESOKings-4)</sup> Once they acquired the artifact, the Spider Cult controlled the surrounding area and allured travelers into their grasp. The [Fighters Guild](Lore_Fighters_Guild.md) was forced to step in and quash the threat. Vila was defeated by the aforementioned adventurer and the guild member, Defender Two-Blades was able to [disenchant](Lore_Enchanting.md) the stone.<sup>[[5]](#cite_note-ESOShadows-5)</sup>
+
+## Knights of the Spider Cult
+The **Knights of the Spider Cult** (also called the **Deathweavers**)<sup>[[2]](#cite_note-ONDesc Scorpion-2)</sup> is the militant arm of the Spider Cult, who carry out the will of the webspinner.<sup>[[1]](#cite_note-Iwa SC-1)</sup> Unlike the main cult, the knightly order does not use the Daedric Spider as their companion but instead prompts them to use the [Skein Scorpion](Lore_Skein_Scorpion.md), to have a warlike demeanor.<sup>[[2]](#cite_note-ONDesc Scorpion-2)</sup> In 2E 582, the Arbordawn Cult, the splinter faction of the Falinesti Faithful was corrupted by Mephala and converted to the Deathweavers when the area compromised an ancient Daedric shrine in [Reaper's March](Lore_Reaper%27s_March.md), [Valenwood](Lore_Valenwood.md).<sup>[[6]](#cite_note-ONMephala-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/c8/ON-item-Obsidian_Husk.jpg/200px-ON-item-Obsidian_Husk.jpg)](https://en.uesp.net/wiki/File:ON-item-Obsidian_Husk.jpg) The Obsidian Husk
+- [![](https://images.uesp.net/thumb/4/48/ON-pet-Skein_Scorpion.jpg/200px-ON-pet-Skein_Scorpion.jpg)](https://en.uesp.net/wiki/File:ON-pet-Skein_Scorpion.jpg) The Skein Scorpion
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Spider_Cult).
+
+### Books
+- ***[Interview with a Spider Cultist](Lore_Interview_with_a_Spider_Cultist.md)*** — A scholar interrogates a Spider Cultist
+- ***[The Obsidian Husk](https://en.uesp.net/wiki/Lore:The_Obsidian_Husk)*** — On the mysterious artifact attributed to Mephala
+
+## References
+1. ^ <sup>***[a](#cite_ref-Iwa SC_1-0)***</sup><sup>***[b](#cite_ref-Iwa SC_1-1)***</sup><sup>***[c](#cite_ref-Iwa SC_1-2)***</sup><sup>***[d](#cite_ref-Iwa SC_1-3)***</sup> [*Interview with a Spider Cultist*](Lore_Interview_with_a_Spider_Cultist.md)
+2. ^ <sup>***[a](#cite_ref-ONDesc Scorpion_2-0)***</sup><sup>***[b](#cite_ref-ONDesc Scorpion_2-1)***</sup><sup>***[c](#cite_ref-ONDesc Scorpion_2-2)***</sup> [Skein Scorpion](https://en.uesp.net/wiki/Online:Skein_Scorpion_(pet)) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TOH_3-0) [*The Obsidian Husk*](https://en.uesp.net/wiki/Lore:The_Obsidian_Husk)
+4. [^](#cite_ref-ESOKings_4-0) [Kings of the Grotto](https://en.uesp.net/wiki/Online:Kings_of_the_Grotto) group quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ESOShadows_5-0) [Lighting the Shadows](https://en.uesp.net/wiki/Online:Lighting_the_Shadows) group quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ONMephala_6-0) [Mephala](https://en.uesp.net/wiki/Online:Mephala#The_Arbordawn_Cult)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,23 @@
+# Broken Diamonds
+
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Broken_Diamonds) |
+
+Broken Diamonds **by [Ryston Baylor](Lore_Books_by_Author.md#Ryston_Baylor)** *A tale of a sorrowful holiday*
+---
+I remember as a young lad in [Glenumbra Moors](Lore_Glenumbra_Moors_(barony).md) my first [Broken Diamonds](Lore_Broken_Diamonds_(holiday).md) holiday. The big noisy festivals I remember very well -- [Harvests' End](https://en.uesp.net/wiki/Lore:Harvest%27s_End), [Mid Year](https://en.uesp.net/wiki/Lore:Mid_Year), [New Year](https://en.uesp.net/wiki/Lore:New_Life_Festival), the [Emperor's Day](https://en.uesp.net/wiki/Lore:Emperor%27s_Day). All of these I have memories of that stretch back before I became truly aware of the meaning of our celebrating. On the 19th of [Frost Fall](https://en.uesp.net/wiki/Lore:Frostfall), every year, my family and I would walk to a ruined castle in the middle of the wilderness, together with everyone else we knew in the Moors. Hands clutched in hands, we would form an enormous circle around the ruins, and head reverently bowed we would sing a song, the Sepharve *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*.
+
+For years, we did this and I never asked why. It is an odd thing that normally curious children, from my experience, never ask questions about Broken Diamonds, and adults seldom volunteer information. Gradually, as we learn about our homeland through university or the prattling of ancient relatives, we come to guess and then know the meaning of Broken Diamonds.
+
+I cannot be objective as a native of Glenumbra Moors, but visitors have told me that the sorrow -- more often they use the word shame -- of the natives is almost overwhelming. There is a sense that a great and ancient crime still burns in the conscience of the people of the Moors. Though it did not happen in our lifetimes, we know that the debt is not yet paid.
+
+I refer, of course, to the murder of Her Terrible Majesty, [Kintyra II](Lore_Kintyra_II.md), Emperess *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* of [Tamriel](Lore_Tamriel.md), on the frozen morning of the 23rd of Frost Fall, in the year [3E 123](Lore_Third_Era.md#3E_123).
+
+We do not know the name of the castle where she was held; we do not know the name of her murderer (though the man who ordered the murder was her cousin and usurper, [Uriel III](https://en.uesp.net/wiki/Lore:Uriel_Septim_III)); we do not know where she was buried. But our ancestors knew that their rightful ruler was imprisoned somewhere in their land, and did nothing to help her. For that, we bear their shame.
+
+On that morning, when our great-great grandparents heard of Kintyra's death, all were stricken with horror and regret at their lack of action. All the people of [Glenpoint](Lore_Glenpoint.md) and Glenumbra Moors searched out those responsible in every Imperial castle. They formed barriers with their bodies to hold the killer within. Flags bearing the [Red Diamond](Lore_Red_Diamond.md) of the [Septim family](Lore_Septim_Dynasty.md) were torn and scattered, and broken diamonds littered the snow.
+
+The song we sing every Broken Diamonds, as I mentioned before, is the Sephavre. I asked everyone in Glenumbra Moor what the meaning of the song is, for it is in [Old Bretic](https://en.uesp.net/wiki/Lore:Old_Bretic), and each generation only knows it because they were taught by their parents. No one knew the exact meaning of the words, not even the tone and emotion the words can be easily translated. When I later talked to a scholar who gave me an accurate translation of the Sephavre, I began to understand both why our ancestors chose it as the anthem for the great injustice of the murder of Kintyra II and the sorrow that still prevades *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* Glenumbra Moors since that dark morn.
+
+*The Sephavre Souls of our fathers, suffer deeply, For you have led us to the dark time, When our own souls, filled with air, Allowed ignorance and villiany * [[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)] * to thrive In what used to be our land. Howl, ancestors, howl and bring us Memories of our conformance with evil. We do anything we can to survive, Giving up our minds and hearts and bodies We will not fight, and we will be torn And like flotsam in a whirling tide We will be forever the agents of injustice But we will mourn it forever.*

@@ -1,0 +1,20 @@
+# Soapstone
+
+[![](https://images.uesp.net/thumb/6/6f/OB-place-Lipsand_Tarn.jpg/200px-OB-place-Lipsand_Tarn.jpg)](https://en.uesp.net/wiki/File:OB-place-Lipsand_Tarn.jpg) [](https://en.uesp.net/wiki/File:OB-place-Lipsand_Tarn.jpg) Lipsand Tarn [![](https://images.uesp.net/thumb/6/65/ON-furnishing-Stone-Nest_Totem%2C_Behemoth.jpg/200px-ON-furnishing-Stone-Nest_Totem%2C_Behemoth.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Stone-Nest_Totem,_Behemoth.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Stone-Nest_Totem,_Behemoth.jpg) An Argonian totem made of soapstone Soapstone (or **lipsand** in [Ayleidoon](Lore_Ayleidoon.md))<sup>[[1]](#cite_note-LT-1)</sup> is a type of soft stone,<sup>[[2]](#cite_note-SNTB-2)</sup> often finely carved, that is used for various purposes. It is commonly used for crafting objects such as meditation beads, replicas of structures, and idols.<sup>[[3]](#cite_note-Treasures A-3)</sup><sup>[[4]](#cite_note-Treasures D-4)</sup><sup>[[5]](#cite_note-Treasures R-5)</sup> It can also grant an [enchantment](Lore_Enchanting.md) the property of poison resistance.<sup>[[UOL 1]](#cite_note-BNo L-6)</sup>
+
+Soapstone was employed in the creation of some devotional items for the [Imperial Cult](Lore_Imperial_Cult.md). Certain meditation beads devoted to [Akatosh](Lore_Akatosh.md) were carefully fashioned using soapstone, adorned with intricate symbols of Akatosh meticulously painted onto their surfaces.<sup>[[3]](#cite_note-Treasures A-3)</sup> Soapstone was utilized to create devotional items for other deities in the pantheon as well, including finely carved representations of [Dibella](Lore_Dibella.md). These soapstone idols, intricately fashioned to resemble the goddess, were thought to enhance the holder's romantic allure when regularly polished.<sup>[[4]](#cite_note-Treasures D-4)</sup>
+
+A number of small soapstone artifacts carved to resemble the Chid-Moska [Xanmeer](Lore_Xanmeer.md) were discovered during the [Interregnum](Lore_Interregnum.md).<sup>[[5]](#cite_note-Treasures R-5)</sup> Some [Argonian](Lore_Argonian.md) totems depicting [Vahath Behemoths](Lore_Vahath_Behemoth.md) were made of soapstone.<sup>[[2]](#cite_note-SNTB-2)</sup>
+
+Certain locations bear names inspired by soapstone, such as the ruined [Ayleid](Lore_Ayleid.md) settlement of [Lipsand Tarn](Lore_Lipsand_Tarn.md) (meaning "Soapstone Delve").<sup>[[1]](#cite_note-LT-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-LT_1-0)***</sup><sup>***[b](#cite_ref-LT_1-1)***</sup> [Lipsand Tarn](https://en.uesp.net/wiki/Online:Lipsand_Tarn)'s loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-SNTB_2-0)***</sup><sup>***[b](#cite_ref-SNTB_2-1)***</sup> [Stone-Nest Totem, Behemoth](https://en.uesp.net/wiki/Online:Stone-Nest_Totem,_Behemoth) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Treasures A_3-0)***</sup><sup>***[b](#cite_ref-Treasures A_3-1)***</sup> [Akatosh Meditation Beads](https://en.uesp.net/wiki/Online:Treasures_A#Akatosh_Meditation_Beads) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))*
+4. ^ <sup>***[a](#cite_ref-Treasures D_4-0)***</sup><sup>***[b](#cite_ref-Treasures D_4-1)***</sup> [Dibellan Worry Idol](https://en.uesp.net/wiki/Online:Treasures_D#Dibellan_Worry_Idol) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))*
+5. ^ <sup>***[a](#cite_ref-Treasures R_5-0)***</sup><sup>***[b](#cite_ref-Treasures R_5-1)***</sup> [Replica Chid-Moska Xanmeer](https://en.uesp.net/wiki/Online:Treasures_R#Replica_Chid-Moska_Xanmeer) item descirption in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-BNo L_6-0) [*Bardus' Notes on Lipsand*](https://en.uesp.net/wiki/Online:Bardus%27_Notes_on_Lipsand)

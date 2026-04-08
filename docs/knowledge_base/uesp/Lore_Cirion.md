@@ -1,0 +1,37 @@
+# Cirion
+
+| Count Cirion | | | |
+| --- | --- | --- | --- |
+| [![SI-npc-Count Cirion's Ghost.jpg](https://images.uesp.net/thumb/e/e1/SI-npc-Count_Cirion%27s_Ghost.jpg/200px-SI-npc-Count_Cirion%27s_Ghost.jpg)](https://en.uesp.net/wiki/File:SI-npc-Count_Cirion%27s_Ghost.jpg) Count Cirion | | | |
+| Race | [Altmer](Lore_Altmer.md) | Gender | Male |
+| Died | [Vitharn](Lore_Vitharn.md) | | |
+| Resided in | [Vitharn](Lore_Vitharn.md) | | |
+| Previous Ruler | [Cesrien](Lore_Cesrien.md) | | |
+| Appears in | [Shivering Isles](https://en.uesp.net/wiki/Shivering:Count_Cirion%27s_Ghost) | | |
+
+Cirion was the fourth and last Count of [Vitharn](Lore_Vitharn.md) in the [Dementia](Lore_Dementia_(place).md) region of the [Shivering Isles](Lore_Shivering_Isles.md). A cowardly and weak ruler, it was during his reign that Vitharn's longtime vassals, the Fanatics, renounced their allegiance to the city, laid siege to it, and slaughtered its citizens, including Cirion. When Cirion died, [Sheogorath](Lore_Sheogorath.md) cursed the spirits of Vitharn's inhabitants, along with the Fanatics, to remain bound to the city, replaying their final moments in perpetuity as a lesson to those that thwarted his will.<sup>[[1]](#cite_note-FOV-1)</sup><sup>[[2]](#cite_note-Cirion-2)</sup>
+
+## Biography
+Cirion was the son of [Cesrien](Lore_Cesrien.md), the third Count of [Vitharn](Lore_Vitharn.md), and his wife, Countess Jideen, a peasant who hailed from a [Heretic](Lore_Heretics.md) commune in the wilds of [Mania](Lore_Mania.md).<sup>[[1]](#cite_note-FOV-1)</sup>
+
+Cirion had a gentle and reserved demeanor, but he was also easily frightened. His fear of the world was reportedly so great that even the shadow of a passing bird would visibly startle him. Cirion was beaten by Cesrien, who was known for his violent nature and quick temper. When Cesrien died because of his lifelong health issues, Cirion succeeded him as Count of Vitharn. Cirion had seldom been seen in public before his hasty coronation in the bailey of Vitharn's keep. Some said that during the coronation ceremony, he still bore bruises from his father's beatings.<sup>[[1]](#cite_note-FOV-1)</sup>
+
+Cesrien's marriage to Jideen had inflamed tensions between Vitharn and the vassal Fanatics because of Jideen's Manic heritage. These tensions continued to grow after Cirion ascended the throne of Vitharn. Cirion was too young to rule in his own right, forcing Jideen to govern in his stead.<sup>[[1]](#cite_note-FOV-1)</sup>
+
+By all accounts, Jideen was a capable countess, loved by her people. However, the leaders of the vassal Fanatics could not suppress their outrage at her Manic heritage indefinitely. Despite her tactful attempts at diplomacy, the animosity toward Jideen was deep-seated and grew over the years. When Cirion came of age to rule, the Count tried to ascend gracefully, but his fear of the world remained great. His fear was so great that he was unable to address his people publicly. When he attempted to placate his vassals—still outraged by his mother's heritage—he could scarcely contain his fright. Some said that while attempting to placate his vassals, he soiled himself before fleeing the throne chamber.<sup>[[1]](#cite_note-FOV-1)</sup>
+
+The vassal Fanatics' tolerance eventually snapped, and their warriors marched on Vitharn.<sup>[[1]](#cite_note-FOV-1)</sup> While the Fanatics marched toward Vitharn, one of the city's scouts, Althel, saw their skirmishers.<sup>[[3]](#cite_note-Althel-3)</sup> Althel immediately rode back to Vitharn, where she told Cirion, who then fled into the city's keep to hide instead of participating in the defense.<sup>[[2]](#cite_note-Cirion-2)</sup><sup>[[3]](#cite_note-Althel-3)</sup> The Fanatics encircled Vitharn and placed it under siege.<sup>[[1]](#cite_note-FOV-1)</sup> During the siege, some Fanatics entered Vitharn's sump and reservoir.<sup>[[4]](#cite_note-Soldier-4)</sup> Because the guards had failed to bar the doors to the reservoir, the Fanatics launched an attack from there, killing the defenders, opening the main gate, and slaughtering the rest of Vitharn's citizens, including Cirion.<sup>[[1]](#cite_note-FOV-1)</sup><sup>[[2]](#cite_note-Cirion-2)</sup><sup>[[4]](#cite_note-Soldier-4)</sup> The siege lasted only one day.<sup>[[1]](#cite_note-FOV-1)</sup>
+
+At the moment of Cirion's death, [Sheogorath](Lore_Sheogorath.md) appeared.<sup>[[2]](#cite_note-Cirion-2)</sup> As Vitharn had already earned Sheogorath's wrath for sins of pride, he cursed the spirits of the city's inhabitants, along with the Fanatics, to remain bound there, replaying their final moments in perpetuity as a lesson to those that thwarted his will.<sup>[[1]](#cite_note-FOV-1)</sup><sup>[[2]](#cite_note-Cirion-2)</sup> The spirits of the people of Vitharn were forced to perpetually relive their failure for centuries.<sup>[[2]](#cite_note-Cirion-2)</sup>
+
+In [3E 433](Lore_Third_Era.md#3E_433), Sheogorath's champion entered Vitharn and spoke with the spirit of Cirion. The champion then assisted three of the ghostly defenders who failed to stop the Fanatics in defeating the attackers. However, this was not enough to lift the curse, so Cirion, who was doomed to repeat his cowardly actions, gave the champion his helmet, which allowed them to fight the Fanatic leader in his stead. When the champion defeated the Fanatic leader, the curse was lifted, and Cirion allowed them to keep his helmet. With the curse lifted, Cirion and Vitharn's citizens were finally laid to rest.<sup>[[5]](#cite_note-Go V-5)</sup>
+
+## See Also
+- For game-specific information, see the [*Shivering Isles* article](https://en.uesp.net/wiki/Shivering:Count_Cirion%27s_Ghost).
+
+## References
+1. ^ <sup>***[a](#cite_ref-FOV_1-0)***</sup><sup>***[b](#cite_ref-FOV_1-1)***</sup><sup>***[c](#cite_ref-FOV_1-2)***</sup><sup>***[d](#cite_ref-FOV_1-3)***</sup><sup>***[e](#cite_ref-FOV_1-4)***</sup><sup>***[f](#cite_ref-FOV_1-5)***</sup><sup>***[g](#cite_ref-FOV_1-6)***</sup><sup>***[h](#cite_ref-FOV_1-7)***</sup><sup>***[i](#cite_ref-FOV_1-8)***</sup><sup>***[j](#cite_ref-FOV_1-9)***</sup> [*Fall of Vitharn*](Lore_Fall_of_Vitharn.md)
+2. ^ <sup>***[a](#cite_ref-Cirion_2-0)***</sup><sup>***[b](#cite_ref-Cirion_2-1)***</sup><sup>***[c](#cite_ref-Cirion_2-2)***</sup><sup>***[d](#cite_ref-Cirion_2-3)***</sup><sup>***[e](#cite_ref-Cirion_2-4)***</sup><sup>***[f](#cite_ref-Cirion_2-5)***</sup> [Count Cirion's Ghost](https://en.uesp.net/wiki/Shivering:Count_Cirion%27s_Ghost)'s dialogue in [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Oblivion): *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+3. ^ <sup>***[a](#cite_ref-Althel_3-0)***</sup><sup>***[b](#cite_ref-Althel_3-1)***</sup> [Althel's Ghost](https://en.uesp.net/wiki/Shivering:Althel%27s_Ghost)'s dialogue in [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Oblivion): *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+4. ^ <sup>***[a](#cite_ref-Soldier_4-0)***</sup><sup>***[b](#cite_ref-Soldier_4-1)***</sup> [Vitharn Ghost Soldier](https://en.uesp.net/wiki/Shivering:Vitharn_Ghost_Soldier)'s dialogue in [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Oblivion): *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*
+5. [^](#cite_ref-Go V_5-0) Events of [Ghosts of Vitharn](https://en.uesp.net/wiki/Shivering:Ghosts_of_Vitharn) in [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Oblivion): *[Shivering Isles](https://en.uesp.net/wiki/Shivering:Shivering_Isles)*

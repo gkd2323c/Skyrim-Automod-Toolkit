@@ -1,0 +1,27 @@
+# Fists of Randagulf
+
+The Fists of Randagulf were worn by Randagulf of Clan Begalin, one of the mightiest warriors from [Skyrim](Lore_Skyrim.md) in [Tamrielic](Lore_Tamriel.md) history.<sup>[[1]](#cite_note-TL-1)</sup> He finally lost the gloves, and his life, when High King [Harald](Lore_Harald.md) conquered Skyrim circa [1E 143](Lore_First_Era.md#1E_143) - [1E 221](Lore_First_Era.md#1E_221).<sup>[[1]](#cite_note-TL-1)</sup><sup>[[2]](#cite_note-FC-2)</sup><sup>[[3]](#cite_note-SRWindhelm-3)</sup> As a sign of respect, Harald took Randagulf's gauntlets for himself. After the High King died, the gauntlets disappeared. The Fists grant the bearer added strength.<sup>[[1]](#cite_note-TL-1)</sup>
+
+[Yagrum Bagarn](Lore_Yagrum_Bagarn.md), the last living [dwarf](Lore_Dwemer.md), at one point befriended the sorcerer [Divayth Fyr](Lore_Divayth_Fyr.md).<sup>[[4]](#cite_note-MWYB-4)</sup> At Fyr’s behest, Yagrum Bagarn wrote and compiled centuries of personal notes into a book that would become known as *[Tamrielic Lore](Lore_Tamrielic_Lore.md)*,<sup>[[5]](#cite_note-MWProphecies-5)</sup><sup>:241</sup> listing the Fists of Randagulf among the artifacts of "unimaginable significance". By the [Interregnum](Lore_Interregnum.md), copies had spread across Tamriel, offering readers rare insights into these legendary items,<sup>[[6]](#cite_note-TA-6)</sup> and Fyr himself hoped to utilize this knowledge in his search for the Fists of Randagulf and the other artifacts detailed in the book.<sup>[[7]](#cite_note-MWFR-7)</sup>
+
+Circa [3E 427](Lore_Third_Era.md#3E_427), the [Blades](Lore_Blades.md) spymaster [Caius Cosades](Lore_Caius_Cosades.md) sent the [Nerevarine](Lore_Nerevarine.md) to assault the [Sixth House](Lore_Sixth_House.md) base of [Ilunibi](https://en.uesp.net/wiki/Lore:Ilunibi). Traversing deep into the sea-side cave, the Nerevarine encountered several [ash creatures](https://en.uesp.net/wiki/Lore:Ash_Creatures) and the Dagoth shrine protected by Dagoth Gares. The warrior was able to defeat the [Ash Ghoul](Lore_Ash_Ghoul.md) but was cursed with [Corprus](Lore_Corprus.md). Among the spoils from the bittersweet victory was the Fists of Randagulf, which lay at Ilunibi's bell chamber.<sup>[[8]](#cite_note-MWSixth-8)</sup>
+
+The Fists of Randagulf would later come into the possession of Grenwulf the Brawler, a renowned pugilist. Circa [4E 201](Lore_Fourth_Era.md#4E_201), Grenwulf came into a heated argument with Holrik Frost-Sword, a swordsman who wielded the [Ice Blade of the Monarch](Lore_Ice_Blade_of_the_Monarch.md). Seeking to settle their dispute and showcase whose fighting style was superior, the two figures took on a quest to slay a [Web Mother](Lore_Bestiary_W.md#Web_Mother) [spider](Lore_Spider.md) that had nested nearby at Cronvangr Cave. Three weeks had passed, and the ambiguity of their fates led the [Last Dragonborn](Lore_Last_Dragonborn.md) to investigate. Amidst the webbed victims were the corpses of the two, whose bickering caused the end of them. The two manifested as restless spirits, finally banding together to put an end to their executioner. Lending their aid, the Last Dragonborn slew the brood mother, helping put the spirits to rest, leaving the Fists and the Ice Blade to be claimed.<sup>[[9]](#cite_note-SRCW-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/f8/MW-item-Fists_of_Randagulf.jpg/200px-MW-item-Fists_of_Randagulf.jpg)](https://en.uesp.net/wiki/File:MW-item-Fists_of_Randagulf.jpg) The Fists of Randagulf (Morrowind)
+- [![](https://images.uesp.net/thumb/e/e5/SR-item-Fists_of_Randagulf.jpg/200px-SR-item-Fists_of_Randagulf.jpg)](https://en.uesp.net/wiki/File:SR-item-Fists_of_Randagulf.jpg) The Fists of Randagulf (Skyrim)
+
+## See Also
+- For game-specific information, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Fists_of_Randagulf) and [*Skyrim*](Skyrim_Fists_of_Randagulf.md)<sup>[CC](Skyrim_The_Contest.md)</sup> articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-TL_1-0)***</sup><sup>***[b](#cite_ref-TL_1-1)***</sup><sup>***[c](#cite_ref-TL_1-2)***</sup> [*Tamrielic Lore*](Lore_Tamrielic_Lore.md) — [Yagrum Bagarn](Lore_Books_by_Author.md#Yagrum_Bagarn)
+2. [^](#cite_ref-FC_2-0) [*Frontier, Conquest*](Lore_Frontier,_Conquest.md) — [University of Gwylim Press](Lore_Books_by_Author.md#University_of_Gwylim_Press), [3E 344](Lore_Third_Era.md#3E_344)
+3. [^](#cite_ref-SRWindhelm_3-0) A [memorial plaque](https://en.uesp.net/wiki/File:SR-misc-Harald_Plaque.png) in [Windhelm](Skyrim_Windhelm.md) giving Harald's reign as 1E 143 - 1E 221.
+4. [^](#cite_ref-MWYB_4-0) [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-MWProphecies_5-0) [*The Morrowind Prophecies: Game of the Year Edition*](https://en.uesp.net/wiki/Books:The_Morrowind_Prophecies:_Game_of_the_Year_Edition) — Peter Olafson
+6. [^](#cite_ref-TA_6-0) [*Tamrielic Artifacts*](Lore_Tamrielic_Artifacts.md)
+7. [^](#cite_ref-MWFR_7-0) [French version of](https://cslist.uesp.net/index.php?game=mwfr&edid=Tamrielic_Lore&rectype=BOOK) [Tamrielic Lore](https://en.uesp.net/wiki/Morrowind:Tamrielic_Lore)
+8. [^](#cite_ref-MWSixth_8-0) [Sixth House Base](https://en.uesp.net/wiki/Morrowind:Sixth_House_Base) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+9. [^](#cite_ref-SRCW_9-0) [Caught in a Web](Skyrim_Caught_in_a_Web.md) quest in *[Skyrim](Skyrim_Skyrim.md)*

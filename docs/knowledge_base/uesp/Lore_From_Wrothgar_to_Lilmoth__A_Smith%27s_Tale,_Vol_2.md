@@ -1,0 +1,21 @@
+#  A Smith's Tale, Vol 2
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:From_Wrothgar_to_Lilmoth:_A_Smith%27s_Tale,_Vol_2) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[From Wrothgar to Lilmoth: A Smith's Tale](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale.md)* | | |
+| Prev. | *[Vol 1](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale,_Vol_1.md)* | Next | *[Vol 3](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale,_Vol_3.md)* |
+
+[From Wrothgar to Lilmoth: A Smith's Tale](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale.md), Vol 2 **by [Garnozag](Lore_Books_by_Author.md#Garnozag), Master Smith** *An account of Argonian weaponmaking methods from an Orc smith's perspective* *
+---
+Another day in [Lilmoth](Lore_Lilmoth.md). The local [weaponsmith](Lore_Smithing.md), a wily old [Argonian](Lore_Argonian.md) named Shukesh, is a woman after my own heart. She's stoic, dedicated, and a little ornery. I told her she must be half [Orc](Lore_Orc.md). She gave me one of those forced Argonian smiles that could either mean genuine amusement or total lack of approval. It's damn near impossible for me to tell the difference. When I first met her, she was working on a "tusik" sword, and I use the word "sword" loosely. I honestly couldn't tell you what kind of [weapon](Lore_Weapons.md) it actually is. It's like a club and a sword had a pup, then kicked half its teeth out and shaved down the others into fangs. I should probably be a little more specific, eh?
+
+The Argonian smith starts with a length of wood—anywhere from the length of her arm to the length of her tail. She spends a week or so shaving down the wood until she achieves a paddle shape. (I saw a few works-in-progress and mistook them for boat oars.) A lot of Argonians might be content to just stain the wood and move on to the next step, but old Shukesh is a master. I can tell you, what she lacks in personality, she makes up for in patience. She uses bones and fine-cut obsidian chisels to carve ornate patterns into the face of the paddle. Most of these patterns form abstract animal shapes—crocodiles and such. But a few of the patterns were kind of disturbing. One tusik in particular set my skin to crawl. It appeared to be a dark-stained skull with a series of ridges and spines. She said it was for a "special customer." I don't want to meet that customer, let me tell you!
+
+Once the wood is cured, stained, and polished, Shukesh sets it aside and begins to work on the next step in the task: stone-carving. According to Shukesh, all kinds of stones are suitable for use in the process, but she prefers to work with obsidian. Raw stones are chipped down into sharpened, knife-blade shapes, from crude squares to evenly shaved fangs. Once these "teeth" are hewn, she sets them into the paddle using wood or bone pegs and boiled depassa gum.
+
+Depassa gum is a strange gunk, let me tell you. It smells like an echatare's armpit, but adheres like a paste to wood and stone. Once it hardens, it's damn near impossible to break, but it stays light and flexible like an ironwood sapling. I told Shukesh that it reminded me of a mammoth gesso that I sometimes use when fixing leather. She just gave me one of her characteristic croaks and said, "Easier to hunt a tree than a mammoth, yes?" It's hard to argue with that logic.
+
+Once the teeth are set in place, the smith wraps the handle in strips of leather or bark, creating a grip that won't slip no matter how slick it gets with rain or blood. Now the weapon is complete, without the use of any metal. All told, it took her the better part of three weeks to finish the piece.
+
+The most remarkable thing about the tusik isn't even the weapon (which is marvelous in its own right). It's all the skills that go with it. Shukesh isn't just a smith, she's a woodcarver, an alchemist, a stonecutter, and a weaver. Any one of those trades can take a lifetime to master and she demonstrates proficiency in all four. Almost makes me ashamed. Maybe I should take up woodcarving in my spare time. Ha! Like that'll happen. Can't teach an old tusker new tricks, after all.

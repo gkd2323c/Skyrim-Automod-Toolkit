@@ -1,0 +1,9 @@
+# Tang Mo (race)
+
+The Tang Mo are a race described as a generous and kind [monkey](Lore_Monkey.md) -folk.<sup>[[1]](#cite_note-MA-1)</sup><sup>[[2]](#cite_note-PGE3-2)</sup> Tang Mo translates as "the [Thousand Monkey Isles](Lore_Tang_Mo_(place).md)", which refers to the area where they live. There are various breeds of Tang Mo. They are very brave and simple, and many are also believed to be insane. They can raise armies when they must, for all of the other [Akaviri](Lore_Akaviri.md) nations have, at one time or another, tried to enslave them. So far the Tang Mo have always succeeded in defending their lands. Recently they have shrewdly allied themselves with their former enemies, the [Ka Po' Tun](Lore_Ka_Po%27_Tun_(race).md).<sup>[[1]](#cite_note-MA-1)</sup>
+
+As with most of the other races of Akavir, they have never been sighted by modern scholars, and little is known about the Tang Mo other than the dubious information provided in the book *[Mysterious Akavir](Lore_Mysterious_Akavir.md)*. As such it is unknown how literally some descriptions should be taken, given the possible mistranslation of the complex [Tsaesci](Lore_Tsaesci.md) language.<sup>[[2]](#cite_note-PGE3-2)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-MA_1-0)***</sup><sup>***[b](#cite_ref-MA_1-1)***</sup> [*Mysterious Akavir*](Lore_Mysterious_Akavir.md)
+2. ^ <sup>***[a](#cite_ref-PGE3_2-0)***</sup><sup>***[b](#cite_ref-PGE3_2-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)

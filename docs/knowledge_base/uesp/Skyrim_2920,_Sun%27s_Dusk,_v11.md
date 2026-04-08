@@ -1,0 +1,141 @@
+# 2920, Sun's Dusk, v11
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book7.png) Book Information <br> *2920, Sun's Dusk, v11* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01ACE3 | | |
+| See Also | [Lore version](Lore_2920,_Sun%27s_Dusk_(v11).md) | | |
+| Up | *[2920, The Last Year of the First Era](https://en.uesp.net/wiki/Skyrim:2920,_The_Last_Year_of_the_First_Era)* | | |
+| Prev. | *[Book Ten: Frostfall](Skyrim_2920,_Frostfall,_v10.md)* | Next | *[Book Twelve: Evening Star](Skyrim_2920,_Evening_Star,_v12.md)* |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 11 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 3 | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Fellglow Keep](Skyrim_Fellglow_Keep.md) Dungeons, on a shelf <br> - [Alva's House](Skyrim_Alva%27s_House.md), on the mantle of the fireplace <br> - [Angeline's Aromatics](Skyrim_Angeline%27s_Aromatics.md), upstairs on a bookshelf in the east <br> - [Volkihar Ruins](https://en.uesp.net/wiki/Skyrim:Volkihar_Ruins)<sup>[DG](Skyrim_Dawnguard.md)</sup>, in one of the bookcases in the top hall <br> - [Apocrypha](Skyrim_Apocrypha.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Waking Dreams](Skyrim_Apocrypha_(Waking_Dreams).md), Chapter IV | | | |
+
+Book Eleven of [2920, The Last Year of the First Era](https://en.uesp.net/wiki/Skyrim:2920,_The_Last_Year_of_the_First_Era)
+
+Sun's Dusk **by [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)** *Volume 11 of a historical series about Vivec and the Empire*
+---
+
+- 2 Sun's Dusk, [2920](Lore_First_Era.md#1E_2920)
+- [Tel Aruhn](Lore_Tel_Aruhn.md), [Morrowind](Lore_Morrowind.md)
+
+"A man to see you, [Night Mother](Skyrim_Night_Mother.md)," said the guard. "A [Kothringi](Lore_Kothringi.md) tribesman who presents his credentials as Lord [Zuuk](Lore_Zuuk_(person).md) of [Black Marsh](Lore_Black_Marsh.md), part of the [Imperial Garrison](Skyrim_Imperial_Legion.md) of [Gideon](Lore_Gideon.md)."
+
+"What makes you think I'd have even the slightest possible interest in seeing him?" asked the Night Mother with venomous sweetness.
+
+"He brings a letter from the late Empress of the [Cyrodilic Empire](Lore_Second_Empire.md)."
+
+"We are having a busy day," she smiled, clapping her hands together with delight. "Show him in."
+
+Zuuk entered the chamber. His metallic skin, though exposed only at his face and hands, caught the light of the fireplace and the lightning of the stormy night from the window. The Night Mother noted also that she could see herself as he saw her: serene, beautiful, fear-inspiring. He handed her his letter from the Empress without a word. Sipping her wine, she read it.
+
+"The Duke of Morrowind also offered me an appreciable sum to have the Emperor murdered earlier this year," she said, folding the letter. "His payment sunk, and never was delivered. It was a considerable annoyance, particularly as I had already gone to the trouble of putting one of my agents in the palace. Why should I assume that your more-than-generous payment, from a dead woman, will arrive?"
+
+"I brought it with me," said Zuuk simply. "It is in the carriage outside."
+
+"Then bring it in and our business is complete," smiled the Night Mother. "The Emperor will be dead by year's end. You may leave the gold with Apaladith. Unless you'd care for some wine?"
+
+Zuuk declined the offer and withdrew. The moment he left the room, Miramor slipped noiselessly back from behind the dark tapestry. The Night Mother offered him a glass of wine, and he accepted it.
+
+"I know that fellow, Zuuk," said Miramor carefully. "I didn't know he worked for the old Empress though."
+
+"Let's talk about you some more, if you don't mind," she said, knowing he would, in fact, not mind.
+
+"Let me show you my worth," said Miramor. "Let me be the one to do the Emperor in. I've already killed his son, and you saw there how well I can hide myself away. Tell me you saw one ripple in the tapestry."
+
+The Night Mother smiled. Things were falling into place rather nicely.
+
+"If you know how to use a dagger, you will find him at [Bodrum](Lore_Bodrum.md)," she said, and described to him what he must do.
+
+- 3 Sun's Dusk, 2920
+- [Mournhold](Lore_Mournhold.md), Morrowind
+
+[![T letter.png](https://images.uesp.net/thumb/1/18/T_letter.png/72px-T_letter.png)](https://en.uesp.net/wiki/File:T_letter.png) he Duke stared out the window. It was early morning, and for the fourth straight day, a red mist hung over the city, flashing lightning. A freakish wind blew through the streets, ripping his flags from the castle battlements, forcing all his people to close their shudders tightly. Something terrible was coming to his land. He was not a greatly learned man, but he knew the signs. So too did his subjects.
+
+"When will my messengers reach the [Three](Lore_Tribunal.md)?" he growled, turning to his castellan.
+
+"[Vivec](Lore_Vivec_(god).md) is far to the north, negotiating the treaty with the Emperor," the man said, his face and voice trembling with fear. "[Almalexia](Lore_Almalexia.md) and [Sotha Sil](Lore_Sotha_Sil.md) are in [Necrom](Lore_Necrom.md). Perhaps they can be reached in a few days time."
+
+The Duke nodded. He knew his messengers were fast, but so too was the hand of [Oblivion](Lore_Oblivion.md).
+
+- 6 Sun's Dusk, 2920
+- Bodrum, Morrowind
+
+[![T letter.png](https://images.uesp.net/thumb/1/18/T_letter.png/72px-T_letter.png)](https://en.uesp.net/wiki/File:T_letter.png) orchlight caught in the misting snow gave the place an otherworldly quality. The soldiers from both camps found themselves huddled together around the largest of the bonfires: winter bringing enemies of four score of warring close together. While only a few of the [Dunmer](Skyrim_Dunmer.md) guard could speak [Cyrodilic](Lore_Cyrodilic.md), they found common ground battling for warmth. When a pretty [Redguard](Skyrim_Redguard.md) maiden passed into their midst to warm herself before moving back to the treaty tent, many a man from both army raised their eyes in approval.
+
+The Emperor [Reman III](Lore_Reman_III.md) was eager to leave negotiations before they had ever begun. A month earlier, he thought it would be a sign of good will to meet at the site of his defeat to Vivec's army, but the place brought back more bad memories than he thought it would. Despite the protestations of Potentate [Versidue-Shaie](Lore_Versidue-Shaie.md) that the rocks of the river were naturally red, he could swear he saw splatters of his soldier's blood.
+
+"We have all the particulars of the treaty," he said, taking a glass of hot yuelle from his mistress Corda. "But here and now is not the place for signing. We should do it at the [Imperial Palace](Lore_Imperial_Palace.md), with all the pomp and splendor this historic occasion demands. You must bring Almalexia with you too. And that wizard fellow."
+
+"Sotha Sil," whispered the Potentate.
+
+"When?" asked Vivec with infinite patience.
+
+"In exactly a month's time," said the Emperor, smiling munificently and clambering awkwardly to his feet. "We will hold a grand ball to commemorate. Now I must take a walk. My legs are all cramped up with the weather. Corda, my dear, will you walk with me?"
+
+"Of course, your Imperial Majesty," she said, helping him toward the tent's entrance.
+
+"Would you like me to come with you as well, your Imperial Majesty?" asked Versidue-Shaie.
+
+"Or I?" asked King [Dro'Zel](Lore_Dro%27Zel.md) of [Senchal](Lore_Senchal.md), a newly appointed advisor to the court.
+
+"That won't be necessary, I won't be gone a minute," said Reman.
+
+Miramor crouched in the same rushes he had hidden in nearly eight months before. Now the ground was hard and snow-covered, and the rushes slick with ice. Every slight movement he made issued forth a crunch. If it were not for the raucous songs of the combined Morrowind and Imperial army gathered about the bonfire, he would not have dared creep as close to the Emperor and his concubine. They were standing at the curve in the frozen creek below the bluff, surrounded by trees sparkling with ice.
+
+Carefully, Miramor removed the dagger from its sheath. He had slightly exaggerated his abilities with a short blade to the Night Mother. True, he had used one to cut the throat of Prince [Juilek](Lore_Juilek.md), but the lad was not in any position to fight back at the time. Still, how difficult could it be to stab an old man with one eye? What sort of blade skill would such an easy assassination require?
+
+His ideal moment presented itself before his eyes. The woman saw something deeper in the woods, an icicle of an unusual shape she said, and darted off to get it. The Emperor remained behind, laughing. He turned to the face of the bluff to see his soldiers singing their song's refrain, his back to his assassin. Miramor knew the moment had come. Mindful of the sound of his footfall on the icy ground, he stepped forward and struck. Very nearly.
+
+Almost simultaneously, he was aware of a strong arm holding back his striking arm and another one punching a dagger into his throat. He could not scream. The Emperor, still looking up at the soldiers, never saw Miramor pulled back into the brush and a hand much more skilled than his slicing into his back, paralyzing him.
+
+His blood pooling out and already crystallizing on the frozen ground, Miramor watched, dying, as the Emperor and his courtesan returned to join the camp up on the bluff.
+
+- 12 Sun's Dusk, 2920
+- Mournhold, Morrowind
+
+[![A letter.png](https://images.uesp.net/thumb/5/52/A_letter.png/72px-A_letter.png)](https://en.uesp.net/wiki/File:A_letter.png) gout of ever-erupting flame was all that remained of the central courtyard of Castle Mournhold, blasting skyward into the boiling clouds. A thick, tarry smoke rolled through the streets, igniting everything that was wood or paper on fire. Winged bat-like creatures harried the citizens from their hiding places out into the open, where they were met by the real army. The only thing that kept all of Mournhold from burning to the ground was the wet, sputtering blood of its people.
+
+[Mehrunes Dagon](https://en.uesp.net/wiki/Skyrim:Mehrunes_Dagon) smiled as he surveyed the castle crumbling.
+
+"To think I nearly didn't come," he said aloud, his voice booming over the chaos. "Imagine missing all this fun."
+
+His attention was arrested by a needle-thin shaft of light piercing through his black and red shadowed sky. He followed it to its source, two figures, a man and a woman standing on the hill above town. The man in the white robe he recognized immediately as Sotha Sil, the sorcerer who had talked all the Princes of Oblivion into that meaningless truce.
+
+"If you've come for the Duke of Mournhold, he isn't here," laughed Mehrunes Dagon. "But you might find pieces of him the next time it rains."
+
+"[Daedra](Skyrim_Daedra.md), we cannot kill you," said Almalexia, her face hard and resolute. "But that you will soon regret."
+
+With that, two living gods and a [prince of Oblivion](Lore_Daedric_Princes.md) engaged in battle on the ruins of Mournhold.
+
+- 17 Sun's Dusk, 2920
+- Tel Aruhn, Morrowind
+
+"Night Mother," said the guard. "Correspondence from your agent in the Imperial Palace."
+
+The Night Mother read the note carefully. The test had been a success: Miramor had been successfully detected and slain. The Emperor was in very unsafe hands. The Night Mother responded immediately.
+
+- 18 Sun's Dusk, 2920
+- [Balmora](Lore_Balmora.md), Morrowind
+
+[![S letter.png](https://images.uesp.net/thumb/e/ee/S_letter.png/72px-S_letter.png)](https://en.uesp.net/wiki/File:S_letter.png) otha Sil, face solemn and unreadable, greeted Vivec at the grand plaza in front of his palace. Vivec had ridden day and night after hearing about the battle in his tent in Bodrum, crossing mile after mile, cutting through the dangerous ground at [Dagoth-Ur](Lore_Dagoth-Ur_(place).md) at blinding speed. To the south, during all the course of the voyage, he could see the whirling red clouds and knew that the battle was continuing, day after day. In [Gnisis](Lore_Gnisis.md), he met a messenger from Sotha Sil, asking him to meet at Balmora.
+
+"Where is Almalexia?"
+
+"Inside," said Sotha Sil wearily. There was a long, ugly gash running across his jaw. "She's gravely injured, but Mehrunes Dagon will not return from Oblivion for many a moon."
+
+Almalexia lay on a bed of silk, tended to by Vivec's own healers. Her face, even her lips, was gray as stone, and blood stained through the gauze of her bandages. Vivec took her cold hand. Almalexia's mouth moved wordlessly. She was dreaming.
+
+She was battling Mehrunes Dagon again amid a firestorm. All around her, the blackened husk of a castle crumbled, splashing sparks into the night sky. The Daedra's claws dug into her belly, spreading poison through her veins while Almalexia throttled him. As she sank to the ground beside her defeated foe, she saw that the castle consumed by fire was not Castle Mournhold. It was the Imperial Palace.
+
+- 24 Sun's Dusk, 2920
+- The [Imperial City](Lore_Imperial_City.md), [Cyrodiil](Lore_Cyrodiil.md)
+
+[![A letter.png](https://images.uesp.net/thumb/5/52/A_letter.png/72px-A_letter.png)](https://en.uesp.net/wiki/File:A_letter.png) winter gale blew over the city, splashing the windows and glass domes of the Imperial Palace. Quivering light rays illuminated the figures within in surreal patterns.
+
+The Emperor barked orders to his staff in preparations for the banquet and ball. This was what he enjoyed best, more than battle. King Dro'Zel was supervising the entertainment, having strong opinions on the matter. The Emperor himself was arranging the details of the dinner. Roast nebfish, vegetable marrow, cream soups, buttered helerac, codscrumb, tongue in aspic. Potentate Versidue-Shaie had made a few suggestions of his own, but the tastes of the [Akaviri](Lore_Akaviri.md) were very peculiar.
+
+The Lady Corda accompanied the Emperor to his chambers as night fell.
+
+The Year is Concluded in *[Evening Star](Skyrim_2920,_Evening_Star,_v12.md)*.

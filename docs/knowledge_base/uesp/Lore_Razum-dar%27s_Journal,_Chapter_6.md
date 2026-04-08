@@ -1,0 +1,20 @@
+# Razum-dar's Journal, Chapter 6
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Up | *[Razum-dar's Journal](Lore_Razum-dar%27s_Journal.md)* | | |
+| Prev. | *[Chapter 5](Lore_Razum-dar%27s_Journal,_Chapter_5.md)* | Next | *[Chapter 7](Lore_Razum-dar%27s_Journal,_Chapter_7.md)* |
+
+Razum-dar's Journal, Chapter 6 **by [Razum-dar](Lore_Books_by_Author.md#Razum-dar)** *Razum-dar's report on the Mirror Court of the Proxy Queen*
+---
+When Raz uses the Recall Stone, a [coppery-smelling](Lore_Copper.md) portal appears before him, and he steps through into [Telenger](Lore_Telenger_the_Artificer.md)'s workshop in [Alinor](Lore_Alinor.md), prepared with a quip for the Artificer about the tall Telenger's long face. But Telenger is not in his workshop, only a [High Elf](Lore_High_Elf.md) lady Raz recognizes as [Penewen](Lore_Penewen.md) from descriptions by Alveno and the Artificer. Penewen is possibly even more surprised to see Raz than Raz is to see her, but she is quick (for an Elf) and grabs Telenger's Projector, which is on the desk before her.
+
+This one heroically rushes her, dashing directly into danger, but Penewen spins a dial on the Projector and thumbs a knob, so that just as Raz reaches her there is a flash of light, a smell of copper, a swirl of mist, and then this one is... somewhere else. It is a strange interior room with walls like [sandstone](Lore_Sandstone.md) in ridged patterns, but Raz knows it is a bedroom because he sees a bed. But he has no time for looking around because someone is coming to the doorway.
+
+So this one dives, with practiced ease, under the bed to hide (and where [Razum-dar](Lore_Razum-dar.md) got so much practice doing this is none of Your Majesty's business, begging your royal pardon). Peeking out at the newcomer, Raz sees that she is a female of the [human](Lore_Human.md) persuasion wearing the gray and yellow robes of the [Psijic Order](Lore_Psijic_Order.md), which is strange because this one thought all the Psijic mystics were High Elves. Razz watches as this Psijic lady—a [Breton](Lore_Breton.md), perhaps?—searches through a long sideboard that lines the far wall.
+
+But the Psijic Breton seemingly doesn't find what she's looking for, for she shrugs irritably and leaves. This also seems incongruous to Raz, as he had thought the Psijics were all mystically serene like like wise old monastics, but fortunately this one is always open to learning new things. He also remembers that Telenger had said he'd used his Projector to send himself to the [Isle of Artaeum](Lore_Artaeum.md), and maybe that is one of the settings on the dial that Penewen spun on it before she so rudely transported him away.
+
+Telenger had said that he had been projected into the Psijics' headquarters of [Ceporah Tower](Lore_Ceporah_Tower.md), arriving into [Sotha Sil](Lore_Sotha_Sil.md)'s own private chamber. Raz realizes he may be hiding under the divine bedstead of the Clockwork God himself, which seems vaguely inappropriate, so he rolls out next to a nightstand. This furnishing somehow captures my attention—for a moment Raz even thinks he sees a white glowing arrow hovering over it. He opens its drawer and finds within a strange device, a handle with a glowing blue globe on its end.
+
+Raz puts the device in his pouch. Your Majesty has never seen Ceporah Tower, of course, but based purely on aesthetics *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*, Razum-dar cannot recommend it. The place has a squiggly [Sloadish](Lore_Sload.md) look to it that makes this one uncomfortable, and Raz decides he'd better find a way out. He turns toward the doorway and is surprised by an Altmer for the second time in a half-our, because a tall Psijic is standing on the threshold. Then this one is surprised again when the Psijic says, "You must be Razum-dar."

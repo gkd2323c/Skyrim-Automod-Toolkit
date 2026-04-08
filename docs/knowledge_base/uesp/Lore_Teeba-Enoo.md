@@ -1,0 +1,13 @@
+# Teeba-Enoo
+
+[![](https://images.uesp.net/thumb/1/1a/ON-crown_store-Teeba_Warm-Up.jpg/200px-ON-crown_store-Teeba_Warm-Up.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Teeba_Warm-Up.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Teeba_Warm-Up.jpg) Teeba-Enoo Teeba-Enoo is an Argonian pastime that is both a ritual and a sport. There are many rules, and they are always changing.<sup>[[1]](#cite_note-ESOEeto-1)</sup> The rules are very confusing to outsiders.<sup>[[2]](#cite_note-2)</sup> Plenty of [Saxhleel](Lore_Argonian.md) also have trouble understanding the rules.<sup>[[1]](#cite_note-ESOEeto-1)</sup><sup>[[3]](#cite_note-ESOJram-3)</sup> The balls used to play teeba-enoo are strikingly similar to those used in [teeba-hatsei](Lore_Teeba-Hatsei_(sport).md).<sup>[[4]](#cite_note-4)</sup>
+
+## Rules
+The rules of teeba-enoo aren't written in any book, but an Orc who watched a match in [Murkmire](Lore_Murkmire.md) described the experience. At first, the players laid in the mud. Suddenly, half of the players jumped up and began slapping their tails, croaking up a storm while kicking half a dozen balls. The players bounced a ball off of a rock, then the other team rose, hooting and slapping their chests. They formed a circle around the rock the other team was bouncing their teebas off of, and began stood on their heads. Then, the other team began singing. One of the players shouted "enoo", and everybody flopped back down into the mud, where they laid for fifteen minutes until the game was over.<sup>[[5]](#cite_note-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOEeto_1-0)***</sup><sup>***[b](#cite_ref-ESOEeto_1-1)***</sup> [Bijum-Eeto](https://en.uesp.net/wiki/Online:Bijum-Eeto)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+2. [^](#cite_ref-2) [Rules of Teeba-Enoo](https://en.uesp.net/wiki/Online:Contraband_R#Rules_of_Teeba-Enoo) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ESOJram_3-0) [J'ram-Hei](https://en.uesp.net/wiki/Online:J%27ram-Hei)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+4. [^](#cite_ref-4) [Teeba-Enoo Ball](https://en.uesp.net/wiki/Online:Contraband_T#Teeba-Enoo_Ball) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [Lozwug](https://en.uesp.net/wiki/Online:Lozwug)'s dialogue during [Missing in Murkmire](https://en.uesp.net/wiki/Online:Missing_in_Murkmire) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*

@@ -1,0 +1,17 @@
+# Jhunal the Rune God
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Jhunal_the_Rune_God) ([Greymoor](https://en.uesp.net/wiki/Online:Greymoor)) |
+
+Jhunal the Rune God *A religious essay extolling the Nordic god of knowledge and wisdom*
+---
+It is impossible to discount the wisdom and power of [Jhunal](Lore_Jhunal.md). We in [Skyrim](Lore_Skyrim.md) are often seen by the rest of [Tamriel](Lore_Tamriel.md) as drunken oafs, or barbarians with little thought in their minds other than an eagerness for battle. Most forget that their favored [Julianos](Lore_Julianos.md) was first a [Nord](Lore_Nord.md) [god](Lore_Gods.md), one that valued wisdom, intelligence, and the pursuit of knowledge above all else.
+
+We true Nords have not forgotten Jhunal. There are still those among us that enjoy scholarly pursuits and the broadening of our minds. Perhaps we are but a token few these days, but hope is not lost. Nords must remember that they are called to a higher purpose than the brandishing of swords. We should be pursuing matters that enrich our lives, not risk them. Things such as scholarship, history, reading, and invention.
+
+If you turn up your nose while reading this, take comfort in knowing that you are not alone. There are many Nords who feel the same way. Jhunal wavers in favor because of a foolish notion that the pursuit of knowledge is somehow beneath us. That anything that doesn't make us stronger or display our courage for everyone to see is worthless. But I beseech you to abandon those notions. They have been learned, which means they can be unlearned. We need not do away with our strength as warriors in order to bolster our minds. In fact, doing both in conjunction can only improve both aspects of our beings.
+
+To be an excellent warrior, you must also have a strong mind and the knowledge to carry you through battle, wouldn't you agree? If the importance of learning is not enough to entice you, let that be your motivation instead. Jhunal is still ours, and Skyrim is still a land of warriors who are enriched by knowledge as well as combat.
+
+Do not turn up your nose at such pursuits! If we turn a blind eye to Jhunal and his teachings, then we are doomed as a people.

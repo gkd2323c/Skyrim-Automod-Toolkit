@@ -1,0 +1,63 @@
+# Omen
+
+*Vaermina, whose sphere is the realm of dreams and nightmares, and from whose realm issues forth evil omens.*
+— *[The Book of Daedra](Lore_The_Book_of_Daedra.md)*<sup>[[1]](#cite_note-TBOD-1)</sup> Omens are powerful, malicious [Daedra](Lore_Daedra.md) who seek to spread chaos on [Nirn](Lore_Nirn.md). They are among the most powerful minions of the [Daedric Prince](Lore_Daedric_Prince.md) [Vaermina](Lore_Vaermina.md),<sup>[[2]](#cite_note-LTS-2)</sup> and can be found in her realm [Quagmire](Lore_Quagmire.md).<sup>[[1]](#cite_note-TBOD-1)</sup><sup>[[3]](#cite_note-TOD-3)</sup> Omens enter people's dreams to influence them, driving them to make decisions they would otherwise consider poor or objectionable.<sup>[[4]](#cite_note-TDOLS-4)</sup> Their influence persists in the waking world, and an Omen may whisper to its victim or torment them by showing them horrible visions or forcing them to relive their worst memories.<sup>[[5]](#cite_note-SHHF-5)</sup> An Omen's victim may be driven to murder those they love, incite bloody conflict, or betray those close to them.<sup>[[6]](#cite_note-6)</sup> They dwell in dreams, and must be slain in their victim's dream in order to eject them from Nirn forever.<sup>[[4]](#cite_note-TDOLS-4)</sup> Followers of Vaermina believe that Omens, are directly sent by the Daedric Prince herself. These Omens have the power to ordain death among Vaermina's devotees, with the belief that those who excel in serving the cult may be reborn in Quagmire, the realm of Vaermina, to further aid Omens in their "holy" work.<sup>[[7]](#cite_note-Molacar-7)</sup>
+
+The exact nature of Omens is unknown. They can assume various shapes such as [Watchers](Lore_Watcher.md),<sup>[[8]](#cite_note-OOF-8)</sup><sup>[[9]](#cite_note-OOBE-9)</sup> [Dremora](Lore_Dremora.md),<sup>[[10]](#cite_note-KY-10)</sup> [Wispmothers](Lore_Wispmother.md),<sup>[[11]](#cite_note-OOB-11)</sup> as well as disguise themselves as mortals.<sup>[[12]](#cite_note-Saving_Hosni-12)</sup> Vaermina named her mortal lover Galthis the Omen of a Hundred Prophecies. Although he was originally a Breton,<sup>[[13]](#cite_note-TDBD-13)</sup> he assumed the form of a monstrosity resembling a [Bone Colossus](Lore_Bone_Colossus.md).<sup>[[14]](#cite_note-Galthis-14)</sup> Despite being an Omen, his nature was different from those who are proper Daedra.<sup>[[15]](#cite_note-LADhulef-15)</sup>
+
+Among the most elusive of these Omens is the Omen of Deception, whose [true name](Lore_Nymic.md) is Ykal. He seeks to wreak havoc by spreading lies and driving Nirn's inhabitants to distrust and betrayal. Ykal can be summoned by cultists who perform a specific ritual. It involves lighting four braziers, slaying a human sacrifice, and speaking his true name; the caveat is that the sacrifice must be dead when Ykal arrives, or he will be summoned in a weakened state. He was slain by the Vestige in [2E 582](Lore_Second_Era.md#2E_582) after the Supernal Dreamers called him to Tamriel.<sup>[[3]](#cite_note-TOD-3)</sup> The Omen of Betrayal has been encountered by mortals across Tamriel during the First and Second Eras. The inhabitants of [Summerset](Lore_Summerset_Isles.md) knew it as "The Gray Sleep", the [Argonians](Lore_Argonian.md) referred to it as "the Egg-Terror", and the [Orcs](Lore_Orc.md) called it "The Visiting [Breton](Lore_Breton.md)".<sup>[[16]](#cite_note-16)</sup> It was also responsible for the obsessions plaguing [Gavaudon](Lore_Gavaudon.md) and desecration of the Azura's Shrine.<sup>[[17]](#cite_note-AD-17)</sup><sup>[[18]](#cite_note-OOCS-18)</sup>
+
+Sometime during the [Second Era](Lore_Second_Era.md), Omens aided the cult of [Supernal Dreamers](Lore_Supernal_Dreamers.md). They were instrumental in helping the cult, figures of power influenced by them included Sir Hughes, who was the leader of the [Knights of the Flame](Lore_Knights_of_the_Flame.md) at the time, and General Godrun of the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md), both had their dreams affected by the Omen of Fear and Omen of Betrayal respectively. Another Omen, Omen of Blood assumed the form of a [Redguard](Lore_Redguard.md) noble, lady Adima. Through the manipulation of dreams, she was able to seduce Count Hosni and twist him and his organization to her Mistress' ends. Those influences led to the death of Duchess Lakana in Alcaire and almost caused Godrun to betray [Emeric](Lore_Emeric.md) and attack [Wayrest](Lore_Wayrest.md), with the latter being stopped by the [Vestige](Lore_The_Vestige.md) with the aid of followers of Azura situated in Pariah Abbey.<sup>[[19]](#cite_note-19)</sup><sup>[[20]](#cite_note-20)</sup><sup>[[12]](#cite_note-Saving_Hosni-12)</sup> Despite their power, the success of the Omens was never critical for Vaermina.<sup>[[21]](#cite_note-Vaermina-21)</sup> Ultimately, however, her plot was foiled.<sup>[[22]](#cite_note-VG-22)</sup>
+
+Supposedly one of the methods of summoning Omens used by the Supernal Dreamers involved the usage of the Omen Cards. The ornate set of cards was believed to provide aid in calling forth those Daedric spirits.<sup>[[23]](#cite_note-SDOC-23)</sup>
+
+## Known Omens
+- Omen of Betrayal,<sup>[[9]](#cite_note-OOBE-9)</sup> also known as the Omen of Counting Stars<sup>[[18]](#cite_note-OOCS-18)</sup>
+- Omen of Blood<sup>[[11]](#cite_note-OOB-11)</sup>
+- Omen of Fear,<sup>[[8]](#cite_note-OOF-8)</sup> also known as the Omen of the Watchful Eye<sup>[[24]](#cite_note-Dreamslayer-24)</sup>
+- Omen of Mortal Foreboding<sup>[[7]](#cite_note-Molacar-7)</sup>
+- Ykal, Omen of Deception<sup>[[3]](#cite_note-TOD-3)</sup><sup>[[10]](#cite_note-KY-10)</sup>
+- Galthis, The Omen of a Hundred Prophecies<sup>[[13]](#cite_note-TDBD-13)</sup><sup>[[14]](#cite_note-Galthis-14)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/83/ON-creature-Omen_of_Fear.jpg/200px-ON-creature-Omen_of_Fear.jpg)](https://en.uesp.net/wiki/File:ON-creature-Omen_of_Fear.jpg) Omen of Fear
+- [![](https://images.uesp.net/thumb/7/76/ON-creature-Omen_of_Blood.jpg/200px-ON-creature-Omen_of_Blood.jpg)](https://en.uesp.net/wiki/File:ON-creature-Omen_of_Blood.jpg) Omen of Blood
+- [![](https://images.uesp.net/thumb/2/29/ON-npc-Lady_Adima.jpg/200px-ON-npc-Lady_Adima.jpg)](https://en.uesp.net/wiki/File:ON-npc-Lady_Adima.jpg) Omen of Blood disguised as a Redguard noblewoman
+- [![](https://images.uesp.net/thumb/6/6c/ON-creature-Omen_of_Betrayal.jpg/200px-ON-creature-Omen_of_Betrayal.jpg)](https://en.uesp.net/wiki/File:ON-creature-Omen_of_Betrayal.jpg) Omen of Betrayal
+- [![](https://images.uesp.net/thumb/3/32/ON-npc-Kynreeve_Ykal.jpg/200px-ON-npc-Kynreeve_Ykal.jpg)](https://en.uesp.net/wiki/File:ON-npc-Kynreeve_Ykal.jpg) Ykal, the Omen of Deception
+- [![](https://images.uesp.net/thumb/c/c7/ON-creature-Galthis.jpg/200px-ON-creature-Galthis.jpg)](https://en.uesp.net/wiki/File:ON-creature-Galthis.jpg) Galthis, the Omen of a Hundred Prophecies
+- [![](https://images.uesp.net/thumb/7/7d/ON-quest-Godrun%27s_Dream.jpg/200px-ON-quest-Godrun%27s_Dream.jpg)](https://en.uesp.net/wiki/File:ON-quest-Godrun%27s_Dream.jpg) General Godrun trapped inside his dream by the Omen of Betrayal
+
+## Notes
+- Various types of Daedra, including Watchers not affiliated with Vaermina, have been documented using the title "Omen." An example of such a figure is Watcher Tem, known as the Omen of Destiny.<sup>[[25]](#cite_note-Tem-25)</sup><sup>[[26]](#cite_note-Aza-26)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Omen).
+
+## References
+1. ^ <sup>***[a](#cite_ref-TBOD_1-0)***</sup><sup>***[b](#cite_ref-TBOD_1-1)***</sup> [*The Book of Daedra*](Lore_The_Book_of_Daedra.md)
+2. [^](#cite_ref-LTS_2-0) [*Letter to Sentulus*](https://en.uesp.net/wiki/Online:Letter_to_Sentulus) — Nightcaller Chartrand
+3. ^ <sup>***[a](#cite_ref-TOD_3-0)***</sup><sup>***[b](#cite_ref-TOD_3-1)***</sup><sup>***[c](#cite_ref-TOD_3-2)***</sup> [*The Omen of Deception*](Lore_The_Omen_of_Deception.md)
+4. ^ <sup>***[a](#cite_ref-TDOLS_4-0)***</sup><sup>***[b](#cite_ref-TDOLS_4-1)***</sup> The [Dream of Lady Sirali](https://en.uesp.net/wiki/Online:Dream_of_Lady_Sirali)'s dialogue during [Saving Hosni](https://en.uesp.net/wiki/Online:Saving_Hosni) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-SHHF_5-0) [Sir Hughes](https://en.uesp.net/wiki/Online:Sir_Hughes)' dialogue during [Sir Hughes' Fate](https://en.uesp.net/wiki/Online:Sir_Hughes%27_Fate) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) Events of [Sir Hughes' Fate](https://en.uesp.net/wiki/Online:Sir_Hughes%27_Fate) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-Molacar_7-0)***</sup><sup>***[b](#cite_ref-Molacar_7-1)***</sup> [Molacar](https://en.uesp.net/wiki/Online:Molacar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. ^ <sup>***[a](#cite_ref-OOF_8-0)***</sup><sup>***[b](#cite_ref-OOF_8-1)***</sup> [Omen of Fear](https://en.uesp.net/wiki/Online:Omen_of_Fear) in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. ^ <sup>***[a](#cite_ref-OOBE_9-0)***</sup><sup>***[b](#cite_ref-OOBE_9-1)***</sup> [Omen of Betrayal](https://en.uesp.net/wiki/Online:Omen_of_Betrayal) in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. ^ <sup>***[a](#cite_ref-KY_10-0)***</sup><sup>***[b](#cite_ref-KY_10-1)***</sup> [Kynreeve Ykal](https://en.uesp.net/wiki/Online:Kynreeve_Ykal) in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. ^ <sup>***[a](#cite_ref-OOB_11-0)***</sup><sup>***[b](#cite_ref-OOB_11-1)***</sup> [Omen of Blood](https://en.uesp.net/wiki/Online:Omen_of_Blood) in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. ^ <sup>***[a](#cite_ref-Saving_Hosni_12-0)***</sup><sup>***[b](#cite_ref-Saving_Hosni_12-1)***</sup> Events of [Saving Hosni](https://en.uesp.net/wiki/Online:Saving_Hosni) in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. ^ <sup>***[a](#cite_ref-TDBD_13-0)***</sup><sup>***[b](#cite_ref-TDBD_13-1)***</sup> [*To Dream Beyond Dreams*](Lore_To_Dream_Beyond_Dreams.md) — [the Omen of a Hundred Prophecies](Lore_Books_by_Author.md#The_Omen_of_a_Hundred_Prophecies)
+14. ^ <sup>***[a](#cite_ref-Galthis_14-0)***</sup><sup>***[b](#cite_ref-Galthis_14-1)***</sup> [Galthis](https://en.uesp.net/wiki/Online:Galthis) in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-LADhulef_15-0) [*Loremaster's Archive - Tamriel's Dungeons*](Lore_Loremaster%27s_Archive_-_Tamriel%27s_Dungeons.md) — [Dhulef](Lore_Books_by_Author.md#Dhulef)
+16. [^](#cite_ref-16) [Loading Screen](https://en.uesp.net/wiki/Online:Loading_Screens) text for [Godrun's Dream](https://en.uesp.net/wiki/Online:Godrun%27s_Dream_(place)) in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-AD_17-0) [Abbot Durak](https://en.uesp.net/wiki/Online:Abbot_Durak)'s dialogue during [Another Omen](https://en.uesp.net/wiki/Online:Another_Omen) in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. ^ <sup>***[a](#cite_ref-OOCS_18-0)***</sup><sup>***[b](#cite_ref-OOCS_18-1)***</sup> [Azura's Ally](https://en.uesp.net/wiki/Online:Azura%27s_Ally)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-19) Events of [Sir Hughes' Fate](https://en.uesp.net/wiki/Online:Sir_Hughes%27_Fate) in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. [^](#cite_ref-20) Events of [Godrun's Dream](https://en.uesp.net/wiki/Online:Godrun%27s_Dream) in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-Vaermina_21-0) [Vaermina](https://en.uesp.net/wiki/Online:Vaermina)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-VG_22-0) Events of [Vaermina's Gambit](https://en.uesp.net/wiki/Online:Vaermina%27s_Gambit) in [ESO](https://en.uesp.net/wiki/Online:Online)
+23. [^](#cite_ref-SDOC_23-0) [Supernal Dreamers Omen Cards](https://en.uesp.net/wiki/Online:Contraband_S#Supernal_Dreamers_Omen_Cards)' item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. [^](#cite_ref-Dreamslayer_24-0) [Dreamslayer](https://en.uesp.net/wiki/Online:Dreamslayer)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+25. [^](#cite_ref-Tem_25-0) [Tem](https://en.uesp.net/wiki/Online:Tem)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+26. [^](#cite_ref-Aza_26-0) [Azandar al-Cybiades](https://en.uesp.net/wiki/Online:Azandar_al-Cybiades)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*

@@ -1,0 +1,14 @@
+# Xivilai's Clan
+
+[![](https://images.uesp.net/thumb/2/2c/BS-npc-Xivilai_Moath_02.png/200px-BS-npc-Xivilai_Moath_02.png)](https://en.uesp.net/wiki/File:BS-npc-Xivilai_Moath_02.png) [](https://en.uesp.net/wiki/File:BS-npc-Xivilai_Moath_02.png) Xivilai Moath Xivilai's Clan is a [Daedric](Lore_Daedra.md) clan led by [Xivilai Moath](Lore_Xivilai_Moath.md). It is in the service of [Clan Dagon](Lore_Clan_Dagon.md), led by [Mehrunes Dagon](Lore_Mehrunes_Dagon.md). The clan is based in the [Havoc Wellhead](Lore_Havoc_Wellhead.md). It represents the ambitious, but occasionally overreaching and imprudent side of destruction.<sup>[[1]](#cite_note-dialogue-1)</sup>
+
+During the attempted [Planemeld](Lore_Planemeld.md), Moath was in the service of [Molag Bal](Lore_Molag_Bal.md), although nothing is known of the clan from that time.<sup>[[2]](#cite_note-2)</sup>
+
+Along with [Shardai Clan](Lore_Shardai_Clan.md) and [Dremora Clan](Lore_Dremora_Clan.md), Xivilai's Clan aided Dagon in his invasion of the [Battlespire](Lore_Battlespire.md) during the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md). At this time, [Morphoid Daedra](Lore_Morphoid_Daedra.md), [Frost Daedra](Lore_Frost_Daedra.md), and [Clannfears](Lore_Clannfear.md) were retainers of Xivilai's Clan. On the orders of [Faydra Shardai](Lore_Faydra_Shardai.md), the Frost Daedra helped to invade the [Shade Perilous](Lore_Shade_Perilous.md) along with their hated enemies, the [Fire Daedra](Lore_Fire_Daedra.md). To prevent infighting, Xivilai made a pact with Faydra, forcing them to work together. This relationship did not hold, as an [apprentice](Lore_Hero.md) from the Battlespire, following the retreating Daedric armies, brought the [Elemental Daedra](Lore_Elemental_Daedra.md) into conflict over control of the realm. The unnecessary invasion of the Shade Perilous and the increasing rivalry between Faydra and Xivilai displeased Dagon. [Imago Storm](Lore_Imago_Storm.md) of Dremora Clan made a deal with the Battlespire apprentice in an attempt to restore order to Clan Dagon. Xivilai Moath was tricked into aiding the apprentice and brought his clan into open conflict with Shardai Clan. Following Dagon's banishment, Imago Storm assumed control and restored order to the clans.<sup>[[3]](#cite_note-3)</sup>
+
+It is unknown what relation common [Xivilai](Lore_Xivilai.md) Daedra have to the clan.
+
+## References
+1. [^](#cite_ref-dialogue_1-0) [Imago Storm](https://en.uesp.net/wiki/Battlespire:Imago_Storm)'s dialogue in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+2. [^](#cite_ref-2) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) Events of *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*

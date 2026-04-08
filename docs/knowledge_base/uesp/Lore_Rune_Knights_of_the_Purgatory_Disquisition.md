@@ -1,0 +1,11 @@
+# Rune Knights of the Purgatory Disquisition
+
+The **Rune Knights of the Purgatory Disquisition** (or the **rune knights of old**) were a small and extremely secretive [knightly order](Lore_Knight.md) founded early on during the [Second Era](Lore_Second_Era.md). They were established by an obscure patron and traveled from [Apocrypha](Lore_Apocrypha.md) to wage battles across [Nirn](Lore_Nirn.md). It was speculated by some that this founder could've been a [Daedra](Lore_Daedra.md) or powerful [arcanist](Lore_Arcanists.md). The order seemingly didn't last long but managed to leave a footprint on arcanist spellcasting, perfecting runic warding techniques which remained unchanged in the modern arcanist's skill-set.<sup>[[1]](#cite_note-Arc LA-1)</sup> [Azandar al-Cybiades](Lore_Azandar_al-Cybiades.md) was known to research the rune knights of old, but he referred to the result of his studies as a "little more than curious, open ended ephemera".<sup>[[2]](#cite_note-Azandar-2)</sup>
+
+## Notes
+- A rune knight is someone who is both an arcanist and a knight,<sup>[[1]](#cite_note-Arc LA-1)</sup> that uses the warding techniques developed by the Rune Knights of the Purgatory Disquisition to conjure protective runes to survive attacks.<sup>[[3]](#cite_note-3)</sup> Tales of rune knights being unharmed by hundreds of arrows is debated.<sup>[[1]](#cite_note-Arc LA-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Arc LA_1-0)***</sup><sup>***[b](#cite_ref-Arc LA_1-1)***</sup><sup>***[c](#cite_ref-Arc LA_1-2)***</sup> [Loremaster's Archive - The Arcanists](Lore_Loremaster%27s_Archive_-_The_Arcanists.md)
+2. [^](#cite_ref-Azandar_2-0) Azandar Arcanist Note # 9 of [Azandar al-Cybiades](https://en.uesp.net/wiki/Online:Azandar_al-Cybiades) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+3. [^](#cite_ref-3) [Arcanist](https://en.uesp.net/wiki/Online:Arcanist) Rune Knight description in [ESO](https://en.uesp.net/wiki/Online:Online)

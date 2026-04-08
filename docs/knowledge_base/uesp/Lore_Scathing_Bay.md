@@ -1,0 +1,29 @@
+# Scathing Bay
+
+| --- | --- |
+| Type | Body of Water |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Morrowind](Lore_Morrowind.md) |
+| Region | [Ascadian Isles](https://en.uesp.net/wiki/Lore:Ascadian_Isles) |
+
+[![](https://images.uesp.net/thumb/3/3c/MW-map-Vvardenfell.jpg/200px-MW-map-Vvardenfell.jpg)](https://en.uesp.net/wiki/File:MW-map-Vvardenfell.jpg) [](https://en.uesp.net/wiki/File:MW-map-Vvardenfell.jpg) The city of Vivec and the surrounding area are now the Scathing Bay Scathing Bay was created by the destruction of [Vivec City](Lore_Vivec_(city).md) during the [Red Year](Lore_Red_Year.md) of [4E 5](Lore_Fourth_Era.md#4E_5), when the [Ministry of Truth](https://en.uesp.net/wiki/Lore:Ministry_of_Truth) smashed into the city with the same momentum it had before [Vivec](Lore_Vivec.md) froze it in place.<sup>[[1]](#cite_note-TIC-1)</sup><sup>[[2]](#cite_note-HORR1-2)</sup><sup>[[3]](#cite_note-TPP-3)</sup> It is the almost perfectly circular crater of water where the city and the surrounding area used to be, expanding the original waters of **[Norvayn Bay](#Norvayn_Bay)**.<sup>[[4]](#cite_note-Elone-4)</sup> The cantons, the lagoons, and beyond were replaced with boiling water, charred shores, and the stink of hard minerals from the steam.<sup>[[1]](#cite_note-TIC-1)</sup>
+
+The rim of the enormous crater forms Scathing Bay's shores and rises up above the water. A relatively small break in the southern part of this rim is all that connects the bay to the [Inner Sea](Lore_Inner_Sea.md). Some vegetation still manages to grow in the surrounding area; the surrounding hillsides are filled with various flowering plants, and [Emperor Parasols](https://en.uesp.net/wiki/Lore:Emperor_Parasol) still dot the landscape. The [Argonians](Lore_Argonian.md) have a ritual associated with the bay. The bay is apparently largely empty except for a small jagged island of ash near the center, which is believed to be where the High Fane of the [Tribunal Temple](Lore_Tribunal_Temple.md) was located. The sword [Umbra](Lore_Umbra.md) was found here by a group of [Dunmer](Lore_Dunmer.md) scavengers. When the floating city [Umbriel](Lore_Umbriel.md) passed over it in [4E 48](Lore_Fourth_Era.md#4E_48), legions of the dead rose up out of the boiling waters.<sup>[[1]](#cite_note-TIC-1)</sup>
+
+## Norvayn Bay
+Prior to the [Fourth Era](Lore_Fourth_Era.md), Norvayn Bay was a tranquil body of water and one of the key features of the [Ascadian Isles](https://en.uesp.net/wiki/Lore:Ascadian_Isles), feeding into the lakes of [Hairan](https://en.uesp.net/wiki/Lore:Lake_Hairan) and [Masobi](https://en.uesp.net/wiki/Lore:Lake_Masobi). Many ships passed through the outer waters of the bay to get in and out of the city for transportation and commerce, while smaller gondolas navigated through the inner waters between the cantons. Numerous ruins and settlements were dotted around the bay, such as [Castle Ebonheart](https://en.uesp.net/wiki/Lore:Castle_Ebonheart), [Ald Sotha](https://en.uesp.net/wiki/Lore:Ald_Sotha), and [Mudan](https://en.uesp.net/wiki/Lore:Mudan).<sup>[[5]](#cite_note-Morrowind-5)</sup><sup>[[6]](#cite_note-ESO-6)</sup> It is also surrounded by several islands, such as [Elmas Island](https://en.uesp.net/wiki/Lore:Elmas_Island). Following the Red Year, these structures are believed to have been obliterated and ships no longer pass through the resulting waters of Scathing Bay.<sup>[[7]](#cite_note-TRY-7)</sup> It shared its name with the [Norvayn](https://en.uesp.net/wiki/Lore:Norvayn) family of [House Hlaalu](Lore_House_Hlaalu.md).<sup>[[8]](#cite_note-ONNorvayn-8)</sup>
+
+## Notes
+- Scathing Bay's size and the force of the blast which created it are unknown, but at least one survivor on the mainland was knocked off his feet by the blast, and was close enough to see the cantons of the city fall apart.<sup>[[7]](#cite_note-TRY-7)</sup>
+- The [Second Era](Lore_Second_Era.md) adventurer Kireth Vanos was teleported through time and space by a malfunctioning [Dwemer](Lore_Dwemer.md) device during an expedition to Nchuthnkarst circa [2E 582](Lore_Second_Era.md#2E_582). Scathing Bay was one of the places she briefly visited before these temporal disturbances were fixed; she described it as a "smoking crater" where Vivec City once stood.<sup>[[9]](#cite_note-9)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TIC_1-0)***</sup><sup>***[b](#cite_ref-TIC_1-1)***</sup><sup>***[c](#cite_ref-TIC_1-2)***</sup> [*The Infernal City*](Lore_The_Infernal_City.md) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+2. [^](#cite_ref-HORR1_2-0) [*History of Raven Rock, Vol. I*](https://en.uesp.net/wiki/Lore:History_of_Raven_Rock,_Vol._I) — [Lyrin Telleno](Lore_Books_by_Author.md#Lyrin_Telleno)
+3. [^](#cite_ref-TPP_3-0) [*The Pilgrim's Path*](https://en.uesp.net/wiki/Lore:The_Pilgrim%27s_Path) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+4. [^](#cite_ref-Elone_4-0) [Elone](https://en.uesp.net/wiki/Morrowind:Elone)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-Morrowind_5-0) Events of *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. [^](#cite_ref-ESO_6-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+7. ^ <sup>***[a](#cite_ref-TRY_7-0)***</sup><sup>***[b](#cite_ref-TRY_7-1)***</sup> [*The Red Year*](Lore_The_Red_Year.md) — [Melis Ravel](Lore_Books_by_Author.md#Melis_Ravel)
+8. [^](#cite_ref-ONNorvayn_8-0) [Norvayn Ancestral Tomb](https://en.uesp.net/wiki/Online:Ancestral_Tombs#Norvayn_Ancestral_Tomb) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](Online_Morrowind_(DLC).md)*
+9. [^](#cite_ref-9) [Kireth Vanos](https://en.uesp.net/wiki/Online:Kireth_Vanos)' dialogue during [The Tones of the Deep](https://en.uesp.net/wiki/Online:The_Tones_of_the_Deep) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

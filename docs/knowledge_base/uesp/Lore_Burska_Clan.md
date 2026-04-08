@@ -1,0 +1,8 @@
+# Burska Clan
+
+[![](https://images.uesp.net/thumb/7/7b/ON-item-Uzdabikh%27s_Helm_%28museum%29.jpg/200px-ON-item-Uzdabikh%27s_Helm_%28museum%29.jpg)](https://en.uesp.net/wiki/File:ON-item-Uzdabikh%27s_Helm_(museum).jpg) [](https://en.uesp.net/wiki/File:ON-item-Uzdabikh%27s_Helm_(museum).jpg) Uzdabikh's Helm The Burska Clan were one of the [Orc](Lore_Orc.md) clans of [Wrothgar](Lore_Wrothgar.md). Little is known about them, except for their profound oral traditions, which were considered surprisingly accurate. They possessed knowledge about the location of the legendary relic, Uzdabikh's Helm, worn by the Orcish hero [Uzdabikh](https://en.uesp.net/wiki/Lore:Uzdabikh) during the [Battle of Fharun Pass](Lore_Wars.md#Battle_of_Fharun_Pass). They asserted that it was last seen in the vicinity of [Sorrow](Lore_Sorrow.md) in northern [Wrothgar](Lore_Wrothgar.md), and their assertion proved accurate.<sup>[[1]](#cite_note-CU-1)</sup><sup>[[2]](#cite_note-ATP-2)</sup><sup>[[3]](#cite_note-NA-3)</sup>
+
+## References
+1. [^](#cite_ref-CU_1-0) [Curator Umutha](https://en.uesp.net/wiki/Online:Curator_Umutha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))*
+2. [^](#cite_ref-ATP_2-0) Events of [Awaken the Past](https://en.uesp.net/wiki/Online:Awaken_the_Past) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))*
+3. [^](#cite_ref-NA_3-0) [*Uzdabikh's Helm*](https://en.uesp.net/wiki/Lore:Uzdabikh%27s_Helm)

@@ -1,0 +1,19 @@
+# Free Our Goblin Brothers!
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Free_Our_Goblin_Brothers!) |
+
+Free Our Goblin Brothers! *An Argonian-centric poster condemning the slavery of Goblins*
+---
+I have no echo, so I cannot speak?
+
+My limbs are short, so I cannot reach the sky?
+
+My wind is bound, won't YOU help me break free?
+
+If we do not set our [Goblin](Lore_Goblin.md) brethren free, who will? [Argonians](Lore_Argonian.md) know the yoke of servitude. Will we place it on others while the memory of slavery still lingers in our minds? When we return to the [Hist](Lore_Hist.md), what will our ancestors say to us?
+
+And, you, who are not Argonians, are we not all brothers under our soft or scaly skins? If we use slaves, are we not depriving ourselves of honest work? If we force others into service, will not our overlords do the same to us?
+
+If you want to know what you can do to save a Goblin, speak to Miharil.

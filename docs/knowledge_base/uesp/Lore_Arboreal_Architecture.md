@@ -1,0 +1,13 @@
+# Arboreal Architecture
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Arboreal_Architecture) |
+
+Arboreal Architecture **by [Cirantille](Lore_Cirantille.md)** *A description of Bosmeri construction techniques*
+---
+An entire [province of timber](Lore_Valenwood.md), but no tree must be harmed: one would suspect the [Treaty of Frond and Leaf](Lore_Green_Pact.md) would incapacitate a [Wood Elf](Lore_Bosmer.md) architect to the point of ruin, but working within these nonsensical rules has strengthened the quality of workmanship of the Bosmer and their settlements. Although hide stretched and tied over frames of bone may appear temporary, they are usually cocooned within sacred tree hollows and range dramatically in size. Wander the rivers and coast, where traders can provide quality imported lumber without breaking the Green Pact, and you will find more traditional wooden abodes.
+
+Journey deeper into the forests if you dare, and you may stumble across the city of [Elden Root](Lore_Elden_Root.md) or [Silvenar](Lore_Silvenar.md). Both have dwellings on the forest floor (typically built by other races, usually the [Altmer](Lore_Altmer.md)), but many homes are both concealed and cradled within the canopy of [graht-oak](Lore_Graht-oak.md) trees. Citified tree-folk favor a life among the branches and have woven them together to form limbed pathways, without contravening the law of the land. Trails of thick, living vines anchor dozens of platforms that carry goods and people among the graht-oak. These platforms are hoisted by strong, often foreign laborers.
+
+Bone, resin, and sinew are employed in Bosmeri bridge design. A secondary market in such scraps allows the tree-dweller to tip their animal waste from above to the ground below, where it is scavenged and reworked into a variety of items—certainly better than the refuse-strewn thoroughfares of [Skyrim](Lore_Skyrim.md). As the moons rise, additional light is provided by luminous lichen, molds, and fungal growths living at the perpetually shadowed base of the oaks. Higher up, nocturnal flowers feed from the graht-oak, attracting [torchbugs](Lore_Torchbug.md), whose hives light the branch platforms without the aid of fire. Adaptation to overcome self-imposed and crippling shortcomings has allowed the Wood Elf to survive, even thrive, despite their rigorous restrictions.

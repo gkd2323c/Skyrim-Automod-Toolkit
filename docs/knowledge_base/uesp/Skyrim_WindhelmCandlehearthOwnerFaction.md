@@ -1,0 +1,3 @@
+# WindhelmCandlehearthOwnerFaction
+
+Redirects to [WindhelmCandlehearthOwnerFaction](Skyrim_Factions_W.md#WindhelmCandlehearthOwnerFaction).

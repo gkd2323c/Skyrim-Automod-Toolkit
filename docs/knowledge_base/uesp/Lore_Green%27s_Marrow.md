@@ -1,0 +1,31 @@
+# Green's Marrow
+
+| Green's Marrow | |
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Green%27s_Marrow) |
+
+[![](https://images.uesp.net/thumb/8/81/ON-place-Green%27s_Marrow.jpg/200px-ON-place-Green%27s_Marrow.jpg)](https://en.uesp.net/wiki/File:ON-place-Green%27s_Marrow.jpg) [](https://en.uesp.net/wiki/File:ON-place-Green%27s_Marrow.jpg) Green's Marrow circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/7/7e/ON-map-Green%27s_Marrow.jpg/200px-ON-map-Green%27s_Marrow.jpg)](https://en.uesp.net/wiki/File:ON-map-Green%27s_Marrow.jpg) [](https://en.uesp.net/wiki/File:ON-map-Green%27s_Marrow.jpg) Map of Green's Marrow Green's Marrow is the northernmost region of the greater [Greenshade](Lore_Greenshade.md) region of [Valenwood](Lore_Valenwood.md). Green's Marrow is the largest region of the other two and it houses a wide variety of settlements.<sup>[[1]](#cite_note-ESO-1)</sup> The hidden city of [Whisper Grove](Lore_Whisper_Grove.md) once served as a hideaway from the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) before it was burned to the ground by the followers of [Mehrunes Dagon](Lore_Mehrunes_Dagon.md).<sup>[[2]](#cite_note-2)</sup> The township of [Vullain](Lore_Vullain.md) is located in the western grove, overlooking the [Drowned Coast](Lore_Drowned_Coast.md). The city of [Falinesti](Lore_Falinesti.md) has its Spring Site located in Green's Marrow, not far from the Drowned Coast.<sup>[[1]](#cite_note-ESO-1)</sup> [Hectahame](Lore_Hectahame.md) is the location of the [Heart of Valenwood](Lore_Heart_of_Valenwood.md), the single thing that gives life to the vast forest of the province.<sup>[[3]](#cite_note-Ho V-3)</sup>
+
+## History
+The Green's Marrow region was colonized by [Daedraphile](Lore_Daedraphile.md) [Ayleid](Lore_Ayleid.md) tribes during the Ayleid Diaspora, a migration wave which occurred during the many centuries of Ayleid decline in [Cyrodiil](Lore_Cyrodiil.md) following the fall of [White-Gold Tower](Lore_White-Gold_Tower.md) in [1E 243](Lore_First_Era.md#1E_243). They established the great city of Hectahame and were received warmly by their [Bosmer](Lore_Bosmer.md) hosts.<sup>[[4]](#cite_note-ASi V-4)</sup> However, a [necromancer](Lore_Necromancy.md) subsequently invaded Valenwood and took control of Hectahame, and the Heart of Valenwood contained within. Using its power, he raised a great host of undead Ayleid spirits. Unable to defeat him, the Ayleids used [Welkynd Stones](Lore_Welkynd_Stone.md) to create powerful necromantic wards, sealing this undead army within Hectahame.<sup>[[3]](#cite_note-Ho V-3)</sup> Within only two thousand years of the Diaspora, Ayleid culture had vanished from the region, the tribes having seemingly integrated with the native Bosmer.<sup>[[4]](#cite_note-ASi V-4)</sup>
+
+In time, the local Bosmer began to view Hectahame with a mix of superstition and awe, fearing the ancient past but revering the life-giving power that flows from within. Although many individuals plotted to make use of the Heart of Valenwood over the ages, none barring [the Silvenar](Lore_The_Silvenar.md) made it past the ancient wards.<sup>[[3]](#cite_note-Ho V-3)</sup>
+
+At some point, General [Malgoth](Lore_Malgoth.md) of the Blackroot Clan attempted to unite all of Northern Valenwood under his leadership, and began his conquest with the town of Vullain. However, the inhabitants of Villain had poisoned their bodies in advance of the attack, resulting in the deaths of Malgoth and his forces after they consumed the bodies of the dead in accordance with the [Meat Mandate](Lore_Green_Pact.md).<sup>[[5]](#cite_note-Malgoth-5)</sup> Vullain thereafter was known as Dread Vullain, and became a haunted site.<sup>[[6]](#cite_note-6)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), the Shade of Prince [Naemon](Lore_Naemon.md) plagued the Green's Marrow region with an army of undead, spreading corruption throughout the forest. He created a parallel realm known as the [Shadow Wood](Lore_Shadow_Wood.md), pockets of which were established throughout the region. These fragments formed part of a greater reality designed to supplant the Valenwood, culminating in Naemon's use of the [Staff of Magnus](Lore_Staff_of_Magnus.md) to bypass the wards at Hectahame and corrupt the Heart of Valenwood. The future Silvenar [Indaenir](Lore_Indaenir.md) put a stop to this plot, confronting Naemon and destroying the Shadow Wood before the corruption could spread.<sup>[[7]](#cite_note-Indaenir-7)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Green%27s_Marrow).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESO_1-0)***</sup><sup>***[b](#cite_ref-ESO_1-1)***</sup> [Green's Marrow](https://en.uesp.net/wiki/Online:Green%27s_Marrow) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-2) [City of Ash I](https://en.uesp.net/wiki/Online:City_of_Ash_I) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Ho V_3-0)***</sup><sup>***[b](#cite_ref-Ho V_3-1)***</sup><sup>***[c](#cite_ref-Ho V_3-2)***</sup> [*Heart of Valenwood*](Lore_Heart_of_Valenwood_(book).md) — [Beredalmo the Signifier](Lore_Books_by_Author.md#Beredalmo_the_Signifier)
+4. ^ <sup>***[a](#cite_ref-ASi V_4-0)***</sup><sup>***[b](#cite_ref-ASi V_4-1)***</sup> [*Ayleid Survivals in Valenwood*](Lore_Ayleid_Survivals_in_Valenwood.md) — [Cuinur of Cloudrest](Lore_Books_by_Author.md#Cuinur_of_Cloudrest), 4th Tier Scholar of Tamrielic Minutiae
+5. [^](#cite_ref-Malgoth_5-0) [*General Malgoth's Journal*](Lore_General_Malgoth%27s_Journal.md) — [General Malgoth](Lore_Books_by_Author.md#General_Malgoth)
+6. [^](#cite_ref-6) [Dread Vullain](https://en.uesp.net/wiki/Online:Dread_Vullain) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-Indaenir_7-0) [Indaenir](https://en.uesp.net/wiki/Online:Indaenir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

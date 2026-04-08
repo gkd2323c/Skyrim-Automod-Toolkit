@@ -1,0 +1,12 @@
+# Stendarr (planet)
+
+[![](https://images.uesp.net/thumb/9/98/OB-interior-Orrery_%28labeled%29.jpg/200px-OB-interior-Orrery_%28labeled%29.jpg)](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) [](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) The names of the heavenly bodies around [Nirn](Lore_Nirn.md) The planet Stendarr, sometimes called **THENDR**,<sup>[[1]](#cite_note-36LOVS3-1)</sup> is one of the Planets in the skies of [Mundus](Lore_Mundus.md),<sup>[[UOL 1]](#cite_note-Cosmo-2)</sup> and according to the Warrior-Poet, [Vivec](Lore_Vivec.md), it is one of the eight worlds known to the [Dwemer](Lore_Dwemer.md).<sup>[[1]](#cite_note-36LOVS3-1)</sup> Stendarr is [Julianos](Lore_Julianos_(planet).md)' satellite and is orbiting around it.<sup>[[2]](#cite_note-OBOrrery-3)</sup> As with all astral bodies seen in the skies above [Nirn](Lore_Nirn.md) and their corresponding deities, the planet Stendarr is believed to be the plane of the god Stendarr as well as the god himself, as seen from the mortal plane. It is said to actually be a different [plane of existence](Lore_Planes_of_Existence.md) in its own right, infinite in size and mass, with its appearance as a sphere being only a visual phenomenon caused by mortal mental stress. According to some accounts, the mortal realms were formed by the Aedra out of [Creatia](Lore_Chaotic_Creatia.md).<sup>[[3]](#cite_note-Co S-4)</sup><sup>[[UOL 1]](#cite_note-Cosmo-2)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-36LOVS3_1-0)***</sup><sup>***[b](#cite_ref-36LOVS3_1-1)***</sup> [*36 Lessons of Vivec, Sermon 3*](Lore_36_Lessons_of_Vivec,_Sermon_3.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-OBOrrery_3-0) [The Orrery in Cyrodiil – *The Elder Scrolls IV: Oblivion*](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg)
+3. [^](#cite_ref-Co S_4-0) [*Charge of Shor*](Lore_Charge_of_Shor.md) — [Frogirde](Lore_Books_by_Author.md#Frogirde)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-Cosmo_2-0)***</sup><sup>***[b](#cite_ref-Cosmo_2-1)***</sup> [*Cosmology*](https://en.uesp.net/wiki/General:Cosmology) — [The Temple Zero Society](Lore_Temple_Zero_Society.md)

@@ -1,0 +1,64 @@
+# Song of the Alchemists
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) and [Kurt Kuhlmann](https://en.uesp.net/wiki/General:Kurt_Kuhlmann) | | |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Song_of_the_Alchemists) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:Song_of_the_Alchemists) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:Song_of_the_Alchemists) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Ancient_Scrolls_of_the_Dwemer_V) | | |
+| Up | *[Ancient Tales of the Dwemer](Lore_Ancient_Tales_of_the_Dwemer.md)* | | |
+| Prev. | *[Part IV](Lore_On_the_Utility_of_Marbles_and_Needles.md)* | Next | *[Part VI](Lore_Chimarvamidium.md)* |
+
+[Ancient Tales of the Dwemer](Lore_Ancient_Tales_of_the_Dwemer.md), Part V: The Song of the Alchemists **by [Marobar Sul](Lore_Books_by_Author.md#Marobar_Sul)** *Book 5 of an incomplete series of fictional stories about the Dwemer*
+---
+
+- When King Maraneon's [alchemist](Lore_Alchemy.md) had to leave his station
+- After a laboratory experiment that yielded detonation,
+- The word went out that the King did want
+- A new savant
+- To mix his [potions](https://en.uesp.net/wiki/Lore:Potions) and brews.
+- But he declared he would only choose
+- A fellow who knew the tricks and the tools.
+- The King refused to hire on more fools.
+
+- After much deliberation, discussions, and debates,
+- The King picked two well-learned candidates.
+- Ianthippus Minthurk and Umphatic Faer,
+- An ambitious pair,
+- Vied to prove which one was the best.
+- Said the King, "There will be a test."
+- They went to a large chamber with herbs, gems, tomes,
+- Pots, measuring cups, all under high crystalline domes.
+
+- "Make me a tonic that will make me invisible,"
+- Laughed the King in a tone some would call risible.
+- So Umphatic Faer and Ianthippus Minthurk
+- Began to work,
+- Mincing herbs, mashing metal, refining strange oils,
+- Cautiously setting their cauldrons to burbling boils,
+- Each on his own, sending mixing bowls mixing,
+- Sometimes peeking to see what the other was fixing.
+
+- After they had worked for nearly three-quarters an hour,
+- Both Ianthippus Minthurk and Umphatic Faer
+- Winked at the other, certain he won.
+- Said King Maraneon,
+- "Now you must taste the potions you've wrought,
+- Take a spoon and sample it right from your pot."
+- Minthurk vanished as his lips touched his brew,
+- But Faer tasted his and remained apparent in view.
+
+- "You think you mixed silver, blue diamonds, and yellow grass!"
+- The King laughed, "Look up, Faer, up to the ceiling glass.
+- The light falling makes the ingredients you choose
+- Quite different hues."
+- "What do you get," asked the floating voice, bold,
+- "Of a potion of red diamonds, blue grass, and gold?"
+- "By [Dwemer God]," said Faer, his face in a wince,
+- "I've made a potion to fortify my own intelligence."
+
+***Publisher's Note:***
+
+*This poetry is so clearly in the style of Gor Felim that it really does not need any commentary. Note the simple rhyming scheme of AA/BB/CC, the sing-song but purposefully clumsy meter, and the recurring jokes at the obviously absurd names, Umphatic Faer and Ianthippus Minthurk. The final joke that the stupid alchemist invents a potion to make himself smarter by pure accident would have appealed to the anti-intellectualism of audiences in the [Interregnum](Lore_Interregnum.md) period, but would certainly be rejected by the [Dwemer](Lore_Dwemer.md).*
+
+*Note that even "Marobar Sul" refuses to name any Dwemer gods. The Dwemer religion, if it can even be called that, is one of the most complex and difficult puzzles of their culture.*
+
+*Over the millennia, the song became a popular tavern song in [High Rock](Lore_High_Rock.md) before eventually disappearing from everything but scholarly books. Much like the Dwemer themselves.*

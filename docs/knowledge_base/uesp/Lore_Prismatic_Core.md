@@ -1,0 +1,21 @@
+# Prismatic Core
+
+[![](https://images.uesp.net/thumb/6/66/ON-misc-The_Prismatic_Core.jpg/200px-ON-misc-The_Prismatic_Core.jpg)](https://en.uesp.net/wiki/File:ON-misc-The_Prismatic_Core.jpg) [](https://en.uesp.net/wiki/File:ON-misc-The_Prismatic_Core.jpg) The Prismatic Core The Prismatic Core is a powerful crystal that powered the **Prismatic Weapon**, created by the willing sacrifices of many priestesses of [Meridia](Lore_Meridia.md).<sup>[[1]](#cite_note-VJ-1)</sup> It was given to the forces of the [Ayleid](Lore_Ayleid.md) city-state of [Delodiil](Lore_Delodiil.md) during the early [First Era](Lore_First_Era.md), so that they could defeat their [Molag Bal](Lore_Molag_Bal.md) -worshipping enemy of [Abagarlas](Lore_Abagarlas.md) and destroy the [Mortuum Vivicus](Lore_Mortuum_Vivicus.md).<sup>[[2]](#cite_note-KGR-2)</sup> The destruction of Abagarlas was successful, but the [weapon](Lore_Weapons.md) was ruined in the attempt. The crystal powering it was salvaged, although drained of its power, and five Ayleid heroes set out to the Dwemer ruin of Mzeneldt to hide the crystal so that the forces of Bal could not find it.<sup>[[3]](#cite_note-3)</sup> The priestess Valasha sacrificed herself to re-power the crystal, with the rest of the heroes giving their lives to safeguard.<sup>[[1]](#cite_note-VJ-1)</sup> It was later recovered by the [Fighters Guild](Lore_Fighters_Guild.md) in [2E 582](Lore_Second_Era.md#2E_582)<sup>[[4]](#cite_note-4)</sup> and re-forged into the Prismatic Weapon by [Merric at-Aswala](Lore_Merric_at-Aswala.md), assisted by [the Vestige](Lore_The_Vestige.md).<sup>[[5]](#cite_note-5)</sup><sup>[[nb 1]](#intnote_nb1)</sup> The Prismatic Weapon was used by the guild's champions to destroy the Mortuum Vivicus once and for all, and was left in the Vestige's possession afterwards.<sup>[[6]](#cite_note-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/b6/ON-item-weapon-Akaviri_Sword_3.jpg/200px-ON-item-weapon-Akaviri_Sword_3.jpg)](https://en.uesp.net/wiki/File:ON-item-weapon-Akaviri_Sword_3.jpg) The Prismatic Blade, a possible appearance of the Prismatic Weapon
+- [![](https://images.uesp.net/thumb/c/c4/ON-item-weapon-Akaviri_Greatsword_3.jpg/200px-ON-item-weapon-Akaviri_Greatsword_3.jpg)](https://en.uesp.net/wiki/File:ON-item-weapon-Akaviri_Greatsword_3.jpg) The Prismatic Greatblade, a possible appearance of the Prismatic Weapon
+- [![](https://images.uesp.net/thumb/d/db/ON-item-weapon-Akaviri_Staff_3.jpg/200px-ON-item-weapon-Akaviri_Staff_3.jpg)](https://en.uesp.net/wiki/File:ON-item-weapon-Akaviri_Staff_3.jpg) The Prismatic Flamestaff, a possible appearance of the Prismatic Weapon
+- [![](https://images.uesp.net/thumb/d/d0/ON-item-weapon-Akaviri_Bow_3.jpg/200px-ON-item-weapon-Akaviri_Bow_3.jpg)](https://en.uesp.net/wiki/File:ON-item-weapon-Akaviri_Bow_3.jpg) The Prismatic Long Bow, a possible appearance of the Prismatic Weapon
+
+## Notes
+- | [1.](#note_nb1) | During the [ESO](https://en.uesp.net/wiki/Online:Online) quest [Will of the Council](https://en.uesp.net/wiki/Online:Will_of_the_Council), the Vestige is given the option of turning the Prismatic Core into one of the following four options: the **Prismatic Blade**, the **Prismatic Flamestaff**, the **Prismatic Greatblade**, or the **Prismatic Long Bow**, all of which are forged as Akaviri-style weapons. As the choice is player-dependent, the ultimate form of the weapon is unknown. |
+| --- | --- |
+
+## References
+1. ^ <sup>***[a](#cite_ref-VJ_1-0)***</sup><sup>***[b](#cite_ref-VJ_1-1)***</sup> [*Valasha's Journal*](Lore_Valasha%27s_Journal.md) — [Valasha](Lore_Books_by_Author.md#Valasha)
+2. [^](#cite_ref-KGR_2-0) [*Knights of the Gleaming Blade*](Lore_Knights_of_the_Gleaming_Blade.md) — [Lateesh](Lore_Books_by_Author.md#Lateesh)
+3. [^](#cite_ref-3) [*Curano's Journal*](Lore_Curano%27s_Journal.md) — [Curano](Lore_Books_by_Author.md#Curano)
+4. [^](#cite_ref-4) Events of [The Dangerous Past](https://en.uesp.net/wiki/Online:The_Dangerous_Past) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) Events of [The Prismatic Core](https://en.uesp.net/wiki/Online:The_Prismatic_Core) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) Events of [Will of the Council](https://en.uesp.net/wiki/Online:Will_of_the_Council) in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,16 @@
+# The Salas En Expedition
+
+| Book Information | |
+| --- | --- |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Salas_En_Expedition) |
+
+The Salas En Expedition **by [Lady Clarisse Laurent](Lore_Books_by_Author.md#Lady_Clarisse_Laurent)** *An academic study into the ruins of Salas En*
+---
+It is strange that the [Elven](Lore_Mer.md) ruins known as [Salas En](Lore_Salas_En.md), on the [Hammerfell](Lore_Hammerfell.md) coast at [Cape Shira](Lore_Cape_Shira.md), have never been properly explored or studied. This is most likely due to the superstitious locals' exaggerated reverence for burial grounds of the dead, even those of other cultures. I wouldn't go so far as to accuse the [Alik'r](Lore_Alik%27r.md) [Redguards](Lore_Redguard.md) of timidity, but really, having to bring all my own people over the bay from [High Rock](Lore_High_Rock.md) is a bit much.
+
+In any event, now that we are on our way, we shall do the job right. The known facts about Salas En are few, but they are fascinating, as it has been inhabited over the last three eras by a series of cultures. On top—which makes it most recent, of course—are Redguard relics dating from the [First-Era](Lore_First_Era.md) occupation of Salas En by [Crowns](Lore_Crowns.md) of the late [Ra Gada](Lore_Ra_Gada.md). Colonists from the island of [Yath](Lore_Yath.md) in lost [Yokuda](Lore_Yokuda.md), these Redguards seem to have displaced the Elves who previously occupied the site. It appears these descendants of Yath occupied Salas En until abandoning it in the [middle 23rd century](Lore_First_Era.md#Twenty-Third_Century), which coincides with the ravages of the [Thrassian Plague](Lore_Thrassian_Plague.md).
+
+The Elves the Yath Redguards displaced were, according to tradition, relatively recent [Altmeri](Lore_Altmer.md) colonists of the [Corelanya clan](Lore_Corelanya_Clan.md), who were said to be [Daedra](Lore_Daedra.md) -worshipers. (This would account for their emigration from [Summerset](Lore_Summerset_Isles.md) to the austere shores of Hammerfell.) They seem to have arrived sometime in the [sixth century 1E](Lore_First_Era.md#Sixth_Century), inhabiting and expanding on structures originally built by the [Ayleids](Lore_Ayleids.md). [Bosmeri](Lore_Bosmer.md) relics are intermixed here with classic high-period Altmeri, suggesting that either the Corelanya participated in the Wood Elf coastal trade, then at its historic height, or that Salas En was used as a stopover by Bosmeri merchants before the Corelanya arrived.
+
+Below these High Elf additions—and indeed, still standing with less wear on them than any of the structures built afterward—are the original Ayleid stoneworks, jutting proudly toward the heavens despite the passage of millennia. The Ayleid Elves who built Salas En are virtually unknown to history, and it is primarily to reveal their story that I have organized this expedition. With the assistance of my experienced and hand-picked team of excavators, I have every confidence that we can persuade the stones of Salas En to reveal their secrets to us.

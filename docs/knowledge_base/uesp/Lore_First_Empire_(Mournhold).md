@@ -1,0 +1,22 @@
+# First Empire (Mournhold)
+
+—Partial in-game description of Mournhold in *[Arena](https://en.uesp.net/wiki/Arena:Arena)* The first empire was a polity of unknown proportion and prominence. [Mournhold](Lore_Mournhold.md) is referred to as "the lost City-State" of this empire.<sup>[[1]](#cite_note-FHA-1)</sup> Of note, Mournhold only became a city-state in its own right after the end of High Queen Lian R'Aathim's reign, when her twin sons were left as the joint heirs of her kingdom and the clan's lands were divided between the two heirs.<sup>[[2]](#cite_note-TRB5-2)</sup>
+
+## Notes
+- This empire should not be confused with the [Alessian Empire](Lore_Alessian_Empire.md) (also called the First Empire),<sup>[[3]](#cite_note-BSOHR-3)</sup> nor with the [First Empire of the Nords](Lore_First_Empire_of_the_Nords.md),<sup>[[4]](#cite_note-PGE1S-4)</sup> as Mournhold was not a city-state of these Empires. Though it is unknown whether the first empire of Mournhold could refer to an existing regime in the lore or no.
+- A member of the [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Daggerfall)'s [Council of Wisdom](https://en.uesp.net/wiki/General:Council_of_Wisdom) has alluded to the ultimate plot for the *[King Edward](https://en.uesp.net/wiki/Lore:King_Edward)* books (which were never finished) where [Edward](https://en.uesp.net/wiki/Lore:Edward) of [Daggerfall](https://en.uesp.net/wiki/Lore:Daggerfall), [Moraelyn](https://en.uesp.net/wiki/Lore:Moraelyn) of [Ebonheart](https://en.uesp.net/wiki/Lore:Ebonheart), and [Aliera](https://en.uesp.net/wiki/Lore:Moraelyn%27s_Companions#Aliera) of [Wayrest](Lore_Wayrest.md) would have founded an empire and united [Tamriel](Lore_Tamriel.md).<sup>[[UOL 1]](#cite_note-Jindra-5)</sup> Similarly, around this time in the [First Era](Lore_First_Era.md), an alliance called the [League of Unrest](https://en.uesp.net/wiki/Lore:League_of_Unrest) rebelled against [Cyrodiil](Lore_Cyrodiil.md); Daggerfall, Wayrest, and [Balfiera](https://en.uesp.net/wiki/Lore:Balfiera) were members of the League.<sup>[[5]](#cite_note-RGMaiko-6)</sup>
+- The Second Empire of the Dwemer was active during the time of [Kagrenac](https://en.uesp.net/wiki/Lore:Kagrenac),<sup>[[6]](#cite_note-GDA-7)</sup><sup>[[7]](#cite_note-MWYB-8)</sup> although its relationship to this empire is unknown. The Dwemer ruin of [Bamz-Amschend](https://en.uesp.net/wiki/Lore:Bamz-Amschend) is found deep beneath Mournhold as well. However, "Mournhold" in its contemporary form was not made into a city-state as such until the Dark Elves of later history.<sup>[[2]](#cite_note-TRB5-2)</sup> Though the Dwemer were also said to have had city-states historically.<sup>[[8]](#cite_note-9)</sup>
+
+## References
+1. [^](#cite_ref-FHA_1-0) [Mournhold](https://en.uesp.net/wiki/Arena:Mournhold)'s description in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. ^ <sup>***[a](#cite_ref-TRB5_2-0)***</sup><sup>***[b](#cite_ref-TRB5_2-1)***</sup> [*The Real Barenziah, v 5*](https://en.uesp.net/wiki/Lore:The_Real_Barenziah,_v_5) — Anonymous
+3. [^](#cite_ref-BSOHR_3-0) [*Bangkorai, Shield of High Rock*](https://en.uesp.net/wiki/Lore:Bangkorai,_Shield_of_High_Rock) — King [Eamond](Lore_Books_by_Author.md#Eamond)
+4. [^](#cite_ref-PGE1S_4-0) [*Pocket Guide to the Empire, 1st Edition: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+5. [^](#cite_ref-RGMaiko_6-0) [Maiko K'Elmar](https://en.uesp.net/wiki/Redguard:Maiko_K%27Elmar)'s dialogue in [*Redguard*](https://en.uesp.net/wiki/Redguard:Redguard)
+6. [^](#cite_ref-GDA_7-0) [*Guylaine's Architecture*](https://en.uesp.net/wiki/Lore:Guylaine%27s_Architecture) — [Guylaine Marilie](Lore_Books_by_Author.md#Guylaine_Marilie)
+7. [^](#cite_ref-MWYB_8-0) [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+8. [^](#cite_ref-9) [*Arkngthamz-Phng*](Lore_Arkngthamz-Phng_(book).md) — [Neramo](Lore_Books_by_Author.md#Neramo)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-Jindra_5-0) [*Anne Jindra's Posts*](https://en.uesp.net/wiki/General:Anne_Jindra%27s_Posts)

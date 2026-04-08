@@ -1,0 +1,18 @@
+# Zenithar (planet)
+
+[![](https://images.uesp.net/thumb/9/98/OB-interior-Orrery_%28labeled%29.jpg/200px-OB-interior-Orrery_%28labeled%29.jpg)](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) [](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) The names of the heavenly bodies around [Nirn](Lore_Nirn.md) [![](https://images.uesp.net/thumb/0/0c/ON-item-Zeal_of_Zenithar_Decoration.jpg/200px-ON-item-Zeal_of_Zenithar_Decoration.jpg)](https://en.uesp.net/wiki/File:ON-item-Zeal_of_Zenithar_Decoration.jpg) [](https://en.uesp.net/wiki/File:ON-item-Zeal_of_Zenithar_Decoration.jpg) Religious decorations associated with Zenithar featuring the star sigil The planet Zenithar is one of the planets found in the skies of [Mundus](Lore_Mundus.md).<sup>[[UOL 1]](#cite_note-Cosmo-1)</sup> [Mara](Lore_Mara_(planet).md) is Zenithar's satellite and is orbiting around it.<sup>[[1]](#cite_note-OBOrrery-2)</sup> As with all astral bodies seen in the skies above [Nirn](Lore_Nirn.md) and their corresponding deities, the planet Zenithar is believed to be the plane of the god Zenithar as well as the god himself, as seen from the mortal plane. It is said to actually be a different [plane of existence](Lore_Planes_of_Existence.md) in its own right, infinite in size and mass, with its appearance as a sphere being only a visual phenomenon caused by mortal mental stress.<sup>[[UOL 1]](#cite_note-Cosmo-1)</sup> According to some accounts, the mortal realms were formed by the Aedra out of [Creatia](Lore_Chaotic_Creatia.md).<sup>[[2]](#cite_note-Co S-3)</sup>
+
+## Notes
+- Zenithar is also associated with a large blue [star](Lore_Stars.md) sometimes seen in the skies of [Tamriel](Lore_Tamriel.md). It was believed that when the star was visible, "Zenithar hangs near Tamriel".<sup>[[3]](#cite_note-KE8-4)</sup> This star is also present on certain items devoted to the god Zenithar.<sup>[[4]](#cite_note-Contraband Z2-5)</sup> During special celebrations dedicated to Zenithar, many cities all around Tamriel were decorated with imagery of the blue star, coins and crops.<sup>[[5]](#cite_note-ZOZ-6)</sup> Its connection with [Mnemo-Li](Lore_Mnemo-Li.md), another important blue star is unknown.<sup>[[6]](#cite_note-EOMN-7)</sup>
+
+## References
+1. [^](#cite_ref-OBOrrery_2-0) [The Orrery in Cyrodiil – *The Elder Scrolls IV: Oblivion*](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg)
+2. [^](#cite_ref-Co S_3-0) [*Charge of Shor*](Lore_Charge_of_Shor.md) — [Frogirde](Lore_Books_by_Author.md#Frogirde)
+3. [^](#cite_ref-KE8_4-0) [*King Edward, Part VIII*](Lore_King_Edward,_Part_VIII.md) — Anonymous
+4. [^](#cite_ref-Contraband Z2_5-0) [Zenithar's Measure](https://en.uesp.net/wiki/Online:Contraband_Z#Zenithar.27s_Measure) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ZOZ_6-0) Appearance of major [Cities](https://en.uesp.net/wiki/Online:Cities) during [Zeal of Zenithar](https://en.uesp.net/wiki/Online:Zeal_of_Zenithar) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-EOMN_7-0) [*Exegesis of Merid-Nunda*](Lore_Exegesis_of_Merid-Nunda.md) — [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-Cosmo_1-0)***</sup><sup>***[b](#cite_ref-Cosmo_1-1)***</sup> [*Cosmology*](https://en.uesp.net/wiki/General:Cosmology) — [The Temple Zero Society](Lore_Temple_Zero_Society.md)

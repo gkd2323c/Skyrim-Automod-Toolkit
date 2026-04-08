@@ -1,0 +1,21 @@
+# Our Dunmer Heritage
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Our_Dunmer_Heritage) ([Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))) |
+
+Our Dunmer Heritage **A Summary by [Oathman-Applicant Mornsu Baram](Lore_Books_by_Author.md#Oathman-Applicant_Mornsu_Baram), in service of House Redoran, 330th year of the Second Era** *A speech about Dunmer superiority and cultural links to the ancient Aldmer*
+---
+Thank you, representatives of [House Redoran](Lore_House_Redoran.md), for the opportunity to research and explain the inherent superiority of the [Dunmer](Lore_Dunmer.md) people, known to other [mer](Lore_Mer.md) and [men](Lore_Human.md) as the Dark Elves.
+
+The Dunmer are the direct descendants of the [Aldmer](Lore_Aldmer.md), the First Folk, the original settlers from the mythic isle of [Almeris](Lore_Aldmeris.md). From them the [Altmer](Lore_Altmer.md), the High Folk, descend, though these Elves have since wandered from the path of their ancestors. Many other groups have sprung off these so-called Ancients—the [Wild Elves](Lore_Ayleid.md), [Wood Elves](Lore_Bosmer.md), [Sea Elves](Lore_Maormer.md), [Dwarves](Lore_Dwemer.md), and even [Orcs](Lore_Orc.md). But only the [Chimer](Lore_Chimer.md), the forebears of the Dunmer people, remained true to Aldmer culture.
+
+The Chimer left the decadent Altmer behind on [Summerset Isle](Lore_Summerset_Isle.md) and, under the leadership of [Veloth](Lore_Veloth.md) the Pilgrim, settled in the northeastern reaches of [Morrowind](Lore_Morrowind.md). There their power bloomed, until they came into [conflict](Lore_Battle_of_Red_Mountain.md) with the Dwarves and the traitorous [Great House](Lore_Great_Houses.md) [Dagoth](Lore_House_Dagoth.md). The two sides battled, and while the traditional Chimer houses triumphed, they were forever transformed into the Dunmer. Yet through it all our people have remained loyal to the standards and truths of our ancestors and can truly be called the Children of Aldmer.
+
+First among the traditions we have maintained is the veneration of our forebears, from the ancients themselves down through the patriarchs and matriarchs of our houses and families. Whether in the ancient tombs of noble families or the catacombs of the great Necropolis at [Necrom](Lore_Necrom.md), we Dark Elves continue to venerate the spirits of the past and seek their council. The surviving Great Houses can trace their lineage back to Veloth himself, and each ancestor is cherished and honored.
+
+Second among the traditions is the strength of family. While much of the ancient writings and art of the Aldmeri are lost to us, I feel confident in stating that their ways were much like ours. The family unit reigns supreme, with the eldest and most powerful ruling all. Families can be individualistic, work alongside less-powerful families in small communities, or seek patronage with one of the Great Houses. In this way, the Dumer *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* maintain their connection to their predecessors and gain strength from their contemporaries.
+
+The third pillar of traditional *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* centers around an established and recognized societal order. The Aldmeri had their paupers and princes, and the Great Houses of the Dunmer have refined that to a stable societal regimen. The names of the ranks may vary among the Great Houses, though all have Oathmen and Retainers at the most common levels. And regardless of their positioning, even the most hidebound members of [House Telvanni](Lore_House_Telvanni.md) allow progress through the ranks, such that the talented and capable are rewarded. Knowing one's place within the societal strata gives us a sense of belonging and community.
+
+Through the ages, the Dunmer have adapted to their new lands while maintaining the core ideal of our people. While some, like the [Ashlanders](Lore_Ashlanders.md), have descended into near-savagery, the Great Houses—in particular House Redoran—have never wavered from their dedication to the spirits of their ancestors. We honor them by heeding their advice and continuing their great traditions. In this fashion, we are the true heirs of Aldmeri culture.

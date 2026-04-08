@@ -1,0 +1,14 @@
+# Osprey
+
+[![](https://images.uesp.net/thumb/e/e1/ON-major_adornment-Aurelian_Osprey_Coronel.jpg/200px-ON-major_adornment-Aurelian_Osprey_Coronel.jpg)](https://en.uesp.net/wiki/File:ON-major_adornment-Aurelian_Osprey_Coronel.jpg) [](https://en.uesp.net/wiki/File:ON-major_adornment-Aurelian_Osprey_Coronel.jpg) Aurelian Osprey Coronel [![](https://images.uesp.net/thumb/b/bd/ON-misc-Coin-baron.png/200px-ON-misc-Coin-baron.png)](https://en.uesp.net/wiki/File:ON-misc-Coin-baron.png) [](https://en.uesp.net/wiki/File:ON-misc-Coin-baron.png) An emblem depicting a seahawk Ospreys,<sup>[[1]](#cite_note-AOC-1)</sup> also called **seahawks**<sup>[[2]](#cite_note-CMSG-2)</sup> (or **sea hawks**),<sup>[[3]](#cite_note-SH-3)</sup> are [raptors](Lore_Bird.md) that hunt at sea. They are believed to embody traits such as precision, ruthlessness, and endurance.<sup>[[1]](#cite_note-AOC-1)</sup>
+
+Some of the [Altmeri](Lore_Altmer.md) jewelry popular during the [Second Era](Lore_Second_Era.md) featured imagery of ospreys. It was popular among wealthy mariners, who believed that wearing a likeness of the bird can provide them with the insight of a seafaring predator.<sup>[[1]](#cite_note-AOC-1)</sup>
+
+The [trident](Lore_Trident.md) -wielding seahawk emblem, used by the Systres Guardians who were led by a captain nicknamed Captain Seahawk, was rumored to have originated with the [Coin-barons](Lore_Coin-barons.md).<sup>[[2]](#cite_note-CMSG-2)</sup> Ships were also named after ospreys,<sup>[[4]](#cite_note-Anvil-4)</sup> and sea hawks.<sup>[[3]](#cite_note-SH-3)</sup><sup>[[5]](#cite_note-KD-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-AOC_1-0)***</sup><sup>***[b](#cite_ref-AOC_1-1)***</sup><sup>***[c](#cite_ref-AOC_1-2)***</sup> [Aurelian Osprey Coronel](https://en.uesp.net/wiki/Online:Aurelian_Osprey_Coronel) major adornment description in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-CMSG_2-0)***</sup><sup>***[b](#cite_ref-CMSG_2-1)***</sup> [*Crafting Motif 114: Systres Guardian Style*](Lore_Crafting_Motif_114__Systres_Guardian_Style.md) — [Zoellene Ruqueville](https://en.uesp.net/wiki/Online:Zoellene_Ruqueville), Scholar and Former Guard
+3. ^ <sup>***[a](#cite_ref-SH_3-0)***</sup><sup>***[b](#cite_ref-SH_3-1)***</sup> [Sea Hawk](https://en.uesp.net/wiki/Online:Sea_Hawk) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Anvil_4-0) [Transport Services](https://en.uesp.net/wiki/Online:Anvil#Shops_and_Services) in [Anvil](https://en.uesp.net/wiki/Online:Anvil) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-KD_5-0) [Kunira-daro](https://en.uesp.net/wiki/Online:Kunira-daro)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

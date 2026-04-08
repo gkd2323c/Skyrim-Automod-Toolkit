@@ -1,0 +1,101 @@
+# Factions M
+
+[Overview](Lore_Factions.md) | [A](Lore_Factions_A.md) [B](Lore_Factions_B.md) [C](Lore_Factions_C.md) [D](https://en.uesp.net/wiki/Lore:Factions_D) [E](https://en.uesp.net/wiki/Lore:Factions_E) [F](https://en.uesp.net/wiki/Lore:Factions_F) [G](https://en.uesp.net/wiki/Lore:Factions_G) [H](Lore_Factions_H.md) [I](https://en.uesp.net/wiki/Lore:Factions_I) [J](https://en.uesp.net/wiki/Lore:Factions_J) [K](https://en.uesp.net/wiki/Lore:Factions_K) [L](Lore_Factions_L.md) M [N](https://en.uesp.net/wiki/Lore:Factions_N) [O](https://en.uesp.net/wiki/Lore:Factions_O) [P](Lore_Factions_P.md) [Q](https://en.uesp.net/wiki/Lore:Factions_Q) [R](Lore_Factions_R.md) [S](Lore_Factions_S.md) [T](Lore_Factions_T.md) [U](https://en.uesp.net/wiki/Lore:Factions_U) [V](https://en.uesp.net/wiki/Lore:Factions_V) [W](https://en.uesp.net/wiki/Lore:Factions_W) [X](https://en.uesp.net/wiki/Lore:Factions_X) Y [Z](https://en.uesp.net/wiki/Lore:Factions_Z)
+---
+
+## Mabrigash Tribe
+The [Mabrigash Tribe](Lore_Mabrigash_Tribe.md) is an [Ashlander](Lore_Ashlanders.md) tribe that lives in the Vale of the Ghost Snake, in the region of [Deshaan](Lore_Deshaan.md) in mainland [Morrowind](Lore_Morrowind.md). The tribe is predominantly female, and worships an ancient entity known as the [Ghost Snake](https://en.uesp.net/wiki/Lore:Ghost_Snake), which some believe to be an aspect of Sithis.
+
+The tribe is made up primarily of Mabrigash, renegade wise women who have forsaken the established rules of behavior for an Ashlander woman to master the dark arts and become a witch-warrior. Mabrigash are outcasts among the Ashlanders. Individual Mabrigash can also be found throughout Morrowind. By [3E 427](Lore_Third_Era.md#3E_427), these witch-warriors were common on the island of [Vvardenfell](Lore_Vvardenfell.md), and were known to obtain their power by charming a man and draining him of his vital essence. They could manifest their power as a ghost snake, which would paralyze and drain their victims. It is unknown whether they have any connection to the Mabrigash tribe in the Vale.
+
+The Mabrigash are a matriarchal society. Their women outnumber their men and garner greater respect among the tribe than their male counterparts. They don't hate males; rather, they don't trust them very much. This sentiment is most apparent when the Mabrigash are dealing with male outsiders. They were traditionally xenophobic and isolated, refusing contact with the outside world. Many of the Mabrigash are set in their ways and fear change. However, the Mabrigash will treat outsiders with courtesy if they respect the tribe's ways. Unlike other Ashlander tribes, they are led by a Farseer rather than a wise woman, and are not nomadic.
+
+The Mabrigash tribe hunts snakes for food. They use the beasts' fangs for tools and adornments, and snake skin has a wide variety of uses. In particular, the Mabrigash can use snake skin to craft unique leather. They honor and protect snakes, only killing for what they need. Poachers attempting to hunt snakes within the Vale rarely get to leave the Vale alive. Upon arrival to the tribe, each new member much prove themselves by walking the treacherous swamps of the Vale known as the Coiled Path, while avoiding the [giant snakes](Lore_Giant_Snake.md) and the angry [ghosts](Lore_Ghost.md) of those who failed. Those who flee during their trial or otherwise fail to walk the Coiled Path bring shame upon their family and dishonor their clan. As such, they can never return to the Vale.
+
+## Mages Guild
+The [Mages Guild](Lore_Mages_Guild.md), also known as the **Guild of Mages**, was founded by [Vanus Galerion](Lore_Vanus_Galerion.md) circa [2E 230](Lore_Second_Era.md#2E_230). It was a professional organization once found throughout [Tamriel](Lore_Tamriel.md) which was dedicated to the study and application of [magicka](Lore_Magic.md) and [alchemy](Lore_Alchemy.md). They were described as a collection of mages, sorcerers, and mystics, who pooled their resources and talents for the purposes of research and public charity. The [Aurbic Eye](Lore_Aurbic_Eye.md) was the official symbol of the Guild.
+
+The Mages Guild was a powerful force in Tamriel prior to its dissolution, given free rein to operate across the land by Tamrielic rulers. A dangerous foe and aloof ally, it rarely became involved in political conflicts, but was profoundly influential when it did.
+
+## Malacath's Brutal Breed
+[Malacath's Brutal Breed](Lore_Malacath%27s_Brutal_Breed.md) was a cult formed by an [Orc](Lore_Orc.md) named Borug gro-Bashnarz from the ashes of [Orsinium](Lore_Orsinium.md) around [1E 1000](Lore_First_Era.md#1E_1000). The group were [Malacath](Lore_Malacath.md) fanatics that were intent on wiping out [Bretons](Lore_Breton.md) and [Redguards](Lore_Redguard.md) for every real and imagined slight perpetrated by them against the Orcs.
+
+## Mane
+The [Mane](Lore_Mane.md) is a unique type of [Khajiit](Lore_Khajiit.md) designated as the spiritual leader and temporal ruler of the Khajiit people, who lives with his tribe in the stately and exotic palaces of [Torval](Lore_Torval.md). Khajiit tradition holds that only one Mane can be alive at one time and, more specifically, believe that there is actually only one Mane who is reborn again and again in different bodies. There has been no recorded incident of more than one Mane contending for power, although whether due to the truth in the Khajiit belief or whether the ruling Mane takes care of any potential rivals is unknown. Manes can only be born under a rare alignment of the moons [Masser](Lore_Masser.md) and [Secunda](Lore_Secunda.md) when, according to legend, a third moon actually appears. In older days the Khajiit would shave off their manes in deference to the Mane, braiding them into locks which the Mane would incorporate into its own mane/headdress. The Mane is so weighted down by the hair that movement is difficult without aid and they often travel the countryside by means of a palanquin. As the population grew, however, this became impractical. As a result, the headdress now only includes hair of the Mane's tribe and [Warrior Guard](Lore_Warrior_Guard.md) attached to it, which includes several hundred in number.
+
+## Marag Clan
+The [Marag Clan](Lore_Marag_Clan.md) were one of the [Orc](Lore_Orc.md) clans of the [Wrothgar](Lore_Wrothgar.md). They were among the clans who inhabited [Frostbreak Fortress](Lore_Frostbreak_Fortress.md).
+
+## Maran Knights
+The [Maran Knights](Lore_Maran_Knights.md) is the militant arm of the Benevolence of Mara. Despite the fact that their very existence is contradictory to the temple itself, the Maran Knights are sworn to enforce the divine will of Mara, which often is required to bring about the peace. Some members of the Benevolence even feel as if the knightly order should actually disband, but they are, however, in the minority.
+
+## Markarth Watch
+[Markarth Watch](Lore_Markarth_Watch.md) was one of the [factions](Lore_Reachman_Clans.md#Factions) of [Reachfolk](Lore_Reachfolk.md) that operated in [Markarth](Lore_Markarth.md) during the times of the [Three Banners War](Lore_Three_Banners_War.md), during the [Interregnum](Lore_Interregnum.md) in the [Second Era](Lore_Second_Era.md). As of [2E 582](Lore_Second_Era.md#2E_582), alongside the [Stonehands](Lore_Stonehands.md) they were one of the groups responsible for law enforcement and crime investigation within the city walls.
+
+They were known for working with [Bear-Dogs](Lore_Dog.md#Bear-Dog). Their favorite variant of the Bear-Dog was the Black Mask breed. Those dogs were used to sniff out trouble and to find local thieves.
+
+## Masons' Guild
+The [Masons' Guild](Lore_Masons%27_Guild.md) is an officially sanctioned guild that has been active since at least the [Second Era](Lore_Second_Era.md). As their name implies, they employ masons from across the [Empire](Lore_Empire.md). One of the only known positions in the guild is the Guild Historian, who is responsible for maintaining the records of the guild and studying the history of masonry in general.
+
+## Merchants Guild
+The **Merchants Guild** is an organization that is active in [Tamriel](Lore_Tamriel.md). The [Daggerfall](Lore_Daggerfall.md) branch is known to give good standing associates a small golden anvil, one reminiscent to the sacred symbol of [Zenithar](Lore_Zenithar.md).<sup>[[1]](#cite_note-ESOAnvil-1)</sup> On the 20th of [Sun's Height](Lore_Sun%27s_Height.md), the provinces widely recognize the holiday, [Sun's Rest](https://en.uesp.net/wiki/Lore:Sun%27s_Rest), in which stores close throughout the day, with the exception of inns, taverns, and other big-time guilds like the [Mages Guild](Lore_Mages_Guild.md). If any other shop operates in this time, the Merchants Guild will heavily fine them a large sum of money.<sup>[[2]](#cite_note-DFSuns Rest-2)</sup>
+
+## Merethic Society
+The [Merethic Society](Lore_Merethic_Society.md) was a loose group of adventurers who specialized in collecting antiques and historical relics. Named after the [Merethic Era](Lore_Merethic_Era.md) —the legendary age between the creation of [Nirn](Lore_Nirn.md) and the start of the [First Era](Lore_First_Era.md) —the society's mandate compelled them to go to great lengths in order to collect and preserve history. This included trading for items on the black market or procuring relics directly from ruins. They generally operated as inconspicuously as possible, as many governments didn't condone their work.
+
+Every piece the society admits into their collection must have aesthetic or historic significance, and elevate the prestige of the collection as a whole. During the [Interregnum](Lore_Interregnum.md), the society re-purposed an [Ayleid](Lore_Ayleid.md) ruin named [Rulanyil's Fall](Lore_Rulanyil%27s_Fall.md) to serve as a museum where the society could display their various historical relics to the general public. This included [Dwemeri](Lore_Dwemer.md) relics, such as the statue what some believed could be the head of [Brazzefk](https://en.uesp.net/wiki/Lore:Brazzefk), as well as relics of [Ayleid](Lore_Ayleid.md), [Yokudan](Lore_Yokudan.md), [Nedic](Lore_Nede.md) and [Altmer](Lore_Altmer.md) civilizations.
+
+## Minat
+The [Minat](Lore_Minat.md) were a powerful tribe of [orcs](Lore_Orc.md) chiefed by King [Gortwog gro-Nagorm](Lore_Gortwog.md), who ruled the Kingdom of [Nova Orsinium](Lore_Nova_Orsinium.md) in northwestern [Tamriel](Lore_Tamriel.md) during the late [Third Era](Lore_Third_Era.md).
+
+## Minstrels Guild
+The [Minstrels Guild](Lore_Minstrels_Guild.md) is an officially sanctioned guild. As their name implies, they employ minstrels from across the [Empire](Lore_Empire.md).
+
+During the [Akaviri Potentate](Lore_Akaviri_Potentate.md) in [2E 321](Lore_Second_Era.md#2E_321), [Versidue-Shaie](Lore_Versidue-Shaie.md) gave his approval for the [Guild Act](Lore_Guild_Act.md), which sanctioned businesses such as the Minstrels Guild. They were hence protected by the Empire of [Cyrodiil](Lore_Cyrodiil.md), even into the [Third Era](Lore_Third_Era.md), but would be required to pay them if they wanted to expand their influence. The Empire had subsequently strengthened since the Guild Act was passed. "Regular" minstrels were described as [Sheogorath](Lore_Sheogorath.md) worshippers in the [Second Era](Lore_Second_Era.md). Minstrels in the [Imperial City](Lore_Imperial_City.md) sang of [Barenziah](Lore_Barenziah.md)'s dark beauty and charming ways in the [Third Era](Lore_Third_Era.md).
+
+## Mirthless Order
+The [Mirthless Order](Lore_Mirthless_Order.md) was a group of [Dunmer](Lore_Dunmer.md) whose purpose was to protect the sacredness of humor, specifically, an ancient rite written by three Dunmer comedians, the Brothers Randoro. The order would deal death to any who performed the rite improperly. The order's ancient home was said to be [Kragenmoor](Lore_Kragenmoor.md). Despite being seldom seen and the words to the ancient joke they protected known by hardly any, the order was still active by the middle of the [Second Era](Lore_Second_Era.md) and it was ready to kill in the name of their duty.
+
+## Mistrunner Clan
+[Mistrunner Clan](https://en.uesp.net/wiki/Lore:Mistrunner_Clan) was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md). Members of the clan valued nature and considered stone dwellings as not fit for the ways of the Reachfolk. Members of the clan claimed that living in the stone houses of Markarth changes the way people perceive things.
+
+## Montalion
+[Montalion](Lore_Montalion.md) is one of the [vampire](Lore_Vampire.md) bloodlines of the [Iliac Bay](Lore_Iliac_Bay.md) area.
+
+## Moon Hunter Pack
+The [Moon Hunter Pack](Lore_Moon_Hunter_Pack.md) was a werewolf pack that dwelled inside Moon Hunter Keep around [2E 582](Lore_Second_Era.md#2E_582), the former garrison of the Werewolf hunting organization the [Order of the Silver Dawn](Lore_Order_of_the_Silver_Dawn.md). Many werewolves rushed to join the pack for safety in numbers after hearing tales of the pack defeating the Silver Dawn and as a result, it became the biggest werewolf pack [Tamriel](Lore_Tamriel.md) has ever seen.
+
+It was led by [Vykosa](Lore_Vykosa.md), one of the first werewolves. She could bend the will of werewolves, and she recruited both the willing and unwilling. Her pack had three known kinds of Werewolves. The first is the common Werewolf. The second is the Sable Man-Beast. Not much is known about them but their werewolf appearance is beast-like even while in a humanoid form. and are observed to be more intelligent and less primal and are able to cast magic and use weaponry. The third are Werewolf Behemoths which is an experimental werewolf form created by Vykosa's Archivist Ernarde which grants them amplified strength and size and are unstoppable warriors, should they survive the process.
+
+Vykosa plotted to use her pack to take over [Nirn](Lore_Nirn.md), exact revenge on [Hircine](Lore_Hircine.md), and take down anyone that stood in her way. The Moon Hunter Pack was stopped and Vykosa's plot was foiled in 2E 582 by the [Undaunted](Lore_Undaunted.md), who participated in the [Great Hunt](Lore_Great_Hunt.md) and prevented the pack from gaining Hircine's boon, and when they entered Moon Hunter Keep and destroyed the pack and slayed Vykosa.
+
+## Moon-Singers
+The [Moon-Singers](Lore_Moon-Singers.md) are a secretive order of [Khajiit](Lore_Khajiit.md) storytellers and lorekeepers. They travel around the world and guard secrets of the Khajiit people and their history. Their stories are focused on the elements relevant to the Khajiit culture and they rarely tell stories of the other races. One of their main subject of the stories are [Dragons](Lore_Dragon.md), and [Khunzar-ri](Lore_Khunzar-ri.md). Knowledge of some ancient tales, such as the tale of [Khunzar-ri](Lore_Khunzar-ri.md) and the demons, are split across several Moon-Singers in order to maintain its secrets. Although moon-singers occasionally share their tales, certain elements of their stories are kept secret and not revealed. Moon-Singers often travel to the shrines of Khunzar-ri. One such shine was located in Anequina. It was tended by [Aneshi](https://en.uesp.net/wiki/Lore:Aneshi), the Keeper of the Shrine, which served as a frequented stop for Moon-singers. Aneshi was also renowned for transcribing the tales of Moon-singers, preserving them in written form.
+
+Beginner moon-singers are chosen and taught by previous storytellers to guard the ancient tales. Moon-Singers believe that the only joy greater than stories is the act of sharing those tales with others. They also emphasize the importance of the audience and state that "more who hear the stories, the greater becomes the joy."
+
+## Moot
+The [Moot](Lore_Moot.md) (or **Moot of the Nords**) is a council made up of the jarls of each Hold of [Skyrim](Lore_Skyrim.md) and convened upon the death of the High King to formally choose a successor to the throne from among qualifying members of the royal family. In the absence of a legitimate heir, the Moot instead chooses a successor from among the jarls. The Moot can also reconvene during a living High King's reign if he breaks some taboo which makes the jarls lose confidence in him, such as refusing a challenge made in accordance with the old Nord traditions of martial combat.
+
+## Morag Tong
+[Morag Tong](Lore_Morag_Tong.md) ([Dark Elvish](Lore_Dark_Elvish.md) for *"Foresters Guild"*) is an ancient guild of assassins headquartered in [Morrowind](Lore_Morrowind.md), celebrating murder in the name of [Mephala](Lore_Mephala.md). They have been active since at least the [First Era](Lore_First_Era.md), and their targets have included multiple rulers of Tamriel, high-ranking Dunmer nobility, and countless others. The Morag Tong is unique in its sanctioned status under the Morrowind government to perform legal executions, bound under contracts called 'writs', although extralegal 'gray writs' are rumored to exist.
+
+The [Great Houses](Lore_Great_Houses.md) of Morrowind often used the Morag Tong to eliminate their rivals, a preferred alternative to open conflict.
+
+An important doctrine among the Morag Tong is the belief that, while Mephala does grow stronger with every murder committed in her name, certain murders were better than others. Murders that came from hate pleased Mephala more than murders committed because of greed. Murders of great men and women pleased Mephala more than murders of relative unknowns. This belief was originated by the first leader of the Morag Tong, the original [Night Mother](Lore_Night_Mother.md).
+
+## Morkul Clan
+The [Morkul Clan](Lore_Morkul_Clan.md) was an ancient clan of [Orcs](Lore_Orc.md) active since the time of the fall of [Orsinium](Lore_Orsinium.md) that happened during the [First Era](Lore_First_Era.md) and was one of the major clans by the time of the rise of another Orsinium during the year [2E 582](Lore_Second_Era.md#2E_582). Their main position was the Morkul Stronghold, located next to the coast of the [High Rock](Lore_High_Rock.md) region of the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md). They are famous for their smiths and produced some of the finest arms and armor of the Orcs, with the Clan also having experts that could help during the rebuilding effort of Orsinium during the Second Era.
+
+## Motierre
+The [Motierres](Lore_Motierre.md) are an old and powerful [Breton](Lore_Breton.md) family firmly established in [Chorrol](Lore_Chorrol.md). They have been recognized as nobility since at least the [Interregnum](Lore_Interregnum.md). The family crypts are located in the undercroft of the Great Chapel of [Stendarr](Lore_Stendarr.md), and are infamous for being haunted.
+
+## Murtag Clan
+The [Murtag Clan](Lore_Murtag_Clan.md) is a prominent [Orcish](Lore_Orc.md) clan from the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md). They are one of the oldest clans in the region and have attained the sobriquet, **the Rock Clan** as they make their home deep within the mountains and create cave dwellings. The clan is based in **Murtag Stronghold**, somewhere near the [Jehanna](Lore_Jehanna.md) road in Wrothgar.
+
+## Mythic Dawn
+[![](https://images.uesp.net/thumb/c/cc/OB-banner-Mythic_Dawn.jpg/200px-OB-banner-Mythic_Dawn.jpg)](https://en.uesp.net/wiki/File:OB-banner-Mythic_Dawn.jpg) [](https://en.uesp.net/wiki/File:OB-banner-Mythic_Dawn.jpg) Mythic Dawn Tapestry The [Order of the Mythic Dawn](Lore_Mythic_Dawn.md) was a secret cult led by [Mankar Camoran](Lore_Mankar_Camoran.md) that worshipped the [Daedric Prince of Destruction](Lore_Daedric_Prince.md), [Mehrunes Dagon](Lore_Mehrunes_Dagon.md).
+
+## References
+1. [^](#cite_ref-ESOAnvil_1-0) [Golden Anvil of Zenithar](https://en.uesp.net/wiki/Online:Contraband_G#Golden_Anvil_of_Zenithar) contraband in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-DFSuns Rest_2-0) [Sun's Rest](https://en.uesp.net/wiki/Daggerfall:Calendar#Sun.27s_Height) holiday description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

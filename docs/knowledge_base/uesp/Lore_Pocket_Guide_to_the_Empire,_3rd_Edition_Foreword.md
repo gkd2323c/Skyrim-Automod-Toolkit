@@ -1,0 +1,15 @@
+# Pocket Guide to the Empire, 3rd Edition/Foreword
+
+---
+| A POCKET GUIDE TO THE EMPIRE and its environs <br> Third Edition <br> <br> Being a Description of the Lands <br> and the Chief Features of their Histories <br> <br> Dedicated <br> To our Revered Father and Generous Patron <br> His Majesty the Emperor [Uriel Septim VII](Lore_Uriel_Septim_VII.md) <br> <br> Promulgated under the Authority of the [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md) <br> [3E 432](Lore_Third_Era.md#3E_432) |
+| --- |
+
+---
+[![LO-people-Uriel Septim VII.png](https://images.uesp.net/thumb/2/2c/LO-people-Uriel_Septim_VII.png/150px-LO-people-Uriel_Septim_VII.png)](https://en.uesp.net/wiki/File:LO-people-Uriel_Septim_VII.png)
+*Uriel VII, Blessed of Heaven, Emperor, and Father and Son of Emperors,*
+*Inspiration of Faith and Safeguard of Justice, Praise with Great Praisings!*
+*May the Light of Your Wisdom and the Glory of Your Reign*
+*Illuminate this Humble Work of Hand and Heart!*
+
+Come to me, **[Akatosh](Lore_Akatosh.md)**, for without you, my resolution falters, and my pen is still and dry, though all the seas were full of ink, and the sky my parchment of dawn. Come to me, **[Talos](Lore_Talos.md)**, for without you, my Lord and Emperor springs from rootless dust, and the [Empire](Lore_Empire.md) is scattered before the winds of war and ignorance. Come to me, **[Julianos](https://en.uesp.net/wiki/Lore:Julianos)**, for without you, my wit is weak to sort the wheat from the chaff, and my eyes should neither know the true from the false, nor sense from folly, nor justice from prejudice and interest. Come to me, **[Kynareth](Lore_Kynareth.md)**, for without you, I might not know the mysteries of the world, and so blind and in error, I might consume and profane the abundance of your beautiful treasures. Come to me, **[Zenithar](https://en.uesp.net/wiki/Lore:Zenithar)**, for without you, like a child, I might fiddle and fret, when only through struggle and labor may I craft a work worthy of your name and the name of my patron. Come to me, **[Stendarr](Lore_Stendarr.md)**, for without you, I might be deaf to the manswarm murmurings of thy people, and forgetting their need for comfort and wisdom, I might indulge myself in vain scribblings. Come to me, **[Mara](https://en.uesp.net/wiki/Lore:Mara)**, for without you, I might forget the ways of our fathers, and preening by the light of latest fashion, my words might tremble like the thin reeds of novelty in the tempest of enthusiasms. Come to me, **[Dibella](https://en.uesp.net/wiki/Lore:Dibella)**, for without you, my words must lie dull and leaden without the gilding of grace and sagacity to enchant the reader's ear and eye. Come to me, **[Arkay](https://en.uesp.net/wiki/Lore:Arkay)**, for without you, there is neither breath nor beginning, nor can any man live, love, or learn without the spark of your spirit.
+## Foreword

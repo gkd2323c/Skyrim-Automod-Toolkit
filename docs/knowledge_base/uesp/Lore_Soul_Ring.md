@@ -1,0 +1,26 @@
+# Soul Ring
+
+[![](https://images.uesp.net/thumb/d/d4/MW-item-Soul_Ring.jpg/200px-MW-item-Soul_Ring.jpg)](https://en.uesp.net/wiki/File:MW-item-Soul_Ring.jpg) [](https://en.uesp.net/wiki/File:MW-item-Soul_Ring.jpg) Soul Ring *Dagoth Ur's kin have become markedly more powerful in recent decades, after remaining stable for thousands of years. If they can be individually isolated and destroyed, they will not be able to support Dagoth Ur in later stages of the war. It may also be that the dramatic increase in their power comes from items enchanted by Dagoth Ur. Salvage of such items might contribute to our resources.*
+— [Vivec](Lore_Vivec.md)<sup>[[1]](#cite_note-PDDU-1)</sup> The Soul Ring is an artifact ring associated with the [Sixth House](Lore_Sixth_House.md). [Enchanted](Lore_Enchanting.md) by [Dagoth Ur](Lore_Dagoth_Ur.md) himself, it was given to his [Ash Vampire](Lore_Ash_Vampire.md) brother, [Dagoth Araynys](Lore_Ash_Vampire.md#Dagoth_Araynys) of Mamaea. The ring increases its wearer's magicka reserves, and durability, granted resistance to lightning magic and paralysis, and allowed them to dispel magical effects from themselves.<sup>[[2]](#cite_note-BOH-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/1/1e/MW-place-Mamaea.jpg/200px-MW-place-Mamaea.jpg)](https://en.uesp.net/wiki/File:MW-place-Mamaea.jpg) [](https://en.uesp.net/wiki/File:MW-place-Mamaea.jpg) Mamaea [![](https://images.uesp.net/thumb/7/76/MW-creature-Dagoth_Araynys.jpg/200px-MW-creature-Dagoth_Araynys.jpg)](https://en.uesp.net/wiki/File:MW-creature-Dagoth_Araynys.jpg) [](https://en.uesp.net/wiki/File:MW-creature-Dagoth_Araynys.jpg) Dagoth Araynys The exact time of the Soul Ring's creation is unknown. However, when Dagoth Ur awoke from divine slumber in [2E 882](Lore_Second_Era.md#2E_882) alongside his Ash Vampire brothers, he soon emerged with them from beneath [Red Mountain](Lore_Red_Mountain.md) into the [Heart of Lorkhan's](Lore_Heart_of_Lorkhan.md) Chamber and ritually bound them as heartwights in a ritual of his own devising.<sup>[[3]](#cite_note-DUP-3)</sup> Each of the seven Ash Vampires was bestowed a unique item personally enchanted by Dagoth Ur,<sup>[[1]](#cite_note-PDDU-1)</sup> renowned for his mastery of enchantment. [Vivec](Lore_Vivec.md) speculated that Dagoth Ur likely shared a portion of his immortality with them, though he did not rule out more conventional sorcery.<sup>[[4]](#cite_note-Vivec-4)</sup>
+
+By [3E 427](Lore_Third_Era.md#3E_427), the [Tribunal Temple](Lore_Tribunal_Temple.md) had spent the previous twenty years unsuccessfully pursuing a plan to defeat Dagoth Ur. Part of this effort involved eliminating his Ash Vampire brethren. Vivec speculated that their greatly increased power may have come from items enchanted by Dagoth Ur, and believed that recovering such artifacts could strengthen the Tribunal's own resources.<sup>[[1]](#cite_note-PDDU-1)</sup> In the same year Vivec shared these plans with [the Nerevarine](Lore_Nerevarine.md),<sup>[[4]](#cite_note-Vivec-4)</sup><sup>[[5]](#cite_note-TCO6H-5)</sup> who went on to challenge the members of the Sixth House. Among them was Dagoth Araynys of Mamaea, whom the Nerevarine defeated in battle weakening Dagoth Ur.<sup>[[6]](#cite_note-DO-6)</sup> They recovered the Soul Ring, one of the Ash Vampires' uniquely enchanted relics, which aided them in the final confrontation against the Sharmat.<sup>[[5]](#cite_note-TCO6H-5)</sup><sup>[[7]](#cite_note-MWProphecies-7)</sup><sup>:110</sup>
+
+## Known Owners
+- [Dagoth Ur](Lore_Dagoth_Ur.md)
+- [Dagoth Araynys](Lore_Ash_Vampire.md#Dagoth_Araynys)
+- [The Nerevarine](Lore_Nerevarine.md)
+
+## See Also
+For game-specific information, see the [*Morrowind* article](https://en.uesp.net/wiki/Morrowind:Soul_Ring).
+
+## References
+1. ^ <sup>***[a](#cite_ref-PDDU_1-0)***</sup><sup>***[b](#cite_ref-PDDU_1-1)***</sup><sup>***[c](#cite_ref-PDDU_1-2)***</sup> [*Plan to Defeat Dagoth Ur*](Lore_Plan_to_Defeat_Dagoth_Ur.md) — [Vivec](Lore_Vivec.md)
+2. [^](#cite_ref-BOH_2-0) [Soul Ring](https://en.uesp.net/wiki/Morrowind:Soul_Ring) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+3. [^](#cite_ref-DUP_3-0) [*Dagoth Ur's Plans*](Lore_Dagoth_Ur%27s_Plans.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+4. ^ <sup>***[a](#cite_ref-Vivec_4-0)***</sup><sup>***[b](#cite_ref-Vivec_4-1)***</sup> [Vivec](https://en.uesp.net/wiki/Morrowind:Vivec)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. ^ <sup>***[a](#cite_ref-TCO6H_5-0)***</sup><sup>***[b](#cite_ref-TCO6H_5-1)***</sup> [The Citadels of the Sixth House](https://en.uesp.net/wiki/Morrowind:The_Citadels_of_the_Sixth_House) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. [^](#cite_ref-DO_6-0) [Dagoth Araynys](https://en.uesp.net/wiki/Morrowind:Dagoth_Araynys) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+7. [^](#cite_ref-MWProphecies_7-0) [*The Morrowind Prophecies*](https://en.uesp.net/wiki/Books:The_Morrowind_Prophecies) — Peter Olafson

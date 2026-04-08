@@ -1,0 +1,51 @@
+# Guide to Western Skyrim
+
+| Book Compilation | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Guide_to_Western_Skyrim) ([Greymoor](https://en.uesp.net/wiki/Online:Greymoor)) |
+| Note | |
+| This is a compilation of books assembled for easier reading. | |
+
+Guide to Western Skyrim **by [Imperial Surveyor Buntara Gravius](Lore_Books_by_Author.md#Buntara_Gravius)** *A guide to the holds of Western Skyrim*
+---
+
+## *[Haafingar](Lore_Guide_to_Western_Skyrim__Haafingar.md)*
+The reclusive kingdom of [Western Skyrim](Lore_Western_Skyrim.md), reputed to be isolationist and close-minded, nevertheless contains much that intrepid travelers can find to enjoy in its holds and among its people. The details in this guide reflect this sentiment—though it should be noted that Western Skyrim is no place for the foolhardy traveler. With terrain as rugged as its people, neither the land nor its inhabitants suffer the ignorant with grace.
+
+As with [Eastern Skyrim](Lore_Eastern_Skyrim.md), Western Skyrim consists of several holds, each with its own capital and ruling jarl. All swear fealty to the Jarl of [Solitude](Lore_Solitude.md), who rules over the strongest of these territories and wears the crown of the high king.
+
+[HAAFINGAR](Lore_Haafingar.md), in the northeast portion of the realm, is dominated by mountains and frozen coastlines. The [Sea of Ghosts](Lore_Sea_of_Ghosts.md) sends an ill wind to the shore, chilling all to the bone.
+
+Solitude, astride a massive arch of stone, serves as capital of the hold and seat of the jarl and high king. The venerable and defensible Castle Dour watches over the city, which counts its fortifications among the city's first structures. The city features two main districts: the Well District, home to the city's bustling market, and the Avenues District. Scholars of architecture will find many charming homes among the Avenues, while those seeking more worldly entertainment may prefer the Wells. It should also be noted that the [Blue Palace](Lore_Blue_Palace.md) abuts the Avenues. This fine example of High Nord architecture serves as home and ruling seat for the jarl, who also carries the title of high king. I should also make note of the [Arch](Lore_Great_Arch.md) —a spectacle of stone that hoists Solitude above the Sea of Ghosts.
+
+[Kilkreath Temple](Lore_Kilkreath_Temple.md), set in the mountains of Haafingar, stands as a monument to the [Daedric Prince](Lore_Daedric_Prince.md) [Meridia](Lore_Meridia.md). Though worship of the Daedric Princes is, at best, a controversial subject in [Tamriel](Lore_Tamriel.md), the architectural splendor and calm environs alone make this temple worth the visit. Those willing to take part in heretical conversation will find the priests of Kilkreath Temple warm and hospitable, and more than willing to provide travelers with foodstuffs and warm beds. Visitors are advised to avoid travel during feasts of High Sun and Low Sun, when the temple's caretakers close its doors to conduct secret rites.
+
+[Dragon Bridge](Lore_Dragon_Bridge.md), a small encampment and town beside the [River Karth](Lore_River_Karth.md), is named for the spectacular bridge that fords the waterway. Astride the river sits the [Dragon Bridge](Lore_Dragon_Bridge.md), an ancient causeway of rough-hewn stone and, curiously, a pair of [Dragon](Lore_Dragon.md) skulls set into its apex. The difference in stonework detail between the bridge's stone and these skulls has led some scholars to posit that these are actually petrified bones of ancient beasts. Others deride these claims as poetic nonsense. Remains or not, the skulls and bridge have inspired the imaginations of travelers for centuries, as they doubtless will for centuries to come.
+
+[Giant](Lore_Giant.md) camps spring up throughout the Haafingar wilderness. These aren't permanent settlements, but are instead temporary sites set up by the nomadic Giants as they move from place to place. They do have a habit of utilizing the same locations over and over, so if you find evidence of an abandoned Giant camp one day, it might be occupied by the large humanoids the next. While approaching these camps is a foolhardy endeavor, there are many experienced guides available for hire that can provide curious explorers with a chance to observe these creatures from a safe distance.
+
+Author's Note: As with many of [Skyrim](Lore_Skyrim.md)'s holds, Haafingar contains barrows and caves that may appear deserted but often prove to be quite dangerous. Given the author's desire to keep readers safe, she has elected to excise reference to these dangerous locales from this edition.
+
+## *[Hjaalmarch](Lore_Guide_to_Western_Skyrim__Hjaalmarch.md)*
+My guide to the reclusive kingdom of [Western Skyrim](Lore_Western_Skyrim.md) continues, with a look at the region's easternmost hold.
+
+[HJAALMARCH](Lore_Hjaalmarch.md), drawing its name from Western Skyrim's [River Hjaal](Lore_River_Hjaal.md), stands as the largest of the kingdom's holds. The [Drajkmyr](Lore_Drajkmyr.md), an immense saltwater marsh formed by the estuaries of the [River Karth](Lore_River_Karth.md) and River Hjaal, dominate the region. This largely uninhabited marshland, frequently shrouded in an eerie mist, features a proliferation of the sinisterly reputed [Deathbell](Lore_Deathbell.md) flower. Though exploring the wetlands can be difficult, earnest travelers can find much to discover and enjoy in the hold.
+
+[Morthal](Lore_Morthal.md), a lumber town in the southeast of the Drajkmyr, serves as the jarl's seat of power in the hold. The houses are built on pylons by necessity, and connected by docks to provide safe passage over the mire. Structures here are a prime example of [Nordic](Lore_Nord.md) rough-hewn architecture. The people of Morthal can be gracious hosts, if unaccustomed to travelers given the arduous routes to and from the town. Many make their living from the saltmarsh, fishing and trapping creatures for meat and hide. In warmer seasons, timber is sent to [Solitude](Lore_Solitude.md)'s docks on pole-driven barges. Morthal is considered an essential destination due to its neighboring barrow, one of the few still safe for unarmed travelers to explore.
+
+The ice shelves abutting the [Sea of Ghosts](Lore_Sea_of_Ghosts.md) are a popular spot for explorers and travelers, though they require proper outfitting to traverse safely. The ice has trapped numerous ships and vessels across the ages, and many of these wrecks offer collectors and hobbyists an opportunity to uncover trinkets or souvenirs from a bygone age. As with most of [Skyrim](Lore_Skyrim.md)'s wilderness, hiring a well-informed guide is a practical necessity for those seeking to visit these floes.
+
+[Labyrinthian](Lore_Labyrinthian.md), an enormous barrow found in the foothills of southeastern Hjaalmarch, stands as a dangerous curiosity. Scholars know this complex to be the ruins of the city of [Bromjunaar](Lore_Bromjunaar.md), a capital of the [Dragon Cult](Lore_Dragon_Cult.md) in Skyrim's ancient, sordid past. Rumor speaks of an intricate and maddening maze housed within these ruins, though its existence has never been confirmed by a reputable source. Insofar as Labyrinthian is a notable landmark within Hjaalmarch, it is included in this list, though it is frequently a site occupied by foul creatures and black-hearted folk. So, best to avoid it.
+
+Author's Note: As with all of Skyrim's holds, Hjaalmarch contains additional caves and other locations where the safety of travelers is by no means guaranteed. Given the author's desire to keep her readers safe, she has elected to excise reference to these dangerous locales from this edition.
+
+## *[Karthald](Lore_Guide_to_Western_Skyrim__Karthald.md)*
+My guide to the reclusive kingdom of [Western Skyrim](Lore_Western_Skyrim.md) continues, with a look at the region's southernmost hold.
+
+[KARTHALD](Lore_Karthald.md), which did not exist when this guide was first written, lies to the south of [Haafingar](Lore_Haafingar.md) and to the west of [Hjaalmarch](Lore_Hjaalmarch.md). This territory had, until half a decade ago, been nominally in the control of [the Reach](Lore_The_Reach.md). However [Nords](Lore_Nord.md) and [Reachfolk](Lore_Reachmen.md) have hotly contested the area's ownership since time immemorial, and none can definitively claim proprietorship of the area. The hold was established recently, though Nords have lived in the area for centuries. Karthald occupies a land of flinty ridges and sweeping bluffs, as well as pine forest. The pocketed landscape hides many wondrous sites, as well as many potential dangers.
+
+[Karthwatch](Lore_Karthwatch.md) is the seat of power within the hold. The jarl and its people are stewards of Western Skyrim's southern border, and their charge is to stand fast against the encroaching Reachmen. Though hospitable to travelers, the people of Karthwatch have little to offer in the way of amenities, and they make no excuse for any discomfort that visitors might endure while staying in the settlement. Though technically Karthwatch is a town, its inhabitants very much view it as a fortification.
+
+[Mor Khazgur](Lore_Mor_Khazgur.md), an [Orc](Lore_Orc.md) mining settlement, sits in the mountains on the western border of the hold. Visitors to the clan grounds are advised to avoid referring to the lands within and around the camp as belonging to Karthald, though it is a legal and logical truth. The Orcs prefer to think of their territory as a sovereign outpost of [Wrothgar](Lore_Wrothgar.md), subject to the rules and customs of Orc-kind. To that end, visitors to the area are advised to be well aware of Orcish protocol and behavior, at the risk of upsetting their hosts (and having their persons injured). That said, the Orcs of Mor Khazgur are no different from their kin in [Orsinium](Lore_Orsinium.md) —spirited, enthusiastic, and eager for friendship.
+
+Author's Note: As with all of Skyrim's holds, Karthald features caverns and caves where the safety of travelers is by no means guaranteed. Given the author's desire to keep her readers safe, she has elected to excise reference to these dangerous locales from this edition.

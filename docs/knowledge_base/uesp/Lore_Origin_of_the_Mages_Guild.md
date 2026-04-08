@@ -1,0 +1,27 @@
+# Origin of the Mages Guild
+
+| Book Information | |
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Origin_of_the_Mages_Guild) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:Origin_of_the_Mages_Guild) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Origin_of_the_Mages_Guild) |
+
+Origin of the Mages Guild **by [The Archmage Salarth](Lore_Books_by_Author.md#The_Archmage_Salarth)** *Where and how the Mages Guild started*
+---
+*Note: This is the * [Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind) * and * [Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion) * version of this book. The * [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Online) * version is slightly different, and a similar but not identical book exists in * [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall) *; see * [Origin of the Mages Guild (Daggerfall)](Lore_Origin_of_the_Mages_Guild_(Daggerfall).md) * for that version.*
+
+---
+The idea of a collection of Mages, Sorcerers, and assorted Mystics pooling their resources and talents for the purpose of research and public charity was a revolutionary concept in the early years of the [Second Era](Lore_Second_Era.md). The only organization then closest in aim and structure to what we know today as the [Mages Guild](Lore_Mages_Guild.md) was the [Psijic Order](Lore_Psijic_Order.md) of the Isle of [Artaeum](Lore_Artaeum.md). At the time, magic was something to be learned by individuals, or at most within intimate covens. Mages were, if not actually hermits, usually quite solitary.
+
+The Psijic Order served the rulers of [Summerset Isle](Lore_Summerset_Isle.md) as counselors, and chose its members through a complex, ritualized method not understood by outsiders. Its purposes and goals likewise went unpublished, and detractors attributed the worst evils as the source of the Order's power. Actually, the religion of the old Order could be described as ancestor worship, an increasingly unfashionable philosophy in the Second Era.
+
+When [Vanus Galerion](Lore_Vanus_Galerion.md), a Psijic of Artaeum and student of the famed [Iachesis](Lore_Iachesis.md), began collecting magic-users from around Summerset Isle, he attracted the animosity of all. He was operating out of the urban center of [Firsthold](Lore_Firsthold.md), and there was a common (and not entirely unfounded) attitude that magical experiments should be conducted only in unpopulated areas. Even more shocking, Galerion proposed to make magical items, potions, and even spells available to any member of the general public who could afford to pay. No longer was magic to be limited either to the aristocracy or intelligentsia.
+
+Galerion was brought before Iachesis and the King of Firsthold, [Rilis XII](Lore_Rilis_XII.md), and made to state the intentions of the fraternity he was forming. The fact that Galerion's speech to Rilis and Iachesis was not recorded for posterity is doubtless a tragedy, though it does afford opportunity for historians to amuse one another with speculation about the lies and persuasions Galerion might have used to found the ubiquitous organization. The charter, at any rate, was approved.
+
+Almost immediately after the Guild was formed, the question of security had to be addressed. The Isle of Artaeum did not require force of arms to shield it from invaders -- when the Psijic Order does not wish someone to land on the Isle, it and all its inhabitants simply become insubstantial. The new Mages Guild, by contrast, had to hire guards. Galerion soon discovered what the Tamrielic nobility has known for thousands of years: money alone does not buy loyalty. The knightly [Order of the Lamp](Lore_Order_of_the_Lamp.md) was formed the following year.
+
+Like a tree from an acorn, the Mages Guild grew branches all over Summerset Isle and gradually the mainland of [Tamriel](Lore_Tamriel.md). There are numerous records of superstitious or sensibly fearful rulers forbidding the Guild in their domains, but their heirs or heirs' heirs eventually recognized the wisdom of allowing the Guild free rein. The Mages Guild has become a powerful force in Tamriel, a dangerous foe if a somewhat disinterested ally. There have been only a few rare incidents of the Mages Guild actually becoming involved in local political struggles. On these occasions, the Guild's participation has been the ultimate decider in the conflict.
+
+As begun by Vanus Galerion, the Mages Guild as an institution is presided over by a supreme council of six Archmagisters. Each Guildhall is run by a Guildmagister, assisted by a twofold counsel, the Master of Incunabula and the Master at Arms. The Master of Incunabula presides over an additional counsel of two mages, the Master of Academia and the Master of the Scrye. The Master at Arms also has a counsel of two, the Master of Initiates and the Palatinus, the leader of the local chapter of the Order of the Lamp.
+
+One need not be a member of the Mages Guild to know that this carefully contrived hierarchy is often nothing more than a chimera. As Vanus Galerion himself said bitterly, leaving Tamriel to travel to other lands, "The Guild has become nothing more than an intricate morass of political infighting."

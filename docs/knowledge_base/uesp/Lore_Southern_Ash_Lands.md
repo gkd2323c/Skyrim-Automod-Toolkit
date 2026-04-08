@@ -1,0 +1,21 @@
+# Solstheim Ashlands
+
+| Solstheim Ashlands | |
+| --- | --- |
+| Type | Sub-region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Morrowind](Lore_Morrowind.md) |
+| Region | [Solstheim](Lore_Solstheim.md) |
+| Appears in | Dragonborn |
+
+[![](https://images.uesp.net/thumb/3/3d/SR-place-Fort_Frostmoth.jpg/200px-SR-place-Fort_Frostmoth.jpg)](https://en.uesp.net/wiki/File:SR-place-Fort_Frostmoth.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fort_Frostmoth.jpg) The ruins of Fort Frostmoth in the ashlands The Solstheim ashlands (also called **Southern Ash Lands** in the context of its location in Solstheim,<sup>[[1]](#cite_note-TESVSPOGG-1)</sup> or the **northern ashlands** in the context of its location in [Morrowind](Lore_Morrowind.md))<sup>[[2]](#cite_note-DBRalis-2)</sup> are a region of [Solstheim](Lore_Solstheim.md) that covers the entire southern half of the island. Centuries of constant eruptions from Red Mountain—the towering volcano located on the island of Vvardenfell to the east—have devastated the once-thriving settlements and fertile pine forests of southern Solstheim. The land here has been strangled by continuous ash deposits and beset by terrifying creatures seemingly risen from the ash. Still, many continue to eke out an existence here despite the formidable danger.<sup>[[1]](#cite_note-TESVSPOGG-1)</sup>
+
+## History
+These ashlands formed as the result of the [Red Year](Lore_Red_Year.md) of [4E 5](Lore_Fourth_Era.md#4E_5), when [Red Mountain](Lore_Red_Mountain.md) erupted and devastated the province of [Morrowind](Lore_Morrowind.md). The ashfall extended far into the [Sea of Ghosts](Lore_Sea_of_Ghosts.md), covering the southern coast of Solstheim for many years. The constant ashfall, combined with the blast wave from the eruption, resulted in the creation of the ashlands and the almost complete destruction of the [Hirstaang Forest](Lore_Hirstaang_Forest.md), of which only a few small groves on the border of the [Isinfier Plains](Lore_Isinfier_Plains.md) survived.
+
+The event proved to be catastrophic for both the island's inhabitants and the local wildlife. [Fort Frostmoth](Lore_Fort_Frostmoth.md) was irreparably damaged, and [Raven Rock](Lore_Raven_Rock.md) would have been buried beneath the ash were it not for the construction of a giant wall called the Bulwark. The devastation gave rise to mysterious [burnt spriggans](Lore_Burnt_Spriggan.md), vengeful nature spirits that roam the cindering ashlands. The region is covered in impact craters caused by the ejection of [Heart Stones](Lore_Heart_Stone.md) from Red Mountain, The presence of the Heart Stones led to the formation of the [Ash Spawn](Lore_Ash_Spawn.md), which attack settlements in the region. In [4E 16](Lore_Fourth_Era.md#4E_16), the High King of [Skyrim](Lore_Skyrim.md) gifted Solstheim to Morrowind, and [Dunmer](Lore_Dunmer.md) refugees fled to the island. Flora and fauna native to Morrowind soon found their way to Solstheim, either through natural migration or deliberate planting by the Dunmer. [Netch](Lore_Netch.md), [silt striders](Lore_Silt_Strider.md), [ash hoppers](Lore_Ash_Hopper.md), [scathecraw](Lore_Scathecraw.md), [trama root](Lore_Trama_Root.md), [emperor parasols](Lore_Emperor_Parasol.md) and [ash yams](Lore_Ash_Yam.md) all became commonplace in the new ashlands. The spread of ash also affected local plants such as [creep clusters](Lore_Creep_Cluster.md) and [spiky grass](Lore_Spiky_Grass.md).<sup>[[3]](#cite_note-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TESVSPOGG_1-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_1-1)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+2. [^](#cite_ref-DBRalis_2-0) [Ralis Sedarys](Skyrim_Ralis_Sedarys.md)' dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+3. [^](#cite_ref-3) Events of *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*

@@ -1,0 +1,45 @@
+# Chillwind Depths
+
+| Chillwind Depths | |
+| --- | --- |
+| Type | Cave |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Region | [Hjaalmarch](Lore_Hjaalmarch.md) |
+| Appears in | [Skyrim](Skyrim_Chillwind_Depths.md), [ESO](https://en.uesp.net/wiki/Online:Chillwind_Depths) |
+
+[![](https://images.uesp.net/thumb/b/b7/ON-interior-Chillwind_Depths_03.jpg/200px-ON-interior-Chillwind_Depths_03.jpg)](https://en.uesp.net/wiki/File:ON-interior-Chillwind_Depths_03.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Chillwind_Depths_03.jpg) Chillwind Depths' interior ca. [2E 582](Lore_Second_Era.md#2E_582) Chillwind Depths is a sizeable cave system located along a large river, in the province of [Skyrim](Lore_Skyrim.md).<sup>[[1]](#cite_note-SRChillwind-1)</sup> It is one of the largest frozen caves in northwestern Skyrim, but despite its low ceiling and general inhospitality,<sup>[[2]](#cite_note-HDDWAW-2)</sup><sup>[[3]](#cite_note-ONTinzen-3)</sup> it hosts all sorts of wildlife in its winding caves.<sup>[[4]](#cite_note-ONHamvir-4)</sup> Many rumors surround the caves, from fantastical tales of [giant insects](Lore_Chaurus.md) and *pale-skinned [humanoids](Lore_Falmer.md) with a hunger for [Nord](Lore_Nord.md) flesh* to enticing rumors of lost [Reach](Lore_Reachmen.md) treasures<sup>[[5]](#cite_note-ONLoad Chillwind-5)</sup> and dark waters teeming with subterranean [fish](Lore_Fish.md) for brave fisherfolk.<sup>[[6]](#cite_note-FM4-6)</sup> Whether these stories have any truth to them is unknown as very few people try to explore them.<sup>[[5]](#cite_note-ONLoad Chillwind-5)</sup>
+
+Little can be said about Chillwind Depths throughout history. Typically, bandits and the occasional [necromancer](Lore_Necromancers.md) inhabit the cave, but vague rumors of Falmer living there had sprung up throughout the years. Locals have interpreted them as some kind of [goblin](Lore_Goblin.md) that are very confrontational.<sup>[[2]](#cite_note-HDDWAW-2)</sup> For experts of fauna and flora, Chillwind Depths holds a plethora of wildlife.<sup>[[4]](#cite_note-ONHamvir-4)</sup> In an attempt to end the feuding in the [Bards College](Lore_Bards_College.md), the famous bard Nel Farsong hid the college's large collection of instruments across [Western Skyrim](Lore_Western_Skyrim.md).<sup>[[7]](#cite_note-ONLeiborn-7)</sup> She hid the harp called Lilytongue in Chillwind Depths.<sup>[[8]](#cite_note-ONChillwind-8)</sup>
+
+Underground fish can be found through its streams,<sup>[[6]](#cite_note-FM4-6)</sup> and water-logged tunnels as well as chaurus that Falmer usually domesticates. Not only are the caves a significant source of common mushrooms like the [bleeding crown](Lore_Bleeding_Crown.md), [blisterwort](Lore_Blisterwort.md), [imp stool](Lore_Imp_Stool.md), [namira's rot](Lore_Namira%27s_Rot.md), and [white cap](Lore_White_Cap.md),<sup>[[1]](#cite_note-SRChillwind-1)</sup> but it also contains exclusive specimens like the chillwind mushroom, deep lichen,<sup>[[4]](#cite_note-ONHamvir-4)</sup> and dungcap mushroom.<sup>[[9]](#cite_note-ONRigurt-9)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), when High Queen Gerhyld was assassinated by the [Gray Host](Lore_Gray_Host.md), the perpetrator fled Solitude and hid in Chillwind Depths before they were defeated by [House Ravenwatch](Lore_House_Ravenwatch.md).<sup>[[10]](#cite_note-ONClouds-10)</sup> Around that time, other people were interested in the caves. A Nord healer named Hamvir needed ingredients from Chillwind Depths to heal his sister from chaurus poison and enlisted an adventurer for help.<sup>[[11]](#cite_note-ONPoison-11)</sup> Landal Gevont, an esteemed Goblin-scholar from the [Invisible College of Daggerfall](Lore_Invisible_College_of_Daggerfall.md) hired the [Coterie of Organized Scholars](Lore_Coterie_of_Organized_Scholars.md) in Solitude to investigate the rumors of an unknown goblin tribe (presumingly the Falmer) in Chillwind Depths.<sup>[[3]](#cite_note-ONTinzen-3)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), the road between Solitude and [Whiterun](Lore_Whiterun.md) became unsafe after travelers were disappearing without a trace, somewhere south of [Dragon Bridge](Lore_Dragon_Bridge.md).<sup>[[12]](#cite_note-SRGuard-12)</sup> Rumors suggest it was bandits but other imply something worse like [ghosts](Lore_Ghost.md), goblins, or [witches](Lore_Witches.md). A merchant couple and their caravan for example were attacked by the Falmer<sup>[[13]](#cite_note-MJ-13)</sup><sup>[[14]](#cite_note-SRCaravan-14)</sup> An adventurer decided to investigate and seeing the ravaged remains of the bodies, deduced it was not an ordinary enemy. They discovered the trail to Chillwind Depths and set up camp before entering the cave. Whatever happened to the adventurer is unknown.<sup>[[15]](#cite_note-AJ-15)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/a7/SR-place-Chillwind_Depths.jpg/200px-SR-place-Chillwind_Depths.jpg)](https://en.uesp.net/wiki/File:SR-place-Chillwind_Depths.jpg) The cave entrance (Skyrim)
+- [![](https://images.uesp.net/thumb/c/c3/ON-place-Chillwind_Depths.jpg/200px-ON-place-Chillwind_Depths.jpg)](https://en.uesp.net/wiki/File:ON-place-Chillwind_Depths.jpg) The cave entrance (ESO)
+- [![](https://images.uesp.net/thumb/d/d7/SR-interior-Chillwind_Depths.jpg/200px-SR-interior-Chillwind_Depths.jpg)](https://en.uesp.net/wiki/File:SR-interior-Chillwind_Depths.jpg) The water-logged caves
+- [![](https://images.uesp.net/thumb/6/61/ON-interior-Chillwind_Depths_02.jpg/200px-ON-interior-Chillwind_Depths_02.jpg)](https://en.uesp.net/wiki/File:ON-interior-Chillwind_Depths_02.jpg) A Falmer camp
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Chillwind_Depths.md) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Chillwind_Depths) [](https://en.uesp.net/wiki/Online:Greymoor) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-SRChillwind_1-0)***</sup><sup>***[b](#cite_ref-SRChillwind_1-1)***</sup> [Chillwind Depths](Skyrim_Chillwind_Depths.md) in *[Skyrim](Skyrim_Skyrim.md)*
+2. ^ <sup>***[a](#cite_ref-HDDWAW_2-0)***</sup><sup>***[b](#cite_ref-HDDWAW_2-1)***</sup> [*Hydrik Deep-Delve's Wit and Wisdom*](Lore_Hydrik_Deep-Delve%27s_Wit_and_Wisdom.md) — [Hydrik Deep-Delve](Lore_Books_by_Author.md#Hydrik_Deep-Delve)
+3. ^ <sup>***[a](#cite_ref-ONTinzen_3-0)***</sup><sup>***[b](#cite_ref-ONTinzen_3-1)***</sup> [Tinzen](https://en.uesp.net/wiki/Online:Tinzen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+4. ^ <sup>***[a](#cite_ref-ONHamvir_4-0)***</sup><sup>***[b](#cite_ref-ONHamvir_4-1)***</sup><sup>***[c](#cite_ref-ONHamvir_4-2)***</sup> [Hamvir](https://en.uesp.net/wiki/Online:Hamvir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+5. ^ <sup>***[a](#cite_ref-ONLoad Chillwind_5-0)***</sup><sup>***[b](#cite_ref-ONLoad Chillwind_5-1)***</sup> [Chillwind Depths](https://en.uesp.net/wiki/Online:Chillwind_Depths) loading screen text in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+6. ^ <sup>***[a](#cite_ref-FM4_6-0)***</sup><sup>***[b](#cite_ref-FM4_6-1)***</sup> [*Fishing Mastery, v4*](Lore_Fishing_Mastery,_v4.md) — [Swims-In-Deep-Water](Lore_Swims-In-Deep-Water.md)
+7. [^](#cite_ref-ONLeiborn_7-0) [Leiborn](https://en.uesp.net/wiki/Online:Leiborn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+8. [^](#cite_ref-ONChillwind_8-0) [Chillwind Depths](https://en.uesp.net/wiki/Online:Chillwind_Depths) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+9. [^](#cite_ref-ONRigurt_9-0) [Rigurt the Brash](https://en.uesp.net/wiki/Online:Rigurt_the_Brash#Thane_Hraldi)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+10. [^](#cite_ref-ONClouds_10-0) [Dark Clouds Over Solitude](https://en.uesp.net/wiki/Online:Dark_Clouds_Over_Solitude) story quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+11. [^](#cite_ref-ONPoison_11-0) [Poison's Sting](https://en.uesp.net/wiki/Online:Poison%27s_Sting) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+12. [^](#cite_ref-SRGuard_12-0) [Solitude Guard](Skyrim_Guard_Dialogue.md#Town-Specific)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+13. [^](#cite_ref-MJ_13-0) [*Merchant's Journal*](Skyrim_Merchant%27s_Journal.md)
+14. [^](#cite_ref-SRCaravan_14-0) [Attacked Caravan](Skyrim_Chillwind_Depths.md#Notes) in *[Skyrim](Skyrim_Skyrim.md)*
+15. [^](#cite_ref-AJ_15-0) [*Adventurer's Journal*](Skyrim_Adventurer%27s_Journal.md)

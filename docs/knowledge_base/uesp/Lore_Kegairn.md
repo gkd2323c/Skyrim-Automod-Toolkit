@@ -1,0 +1,30 @@
+# Kegairn
+
+| Witch-Lord Kegairn | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Witch-Lord Kegairn.jpg](https://images.uesp.net/thumb/a/a0/ON-npc-Witch-Lord_Kegairn.jpg/200px-ON-npc-Witch-Lord_Kegairn.jpg)](https://en.uesp.net/wiki/File:ON-npc-Witch-Lord_Kegairn.jpg) Witch-Lord Kegairn | | | |
+| Race | [Reachman](Lore_Reachman.md) | Gender | Male |
+| Died | [2E 582](Lore_Second_Era.md#2E_582) <br> [Four Skull Lookout](Lore_Four_Skull_Lookout.md) | | |
+| Resided in | [The Reach](Lore_The_Reach.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Witch-Lord_Kegairn) | | |
+
+**Witch-Lord** Kegairn was a powerful [Reachfolk](Lore_Reachfolk.md) [necromancer](Lore_Necromancy.md) associated with the [Ghostsong Clan](Lore_Ghostsong_Clan.md). He was also a known practitioner of [void magic](Lore_Void_Magic.md) rituals. Alongside Voidmother [Elgroalif](Lore_Elgroalif.md) and select clan members, they conducted a series of dark rituals at [Four Skull Lookout](Lore_Four_Skull_Lookout.md), endangering the entire region of [the Reach](Lore_The_Reach.md).<sup>[[1]](#cite_note-Gwen-1)</sup><sup>[[2]](#cite_note-VE-2)</sup><sup>[[3]](#cite_note-WLK-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/2/2d/ON-npc-Ghostsong_Clan.jpg/200px-ON-npc-Ghostsong_Clan.jpg)](https://en.uesp.net/wiki/File:ON-npc-Ghostsong_Clan.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Ghostsong_Clan.jpg) The ritual at Four Skulls Lookout Little is known about Kegairn's background, save for his title as a Witch-Lord in the Ghostsong Clan and his proficiency in necromancy and void magic. In [2E 582](Lore_Second_Era.md#2E_582), Kegairn and Voidmother Elgroalif led a faction of the Ghostsong clan, conducting forbidden rituals at Four Skull Lookout.<sup>[[1]](#cite_note-Gwen-1)</sup><sup>[[2]](#cite_note-VE-2)</sup><sup>[[3]](#cite_note-WLK-3)</sup> Their actions included harnessing Namira's power for potentially disastrous ends, and they went as far as abducting innocent Reachmen for their dark ceremonies. These profane rituals inadvertently ruptured the natural fabric of reality, resulting in the release of volatile forces.<sup>[[1]](#cite_note-Gwen-1)</sup><sup>[[4]](#cite_note-RC-4)</sup>
+
+The [Stonehands](Lore_Stonehands.md), a group of Reachfolk answering to Ard [Caddach](Lore_Caddach.md) of [Markarth](Lore_Markarth.md), were dedicated to combating various threats in the Reach. Recognizing the Ghostsong clan as a renegade faction, the Stonehands sought aid from [wandering adventurers](Lore_The_Vestige.md) and other individuals to address the impending danger. Their mission encompassed the rescue of innocent captives, the closure of mystical rifts created by the rituals, and the retrieval and disposal of heretical writings documenting the dark ceremonies. In their efforts to counter these disturbances, the mercenaries were equipped with a charm capable of sealing the rifts.<sup>[[1]](#cite_note-Gwen-1)</sup><sup>[[5]](#cite_note-RCH-5)</sup><sup>[[6]](#cite_note-WMRN-6)</sup> Ultimately, Kegairn and the Voidmother met their demise at the hands of these hired mercenaries. The intervention led to the captives' release, the closure of the ruptures, and the delivery of the ritual notes to the Stonehands for safekeeping and eventual destruction. This brought an end to the looming threat and potential calamity posed by the Ghostsong clan.<sup>[[7]](#cite_note-Q1-7)</sup><sup>[[8]](#cite_note-Q2-8)</sup><sup>[[9]](#cite_note-Q3-9)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Witch-Lord_Kegairn) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Gwen_1-0)***</sup><sup>***[b](#cite_ref-Gwen_1-1)***</sup><sup>***[c](#cite_ref-Gwen_1-2)***</sup><sup>***[d](#cite_ref-Gwen_1-3)***</sup> [Gwenyfe](https://en.uesp.net/wiki/Online:Gwenyfe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-VE_2-0)***</sup><sup>***[b](#cite_ref-VE_2-1)***</sup> [Voidmother Elgroalif](https://en.uesp.net/wiki/Online:Voidmother_Elgroalif)'s dialogue and appearance in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. ^ <sup>***[a](#cite_ref-WLK_3-0)***</sup><sup>***[b](#cite_ref-WLK_3-1)***</sup> [Witch-Lord Kegairn](https://en.uesp.net/wiki/Online:Witch-Lord_Kegairn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-RC_4-0) [Reach Captive](https://en.uesp.net/wiki/Online:Reach_Captive)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-RCH_5-0) [Reachfolk Charm](https://en.uesp.net/wiki/Online:Markarth_Quest_Items#Reachfolk_Charm) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+6. [^](#cite_ref-WMRN_6-0) [Witch Matron's Ritual Notes](https://en.uesp.net/wiki/Online:Markarth_Quest_Items#Witch_Matron.27s_Ritual_Notes) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+7. [^](#cite_ref-Q1_7-0) Events of [Namira's Perversions](https://en.uesp.net/wiki/Online:Namira%27s_Perversions) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+8. [^](#cite_ref-Q2_8-0) Events of [Notes of the Void](https://en.uesp.net/wiki/Online:Notes_of_the_Void) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+9. [^](#cite_ref-Q3_9-0) Events of [Ruptures in the Reach](https://en.uesp.net/wiki/Online:Ruptures_in_the_Reach) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

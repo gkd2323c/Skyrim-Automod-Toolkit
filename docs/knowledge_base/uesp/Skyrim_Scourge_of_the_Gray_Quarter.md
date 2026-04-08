@@ -1,0 +1,26 @@
+# Scourge of the Gray Quarter
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book2a.png) Book Information <br> *Scourge of the Gray Quarter* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0ED03B | | |
+| See Also | [Lore version](Lore_Scourge_of_the_Gray_Quarter.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 8 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 2 | | |
+| Locations | | | |
+| Found in the following locations: - [College of Winterhold](Skyrim_College_of_Winterhold_(place).md), [Arch-Mage's Quarters](Skyrim_Arch-Mage%27s_Quarters.md), on a shelf <br> - [Faendal's House](Skyrim_Faendal%27s_House.md), on the cupboard next to the door <br> - [Argonian Assemblage](Skyrim_Argonian_Assemblage.md) <br> - [Bards College](Skyrim_Bards_College.md) (2) <br> - [Bits and Pieces](Skyrim_Bits_and_Pieces.md) <br> - [Blue Palace](Skyrim_Blue_Palace.md) <br> - [Dragonsreach Jarl's Quarters](Skyrim_Dragonsreach.md) <br> - [Erikur's House](Skyrim_Erikur%27s_House.md) <br> - [Highmoon Hall](Skyrim_Highmoon_Hall.md) <br> - [Hollyfrost Farm](Skyrim_Hollyfrost_Farm.md) <br> - [House of Clan Battle-Born](Skyrim_House_of_Clan_Battle-Born.md) <br> - [Jorrvaskr](Skyrim_Jorrvaskr.md) <br> - [The Treasury House](Skyrim_The_Treasury_House.md) <br> - [Volkihar Keep](Skyrim_Volkihar_Keep.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> <br> - [The Winking Skeever](Skyrim_The_Winking_Skeever.md) | | | |
+
+Scourge of the Gray Quarter **by [Frilgeth Horse-Breaker](Lore_Books_by_Author.md#Frilgeth_Horse-Breaker)** *A complaint on the presence and behavior of the growing Dunmer population of Skyrim*
+---
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+he tragedies befalling [Morrowind](Lore_Morrowind.md) do bring forth pity from even the stoutest [Nordic](Skyrim_Nord.md) heart. The [dark elves](Skyrim_Dunmer.md) deserve our condolences, but thus far they do not show themselves deserving of the simplest acts of charity. There are very different approaches to how to deal with the imminent problem of Morrowind, and I offer two options as seen in practice in [Skyrim](Lore_Skyrim.md). One should serve as an exemplar, the other a cautionary tale.
+
+Consider [Riften](Skyrim_Riften.md), which shares a border with the ruined province. A number of the dark elves have made their homes there, but they are expected to earn their livelihoods as is any other citizen of the great city. They ply trades as merchants, work in the temple, and serve in the keep. Honest labor, to be admired from a race that was so recently in such dire straits as to even warrant this discussion. Today the city still has its share of problems, but they are not traceable to any influx of outsiders in their presence. In short, the dark elves have properly assimilated themselves into the Skyrim way of life, to be expected from any newcomer to these lands.
+
+For an alternative approach, we only have to look at the once-proud city of [Windhelm](Skyrim_Windhelm.md) to see what can happen when our arms are cast too wide open in welcome. To think that the city of [Ysgramor](Skyrim_Ysgramor.md), whose very name was made in driving out the elves from our sacred home, would open itself as a welcome destination for any refugee from the smoking sulphur, is a disgrace to the very idea of being a Nord.
+
+And what has become of this? Predictably, the lazy, discontented rabble has descended into squalor in an area now delicately referred to as "the Gray Quarter" of the city. They were not expected to contribute and so have not. That they attempt to make over a proud Nord city into a little pocket of Morrowind is insulting enough, but the amount of unrest they have provoked even within the proper city walls should give any other Jarl reason to fear.
+
+The Nords I talk to in the city speak of constant strife and crime coming from the Gray Quarter, with no respite in sight. The city guard barely patrol there, leaving the dark elves to mete out whatever passes for justice in their native customs. The respectable families of the city, the Cruel-Seas and [Shatter-Shields](Lore_Shatter-Shield_Clan.md), speak with an almost parental affection of the [Argonians](Skyrim_Argonian.md) in their employ, but the dark elves have made no effort to ingratiate or assimilate themselves to the proper city-dwellers.
+
+There is cause for optimism, though, as [Jarl Ulfric](Skyrim_Ulfric_Stormcloak.md) is not nearly so tolerant of these substandard beings as his fathers were. Indeed, the soft hand of [Hoag](Lore_Hoag_Stormcloak.md) can be seen in the cities *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* Argonian population as well; the fish-men, at least, have learned how to best contribute to their new home. They have proven themselves as models, toiling at the docks with utmost efficiency and bright smiles. It would do the dark elves well to pay heed to their scaly cousins. I would expect in due course that they will find themselves either contributing more directly or once again wandering the land in search of roof and warmth.

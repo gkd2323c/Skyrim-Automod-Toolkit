@@ -1,0 +1,40 @@
+# Lyg
+
+—Unknown<sup>[[UOL 1]](#cite_note-MKP-1)</sup> According to the teachings of [Mankar Camoran](Lore_Mankar_Camoran.md), Lyg was ruled by the [dreugh](https://en.uesp.net/wiki/Lore:Dreugh) in the [Dawn Era](Lore_Dawn_Era.md).<sup>[[1]](#cite_note-MDC4-2)</sup> The tyrannical dreugh-kings enslaved the "nineteen and nine and nine" oceans of Lyg and fought constant border wars among themselves.<sup>[[1]](#cite_note-MDC4-2)</sup> This correlates with the teachings of the [Tribunal Temple](Lore_Tribunal_Temple.md), which state that [Molag Bal](Lore_Molag_Bal.md) had served as the chief of the dreughs in a form that was "spiny and armored and made for the sea", the after-image of which was reborn in [Tamriel](Lore_Tamriel.md) and known as the [Ruddy Man](https://en.uesp.net/wiki/Lore:Ruddy_Man).<sup>[[2]](#cite_note-3)</sup>
+
+[Mehrunes Dagon](Lore_Mehrunes_Dagon.md) is said to have been created and imbued with hope by the [Magna Ge](https://en.uesp.net/wiki/Lore:Magna_Ge) in the bowels of Lyg. Dagon then raised a "red legion" in rebellion and destroyed the [Towers](Lore_The_Towers.md) of CHIM-EL GHARJYG, casting down its cities and destroying the continent. In this way, Dagon "freed" [Nirn](Lore_Nirn.md) from Creation.<sup>[[1]](#cite_note-MDC4-2)</sup> This story coincides with the teaching of pre-ri'Datta Khajiit Priest Amun-Dro, which states that before the creation of the world, the Demon Cat Dagon (also called Merrunz) fell to the Demon King Molagh within the Great Darkness, where he was imprisoned and tortured until the wife of Molagh freed Merrunz and used his destructive nature as a weapon to assault the Lattice.<sup>[[3]](#cite_note-4)</sup> Replicating this mythic event was the main goal of Camoran's [Oblivion Crisis](Lore_Oblivion_Crisis.md) in [3E 433](Lore_Third_Era.md#3E_433), when he succeeded in temporarily breaking [Akatosh](Lore_Akatosh.md)'s covenant, destroying the [Crystal Tower](Lore_Crystal_Tower.md), and bringing Dagon to [Tamriel](Lore_Tamriel.md).<sup>[[4]](#cite_note-5)</sup><sup>[[1]](#cite_note-MDC4-2)</sup><sup>[[5]](#cite_note-RT-6)</sup>
+
+## Metaphysics & Nature
+The exact nature of what exactly Lyg is or was is unclear. According to some sources, the destruction of Lyg took place in the prior [kalpa](Lore_Kalpa.md).<sup>[[6]](#cite_note-TNC-7)</sup><sup>[[UOL 2]](#cite_note-PGE2Con-8)</sup> Lyg has also been claimed to be one of the "[Adjacent Places](https://en.uesp.net/wiki/Lore:Adjacent_Place)", and a parallel version of Tamriel,<sup>[[UOL 3]](#cite_note-MKAMA-9)</sup> described as a mix of the last kalpa and the current one.<sup>[[UOL 2]](#cite_note-PGE2Con-8)</sup> The creation of Lyg tells of an event long ago when Nirn once became folded up in time and space, causing Tamriel to be imprinted on the other side of the world. As a result, Lyg appeared as a backwards version of Tamriel, akin to a coffee-stain, in a parallel dimension that is simultaneously on the opposite side of Nirn.<sup>[[UOL 1]](#cite_note-MKP-1)</sup><sup>[[UOL 4]](#cite_note-RM-10)</sup>
+
+The [Augur of the Obscure](https://en.uesp.net/wiki/Lore:Augur_of_the_Obscure) stated he had a different form in the Adjacent Place, and described the prior, better temperament of the dreugh. Additionally, he has mentioned something called a "lygosmotic dream-wave", which appears to be a compound word of "Lyg" and "Osmotic", the latter term referring to passage through a membrane. This, along with his particular disdain for Molag Bal, suggests he has visited or originally resided in Lyg.<sup>[[7]](#cite_note-Augur_of_the_Obscure-11)</sup> However, the Augur was regarded by the [Psijic Order](Lore_Psijic_Order.md) as a notorious liar when it was not being asked a direct question.<sup>[[8]](#cite_note-12)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/6c/ON-concept-Dagon_02.jpg/200px-ON-concept-Dagon_02.jpg)](https://en.uesp.net/wiki/File:ON-concept-Dagon_02.jpg) Depiction of Mehrunes Dagon's connection to the Magna Ge
+- [![](https://images.uesp.net/thumb/d/d7/MW-concept-15.jpg/200px-MW-concept-15.jpg)](https://en.uesp.net/wiki/File:MW-concept-15.jpg) The Ruddy Man in battle with Vivec
+- [![](https://images.uesp.net/thumb/1/15/ON-tribute-psijic-Augur%27s_Counsel.png/100px-ON-tribute-psijic-Augur%27s_Counsel.png)](https://en.uesp.net/wiki/File:ON-tribute-psijic-Augur%27s_Counsel.png) The Augur of the Obscure, a possible inhabitant
+
+## Notes
+- [*The Song of Pelinal*](https://en.uesp.net/wiki/Lore:The_Song_of_Pelinal) mentions the "World-River" of the previous [kalpa](Lore_Kalpa.md), where [Umaril the Unfeathered](https://en.uesp.net/wiki/Lore:Umaril_the_Unfeathered)'s divine father originated.<sup>[[9]](#cite_note-13)</sup>
+- *[The Nine Coruscations](https://en.uesp.net/wiki/Lore:The_Nine_Coruscations)* is a fragmentary collection of texts which mentions "the tragic prince of Lyg".<sup>[[10]](#cite_note-14)</sup> This could refer to Molag Bal or Mehrunes Dagon as both are heavily associated with the location.
+- According to an early [First Era](Lore_First_Era.md) document known as the Tract of [Merid-Nunda](https://en.uesp.net/wiki/Lore:Meridia), "[Xero-Lyg](https://en.uesp.net/wiki/Lore:Xero-Lyg)" is the name of a Magna Ge.<sup>[[11]](#cite_note-15)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-MDC4_2-0)***</sup><sup>***[b](#cite_ref-MDC4_2-1)***</sup><sup>***[c](#cite_ref-MDC4_2-2)***</sup><sup>***[d](#cite_ref-MDC4_2-3)***</sup> [*Mythic Dawn Commentaries 4*](https://en.uesp.net/wiki/Lore:Mythic_Dawn_Commentaries_4) — [Mankar Camoran](Lore_Books_by_Author.md#Mankar_Camoran)
+2. [^](#cite_ref-3) [*36 Lessons of Vivec, Sermon 28*](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_28) — [Vivec](Lore_Books_by_Author.md#Vivec)
+3. [^](#cite_ref-4) [*The Adversarial Spirits*](https://en.uesp.net/wiki/Lore:The_Adversarial_Spirits) — [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest
+4. [^](#cite_ref-5) [Main Quest](https://en.uesp.net/wiki/Oblivion:Main_Quest) of *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+5. [^](#cite_ref-RT_6-0) [*Rising Threat*](Lore_Rising_Threat.md) — [Lathenil of Sunhold](Lore_Books_by_Author.md#Lathenil_of_Sunhold)
+6. [^](#cite_ref-TNC_7-0) [*The Nine Coruscations*](https://en.uesp.net/wiki/Lore:The_Nine_Coruscations) — [Star-Queen Varalias](Lore_Books_by_Author.md#Star-Queen_Varalias)
+7. [^](#cite_ref-Augur_of_the_Obscure_11-0) [Augur of the Obscure](https://en.uesp.net/wiki/Online:Augur_of_the_Obscure)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-12) [Josajeh](https://en.uesp.net/wiki/Online:Josajeh)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-13) [*The Song of Pelinal, v 7*](https://en.uesp.net/wiki/Lore:The_Song_of_Pelinal,_v_7)
+10. [^](#cite_ref-14) [*The Nine Coruscations, Volume I*](https://en.uesp.net/wiki/Lore:The_Nine_Coruscations,_Volume_I) — [Star-Queen Varalias](Lore_Books_by_Author.md#Star-Queen_Varalias)
+11. [^](#cite_ref-15) [*Exegesis of Merid-Nunda*](https://en.uesp.net/wiki/Lore:Exegesis_of_Merid-Nunda) — [Phrastus of Elinhir](https://en.uesp.net/wiki/Lore:Phrastus_of_Elinhir)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-MKP_1-0)***</sup><sup>***[b](#cite_ref-MKP_1-1)***</sup> [*Michael Kirkbride's Posts*](https://en.uesp.net/wiki/General:Michael_Kirkbride%27s_Posts)
+2. ^ <sup>***[a](#cite_ref-PGE2Con_8-0)***</sup><sup>***[b](#cite_ref-PGE2Con_8-1)***</sup> [*Pocket Guide to the Empire, Second Edition/Conceptualization*](https://en.uesp.net/wiki/General:Pocket_Guide_to_the_Empire,_Second_Edition_Conceptualization), [3E 331](Lore_Third_Era.md#3E_331)
+3. [^](#cite_ref-MKAMA_9-0) [Michael Kirkbride r/teslore Ask Me Anything](https://en.uesp.net/wiki/General:Michael_Kirkbride_AMA)
+4. [^](#cite_ref-RM_10-0) [Michael Kirkbride - IRC Q&A Sessions](http://www.imperial-library.info/content/michael-kirkbride-irc-quotes), The Imperial Library

@@ -1,0 +1,19 @@
+# The Stormfist Clan
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Stormfist_Clan) |
+
+The Stormfist Clan **by [Thora Far-Wanderer](Lore_Books_by_Author.md#Thora_Far-Wanderer)** *The rise and fall of the Stormfist Clan*
+---
+The clans of the [Nords](Lore_Nord.md) spread across [Skyrim](Lore_Skyrim.md) like herds of [mammoths](Lore_Mammoth.md), though their numbers and influence upon the land are far greater. Each clan, however, makes its mark in a different way. Some clans are known for their hunting skills, or their forestry, or their crafting. Some clans are large, others small. Some take a prominent role in government and community. And then there are the dark clans. The clans no one deals with or even speaks of. One such clan is the infamous [Stormfists](Lore_Stormfist_Clan.md) of [Whiterun](Lore_Whiterun_Hold.md) [Tundra](Lore_Tundra_Plain.md).
+
+The clan traces its lineage to Ogra Stormfist, the powerful matriarch who founded the clan and ruled over it for almost fifty years. Highly regarded for their combat skills and armor crafting, the Stormfist clan played pivotal roles in numerous conflicts over the centuries, including the Battle of Whiterun Hold, the Massacre at Dialmarch, and the Siege of Windhelm. It was the last engagement, however, that led to the clan's fall from favor and marked it as anathema.
+
+Prior to the [Second Akaviri Invasion](Lore_Second_Akaviri_Invasion.md), [Fildgor Strong-Prince](Lore_Fildgor.md), son of Queen [Mabjaarn](Lore_Mabjaarn_Flame-Hair.md) of [Eastern Skyrim](Lore_Eastern_Skyrim.md), went on a pilgrimage to the west to see the land and meet the people. He fell in with young men and women from the Stormfist clan and forged friendships and bonds that would serve him well in the coming years. When Fildgor was ready to move on and perform his coming-of-age trials, an entourage of Stormfist clan members decided to go with him. They became known as the Stormfist Brigade, and even though he wasn't a member of the clan by birth, Fildgor became their de facto leader.
+
+If the Stormfist clan had a reputation prior to this, it paled in comparison to the legend that grew around the Stormfist Brigade. They were ferocious warriors, setting off for adventure in the most hostile and isolated areas of the kingdom. With Fildgor leading the way, they routed bandits, uncovered treasure, and slew monsters. When the [Akaviri](Lore_Akavir.md) invaders arrived in force, Fildgor led the Brigade into the thick of battle. They eventually fought their way to [Windhelm](Lore_Windhelm.md) to join forces with Queen Mabjaarn and the main army.
+
+Although they weren't able to stop the fall of Windhelm or save the queen, the Stormfist Brigade was nonetheless instrumental in helping to route the invading army. They marched as part of the combined Nord forces that eventually joined with the [Dark Elves](Lore_Dunmer.md) and [Argonians](Lore_Argonian.md) to defeat the Akaviri. But then the fateful decision was made. When Fildgor declared his intention to ascend the throne left empty by his sister [Nurnhilde](Lore_Nurnhilde.md)'s death, the Stormfist clan was among his most vocal backers. You know how that story ends. [Jorunn](Lore_Jorunn.md) and Fildgor met in single combat, and Jorunn won the throne. Fildgor was exiled, and he departed Skyrim with a promise to one day return.
+
+The Stormfist clan, loyal to Fildgor to the end, refused to bow before Jorunn or acknowledge his authority over them. They returned to their holdings to the west, and King Jorunn, tired of all the fighting, let them go. To this day, the Stormfist clan remains isolated, rarely venturing out of its domain or taking part in the larger Nord community. What will happen if the clan ever decides to leave its tundra-lands and reassert its place among the other clans is anyone's guess. Especially if Fildgor ever makes good on his promise.

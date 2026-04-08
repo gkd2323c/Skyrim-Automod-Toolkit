@@ -1,0 +1,21 @@
+# The Song of Pelinal, v3
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book4a.png) Book Information <br> *The Song of Pelinal, v3* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01AF8C | | |
+| See Also | [Lore version](Lore_The_Song_of_Pelinal,_v_3.md) | | |
+| Up | *[The Song of Pelinal](Skyrim_The_Song_of_Pelinal.md)* | | |
+| Prev. | *[Volume 2](Skyrim_The_Song_of_Pelinal,_v2.md)* | Next | *[Volume 4](Skyrim_The_Song_of_Pelinal,_v4.md)* |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 5 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 2 | | |
+| Writer | [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) | | |
+| Locations | | | |
+| Found in the following locations: - [Temple of the Divines](Skyrim_Temple_of_the_Divines.md), in an open crate to the right of the benches that face the shrines | | | |
+
+[The Song of Pelinal](Skyrim_The_Song_of_Pelinal.md)
+Volume 3: On His Enemy *A description of Pelinal's mortal enemy, Umaril the Unfeathered* *
+---
+*[Editor's Note: Volumes 1-6 are taken from the so-called Reman Manuscript located in the Imperial Library. It is a transcription of older fragments collected by an unknown scholar of the early [Second Era](Lore_Second_Era.md). Beyond this, little is known of the original sources of these fragments, some of which appear to be from the same period (perhaps even from the same manuscript). But, as no scholarly consensus yet exists on dating these six fragments, no opinions will be offered here.]*
+
+[![P](https://images.uesp.net/thumb/b/b4/P_letter.png/38px-P_letter.png)
+elinal Whitestrake](Lore_Pelinal_Whitestrake.md) was the enemy of all [elfkind](Lore_Mer.md) that lived in [Cyrod](Lore_Cyrodiil.md) in those days. Mainly, though, he took it upon himself to slay the sorcerer-kings of the [Ayleids](Lore_Ayleids.md) in pre-arranged open combats rather than at war; the fields of [rebellion](Lore_Alessian_Slave_Rebellion.md) he left to the growing armies of the [Paravania](Lore_Alessia.md) and his [bull nephew](Lore_Morihaus.md). Pelinal called out [Haromir](Lore_Haromir.md) of Copper and Tea into a duel at the [Tor](Lore_Sancre_Tor.md), and ate his neck-veins while screaming praise to [Reman](Lore_Reman.md), a name that no one knew yet. [Gordhaur](Lore_Gordhaur.md) the Shaper's head was smashed upon the goat-faced altar of [Ninendava](Lore_Ninendava.md), and in his wisdom Pelinal said a small plague spell to keep that evil from reforming by [welkynd-magic](Skyrim_Welkynd_Stone.md). Later that season, Pelinal slew [Hadhuul](Lore_Hadhuul.md) on the granite steps of [Ceya-Tar](Lore_Ceyatatar.md), the Fire King's spears knowing their first refute. For a time, no [weapon](Lore_Weapons.md) of the Ayleids could pierce his armor, which Pelinal admitted was unlike any crafted by men, but would say no more even when pressed. When [Huna](Lore_Huna.md), whom Pelinal raised from grain-slave to hoplite and loved well, took death from an arrowhead made from the beak of Celethelel the Singer, the Whitestrake went on his first Madness. He wrought destruction from Narlemae all the way to Celediil, and erased those lands from the maps of Elves and Men, and all things in them, and Perrif was forced to make sacrifice to the [Gods](Lore_Aedra.md) to keep them from leaving the earth in their disgust. And then came the storming of [White-Gold](Skyrim_White-Gold_Tower.md), where the Ayleids had made pact with the [Aurorans](Lore_Auroran.md) of [Meridia](Skyrim_Meridia.md), and summoned them, and appointed the terrible and golden-hued "half-Elf" [Umaril the Unfeathered](Lore_Umaril_the_Unfeathered.md) as their champion… and, for the first time since his coming, it was Pelinal who was called out to battle by another, for Umaril had the blood of the ['ada](Lore_Ada.md) and would never know death.

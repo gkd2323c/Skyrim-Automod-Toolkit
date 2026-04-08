@@ -1,0 +1,19 @@
+# The Blackwater War, Volume 6
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Blackwater_War,_Volume_6) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[The Blackwater War](Lore_The_Blackwater_War.md)* | | |
+| Prev. | *[Volume 5](Lore_The_Blackwater_War,_Volume_5.md)* | Next | *[Volume 7](Lore_The_Blackwater_War,_Volume_7.md)* |
+
+The Blackwater War, Volume 6 **by [Valenca Arvina](Lore_Books_by_Author.md#Valenca_Arvina), Historian-in-Residence at [Gwylim University](Lore_Gwylim_University.md)** *A historical account of Black Marsh's annexation as an Imperial Province*
+---
+Sardecus' command strategy hinged on one fundamental principle—the swamp was the true enemy, not the [Argonians](Lore_Argonian.md). Disease accounted for roughly half of all fatalities in the first campaign, followed closely by mysterious disappearances. By his estimation, Argonian raids stood at a distant third. With these facts in mind, he created a new war doctrine and disseminated it to all of his officers. The crux of the strategy was simple: the only way to conquer [Black Marsh](Lore_Black_Marsh.md) was to destroy it.
+
+Sardecus deployed entire cohorts of engineers and sappers to the front lines. While legionnaires launched punishing raids on border villages, the supporting troops drained swamps, salted rice paddies, and felled hundreds of trees. The most well-known event of this portion of the war was the "Great Burn" of [1E 2828](Lore_First_Era.md#1E_2828).
+
+Records indicate that in early Rain's Hand 1E 2828, Elissia Mallicius (one of Sardecus' most-trusted legates) ordered a unit of sappers to set fire to a peat bog outside of [Stormhold](Lore_Stormhold.md). The sappers did as they were told, not knowing that the bog was just one part of a massive underground network. Months passed before legionnaires started reporting random fires as far away as [Soulrest](Lore_Soulrest.md) and [Gideon](Lore_Gideon.md). It took several more months before the Legion realized that the entire region was on fire.
+
+An inferno of burning peat and detritus raged underfoot for more than three years. The already deadly Marsh became so dangerous that the [Legion](Lore_Imperial_Legion.md) was forced to give ground for the first time in the better part of a decade. Choking fumes and thundering eruptions of burning swamp gas made the area nearly uninhabitable, even for Argonians. Hundreds of species of unique flora and fauna were rendered extinct, and entire tribes of Argonians were lost. Even the Legion suffered significant casualties. Hundreds of soldiers were lost to "swamp lung" and gas explosions before they escaped the scalding heat of the fire. It was a devastating blow to both the Legion and the Argonians. This marked the end of the second campaign, and the end of Sardecus' tenure as general. Soon after the legion's retreat, he fell ill and passed to [Aetherius](Lore_Aetherius.md) before making it back to [Imperial City](Lore_Imperial_City.md). The official diagnosis was acute infection from a wound he sustained on the way out of the Marsh. The soldiers of the Legion weren't so sure.
+
+The true circumstances of Sardecus' death are still a matter of historical debate. As for me, I do not rule out [Shadowscale](Lore_Shadowscales.md) involvement. While we know next to nothing about their organization or methodology, I think that we can safely assume they played some role in the conflict. The mysterious death of a high-ranking general directly following a disaster like the Great Burn …. If my study of history has taught me anything, it's that there is no such thing as coincidence.

@@ -1,0 +1,15 @@
+# The Bleak Veil Endures
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Bleak_Veil_Endures)<sup>([DLC](https://en.uesp.net/wiki/Online:DLC#Thieves_Guild))</sup> |
+
+The Bleak Veil Endures **by [Magnifico Bahraha](https://en.uesp.net/wiki/Online:Magnifico_Bahraha)** *The last words of a powerful necromancer*
+---
+Despite the actions of my inept nephew, the [Bleak Veil](https://en.uesp.net/wiki/Lore:Bleak_Veil) not only lives, it endures! This isolated land, far from peering eyes, with its abundant resources and safe harbor, was the perfect place to relocate my [necromantic](Lore_Necromancy.md) cult after the troubles back in [Hammerfell](Lore_Hammerfell.md). It was an easy matter to convince the weak-minded [Hubalajad](Lore_Hubalajad.md) to construct the family tomb to my specifications, making it a perfect conduit from necrotic energy. We were a single ritual away from attaining ultimate power!
+
+My nephew somehow gleaned to what I was actually doing in the royal tomb and, despite his usual predilection for inactivity, he decided to take action. He locked me and my followers in the very tomb I designed and helped construct! A set-back, to be certain, but far from the disaster it could have been. Yes, it appears that the prince was able to gather a few powerful priests to seal the tomb in such a way as our necrotic energy is unable to set us free. And yes, the small amount of food and water we brought with us has long since run out. But no matter. The Bleak Veil is about to become more powerful than my nephew or his allies can even imagine!
+
+However, just in case something goes wrong, I want to make sure that the truth concerning the Bleak Veil is not lost to the passage of time. I am Magnifico Bahraha, scion of [Sentinel](Lore_Sentinel.md) and supreme necromancer of the cult of undeath known only as the Bleak Veil. I have spent years perfecting my art and collecting students and followers. We remained hidden, biding our time even as our power grew. The desolate land beyond [Abah's Landing](Lore_Abah%27s_Landing.md) was the perfect place to gather our forces and conduct our rituals of death and darkness. This tomb, with its specially designed chambers and corridors, will focus the energy to make my cultists invincible! And of all the members of the Bleak Veil, I will be the strongest one of all!
+
+Of course, we must conduct the ritual before we all die of thirst or starvation. And sacrifices will need to be made. We can't very well send out for sacrificial victims while we're trapped inside the tomb. So, straws will have to be drawn to determine which of our members will die so that the rest of us can transcend into undeath. It will be glorious! And these are the last words I will write on the subject while life still beats within my body. When next we meet, I will either be dead—or, the darkness willing, something even better.

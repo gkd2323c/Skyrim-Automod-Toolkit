@@ -1,0 +1,23 @@
+# Darkest Darkness
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Darkest_Darkness) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:Darkest_Darkness) <br> - [Skyrim](Skyrim_Darkest_Darkness.md) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Darkest_Darkness) |
+
+Darkest Darkness *A description of various Daedra*
+---
+In [Morrowind](Lore_Morrowind.md), both worshippers and sorcerers [summon](Lore_Conjuration.md) lesser [Daedra](Lore_Daedra.md) and bound Daedra as servants and instruments.
+
+Most Daedric servants can be summoned by sorcerers only for very brief periods, within the most fragile and tenuous frameworks of command and binding. This fortunately limits their capacity for mischief, though in only a few minutes, most of these servants can do terrible harm to their summoners as well as their enemies.
+
+Worshippers may bind other Daedric servants to this plane through rituals and pacts. Such arrangements result in the Daedric servant remaining on this plane indefinitely -- or at least until their bodily manifestations on this plane are destroyed, precipitating their supernatural essences back to [Oblivion](Lore_Oblivion.md). Whenever Daedra are encountered at Daedric ruins or in tombs, they are almost invariably long-term visitors to our plane.
+
+Likewise, lesser entities bound by their Daedra Lords into weapons and armor may be summoned for brief periods, or may persist indefinitely, so long as they are not destroyed and banished. The class of [bound weapons and bound armors](Lore_Bound_Items.md) summoned by [Temple](Lore_Tribunal_Temple.md) followers and conjurors are examples of short-term bindings; Daedric artifacts like [Mehrunes Razor](Lore_Mehrunes%27_Razor.md) and the [Mask of Clavicus Vile](Lore_Masque_of_Clavicus_Vile.md) are examples of long-term bindings.
+
+The Tribunal Temple of Morrowind has incorporated the veneration of Daedra as lesser spirits subservient to the immortal [Almsivi](Lore_Almsivi.md), the Triune [godhead](Lore_Godhead.md) of [Almalexia](Lore_Almalexia.md), [Sotha Sil](Lore_Sotha_Sil.md), and [Vivec](Lore_Vivec_(god).md). These subordinate Daedra are divided into the Good Daedra and the Bad Daedra. The Good Daedra have willingly submitted to the authority of Almsivi; the Bad Daedra are rebels who defy Almsivi -- treacherous kin who are more often adversaries than allies.
+
+The Good Daedra are [Boethiah](Lore_Boethiah.md), [Azura](Lore_Azura.md), and [Mephala](Lore_Mephala.md). The [hunger](Lore_Hunger.md) is a powerful and violent lesser Daedra associated with Boethiah, Father of Plots -- a sinuous, long-limbed, long-tailed creature with a beast-skulled head, noted for its paralyzing touch and its ability to disintegrate weapons and armor. The [winged twilight](Lore_Winged_Twilight.md) is a messenger of Azura, Goddess of Dusk and Dawn. Winged twilights resemble the feral harpies of the West, though the feminine aspects of the winged twilights are more ravishing, and their long, sharp, hooked tails are immeasurably more deadly. [Spider Daedra](Lore_Spider_Daedra.md) are the servants of Mephala, taking the form of spider-humanoid centaurs, with a naked upper head, torso, and arms of human proportions, mounted on the eight legs and armored carapace of a giant spider. Unfortunately, these Daedra are so fierce and irrational that they cannot be trusted to heed the commands of the Spinner. As a consequence, few sorcerers are willing to either summon or bind such creatures in Morrowind.
+
+The Bad Daedra are [Mehrunes Dagon](Lore_Mehrunes_Dagon.md), [Malacath](Lore_Malacath.md), [Sheogorath](Lore_Sheogorath.md), and [Molag Bal](Lore_Molag_Bal.md). Three lesser Daedra are associated with Mehrunes Dagon: the agile and pesky [scamp](Lore_Scamp.md), the ferocious and beast-like [clannfear](Lore_Clannfear.md), and the noble and deadly [dremora](Lore_Dremora.md). The crocodile-headed humanoid Daedra called the [daedroth](Lore_Daedroth.md) is a servant of Molag Bal, while the giant but dim-witted [ogrim](Lore_Ogrim.md) is a servant of Malacath. Sheogorath's lesser Daedra, the [golden saint](Lore_Golden_Saint.md), a half-clothed human female in appearance, is highly resistant to magic and a dangerous spellcaster.
+
+Another type of lesser Daedra often encountered in Morrowind is the [Atronach](Lore_Elemental_Daedra.md), or Elemental Daedra. Atronachs have no binding kinship or alignments with the Daedra Lords, serving one realm or another at whim, shifting sides according to seduction, compulsion, or opportunity.

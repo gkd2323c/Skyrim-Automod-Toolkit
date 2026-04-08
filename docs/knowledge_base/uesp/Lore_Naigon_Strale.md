@@ -1,0 +1,24 @@
+# Naigon Strale
+
+| Ambassador Lord Naigon Strale | | | |
+| --- | --- | --- | --- |
+| Race | [Man](Lore_Man.md) | Gender | Male |
+| Born | [Third Era](Lore_Era.md#Third_Era) | | |
+| Resided in | [Iliac Bay](Lore_Iliac_Bay.md) <br> [Imperial City](Lore_Imperial_City.md) | | |
+
+Lord Naigon Strale was the [Emperor](Lore_Uriel_VII.md)'s Ambassador and an [Imperial Commanding Officer](Lore_Imperial_Legion.md) stationed in [Wayrest](Lore_Wayrest_(kingdom).md) circa [3E 417](Lore_Third_Era.md#3E_417) (around the time of the [Warp in the West](Lore_Warp_in_the_West.md)).<sup>[[1]](#cite_note-TWITW-1)</sup><sup>[[2]](#cite_note-MOT-2)</sup>
+
+## History
+
+### Restoration of Princess Talara of Camlorn
+[Lord Strale was] a stocky, well-dressed young man with a bald pate and a commanding presence of authority.
+— *[Mystery of Talara](Lore_Mystery_of_Talara.md)* by [Mera Llykith](Lore_Books_by_Author.md#Mera_Llykith)<sup>[[2]](#cite_note-MOT-2)</sup> Lord Strale was featured in a series of historical fiction novels called *[Mystery of Talara](Lore_Mystery_of_Talara.md)*, written by [Mera Llykith](Lore_Books_by_Author.md#Mera_Llykith) and set around the year [3E 405](Lore_Third_Era.md#3E_405), in which Strale is an important character who helps unravel a conspiracy around the Camlorn's rulers with Lady [Brisienna Magnessen](Lore_Brisienna_Magnessen.md) of the [Blades](Lore_Blades.md), culminating in the restoration of the Princess Talara to her rightful throne. Talara had been been usurped by her uncle (the Duke of Oloine) and her aunt, who had removed her father, the King of Calmorn, from power, and stolen the throne for themselves in cooperation with [Jagar Tharn](Lore_Jagar_Tharn.md) some twenty years ago in [3E 385](Lore_Third_Era.md#3E_385).<sup>[[2]](#cite_note-MOT-2)</sup> Additionally, Strale was described as having had an [Orcish](Lore_Orc.md) manservant named Gnorbooth, who died during the kerfuffle.<sup>[[2]](#cite_note-MOT-2)</sup>
+
+### Warp in the West
+Lord Naigon Strale was sent at the behest of the Emperor to be his ambassador in the Court of [Wayrest](Lore_Wayrest_(kingdom).md), at the time ruled by King [Eadwyre](Lore_Eadwyre.md) and Queen [Barenziah](Lore_Barenziah.md) in [3E 417](Lore_Third_Era.md#3E_417). From there, he would rendezvous with another agent on the scene, Lady [Brisienna Magnessen](Lore_Brisienna.md). On the morning of the 9th of [Frostfall](Lore_Frostfall.md), Lord Strale traveled down the [Bjoulsae River](Lore_Bjoulsae_River.md) on an Imperial barge. After he passed the fishing village, Candlemass, a large tidal wave had smashed onto his barge and he washed ashore. From there, he made a week long trek toward the [capital city](Lore_Wayrest.md) as the land around him was engulfed in unbridled warfare. By the time he reached Wayrest, the King was celebrating his victories and his domain had expanded three-fold from the windy glades of [Anticlere](Lore_Anticlere.md), to the flooded plains of [Gavaudon](Lore_Gavaudon_(fiefdom).md), all in just two days.<sup>[[1]](#cite_note-TWITW-1)</sup>
+
+Naigon was determined to know how the King was able to conquer so much in such a short time, but Eadwyre had brazenly refused to answer. Queen Barenziah did not divulge much information either, but enough for a basis. From what Strale had gathered from the other kingdoms, which was then verified with her story, he learned that an [adventurer](Lore_Agent.md) had a powerful [weapon](Lore_Totem_of_Tiber_Septim.md) in their possession and that the King tried to buy it from them, much like the other monarchs. Then on the 9th of Frostfall, the three other kingdoms waged war with Wayrest, and the King barely had time to register the situation and reacted justly by retaliating. Historians have dubbed the event the Warp in the West and as Naigon Strale returned to the [Imperial City](Lore_Imperial_City.md) months later, he submitted his report to the Blades Archivist, Ulvius Tero, who then compiled other similar reports into a book, *[The Warp in the West](Lore_The_Warp_in_the_West.md)*, which had been prepared for the new Imperial Ambassador to Wayrest (who was seemingly replacing Strale).<sup>[[1]](#cite_note-TWITW-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TWITW_1-0)***</sup><sup>***[b](#cite_ref-TWITW_1-1)***</sup><sup>***[c](#cite_ref-TWITW_1-2)***</sup> [*The Warp in the West*](Lore_The_Warp_in_the_West.md) — [Ulvius Tero](Lore_Books_by_Author.md#Ulvius_Tero)
+2. ^ <sup>***[a](#cite_ref-MOT_2-0)***</sup><sup>***[b](#cite_ref-MOT_2-1)***</sup><sup>***[c](#cite_ref-MOT_2-2)***</sup><sup>***[d](#cite_ref-MOT_2-3)***</sup> [*Mystery of Talara*](Lore_Mystery_of_Talara.md) — [Mera Llykith](Lore_Books_by_Author.md#Mera_Llykith)

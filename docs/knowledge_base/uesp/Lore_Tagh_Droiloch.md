@@ -1,0 +1,39 @@
+# Tagh Droiloch
+
+[![](https://images.uesp.net/thumb/7/7c/ON-trailer-Deadlands_and_Damnation_Tagh_Droiloch.jpg/200px-ON-trailer-Deadlands_and_Damnation_Tagh_Droiloch.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation_Tagh_Droiloch.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation_Tagh_Droiloch.jpg) Tagh Droiloch The Tagh Droiloch (meaning **High Dark Wizards** in [Reach-tongue](Lore_Reach-tongue.md)) were a secretive Reachfolk coven made up exclusively of witch-men, not [witches](Lore_Witches.md), which is a rare practice among the Reachfolk. They specialized in conjuration magic and commanding [Daedra](Lore_Daedra.md). The coven of witch-men exerted power over the Reach in secret during the [Interregnum](Lore_Interregnum.md) and were responsible for [Durcorach](Lore_Durcorach.md)'s rise to power.<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/05/ON-trailer-Deadlands_and_Damnation-Durcorach.jpg/200px-ON-trailer-Deadlands_and_Damnation-Durcorach.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation-Durcorach.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation-Durcorach.jpg) Durcorach the Black Drake, ally of the Tagh Droiloch The Tagh Droiloch is believed to have formed around [2E 516](Lore_Second_Era.md#2E_516). The coven was formed in the wilderness of the Reach.<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+The Tagh Droiloch were responsible for dissolving several rival covens and over time made themselves the secret masters of the Reach. For years, the Tagh Droiloch preferred to act from behind the scenes and were content to bide their time, allowing the dread of their name and whispers of their displeasure to govern the unruly Reach for them.<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+[![](https://images.uesp.net/thumb/7/74/ON-trailer-Deadlands_and_Damnation_Four_Ambitions.jpg/200px-ON-trailer-Deadlands_and_Damnation_Four_Ambitions.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation_Four_Ambitions.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-Deadlands_and_Damnation_Four_Ambitions.jpg) Symbols of the Four Ambitions The strategy of the Tagh Droiloch changed once the right opportunity arose. In [2E 527](Lore_Second_Era.md#2E_527), an exceptionally strong and cunning Reachfolk chieftain by the name of Durcorach the Black Drake began building a following in the Reach. He soon was noticed by the witch-men of the Tagh Droiloch. The Coven decided to ally with the promising warlord and Durcorach accepted the offer. Together, the Tagh Droiloch and Durcorach were able to subdue all the rival clans of the Reach through means involving Daedric bargains.<sup>[[1]](#cite_note-HCP:TTD-1)</sup><sup>[[2]](#cite_note-TBDFW-2)</sup> By [2E 528](Lore_Second_Era.md#2E_528), Durcorach had become a warlord in command of two thousand soldiers, which rose to ten thousand by [2E 529](Lore_Second_Era.md#2E_529).<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+The Tagh Droiloch was known to use asp oil and soot to create a special war paint used by the Black Drake and warriors loyal to his cause. It is known that whenever they applied the soot mixture, the warriors would fall into a battle frenzy.<sup>[[2]](#cite_note-TBDFW-2)</sup>
+
+The Tagh Droiloch assisted Durcorach with making deals with various Daedric entities to increase and solidify his power.<sup>[[3]](#cite_note-SHOTLE-3)</sup> A deal was struck with [Mehrunes Dagon](Lore_Mehrunes_Dagon.md) to have Durcorach crowned, with his sorcerers performing countless tasks in wait for the day when the "final part of the arrangement" would be carried out and Dagon would "claim his due" with the [Four Ambitions](Lore_Four_Ambitions.md).<sup>[[4]](#cite_note-ADi S-4)</sup> With years of preparation, Durcorach summoned a great horde of Reach warriors, many times more numerous than ten thousand,<sup>[[1]](#cite_note-HCP:TTD-1)</sup> and descended upon Cyrodiil in [2E 533](Lore_Second_Era.md#2E_533), seizing the Ruby Throne and founding a new imperial dynasty known as the [Longhouse Emperors](Lore_Longhouse_Emperors.md).<sup>[[5]](#cite_note-Ho M:ASo S-5)</sup>
+
+Soon afterward, the Tagh Droiloch disappeared from the public. Their numbers, status, and further objectives as of [2E 536](Lore_Second_Era.md#2E_536) were unknown.<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+The grandson of Durcorach, Emperor [Leovic](Lore_Leovic.md), who was crowned in [2E 564](Lore_Second_Era.md#2E_564),<sup>[[3]](#cite_note-SHOTLE-3)</sup> was considered the scion of the Tagh Droiloch.<sup>[[6]](#cite_note-COTFC5-6)</sup> However, his witch coven advisory body consisted of another group known as the [Icereach Coven](Lore_Icereach_Coven.md).<sup>[[7]](#cite_note-ONTayfaern-7)</sup><sup>[[8]](#cite_note-ONArvnir-8)</sup>
+
+## Speculated Members
+It is suspected that some of the original members of Tagh Droiloch were the most trusted sorcerers serving Emperor Durcorach. Three names of the suspected members of the hidden coven were known.<sup>[[1]](#cite_note-HCP:TTD-1)</sup>
+
+- [Baarselg](https://en.uesp.net/wiki/Lore:Baarselg)
+- [Faoshor](https://en.uesp.net/wiki/Lore:Faoshor)
+- [Old Wunagh](https://en.uesp.net/wiki/Lore:Wunagh)
+
+## Books
+- ***[High Chancellor's Papers: The Tagh Droiloch](https://en.uesp.net/wiki/Lore:High_Chancellor%27s_Papers__The_Tagh_Droiloch)*** by [Abnur Tharn](Lore_Books_by_Author.md#Abnur_Tharn) — Abnur Tharn's notes on an infamous coven of Reach witch-men
+- ***[Secret History of the Longhouse Emperors](https://en.uesp.net/wiki/Lore:Secret_History_of_the_Longhouse_Emperors)*** by [Councilor Vandacia](Lore_Books_by_Author.md#High_Priest_Vandacia) — A brief history of the Longhouse Emperors
+
+## References
+1. ^ <sup>***[a](#cite_ref-HCP:TTD_1-0)***</sup><sup>***[b](#cite_ref-HCP:TTD_1-1)***</sup><sup>***[c](#cite_ref-HCP:TTD_1-2)***</sup><sup>***[d](#cite_ref-HCP:TTD_1-3)***</sup><sup>***[e](#cite_ref-HCP:TTD_1-4)***</sup><sup>***[f](#cite_ref-HCP:TTD_1-5)***</sup><sup>***[g](#cite_ref-HCP:TTD_1-6)***</sup><sup>***[h](#cite_ref-HCP:TTD_1-7)***</sup> [*High Chancellor's Papers: The Tagh Droiloch*](https://en.uesp.net/wiki/Lore:High_Chancellor%27s_Papers__The_Tagh_Droiloch) — [Abnur Tharn](Lore_Books_by_Author.md#Abnur_Tharn)
+2. ^ <sup>***[a](#cite_ref-TBDFW_2-0)***</sup><sup>***[b](#cite_ref-TBDFW_2-1)***</sup> [The Black Drake's Face Warpaint](https://en.uesp.net/wiki/Online:The_Black_Drake%27s_Face_Warpaint)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-SHOTLE_3-0)***</sup><sup>***[b](#cite_ref-SHOTLE_3-1)***</sup> [*Secret History of the Longhouse Emperors*](https://en.uesp.net/wiki/Lore:Secret_History_of_the_Longhouse_Emperors) — [Councilor Vandacia](Lore_Books_by_Author.md#High_Priest_Vandacia)
+4. [^](#cite_ref-ADi S_4-0) [*A Deal is Struck*](https://en.uesp.net/wiki/Online:A_Deal_is_Struck)
+5. [^](#cite_ref-Ho M:ASo S_5-0) [*History of Markarth: A Story in Stone*](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator
+6. [^](#cite_ref-COTFC5_6-0) [*Chronicles of the Five Companions 5*](Lore_Chronicles_of_the_Five_Companions_5.md) — [Abnur Tharn](Lore_Books_by_Author.md#Lord_Abnur_Tharn)
+7. [^](#cite_ref-ONTayfaern_7-0) [Tayfaern](https://en.uesp.net/wiki/Online:Tayfaern)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+8. [^](#cite_ref-ONArvnir_8-0) [Arvnir](https://en.uesp.net/wiki/Online:Arvnir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Harrowstorm](https://en.uesp.net/wiki/Online:Harrowstorm)*

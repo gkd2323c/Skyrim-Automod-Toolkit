@@ -1,0 +1,17 @@
+# The Footsteps of Shezarr
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Footsteps_of_Shezarr) ([Gold Road](https://en.uesp.net/wiki/Online:Gold_Road)) |
+
+The Footsteps of Shezarr **by [Sister Priscia Stolvo](Lore_Books_by_Author.md#Sister_Priscia_Stolvo)** *A look at mentions of Shezarr in Nedic oral traditions*
+---
+[Demigods](Lore_Demigod.md) such as [Pelinal Whitestrake](Lore_Pelinal_Whitestrake.md) or [Morihaus](Lore_Morihaus.md) the Winged Bull were not the first divine aid [Men](Lore_Man.md) received in their struggle against the [Ayleids](Lore_Ayleid.md). The myths of [Shor](Lore_Shor.md)'s campaigns to claim a place for [Men](Lore_Atmoran.md) in [Atmora](Lore_Atmora.md) are well known to scholars. But less well known are Shor's deeds in [Tamriel](Lore_Tamriel.md) afterward. A careful examination of [Nedic](Lore_Nedic.md) oral traditions, documented haphazardly in the oldest [Imperial](Lore_Imperial.md) texts, traces the outlines of a fascinating (if mostly forgotten) tale.
+
+In the Middle [Merethic Era](Lore_Merethic_Era.md), the [Mer](Lore_Mer.md) who would become the Ayleids left [Summerset](Lore_Summerset_Isles.md) to carve out new realms for themselves in Tamriel. More advanced in both warmaking and the uses of [magicka](Lore_Magic.md) than the [Nedic peoples](Lore_Nede.md) who already lived there, at first they easily subjugated or drove away their new neighbors. But slowly, the divided Nedes began to resist the Ayleid advances.
+
+Time and again in Nedic folklore, a "stranger" arrives to help ancient Men. This stranger comes as a teacher, an advisor, and a maker of alliances between tribes who otherwise would have fought alone. He is not a warrior-ruler like Shor, but instead a figure who inspires others to fight for themselves.
+
+A [Duraki](Lore_Duraki.md) legend mentions "[Shezarr](Lore_Shezarr.md), who stole stoneworking from the [Dwemer](Lore_Dwemer.md) and taught [Zinfara](https://en.uesp.net/wiki/Lore:Zinfara) to call [nirncrux](Lore_Nirncrux.md) from the mountain-roots." A [Perena](Lore_Perena.md) tale claims that the [Cult of Stars](Lore_Cult_of_the_Stars.md) learned [soul magic](Lore_Soul_Magic.md) from a "white-bearded stranger." Likewise, "Shezarr of the Snowy Beard" is said to give the secrets of Ayleid battle-magic to the Nedes of [Cyrod](Lore_Cyrod.md), showing them how to turn their enemies' arts against them. And, most fascinating of all, a stone tablet said to have been found in the ruins of [Sedor](Lore_Sedor.md) depicts a bearded figure as "the [Shezzarine](Lore_Shezarrine.md), Shor-Who-Lives, Teacher of Men."
+
+Taken together, it seems these disparate tales show that Shezarr inspired many different tribes to resist Ayleid oppression. Yet the later Nedic sagas do not mention the wise stranger. Whatever part Shezarr—or Shor, in the guise of a teacher instead of a warrior—played in those days came to an end in the middle of the Merethic Era. But the ember of hope he gave to ancient Men sustained them through centuries of enslavement by the [Ayleid Empire](Lore_Ayleid_Empire.md), until it at last blazed once again to inspire [Saint Alessia](Lore_Alessia.md)'s [rebellion](Lore_Alessian_Slave_Rebellion.md).

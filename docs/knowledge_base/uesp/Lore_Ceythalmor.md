@@ -1,0 +1,19 @@
+# Ceythalmor
+
+[![](https://images.uesp.net/thumb/4/42/ON-place-Dusk_Keep.jpg/200px-ON-place-Dusk_Keep.jpg)](https://en.uesp.net/wiki/File:ON-place-Dusk_Keep.jpg) [](https://en.uesp.net/wiki/File:ON-place-Dusk_Keep.jpg) Dusk Keep, headquarters of the Ceythalmor [![](https://images.uesp.net/thumb/c/cb/ON-npc-Interrogator_Anorel.jpg/200px-ON-npc-Interrogator_Anorel.jpg)](https://en.uesp.net/wiki/File:ON-npc-Interrogator_Anorel.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Interrogator_Anorel.jpg) A Ceythalmor operative The Ceythalmor ("Shadow Thalmor" in old [Ayleidoon](Lore_Ayleidoon.md)) were a sub-faction found within the greater [Thalmor](Lore_Thalmor.md) ranks during the [Second Era](Lore_Second_Era.md). They were part of the Canonreeves, merchants, and nobles that made up the Thalmor of the [First Dominion](Lore_Aldmeri_Dominion.md). Not only were they war profiteers making coin off the [Three Banners War](Lore_Three_Banners_War.md), but they were also trying to get the Aldmeri Dominion as close to "perfection" as possible and to create a "perfect Dominion". It is said they wanted to change the world. They were linked to the [Veiled Heritance](Lore_Veiled_Heritance.md), another faction promoting elven supremacy.<sup>[[1]](#cite_note-Tanlorin-1)</sup><sup>[[2]](#cite_note-Wisteria-2)</sup>
+
+The Ceythalmor had conflicts with another clandestine group, the Garland Ring, a ring of spies that tried to root out corruption in the Dominion. Their secret war killed many Garland Ring members, but eventually, the Ring managed to stop the Ceythalmor when they attempted a coup in order to assassinate the [Proxy Queen Alwinarwe](Lore_Alwinarwe.md), and have her replaced with another cousin of [Queen Ayrenn](Lore_Ayrenn.md), carefully selected from the Thalmor's inner circle and ready to stake his claim. The Ceythalmor believed the Proxy Queen embodied everything wrong with the Aldmeri Dominion, an ineffectual puppet ruler unwilling to use her power to end the Three Banners War once and for all.<sup>[[3]](#cite_note-TSOL-3)</sup><sup>[[2]](#cite_note-Wisteria-2)</sup><sup>[[1]](#cite_note-Tanlorin-1)</sup>
+
+The Ceythalmor made their bases in ancient Ayleid ruins, and their secret lairs were marked with red banners.<sup>[[4]](#cite_note-CMO-4)</sup> Their primary headquarters was located in [Dusk](Lore_Dusk.md) Keep, where all agents were recalled to execute their mission of assassinating the Proxy Queen.<sup>[[5]](#cite_note-CRO-5)</sup>
+
+The Ceythalmor's motto was "March Forward Toward Perfection".<sup>[[6]](#cite_note-6)</sup><sup>[[7]](#cite_note-7)</sup><sup>[[8]](#cite_note-8)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Tanlorin_1-0)***</sup><sup>***[b](#cite_ref-Tanlorin_1-1)***</sup> [Tanlorin](https://en.uesp.net/wiki/Online:Tanlorin)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Wisteria_2-0)***</sup><sup>***[b](#cite_ref-Wisteria_2-1)***</sup> [Wisteria](https://en.uesp.net/wiki/Online:Wisteria)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TSOL_3-0) [*The Strike on Alinor*](https://en.uesp.net/wiki/Online:The_Strike_on_Alinor)
+4. [^](#cite_ref-CMO_4-0) [*Ceythalmor Mission Orders*](https://en.uesp.net/wiki/Online:Ceythalmor_Mission_Orders)
+5. [^](#cite_ref-CRO_5-0) [*Ceythalmor Relocation Orders*](https://en.uesp.net/wiki/Online:Ceythalmor_Relocation_Orders)
+6. [^](#cite_ref-6) [*Auridon Target Brief*](https://en.uesp.net/wiki/Online:Auridon_Target_Brief)
+7. [^](#cite_ref-7) [*Ceythalmor Captain's Journal*](https://en.uesp.net/wiki/Online:Ceythalmor_Captain%27s_Journal) — [Captain Cynoric](https://en.uesp.net/wiki/Online:Captain_Cynoric)
+8. [^](#cite_ref-8) [*Ceythalmor Interrogation Log*](https://en.uesp.net/wiki/Online:Ceythalmor_Interrogation_Log) — [Prison Warden Harvithiel](https://en.uesp.net/wiki/Online:Warden_Harvithiel)

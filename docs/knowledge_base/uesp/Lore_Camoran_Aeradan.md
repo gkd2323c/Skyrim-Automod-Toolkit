@@ -1,0 +1,42 @@
+# Camoran Aeradan
+
+| King Camoran Aeradan | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-King Camoran Aeradan.jpg](https://images.uesp.net/thumb/8/83/ON-npc-King_Camoran_Aeradan.jpg/200px-ON-npc-King_Camoran_Aeradan.jpg)](https://en.uesp.net/wiki/File:ON-npc-King_Camoran_Aeradan.jpg) King Camoran Aeradan ca. 2E 582 | | | |
+| Race | [Bosmer](Lore_Bosmer.md) | Gender | Male |
+| Resided in | [Valenwood](Lore_Valenwood.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:King_Camoran_Aeradan) | | |
+
+Camoran Aeradan was the [Bosmer](Lore_Bosmer.md) king of [Valenwood](Lore_Valenwood.md) during the mid- [Second Era](Lore_Second_Era.md). His reign began after a civil war for sovereignty with his cousin, [Gelthior Camoran](Lore_Gelthior_Camoran.md), but later, he was among the leaders that spearheaded the first iteration of the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) in [2E 582](Lore_Second_Era.md#2E_582),<sup>[[1]](#cite_note-AUA:AD1-1)</sup> as well as, part of the original Inner Council of the [Thalmor](Lore_Thalmor.md).<sup>[[2]](#cite_note-Ao SAYQ-2)</sup>
+
+## History
+Aeradan was a member of the [Camoran Dynasty](Lore_Camoran_Dynasty.md), alive during the mid-years of the [Interregnum](Lore_Interregnum.md). He grew up in [Elden Root](Lore_Elden_Root.md) and would often sneak into the Orrery underneath the city.<sup>[[3]](#cite_note-ONAeradan-3)</sup> He ascended to the throne in his home city as the King of Valenwood, but it came with issues. Aeradan sought to renew his domain through progression from ancient Bosmeri traditions, but he garnered a number of vocal critics who said that he was too lenient in regard to the [Green Pact](Lore_Green_Pact.md). One example of his perceived leniency was his [Vinedusk Rangers](Lore_Vinedusk_Rangers.md) consuming roots from the ground. Aeradan's cousin Camoran Gelthior and his Blacksap Movement believed that the Bosmer needed a ruler who would not discard the ancient compacts, leading them to initiate a civil war known as the Blacksap Rebellion to depose Aeradan and replace him with Gelthior.<sup>[[4]](#cite_note-ESOGelthior-4)</sup>
+
+Little is known about the war itself, but eventually, the [Colovians](Lore_Colovia.md) became involved, offering their support to Gelthior's movement.<sup>[[5]](#cite_note-ESOErvalir-5)</sup> Aeradan's forces were losing the conflict until he requested assistance from Queen [Ayrenn](Lore_Ayrenn.md) of the [Summerset Isles](Lore_Summerset_Isles.md), who managed to overwhelm the Blacksap and Colovians.<sup>[[1]](#cite_note-AUA:AD1-1)</sup> The Blacksap Rebellion was left in disarray following a massacre in [Cormount](Lore_Cormount.md), carried out by the Jade Butcher, General [Endare](Lore_Endare.md).<sup>[[4]](#cite_note-ESOGelthior-4)</sup><sup>[[6]](#cite_note-TMa C-6)</sup> In [2E 580](Lore_Second_Era.md#2E_580), Aeradan signed the Elden Accord with the [Altmer](Lore_Altmer.md) and the [Khajiit](Lore_Khajiit.md), forming the First Aldmeri Dominion. Not only did he become a member of the Thalmor's Inner Council, but Elden Root became the Dominion's capital.<sup>[[7]](#cite_note-ESOAyrenn-7)</sup><sup>[[8]](#cite_note-Tt VM-8)</sup> In [2E 582](Lore_Second_Era.md#2E_582), Aeradan was present at the ratification ceremony at the Orrery, which proved Ayrenn's worthiness to lead the Dominion.<sup>[[9]](#cite_note-ESOOrrery-9)</sup>
+
+Later that year, the forest of Valenwood was threatened by the [Azure Blight](Lore_Azure_Blight.md) coming from the [Tenmar Forest](Lore_Tenmar_Forest.md) valley to the east. Aeradan sought the help of the ancient forest spirit, [Selene](Lore_Selene.md), who was under the confinement of the [Mages Guild](Lore_Mages_Guild.md) warlock, Carindon at the time. The King called upon the Stags of Z'en for assistance. Allanwen served as a mediator between Carindon and Selene, while Gadnalon represented Elden Root and spoke in Aeradan's name.<sup>[[10]](#cite_note-ONAllanwen-10)</sup> Together with the [Undaunted](Lore_Undaunted.md), the task force was able to destroy the Azure Blight and its creator, the [Dragon](Lore_Dragon.md) named [Maarselok](Lore_Maarselok.md).<sup>[[11]](#cite_note-ONAzure-11)</sup>
+
+Aeradan was critical of [Nantharion Rayn](Lore_Nantharion.md)'s expansion into the Dawnwood in 2E 582. He sent a letter to the newly-founded settlement of Vashabar demanding an explanation, but these calls went ignored. This placed Aeradan in a tough position diplomatically, with the [Thalmor](Lore_Thalmor.md) demanding answers as to why one of his subjects had expanded across the [River Strid](https://en.uesp.net/wiki/Lore:River_Strid) into [Cyrodiil](Lore_Cyrodiil.md).<sup>[[12]](#cite_note-Nt N-12)</sup> Nantharion was killed that same year, after his role in the growth of the Dawnwood was revealed.<sup>[[13]](#cite_note-ESOGambit-13)</sup> [Gwaering](Lore_Gwaering.md), the [Green Lady](Lore_Green_Lady.md), and Aeradan exchanged letters regarding the crisis caused by Nantharion. In one such message, Gwaering warned him that the spirit of their people remained divided and that the influence of Nantharion's movement still lingered in some corners. She urged him to be cautious.<sup>[[14]](#cite_note-MTCBAH-14)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/bf/ON-place-Elden_Root.jpg/200px-ON-place-Elden_Root.jpg)](https://en.uesp.net/wiki/File:ON-place-Elden_Root.jpg) Elden Root (ESO)
+- [![](https://images.uesp.net/thumb/3/35/ON-npc-Gelthior.jpg/200px-ON-npc-Gelthior.jpg)](https://en.uesp.net/wiki/File:ON-npc-Gelthior.jpg) Gelthior Camoran (ESO)
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:King_Camoran_Aeradan).
+
+## References
+1. ^ <sup>***[a](#cite_ref-AUA:AD1_1-0)***</sup><sup>***[b](#cite_ref-AUA:AD1_1-1)***</sup> [Ask Us Anything: Aldmeri Dominion (Part 1)](https://en.uesp.net/wiki/General:Ask_Us_Anything:_Aldmeri_Dominion_(Part_1))
+2. [^](#cite_ref-Ao SAYQ_2-0) [*Aicantar of Shimmerene Answers Your Questions*](Lore_Aicantar_of_Shimmerene_Answers_Your_Questions.md) — [Aicantar of Shimmerene](Lore_Books_by_Author.md#Aicantar_of_Shimmerene)
+3. [^](#cite_ref-ONAeradan_3-0) [King Camoran Aeradan](https://en.uesp.net/wiki/Online:King_Camoran_Aeradan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-ESOGelthior_4-0)***</sup><sup>***[b](#cite_ref-ESOGelthior_4-1)***</sup> [Gelthior](https://en.uesp.net/wiki/Online:Gelthior)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ESOErvalir_5-0) [Ervalir](https://en.uesp.net/wiki/Online:Ervalir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-TMa C_6-0) [*The Massacre at Cormount*](Lore_The_Massacre_at_Cormount.md) — [Camoran Gorinir](Lore_Books_by_Author.md#Camoran_Gorinir)
+7. [^](#cite_ref-ESOAyrenn_7-0) [Queen Ayrenn](https://en.uesp.net/wiki/Online:Queen_Ayrenn#The_Moonlit_Path)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-Tt VM_8-0) [*To the Veiled Masters*](https://en.uesp.net/wiki/Online:To_the_Veiled_Masters) — [T](https://en.uesp.net/wiki/Online:Ambassador_Tarinwe)
+9. [^](#cite_ref-ESOOrrery_9-0) [The Orrery of Elden Root](https://en.uesp.net/wiki/Online:The_Orrery_of_Elden_Root) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-ONAllanwen_10-0) [Allanwen](https://en.uesp.net/wiki/Online:Allanwen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Scalebreaker](https://en.uesp.net/wiki/Online:Scalebreaker)*
+11. [^](#cite_ref-ONAzure_11-0) [The Azure Blight](https://en.uesp.net/wiki/Online:The_Azure_Blight) group quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Scalebreaker](https://en.uesp.net/wiki/Online:Scalebreaker)*
+12. [^](#cite_ref-Nt N_12-0) [*Note to Nantharion*](https://en.uesp.net/wiki/Lore:Note_to_Nantharion) — [King Camoran Aeradan](Lore_Aeradan_Camoran.md)
+13. [^](#cite_ref-ESOGambit_13-0) [King Nantharion's Gambit](https://en.uesp.net/wiki/Online:King_Nantharion%27s_Gambit) quest in [ESO](https://en.uesp.net/wiki/Online:ESO)
+14. [^](#cite_ref-MTCBAH_14-0) [*Meet the Character - Bahtra at-Hunding*](Lore_Meet_the_Character_-_Bahtra_at-Hunding.md) — Various

@@ -1,0 +1,31 @@
+# Kodlak Whitemane
+
+| --- | --- | --- | --- |
+| [![SR-npc-Kodlak Whitemane.jpg](https://images.uesp.net/thumb/9/9c/SR-npc-Kodlak_Whitemane.jpg/200px-SR-npc-Kodlak_Whitemane.jpg)](https://en.uesp.net/wiki/File:SR-npc-Kodlak_Whitemane.jpg) Harbinger Kodlak Whitemane | | | |
+| Race | [Nord](Lore_Nord.md) | Gender | Male |
+| Born | [4th Era](Lore_Fourth_Era.md#4th_Era) | | |
+| Died | [4E 201](Lore_Fourth_Era.md#4E_201) <br> [Whiterun](Lore_Whiterun.md) | | |
+| Resided in | [Hammerfell](Lore_Hammerfell.md) <br> [Whiterun](Lore_Whiterun.md) | | |
+| Reign | [4E 181](Lore_Fourth_Era.md#4E_181) - <br> [4E 201](Lore_Fourth_Era.md#4E_201) | | |
+| Previous Ruler | [Askar](https://en.uesp.net/wiki/Lore:Askar) | | |
+| Appears in | [Skyrim](Skyrim_Kodlak_Whitemane.md), [Legends](https://en.uesp.net/wiki/Legends:Companion_Harbinger) | | |
+
+Kodlak Whitemane was a [Nord](Lore_Nord.md) warrior and a well-respected Harbinger of the [Companions](Lore_Companions.md).<sup>[[1]](#cite_note-Skyrim-1)</sup> He avoided politics, and maintained the Companions' long-standing tradition of abstaining from political conflicts during the [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md) (although he did worship [Talos](Lore_Talos.md)).<sup>[[1]](#cite_note-Skyrim-1)</sup><sup>[[2]](#cite_note-GH-2)</sup> He was also something of a philosopher, prone to pondering on the meaning of honor and nobility. He lost his family at a young age, when he was little more than a boy. His predecessor, the Harbinger [Askar](https://en.uesp.net/wiki/Lore:Askar), found him working as a bodyguard in [Hammerfell](Lore_Hammerfell.md), and recruited him. The Companions quickly became his new family, and he became Harbinger in [4E 181](Lore_Fourth_Era.md#4E_181).<sup>[[3]](#cite_note-TESVSPOGG-3)</sup><sup>:155</sup> As Harbinger, Kodlak has commanded the Companions, balancing his tactical skill, ferocity in combat, and commanding presence.<sup>[[3]](#cite_note-TESVSPOGG-3)</sup> He maintained that family and honor are the most important things to the Companions, and that they should deal with problems head-on, finding honor in life through glory in battle. Legends of the Companions speak of Kodlak's many great feats, such as Kodlak and another Companion fighting off one hundred and one [Orc](Lore_Orc.md) berserkers.<sup>[[1]](#cite_note-Skyrim-1)</sup>
+
+As a member of the Circle, Kodlak was a [Werewolf](Lore_Werewolf.md), something that troubled him greatly during his twilight years. In [4E 200](Lore_Fourth_Era.md#4E_200), Kodlak contracted the rot and his condition had rapidly diminished. He became weak in body, and his frustration showed, taking to locking himself behind closed doors, poring over old documents, desperate to cure himself of lycanthropy.<sup>[[3]](#cite_note-TESVSPOGG-3)</sup><sup>:155</sup> He was led to believe that, upon death, a werewolf's soul goes to the [Hunting Grounds](Lore_Hunting_Grounds.md), the Daedric realm of [Hircine](Lore_Hircine.md). As a Nord, Kodlak wanted his soul to go to [Sovngarde](Lore_Sovngarde.md). His dreams became visions where he realized he had a choice, to either join the hunts of Hircine or join [Tsun](Lore_Tsun.md) in [Sovngarde](Lore_Sovngarde.md). The dreams also told him this choice would hinge upon a [stranger](Lore_Last_Dragonborn.md), one who he eventually met in [4E 201](Lore_Fourth_Era.md#4E_201).<sup>[[4]](#cite_note-KJ-4)</sup> They rarely spoke, which Kodlak regretted, but he was still impressed by the newcomer's prowess and fortitude, and chose the new Companion as his successor before he was killed by the [Silver Hand](Lore_Silver_Hand.md).<sup>[[1]](#cite_note-Skyrim-1)</sup><sup>[[4]](#cite_note-KJ-4)</sup> Shortly after his death, the Circle successfully found a cure for the Companions' [Lycanthropy](Lore_Lycanthropy.md), and cleansed Kodlak's spirit so he could make his way to Sovngarde. However, his soul was blocked from entering the Hall of Valor by [Alduin](Lore_Alduin.md)'s soul snare, and he was hunted by the World-Eater like prey. He eventually found his way to [Shor](https://en.uesp.net/wiki/Lore:Shor)'s hall after Alduin was defeated.<sup>[[1]](#cite_note-Skyrim-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/d/d0/SR-quest-Glory_of_the_Dead_04.jpg/200px-SR-quest-Glory_of_the_Dead_04.jpg)](https://en.uesp.net/wiki/File:SR-quest-Glory_of_the_Dead_04.jpg) Kodlak's wolf spirit (Skyrim)
+- [![](https://images.uesp.net/thumb/7/70/SR-npc-Kodlak_Whitemane_03.jpg/200px-SR-npc-Kodlak_Whitemane_03.jpg)](https://en.uesp.net/wiki/File:SR-npc-Kodlak_Whitemane_03.jpg) Kodlak in Sovngarde (Skyrim)
+- [![](https://images.uesp.net/thumb/2/21/LG-cardart-Companion_Harbinger_%28Nord%29.png/200px-LG-cardart-Companion_Harbinger_%28Nord%29.png)](File_LG-cardart-Companion_Harbinger_(Nord).png.md) Kodlak Whitemane (Legends)
+- [![](https://images.uesp.net/thumb/6/60/LG-cardart-Companion_Harbinger_%28Werewolf%29.png/200px-LG-cardart-Companion_Harbinger_%28Werewolf%29.png)](File_LG-cardart-Companion_Harbinger_(Werewolf).png.md) Kodlak as a werewolf (Legends)
+- [![](https://images.uesp.net/thumb/8/80/MER-art-King_of_Arms.jpg/118px-MER-art-King_of_Arms.jpg)](https://en.uesp.net/wiki/File:MER-art-King_of_Arms.jpg) Kodlak Tarot card
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Kodlak_Whitemane.md) and [*Legends*](https://en.uesp.net/wiki/Legends:Companion_Harbinger) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Skyrim_1-0)***</sup><sup>***[b](#cite_ref-Skyrim_1-1)***</sup><sup>***[c](#cite_ref-Skyrim_1-2)***</sup><sup>***[d](#cite_ref-Skyrim_1-3)***</sup><sup>***[e](#cite_ref-Skyrim_1-4)***</sup> Events of *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-GH_2-0) [*Great Harbingers*](Lore_Great_Harbingers.md) — [Swyk the Long-Sighted](Lore_Books_by_Author.md#Swyk_the_Long-Sighted)
+3. ^ <sup>***[a](#cite_ref-TESVSPOGG_3-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_3-1)***</sup><sup>***[c](#cite_ref-TESVSPOGG_3-2)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V__Skyrim__Prima_Official_Game_Guide) — David Hodgson
+4. ^ <sup>***[a](#cite_ref-KJ_4-0)***</sup><sup>***[b](#cite_ref-KJ_4-1)***</sup> [*Kodlak's Journal*](https://en.uesp.net/wiki/Skyrim:Kodlak%27s_Journal) — [Kodlak Whitemane](Skyrim_Kodlak_Whitemane.md)

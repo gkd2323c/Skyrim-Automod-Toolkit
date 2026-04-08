@@ -1,0 +1,44 @@
+#  A Recipe
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book3.png) Book Information <br> *Chaurus Pie: A Recipe* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0ED032 | | |
+| See Also | [Lore version](Lore_Chaurus_Pie__A_Recipe.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 11 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 3 | | |
+| Locations | | | |
+| Found in the following locations: - [Endon's House](Skyrim_Endon%27s_House.md), on a shelf to the right after entering | | | |
+
+Chaurus Pie: A Recipe **by [Nils](Lore_Books_by_Author.md#Nils)** *A recipe for a pie from chaurus meat* *
+---
+
+![I](https://images.uesp.net/thumb/4/48/I_letter.png/30px-I_letter.png)
+f I have to hear one more time about that famous gourmet who wrote that [recipe book](Lore_Uncommon_Taste.md), I'll hack off my own ears with a blunt axe.
+
+Sure, he can cook up some dishes fit for them stodgy [Imperials](Skyrim_Imperial.md) and them poncy [Bretons](Skyrim_Breton.md), but real [Nords](Skyrim_Nord.md) want real Nord food, and my [chaurus](Skyrim_Chaurus.md) pie is just that.
+
+I guess I been complaining a lot about it, cause [Susanna](Skyrim_Susanna_the_Wicked.md) was yelling at me. Nils, she says, if your chaurus pie is so good, you should write down the recipe.
+
+Well, I ain't good with my letters and I got no talent for writing, but I thought why not give it a go? So this here's my first ever recipe that I wrote down and I hope you like it.
+
+First thing you'll need is some chaurus meat and that ain't easy to come by. Chauruses mostly live in caves, and as like as not they share them caves with other nasty things.
+
+If you go hunting for chaurus meat to make some dinner with, make sure you don't end up as dinner yourself. Haha.
+
+Anyway, like I was saying, get yourself some good armor and a nice big sword, and if you've got some stout men who won't run off at the first sign of trouble - in other words, not like one of them poncy Bretons - then go looking in caves and you'll find a chaurus sooner or later.
+
+They look like big bugs the size of really big dogs, and mind you watch out for that acid they spit. That'll ruin your armor pretty quick.
+
+Now once you got some chaurus meat, you got to put it on a spit. Make sure you get that white, thick meat from the midsection. Don't use that yellow meat from the head or legs, because that's got poisonous acid in it and if you eat it, you'll probably die.
+
+So you cook up your chaurus on the spit. And you want to baste it with sauce. To make that, grind up some tomatoes into pulp and then mix that with water, peppers, honey and salt. And then you have to boil it all together.
+
+I wouldn't use too many peppers, but you want a few spoons of salt. How much honey you use is up to you. Depends on how sweet you want it.
+
+When the chaurus is done and you've basted it enough, then you want to bake it in a pie with some potatoes, carrots and apples. And put the rest of that sauce you made in there, too.
+
+If you want turnips, sometimes those are good. Depends on what you're in the mood for.
+
+Then you cook that for awhile. Look for the top to be light brown, that's when you know it's done.
+
+And that's it. Easy as pie. Haha.

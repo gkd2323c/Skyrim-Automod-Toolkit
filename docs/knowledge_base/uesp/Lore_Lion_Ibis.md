@@ -1,0 +1,32 @@
+# Lion Ibis
+
+| Lion Ibises | |
+| --- | --- |
+| [![ON-crown store-Glinting Talon Quasigriff.jpg](https://images.uesp.net/thumb/5/5a/ON-crown_store-Glinting_Talon_Quasigriff.jpg/200px-ON-crown_store-Glinting_Talon_Quasigriff.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Glinting_Talon_Quasigriff.jpg) A Glinting Talon Quasigriff | |
+| Type | [Beast](Lore_Bestiary.md) ([Gryphon](Lore_Gryphon.md)) |
+| Range | [Hammerfell](Lore_Hammerfell.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [ESO](https://en.uesp.net/wiki/Online:Glinting_Talon_Quasigriff) |
+
+[![](https://images.uesp.net/thumb/d/d8/ON-furnishing-Ra_Gada_Guardian_Statue%2C_Lion_Ibis.jpg/200px-ON-furnishing-Ra_Gada_Guardian_Statue%2C_Lion_Ibis.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Ra_Gada_Guardian_Statue,_Lion_Ibis.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Ra_Gada_Guardian_Statue,_Lion_Ibis.jpg) Ra Gada Guardian Lion Ibis Statue *The bird-beast serves [Tava](Lore_Tava.md) in all things. Stand with it in battle and add its strength to your song. By talon and beak, at dawn and dusk, it cries in harmony with its [singer](Lore_Sword-singer.md).*
+—An inscription found near the Battle of Six Hands<sup>[[1]](#cite_note-Quasi-1)</sup> The Lion Ibis (often referred to informally as a **bird-beast**)<sup>[[1]](#cite_note-Quasi-1)</sup><sup>[[2]](#cite_note-Skin-2)</sup><sup>[[3]](#cite_note-Baby-3)</sup> is a unique form of [gryphon](Lore_Gryphon.md) native to [Hammerfell](Lore_Hammerfell.md).<sup>[[4]](#cite_note-4)</sup><sup>[[1]](#cite_note-Quasi-1)</sup> They differ from normal gryphons in that their head resembles that of an [Ibis](Lore_Ibis.md),<sup>[[1]](#cite_note-Quasi-1)</sup> a [bird](Lore_Bird.md) considered sacred to [Tu'whacca](Lore_Tu%27whacca.md).<sup>[[5]](#cite_note-CM28-5)</sup> Winged lion ibises are depicted often in ancient [Redguard](Lore_Redguard.md) statuary dating back to the time of the [Ra Gada](Lore_Ra_Gada.md). Gryphons such as these were considered sacred to the Glinting Talons, an ancient group of [sword-singers](Lore_Sword-singers.md) devoted to [Tava](Lore_Tava.md) and [Diagna](Lore_Diagna.md),<sup>[[6]](#cite_note-6)</sup> who thought that the bird-beasts served Tava "in all things".<sup>[[1]](#cite_note-Quasi-1)</sup><sup>[[3]](#cite_note-Baby-3)</sup><sup>[[2]](#cite_note-Skin-2)</sup>
+
+Wingless [quasigriff](Lore_Quasigriff.md) varieties of the lion ibis were used as mounts by the Glinting Talons. These are referred to as **Glinting Talon Quasigriffs**, and possess a brilliant bright red-orange plumage.<sup>[[1]](#cite_note-Quasi-1)</sup><sup>[[2]](#cite_note-Skin-2)</sup> The Glinting Talons seem to have ridden them in the Battle of Six Hands,<sup>[[1]](#cite_note-Quasi-1)</sup> depicting them in ancient carved doors.<sup>[[7]](#cite_note-7)</sup> Some of the Glinting Talons magically took on the plumage of the lion ibises in the name of Tava and Diagna.<sup>[[2]](#cite_note-Skin-2)</sup> They also raised what appeared to be normal gryphons.<sup>[[3]](#cite_note-Baby-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/ac/ON-item-Tava-Statue.jpg/200px-ON-item-Tava-Statue.jpg)](https://en.uesp.net/wiki/File:ON-item-Tava-Statue.jpg) Seated Ra Gada Lion Ibis Statue
+- [![](https://images.uesp.net/thumb/b/b3/LO-misc-Tu%27whacca_Door.png/126px-LO-misc-Tu%27whacca_Door.png)](https://en.uesp.net/wiki/File:LO-misc-Tu%27whacca_Door.png) A Lion Ibis depicted as serving Tu'whacca (bottom left)
+- [![](https://images.uesp.net/thumb/2/21/ON-crown_store-Warrior_Wave_Door%2C_Glinting_Talon.jpg/200px-ON-crown_store-Warrior_Wave_Door%2C_Glinting_Talon.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Warrior_Wave_Door,_Glinting_Talon.jpg) Glinting Talon Warriror Wave Door
+- [![](https://images.uesp.net/thumb/0/03/ON-crown_store-Tava%27s_Glinting_Talon.jpg/200px-ON-crown_store-Tava%27s_Glinting_Talon.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Tava%27s_Glinting_Talon.jpg) Tava's Glinting Talon magical skin
+- [![](https://images.uesp.net/thumb/4/43/ON-crown_store-Glinting_Talon_Fledgling_Gryphon.jpg/200px-ON-crown_store-Glinting_Talon_Fledgling_Gryphon.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Glinting_Talon_Fledgling_Gryphon.jpg) Glinting Talon Fledgling Gryphon
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Glinting_Talon_Quasigriff) [](https://en.uesp.net/wiki/Online:Crown_Store) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Quasi_1-0)***</sup><sup>***[b](#cite_ref-Quasi_1-1)***</sup><sup>***[c](#cite_ref-Quasi_1-2)***</sup><sup>***[d](#cite_ref-Quasi_1-3)***</sup><sup>***[e](#cite_ref-Quasi_1-4)***</sup><sup>***[f](#cite_ref-Quasi_1-5)***</sup><sup>***[g](#cite_ref-Quasi_1-6)***</sup> [Glinting Talon Quasigriff](https://en.uesp.net/wiki/Online:Glinting_Talon_Quasigriff) mount description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+2. ^ <sup>***[a](#cite_ref-Skin_2-0)***</sup><sup>***[b](#cite_ref-Skin_2-1)***</sup><sup>***[c](#cite_ref-Skin_2-2)***</sup><sup>***[d](#cite_ref-Skin_2-3)***</sup> [Tava's Glinting Talon](https://en.uesp.net/wiki/Online:Tava%27s_Glinting_Talon) skin description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+3. ^ <sup>***[a](#cite_ref-Baby_3-0)***</sup><sup>***[b](#cite_ref-Baby_3-1)***</sup><sup>***[c](#cite_ref-Baby_3-2)***</sup> [Glinting Talon Fledgling Gryphon](https://en.uesp.net/wiki/Online:Glinting_Talon_Fledgling_Gryphon) pet description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+4. [^](#cite_ref-4) [Ra Gada Guardian Statue, Lion Ibis](https://en.uesp.net/wiki/Online:Ra_Gada_Guardian_Statue,_Lion_Ibis) and [Ra Gada Statue, Seated Lion Ibis](https://en.uesp.net/wiki/Online:Ra_Gada_Statue,_Seated_Lion_Ibis) furnishings in [ESO](https://en.uesp.net/wiki/Online:ESO)
+5. [^](#cite_ref-CM28_5-0) [*Crafting Motif 28: Ra Gada Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_28__Ra_Gada_Style) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+6. [^](#cite_ref-6) [*Glinting Talons*](Lore_Glinting_Talons_(book).md) — [Ablahar at-Tanul](Lore_Books_by_Author.md#Ablahar_at-Tanul)
+7. [^](#cite_ref-7) [Warrior Wave Door, Glinting Talon](https://en.uesp.net/wiki/Online:Warrior_Wave_Door,_Glinting_Talon) furnishing in [ESO](https://en.uesp.net/wiki/Online:ESO)

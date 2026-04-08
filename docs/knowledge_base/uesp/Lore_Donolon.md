@@ -1,0 +1,57 @@
+# Donolon
+
+| Chef Donolon | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Chef Donolon.jpg](https://images.uesp.net/thumb/5/55/ON-npc-Chef_Donolon.jpg/200px-ON-npc-Chef_Donolon.jpg)](https://en.uesp.net/wiki/File:ON-npc-Chef_Donolon.jpg) Chef Donolon the Wizard of Whisking | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Male |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Chef_Donolon) | | |
+
+Chef Donolon, also known by monikers such as the **Wizard of Whisking**, the **Prince of Pastry**, and the **Patron of Pies**, was a legendary [Breton](Lore_Breton.md) confectioner that lived during the time of the [Interregnum](Lore_Interregnum.md). He believed that delicious desserts, cakes in particular, have a way of bringing people together, and that was perhaps the key to ending the [Three Banners War](Lore_Three_Banners_War.md). To that end, he traveled the world by sea and converted a barge into a bakery. His most coveted creation was the Jubilee Cake, which helped propelled him to stardom. His clientele included the likes of nobles and even [Daedric Princes](Lore_Daedric_Princes.md). Regardless of a person or entity's status, they might have to wait for years to even taste one of Donolon's cakes.<sup>[[1]](#cite_note-ONCD-1)</sup><sup>[[2]](#cite_note-ONAFC-2)</sup> To this end, he distributed vouchers which puts the lucky recipient to the front of the list to receive a Jubilee Cake.<sup>[[1]](#cite_note-ONCD-1)</sup><sup>[[3]](#cite_note-JCV-3)</sup>
+
+At one point, Donolon came across a young [Khajiiti](Lore_Khajiit.md) orphan named Mogh among the [moon-sugar](Lore_Moon_Sugar.md) cane fields he was harvesting from. After tasting one of his sweetrolls, Mogh became his apprentice, and then eventually his adoptive son. When Donolon felt Mogh was ready, he entrusted his son with continuing his work on his Jubilee Cakes. Meanwhile, Donolon took a culinary journey across [Tamriel](Lore_Tamriel.md) to sample regional cuisines to further hone his skills, and bring back new recipes to improve his cakes and pies. Donolon's envious rivals swooped in like vultures and stole ingredients and spread slander during Mogh's unveiling but were unsuccessful at their attempts of ruining Donolon's legacy.<sup>[[4]](#cite_note-ONAM-4)</sup><sup>[[5]](#cite_note-ONFCS-5)</sup>
+
+Chef Donolon was invited at one point to the Zeal of Zenithar festival in [Belkarth](Lore_Belkarth.md), but he turned the invitation down and in his place his [Nord](Lore_Nord.md) rival Odhilda came as the second pick.<sup>[[6]](#cite_note-ONO-6)</sup> He took part in many baking challenges from [Morrowind](Lore_Morrowind.md) to [High Rock](Lore_High_Rock.md). Each of his recipes was meticulously crafted and personally tested under the most demanding culinary conditions.<sup>[[7]](#cite_note-DB-7)</sup> Donolon and his son provided their cakes in the Anniversary Jubilee celebration each year around the 4th of Rain's Hand.<sup>[[nb 1]](#intnote_Jubilee)</sup> The exotic goods merchant, [the Impresario](Lore_The_Impresario.md), was known to sell replicas of Donolan's Jubilee Cakes during it in exchange for a currency which denoted the experiences of one's heroic or impressive feats.<sup>[[8]](#cite_note-Mt CTI-8)</sup><sup>[[9]](#cite_note-ONIMP-9)</sup><sup>[[10]](#cite_note-10)</sup> During this celebration, [Imperials](Lore_Imperial.md) decorated their steeds in stunning regalia and rode around on them with a plate with Jubilee Cake clutched in one hand.<sup>[[11]](#cite_note-11)</sup>
+
+Many prominent figures active in the decade following the onset of the [Planemeld](Lore_Planemeld.md) were immortalized in a painting commemorating their adventures. Among them was Donolon, portrayed serving his Jubilee Cake to these figures at a celebration.<sup>[[12]](#cite_note-12)</sup>
+
+Records referencing Donolon survived till the [Fourth Era](Lore_Fourth_Era.md). His Jubilee Cake recipe was still in use, and a cake resulting from it was served during a celebration in [Daggerfall](Lore_Daggerfall.md).<sup>[[13]](#cite_note-Cookbook2-13)</sup> Donolon's pastry also inspired his contemporary, an [Argonian](Lore_Argonian.md) chef named [Makes-Many-Soups](Lore_Makes-Many-Soups.md), to create her own Jubilee Soup recipe, which also survived the Fourth Era.<sup>[[14]](#cite_note-ONMS-14)</sup><sup>[[13]](#cite_note-Cookbook2-13)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/79/ON-crown_store-Ache_for_Cake.jpg/200px-ON-crown_store-Ache_for_Cake.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Ache_for_Cake.jpg) Donolon (center)
+- [![](https://images.uesp.net/thumb/9/94/ON-crown_store-For_Cake%27s_Sake.jpg/200px-ON-crown_store-For_Cake%27s_Sake.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-For_Cake%27s_Sake.jpg) Donolon's son Mogh
+- [![](https://images.uesp.net/thumb/e/e7/ON-event-Anniversary_Jubilee_2016.jpg/200px-ON-event-Anniversary_Jubilee_2016.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2016.jpg) Donolon in Daggerfall
+- [![](https://images.uesp.net/thumb/2/27/ON-event-Anniversary_Jubilee_2017.jpg/200px-ON-event-Anniversary_Jubilee_2017.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2017.jpg) Donolon in Auridon
+- [![](https://images.uesp.net/thumb/8/8b/ON-event-Anniversary_Jubilee_2018.jpg/200px-ON-event-Anniversary_Jubilee_2018.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2018.jpg) Donolon in Colovia
+- [![](https://images.uesp.net/thumb/1/15/ON-event-Anniversary_Jubilee_2019.jpg/200px-ON-event-Anniversary_Jubilee_2019.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2019.jpg) Making Jubilee Cakes on the Summerset Isle
+- [![](https://images.uesp.net/thumb/1/11/ON-event-Anniversary_Jubilee_2020.jpg/200px-ON-event-Anniversary_Jubilee_2020.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2020.jpg) In Skyrim making a Vampire-themed Jubilee Cake
+- [![](https://images.uesp.net/thumb/c/cf/ON-event-Anniversary_Jubilee_2021.jpg/200px-ON-event-Anniversary_Jubilee_2021.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2021.jpg) Donolon creating a Deadlands-themed Jubilee Cake
+- [![](https://images.uesp.net/thumb/8/89/ON-event-Anniversary_Jubilee_2022.jpg/200px-ON-event-Anniversary_Jubilee_2022.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2022.jpg) Creating Systres-themed Jubilee Cake
+- [![](https://images.uesp.net/thumb/1/17/ON-event-Anniversary_Jubilee_2023.jpg/200px-ON-event-Anniversary_Jubilee_2023.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2023.jpg) In Telvanni territory creating an Apocrypha-themed Jubilee Cake
+- [![](https://images.uesp.net/thumb/1/13/ON-event-Anniversary_Jubilee_2024.jpg/200px-ON-event-Anniversary_Jubilee_2024.jpg)](https://en.uesp.net/wiki/File:ON-event-Anniversary_Jubilee_2024.jpg) Donolon's son Mogh and one of his Jubilee Cakes
+- [![](https://images.uesp.net/thumb/e/e4/ON-wallpaper-Celebrate_10_Years_of_Amazing_Stories_and_Characters_with_this_New_Wallpaper-7680x4320.jpg/200px-ON-wallpaper-Celebrate_10_Years_of_Amazing_Stories_and_Characters_with_this_New_Wallpaper-7680x4320.jpg)](https://en.uesp.net/wiki/File:ON-wallpaper-Celebrate_10_Years_of_Amazing_Stories_and_Characters_with_this_New_Wallpaper-7680x4320.jpg) Donolan serving Jubilee cake (far right)
+
+## Notes
+- | [^](#note_Jubilee) | The [Anniversary Jubilee](https://en.uesp.net/wiki/Online:Anniversary_Jubilee) is a celebration of the official release of **[The Elder Scrolls Online](https://en.uesp.net/wiki/Online:Online)**, which launched on April 4th, 2014. It is also acknowledged in-universe by NPCs such as [The Impresario](https://en.uesp.net/wiki/Online:The_Impresario)'s comment of "It's a birthday! Though for whom, I'm not sure. Or what, perhaps."<sup>[[9]](#cite_note-ONIMP-9)</sup> [Makes-Many-Soups](https://en.uesp.net/wiki/Online:Makes-Many-Soups) also acknowledges it by name during the celebration.<sup>[[14]](#cite_note-ONMS-14)</sup> In this context, Donolon's Jubilee Cake is used like a [birthday cake](https://www.wikipedia.org/wiki/Birthday_cake). |
+| --- | --- |
+- Chef Donolon should not be confused with the [Demi-Prince of Pastries](https://en.uesp.net/wiki/Lore:Demi-Prince_of_Pastries), a [Demiprince](Lore_Demiprince.md) that [Sheogorath](Lore_Sheogorath.md) considered worthy to wield the [Wabbajack](Lore_Wabbajack.md).<sup>[[15]](#cite_note-15)</sup>
+
+## See Also
+- [Balagog gro-Nolob](Lore_Balagog_gro-Nolob.md), another famous chef.
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Chef_Donolon).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ONCD_1-0)***</sup><sup>***[b](#cite_ref-ONCD_1-1)***</sup> [Chef Donolon](https://en.uesp.net/wiki/Online:Chef_Donolon)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-ONAFC_2-0) [Ache for Cake](https://en.uesp.net/wiki/Online:Ache_for_Cake) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-JCV_3-0) [*Jubilee Cake Voucher*](https://en.uesp.net/wiki/Online:Jubilee_Cake_Voucher)
+4. [^](#cite_ref-ONAM_4-0) [Apprentice Mogh](https://en.uesp.net/wiki/Online:Apprentice_Mogh)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ONFCS_5-0) [For Cake's Sake](https://en.uesp.net/wiki/Online:For_Cake%27s_Sake) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ONO_6-0) [Odhilda](https://en.uesp.net/wiki/Online:Odhilda)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-DB_7-0) [*Donolon Bakes*](https://en.uesp.net/wiki/Online:Donolon_Bakes) — [Chef Donolon](https://en.uesp.net/wiki/Online:Chef_Donolon)
+8. [^](#cite_ref-Mt CTI_8-0) [*Meet the Character - The Impresario*](Lore_Meet_the_Character_-_The_Impresario.md) — [Philius Dormier](Lore_Books_by_Author.md#Philius_Dormier)
+9. ^ <sup>***[a](#cite_ref-ONIMP_9-0)***</sup><sup>***[b](#cite_ref-ONIMP_9-1)***</sup> [The Impresario](https://en.uesp.net/wiki/Online:The_Impresario)'s interactions in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-10) [Event Tickets](https://en.uesp.net/wiki/Online:Event_Tickets) in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-11) [Jubilee Steed](https://en.uesp.net/wiki/Online:Jubilee_Steed) appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-12) [Painting: 10-Year Anniversary](https://en.uesp.net/wiki/Online:Painting:_10-Year_Anniversary) furnishing description in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. ^ <sup>***[a](#cite_ref-Cookbook2_13-0)***</sup><sup>***[b](#cite_ref-Cookbook2_13-1)***</sup> [*The Elder Scrolls: The Official Cookbook Vol. 2*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook_Vol._2) — Erin Kwong, Victoria Rosenthal
+14. ^ <sup>***[a](#cite_ref-ONMS_14-0)***</sup><sup>***[b](#cite_ref-ONMS_14-1)***</sup> [Makes-Many-Soups](https://en.uesp.net/wiki/Online:Makes-Many-Soups)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-15) [Sheogorath](https://en.uesp.net/wiki/Online:Sheogorath)'s dialogue during [Chaos Magic](https://en.uesp.net/wiki/Online:Chaos_Magic) in [ESO](https://en.uesp.net/wiki/Online:Online)

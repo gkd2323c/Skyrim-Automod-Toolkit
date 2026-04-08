@@ -1,0 +1,66 @@
+# Chaurus Eggs
+
+| [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Chaurus_Eggs.png) Chaurus Eggs <br> 00 03ad56 | | | |
+| --- | --- | --- | --- |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 10 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0.2 |
+| [Alchemy Effects](Skyrim_Alchemy_Effects.md) | | | |
+| 1st | [](https://en.uesp.net/wiki/Skyrim:Weakness_to_Poison) [Weakness to Poison](https://en.uesp.net/wiki/Skyrim:Weakness_to_Poison) | | |
+| 2nd | [](Skyrim_Fortify_Stamina.md) [Fortify Stamina](Skyrim_Fortify_Stamina.md) | | |
+| 3rd | [](Skyrim_Damage_Magicka.md) [Damage Magicka](Skyrim_Damage_Magicka.md) | | |
+| 4th | [](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md) | | |
+| Sources | | | |
+| # Samples | 147 | | |
+| Plant | Egg Sacs | | |
+| # Plants | 1593 | | |
+| Creature | [Chaurus](Skyrim_Chaurus.md) | | |
+| Found | [Falmer Hives](https://en.uesp.net/wiki/Category:Skyrim-Places-Falmer_Hives) | | |
+| Merchant Avail. | Uncommon | | |
+
+[![](https://images.uesp.net/thumb/e/e1/SR-ingredient-Chaurus_Eggs.jpg/200px-SR-ingredient-Chaurus_Eggs.jpg)](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Eggs.jpg) [](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Eggs.jpg) Chaurus Eggs **Chaurus Eggs** can be harvested from chaurus egg sacs, which can be found in high numbers in all [Falmer hives](https://en.uesp.net/wiki/Category:Skyrim-Places-Falmer_Hives). [Chaurus](Skyrim_Chaurus.md), [chaurus reapers](Skyrim_Chaurus_Reaper.md), [chaurus hunters](Skyrim_Chaurus_Hunter.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, and [chaurus hunter fledglings](Skyrim_Chaurus_Hunter_Fledgling.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> also have a chance of dropping chaurus eggs. The eggs and sacs emit a pale blue bioluminescence making them easy to spot even in the darkness of caves.
+
+## Combinations
+In terms of combinations of two ingredients, Chaurus Eggs can be combined with 46 other ingredients.
+
+### 2 Effects
+| Desired Effect | Combine with: | |
+| --- | --- | --- |
+| **[](Skyrim_Damage_Magicka.md) [Damage Magicka](Skyrim_Damage_Magicka.md)** | **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | [Bittergreen Petals](Skyrim_Bittergreen_Petals.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Luna Moth Wing](https://en.uesp.net/wiki/Skyrim:Luna_Moth_Wing), [Aloe Vera Leaves](Skyrim_Aloe_Vera_Leaves.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> |
+
+### 1 Effect
+| Desired Effect | Combine with: |
+| --- | --- |
+| **[](https://en.uesp.net/wiki/Skyrim:Weakness_to_Poison) [Weakness to Poison](https://en.uesp.net/wiki/Skyrim:Weakness_to_Poison)** | [Abecean Longfin](Skyrim_Abecean_Longfin.md), [Bleeding Crown](Skyrim_Bleeding_Crown.md), [Chokeberry](Skyrim_Chokeberry.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Deathbell](Skyrim_Deathbell.md), [Giant Lichen](Skyrim_Giant_Lichen.md), [Hypha Facia](Skyrim_Hypha_Facia.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Pine Thrush Egg](https://en.uesp.net/wiki/Skyrim:Pine_Thrush_Egg), [Sabre Cat Tooth](https://en.uesp.net/wiki/Skyrim:Sabre_Cat_Tooth), [Small Antlers](https://en.uesp.net/wiki/Skyrim:Small_Antlers), [Wisp Stalk Caps](https://en.uesp.net/wiki/Skyrim:Wisp_Stalk_Caps)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Fortify_Stamina.md) [Fortify Stamina](Skyrim_Fortify_Stamina.md)** | [Boar Tusk](Skyrim_Boar_Tusk.md)<sup>[DB](Skyrim_Dragonborn.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **7.5** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Fungus Stalk](Skyrim_Fungus_Stalk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **7.5** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Garlic](Skyrim_Garlic.md), [Large Antlers](https://en.uesp.net/wiki/Skyrim:Large_Antlers), [Lavender](Skyrim_Lavender.md), [Scrib Jerky](https://en.uesp.net/wiki/Skyrim:Scrib_Jerky)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.27** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Slaughterfish Egg](https://en.uesp.net/wiki/Skyrim:Slaughterfish_Egg), [Torchbug Thorax](https://en.uesp.net/wiki/Skyrim:Torchbug_Thorax), [Void Essence](https://en.uesp.net/wiki/Skyrim:Void_Essence)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **7.5** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Damage_Magicka.md) [Damage Magicka](Skyrim_Damage_Magicka.md)** | [Butterfly Wing](Skyrim_Butterfly_Wing.md), [Chokeweed](Skyrim_Chokeweed.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Daedra Heart](Skyrim_Daedra_Heart.md), [Eye of Sabre Cat](Skyrim_Eye_of_Sabre_Cat.md), [Glow Dust](Skyrim_Glow_Dust.md), [Hagraven Feathers](Skyrim_Hagraven_Feathers.md), [Hanging Moss](Skyrim_Hanging_Moss.md), [Human Heart](Skyrim_Human_Heart.md), [Jarrin Root](Skyrim_Jarrin_Root.md), [Mort Flesh](https://en.uesp.net/wiki/Skyrim:Mort_Flesh)<sup>[CC](Skyrim_Plague_of_the_Dead.md)</sup>, [Namira's Rot](https://en.uesp.net/wiki/Skyrim:Namira%27s_Rot), [Nordic Barnacle](https://en.uesp.net/wiki/Skyrim:Nordic_Barnacle), [Trama Root](https://en.uesp.net/wiki/Skyrim:Trama_Root)<sup>[DB](Skyrim_Dragonborn.md)</sup> |
+| **[](Skyrim_Invisibility_(effect).md) [Invisibility](Skyrim_Invisibility_(effect).md)** | [Ash Creep Cluster](Skyrim_Ash_Creep_Cluster.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Blister Pod Cap](Skyrim_Blister_Pod_Cap.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Crimson Nirnroot](Skyrim_Crimson_Nirnroot.md), [Daedra Silk](Skyrim_Daedra_Silk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Elytra Ichor](Skyrim_Elytra_Ichor.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Flame Stalk](Skyrim_Flame_Stalk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Green Butterfly Wing](Skyrim_Green_Butterfly_Wing.md)<sup>[CC](Skyrim_Saints_%26_Seducers.md)</sup>, [Ice Wraith Teeth](Skyrim_Ice_Wraith_Teeth.md), [Nirnroot](https://en.uesp.net/wiki/Skyrim:Nirnroot), [Redwort Flower](https://en.uesp.net/wiki/Skyrim:Redwort_Flower)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Screaming Maw](Skyrim_Screaming_Maw.md)<sup>[CC](Skyrim_Saints_%26_Seducers.md)</sup> (**4** × [](https://en.uesp.net/wiki/File:BL-icon-Hourglass.png), **4.6** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Vampire Dust](https://en.uesp.net/wiki/Skyrim:Vampire_Dust) |
+
+## Ingredients
+147 guaranteed samples can be found in 37 different locations. Locations with the greatest numbers are:
+
+- 13 inside [Alftand Cathedral](Skyrim_Alftand_Cathedral.md) ([Winterhold](Skyrim_Winterhold_(region).md))
+- 11 in [Tolvald's Cave](https://en.uesp.net/wiki/Skyrim:Tolvald%27s_Cave) ([The Rift](Skyrim_The_Rift.md))
+- 10 in [Forsaken Crypt](Skyrim_Forsaken_Crypt.md) ([The Pale](Skyrim_The_Pale.md))
+- 10 in [Jorrvaskr Living Quarters](Skyrim_Jorrvaskr_Living_Quarters.md) ([Whiterun](Skyrim_Whiterun.md))
+
+It is categorized as an uncommon ingredient, meaning that all apothecary merchants have a 15% chance of carrying 1-5 samples. In addition, it may be randomly found in uncommon- and rare-type [apothecary's satchels](Skyrim_Apothecary%27s_Satchel.md).
+
+## Sources
+[![](https://images.uesp.net/thumb/7/78/SR-ingredient-Chaurus_Egg_Sac.jpg/200px-SR-ingredient-Chaurus_Egg_Sac.jpg)](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Egg_Sac.jpg) [](https://en.uesp.net/wiki/File:SR-ingredient-Chaurus_Egg_Sac.jpg) Chaurus egg sacs [Chaurus](Skyrim_Chaurus.md), [chaurus reapers](Skyrim_Chaurus_Reaper.md), [chaurus hunters](Skyrim_Chaurus_Hunter.md)<sup>[DG](Skyrim_Dawnguard.md)</sup>, and [chaurus hunter fledglings](Skyrim_Chaurus_Hunter_Fledgling.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> have a 25% chance of dropping chaurus eggs, in addition to [chaurus chitin](Skyrim_Chaurus_Chitin.md) and minor loot. Egg sacs, however, are the most common source of chaurus eggs, with 1593 egg sacs found in 21 different locations. Locations with the greatest numbers are:
+
+- 516 in [Frostflow Abyss](Skyrim_Frostflow_Abyss_(place).md) ([Winterhold](Skyrim_Winterhold_(region).md))
+- 243 in [Tolvald's Cave](https://en.uesp.net/wiki/Skyrim:Tolvald%27s_Cave) ([The Rift](Skyrim_The_Rift.md))
+- 158 in [Chillwind Depths](Skyrim_Chillwind_Depths.md) ([Hjaalmarch](Skyrim_Hjaalmarch.md))
+- 100 in [Irkngthand Slave Pens](Skyrim_Irkngthand_Slave_Pens.md) ([The Pale](Skyrim_The_Pale.md))
+- 86 in [Raldbthar Deep Market](Skyrim_Raldbthar_Deep_Market.md) ([The Pale](Skyrim_The_Pale.md))
+- 86 in [Liar's Retreat](Skyrim_Liar%27s_Retreat.md) ([The Reach](Skyrim_The_Reach.md))
+- 72 in [Shimmermist Grotto](https://en.uesp.net/wiki/Skyrim:Shimmermist_Grotto) ([Whiterun Hold](Skyrim_Whiterun_Hold.md))
+- 71 in [Alftand](Skyrim_Alftand.md) ([Winterhold](Skyrim_Winterhold_(region).md))
+- 65 in [Duskglow Crevice](Skyrim_Duskglow_Crevice.md) ([The Pale](Skyrim_The_Pale.md))
+
+## Notes
+- [Gianna](Skyrim_Gianna.md) says in [a Dark Brotherhood quest](Skyrim_To_Kill_an_Empire.md) that Chaurus Eggs can be added to soups "for additional flavor", though you cannot add them to food when cooking yourself.
+- The Green Thumb perk from the [Alchemy](Skyrim_Alchemy.md) skill line allows for an extra egg to be harvested from each egg sac, obtaining two eggs from each sac. In places with lots of egg sacs (such as Frostflow Abyss or Tolvald's Cave), this will amount to an enormous number of eggs.
+
+## Bugs
+- Chaurus eggs do not have a harvested state. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.3.0, addresses this issue. They will now stop glowing after being harvested.

@@ -1,0 +1,61 @@
+# Soul Magic
+
+[](https://en.uesp.net/wiki/File:SR-icon-spell-Banish.png) Soul Magic is an obscure form of [magic](Lore_Magic.md) focused on the manipulation of [souls](Lore_Souls.md) and [vestiges](Lore_Vestige_(soul).md). Practitioners of the craft are known as soul mages.<sup>[[1]](#cite_note-1)</sup> It is said soul magic deals with connections,<sup>[[2]](#cite_note-2)</sup> and practitioners can sense the connection between people and objects<sup>[[3]](#cite_note-3)</sup>, manifest memories through objects and [feel the emotions of those around them](Lore_Telepathy.md),<sup>[[4]](#cite_note-TDF-4)</sup> and even use their connections to open portals to places or people.<sup>[[5]](#cite_note-5)</sup> It shares similarity with [Auramancy](Lore_Auramancy.md) in this aspect.
+
+Strong emotions leave traces of themselves in the brain after body death. If the chemical traces are combined with "soul energy", it becomes a distillation of said emotion.<sup>[[6]](#cite_note-Lo S-6)</sup>
+
+Three of the ancient [Nedes](Lore_Nede.md) of [Skyreach](Lore_Skyreach.md) utilized soul magic to seal the [lich](Lore_Lich.md) [Virmaril](Lore_Virmaril.md) the Betrayer within the city's catacombs, sacrificing their own souls to become his immortal, eternal watchers.<sup>[[7]](#cite_note-7)</sup><sup>[[8]](#cite_note-8)</sup> According to the [Perena](Lore_Perena.md) legend the [Cult of the Stars](Lore_Cult_of_the_Stars.md) learned soul magic from a "white-bearded stranger" who shared similarities with [Shezarr](Lore_Shezarr.md), the God of Man.<sup>[[9]](#cite_note-TFOS-9)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), research into soul magic was widespread across [Tamriel](Lore_Tamriel.md) due to the [Planemeld](Lore_Planemeld.md), a process by which [Molag Bal](Lore_Molag_Bal.md) attempted to merge [Mundus](Lore_Mundus.md) with his realm of [Coldharbour](Lore_Coldharbour.md) through the use of metamagical soul technology.<sup>[[10]](#cite_note-10)</sup><sup>[[11]](#cite_note-11)</sup> Faced with the threat of soul capture, many mages began to investigate methods of soul-trapping and soul-manipulation. However, such behavior was not tolerated in the [Summerset Isles](Lore_Summerset_Isles.md) where such magic was considered dark [necromancy](Lore_Necromancy.md).<sup>[[12]](#cite_note-12)</sup> [Soul Shriven](Lore_Soul_Shriven.md) appear to have a particular affinity for soul magic, manipulating their own vestige such that it explosively shattered upon death or reformed instantaneously. Soul magic can also be used to soul trap with [Soul Gems](Lore_Soul_Gems.md), or as an offensive beam of soulfire.<sup>[[13]](#cite_note-13)</sup>
+
+Soul magic has the potential to grant terrible power. According to the preliminary research of a [Sagacian](https://en.uesp.net/wiki/Lore:Sagacians) scholar, the [Abyssal Pearls](Lore_Abyssal_Pearl.md) used by the [Sea Sloads](Lore_Sea_Sload.md) of the Abyssal Cabal were fueled by some sort of soul magic.<sup>[[14]](#cite_note-14)</sup> The Cabal spread these pearls throughout [Summerset Isle](Lore_Summerset_Isle.md) on behalf of [the Triad](Lore_The_Triad.md), an alliance between [Clavicus Vile](Lore_Clavicus_Vile.md), [Mephala](Lore_Mephala.md), and [Nocturnal](Lore_Nocturnal.md). Through the use of the [Crystal Tower](Lore_Crystal_Tower.md) and stolen technology from the [Clockwork City](Lore_Clockwork_City.md), Nocturnal planned to use the dispersed pearls to siphon the life energy of Tamriel's inhabitants into the Tower, allowing her to expand her power infinitely throughout all [realms of existence](Lore_Planes_of_Existence.md), but this plot was stopped circa 2E 582.<sup>[[15]](#cite_note-15)</sup><sup>[[16]](#cite_note-16)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/e/e6/ON-crown_store-Crown_Soul_Gem.jpg/200px-ON-crown_store-Crown_Soul_Gem.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Crown_Soul_Gem.jpg) Sold soul gems (ESO)
+- [![](https://images.uesp.net/thumb/a/a7/ON-skill-Soul_Assault.jpg/200px-ON-skill-Soul_Assault.jpg)](https://en.uesp.net/wiki/File:ON-skill-Soul_Assault.jpg) Soul Assault (ESO)
+- [![](https://images.uesp.net/thumb/9/95/ON-creature-Harrowing_Haunter_02.jpg/200px-ON-creature-Harrowing_Haunter_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Harrowing_Haunter_02.jpg) Soul Draining (ESO)
+- [![](https://images.uesp.net/thumb/0/0f/ON-creature-Preinrha_02.jpg/200px-ON-creature-Preinrha_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Preinrha_02.jpg) A [Harvester](Lore_Harvester.md) manipulating a soul (ESO)
+- [![](https://images.uesp.net/thumb/1/11/ON-npc-Watcher_Shavmar.jpg/200px-ON-npc-Watcher_Shavmar.jpg)](https://en.uesp.net/wiki/File:ON-npc-Watcher_Shavmar.jpg) Watcher Shavmar, an undead guardian created by soul magic (ESO)
+- [![](https://images.uesp.net/thumb/c/c2/ON-npc-Wisteria_03.jpg/200px-ON-npc-Wisteria_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-Wisteria_03.jpg) A memory projected through soul magic (ESO)
+- [![](https://images.uesp.net/thumb/0/06/ON-skill-Soul_Burst_06.jpg/200px-ON-skill-Soul_Burst_06.jpg)](https://en.uesp.net/wiki/File:ON-skill-Soul_Burst_06.jpg) Soul burst (ESO)
+- [![](https://images.uesp.net/thumb/3/3e/ON-quest-Most_Complicated_Machine.jpg/200px-ON-quest-Most_Complicated_Machine.jpg)](https://en.uesp.net/wiki/File:ON-quest-Most_Complicated_Machine.jpg) Soul transference in progress
+- [![](https://images.uesp.net/thumb/9/90/ON-quest-Of_Crown_And_Flowers_02.jpg/200px-ON-quest-Of_Crown_And_Flowers_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-Of_Crown_And_Flowers_02.jpg) A ritual to open a portal with soul magic
+- [![](https://images.uesp.net/thumb/7/74/ON-npc-Eolaf_02.jpg/200px-ON-npc-Eolaf_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Eolaf_02.jpg) Soul Siphon ritual (ESO)
+- [![](https://images.uesp.net/thumb/4/41/ON-skill-Soul_Rupture.jpg/200px-ON-skill-Soul_Rupture.jpg)](https://en.uesp.net/wiki/File:ON-skill-Soul_Rupture.jpg) Soul Rupture
+- [![](https://images.uesp.net/thumb/9/96/ON-object-Geyser.jpg/200px-ON-object-Geyser.jpg)](https://en.uesp.net/wiki/File:ON-object-Geyser.jpg) An Abyssal Pearl, an artifact powered by soul magic (ESO)
+- [![](https://images.uesp.net/thumb/d/df/ON-trap-Pillar_of_Judgement.jpg/200px-ON-trap-Pillar_of_Judgement.jpg)](https://en.uesp.net/wiki/File:ON-trap-Pillar_of_Judgement.jpg) Soul-powered towers (ESO)
+- [![](https://images.uesp.net/thumb/9/91/ON-crown_store-Soul_Crystals_of_the_Returned.jpg/200px-ON-crown_store-Soul_Crystals_of_the_Returned.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Soul_Crystals_of_the_Returned.jpg) Soul Crystals of the Returned
+- [![](https://images.uesp.net/thumb/4/42/ON-place-The_Prophet%27s_Cell.jpg/200px-ON-place-The_Prophet%27s_Cell.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Prophet%27s_Cell.jpg) The Prophet's Cell, requiring a living soul (ESO)
+- [![](https://images.uesp.net/thumb/f/f3/RG-scene-Iszara_Restored.jpg/200px-RG-scene-Iszara_Restored.jpg)](https://en.uesp.net/wiki/File:RG-scene-Iszara_Restored.jpg) An elegant flask made by [Clavicus Vile](Lore_Clavicus_Vile.md) to contain [Iszara](Lore_Iszara.md)'s soul (Redguard)
+- [![](https://images.uesp.net/thumb/a/ab/LG-cardart-Barilzar%27s_Tinkering.jpg/200px-LG-cardart-Barilzar%27s_Tinkering.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Barilzar%27s_Tinkering.jpg) An experiment with a soul (Legends)
+- [![](https://images.uesp.net/thumb/f/f9/LG-cardart-Soul_Shred.png/200px-LG-cardart-Soul_Shred.png)](https://en.uesp.net/wiki/File:LG-cardart-Soul_Shred.png) Soul Shred (Legends)
+- [![](https://images.uesp.net/thumb/c/c4/LG-cardart-Soul_Split.png/118px-LG-cardart-Soul_Split.png)](https://en.uesp.net/wiki/File:LG-cardart-Soul_Split.png) Soul Split (Legends)
+- [![](https://images.uesp.net/thumb/2/26/LG-cardart-Soul_Tear.png/200px-LG-cardart-Soul_Tear.png)](https://en.uesp.net/wiki/File:LG-cardart-Soul_Tear.png) Soul Tear (Legends)
+- [![](https://images.uesp.net/thumb/7/75/SR-interior-Castle_Volkihar_Soul_Cairn_Portal.jpg/200px-SR-interior-Castle_Volkihar_Soul_Cairn_Portal.jpg)](https://en.uesp.net/wiki/File:SR-interior-Castle_Volkihar_Soul_Cairn_Portal.jpg) Entrance to the Soul Cairn (Skyrim)
+- [![](https://images.uesp.net/thumb/5/54/SR-place-Soul_Cairn.jpg/200px-SR-place-Soul_Cairn.jpg)](https://en.uesp.net/wiki/File:SR-place-Soul_Cairn.jpg) The Soul Cairn (Skyrim)
+- [![](https://images.uesp.net/thumb/a/ae/SR-trap-Ideal_Master_Crystal.jpg/200px-SR-trap-Ideal_Master_Crystal.jpg)](https://en.uesp.net/wiki/File:SR-trap-Ideal_Master_Crystal.jpg) An Ideal Master (Skyrim)
+- [![](https://images.uesp.net/thumb/d/d9/SR-npc-Soul_15.jpg/200px-SR-npc-Soul_15.jpg)](https://en.uesp.net/wiki/File:SR-npc-Soul_15.jpg) Souls being drained by a Keeper (Skyrim)
+- [![](https://images.uesp.net/thumb/a/a9/SR-creature-Keeper_%28Bow%29.jpg/200px-SR-creature-Keeper_%28Bow%29.jpg)](https://en.uesp.net/wiki/File:SR-creature-Keeper_(Bow).jpg) A Keeper serving the Ideal Masters (Skyrim)
+- [![](https://images.uesp.net/thumb/3/37/SR-creature-Durnehviir.jpg/200px-SR-creature-Durnehviir.jpg)](https://en.uesp.net/wiki/File:SR-creature-Durnehviir.jpg) [Durnehviir](Lore_Durnehviir.md) (Skyrim)
+- [![](https://images.uesp.net/thumb/c/ca/SR-quest-Arniel%27s_Endeavor_02.jpg/200px-SR-quest-Arniel%27s_Endeavor_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-Arniel%27s_Endeavor_02.jpg) [Arniel Gane](Skyrim_Arniel_Gane.md) trapped by a warped Soul gem (Skyrim)
+
+## See Also
+- For game-specific information, see the [ESO article](https://en.uesp.net/wiki/Online:Soul_Magic) and [Skyrim article](Skyrim_Souls.md).
+
+## References
+1. [^](#cite_ref-1) Soul Mage Maven [title](https://en.uesp.net/wiki/Online:Titles) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-2) [Hyacinth](https://en.uesp.net/wiki/Online:Hyacinth)'s dialogue during the quest [Thorns and Blossoms](https://en.uesp.net/wiki/Online:Thorns_and_Blossoms) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [Tanlorin](https://en.uesp.net/wiki/Online:Tanlorin)'s dialogue during the quest [Uprooted](https://en.uesp.net/wiki/Online:Uprooted) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-TDF_4-0) [*Letter from Tanlorin*](Lore_Letter_from_Tanlorin.md) — [Tanlorin](Lore_Books_by_Author.md#Tanlorin)
+5. [^](#cite_ref-5) Events of [Of Crown and Flowers](https://en.uesp.net/wiki/Online:Of_Crown_and_Flowers) in *[ESO](https://en.uesp.net/wiki/Online:Online)*
+6. [^](#cite_ref-Lo S_6-0) Keyes, Greg. *[Lord of Souls](https://en.uesp.net/wiki/Books:Lord_of_Souls)*. Del Rey Books, 2011.
+7. [^](#cite_ref-7) [*Watcher Shavmar's Journal*](Lore_Watcher_Shavmar%27s_Journal.md) — [Watcher Shavmar](Lore_Books_by_Author.md#Watcher_Shavmar)
+8. [^](#cite_ref-8) [*Virmaril's Journal*](Lore_Virmaril%27s_Journal.md) — [Virmaril](Lore_Books_by_Author.md#Virmaril), Advisor to [High King Durac](Lore_High_King_Durac.md)
+9. [^](#cite_ref-TFOS_9-0) [*The Footsteps of Shezarr*](Lore_The_Footsteps_of_Shezarr.md) — [Sister Priscia Stolvo](Lore_Books_by_Author.md#Sister_Priscia_Stolvo)
+10. [^](#cite_ref-10) [The Wailing Maw](https://en.uesp.net/wiki/Online:The_Wailing_Maw) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-11) [God of Schemes](https://en.uesp.net/wiki/Online:God_of_Schemes) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-12) [*Telenger the Artificer Answers Your Questions*](Lore_Telenger_the_Artificer_Answers_Your_Questions.md) — [Telenger the Artificer](Lore_Books_by_Author.md#Telenger_the_Artificer)
+13. [^](#cite_ref-13) [Soul Magic](https://en.uesp.net/wiki/Online:Soul_Magic) skill line in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-14) [*Pearl Research Notes, Log 3*](Lore_Pearl_Research_Notes,_Log_3.md)
+15. [^](#cite_ref-15) [Veya Releth](https://en.uesp.net/wiki/Online:Veya_Releth)'s dialogue during the quest [A Necessary Alliance](https://en.uesp.net/wiki/Online:A_Necessary_Alliance) in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-16) [Summerset storyline](https://en.uesp.net/wiki/Online:Summerset#Story_Quests) in [ESO](https://en.uesp.net/wiki/Online:Online)

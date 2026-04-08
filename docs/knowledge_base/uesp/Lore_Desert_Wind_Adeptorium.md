@@ -1,0 +1,22 @@
+# Desert Wind Adeptorium
+
+| Desert Wind Adeptorium | |
+| --- | --- |
+| Type | Temple |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Elsweyr](Lore_Elsweyr.md) |
+| Region | [Anequina](Lore_Anequina.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Desert_Wind_Caverns) |
+
+[![](https://images.uesp.net/thumb/d/d4/ON-skyshard-Desert_Wind_Caverns.jpg/200px-ON-skyshard-Desert_Wind_Caverns.jpg)](https://en.uesp.net/wiki/File:ON-skyshard-Desert_Wind_Caverns.jpg) [](https://en.uesp.net/wiki/File:ON-skyshard-Desert_Wind_Caverns.jpg) A Skyshard in the Desert Wind Caverns Desert Wind Adeptorium is an ancient temple found in the region of [Anequina](Lore_Anequina.md), within the province of [Elsweyr](Lore_Elsweyr.md). The Desert Wind Adeptorium's original name is long forgotten, built to protect those from the rising power of [Darloc Brae](Lore_Darloc_Brae.md), known as the Golden Beast of Anequina. It is now the home of The Order of the Desert Wind (or the *"Zhan Khaj"* in [Ta'agra](Lore_Ta%27agra.md)),<sup>[[1]](#cite_note-ESOAbnur-1)</sup> one of the monastic orders that dot the landscape of Elsweyr, known to practice a specific form of [claw-dance](Lore_Claw-Dances.md) known as the *Desert Wind*.<sup>[[1]](#cite_note-ESOAbnur-1)</sup> The adeptorium hosts a subterranean cavern with various ruins known as the **Desert Wind Caverns**.
+
+## History
+The Desert Wind Adeptorium dates back as far as the early [First Era](Lore_First_Era.md), when the Golden Beast of Anequina, Darloc Brae began to insert his dominance over the north, which started in [1E 461](Lore_First_Era.md#1E_461). The monastery was built to protect the [Khajiit](Lore_Khajiit.md) fleeing his wrath, at least that is what is told in tradition. Its original name is lost to time,<sup>[[2]](#cite_note-ESODesert Wind-2)</sup> but it has since hosted the Order of the Desert Wind, one of the many orders that are found across the provinces. While the adeptorium expanded with initiates and adepts throughout the years underneath were spacious subterranean caves with ancient pillars blend together with the growing environment.
+
+Sometime in the [Interregnum](Lore_Interregnum.md), the Grand Adept of the Desert Winds was Sehana. In [2E 582](Lore_Second_Era.md#2E_582), Usurper Queen [Euraxia Tharn](Lore_Euraxia_Tharn.md) order her warriors to ransack the Desert Wind Adeptorium, to claim secrets need in her conquest for ultimate supremacy across Northern Elsweyr. The Euraxians infiltrated the sanctuary via the Desert Wind Caverns, using their [necromancy](Lore_Necromancy.md) to control ghostly spirits. Lieutenant Lepida orchestrated the attack onto the adeptorium and was successfully able to acquire knowledge from the Grand Adept. With the information, she killed the Grand Adept, only to be defeated by the adept, Zamarak and his [ally](Lore_Soulless_One.md). In retaliation, the Order of the Desert Wind joined the Northern Elsweyr Defense Force in their growing battle against Queen Euraxia Tharn and the returning [Dragons](Lore_Dragon.md).<sup>[[3]](#cite_note-ESOUsurper-3)</sup> All the while, the [Baandari Pedlars](Lore_Baandari_Pedlars.md) tended to send warriors to recover lost scrolls in the Desert Wind Caverns.<sup>[[4]](#cite_note-ESOWisdom-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOAbnur_1-0)***</sup><sup>***[b](#cite_ref-ESOAbnur_1-1)***</sup> [Abnur Tharn](https://en.uesp.net/wiki/Online:Abnur_Tharn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+2. [^](#cite_ref-ESODesert Wind_2-0) [Desert Wind Caverns](https://en.uesp.net/wiki/Online:Desert_Wind_Caverns) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+3. [^](#cite_ref-ESOUsurper_3-0) [The Usurper Queen](https://en.uesp.net/wiki/Online:The_Usurper_Queen) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+4. [^](#cite_ref-ESOWisdom_4-0) [Wisdom in the Winds](https://en.uesp.net/wiki/Online:Wisdom_in_the_Winds) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*

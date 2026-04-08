@@ -1,0 +1,11 @@
+# Minstrels Guild
+
+[![](https://images.uesp.net/thumb/2/20/ON-crown_store-Minstrel.jpg/200px-ON-crown_store-Minstrel.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Minstrel.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Minstrel.jpg) Minstrels The Minstrels Guild is an officially sanctioned guild. As their name implies, they employ minstrels from across the [Empire](Lore_Empire.md).<sup>[[1]](#cite_note-HOTFG-1)</sup>
+
+During the [Akaviri Potentate](Lore_Akaviri_Potentate.md) in [2E 321](Lore_Second_Era.md#2E_321), [Versidue-Shaie](Lore_Versidue-Shaie.md) gave his approval for the [Guild Act](Lore_Guild_Act.md), which sanctioned businesses such as the Minstrels Guild. They were hence protected by the Empire of [Cyrodiil](Lore_Cyrodiil.md), even into the [Third Era](Lore_Third_Era.md), but would be required to pay them if they wanted to expand their influence. The Empire had subsequently strengthened since the Guild Act was passed.<sup>[[1]](#cite_note-HOTFG-1)</sup><sup>[[2]](#cite_note-AP-2)</sup> "Regular" minstrels were described as [Sheogorath](Lore_Sheogorath.md) worshippers in the [Second Era](Lore_Second_Era.md).<sup>[[3]](#cite_note-Samuel-3)</sup> Minstrels in the [Imperial City](Lore_Imperial_City.md) sang of [Barenziah](Lore_Barenziah.md)'s dark beauty and charming ways in the [Third Era](Lore_Third_Era.md).<sup>[[4]](#cite_note-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-HOTFG_1-0)***</sup><sup>***[b](#cite_ref-HOTFG_1-1)***</sup> [*History of the Fighters Guild*](https://en.uesp.net/wiki/Lore:History_of_the_Fighters_Guild)
+2. [^](#cite_ref-AP_2-0) [Avita Pitio](https://en.uesp.net/wiki/Online:Avita_Pitio)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Samuel_3-0) [Samuel Gourone](https://en.uesp.net/wiki/Online:Samuel_Gourone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) [*The Real Barenziah*](Lore_The_Real_Barenziah.md) — [Anonymous](Lore_Books_by_Author.md#Plitinius_Mero)

@@ -1,0 +1,37 @@
+# Fang of Haynekhtnamet
+
+The Fang of Haynekhtnamet is a literal fang which was carved into a blade and fashioned into a small dagger in an exquisite [Argonian](Lore_Argonian.md) style.<sup>[[1]](#cite_note-TL-1)</sup><sup>[[2]](#cite_note-FL-2)</sup><sup>[[3]](#cite_note-SRFH-3)</sup> It is named after [Haynekhtnamet](Lore_Haynekhtnamet.md), a mythical [wamasu](Lore_Wamasu.md) from [Black Marsh](Lore_Black_Marsh.md).<sup>[[1]](#cite_note-TL-1)</sup> According to the book *[Tamrielic Lore](Lore_Tamrielic_Lore.md)*, the artifact was created by a score of [Nords](Lore_Nords.md) who fought Haynekhtnamet for seven days and nights before finally bringing the creature down, believing it to be a [dragon](Lore_Dragon.md). One of the survivors took a fang as a trophy, and it was later carved into a dagger which mysteriously houses some of the beast's [magical](Lore_Magic.md) properties. The dagger grants the wielder the ability to shock an opponent.<sup>[[1]](#cite_note-TL-1)</sup> Other reports indicate the dagger was taken from the eponymous wamasu in the [Shadowfen](Lore_Shadowfen.md) region of Black Marsh in [2E 582](Lore_Second_Era.md#2E_582), This jagged blade was heavily befouled and would cause disease in anyone it struck.<sup>[[3]](#cite_note-SRFH-3)</sup><sup>[[nb 1]](#intnote_Artifact)</sup> The Fang of Haynekhtnamet has been seen occasionally by traveling heroes throughout history.<sup>[[1]](#cite_note-TL-1)</sup>
+
+## History
+[Yagrum Bagarn](Lore_Yagrum_Bagarn.md), the last living [dwarf](Lore_Dwemer.md), at one point befriended the sorcerer [Divayth Fyr](Lore_Divayth_Fyr.md).<sup>[[4]](#cite_note-MWYB-4)</sup> At Fyr’s behest, Yagrum Bagarn wrote and compiled centuries of personal notes into a book that would become known as *[Tamrielic Lore](Lore_Tamrielic_Lore.md)*,<sup>[[5]](#cite_note-MWProphecies-5)</sup><sup>:241</sup> listing the Fang of Haynekhtnamet among the artifacts of "unimaginable significance". By the [Interregnum](Lore_Interregnum.md), copies had spread across Tamriel, offering readers rare insights into these legendary items,<sup>[[6]](#cite_note-TA-6)</sup> and Fyr himself hoped to utilize this knowledge in his search for the Fang of Haynekhtnamet and the other artifacts detailed in the book.<sup>[[7]](#cite_note-MWFR-7)</sup><sup>[[nb 2]](#intnote_TA)</sup>
+
+The Fang came into the possession of the [Sixth House](Lore_Sixth_House.md) during the late [Third Era](Lore_Third_Era.md). It was reportedly recovered in [3E 427](Lore_Third_Era.md#3E_427) by the [Nerevarine](Lore_Nerevarine.md) during an assault on the Sixth House stronghold of Mamaea.<sup>[[8]](#cite_note-8)</sup> Later that year, the blade was sold to [Torasa Aram](Lore_Torasa_Aram.md), who put it on display in her Museum of Artifacts in [Mournhold](Lore_Mournhold.md).<sup>[[9]](#cite_note-TRTM-9)</sup>
+
+Circa [4E 201](Lore_Fourth_Era.md#4E_201), the [Last Dragonborn](Lore_Last_Dragonborn.md) came under the tutelage of [Swims-In-Deep-Water](Lore_Swims-In-Deep-Water.md) at [Riften](Lore_Riften.md)'s Fishery. They performed many fishing challenges, perfecting their fishing skills while angling in [Skyrim](Lore_Skyrim.md)'s various biomes. From the snow-fringed waters above, to the subterranean streams down below,<sup>[[10]](#cite_note-SRFM-10)</sup> the Last Dragonborn proved their mettle and was granted the title of the legendary fisherman and the Fang of Haynekhtnamet.<sup>[[2]](#cite_note-FL-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/0f/MW-item-Fang_of_Haynekhtnamet.jpg/200px-MW-item-Fang_of_Haynekhtnamet.jpg)](https://en.uesp.net/wiki/File:MW-item-Fang_of_Haynekhtnamet.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/3/32/SR-item-Fang_of_Haynekhtnamet.jpg/200px-SR-item-Fang_of_Haynekhtnamet.jpg)](https://en.uesp.net/wiki/File:SR-item-Fang_of_Haynekhtnamet.jpg) Skyrim
+
+## Notes
+- | [^](#note_Artifact) | Due to account disparities, it is speculated that Haynekhtnamet was not actually a single creature, but a series of wamasu.<sup>[[11]](#cite_note-11)</sup> Therefore, it's possible that there are multiple Fangs. |
+| --- | --- |
+- | [^](#note_TA) | ESO's version of *[Tamrielic Lore](Lore_Tamrielic_Lore.md)* is *[Tamrielic Artifacts](Lore_Tamrielic_Artifacts.md)*. It has an entry on the Fang's creation which exists at the same time the player can obtain the artifact directly from Haynekhtnamet, but if its inclusion is intentional is unknown. ESO's version scrubbed mentions of various artifacts such as the [Daedric Crescent](Lore_Daedric_Crescent.md) and the [Dragonbone Cuirass](https://en.uesp.net/wiki/Lore:Dragonbone_Cuirass), but erroneously kept the [Bow of Shadows](Lore_Bow_of_Shadows.md)' reference to [Dram](Lore_Dram.md) who would not be [born](https://en.uesp.net/wiki/General:Redguard.com_Archive/Characters) until [2E 612](Lore_Second_Era.md#2E_612) |
+| --- | --- |
+- In ESO, this item is named "Swamp Raider's Fang of Haynekhtnamet" due to it being part of the [Swamp Raider](https://en.uesp.net/wiki/Online:Swamp_Raider) set. Wearing several items from this set will fortify weapon damage and stamina, as well as increase the potency of poison and disease attacks.
+
+## See Also
+- For game-specific information, see the *[Morrowind](https://en.uesp.net/wiki/Morrowind:Fang_of_Haynekhtnamet)* and *[Skyrim](Skyrim_Fang_of_Haynekhtnamet.md)*<sup>[CC](Skyrim_Fishing.md)</sup> pages, or the ESO item entry.
+
+## References
+1. ^ <sup>***[a](#cite_ref-TL_1-0)***</sup><sup>***[b](#cite_ref-TL_1-1)***</sup><sup>***[c](#cite_ref-TL_1-2)***</sup><sup>***[d](#cite_ref-TL_1-3)***</sup> [*Tamrielic Lore*](Lore_Tamrielic_Lore.md) — [Yagrum Bagarn](Lore_Books_by_Author.md#Yagrum_Bagarn)
+2. ^ <sup>***[a](#cite_ref-FL_2-0)***</sup><sup>***[b](#cite_ref-FL_2-1)***</sup> [Fishing Legend](Skyrim_Fishing_Legend.md) quest stage notes in the [Fishing](Skyrim_Fishing.md) [Creation](Skyrim_Creation_Club.md) for *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-SRFH_3-0)***</sup><sup>***[b](#cite_ref-SRFH_3-1)***</sup> Appearance of the Swamp Raider's Fang of Haynekhtnamet in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-MWYB_4-0) [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-MWProphecies_5-0) [*The Morrowind Prophecies: Game of the Year Edition*](https://en.uesp.net/wiki/Books:The_Morrowind_Prophecies:_Game_of_the_Year_Edition) — Peter Olafson
+6. [^](#cite_ref-TA_6-0) [*Tamrielic Artifacts*](Lore_Tamrielic_Artifacts.md)
+7. [^](#cite_ref-MWFR_7-0) [French version of](https://cslist.uesp.net/index.php?game=mwfr&edid=Tamrielic_Lore&rectype=BOOK) [Tamrielic Lore](https://en.uesp.net/wiki/Morrowind:Tamrielic_Lore)
+8. [^](#cite_ref-8) [Fang of Haynekhtnamet](https://en.uesp.net/wiki/Morrowind:Fang_of_Haynekhtnamet)'s location in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+9. [^](#cite_ref-TRTM_9-0) [The Museum](https://en.uesp.net/wiki/Tribunal:The_Museum) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+10. [^](#cite_ref-SRFM_10-0) [*Fishing Mastery*](Skyrim_Fishing_Mastery.md) — [Swims-In-Deep-Water](Skyrim_Swims-In-Deep-Water.md)
+11. [^](#cite_ref-11) [*Badly Damaged Journal*](https://en.uesp.net/wiki/Online:Badly_Damaged_Journal)

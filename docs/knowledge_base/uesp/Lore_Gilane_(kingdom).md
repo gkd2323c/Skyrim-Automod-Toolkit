@@ -1,0 +1,80 @@
+# Gilane
+
+| Gilane | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Hammerfell](Lore_Hammerfell.md) |
+| Region | [Khefrem](Lore_Khefrem.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Gilane) |
+
+[![](https://images.uesp.net/thumb/2/23/AR-place-Gilane.jpg/200px-AR-place-Gilane.jpg)](https://en.uesp.net/wiki/File:AR-place-Gilane.jpg) [](https://en.uesp.net/wiki/File:AR-place-Gilane.jpg) Gilane (Arena) [![](https://images.uesp.net/thumb/d/d5/LO-map-Hammerfell_%28Anthology%29.jpg/200px-LO-map-Hammerfell_%28Anthology%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Hammerfell_(Anthology).jpg) [](https://en.uesp.net/wiki/File:LO-map-Hammerfell_(Anthology).jpg) Map of Hammerfell *Gilane, the southern port of Hammerfell, welcomes thee into its walls. We stand ready for all who would come to us in peace...*
+—In-game description in *[Arena](https://en.uesp.net/wiki/Arena:Arena)* Gilane is one of the eight major cities in the province of [Hammerfell](Lore_Hammerfell.md),<sup>[[1]](#cite_note-ARMap-1)</sup> and is located on the south-central coast near the [Abecean Sea](Lore_Abecean_Sea.md), across the isthmus toward [Hew's Bane](Lore_Hew%27s_Bane.md).<sup>[[2]](#cite_note-RGMap-2)</sup> In the [Third Era](Lore_Third_Era.md), the city was the seat of power for the eponymous **Kingdom of Gilane**.<sup>[[3]](#cite_note-TWQ4-3)</sup>
+
+## Layout and Geography
+[![](https://images.uesp.net/thumb/3/3c/ON-interior-Volenfell_02.jpg/200px-ON-interior-Volenfell_02.jpg)](https://en.uesp.net/wiki/File:ON-interior-Volenfell_02.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Volenfell_02.jpg) Volenfell [![](https://images.uesp.net/thumb/3/38/ON-place-Prince%27s_Gate.jpg/200px-ON-place-Prince%27s_Gate.jpg)](https://en.uesp.net/wiki/File:ON-place-Prince%27s_Gate.jpg) [](https://en.uesp.net/wiki/File:ON-place-Prince%27s_Gate.jpg) The Prince's Gate Gilane is situated in southern Hammerfell, just south of the [Alik'r Desert](Lore_Alik%27r_Desert.md).<sup>[[4]](#cite_note-LOMap-4)</sup><sup>[[5]](#cite_note-PGE3-5)</sup> Sources from the late Third Era suggest that the [Rourken](Lore_Rourken.md) clan's former capital city, [Volenfell](Lore_Volenfell.md) is located somewhere outside the town.<sup>[[5]](#cite_note-PGE3-5)</sup> Just further south is an isthmus that connects the mainland with the Hew's Bane peninsula,<sup>[[2]](#cite_note-RGMap-2)</sup> formerly known as [Khefrem](Lore_Khefrem.md)'s Boot.<sup>[[6]](#cite_note-IDOPH-6)</sup> The main road runs right on it and is surrounded by a rocky mountain pass that begins in Gilane and ends at the Prince's Gate, an old, fortified structure on Hew's Bane.<sup>[[1]](#cite_note-ARMap-1)</sup><sup>[[7]](#cite_note-ONHews-7)</sup>
+
+Gilane is specifically on the west side of the isthmus, on the large bay it shares with Hegathe, where it has a port.<sup>[[4]](#cite_note-LOMap-4)</sup><sup>[[8]](#cite_note-AR-8)</sup> Though the city's allegiance is unknown, the southern coast of Hammerfell is predominantly held by the [Forebears](Lore_Forebears.md).<sup>[[5]](#cite_note-PGE3-5)</sup> Gilane was neighbored by several settlements, such as [Hegathe](Lore_Hegathe.md) to the far west and Lainebon Place to the northeast.<sup>[[1]](#cite_note-ARMap-1)</sup>
+
+### Notable Locales
+| - [Brotherhood of Seth](Lore_Brotherhood_of_Seth.md)<sup>[[8]](#cite_note-AR-8)</sup> <br> - [Conclave of Riana](Lore_Conclave_of_Riana.md)<sup>[[8]](#cite_note-AR-8)</sup> <br> - [Gilane Docks](Lore_Sea_Transportation.md#Redguards)<sup>[[8]](#cite_note-AR-8)</sup> | - Gilane Palace<sup>[[8]](#cite_note-AR-8)</sup> <br> - [Mages Guild](Lore_Mages_Guild.md)<sup>[[8]](#cite_note-AR-8)</sup><sup>[†](#intnote_loc)</sup> <br> - Khefrem Academy of Yokudan Heritage<sup>[[9]](#cite_note-THFOS-9)</sup> |
+| --- | --- |
+
+[†](#note_loc) *Either this location was destroyed or its associated faction is dissolved. See the linked page for more information.*
+## History
+When Gilane was founded is unknown, however, the Tavan wave of the [Ra Gada](Lore_Ra_Gada.md) was known to have settled this portion of the province.<sup>[[10]](#cite_note-CM28-10)</sup> By the late first century of the [Third Era](Lore_Third_Era.md) in [3E 98](Lore_Third_Era.md#3E_98), the twenty-one-year-old Prince [Cephorus](Lore_Cephorus_I.md) was engaged to the Queen of Gilane, Bianki,<sup>[[11]](#cite_note-TWQ3-11)</sup> and eleven years later, the two were married and had a healthy brood of children.<sup>[[3]](#cite_note-TWQ4-3)</sup><sup>[[Note 1]](#intnote_Wife)</sup> His reign over the kingdom was prosperous and his relationship with other kingdoms were peaceful, much like with his siblings and their domains.<sup>[[12]](#cite_note-TWQ5-12)</sup>
+
+When the [War of the Red Diamond](Lore_War_of_the_Red_Diamond.md) started in [3E 121](Lore_Third_Era.md#3E_121), King Cephorus and his Redguard army were at the forefront of the conflict, especially as he re-conquered western [High Rock](Lore_High_Rock.md) in the summer of [3E 125](Lore_Third_Era.md#3E_125). Cephorus' armies were focused throughout High Rock and eventually moved back into Hammerfell, where he confronted [Uriel III](Lore_Uriel_III.md)'s armies in [Ichidag](Lore_Ichidag.md) in [3E 127](Lore_Third_Era.md#3E_127). Cephorus' forces overtook Uriel III and the King arranged his transport to his castle in Gilane, where he would have been put on trial. But before the Emperor arrived, an angry crowd tore through his carriage and killed him. Not long after the incident, King Cephorus was proclaimed the Emperor of Tamriel as Cephorus Septim I.<sup>[[13]](#cite_note-TWQ7-13)</sup><sup>[[14]](#cite_note-BOTWQ-14)</sup> By [3E 136](Lore_Third_Era.md#3E_136), Queen Bianki had passed away and all of her children died during the War of the Red Diamond, and four years later in [3E 140](Lore_Third_Era.md#3E_140), Emperor Cephorus I passed away himself after falling off a [horse](Lore_Horse.md).<sup>[[15]](#cite_note-TWQ8-15)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the city-state of Gilane was an active settlement. It was ruled by King Coc and had a rivalry with Hegathe and [Taneth](Lore_Taneth.md).<sup>[[8]](#cite_note-AR-8)</sup> Not much is known about Gilane during the [Great War](Lore_Great_War.md), but by [4E 172](Lore_Fourth_Era.md#4E_172), the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) claimed the southern coast of Hammerfell and all of its cities, except for the former capital, Hegathe. When the [White-Gold Concordat](Lore_White-Gold_Concordat.md) was signed in [4E 175](Lore_Fourth_Era.md#4E_175), it marked the official cession of southern Hammerfell to the Thalmor, but five years later in [4E 180](Lore_Fourth_Era.md#4E_180), the Redguards reclaimed it after the signing of the [Second Treaty of Stros M'Kai](Lore_Second_Treaty_of_Stros_M%27Kai.md). Much of the region was left devastated after the war, however.<sup>[[16]](#cite_note-TGW-16)</sup>
+
+### Known Rulers
+- The **Third Era** - Unnamed King of Gilane *(ca. [3E 80](Lore_Third_Era.md#3E_80))*<sup>[[17]](#cite_note-TWQ1-17)</sup>
+- Queen Bianki *(fl. [3E 98](Lore_Third_Era.md#3E_98) – [3E 127](Lore_Third_Era.md#3E_127))*<sup>[[11]](#cite_note-TWQ3-11)</sup> — *Bianki was already the Queen of Gilane when she was engaged to the then Prince Cephorus in 3E 98.<sup>[[11]](#cite_note-TWQ3-11)</sup> The two left the throne when Cephorus became the Emperor of Tamriel and moved to the Imperial City.*<sup>[[15]](#cite_note-TWQ8-15)</sup> - King [Cephorus](Lore_Cephorus_I.md) *(fl. [3E 109](Lore_Third_Era.md#3E_109) – [3E 127](Lore_Third_Era.md#3E_127))*<sup>[[3]](#cite_note-TWQ4-3)</sup><sup>[[15]](#cite_note-TWQ8-15)</sup>
+- King Coc *(fl. [3E 389](Lore_Third_Era.md#3E_389) – [3E 399](Lore_Third_Era.md#3E_399))*<sup>[[8]](#cite_note-AR-8)</sup>
+
+## Culture and Society
+[](https://en.uesp.net/wiki/File:ON-icon-armor-Helm-Abah%27s_Watch.png) [](https://en.uesp.net/wiki/File:ON-icon-armor-Helm-Abah%27s_Watch.png) Abah's Watch helm imported from Gilane
+- *For more information, see the: **[Culture](Lore_Redguard.md#Culture)** and **[Society](Lore_Redguard.md#Society)** sections on the Redguard page.*
+
+The musk of the local [Fennec Fox](Lore_Fennec_Fox.md) is made into a perfume that is considered very fashionable for the nobility of southern Hammerfell, including Gilane.<sup>[[18]](#cite_note-ONContra-18)</sup> Gilane is known to export some of its goods, such as turbaned conical helmets and fine glass goblets with gilt brims.<sup>[[19]](#cite_note-CM32:AW-19)</sup><sup>[[20]](#cite_note-So FGG-20)</sup> Greens seasoned with [garlic](Lore_Garlic.md) is local dish in Gilane.<sup>[[21]](#cite_note-ONGreens-21)</sup>
+
+Like other cities on the Hammerfell coast, the Redguards of Gilane observe the 20th of [Rain's Hand](Lore_Rain%27s_Hand.md) as the [Day of Shame](Lore_Day_of_Shame.md). According to legend, the Crimson Ship, a vessel full of [Kothringi](Lore_Kothringi.md) victims of the [Knahaten Flu](Lore_Knahaten_Flu.md) first left [Black Marsh](Lore_Black_Marsh.md) on the 9th of [First Seed](Lore_First_Seed.md) and was denied refuge from every port on Tamriel. It was later westbound for the Abecean Sea and was never seen again. It is said to one day return and the Day of Shame was created in remembrance of that.<sup>[[22]](#cite_note-TDC-22)</sup><sup>:7</sup><sup>[[23]](#cite_note-DFHoliday-23)</sup>
+
+## Notes
+- | [^](#note_Wife) | The historical-fiction novel series, *[The Wolf Queen](Lore_The_Wolf_Queen.md)* claims that Prince Cephorus married Queen Bianki and had plenty of children, but the book, *[The Madness of Pelagius](Lore_The_Madness_of_Pelagius.md)* claims that he never married nor had any children. Even though the former is considered fiction to some regard, the latter is discredited for incorrectly claiming that [Pelagius III](Lore_Pelagius_Septim_III.md)'s mother is [Utheilla Direnni](Lore_Utheilla_Direnni.md) so the extent of its validity is debatable. This claim is made by [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson), who wrote both books during development.<sup>[[24]](#cite_note-TAPI-24)</sup> |
+| --- | --- |
+- *[Arena](https://en.uesp.net/wiki/Arena:Arena)* was originally conceived as a fighting game featuring a tournament that took the player to each of Tamriel's cities to challenge different gladiatorial teams. According to a file from that stage of development left behind in the final game, Gilane's gladiatorial team would have been called "the [Dire Wolves](Lore_Dire_Wolf.md)".<sup>[[UOL 1]](#cite_note-25)</sup>
+
+## See Also
+- For game-specific information, see the [*Arena* article](https://en.uesp.net/wiki/Arena:Gilane).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ARMap_1-0)***</sup><sup>***[b](#cite_ref-ARMap_1-1)***</sup><sup>***[c](#cite_ref-ARMap_1-2)***</sup> [Map of Hammerfell – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Hammerfell_towns.png)
+2. ^ <sup>***[a](#cite_ref-RGMap_2-0)***</sup><sup>***[b](#cite_ref-RGMap_2-1)***</sup> [Map of West Tamriel – *The Elder Scrolls Adventures: Redguard*](https://en.uesp.net/wiki/File:RG-map-West_Tamriel-1024x768.png)
+3. ^ <sup>***[a](#cite_ref-TWQ4_3-0)***</sup><sup>***[b](#cite_ref-TWQ4_3-1)***</sup><sup>***[c](#cite_ref-TWQ4_3-2)***</sup> [*The Wolf Queen, v4*](Lore_The_Wolf_Queen,_v4.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+4. ^ <sup>***[a](#cite_ref-LOMap_4-0)***</sup><sup>***[b](#cite_ref-LOMap_4-1)***</sup> [Map of Hammerfell – *The Elder Scrolls Anthology*](https://en.uesp.net/wiki/File:LO-map-Hammerfell_(Anthology).jpg)
+5. ^ <sup>***[a](#cite_ref-PGE3_5-0)***</sup><sup>***[b](#cite_ref-PGE3_5-1)***</sup><sup>***[c](#cite_ref-PGE3_5-2)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Ra Gada: Hammerfell*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Hammerfell.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+6. [^](#cite_ref-IDOPH_6-0) [*In Defense of Prince Hubalajad*](Lore_In_Defense_of_Prince_Hubalajad.md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+7. [^](#cite_ref-ONHews_7-0) [Hew's Bane](https://en.uesp.net/wiki/Online:Hew%27s_Bane) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+8. ^ <sup>***[a](#cite_ref-AR_8-0)***</sup><sup>***[b](#cite_ref-AR_8-1)***</sup><sup>***[c](#cite_ref-AR_8-2)***</sup><sup>***[d](#cite_ref-AR_8-3)***</sup><sup>***[e](#cite_ref-AR_8-4)***</sup><sup>***[f](#cite_ref-AR_8-5)***</sup><sup>***[g](#cite_ref-AR_8-6)***</sup><sup>***[h](#cite_ref-AR_8-7)***</sup> [Gilane](https://en.uesp.net/wiki/Arena:Gilane) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+9. [^](#cite_ref-THFOS_9-0) [*The Horse-Folk of Silverhoof*](Lore_The_Horse-Folk_of_Silverhoof.md) — [Doctor Nabeth al-Gilane](Lore_Books_by_Author.md#Doctor_Nabeth_al-Gilane), [Khefrem](Lore_Khefrem.md) Academy of Yokudan Heritage
+10. [^](#cite_ref-CM28_10-0) [*Crafting Motif 28: Ra Gada Style*](Lore_Crafting_Motif_28__Ra_Gada_Style.md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+11. ^ <sup>***[a](#cite_ref-TWQ3_11-0)***</sup><sup>***[b](#cite_ref-TWQ3_11-1)***</sup><sup>***[c](#cite_ref-TWQ3_11-2)***</sup> [*The Wolf Queen, v3*](Lore_The_Wolf_Queen,_v3.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+12. [^](#cite_ref-TWQ5_12-0) [*The Wolf Queen, v5*](Lore_The_Wolf_Queen,_v5.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+13. [^](#cite_ref-TWQ7_13-0) [*The Wolf Queen, v7*](Lore_The_Wolf_Queen,_v7.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+14. [^](#cite_ref-BOTWQ_14-0) [*Biography of the Wolf Queen*](Lore_Biography_of_the_Wolf_Queen.md) — [Katar Eriphanes](Lore_Books_by_Author.md#Katar_Eriphanes)
+15. ^ <sup>***[a](#cite_ref-TWQ8_15-0)***</sup><sup>***[b](#cite_ref-TWQ8_15-1)***</sup><sup>***[c](#cite_ref-TWQ8_15-2)***</sup> [*The Wolf Queen, v8*](Lore_The_Wolf_Queen,_v8.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+16. [^](#cite_ref-TGW_16-0) [*The Great War*](Lore_The_Great_War_(book).md) — Legate [Justianus Quintius](Lore_Books_by_Author.md#Justianus_Quintius)
+17. [^](#cite_ref-TWQ1_17-0) [*The Wolf Queen, v1*](Lore_The_Wolf_Queen,_v1.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+18. [^](#cite_ref-ONContra_18-0) [Bottle of Fennec Musk Perfume](https://en.uesp.net/wiki/Online:Contraband_B#Bottle_of_Fennec_Musk_Perfume) contraband text in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-CM32:AW_19-0) [*Crafting Motif 32: Abah's Watch Style*](Lore_Crafting_Motif_32__Abah%27s_Watch_Style.md) — [Merchant Lord Orahan at-Addin](Lore_Books_by_Author.md#Merchant_Lord_Orahan_at-Addin)
+20. [^](#cite_ref-So FGG_20-0) [Set of Four Gilane Goblets](https://en.uesp.net/wiki/Online:Contraband/Drinkware#Set_of_Four_Gilane_Goblets) contraband text in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-ONGreens_21-0) [Gilane Garlicky Greens](https://en.uesp.net/wiki/Online:Gilane_Garlicky_Greens) in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-TDC_22-0) [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) — Ronald Wartow
+23. [^](#cite_ref-DFHoliday_23-0) [Day of Shame](https://en.uesp.net/wiki/Daggerfall:Holidays#Day_of_Shame) holiday description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+24. [^](#cite_ref-TAPI_24-0) [Time and Place inconsistences – The Imperial Library](https://www.imperial-library.info/content/time-and-place-inconsistencies)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-25) [Original TES: Arena texts at the Imperial Library](http://www.imperial-library.info/content/go-blades)

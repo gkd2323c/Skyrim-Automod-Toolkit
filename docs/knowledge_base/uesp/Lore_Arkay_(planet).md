@@ -1,0 +1,23 @@
+# Arkay (planet)
+
+[![](https://images.uesp.net/thumb/9/98/OB-interior-Orrery_%28labeled%29.jpg/200px-OB-interior-Orrery_%28labeled%29.jpg)](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) [](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) The names of the heavenly bodies around [Nirn](Lore_Nirn.md) [![](https://images.uesp.net/thumb/1/1c/OBbsign_Thief.jpg/200px-OBbsign_Thief.jpg)](https://en.uesp.net/wiki/File:OBbsign_Thief.jpg) [](https://en.uesp.net/wiki/File:OBbsign_Thief.jpg) The Thief Constellation The planet Arkay, sometimes called **RKHET**,<sup>[[1]](#cite_note-36LOVS3-1)</sup> is one of the Dominion Planets in the skies of [Mundus](Lore_Mundus.md),<sup>[[UOL 1]](#cite_note-Cosmo-2)</sup> and according to the Warrior-Poet, [Vivec](Lore_Vivec.md), it is one of the eight worlds known to the [Dwemer](Lore_Dwemer.md).<sup>[[1]](#cite_note-36LOVS3-1)</sup> No other planet orbits Arkay.<sup>[[2]](#cite_note-OBOrrery-3)</sup> Arkay marks the eye of the [Thief](Lore_The_Thief.md) [constellation](Lore_Constellations.md). As with all astral bodies seen in the skies above [Nirn](Lore_Nirn.md) and their corresponding deities, the planet Arkay is believed to be the plane of the god [Arkay](Lore_Arkay.md) as well as the god himself, as seen from the mortal plane. It is said to actually be a different [plane of existence](Lore_Planes_of_Existence.md) in its own right, infinite in size and mass, with its appearance as a sphere being only a visual phenomenon caused by mortal mental stress.<sup>[[UOL 1]](#cite_note-Cosmo-2)</sup>
+
+According to some accounts, the mortal realms were formed by the Aedra out of [Creatia](Lore_Chaotic_Creatia.md).<sup>[[3]](#cite_note-Co S-4)</sup> Though scholars largely agree no mortal beings live on Arkay or [Akatosh](Lore_Akatosh_(planet).md), [Azandar al-Cybiades](Lore_Azandar_al-Cybiades.md) theorized that the power [Ayleid Wells](Lore_Ayleid_Wells.md) reroute back towards the heavens was being collected by someone.<sup>[[4]](#cite_note-Azandar Dialogue-5)</sup>
+
+The [Necromancer's Moon](Lore_Necromancer%27s_Moon.md) eclipses the light of Arkay once every eight days, shining down a purple light called the Shade of the Revenant. Various altars constructed in far-off places like the [Dark Fissure](Lore_Dark_Fissure.md) harness the light to create [Black Soul Gems](Lore_Black_Soul_Gem.md).<sup>[[5]](#cite_note-NM-6)</sup> In [Vivec](Lore_Vivec.md)'s [33rd sermon](Lore_36_Lessons_of_Vivec,_Sermon_33.md), he calls Arkay the **south-pole-star** of thieving, referencing its position on the Thief constellation. It also describes Vivec's account of [Baar Dau](Lore_Baar_Dau.md)'s fall. In his telling, he sends [Nerevar](Lore_Nerevar.md) to the Heavens and to destroy the meteor. There, he made peace with the south-pole-star and other pole-stars, allowing him to wander among their charges and giving him red sight to find Baar Dau in the Hidden Heaven.<sup>[[6]](#cite_note-36LOVS33-7)</sup>
+
+## Notes
+- There is a similarly named star called the [Southron Pole Star](Lore_Southron_Pole_Star.md) but whether they are the same or related is unknown.<sup>[[7]](#cite_note-CT-8)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-36LOVS3_1-0)***</sup><sup>***[b](#cite_ref-36LOVS3_1-1)***</sup> [*36 Lessons of Vivec, Sermon 3*](Lore_36_Lessons_of_Vivec,_Sermon_3.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-OBOrrery_3-0) [The Orrery in Cyrodiil – *The Elder Scrolls IV: Oblivion*](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg)
+3. [^](#cite_ref-Co S_4-0) [*Charge of Shor*](Lore_Charge_of_Shor.md) — [Frogirde](Lore_Books_by_Author.md#Frogirde)
+4. [^](#cite_ref-Azandar Dialogue_5-0) [Azandar al-Cybiades](https://en.uesp.net/wiki/Online:Azandar_al-Cybiades)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-NM_6-0) [*Necromancer's Moon*](Lore_Necromancer%27s_Moon_(book).md)
+6. [^](#cite_ref-36LOVS33_7-0) [*36 Lessons of Vivec, Sermon 33*](Lore_36_Lessons_of_Vivec,_Sermon_33.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+7. [^](#cite_ref-CT_8-0) [*Calcinator Treatise*](Lore_Calcinator_Treatise.md)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-Cosmo_2-0)***</sup><sup>***[b](#cite_ref-Cosmo_2-1)***</sup> [*Cosmology*](https://en.uesp.net/wiki/General:Cosmology) — [The Temple Zero Society](Lore_Temple_Zero_Society.md)

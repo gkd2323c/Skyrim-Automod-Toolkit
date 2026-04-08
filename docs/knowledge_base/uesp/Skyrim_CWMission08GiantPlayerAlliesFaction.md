@@ -1,0 +1,3 @@
+# CWMission08GiantPlayerAlliesFaction
+
+Redirects to [CWMission08GiantPlayerAlliesFaction](Skyrim_Factions_O.md#CWMission08GiantPlayerAlliesFaction).

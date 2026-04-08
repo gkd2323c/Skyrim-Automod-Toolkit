@@ -1,0 +1,44 @@
+# Darkshade Caverns
+
+| Darkshade Caverns | |
+| --- | --- |
+| Type | Cavern |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Morrowind](Lore_Morrowind.md) |
+| Region | [Deshaan](Lore_Deshaan.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Darkshade_Caverns) |
+
+[![](https://images.uesp.net/thumb/2/2f/ON-interior-Darkshade_Caverns.jpg/200px-ON-interior-Darkshade_Caverns.jpg)](https://en.uesp.net/wiki/File:ON-interior-Darkshade_Caverns.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Darkshade_Caverns.jpg) The Depths of Darkshade Caverns containing Rkugamz [![](https://images.uesp.net/thumb/6/65/ON-place-Darkshade_Caverns_02.jpg/200px-ON-place-Darkshade_Caverns_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Darkshade_Caverns_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Darkshade_Caverns_02.jpg) Darkshade Caverns Darkshade Caverns are located in the [Deshaan](Lore_Deshaan.md) region of mainland [Morrowind](Lore_Morrowind.md). It is the site of well-renowned [kwama](Lore_Kwama.md) egg mines owned by House Selos, and eggs harvested from them are prized by [Dunmeri](Lore_Dunmer.md) gourmets.<sup>[[1]](#cite_note-1)</sup> Amidst a conflict over a rumored fortune between a group of thugs and House Selos, the kwama dug deeper into the caverns and uncovered the previously hidden [Dwemer](Lore_Dwemer.md) ruins of **Rkugamz**.
+
+The ecosystem of the cavern is rich, with the egg mines of the cavern having a large community of domesticated kwama. The depths of the cavern around the ruins of Rkugamz has a vibrant community of other creatures, such as [Alits](Lore_Alit.md) and [Netch](Lore_Netch.md), alongside the kwama that had previously inhabited the egg mines. Much of the plant life of the caverns is bioluminescent, including a plant by the same name, the [Darkshade Glowstalk](Lore_Darkshade_Glowstalk.md).
+
+## History
+Rkugamz was a Dwemer ruin constructed by the [Dwemer](Lore_Dwemer.md) in an age long past. They created a powerful machine called the Great Engine for mysterious reasons. The device was rumored to have been cursed by the [Aedra](Lore_Aedra.md), forcing the Dwemer who once lived in the city to abandon it long before their race's disappearance in [1E 700](Lore_First_Era.md#1E_700).<sup>[[2]](#cite_note-ESOS-2)</sup> At some point, the mines of Darkshade were constructed in the caverns above the ruins.
+
+As evidenced by Imperial artifacts found on the Dwemer animunculi of Rkugamz by the two Undaunted expeditions in the Second Era, some form of Imperial expedition had preceded them and been killed by the automatons of Rkugamz. Little beyond the fact that their weaponry was found is known, and as such the nature of the Imperial expedition remains unknown.<sup>[[3]](#cite_note-ESOUnique Items-3)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), a rumor spread that the owner of the egg mine, Master Selos, hid his fortune within the mine's depths.<sup>[[4]](#cite_note-ESONS-4)</sup> The Dunmer Tervur Sadri, in an effort to obtain the fortune, hired a group of thugs called the Pit Rats to take over the mine. The Pit Rats were able to accomplish their task, and he murdered Master Selos and stole his deed to the egg mine. During the Pit Rat incursion into the Caverns, the kwama inside burrowed through the cavern walls and uncovered the long-buried city of Rkugamz. Despite the pressures Sadri faced from being marked as a murderer, his progress had made his ambitions grown even more, and persuaded him to continue in his endeavor. With the egg mine's deed now in his collection, Sadri donned the guise of the mine's owner and hired a group of [Undaunted](Lore_Undaunted.md) adventurers to clean out his former accomplices whom he now deemed to be competitors. Sadri's plot was revealed during their cleanup by Nervyna Selos, the daughter of Master Selos. Sadri then fled from the mines and fled deeper into caverns into the ruins of Rkugamz, where he took shelter behind a horde of [Dwemer animunculi](Lore_Dwemer_Animunculi.md). The Undaunted adventurers fought off the animunculi and faced the Dwemer centurion known as the Sentinel of Rkugamz, a large automaton which had three distinct functions denoted by different colors.<sup>[[5]](#cite_note-ESOSOR-5)</sup> Sadri was subsequently apprehended and killed after the Dwemer animunculi were defeated, thus ending the threat that the thugs posed to the egg mine's owners. The hidden fortune, if it existed, was deemed to be lost with the death of the Master Selos.<sup>[[4]](#cite_note-ESONS-4)</sup>
+
+Later that year, the Undaunted were once again called into the caverns along with the [Mages Guild](Lore_Mages_Guild.md), as the Kwama wandered further into the ruins and accidentally activated the previously dormant Great Engine.<sup>[[2]](#cite_note-ESOS-2)</sup> A great illness was unleashed upon the inhabitants of the caverns as a result, and animals and egg miners alike became transmuted and feral, resulting in carnage as the affected and animunculi fought throughout the mine.<sup>[[4]](#cite_note-ESONS-4)</sup> The adventurers made their way through the hostile victims of the Engine, finally reaching Rkugamz. Within it, they encountered the Engine Guardian, a giant Dwarven Spider that, like the Sentinel of Rkugamz, had three different functions denoted by distinct colors.<sup>[[6]](#cite_note-ESOEG-6)</sup> The guardian was slain and the Great Engine was destroyed, eliminating the threat posed by the device. Members of the Mages Guild subsequently remained in the caverns to further study the ruins following the clearing of the threats within.<sup>[[2]](#cite_note-ESOS-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/0f/ON-place-Darkshade_Caverns.jpg/200px-ON-place-Darkshade_Caverns.jpg)](https://en.uesp.net/wiki/File:ON-place-Darkshade_Caverns.jpg) Darkshade Caverns' Kwama Mine (ca. 2E 582)
+- [![](https://images.uesp.net/thumb/6/6a/ON-interior-Darkshade_Caverns_02.jpg/200px-ON-interior-Darkshade_Caverns_02.jpg)](https://en.uesp.net/wiki/File:ON-interior-Darkshade_Caverns_02.jpg) Depths of Darkshade Caverns
+- [![](https://images.uesp.net/thumb/b/b9/ON-interior-Darkshade_Caverns_03.jpg/200px-ON-interior-Darkshade_Caverns_03.jpg)](https://en.uesp.net/wiki/File:ON-interior-Darkshade_Caverns_03.jpg) Rkugamz Great Engine Room Exterior
+- [![](https://images.uesp.net/thumb/0/08/ON-interior-Rkugamz.jpg/200px-ON-interior-Rkugamz.jpg)](https://en.uesp.net/wiki/File:ON-interior-Rkugamz.jpg) Rkugamz Great Engine Room Interior
+- [![](https://images.uesp.net/thumb/c/ca/ON-item-The_Great_Engine.jpg/200px-ON-item-The_Great_Engine.jpg)](https://en.uesp.net/wiki/File:ON-item-The_Great_Engine.jpg) The Great Engine
+- [![](https://images.uesp.net/thumb/1/19/ON-flora-Darkshade_Glowstalk.jpg/200px-ON-flora-Darkshade_Glowstalk.jpg)](https://en.uesp.net/wiki/File:ON-flora-Darkshade_Glowstalk.jpg) Darkshade Glowstalk
+- [![](https://images.uesp.net/thumb/8/88/ON-creature-Sentinel_of_Rkugamz_04.jpg/200px-ON-creature-Sentinel_of_Rkugamz_04.jpg)](https://en.uesp.net/wiki/File:ON-creature-Sentinel_of_Rkugamz_04.jpg) Sentinel of Rkugamz
+- [![](https://images.uesp.net/thumb/3/3d/ON-creature-The_Engine_Guardian_02.jpg/200px-ON-creature-The_Engine_Guardian_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-The_Engine_Guardian_02.jpg) Engine Guardian
+
+## Notes
+- Darkshade Caverns should not be confused with Darkshade Copse, a similarly named cave in [Skyrim](Lore_Skyrim.md).<sup>[[7]](#cite_note-SR-7)</sup>
+
+## References
+1. [^](#cite_ref-1) [ESO loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) for [Darkshade Caverns](https://en.uesp.net/wiki/Online:Darkshade_Caverns)
+2. ^ <sup>***[a](#cite_ref-ESOS_2-0)***</sup><sup>***[b](#cite_ref-ESOS_2-1)***</sup><sup>***[c](#cite_ref-ESOS_2-2)***</sup> [Shatasha](https://en.uesp.net/wiki/Online:Shatasha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ESOUnique Items_3-0) Imperial [unique items](https://en.uesp.net/wiki/Online:Unique_Items) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-ESONS_4-0)***</sup><sup>***[b](#cite_ref-ESONS_4-1)***</sup><sup>***[c](#cite_ref-ESONS_4-2)***</sup> [Nervyna Selos](https://en.uesp.net/wiki/Online:Nervyna_Selos)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ESOSOR_5-0) [Sentinel of Rkugamz](https://en.uesp.net/wiki/Online:Sentinel_of_Rkugamz)'s appearance and abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ESOEG_6-0) [The Engine Guardian](https://en.uesp.net/wiki/Online:The_Engine_Guardian)'s appearance and abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-SR_7-0) Appearance of [Darkshade](Skyrim_Darkshade.md) in *[Skyrim](Skyrim_Skyrim.md)*

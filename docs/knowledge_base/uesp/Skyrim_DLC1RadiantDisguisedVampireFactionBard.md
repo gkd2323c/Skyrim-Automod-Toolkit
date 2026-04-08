@@ -1,0 +1,3 @@
+# DLC1RadiantDisguisedVampireFactionBard
+
+Redirects to [DLC1RadiantDisguisedVampireFactionBard](Skyrim_Factions_D.md#DLC1RadiantDisguisedVampireFactionBard).

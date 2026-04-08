@@ -1,0 +1,22 @@
+# Sphinx
+
+[![](https://images.uesp.net/thumb/a/aa/ON-furnishing-Sweet_Khenarthi%27s_Song_03.jpg/200px-ON-furnishing-Sweet_Khenarthi%27s_Song_03.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Sweet_Khenarthi%27s_Song_03.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Sweet_Khenarthi%27s_Song_03.jpg) Khenarthi depicted as a Sphinx The Sphinx is a mythical creature that has been associated with the province of [Elsweyr](Lore_Elsweyr.md). The nature of these creatures is unknown, as is the time period they come from. There have been two known sphinxes in history, one of which was the Sphinx of Gazia, [Agamanus](Lore_Agamanus.md), who has a [temple](Lore_Temple_of_Agamanus.md) made in their honor. The other was the Sphinx of Canus, [Igon](Lore_Igon.md).<sup>[[1]](#cite_note-ARTHo C-1)</sup> The [Jewel of the Sphinx](Lore_Jewel_of_the_Sphinx.md) is a prized artifact associated with [Khenarthi](Lore_Khenarthi.md).<sup>[[2]](#cite_note-TCT8-2)</sup>
+
+At the northwest border of [Elsweyr](Lore_Elsweyr.md) lies [Fort Sphinxmoth](Lore_Fort_Sphinxmoth.md), but the precise origins of its name remain uncertain.<sup>[[3]](#cite_note-FS-3)</sup> Nevertheless, its name adheres to the naming conventions typical of Imperial forts.<sup>[[4]](#cite_note-BLF-4)</sup><sup>[[5]](#cite_note-FF-5)</sup><sup>[[6]](#cite_note-HLG-6)</sup> It is meant to safeguard the border region of [Reaper's March](Lore_Reaper%27s_March.md).<sup>[[7]](#cite_note-7)</sup> There is a type of common cat called the [Sphynx](Lore_Cat.md#Sphynx), a hairless cat that is popular with some nobles.<sup>[[8]](#cite_note-ONSphynx-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/2/25/SI-concept-Statue Sphinx Mer01.jpg/141px-SI-concept-Statue Sphinx Mer01.jpg)](https://en.uesp.net/wiki/File:SI-concept-Statue Sphinx Mer01.jpg) Concept art of a Sphinx statue (right)
+- [![](https://images.uesp.net/thumb/8/86/ON-crown_store-Sphynx_Lynx_02.jpg/200px-ON-crown_store-Sphynx_Lynx_02.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Sphynx_Lynx_02.jpg) A Sphynx Lynx
+
+## Notes
+- Khenarthi is depicted in tapestries in a form resembling a [Greek Sphinx](https://www.wikipedia.org/wiki/Sphinx#Greece). While the naming of the Sphinxes in Arena appear to be referencing the [Sphinx of Giza](https://www.wikipedia.org/wiki/Great_Sphinx_of_Giza). - [Canus](https://en.uesp.net/wiki/Lore:Canus) and [Gazia](https://en.uesp.net/wiki/Lore:Gazia) are words with an unknown definition and designation derived from the sphinxes; while it is entirely unknown what they are, they could logically be places/regions, people, entities, or something else entirely. Both appear to be derived from the Ancient Egyptian cities of [Canopus](https://www.wikipedia.org/wiki/Canopus,_Egypt) and [Giza](https://www.wikipedia.org/wiki/Giza), respectively.
+
+## References
+1. [^](#cite_ref-ARTHo C_1-0) [Temple of Agamanus](https://en.uesp.net/wiki/Arena:Temple_of_Agamanus) riddle during [Halls of Colossus](https://en.uesp.net/wiki/Arena:Halls_of_Colossus) quest in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. [^](#cite_ref-TCT8_2-0) [*The Chronicler's Travelogue Volume 8*](Lore_The_Chronicler%27s_Travelogue_Volume_8.md) — [Chronicler Firandil](Lore_Books_by_Author.md#Chronicler_Firandil) of the Mages Guild
+3. [^](#cite_ref-FS_3-0) [Fort Sphinxmoth](https://en.uesp.net/wiki/Online:Fort_Sphinxmoth) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-BLF_4-0) [Buckmoth Legion Fort](https://en.uesp.net/wiki/Morrowind:Buckmoth_Legion_Fort) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-FF_5-0) [Fort Firemoth](https://en.uesp.net/wiki/Morrowind:Fort_Firemoth) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. [^](#cite_ref-HLG_6-0) [Hawkmoth Legion Garrison](https://en.uesp.net/wiki/Morrowind:Hawkmoth_Legion_Garrison) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+7. [^](#cite_ref-7) [*The Fort Sphinxmoth Ruins*](Lore_The_Fort_Sphinxmoth_Ruins.md) — [Calantius of Skingrad](Lore_Books_by_Author.md#Calantius_of_Skingrad)
+8. [^](#cite_ref-ONSphynx_8-0) [Sphynx Lynx](https://en.uesp.net/wiki/Online:Sphynx_Lynx) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)

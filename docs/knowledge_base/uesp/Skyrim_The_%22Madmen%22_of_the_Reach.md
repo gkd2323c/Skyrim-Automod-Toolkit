@@ -1,0 +1,24 @@
+# The "Madmen" of the Reach
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book2a.png) Book Information <br> *The "Madmen" of the Reach* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 07EB03 | | |
+| See Also | [Lore version](Lore_The_%22Madmen%22_of_the_Reach.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 7 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 2 | | |
+| Locations | | | |
+| Found in the following locations: - [College of Winterhold](Skyrim_College_of_Winterhold_(place).md), [Arcanaeum](Skyrim_The_Arcanaeum.md), on the floor <br> - [College of Winterhold](Skyrim_College_of_Winterhold_(place).md), [Hall of Attainment](Skyrim_Hall_of_Attainment.md), upper level, on a table <br> - [Fort Amol](Skyrim_Fort_Amol.md) on a shelf by the upstairs beds <br> - [Deepwood Redoubt](Skyrim_Deepwood_Redoubt.md) on a table in the final room | | | |
+
+The "Madmen" of the Reach **by [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar** *A defense of the Forsworn* *
+---
+
+![S](https://images.uesp.net/thumb/e/ee/S_letter.png/54px-S_letter.png)
+ince the legendary victory of [Tiber Septim](Lore_Tiber_Septim.md) over the "barbarian natives" in the [Battle of Old Hroldan](Lore_Battle_of_Old_Hroldan.md), [Imperial](Skyrim_Imperial.md) and [Nord](Skyrim_Nord.md) scholarship has cast the people of [the Reach](Skyrim_The_Reach.md) as little more than savages, prone to irrational fits of violence, worshipping old, heretical gods, and fetishizing beasts and nature spirits that any civilized person would best well avoid. In truth, these accounts are little more than "victor's essays," a perspective narrowed by the Empire's constant strife with the ancient, proud people that lived in this land far before Tiber Septim walked the soil of [Tamriel](Lore_Tamriel.md). In light of this, I hope to create a more complete, accurate, and fair assessment of a group that has long suffered under the role of "enemy," "troublemakers," and "them."
+
+Let us begin with the [Forsworn](Skyrim_Forsworn.md), the so-called "madmen" of the Reach. The [Imperial Legion](Skyrim_Imperial_Legion.md) classifies them as little more than brigands, noting their constant raids and ambushes within the [Hold](Lore_Hold.md). But none of their military reports asks the question of "why?" If they were merely a group of bandits, surely they would be focused on acquiring gold and minimizing deaths among their own. But the opposite is true in Forsworn attacks. Large sums of coin are often left behind, and their fighters easily throw away their lives rather than risk capture by Imperial soldiers.
+
+It is this incongruity that led me to [Markarth](Skyrim_Markarth.md), the capital city of the Reach, in search of answers. There, I met one of the native peoples, an old woman who preferred to not be named in my writings. She told me of her family's long history. How she believes they originally came from [High Rock](Lore_High_Rock.md), home of the [Bretons](Skyrim_Breton.md) (which would explain the similar faces and stature of the two peoples). How the Nords came and took their lands, their gods, and their culture from them. When asked about the Forsworn, the old woman would say that they are the "real" men and women of the Reach: those that refused to give in to the Nords. Those that still practiced the ancient traditions that the rest of their people had abandoned in exchange for peace.
+
+In time, I was able to create trust with many more natives in my search that corroborated the old woman's story. By chance, one of them arranged a meeting between myself and what I thought was an elder member of his village. I was shocked to find that I was led to a camp, filled with the animal skulls, severed heads, and still beating hearts that I had read about from the military reports back in the [Imperial City](Lore_Imperial_City.md). There, I met Cortoran, a Forsworn, who seemed amused at the prospect of me writing down his story. Which I quote in full below:
+
+"You want to know who the Forsworn are? We are the people who must pillage our own land. Burn our own ground. We are the scourge of the Nords. The axe that falls in the dark. The scream before the gods claim your soul. We are the true sons and daughters of the Reach. The spirits and [hags](Skyrim_Hagraven.md) have lived here from the beginning, and they are on our side. Go back. Go back and tell your Empire that we will have our own kingdom again. And on that day, we will be the ones burying your dead in a land that is no longer yours."

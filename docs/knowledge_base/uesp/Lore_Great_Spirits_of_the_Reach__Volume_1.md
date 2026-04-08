@@ -1,0 +1,18 @@
+#  Volume 1
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Writer | [Leamon Tuttle](https://en.uesp.net/wiki/General:Leamon_Tuttle) and [Andrew Young](https://en.uesp.net/wiki/General:Andrew_Young) | | |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Great_Spirits_of_the_Reach:_Volume_1) ([Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))) | | |
+| Up | *[Great Spirits of the Reach](Lore_Great_Spirits_of_the_Reach.md)* | | |
+| Prev. | None | Next | *[Volume 2](Lore_Great_Spirits_of_the_Reach__Volume_2.md)* |
+
+Great Spirits of the Reach: Volume 1 **by [Vashu gra-Morga](Lore_Books_by_Author.md#Vashu_gra-Morga), Chief Daedrotheologist at the [University of Gwylim](Lore_University_of_Gwylim.md)** *Discourse on Aedric faiths in Tamriel* *
+---
+Most residents of [Tamriel](Lore_Tamriel.md) profess some variety of faith. In a world beset by danger—both conventional and cosmic—rejecting [deities](Lore_Gods.md) out of hand is a failing proposition. Unfortunately, this shared desire for religious identity rarely brings people together. Instead, it commonly drives us apart. Many of the fault-lines are predictable. Racial politics, historical enmities, and claims of divine sanction routinely undercut any attempt at a good faith dialogue. But one central rift underpins all of it: the perceived supremacy of the [Aedra](Lore_Aedra.md).
+
+An old [Orcish](Lore_Orcish.md) proverb reads, "conquerors name the wars" — an apt description of how those in power shape our understanding of history. But this proverb is doubly true when it comes to matters of faith. Conquerors do more than name wars. They shape beliefs. If we accept the premise that those who hold the [White-Gold Tower](Lore_White-Gold_Tower.md) hold Tamriel in some fundamental sense, the primacy of Aedra makes perfect sense. Not because they are in fact superior, but because those in a position of supremacy insist that they are.
+
+With a few notable exceptions, the story of [Cyrodiil](Lore_Cyrodiil.md) —and thus Tamriel writ large—has been shaped by those professing Aedric faiths. It began with the [Aldmer](Lore_Aldmer.md) and passed to the [Ayleids](Lore_Ayleid.md). And while the Wild Elves flirted with [Daedra-worship](Lore_Daedra.md) for a time, they paid a high price for it at the hands of the [Alessians](Lore_Alessian_Empire.md). From that point forward, the Aedra enjoyed special status in the realm of Tamrielic faith—a status that by definition diminished the standing of those races who cleaved to non-Aedric practice. Most of these races already suffered scorn and abuse at the hands of [Men](Lore_Man.md) and [Elves](Lore_Mer.md) ([Orcs](Lore_Orc.md), [Argonians](Lore_Argonian.md), and [Khajiit](Lore_Khajiit.md)), while others were regarded with cruel suspicion by their Elven kin (the [Chimer](Lore_Chimer.md), and later the [Dunmer](Lore_Dunmer.md)). All these people suffered—and still suffer—the privilege awarded to Aedra worshipers. But no race has suffered more abuse on the basis of their faith than the [people](Lore_Reachman.md) of [the Reach](Lore_The_Reach.md).
+
+Despite being bullied, scorned, and repeatedly invaded by foreign aggressors, the Reachfolk have managed to retain a rich Daedra-worshipping culture that shows no signs of dilution or retreat. It is my sincere hope that this treatise will shed new light on this under-appreciated faith and inspire a greater respect for the proud and hardy people of the Reach.

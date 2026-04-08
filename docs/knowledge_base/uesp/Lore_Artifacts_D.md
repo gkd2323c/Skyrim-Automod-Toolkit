@@ -1,0 +1,153 @@
+# Artifacts D
+
+[Overview](Lore_Artifacts.md) | [A](Lore_Artifacts_A.md) [B](Lore_Artifacts_B.md) [C](Lore_Artifacts_C.md) D [E](Lore_Artifacts_E.md) [F](Lore_Artifacts_F.md) [G](Lore_Artifacts_G.md) [H](Lore_Artifacts_H.md) [I](Lore_Artifacts_I.md) [J](Lore_Artifacts_J.md) [K](Lore_Artifacts_K.md) [L](Lore_Artifacts_L.md) [M](Lore_Artifacts_M.md) [N](Lore_Artifacts_N.md) [O](Lore_Artifacts_O.md) [P](Lore_Artifacts_P.md) [Q](Lore_Artifacts_Q.md) [R](Lore_Artifacts_R.md) [S](Lore_Artifacts_S.md) [T](Lore_Artifacts_T.md) [U](Lore_Artifacts_U.md) [V](Lore_Artifacts_V.md) [W](Lore_Artifacts_W.md) X Y [Z](Lore_Artifacts_Z.md)
+---
+
+## Daedric Crescent
+[![](https://images.uesp.net/thumb/5/5b/LG-cardart-Daedric_Crescent_02.jpg/200px-LG-cardart-Daedric_Crescent_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Daedric_Crescent_02.jpg) [](https://en.uesp.net/wiki/File:LG-cardart-Daedric_Crescent_02.jpg) The Daedric Crescent The [Daedric Crescent Blade](Lore_Daedric_Crescent.md) (also called a Battle-scythe blade) is a Daedric artifact created by the Daedric Prince Mehrunes Dagon. It has the power to paralyze those it strikes, and puts heavy wear on their armor; it has also been known to create a green ball of energy, but its effects are unknown. There were once many Crescents, which were used by Dagon's forces to take the Battlespire during the Imperial Simulacrum. When the Third Empire later reclaimed the ruined academy, the Crescents were gathered up and destroyed - all but one. Unknown to the Empire, one of the unique blades remained in existence somewhere in Tamriel, although it is said that none had ever seen it.
+
+**Found in:** - [Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire) (not obtainable), [Morrowind](https://en.uesp.net/wiki/Morrowind:Daedric_Crescent), [Legends](https://en.uesp.net/wiki/Legends:Daedric_Crescent)
+
+## Daedric Faces
+[![](https://images.uesp.net/thumb/2/21/LO-misc-Daedric_Helms.jpg/200px-LO-misc-Daedric_Helms.jpg)](https://en.uesp.net/wiki/File:LO-misc-Daedric_Helms.jpg) [](https://en.uesp.net/wiki/File:LO-misc-Daedric_Helms.jpg) Daedric Faces [Daedric Faces](Lore_Daedric_Faces.md), also known more simply as **Daedric helms** or **Daedric helmets**, are ceremonial [Dunmeri](Lore_Dunmer.md) full-face [Daedric](Lore_Daedric_Equipment.md) masks that depicted various figures from Dunmer culture. They should not be confused with the unique [Masks of the Tribunal](Lore_Masks_of_the_Tribunal.md) worn by the members of the [ALMSIVI](Lore_Tribunal.md): the [Mask of Almalexia](Lore_Mask_of_Almalexia.md), the [Mask of Sotha Sil](Lore_Mask_of_Sotha_Sil.md), and [Vivec's Ash Mask](Lore_Vivec%27s_Ash_Mask.md), or the [Mask of Dagoth Ur](Lore_Mask_of_Dagoth_Ur.md).
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Daedric_Face_of_Inspiration)
+
+## Dagger of Symmachus
+[![](https://images.uesp.net/thumb/4/4c/TR-item-Dagger_of_Symmachus.jpg/200px-TR-item-Dagger_of_Symmachus.jpg)](https://en.uesp.net/wiki/File:TR-item-Dagger_of_Symmachus.jpg) [](https://en.uesp.net/wiki/File:TR-item-Dagger_of_Symmachus.jpg) The Dagger of Symmachus The [Dagger of Symmachus](Lore_Dagger_of_Symmachus.md) is the [Dunmeri](Lore_Dunmer.md) -styled [glass](Lore_Malachite.md) ceremonial dagger of General [Symmachus](Lore_Symmachus.md), the husband of [Queen Barenziah](Lore_Barenziah.md). Because of its history, it is considered a treasure to the people of [Mournhold](Lore_Mournhold.md). The dagger has a high durability and is enchanted to enchance the user's short blade skills, endurance, and reflect hostile spells cast upon the user.
+
+**Found in:** - [Tribunal](https://en.uesp.net/wiki/Tribunal:Dagger_of_Symmachus)
+
+## Dark Heart
+[![](https://images.uesp.net/thumb/9/9c/ON-item-Dark_Heart.jpg/200px-ON-item-Dark_Heart.jpg)](https://en.uesp.net/wiki/File:ON-item-Dark_Heart.jpg) [](https://en.uesp.net/wiki/File:ON-item-Dark_Heart.jpg) The Dark Heart The [Dark Heart](Lore_Dark_Heart.md), also known as the **Frightful Heart**, is an artifact associated with [Namira](Lore_Namira.md) through some of the cultural interpretations of [Lorkhan](Lore_Lorkhan.md), specifically [Lorkh](Lore_Lorkh.md) and [Lorkhaj](Lore_Lorkhaj.md). Physically appearing as a sphere of darkness surrounded by a radiant aquamarine corona, it is a piece of primal [Void](Lore_Void.md) trapped on Nirn that warps existence around it. According to ancient [Khajiit](Lore_Khajiit.md), Namira became a shadowy imitation of [Lorkhan's heart](Lore_Heart_of_Lorkhan.md), while Reach belief holds that the darkness left his heart after his sacrifice for the creation of [the realm of flesh](Lore_Mundus.md). Regardless, Lorkhan's real heart was flung towards what is now [Vvardenfell](Lore_Vvardenfell.md) and created [Red Mountain](Lore_Red_Mountain.md), while the Dark Heart found its way into the depths of [Blackreach](Lore_Blackreach.md) and remains under the influence of Namira.
+
+The Dark Heart offers a pathway into the Void, and its power is increased by consuming souls, banishing them to that place between worlds.
+
+Those tied to the heart describe hearing intrusive whispers, and can feel its pulsing and throbbing which grows stronger as the Heart becomes more powerful. Additionally, the power of the Dark Heart can be drawn from at the risk of being consumed by it. Those who tap into the Dark Heart's power may experience uncanny physical side effects. In the case of the [Nighthollow Clan](Lore_Nighthollow_Clan.md), their [vampiric](Lore_Vampire.md) appearance was overshadowed: their skin grew dull and grey, and black ichor swirled within their eyes. The clan's matriarch, a [Vampire Lord](Lore_Vampire_Lord.md), developed glowing green eyes and flesh seemingly devoured by a creeping darkness when she transformed.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:DLC#Markarth)
+
+## Dark Lady's Headrest
+[![](https://images.uesp.net/thumb/c/c8/ON-memento-Dark_Lady%27s_Headrest.jpg/200px-ON-memento-Dark_Lady%27s_Headrest.jpg)](https://en.uesp.net/wiki/File:ON-memento-Dark_Lady%27s_Headrest.jpg) [](https://en.uesp.net/wiki/File:ON-memento-Dark_Lady%27s_Headrest.jpg) Dark Lady's Headrest [Dark Lady's Headrest](Lore_Dark_Lady%27s_Headrest.md) is a minor artifact associated with the [Daedric Prince](Lore_Daedric_Prince.md) [Vaermina](Lore_Vaermina.md). It is a pillow said to be either blessed or cursed by the Prince herself. While it may appear comfortable, it is known to act as a summon for dreadful nightmares. Those who rest upon it are subject to experiencing visions resembling [Omens](Lore_Omen.md) or [Gloam Knights](Lore_Gloam_Knight.md).
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Dark_Lady%27s_Headrest)
+
+## Dawnbreaker
+[![](https://images.uesp.net/thumb/f/f1/LG-cardart-Dawnbreaker_02.jpg/200px-LG-cardart-Dawnbreaker_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Dawnbreaker_02.jpg) [](https://en.uesp.net/wiki/File:LG-cardart-Dawnbreaker_02.jpg) Dawnbreaker [Dawnbreaker](Lore_Dawnbreaker.md) is a [Daedric](Lore_Daedra.md) artifact created by the [Daedric Prince](Lore_Daedric_Princes.md) [Meridia](Lore_Meridia.md). It was forged "in a holy light that breaks upon" the Prince's foes. In appearance it is a longsword containing a distinctive light emitting crystal in its cross-guard known as the **Dawnstar Gem**. It was created with the intention of "burning away corruption and false life". As such, it is particularly effective against Meridia's "foes": this primarily applies to the undead, although its powers can also be used on Daedra and [werewolves](Lore_Werewolf.md).
+
+**Found in:** - [Skyrim](Skyrim_Dawnbreaker.md), [ESO](https://en.uesp.net/wiki/Online:Fighters_Guild#Ultimate_Abilities), [Legends](https://en.uesp.net/wiki/Legends:Dawnbreaker), [Blades](https://en.uesp.net/wiki/Blades:Dawnbreaker)
+
+## Dawnfang and Duskfang
+[![](https://images.uesp.net/thumb/a/a8/SR-item-Dawnfang_%26_Duskfang.jpg/200px-SR-item-Dawnfang_%26_Duskfang.jpg)](https://en.uesp.net/wiki/File:SR-item-Dawnfang_%26_Duskfang.jpg) [](https://en.uesp.net/wiki/File:SR-item-Dawnfang_%26_Duskfang.jpg) Dawnfang and Duskfang [Dawnfang and Duskfang](Lore_Dawnfang_and_Duskfang.md), and their superior variants, **Dawnfang Superior** and **Duskfang Superior**, are four forms taken by an evidently sentient [Tsaesci](Lore_Tsaesci_(race).md) "blood drinker" longsword. Dawnfang and Duskfang's serpent-like appearance and transformation capabilities are reminiscent to traits that the Tsaesci are rumored to have. The sword has a sinister purpose: corrupting its wielder, as well as forcing a dependency on them. It also craves the lifeforce and magicka of the victims it slays.
+
+Dawnfang and Duskfang's design is intricate in all its forms, an example being its crossguard and pommel that are adorned with elegant jewels, placed as if to seduce a person into wielding it. More fitting of its nature is its pronged blade that resembles the gaping maw of a beast, and the golden snakeskin pattern that envelops the areas around its crossguard, handle, and pommel. The forms' physical similarities diverge from there thanks to the sword's transformative capabilities. At dawn, the sword becomes Dawnfang, whose jewels become infused with orange flames and burns to those that it strikes. At dusk, the sword becomes Duskfang, and its jewels become infused with blue cold flames, but the pommel's jewel may differ from the rest as its flames can be in either a blue or purple color. Nonetheless, the form freezes those it strikes.
+
+The sword's superior forms are achieved by "feeding" the sword after every transformation. It informs its wielder through a mental connection how many lives it must claim before it is satisfied. If twelve enemies are killed with the sword over the twelve-hour period, the next transformation will result in the Superior variant. Dawnfang Superior is engulfed in orange flames around its blade and absorbs the health from those that it strikes, while Duskfang Superior is engulfed in cold flames around its blade and drains enemies of their magicka reserves. The sword instantly repairs itself and recharges its enchantments when it transforms. When the sword is not wielded, its jewels turns into a black void-like color, as if inactive and resting.
+
+**Found in:** - [Shivering Isles](https://en.uesp.net/wiki/Shivering:Dawnfang_and_Duskfang), [Skyrim](Skyrim_Dawnfang_and_Duskfang.md)<sup>[CC](Skyrim_Dawnfang_%26_Duskfang.md)</sup>, [Legends](https://en.uesp.net/wiki/Legends:Dawnfang)
+
+## Deadland Hammer
+[![](https://images.uesp.net/thumb/a/ac/ON-item-Deadland_Hammer.jpg/200px-ON-item-Deadland_Hammer.jpg)](https://en.uesp.net/wiki/File:ON-item-Deadland_Hammer.jpg) [](https://en.uesp.net/wiki/File:ON-item-Deadland_Hammer.jpg) Deadland Hammer The [Deadland Hammer](Lore_Deadland_Hammer.md) is a Daedric artifact linked to Mehrunes Dagon and the Deadlands. In the Second Era, it was found in the Darkpool Mine by the Claws of Daegon—a Khajiit cult dedicated to Merrunz. When used with the right reagents, it was said to be capable of summoning Iron Atronachs. Physical contact with hammer was reported to be uncomfortable and even harmful when handled for an extended period of time.
+
+**Found in:** - [Online](https://en.uesp.net/wiki/Online:Online)
+
+## Death Dealer's Fete
+[](https://en.uesp.net/wiki/File:ON-icon-armor-Death_Dealer%27s_Fete.png) [](https://en.uesp.net/wiki/File:ON-icon-armor-Death_Dealer%27s_Fete.png) Death Dealer's Fete The [Death Dealer's Fete](Lore_Death_Dealer%27s_Fete.md) is a signet ring associated with the [Daedric Prince](Lore_Daedric_Prince.md) [Sanguine](Lore_Sanguine.md). The ring is cursed, allowing one to hear a glimpse of some revelry in the dead of night, full of laughter and anguished screams. Its enchantment, Escalating Fete, invigorates the wielder during conflicts, increasing higher the longer they are locked into combat. Its intended purpose is believed to be for preventing exhaustion while partying, fighting, or other rigorous activities.
+
+It is believed to have been forged in the mid- [First Era](Lore_First_Era.md), and like many rings of that time, has a crude fastening system with heavy handed smithing that makes its silver prongs near unbreakable. The artifact's power comes from the various components that make up the ring's anatomy. The prongs themselves serve as conduits for siphoning [magicka](Lore_Magicka.md). They hold the center stone, an excessively huge and asymmetrical blood-red [ruby](Lore_Ruby.md) that is warm to the touch and resonates with great power. The ring's shank is designed for discomfort, as it features minuscule barbs. This design choice is also present within other rings that Sanguine gives to mortals that attend his parties. These rings were enchanted to unexpectedly tighten to prevent exhaustion, though it is unknown if the Fete itself also has this enchantment. The base contains a faded inscription which, when touched, inspires reckless indulgence. The bridge was sculpted to resemble a fanged maw; its open spaces are thought to have once held jewels.
+
+**Found in:** - [Online](https://en.uesp.net/wiki/Online:Death_Dealer%27s_Fete)
+
+## Debaser
+[![](https://images.uesp.net/thumb/d/d3/OB-item-Debaser.jpg/200px-OB-item-Debaser.jpg)](https://en.uesp.net/wiki/File:OB-item-Debaser.jpg) [](https://en.uesp.net/wiki/File:OB-item-Debaser.jpg) Debaser [Debaser](Lore_Debaser.md) is a shortsword with blue inlaid writing, [enchanted](Lore_Enchanting.md) to drain a victim's Willpower and Endurance. Little to nothing is known about the artifact itself, except that it was the creation of ancient dissenters.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Debaser)
+
+## Denstagmer's Ring
+[![](https://images.uesp.net/thumb/e/e3/MW-item-Denstagmer%27s_Ring.jpg/200px-MW-item-Denstagmer%27s_Ring.jpg)](https://en.uesp.net/wiki/File:MW-item-Denstagmer%27s_Ring.jpg) [](https://en.uesp.net/wiki/File:MW-item-Denstagmer%27s_Ring.jpg) Denstagmer's Ring [Denstagmer's Ring](Lore_Denstagmer%27s_Ring.md) is very mysterious. Almost all that is known about it is that it grants the user protection against various types of elemental harm. Even the name Denstagmer is a mystery.
+
+[Yagrum Bagarn](Lore_Yagrum_Bagarn.md), the last living [dwarf](Lore_Dwemer.md), at one point befriended the sorcerer [Divayth Fyr](Lore_Divayth_Fyr.md). At Fyr’s behest, Yagrum Bagarn wrote and compiled centuries of personal notes into a book that would become known as *[Tamrielic Lore](Lore_Tamrielic_Lore.md)*, listing Denstagmer's Ring among the artifacts of "unimaginable significance". By the [Interregnum](Lore_Interregnum.md), copies had spread across Tamriel, offering readers rare insights into these legendary items, and Fyr himself hoped to utilize this knowledge in his search for Denstagmer's Ring and the other artifacts detailed in the book.
+
+Circa [3E 427](Lore_Third_Era.md#3E_427), the [Nerevarine](Lore_Nerevarine.md) reportedly found the ring in a ceremonial ash urn belonging to a D. Bryant at the Falas Ancestral Tomb, in the [West Gash](Lore_West_Gash.md) region of [Vvardenfell](Lore_Vvardenfell.md). The ring was later lost. It was found in a body of water by the [Last Dragonborn](Lore_Last_Dragonborn.md) while fishing circa [4E 201](Lore_Fourth_Era.md#4E_201).
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Denstagmer%27s_Ring), [Skyrim](Skyrim_Denstagmer%27s_Ring.md)<sup>[CC](Skyrim_Fishing.md)</sup>
+
+## Diadem of Diagna
+The [Diadem of Diagna](Lore_Diadem_of_Diagna.md) is a symbol of office for the [High King](Lore_Hammerfell.md#Rulers) of [Hammerfell](Lore_Hammerfell.md), named for [Diagna](Lore_Diagna.md). Each monarch of the [Phyllocid Dynasty](Lore_Phyllocid_Dynasty.md) is adorned with the Diadem when graced with the title of the High King, such as [Ar-Azal](Lore_Ar-Azal.md) did during his coronation upon the Throne of [Hegathe](Lore_Hegathe.md).
+
+**Found in:** - Lore
+
+## Dolorous Cista
+[![](https://images.uesp.net/thumb/3/3d/ON-load-Ossein_Cage.png/200px-ON-load-Ossein_Cage.png)](https://en.uesp.net/wiki/File:ON-load-Ossein_Cage.png) [](https://en.uesp.net/wiki/File:ON-load-Ossein_Cage.png) Dolorous Cista (left) The [Dolorous Cista](Lore_Dolorous_Cista.md) was a vessel that harvested mortal suffering, converting it to magical energy. Physical pain, fear, and frustration are but a few examples of valid sensations that the cista was capable of feeding on. The relic could be filled with the suffering of both Daedra and mortals. The cista showed great potential as a weapon of mass destruction: during the [Interregnum](Lore_Interregnum.md), its Daedric handlers were beset by infighting over the subject of who was truly "worthy" to wield its power. One of the Daedric torturers laboring within the Cage speculated that the [Lord of Brutality](Lore_Molag_Bal.md) himself had plans to wield it.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Ossein_Cage)
+
+## Draconian Madstone
+[![](https://images.uesp.net/thumb/d/de/OB-item-Draconian_Madstone.jpg/200px-OB-item-Draconian_Madstone.jpg)](https://en.uesp.net/wiki/File:OB-item-Draconian_Madstone.jpg) [](https://en.uesp.net/wiki/File:OB-item-Draconian_Madstone.jpg) Draconian Madstone The [Draconian Madstone](Lore_Draconian_Madstone.md) is an ancient [Akaviri](Lore_Akavir.md) talisman that is worn as an amulet and said to grant the wearer protection from [disease](Lore_Disease.md) and poison.
+
+For thousands of years, it was lost in the ruins of [Pale Pass](Lore_Pale_Pass.md).
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Draconian_Madstone)
+
+## Dragon Priest Masks
+[![](https://images.uesp.net/thumb/a/a4/SR-item-Konahrik.jpg/200px-SR-item-Konahrik.jpg)](https://en.uesp.net/wiki/File:SR-item-Konahrik.jpg) [](https://en.uesp.net/wiki/File:SR-item-Konahrik.jpg) Konahrik, one of the masks The [masks](Lore_Dragon_Priest_Masks.md) of the [Dragon Priests](Lore_Dragon_Priest.md) are strange [artifacts](Lore_Artifacts.md) created by the [dragons](Lore_Dragon.md) in the [Merethic Era](Lore_Merethic_Era.md). The highest ranking priests of the [Dragon Cult](Lore_Dragon_Cult.md) were granted magical masks that defy the laws of time and possess powerful, mysterious enchantments. The individual masks are made of varying materials, and each bears the same name as the Dragon Priest that possessed it. The names are in the [dragon language](Lore_Dragon_Language.md), and can be translated. The number of masks in existence is unknown, and some are apparently older than others. The masks were buried with their owners, until in [4E 201](Lore_Fourth_Era.md#4E_201) the return of the dragons caused many of the undead Dragon Priests to awake from their slumber.
+
+**Found in:** - [Skyrim](Skyrim_Dragon_Priest_Masks.md)
+
+## Dragonbane
+[![](https://images.uesp.net/thumb/6/6c/SR-item-Dragonbane.jpg/200px-SR-item-Dragonbane.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonbane.jpg) [](https://en.uesp.net/wiki/File:SR-item-Dragonbane.jpg) Dragonbane [Dragonbane](Lore_Dragonbane.md) is an [Akaviri](Lore_Akavir.md) katana which is especially effective against [dragons](Lore_Dragon.md). Magical lightning flickers across the blade and helps make it effective against other types of enemies as well.
+
+Dragonbane was a [weapon](Lore_Weapons.md) of the [Blades](Lore_Blades.md), perhaps dating back to the time of the [Dragonguard](Lore_Dragonguard.md). When the Blades were forced to seal off and abandon their ancient stronghold in [Skyrim](Lore_Skyrim.md), [Sky Haven Temple](Lore_Sky_Haven_Temple.md), the blade was left within.
+
+**Found in:** - [Skyrim](Skyrim_Dragonbane.md)
+
+## Dragonbone Mail
+[![](https://images.uesp.net/thumb/7/77/MW-item-Dragonbone_cuirass.png/200px-MW-item-Dragonbone_cuirass.png)](https://en.uesp.net/wiki/File:MW-item-Dragonbone_cuirass.png) [](https://en.uesp.net/wiki/File:MW-item-Dragonbone_cuirass.png) Dragonbone Mail The [Dragonbone Mail](Lore_Dragonbone_Mail.md), or the **Dragonbone Cuirass**, is thought to be one of the greatest artifacts any collector or hero could own. While many fine pieces of armor have been constructed with real [dragon](Lore_Dragon.md) bone, the Dragonbone Mail was enchanted by the first [Imperial Battlemage](Lore_Imperial_Battlemage_of_Tamriel.md) of [Tiber Septim](Lore_Tiber_Septim.md), [Zurin Arctus](Lore_Zurin_Arctus.md), in the early years of the [Third Era](Lore_Third_Era.md). It's described as a truly exquisite piece of work, and many have sought to possess it.
+
+The properties of the cuirass allow the wearer to resist fire, and to damage an enemy with a blast of fire. Little is known about the involvement of Zurin Arctus with the enchantment of the cuirass, but an old tale speaks of a debt that he owed to a traveling warrior. Like the warrior, the Dragonbone Mail never stays put for long.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Dragonbone_cuirass), [Skyrim](Skyrim_Dragonbone_Mail.md)<sup>[CC](Skyrim_Alternative_Armors_-_Dragon_Plate.md)</sup>
+
+## Dragonstone
+[![](https://images.uesp.net/thumb/5/5d/SR-item-Dragonstone_%28map%29.jpg/200px-SR-item-Dragonstone_%28map%29.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonstone_(map).jpg) [](https://en.uesp.net/wiki/File:SR-item-Dragonstone_(map).jpg) The Dragonstone The [Dragonstone](Lore_Dragonstone.md) is a stone tablet that depicts a map of [Skyrim](Lore_Skyrim.md), marked with the locations of [Dragon](Lore_Dragon.md) burial mounds. It was crafted following the [Dragon War](Lore_Dragon_War.md) and was meant to document the burial of the Dragon-Lords in Skyrim for when [Alduin](Lore_Alduin.md) returned. It was created in the days that followed Alduin's defeat in the Dragon War. It was protected by the Keeper of the Dragonstone, a [Draugr](Lore_Draugr.md), in his tomb at [Bleak Falls Barrow](Lore_Bleak_Falls_Barrow.md).
+
+**Found in:** - [Skyrim](Skyrim_Dragonstone.md)
+
+## Dragonsword of Lainlyn
+[![](https://images.uesp.net/thumb/8/84/OB-item-Truehorn.jpg/200px-OB-item-Truehorn.jpg)](https://en.uesp.net/wiki/File:OB-item-Truehorn.jpg) [](https://en.uesp.net/wiki/File:OB-item-Truehorn.jpg) Dragonsword of Lainlyn (left) The [Dragonsword of Lainlyn](Lore_Dragonsword_of_Lainlyn.md) is a unique sword named for the city of [Lainlyn](Lore_Lainlyn.md). It is enchanted to deal fire damage to targets and effect them with fatigue. It features of a design of two snakes making up the hilt. It was wielded by [Lord Kain](Lore_Kain.md) of the [Knights of the True Horn](Lore_Knights_of_the_True_Horn.md).
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Dragonsword_of_Lainlyn)
+
+## Dragon's Tooth
+The [Dragon's Tooth](Lore_Dragon%27s_Tooth.md) (or simply **Tooth**) is a mythical [ebony](Lore_Ebony.md) dagger with a hilt made from a [dragon](Lore_Dragon.md)'s tooth, hence the name. The hilt is intricately carved with intertwining roses, thorns, and leaves, in line with the [black rose](Lore_Black_Rose.md) symbology tied with [Morrowind](Lore_Morrowind.md) and the [Ra'athim Clan](Lore_Ra%27athim.md) of [Ebonheart](Lore_Ebonheart.md). It is also described as having a "wicked point" and a sharp edge you can even shave with. The tooth came from the dragon who roosted in [Fang Lair](Lore_Fang_Lair.md). In the historical-fiction series, *[King Edward](Lore_King_Edward.md)*, they were known as [Akatosh](Lore_Akatosh.md), the Lord of the Dragons but based on historical information, they were known as [Thurvokun](Lore_Thurvokun.md). It is mainly associated with the two legendary heroes, Kings [Moraelyn](Lore_Moraelyn.md) and [Edward](Lore_Edward.md), who took in the dragon as one of their [companions](Lore_Moraelyn%27s_Companions.md#Akatosh).
+
+**Found in:** - [Lore](Lore_King_Edward,_Part_VIII.md)
+
+## Dragonhorn
+[![](https://images.uesp.net/thumb/0/0d/ON-quest-The_Final_Order_06.jpg/200px-ON-quest-The_Final_Order_06.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Final_Order_06.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Final_Order_06.jpg) The Anequina Dragonhorn [Dragonhorns](Lore_Dragonhorn.md) are legendary [artifacts](Lore_Artifacts.md) crafted primarily by the [Dragonguard](Lore_Dragonguard.md), used as weapons against the [Dragons](Lore_Dragon.md). They are magical warhorns carved out of the horns of dragons, inscribed with various arcane runes, and are capable of producing a tonal sound that incapacitates dragons. They however will have no effect if used against the dragon the horn originated from. Widely manufactured in the late [First Era](Lore_First_Era.md) by the Dragonguard, dragonhorns were gifted to key locations for their protection and are rare to find. They are considerably fragile, and can break instantaneously and crumble to dust after just a few uses. Lunar energy can be diverted into dragonhorns to charge them up with the arcane power capable of hindering dragons. The portable mouthpiece portion of a dragonhorn is called a **Combat Dragonhorn**.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Elsweyr_Quest_Items)
+
+## Dragon's Blight
+[![](https://images.uesp.net/thumb/b/bf/BL-artifact-Dragon%27s_Blight.jpg/200px-BL-artifact-Dragon%27s_Blight.jpg)](https://en.uesp.net/wiki/File:BL-artifact-Dragon%27s_Blight.jpg) [](https://en.uesp.net/wiki/File:BL-artifact-Dragon%27s_Blight.jpg) Dragon's Blight The [Dragon's Blight](Lore_Dragon%27s_Blight.md) is a legendary battle axe imbued with power that lets it bypass the physical defenses of those it strikes. It was also a potent [weapon](Lore_Weapons.md) against the [Dragons](Lore_Dragon.md). According to the legend, the [Aedra](Lore_Aedra.md) themselves forged this devastating weapon at the end of the [Merethic Era](Lore_Merethic_Era.md), but the exact reason why has been lost to time.
+
+**Found in:** - [Blades](https://en.uesp.net/wiki/Blades:Dragon%27s_Blight)
+
+## Dreamworld Amulet
+[![](https://images.uesp.net/thumb/2/27/OB-item-Dreamworld_Amulet.png/200px-OB-item-Dreamworld_Amulet.png)](https://en.uesp.net/wiki/File:OB-item-Dreamworld_Amulet.png) [](https://en.uesp.net/wiki/File:OB-item-Dreamworld_Amulet.png) Dreamworld Amulet [![](https://images.uesp.net/thumb/4/43/OBR-item-Dreamworld_Amulet.jpg/200px-OBR-item-Dreamworld_Amulet.jpg)](https://en.uesp.net/wiki/File:OBR-item-Dreamworld_Amulet.jpg) [](https://en.uesp.net/wiki/File:OBR-item-Dreamworld_Amulet.jpg) The Dreamworld Amulet (Oblivion Remastered) The [Dreamworld Amulet](Lore_Dreamworld_Amulet.md) is a dangerous magical device created by Henantier of the [Mages Guild](Lore_Mages_Guild.md) in [3E 433](Lore_Third_Era.md#3E_433). It allows the wearer to enter their own mind and control their dreams. Henantier designed the amulet as an unsanctioned experiment, with the intent of bettering himself by using his dreams as a personal training ground; however, he became trapped in his dreams and was unable to wake up.
+
+Kud-Ei, the chapter head of [Bravil](Lore_Bravil.md) and a good friend of Henantier's, recruited a stranger to help rescue him and avoid repercussions from the Mages Guild. The stranger used the amulet to enter Henantier's Dreamworld and helped him recover his patience, courage, resolve, and perception, which allowed him to realize his situation and wake up. With the death of the dreamer, all those who share the dream die as well, making the amulet very dangerous and unlikely to see further use.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Dreamworld_Amulet)
+
+## Druid King's Regalia
+[![](https://images.uesp.net/thumb/2/25/ON-misc-Druid_King_Vestments.png/200px-ON-misc-Druid_King_Vestments.png)](https://en.uesp.net/wiki/File:ON-misc-Druid_King_Vestments.png) [](https://en.uesp.net/wiki/File:ON-misc-Druid_King_Vestments.png) Druid King's Regalia The [Druid King's Regalia](Lore_Druid_King%27s_Regalia.md) consists of a crown, a gauntlet, and a staff which were created by the [god](Lore_Gods.md) [Y'ffre](Lore_Y%27ffre.md). These gifts were worn with wisdom and mercy by the line of [Druid Kings](Lore_Druid_King.md), and serve to legitimize one's ascension to the Ivy Throne. After the death of Kasorayn, the last Druid King, they remained dormant within sacred seeds entrusted to the three main Druidic Circles. The regalia supposedly has no innate power of their own, but after a pretender stole the Druid King's Regalia, they almost brought upon the Green Scourge which would have called forth the wrath of nature upon Tamriel but they were slain before being able to do so.
+
+The Regalia serves to crown one as Druid King, said to be the only one who can safely invoke and command even the greater [spirits of nature](Lore_Nature_Spirit.md). A wielder of the Regalia can also command a nature spirit to merge with them in order to gain its power. The Regalia can also be used to allow a nature spirit to bind itself to an area and take on a new role, replacing that region's prior spirit, such an event occurred when the spirit Frii became the new spirit of [Mount Firesong](Lore_Y%27ffelon.md) in order to prevent the volcano from erupting and destroying the [Systres](Lore_Systres.md) archipelago. Though the original Regalia was lost in the volcano and destroyed by the magma, the nature spirit Frii had foreseen that would occur and granted the [Vestige](Lore_The_Vestige.md) new sacred seeds to plant. It is said that from the tree grown from those sacred seeds, a new Regalia would one day grow.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Firesong_Quest_Items)
+
+## Duplici Gladio
+[![](https://images.uesp.net/thumb/1/12/ON-render-Red_Petal_Bastion_Artifacts.jpg/200px-ON-render-Red_Petal_Bastion_Artifacts.jpg)](https://en.uesp.net/wiki/File:ON-render-Red_Petal_Bastion_Artifacts.jpg) [](https://en.uesp.net/wiki/File:ON-render-Red_Petal_Bastion_Artifacts.jpg) The Duplici Gladio, wielded by Ihudir The [Duplici Gladio](Lore_Duplici_Gladio.md) is a two handed sword associated with the [Daedric Prince](Lore_Daedric_Prince.md) [Boethiah](Lore_Boethiah.md). After it was recovered from [Morrowind](Lore_Morrowind.md) by the [Imperial Legion](Lore_Imperial_Legion.md) during the [Four-Score War](Lore_Four-Score_War.md), it became infamous, as betrayal tended to follow on its path. The artifact has the ability to create copies of both itself and their bearer. Although these duplicates may obey their wielder, they have a will of their own, and their true fealty is to the Prince of Plots.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:A_Rose_of_Many_Thorns)

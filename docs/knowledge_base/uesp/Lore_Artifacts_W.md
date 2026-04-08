@@ -1,0 +1,62 @@
+# Artifacts W
+
+[Overview](Lore_Artifacts.md) | [A](Lore_Artifacts_A.md) [B](Lore_Artifacts_B.md) [C](Lore_Artifacts_C.md) [D](Lore_Artifacts_D.md) [E](Lore_Artifacts_E.md) [F](Lore_Artifacts_F.md) [G](Lore_Artifacts_G.md) [H](Lore_Artifacts_H.md) [I](Lore_Artifacts_I.md) [J](Lore_Artifacts_J.md) [K](Lore_Artifacts_K.md) [L](Lore_Artifacts_L.md) [M](Lore_Artifacts_M.md) [N](Lore_Artifacts_N.md) [O](Lore_Artifacts_O.md) [P](Lore_Artifacts_P.md) [Q](Lore_Artifacts_Q.md) [R](Lore_Artifacts_R.md) [S](Lore_Artifacts_S.md) [T](Lore_Artifacts_T.md) [U](Lore_Artifacts_U.md) [V](Lore_Artifacts_V.md) W X Y [Z](Lore_Artifacts_Z.md)
+---
+
+## Wabbajack
+[![](https://images.uesp.net/thumb/e/e5/SR-item-Wabbajack.jpg/200px-SR-item-Wabbajack.jpg)](https://en.uesp.net/wiki/File:SR-item-Wabbajack.jpg) [](https://en.uesp.net/wiki/File:SR-item-Wabbajack.jpg) Wabbajack The [Wabbajack](Lore_Wabbajack.md) is a Daedric [artifact](Lore_Artifacts.md) created by the [Daedric Prince](Lore_Daedric_Princes.md) [Sheogorath](Lore_Sheogorath.md). It takes the appearance of a Daedric [staff](Lore_Staff.md) that is usually engraved with angry or sad gaping faces at the top. As befits the Prince of Madness, his artifact is unpredictable in its effects. The staff has the power to transform its target into a completely random creature. This can be helpful to the wielder, turning a fearsome opponent into a docile animal; similarly, it can be detrimental, transforming a relatively weak enemy into a powerful monster. The staff can produce other effects, such as damaging, healing, turning to stone, or instantly killing the target. The staff's victims that are turned into animals, and are cooked after the fact, become the meat known as Wabbajerky. The meat has created debates on whether eating it would be considered cannibalism. Sheogorath finds only a few worthy of Wabbajack's "absurdly sweet power".
+
+**Found in:** - [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Wabbajack_(artifact)), [Oblivion](https://en.uesp.net/wiki/Oblivion:Wabbajack), [Skyrim](Skyrim_Wabbajack.md), [ESO](https://en.uesp.net/wiki/Online:Artifacts#Wabbajack), [Legends](https://en.uesp.net/wiki/Legends:Wabbajack)
+
+## Wand of Fowlfire
+The [Wand of Fowlfire](Lore_Wand_of_Fowlfire.md) is a [wand](Lore_Wand.md) [artifact](Lore_Artifacts.md) and a sacred relic of [Baan Dar](Lore_Baan_Dar.md). It serves as a ceremonial tool reserved for special occasions. With its ability to emit powerful roasting effects, its primary purpose is to cook food for grand feasts in the god's honor. However, its misuse has tragically resulted in the deaths of some followers who failed to point the far end of the wand away from themselves. Despite these risks, it is renowned for its ability to perfectly cook [chickens](Lore_Chicken.md). Chickens subjected to the effects of the artifact were magically baked, transforming into delicious magically baked chicken meals.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Reaper%27s_March_Quest_Items#Wand_of_Fowlfire)
+
+## Ward of Akavir
+[![](https://images.uesp.net/thumb/b/bc/MW-item-Ward_of_Akavir.png/200px-MW-item-Ward_of_Akavir.png)](https://en.uesp.net/wiki/File:MW-item-Ward_of_Akavir.png) [](https://en.uesp.net/wiki/File:MW-item-Ward_of_Akavir.png) Ward of Akavir The [Ward of Akavir](Lore_Ward_of_Akavir.md) is a priceless [artifact](Lore_Artifacts.md) treasured by the [Imperial Legion](Lore_Imperial_Legion.md). It is a tower shield with an Imperial Dragonscale design, made from the actual skin of a [dragon](Lore_Dragon.md). It bears a powerful enchantment which makes the wielder far luckier. Its origins are unknown, but its name implies that the artifact is related to the continent of [Akavir](Lore_Akavir.md) in some way.
+
+The shield was originally possessed by the Imperial Legion. It was stored within [Fort Firemoth](Lore_Firemoth.md), an [Imperial](Lore_Third_Empire.md) outpost located in the [Inner Sea](Lore_Inner_Sea.md) of [Morrowind](Lore_Morrowind.md). Some time in the [Third Era](Lore_Third_Era.md), an undead [skeleton](Lore_Skeleton.md) army led by the [lich](Lore_Lich.md) [Grurn](Lore_Grurn.md) marched out of the sea and overran the fort, leaving few survivors. To the Legion's shame, the Ward of Akavir was lost. Grurn claimed it for himself and took it deep underground, to a [Velothi](Lore_Velothi.md) tomb located below the fort.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Ward_of_Akavir)
+
+## Warlock's Ring
+[![](https://images.uesp.net/thumb/b/bb/BL-artifact-Warlock%27s_Ring.jpg/200px-BL-artifact-Warlock%27s_Ring.jpg)](https://en.uesp.net/wiki/File:BL-artifact-Warlock%27s_Ring.jpg) [](https://en.uesp.net/wiki/File:BL-artifact-Warlock%27s_Ring.jpg) Warlock's Ring The [Warlock's Ring](Lore_Warlock%27s_Ring.md) (also known as the **Ring of the Warlock**) is one of the most popular [artifact](Lore_Artifacts.md) of myth and fable originally owned by the Arch Mage [Syrabane](Lore_Syrabane.md), the [Aldmeri](Lore_Aldmer.md) god-ancestor of [magic](Lore_Magic.md) and patron of the mages. In [Tamriel](Lore_Tamriel.md)'s ancient history, Syrabane reportedly saved all of the continent by judicious use of this ring, and ever since, it has helped adventurers with less lofty goals. In appearance, it is a ring with a large gemstone, either red or green in color. It is best known for its ability to reflect spells cast at its wearer and to fortify the wearer's speed and health, though it may have additional powers. It is said no adventurer can wear the Warlock's Ring for long, for it is said that the ring is Syrabane's alone to command.
+
+**Found in:** - [Arena](https://en.uesp.net/wiki/Arena:Warlock%27s_Ring), [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Warlock%27s_Ring), [Morrowind](https://en.uesp.net/wiki/Morrowind:Warlock%27s_Ring_(artifact)), [Blades](https://en.uesp.net/wiki/Blades:Warlock%27s_Ring), [Skyrim](Skyrim_Warlock%27s_Ring.md)<sup>[CC](Skyrim_Fishing.md)</sup>
+
+## War-Sworn
+[![](https://images.uesp.net/thumb/5/5c/ON-item-War-Sworn.jpg/200px-ON-item-War-Sworn.jpg)](https://en.uesp.net/wiki/File:ON-item-War-Sworn.jpg) [](https://en.uesp.net/wiki/File:ON-item-War-Sworn.jpg) War-Sworn [War-Sworn](Lore_War-Sworn.md) is a powerful sword imbued with an [enchantment](Lore_Enchanting.md) that rejects any wielder, save the chosen champion of the [Celestial](Lore_Celestial.md) [Warrior](Lore_The_Warrior_(constellation).md). It has been wielded by the champions of the Celestial Warrior through the centuries and is capable of restoring lost memories.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Craglorn_Quest_Items#War-Sworn)
+
+## White Phial
+[![](https://images.uesp.net/thumb/8/82/SR-item-The_White_Phial.jpg/200px-SR-item-The_White_Phial.jpg)](https://en.uesp.net/wiki/File:SR-item-The_White_Phial.jpg) [](https://en.uesp.net/wiki/File:SR-item-The_White_Phial.jpg) The White Phial The [White Phial](Lore_White_Phial.md) is a legendary bottle forged in the days when [Skyrim](Lore_Skyrim.md) was just starting to turn to ice. The small container was made of the [magically](Lore_Magic.md) infused snow that first fell on the [Throat of the World](Lore_Throat_of_the_World.md), and possesses amazing [alchemical](Lore_Alchemy.md) properties. It is said that the Phial will replenish whatever fluid is placed inside of it. It was made by the master alchemist [Curalmil](Lore_Curalmil.md) in ancient times, and the Phial was buried with him. The Phial was created with the usage of magic that was lost to history as of the 4th Era. The nearest modern incarnation of said lost art is the [Briarheart Ritual](Lore_Briarheart.md).
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), after a lifetime of searching all across [Tamriel](Lore_Tamriel.md), the [Altmer](Lore_Altmer.md) alchemist Nurelion finally located the Phial and had it retrieved, only to find that it had been broken. His apprentice managed to repair the Phial, just before his master's death.
+
+**Found in:** - [Skyrim](Skyrim_The_White_Phial_(item).md)
+
+## Witchwise Headdress
+[![](https://images.uesp.net/thumb/4/41/ON-hat-Witchwise_Headdress.jpg/200px-ON-hat-Witchwise_Headdress.jpg)](https://en.uesp.net/wiki/File:ON-hat-Witchwise_Headdress.jpg) [](https://en.uesp.net/wiki/File:ON-hat-Witchwise_Headdress.jpg) Witchwise Headdress The [Witchwise Headdress](Lore_Witchwise_Headdress.md) was a ceremonial mask with ram horns imagery embedded in the folklore of the [Reachfolk](Lore_Reachfolk.md). According to legend, it was worn by the ancient [enchanter](Lore_Enchanting.md) [witch](Lore_Witches.md) [Naenra Waerr](Lore_Naenra_Waerr.md) during the creation of [Umbra](Lore_Umbra.md). In commemoration of her, many witches of Reachfolk descent have adopted similar masks, drawing inspiration from the designs of the original. These witches, upon passing the final trial of wisdom and power, as decreed by a clan elder, were granted the privilege of crafting their own headdress, a symbol of their mastery and status within the clan. [Arana](Lore_Arana.md), the leader of the [Wayward Guardians](Lore_Wayward_Guardians.md), and a former matron of the [Ghostsong Clan](Lore_Ghostsong_Clan.md) was known to wear one of her own.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Witchwise_Headdress)
+
+## Witsplinter
+[![](https://images.uesp.net/thumb/9/9d/BL-item-Witsplinter.jpg/200px-BL-item-Witsplinter.jpg)](https://en.uesp.net/wiki/File:BL-item-Witsplinter.jpg) [](https://en.uesp.net/wiki/File:BL-item-Witsplinter.jpg) Witsplinter [Witsplinter](Lore_Witsplinter.md) is an ornate, [Elven](Lore_Mer.md) -style dagger that, true to its name, is enchanted to seal the minds of the spellcasters it strikes, leaving them vulnerable targets for skilled fighters.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Witsplinter), [Blades](https://en.uesp.net/wiki/Blades:Witsplinter)
+
+## Wraithguard
+
+- *See [Kagrenac's Tools](Lore_Wraithguard.md)*
+
+## Wrathstone
+[![](https://images.uesp.net/thumb/5/52/ON-misc-Wrathstone.jpg/200px-ON-misc-Wrathstone.jpg)](https://en.uesp.net/wiki/File:ON-misc-Wrathstone.jpg) [](https://en.uesp.net/wiki/File:ON-misc-Wrathstone.jpg) Wrathstone The [Wrathstone](Lore_Wrathstone.md) is a powerful, mythical artifact that has been coveted by many people for thousands of years. It consists of a small, carved stone tablet with elaborate symbols and a bas-relief of a [dragon](Lore_Dragon.md)'s head, and it has a connection to the ancient Demon Weapon hidden within the [Halls of Colossus](Lore_Halls_of_Colossus.md) in southern [Elsweyr](Lore_Elsweyr.md). At one point in time, the Wrathstone was split into two pieces, with the left side initially coming into the possession of the [Dwemer](Lore_Dwemer.md) of [Kagrenzel](Lore_Kagrenzel.md), and the right side entrusted to the [Ayleids](Lore_Ayleid.md) of [Garlas Malatar](Lore_Garlas_Malatar.md) by the [Daedric Prince](Lore_Daedric_Prince.md) [Meridia](Lore_Meridia.md).
+
+**Found in:** - [Several](https://en.uesp.net/wiki/Online:Depths_of_Malatar) [locations](https://en.uesp.net/wiki/Online:Frostvault) throughout [ESO](https://en.uesp.net/wiki/Online:Halls_of_Colossus)
+
+## Wuuthrad
+[![](https://images.uesp.net/thumb/b/b4/SR-item-Wuuthrad.jpg/200px-SR-item-Wuuthrad.jpg)](https://en.uesp.net/wiki/File:SR-item-Wuuthrad.jpg) [](https://en.uesp.net/wiki/File:SR-item-Wuuthrad.jpg) Wuuthrad [Wuuthrad](Lore_Wuuthrad.md), meaning "Storm's Tears" in the language of [Atmora](Lore_Atmora.md), was the legendary battleaxe wielded by [Ysgramor](Lore_Ysgramor.md) during his conquest of [Skyrim](Lore_Skyrim.md) in the late [Merethic Era](Lore_Merethic_Era.md). With Wuuthrad in his hands, Ysgramor and his [Five Hundred Companions](Lore_Five_Hundred_Companions.md) slaughtered an untold number of [elves](Lore_Snow_Elf.md), which culminated in the founding of the [First Empire of the Nords](Lore_First_Empire_of_the_Nords.md). For the [Companions](Lore_Companions.md), Wuuthrad is a sacred relic which holds a great deal of respect and reverence, and through it they can trace their line straight back to the first Harbinger. It is held to be the greatest of all Nord [weapons](Lore_Weapons.md).
+
+**Found in:** - [Skyrim](Skyrim_Wuuthrad.md), ESO

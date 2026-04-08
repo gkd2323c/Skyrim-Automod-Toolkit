@@ -1,0 +1,35 @@
+# Rrvenk
+
+| Master Rrvenk | | | |
+| --- | --- | --- | --- |
+| [![ON-creature-Master Rrvenk.jpg](https://images.uesp.net/thumb/f/fe/ON-creature-Master_Rrvenk.jpg/200px-ON-creature-Master_Rrvenk.jpg)](https://en.uesp.net/wiki/File:ON-creature-Master_Rrvenk.jpg) Master Rrvenk | | | |
+| Race | [Banekin](Lore_Banekin.md) | Gender | Male |
+| Resided in | Burn, [Deadlands](Lore_Deadlands.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Master_Rrvenk) | | |
+
+*A complex course along the path of change can be a longer journey than most are willing or able to make.
+You yourself, mortal, are bound by the length of your life and must plot your course accordingly.*
+—Master Rrvenk Master Rrvenk was a Daedric sage and master of the Eleventh Force, the Change. Despite his form of a [Banekin](Lore_Banekin.md) he was known to be wise and thoughtful. He is a well-known sage among the Daedra of the Deadlands, though only a few besides his disciples have ever seen him because he is always in motion.<sup>[[1]](#cite_note-ESOValsirenn TFOC-1)</sup> Mortals and Daedra alike sought his knowledge and advice, which he shared freely, although only for those who managed to find him, which is a troublesome task given that he never ceases to be in motion.<sup>[[2]](#cite_note-Shiro-dar-2)</sup><sup>[[3]](#cite_note-Morah-3)</sup><sup>[[1]](#cite_note-ESOValsirenn TFOC-1)</sup> He can read the flow of the Eleventh Force with such clarity that he's practically precognitive, though he does not attempt to alter its course.<sup>[[4]](#cite_note-ESOValsirenn AAH-4)</sup>
+
+## History
+Rrvenk taught several other Daedra and Mortals in the ways of the Eleventh Force. One of his students was a Dremora named Morah.<sup>[[1]](#cite_note-ESOValsirenn TFOC-1)</sup><sup>[[3]](#cite_note-Morah-3)</sup> Despite his popularity and the general respect towards his teachings, he also had opponents among the Daedra. One such skeptic was a [Havocrel](Lore_Havocrel.md) Hyxo.<sup>[[2]](#cite_note-Shiro-dar-2)</sup><sup>[[5]](#cite_note-Hyxo-5)</sup>
+
+A few centuries before [2E 582](Lore_Second_Era.md#2E_582) a Khajiit named Shiro-dar sought to meet Master Rrvenk<sup>[[3]](#cite_note-Morah-3)</sup> to ask him for advice. He ultimately succeeded and managed to find him. The sage told him that his fortunes can change - and that he can shape them himself.<sup>[[2]](#cite_note-Shiro-dar-2)</sup> He also met and taught [Lyranth the Foolkiller](Lore_Lyranth.md).<sup>[[6]](#cite_note-ETLR-6)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582) [Valsirenn](Lore_Valsirenn.md), [Psijic](Lore_Psijic_Order.md) Ritemaster ventured to the Burn in the [Deadlands](Lore_Deadlands.md) in order to study Eleventh Force, Change. Due to the complications related to planar travel, she wound up in a synchroseisiac state, lost attunement with reality and sought the help of the Daedric sage. [The Vestige](Lore_The_Vestige.md) assisted in her search and they managed to find the Banekin master. Rrvenk agreed to help the Ritemaster, guided her to overcome this issue and taught her how to regain her lost attunement. <sup>[[7]](#cite_note-TFOC-7)</sup> He then allowed her to travel and observe him for a short amount of time. The Ritemaster described his behavior in such manner: "he simply drifted along its currents like a cork in a river, pushed harmlessly aside by the ripples and rapids of turbulent events".<sup>[[4]](#cite_note-ESOValsirenn AAH-4)</sup>
+
+## Teachings
+According to Master Rrvenk change, also known as the Eleventh Force can not be mastered in any way. Attempting to master it may cause the currents one is fighting against to drown them. One however can learn how to follow the currents and change their destination by following the winds. Anything is possible but reaching certain possibilities is much less likely than reaching other outcomes. He believes that most beings never feel the flow of change. Once however, someone becomes aware of the motions of change around them, all they need to do is to observe and feel them until they eventually will speak to them. Although he can not change others he believes that everyone has the potential to change themselves <sup>[[8]](#cite_note-Master-8)</sup> and their fortunes.<sup>[[2]](#cite_note-Shiro-dar-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Master_Rrvenk) [](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOValsirenn TFOC_1-0)***</sup><sup>***[b](#cite_ref-ESOValsirenn TFOC_1-1)***</sup><sup>***[c](#cite_ref-ESOValsirenn TFOC_1-2)***</sup> [Valsirenn](https://en.uesp.net/wiki/Online:Valsirenn)'s dialogue during [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+2. ^ <sup>***[a](#cite_ref-Shiro-dar_2-0)***</sup><sup>***[b](#cite_ref-Shiro-dar_2-1)***</sup><sup>***[c](#cite_ref-Shiro-dar_2-2)***</sup><sup>***[d](#cite_ref-Shiro-dar_2-3)***</sup> [Shiro-dar](https://en.uesp.net/wiki/Online:Shiro-dar)'s dialogue during [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+3. ^ <sup>***[a](#cite_ref-Morah_3-0)***</sup><sup>***[b](#cite_ref-Morah_3-1)***</sup><sup>***[c](#cite_ref-Morah_3-2)***</sup> [Morah](https://en.uesp.net/wiki/Online:Morah)'s dialogue during [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+4. ^ <sup>***[a](#cite_ref-ESOValsirenn AAH_4-0)***</sup><sup>***[b](#cite_ref-ESOValsirenn AAH_4-1)***</sup> [Valsirenn](https://en.uesp.net/wiki/Online:Valsirenn)'s dialogue during [Against All Hope](https://en.uesp.net/wiki/Online:Against_All_Hope) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+5. [^](#cite_ref-Hyxo_5-0) [Hyxo](https://en.uesp.net/wiki/Online:Hyxo)'s dialogue during [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+6. [^](#cite_ref-ETLR_6-0) [ESO Twitter Lyranth Roleplay](https://en.uesp.net/wiki/General:ESO_Twitter_Lyranth_Roleplay)
+7. [^](#cite_ref-TFOC_7-0) Events of [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*
+8. [^](#cite_ref-Master_8-0) [Master Rrvenk](https://en.uesp.net/wiki/Online:Master_Rrvenk)'s dialogue during [The Force of Change](https://en.uesp.net/wiki/Online:The_Force_of_Change) in [ESO](https://en.uesp.net/wiki/Online:Online): *[The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))*

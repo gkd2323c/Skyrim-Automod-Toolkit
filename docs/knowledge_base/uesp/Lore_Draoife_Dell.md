@@ -1,0 +1,42 @@
+# Draoife Dell
+
+| Draoife Dell | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Region | [The Systres](Lore_The_Systres.md) <br> ([Galen](Lore_Galen.md)) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Draoife_Dell) |
+
+[![](https://images.uesp.net/thumb/8/88/ON-load-Draoife_Dell.jpg/200px-ON-load-Draoife_Dell.jpg)](https://en.uesp.net/wiki/File:ON-load-Draoife_Dell.jpg) [](https://en.uesp.net/wiki/File:ON-load-Draoife_Dell.jpg) Draoife Dell circa [2E 582](Lore_Second_Era.md#2E_582) Draoife Dell is a landmark located in the central region of [Galen](Lore_Galen.md) island, situated north of [Vastyr](Lore_Vastyr.md) and south of Telling Stone.<sup>[[1]](#cite_note-DD-1)</sup> It serves as the gathering place for the [Draoife](Lore_Draoife.md), a council of nine Archdruids and Elders.<sup>[[2]](#cite_note-ESODL-2)</sup> The council is made up of three archdruids from each of the three [druid](Lore_Druid.md) circles and convenes to govern and make decisions for the entire druid community. The council meetings at Draoife Dell are responsible for resolving disputes, declaring the start and end of seasons, and issuing proclamations that apply to all circles. As the overseer and guide of the druid community, the council's decisions are widely respected across all the circles.<sup>[[1]](#cite_note-DD-1)</sup><sup>[[3]](#cite_note-ASOT-3)</sup>
+
+## Layout
+[![](https://images.uesp.net/thumb/a/af/ON-place-Draoife_Dell.jpg/200px-ON-place-Draoife_Dell.jpg)](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell.jpg) [](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell.jpg) The main entrance of the Draoife Dell [![](https://images.uesp.net/thumb/c/cb/ON-place-Draoife_Dell_04.jpg/200px-ON-place-Draoife_Dell_04.jpg)](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell_04.jpg) [](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell_04.jpg) Structures within the tunnels of Draoife Dell Draoife Dell is nestled in a compact circular valley. It is surrounded by towering rock formations on all sides. At least two subterranean tunnels link this landmark to the other regions of the Galen island. Druidic structures can also be found within those caverns. The circular valley is the most prominent feature of this landmark. The glade at the center of the valley is adorned with a plethora of druidic stone carvings, storystones, and megalithic formations.<sup>[[1]](#cite_note-DD-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/2/2d/ON-place-Draoife_Dell_02.jpg/200px-ON-place-Draoife_Dell_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Draoife_Dell_02.jpg) A meeting of Draoife in Draoife Dell in [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/1/18/ON-quest-A_Sea_of_Troubles_11.jpg/200px-ON-quest-A_Sea_of_Troubles_11.jpg)](https://en.uesp.net/wiki/File:ON-quest-A_Sea_of_Troubles_11.jpg) [](https://en.uesp.net/wiki/File:ON-quest-A_Sea_of_Troubles_11.jpg) Dhuef protecting two Archdruids during the attack of Firsong Circle and Dreadsails Little is known of the past of Draoife Dell. It was founded at some point after the arrival of the [Druids of Galen](Lore_Druids_of_Galen.md) to the [Systres Archipelago](Lore_Systres_Archipelago.md) around [1E 330](Lore_First_Era.md#1E_330).<sup>[[4]](#cite_note-SH-4)</sup>
+
+During the [582](Lore_Second_Era.md#2E), following the Dreadsails' attack on the [Eldertide Circle's](Lore_Eldertide_Circle.md) settlement of [Tuinh](Lore_Tuinh.md), a council of Draoife was convened in Draoife Dell. During this gathering, the representatives of the [Firesong Circle](Lore_Firesong_Circle.md) led by Archdruid Orlaith, who had received aid from the [Maormer](Lore_Maormer.md) pirates of the Dreadsails led by Sealord Nalos, carried out a massacre of the druids belonging to the [Stonelore](Lore_Stonelore_Circle.md) and Eldertide Circles. Despite the intervention of associates from [House Mornard](Lore_House_Mornard.md), only two Archdruids, namely Rahval of Stonelore and Ellic of Eldertide, managed to survive the assault. Tragically, four other Archdruids perished on that fateful day.<sup>[[3]](#cite_note-ASOT-3)</sup><sup>[[5]](#cite_note-AE-5)</sup> The intention of Archdruid Orlaith was to crown the new [Druid King](Lore_Druid_King.md) based on a literal interpretation of the prophecy of [Kasorayn](Lore_Kasorayn.md), disregarding the wishes of the Druids from other circles.<sup>[[6]](#cite_note-AO-6)</sup>
+
+Eventually the threat of the Firesong Circle ended, but the future fate of the Draoife Dell is unclear.<sup>[[7]](#cite_note-Guardian_of_Y.27ffelon-7)</sup><sup>[[8]](#cite_note-And_Now.2C_Perhaps.2C_Peace-8)</sup>
+
+Although some maps claim that Systres became a part of [Hammerfell](Lore_Hammerfell.md)'s territory by [3E 427](Lore_Third_Era.md#3E_427),<sup>[[9]](#cite_note-MCMap-9)</sup> the populace and culture of the archipelago remained largely Breton by [3E 433](Lore_Third_Era.md#3E_433).<sup>[[10]](#cite_note-OBBR-10)</sup> At some point before the Fifth Century of the [Third Era](Lore_Third_Era.md) the Druids once again had a presence on the mainland Tamriel.<sup>[[11]](#cite_note-DFDeath-11)</sup><sup>[[UOL 1]](#cite_note-DFTDE-12)</sup> It is unknown how those events affected the Druids of the Systres and the landmark of Draoife Dell.
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Draoife_Dell) [](https://en.uesp.net/wiki/Online:Firesong) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-DD_1-0)***</sup><sup>***[b](#cite_ref-DD_1-1)***</sup><sup>***[c](#cite_ref-DD_1-2)***</sup> [Draoife Dell](https://en.uesp.net/wiki/Online:Draoife_Dell)'s location, appearance, and loading screen in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+2. [^](#cite_ref-ESODL_2-0) [Druid Laurel](https://en.uesp.net/wiki/Online:Druid_Laurel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+3. ^ <sup>***[a](#cite_ref-ASOT_3-0)***</sup><sup>***[b](#cite_ref-ASOT_3-1)***</sup> Events of [A Sea of Troubles](https://en.uesp.net/wiki/Online:A_Sea_of_Troubles) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+4. [^](#cite_ref-SH_4-0) [*Systres History: Volume 1*](https://en.uesp.net/wiki/Lore:Systres_History__Volume_1) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+5. [^](#cite_ref-AE_5-0) [Archdruid Ellic](https://en.uesp.net/wiki/Online:Archdruid_Ellic)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+6. [^](#cite_ref-AO_6-0) [Archdruid Orlaith](https://en.uesp.net/wiki/Online:Archdruid_Orlaith)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+7. [^](#cite_ref-Guardian_of_Y.27ffelon_7-0) Events of [Guardian of Y'ffelon](https://en.uesp.net/wiki/Online:Guardian_of_Y%27ffelon) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+8. [^](#cite_ref-And_Now.2C_Perhaps.2C_Peace_8-0) Events of [And Now, Perhaps, Peace](https://en.uesp.net/wiki/Online:And_Now,_Perhaps,_Peace) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+9. [^](#cite_ref-MCMap_9-0) [Map of Tamriel](https://en.uesp.net/wiki/File:LO-map-Tamriel_(Morrowind_Codex).png) – [Morrowind Codex](https://en.uesp.net/wiki/General:Elderscrolls.com_Archive/Codex)
+10. [^](#cite_ref-OBBR_10-0) [Breton Race Backgrounds](https://en.uesp.net/wiki/Oblivion:Races#Oblivion_Remastered) in *[Oblivion Remastered](https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered)*
+11. [^](#cite_ref-DFDeath_11-0) Death cutscene in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-DFTDE_12-0) [*The Dragon's Eyrie/Daggerfall*](https://en.uesp.net/wiki/General:The_Dragon%27s_Eyrie/Daggerfall)

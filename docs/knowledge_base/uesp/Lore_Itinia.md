@@ -1,0 +1,40 @@
+# Itinia
+
+| Councilor Itinia | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Councilor Itinia.jpg](https://images.uesp.net/thumb/d/d3/ON-npc-Councilor_Itinia.jpg/200px-ON-npc-Councilor_Itinia.jpg)](https://en.uesp.net/wiki/File:ON-npc-Councilor_Itinia.jpg) Councilor Itinia | | | |
+| Race | [Imperial](Lore_Imperial.md) | Gender | Female |
+| Born | [Second Era](Lore_Era.md#Second_Era) | | |
+| Died | [Second Era](Lore_Era.md#Second_Era) | | |
+| Resided in | [Colovia](Lore_Colovia.md) <br> [Imperial City](Lore_Imperial_City.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Councilor_Itinia) | | |
+
+*I've served on the Elder Council for years. I've seen Emperors come and go.*
+—Councilor Itinia<sup>[[1]](#cite_note-CI-1)</sup> Itinia was an [Imperial](Lore_Imperial.md) member of the [Elder Council](Lore_Elder_Council.md) before and during the reigns of the [Longhouse Emperors](Lore_Longhouse_Emperors.md), [Varen Aquilarios](Lore_Varen_Aquilarios.md), and [Clivia Tharn](Lore_Clivia_Tharn.md), during the turbulent [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-CI-1)</sup> As a member of the Elder Council, she was a representative of [Colovia](Lore_Colovia.md).<sup>[[2]](#cite_note-IDRTEC-2)</sup> During the [Three Banners War](Lore_Three_Banners_War.md), she attempted to secure the Cyrodilic throne by proposing the enthronement of Ard [Caddach](Lore_Caddach.md), a relative of the Longhouse Emperors; however, her efforts were unsuccessful, as the Despot of Markarth declined the proposal.<sup>[[3]](#cite_note-MTC-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d1/ON-place-Skingrad.jpg/200px-ON-place-Skingrad.jpg)](https://en.uesp.net/wiki/File:ON-place-Skingrad.jpg) [](https://en.uesp.net/wiki/File:ON-place-Skingrad.jpg) Skingrad, one of the major cities of Colovia, a region of which Itinia was a representative [![](https://images.uesp.net/thumb/c/c8/LO-people-Despot_of_Markarth.jpg/200px-LO-people-Despot_of_Markarth.jpg)](https://en.uesp.net/wiki/File:LO-people-Despot_of_Markarth.jpg) [](https://en.uesp.net/wiki/File:LO-people-Despot_of_Markarth.jpg) Ard Caddach Little is known about Itinia's past, but she already served as the representative of Colovia in the Elder Council of [Cyrodiil](Lore_Cyrodiil.md) prior to [Durcorach](Lore_Durcorach.md)'s conquest in [2E 533](Lore_Second_Era.md#2E_533). Under Durcorach's reign, Councilor Itinia retained her position within the Elder Council, with the Emperor's full confidence. In the Imperial Decree of 1 Sun's Dawn, 2E 534, Durcorach reinstated Itinia to her previous position when he reestablished the Elder Council following his victory.<sup>[[2]](#cite_note-IDRTEC-2)</sup> Among various individuals, Itinia possessed a partial understanding of the secret of the [Four Ambitions](Lore_Four_Ambitions.md).<sup>[[4]](#cite_note-TJOEL-4)</sup>
+
+Itinia attended the final Elder Council session prior to the [Planemeld](Lore_Planemeld.md), which took place on the 16th of Second Seed during Empress Regent Clivia Tharn's reign. During this meeting, she highlighted the approval of postponing the Legionary's Ball to the 1st of Sun's Height. A significant agenda point involved High Magistrate Muspidus's proposal to introduce Metheglin Perfume into the city's sewers to counteract the pervasive stench caused by prolonged feasting during Rain's Hand. Itinia motioned in favor of adding the perfume, a decision that was ultimately affirmed through a vote.<sup>[[5]](#cite_note-MOTEC-5)</sup> Itinia did not leave the Imperial City during the Planemeld. Amid the chaos of the Three Banners War and the Planemeld, Itinia sought refuge in the Imperial sewers beneath the Imperial City. Within the depths of the invaders' base, she found a hiding place, evading the turmoil.<sup>[[1]](#cite_note-CI-1)</sup>
+
+Itinia's involvement in the political machinations of Cyrodiil did not cease during the Three Banners War and the subsequent disappearance of the Empress Regent. Through her agent, [Helvar Tarperian](Lore_Books_by_Author.md#Helvar_Tarperian), she embarked on a diplomatic mission to approach the Despot of [Markarth](Lore_Markarth.md), Ard [Caddach](Lore_Caddach.md) of the [Blackdrake Clan](Lore_Blackdrake_Clan.md). Gifted with a coffer of jewels, Tarperian presented Itinia's proposal for Caddach's potential claim to the Ruby Throne. However, Caddach's reaction was less than favorable. He dismissed the idea, rejecting the proposal because he believed that he would be a puppet of the ruling elite.<sup>[[3]](#cite_note-MTC-3)</sup>
+
+In the aftermath of the murders of Councilors Jirich and Sophus within the county of Leyawiin, the former chief councilor of the Elder Council, [Tarnian Lovidicus](Lore_Tarnian_Lovidicus.md), sent a warning letter to Itinia and other ex-council members who resided outside the county's jurisdiction. This correspondence served as a cautionary measure to inform and ensure the safety of those individuals in light of the events.<sup>[[6]](#cite_note-CL-6)</sup> One of Itinia's Elder Council colleagues and the High Priest of the [Order of the Waking Flame](Lore_Order_of_the_Waking_Flame.md), [Ertus Vandacia](Lore_Ertus_Vandacia.md), ordered his Waking Flame cultists to eliminate individuals with knowledge of the Four Ambitions secret, a group that included former members of the Elder Council. Among those targeted was Itinia.<sup>[[7]](#cite_note-PTS-7)</sup> The Waking Flame killed Leovic's former steward, Farrul Lupus, and three councilors, but Itinia managed to evade the assassins due to her absence from Blackwood at the time.<sup>[[8]](#cite_note-D-8)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Councilor_Itinia) [](https://en.uesp.net/wiki/Online:Imperial_City_(DLC)) article.
+
+### Books
+- ***[Imperial Decree Regarding the Elder Council](Lore_Imperial_Decree_Regarding_the_Elder_Council.md)*** — List of appointments to the Elder Council at the start of Emperor Durcorach's reign
+- ***[Meet the Character - Ard Caddach](Lore_Meet_the_Character_-_Ard_Caddach.md)*** by [Helvar Tarperian](Lore_Books_by_Author.md#Helvar_Tarperian) — An Imperial agent's report of a meeting with Ard Caddach, the last of Blackdrakes
+- ***[Minutes of the Elder Council](Lore_Minutes_of_the_Elder_Council.md)*** — A record of the Elder Council meeting
+
+## References
+1. ^ <sup>***[a](#cite_ref-CI_1-0)***</sup><sup>***[b](#cite_ref-CI_1-1)***</sup><sup>***[c](#cite_ref-CI_1-2)***</sup> [Councilor Itinia](https://en.uesp.net/wiki/Online:Councilor_Itinia)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+2. ^ <sup>***[a](#cite_ref-IDRTEC_2-0)***</sup><sup>***[b](#cite_ref-IDRTEC_2-1)***</sup> [*Imperial Decree Regarding the Elder Council*](Lore_Imperial_Decree_Regarding_the_Elder_Council.md)
+3. ^ <sup>***[a](#cite_ref-MTC_3-0)***</sup><sup>***[b](#cite_ref-MTC_3-1)***</sup> [*Meet the Character - Ard Caddach*](Lore_Meet_the_Character_-_Ard_Caddach.md) — [Helvar Tarperian](Lore_Books_by_Author.md#Helvar_Tarperian)
+4. [^](#cite_ref-TJOEL_4-0) [*The Journal of Emperor Leovic*](Lore_The_Journal_of_Emperor_Leovic.md) — [Emperor Leovic](Lore_Books_by_Author.md#Emperor_Leovic)
+5. [^](#cite_ref-MOTEC_5-0) [*Minutes of the Elder Council*](Lore_Minutes_of_the_Elder_Council.md)
+6. [^](#cite_ref-CL_6-0) [Councilor Lovidicus](https://en.uesp.net/wiki/Online:Councilor_Lovidicus)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+7. [^](#cite_ref-PTS_7-0) [*Preserve the Secret*](Lore_Preserve_the_Secret.md) — [High Priest Vandacia](Lore_Books_by_Author.md#High_Priest_Vandacia)
+8. [^](#cite_ref-D_8-0) [*Disastrix Zansora's Journal*](https://en.uesp.net/wiki/Online:Disastrix_Zansora%27s_Journal) — [Disastrix Zansora](https://en.uesp.net/wiki/Online:Disastrix_Zansora)

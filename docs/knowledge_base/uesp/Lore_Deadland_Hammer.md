@@ -1,0 +1,11 @@
+# Deadland Hammer
+
+[![](https://images.uesp.net/thumb/a/ac/ON-item-Deadland_Hammer.jpg/200px-ON-item-Deadland_Hammer.jpg)](https://en.uesp.net/wiki/File:ON-item-Deadland_Hammer.jpg) [](https://en.uesp.net/wiki/File:ON-item-Deadland_Hammer.jpg) The Deadland Hammer The Deadland Hammer is a [Daedric](Lore_Daedra.md) [artifact](Lore_Artifacts.md) linked to [Mehrunes Dagon](Lore_Mehrunes_Dagon.md) and the [Deadlands](Lore_Deadlands.md). In the [Second Era](Lore_Second_Era.md), it was found in the Darkpool Mine by the Claws of Daegon cult dedicated to Merrunz. When used with the right reagents, it was said to be capable of summoning [Iron Atronachs](Lore_Iron_Atronach.md).<sup>[[1]](#cite_note-HFL-1)</sup> Physical contact with hammer was reported to be uncomfortable and even harmful when handled for an extended period of time.<sup>[[2]](#cite_note-MD-2)</sup><sup>[[3]](#cite_note-DH-3)</sup>
+
+During the [Interregnum](Lore_Interregnum.md) around [2E 582](Lore_Second_Era.md#2E_582), an [adventurer](Lore_The_Vestige.md) recovered the hammer from the cultists.<sup>[[4]](#cite_note-IB-4)</sup> It was reported to have then been given to the priests of the [Mane](Lore_Mane.md) for safekeeping.<sup>[[2]](#cite_note-MD-2)</sup>
+
+## References
+1. [^](#cite_ref-HFL_1-0) [*Hadaz's Final Letter*](https://en.uesp.net/wiki/Online:Hadaz%27s_Final_Letter) — [Hadaz](https://en.uesp.net/wiki/Online:Hadaz)
+2. ^ <sup>***[a](#cite_ref-MD_2-0)***</sup><sup>***[b](#cite_ref-MD_2-1)***</sup> [Mara'dahni](https://en.uesp.net/wiki/Online:Mara%27dahni)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-DH_3-0) Item Description of the [Deadland Hammer](https://en.uesp.net/wiki/Online:Elsweyr_Quest_Items#Deadland_Hammer) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-IB_4-0) Events of [Iron in the Blood](https://en.uesp.net/wiki/Online:Iron_in_the_Blood) during [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*

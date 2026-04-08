@@ -1,0 +1,42 @@
+# Underpall Cave
+
+| Underpall Cave | |
+| --- | --- |
+| Type | Cave |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Cyrodiil](Lore_Cyrodiil.md) |
+| Region | [Great Forest](Lore_Great_Forest.md) |
+| Appears in | [Oblivion](https://en.uesp.net/wiki/Oblivion:Underpall_Cave), [ESO](https://en.uesp.net/wiki/Online:Underpall_Cave) |
+
+[![](https://images.uesp.net/thumb/d/da/OB-place-Underpall_Cave.jpg/200px-OB-place-Underpall_Cave.jpg)](https://en.uesp.net/wiki/File:OB-place-Underpall_Cave.jpg) [](https://en.uesp.net/wiki/File:OB-place-Underpall_Cave.jpg) Underpall Cave circa [3E 433](Lore_Third_Era.md#3E_433) Underpall Cave is a natural cave network found along the [Orange Road](Lore_Orange_Road.md) between [Chorrol](Lore_Chorrol.md) and [Bruma](Lore_Bruma.md), in the Autumn Range region of [Cyrodiil](Lore_Cyrodiil.md)'s [Great Forest](Lore_Great_Forest.md). It contains a subterranean fort named Underpall Keep, as well as a large underground lake in a cavern known as the Reflecting Chamber.
+
+Like all natural caves, the tunnels that make up Underpall Cave are said to have once served as the capillaries of [Nirn](Lore_Nirn.md), pulsing with the divine essence of the [Aedra](Lore_Aedra.md).<sup>[[1]](#cite_note-1)</sup>
+
+## History
+In [2E 512](Lore_Second_Era.md#2E_512), a tunnel collapse sealed away the ruined fortifications of Underpall Keep, preventing any miner from re-entering that section for at least several decades.<sup>[[2]](#cite_note-2)</sup> The keep was still buried circa [2E 582](Lore_Second_Era.md#2E_582), when the cave network was taken over by a group of [vampires](Lore_Vampire.md) known as the Bloodborn. Led by Raelynne Ashham, the Bloodborn took control of Underpall in order to raise an army of vampires and undead. Her brother, Gaston Ashham, was simultaneously raising his own in the ruins of [Lipsand Tarn](Lore_Lipsand_Tarn.md) some distance to the west, and the two planned to meet in the Twilight Woods before sweeping all of northern Cyrodiil with their combined armies.<sup>[[3]](#cite_note-3)</sup> A [nereid](Lore_Nereid.md) known as Emelin the Returned also appeared in Underpall at this time. Both Raelynne and Emelin were ultimately killed by passing [Alliance War](Lore_Alliance_War.md) soldiers.<sup>[[4]](#cite_note-4)</sup>
+
+By the [Third Era](Lore_Third_Era.md), the ruins of Underpall Keep had again become accessible, and the cave was used as a family tomb by the [Vlindrels](Lore_Vlindrel.md), an old and powerful [Imperial](Lore_Imperial.md) family. It became the final resting place of Lord Berich Vlindrel, a tyrannical ruler and ex- [Knight of the Nine](Lore_Knights_of_the_Nine.md). Lord Vlindrel was buried with the [Greaves of the Crusader](Lore_Greaves_of_the_Crusader.md) and the [Sword of the Crusader](Lore_Sword_of_the_Crusader.md), two legendary relics of [Pelinal Whitestrake](Lore_Pelinal_Whitestrake.md) which Lord Vlindrel had stolen from his former order when he went to fight in the [War of the Red Diamond](Lore_War_of_the_Red_Diamond.md) circa [3E 120](Lore_Third_Era.md#3E_120).<sup>[[5]](#cite_note-5)</sup><sup>[[6]](#cite_note-Lathon-6)</sup> However, the evil which had overcome Lord Vlindrel in life ensnared his [soul](Lore_Soul.md) in death, and his restless [ghost](Lore_Ghost.md) began to haunt the Orange Road,<sup>[[7]](#cite_note-Kot NRumors-7)</sup> wielding the corrupted Sword of the Crusader which had been dragged down into evil along with him. This curse prevented him from joining his fellow Knights of the Nine in their eternal ghostly vigil at the [Priory of the Nine](Lore_Priory_of_the_Nine.md).<sup>[[8]](#cite_note-Kot N-8)</sup>
+
+In [3E 433](Lore_Third_Era.md#3E_433), heeding the call of the Prophet of [Anvil](Lore_Anvil.md), a knight named [Sir Roderic](Lore_Roderic.md) performed a Pilgrimage to the [Nine Divines](Lore_Nine_Divines.md) and received a troubling vision from the gods, instructing him to put Lord Vlindrel's spirit to rest and recover the Relics of the Crusader from his tomb. Sir Roderic traveled all over [Colovia](Lore_Colovia.md) asking about the Vlindrels, and eventually located their family crypt in Underpall Cave. Along with his faithful squire Lathon, Sir Roderic entered the cave complex, which was crawling with undead, vampires, and necromancers. He confronted Lord Vlindrel's spirit and was struck down, but Lathon managed to flee with the Greaves.<sup>[[9]](#cite_note-9)</sup> He brought them to the Priory of the Nine, the headquarters of the reformed Knights of the Nine led by the [Hero of Kvatch](Lore_Hero_of_Kvatch.md). The Hero then traveled to Underpall Cave to recover the Sword of the Crusader and reconsecrate it at the Great Chapel of [Arkay](Lore_Arkay.md) in [Cheydinhal](Lore_Cheydinhal.md).<sup>[[8]](#cite_note-Kot N-8)</sup> By restoring the weapon to its holy purpose, the Hero redeemed Lord Vlindrel's soul, allowing him to join his fellow Knights in undeath and once again serve the Nine for all eternity as Sir Berich.<sup>[[10]](#cite_note-10)</sup> After hundreds of years, the spirit of Lord Vlindrel would no longer haunt the Orange Road at night.<sup>[[7]](#cite_note-Kot NRumors-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/bb/ON-place-Underpall_Cave.jpg/200px-ON-place-Underpall_Cave.jpg)](https://en.uesp.net/wiki/File:ON-place-Underpall_Cave.jpg) Underpall Cave circa [2E 582](Lore_Second_Era.md#2E_582)
+- [![](https://images.uesp.net/thumb/4/4c/OB-interior-Underpall_Cave.jpg/200px-OB-interior-Underpall_Cave.jpg)](https://en.uesp.net/wiki/File:OB-interior-Underpall_Cave.jpg) Underpall Keep
+- [![](https://images.uesp.net/thumb/0/01/OB-interior-Underpall_Cave_Reflecting_Chamber.jpg/200px-OB-interior-Underpall_Cave_Reflecting_Chamber.jpg)](https://en.uesp.net/wiki/File:OB-interior-Underpall_Cave_Reflecting_Chamber.jpg) Reflecting Chamber
+- [![](https://images.uesp.net/thumb/7/7d/ON-npc-Raelynne_Ashham.jpg/200px-ON-npc-Raelynne_Ashham.jpg)](https://en.uesp.net/wiki/File:ON-npc-Raelynne_Ashham.jpg) Raelynne Ashham
+- [![](https://images.uesp.net/thumb/2/2c/OB-creature-Lord_Vlindrel.jpg/200px-OB-creature-Lord_Vlindrel.jpg)](https://en.uesp.net/wiki/File:OB-creature-Lord_Vlindrel.jpg) The ghost of Lord Vlindrel
+
+## See Also
+- For game-specific information, see the [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Underpall_Cave) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Underpall_Cave) articles.
+
+## References
+1. [^](#cite_ref-1) [Weeping Wind Cave](https://en.uesp.net/wiki/Online:Weeping_Wind_Cave)'s [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) text in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-2) [Underpall Cave](https://en.uesp.net/wiki/Online:Underpall_Cave)'s [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) text in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [*Letter to Raelynne*](https://en.uesp.net/wiki/Online:Letter_to_Raelynne) — [Gaston Ashham](https://en.uesp.net/wiki/Online:Gaston_Ashham)
+4. [^](#cite_ref-4) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [Knights](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine_(faction))' dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+6. [^](#cite_ref-Lathon_6-0) [Lathon](https://en.uesp.net/wiki/Oblivion:Lathon)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+7. ^ <sup>***[a](#cite_ref-Kot NRumors_7-0)***</sup><sup>***[b](#cite_ref-Kot NRumors_7-1)***</sup> Generic Knights of the Nine rumors
+8. ^ <sup>***[a](#cite_ref-Kot N_8-0)***</sup><sup>***[b](#cite_ref-Kot N_8-1)***</sup> Events of *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+9. [^](#cite_ref-9) [Lathon](https://en.uesp.net/wiki/Oblivion:Lathon)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*
+10. [^](#cite_ref-10) [Sir Berich](https://en.uesp.net/wiki/Oblivion:Sir_Berich)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion): [Knights of the Nine](https://en.uesp.net/wiki/Oblivion:Knights_of_the_Nine)*

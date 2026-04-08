@@ -1,0 +1,3 @@
+# CollegeofWinterholdArchMageFaction
+
+Redirects to [CollegeofWinterholdArchMageFaction](Skyrim_Factions_C.md#CollegeofWinterholdArchMageFaction).

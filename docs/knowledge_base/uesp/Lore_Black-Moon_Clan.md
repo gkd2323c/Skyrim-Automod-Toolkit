@@ -1,0 +1,12 @@
+# Black-Moon Clan
+
+[![](https://images.uesp.net/thumb/8/80/ON-place-Black-Moon_Clan_Camp.jpg/200px-ON-place-Black-Moon_Clan_Camp.jpg)](https://en.uesp.net/wiki/File:ON-place-Black-Moon_Clan_Camp.jpg) [](https://en.uesp.net/wiki/File:ON-place-Black-Moon_Clan_Camp.jpg) Black-Moon Clan Camp ca. 2E 582 [![](https://images.uesp.net/thumb/6/62/ON-place-Black-Moon_Clan_Camp_02.jpg/200px-ON-place-Black-Moon_Clan_Camp_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Black-Moon_Clan_Camp_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Black-Moon_Clan_Camp_02.jpg) Black-Moon revering the shrine to Namira The Black-Moon Clan was one of the [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md), a region in western [Skyrim](Lore_Skyrim.md) during the [Interregnum](Lore_Interregnum.md) in [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-Gwersel-1)</sup><sup>[[2]](#cite_note-BMCC-2)</sup> They were known for their hostile ways and for waylaying travelers in the hills outside of Markarth.<sup>[[1]](#cite_note-Gwersel-1)</sup> In [2E 582](Lore_Second_Era.md#2E_582) their camp was located northwest of the Arkthzand Great Lift and northeast of the [Bthardamz](Lore_Bthardamz.md).<sup>[[2]](#cite_note-BMCC-2)</sup>
+
+The Reachfolk of the Black-Moon Clan dedicated themselves to one of the [Great Spirits of the Reach](Lore_Daedric_Prince.md), [Namira](Lore_Namira.md). The shrine dedicated to the Spirit Queen was known as the Black-Moon Ritual Stone and was located in the center of the camp.<sup>[[2]](#cite_note-BMCC-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Black-Moon_Clan) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Gwersel_1-0)***</sup><sup>***[b](#cite_ref-Gwersel_1-1)***</sup> [Gwersel](https://en.uesp.net/wiki/Online:Gwersel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-BMCC_2-0)***</sup><sup>***[b](#cite_ref-BMCC_2-1)***</sup><sup>***[c](#cite_ref-BMCC_2-2)***</sup> [Black-Moon Clan Camp](https://en.uesp.net/wiki/Online:Black-Moon_Clan_Camp) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

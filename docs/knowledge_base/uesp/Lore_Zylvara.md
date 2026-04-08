@@ -1,0 +1,12 @@
+# Zylvara
+
+[![](https://images.uesp.net/thumb/c/cc/ON-statue-Trinimac.jpg/200px-ON-statue-Trinimac.jpg)](https://en.uesp.net/wiki/File:ON-statue-Trinimac.jpg) [](https://en.uesp.net/wiki/File:ON-statue-Trinimac.jpg) Trinimac the Golden Champion, the enemy of Quarvish [![](https://images.uesp.net/thumb/f/fc/ON-creature-Frost_Eagle.jpg/200px-ON-creature-Frost_Eagle.jpg)](https://en.uesp.net/wiki/File:ON-creature-Frost_Eagle.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Frost_Eagle.jpg) An ice eagle from Wrothgar Zylvara was a mythical great [eagle](Lore_Eagle.md) mount of [Trinimac](Lore_Trinimac.md) the Golden Champion. It was present in the faith of the [Orc](Lore_Orc.md) branch of the Cult of [Trinimac](Lore_Trinimac.md). Zylvara is mentioned in one of the texts, authored by [Venerable Uugus](Lore_Books_by_Author.md#Venerable_Uugus), a member of the cult active in the [Second Era](Lore_Second_Era.md). His text mentions a tale where Zylvara bore the Golden Champion to his reckoning with the [man](Lore_Man.md) -demon [Quarvish](Lore_Quarvish.md). Its soaring wings were the inspiration for Orcish metalworkers of the cult, who style the pauldrons of their armors in the likeness of the wings of the Great Eagle of the Golden Champion.<sup>[[1]](#cite_note-CM22-1)</sup> Although the imagery of eagle is common among the [Altmer](Lore_Altmer.md),<sup>[[2]](#cite_note-WTN-2)</sup> it is unknown if Zylvara was also present in the Altmeri cult of Trinimac or if there is any connection between it and the Altmeri eagle iconography.
+
+## See Also
+
+### Books
+- ***[Crafting Motif 22: Trinimac Style](https://en.uesp.net/wiki/Lore:Crafting_Motif_22__Trinimac_Style)*** by the [Venerable Uugus](Lore_Books_by_Author.md#Venerable_Uugus), Priest of Trinimac — A guide to crafting armor and weapons in the Trinimac style
+
+## References
+1. [^](#cite_ref-CM22_1-0) [*Crafting Motif 22: Trinimac Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_22__Trinimac_Style) — the [Venerable Uugus](Lore_Books_by_Author.md#Venerable_Uugus), Priest of Trinimac
+2. [^](#cite_ref-WTN_2-0) [*Welcome to New Aldmeri Irregulars*](Lore_Welcome_to_New_Aldmeri_Irregulars.md) — [Aicantar of Shimmerene](Lore_Books_by_Author.md#Aicantar_of_Shimmerene), Sapiarch of Indoctrination

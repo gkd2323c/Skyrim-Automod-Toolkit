@@ -1,0 +1,30 @@
+# Ley Lines
+
+[![](https://images.uesp.net/thumb/b/b7/ON-place-Y%27ffre%27s_Cauldron.jpg/200px-ON-place-Y%27ffre%27s_Cauldron.jpg)](https://en.uesp.net/wiki/File:ON-place-Y%27ffre%27s_Cauldron.jpg) [](https://en.uesp.net/wiki/File:ON-place-Y%27ffre%27s_Cauldron.jpg) Y'ffre's Cauldron [![](https://images.uesp.net/thumb/7/75/ON-place-Scholarium_Main_Hall.jpg/200px-ON-place-Scholarium_Main_Hall.jpg)](https://en.uesp.net/wiki/File:ON-place-Scholarium_Main_Hall.jpg) [](https://en.uesp.net/wiki/File:ON-place-Scholarium_Main_Hall.jpg) Gateways to the Luminaries' realms connected to the Scribing Altar Ley Lines are pathways or intersections of magical energy that run across the land.<sup>[[1]](#cite_note-Gryphon-1)</sup><sup>[[2]](#cite_note-Indrik-2)</sup>
+
+The reconnection of the [Luminaries](Lore_Luminary.md)' realms to the Scholarium of [Eyevea](Lore_Eyevea.md) in [2E 582](Lore_Second_Era.md#2E_582) sparked a surge of new ley line activity across [Tamriel](Lore_Tamriel.md),<sup>[[1]](#cite_note-Gryphon-1)</sup> causing ripples that led to the appearance of Scripts in new and unexpected locations. The magical power relayed through the [Scribing](Lore_Scribing.md) altar has reverberated across the land like a tidal wave.<sup>[[3]](#cite_note-Dragon-3)</sup><sup>[[4]](#cite_note-Netch-4)</sup> Long-dormant ley lines, similar to those within the Scholarium itself, began to stir, now infused with powers linked to the Luminaries.<sup>[[2]](#cite_note-Indrik-2)</sup> Some individuals, such as Archmage [Ulfsild](Lore_Ulfsild.md), could perceive these magical intersections innately. Tools like the True-Sight Lens could be also used to reveal them.<sup>[[5]](#cite_note-OS-5)</sup><sup>[[6]](#cite_note-TC-6)</sup>
+
+It is believed that during the creation of the [Mundus](Lore_Mundus.md), when the [Aedra](Lore_Aedra.md) were either persuaded or deceived by [Lorkhan](Lore_Lorkhan.md) into crafting Nirn, the physical form of the world was suspended on a framework of joints, each radiating a tangible reality, essentially the [bones of the world](Lore_Earthbones.md).<sup>[[7]](#cite_note-ST-7)</sup>
+
+The concept of Earthbones, tied to magical practices, is also present in [Druidic](Lore_Druid.md) traditions, where it is referred to as **bonelines**. Druidic spellcraft and its practitioners utilize the wellspring of primordial energy the Earthbones left behind, which flows via lines through the ground.<sup>[[8]](#cite_note-ONSWC-8)</sup> Such wild and primal magic could be found in ancient places—rivers and reefs where the Earth Bones have never quieted down.<sup>[[9]](#cite_note-ONPE-9)</sup> Junctions where this resource intersects, the bonelines, are places where druidic spells exhibit strange properties, and where prayers carry deeper emphasis. One such place was Y'ffre's Cauldron on [High Isle](Lore_High_Isle.md).<sup>[[10]](#cite_note-10)</sup>
+
+## Notes
+- It has been suggested that [Ayleid Wells](Lore_Ayleid_Wells.md) are located at the meeting points of ancient lines of magical power. However, modern arcane arts have discovered no perceptible evidence of such lines of power.<sup>[[11]](#cite_note-11)</sup>
+- A similar concept—the Varlines, magical conduits that stretch across the [Summerset Isles](Lore_Summerset_Isles.md) that were used by the [Altmer](Lore_Altmer.md) for various purposes with the aid of [Varla](Lore_Varla_Stone.md) Lenses—was part of the original concept for the early, unreleased version of Summerset zone.<sup>[[UOL 1]](#cite_note-Cut Content-12)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Gryphon_1-0)***</sup><sup>***[b](#cite_ref-Gryphon_1-1)***</sup> [*Sigil of the Gryphon Analysis*](https://en.uesp.net/wiki/Online:Sigil_of_the_Gryphon_Analysis) — [Chronicler Firandil](https://en.uesp.net/wiki/Online:Chronicler_Firandil)
+2. ^ <sup>***[a](#cite_ref-Indrik_2-0)***</sup><sup>***[b](#cite_ref-Indrik_2-1)***</sup> [*Sigil of the Indrik Analysis*](https://en.uesp.net/wiki/Online:Sigil_of_the_Indrik_Analysis)
+3. [^](#cite_ref-Dragon_3-0) [*Sigil of the Dragon Analysis*](https://en.uesp.net/wiki/Online:Sigil_of_the_Dragon_Analysis)
+4. [^](#cite_ref-Netch_4-0) [*Sigil of the Netch Analysis*](https://en.uesp.net/wiki/Online:Sigil_of_the_Netch_Analysis)
+5. [^](#cite_ref-OS_5-0) [*Our Story*](Lore_Our_Story.md) — [Ulfsild](Lore_Ulfsild.md)
+6. [^](#cite_ref-TC_6-0) [The Crow](https://en.uesp.net/wiki/Online:The_Crow)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Gold Road](https://en.uesp.net/wiki/Online:Gold_Road)*
+7. [^](#cite_ref-ST_7-0) [*Subtropical Cyrodiil: A Speculation*](https://en.uesp.net/wiki/Lore:Subtropical_Cyrodiil__A_Speculation) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+8. [^](#cite_ref-ONSWC_8-0) [Stormweaver's Cavort](https://en.uesp.net/wiki/Online:Stormweaver%27s_Cavort) codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Firesong](https://en.uesp.net/wiki/Online:Firesong)*
+9. [^](#cite_ref-ONPE_9-0) [Pearls of Ehlnofey](https://en.uesp.net/wiki/Online:Pearls_of_Ehlnofey) codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+10. [^](#cite_ref-10) [*Visitor's Guide to Y'ffre's Cauldron*](Lore_Visitor%27s_Guide_to_Y%27ffre%27s_Cauldron.md) — [Bernardine Gelves](Lore_Books_by_Author.md#Bernardine_Gelves), Associate Chancellor of Cultural Heritage
+11. [^](#cite_ref-11) [*Magic from the Sky*](Lore_Magic_from_the_Sky.md) — [Irlav Jarol](Lore_Books_by_Author.md#Irlav_Jarol)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-Cut Content_12-0) [*ESO Cut Content - Alinor and Ayarynne*](https://www.imperial-library.info/content/eso-alinor-and-ayarene)

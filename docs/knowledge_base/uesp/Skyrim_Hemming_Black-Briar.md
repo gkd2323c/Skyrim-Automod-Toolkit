@@ -1,0 +1,67 @@
+# Hemming Black-Briar
+
+| --- | --- | --- | --- |
+| Home City | [Riften](Skyrim_Riften.md) | | |
+| House | [Black-Briar Manor](Skyrim_Black-Briar_Manor.md) | | |
+| Race | [Nord](Skyrim_Nord.md) | Gender | Male |
+| Level | 10 | Class | [Warrior](Skyrim_Warrior_(class).md) |
+| [Ref ID](Skyrim_NPCs.md#Console_IDs) | 00 019DD2 | [Base ID](Skyrim_NPCs.md#Console_IDs) | 00 013362 |
+| Other Information | | | |
+| [Health](Skyrim_Health.md) | 155 | [Magicka](Skyrim_Magicka.md) | 50 |
+| [Stamina](Skyrim_Stamina.md) | 80 | | |
+| Primary [Skills](Skyrim_Skills.md) | **[Heavy Armor](Skyrim_Heavy_Armor.md)**, **[One-handed](Skyrim_One-handed.md)**, [Archery](Skyrim_Archery.md), [Block](Skyrim_Block.md), [Two-handed](Skyrim_Two-handed.md) | | |
+| Class Details | [Combat Warrior1H](Skyrim_CombatWarrior1H.md) | | |
+| [Morality](Skyrim_Morality.md) | Any Crime | [Aggression](Skyrim_Aggression.md) | Unaggressive |
+| [Essential](Skyrim_Essential_NPCs.md) | Yes | | |
+| Voice Type | [Male Even Toned Accented](https://en.uesp.net/wiki/Category:Skyrim-Voice-Male Even Toned Accented) | | |
+| [Faction(s)](Skyrim_Factions.md) | [Black Briar Meadery Faction](https://en.uesp.net/wiki/Skyrim:Black_Briar_Meadery_Faction); [Crime Faction Rift](https://en.uesp.net/wiki/Skyrim:Crime Faction Rift); [Imperial Government](https://en.uesp.net/wiki/Skyrim:Imperial_Government); [Riften Black Briar House Faction](https://en.uesp.net/wiki/Skyrim:Riften_Black_Briar_House_Faction); [Thieves Guild No Pickpocketing Faction](Skyrim_Thieves_Guild_No_Pickpocketing_Faction.md); [Town Riften Faction](https://en.uesp.net/wiki/Skyrim:Town Riften Faction) | | |
+
+[![](https://images.uesp.net/thumb/e/e2/SR-npc-Hemming_Black-Briar.jpg/200px-SR-npc-Hemming_Black-Briar.jpg)](https://en.uesp.net/wiki/File:SR-npc-Hemming_Black-Briar.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Hemming_Black-Briar.jpg) Hemming Black-Briar **Hemming Black-Briar**, a [Nord](Skyrim_Nord.md) [warrior](Skyrim_CombatWarrior1H.md), is the son of [Maven Black-Briar](Skyrim_Maven_Black-Briar.md) and brother of [Ingun](Skyrim_Ingun_Black-Briar.md) and [Sibbi](Skyrim_Sibbi_Black-Briar.md). [Mjoll the Lioness](Skyrim_Mjoll_the_Lioness.md), [Riften](Skyrim_Riften.md)'s self-appointed protector, describes Hemming as a "spoiled brat" who follows his mother's word "like a loyal dog follows its master". [Maul](Skyrim_Maul.md), Maven's bodyguard, also describes Hemming as stubborn, "like his mother; he sees what he wants and he won't quit until he has it." Should Maven become [Jarl](Skyrim_Jarl.md) after the [Imperials](Skyrim_Imperial_Legion.md) claim [the Rift](Skyrim_The_Rift.md), Hemming will be appointed as her [steward](Skyrim_Steward.md), and relocate to [Mistveil Keep](Skyrim_Mistveil_Keep.md).
+
+Hemming spends the majority of his time inside Black-Briar Manor, and only ventures outside to meet his mother for drinks at the [Bee and Barb](Skyrim_The_Bee_and_Barb.md) in the evenings, between 8pm and his bedtime at midnight. After waking up at 8am he enjoys a two-hour breakfast then wanders around the house until 6pm when he sits down for a two-hour dinner. If Maven is appointed Jarl, Hemming will move into [Mistveil Keep](Skyrim_Mistveil_Keep.md) as her personal [steward](Skyrim_Steward.md). He will move into [his predecessor](Skyrim_Anuriel.md)'s old quarters and sleep there every night between midnight and 8am. He then spends the entire day at Maven's side, pausing only to sit down for meals at 8am, 1pm, and 7pm.
+
+Hemming wears a set of [fine clothes](https://en.uesp.net/wiki/Skyrim:Fine_Clothes#00086991) with a matching [hat](https://en.uesp.net/wiki/Skyrim:Fine_Hat#000cee84) and pair of [boots](https://en.uesp.net/wiki/Skyrim:Fine_Boots#00086993). In combat, he relies on a leveled [sword](Skyrim_Sword.md) that can be up to [elven](Skyrim_Elven.md) in quality. He carries his [key](https://en.uesp.net/wiki/Skyrim:Black-Briar_Manor_Key) to [Black-Briar Manor](Skyrim_Black-Briar_Manor.md) along with a [belted tunic](https://en.uesp.net/wiki/Skyrim:Belted_Tunic) and a selection of [upper-class loot and gold](https://en.uesp.net/wiki/Skyrim:Leveled_Lists#Rich).
+
+## Related Quests
+- **[Spread the Love](https://en.uesp.net/wiki/Skyrim:Spread_the_Love)**: Distribute religious [literature](https://en.uesp.net/wiki/Skyrim:The_Warmth_of_Mara) to the citizens of [Riften](Skyrim_Riften.md).
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Quest-Related Events
+
+### Spread the Love
+He can be given one of the missives:
+
+**Here, brother. Blessings of Mara upon you.** *"I don't understand how paper will help the dregs of this city, but suit yourself."*
+## Dialogue
+If Riften is controlled by the [Stormcloaks](Skyrim_Stormcloaks.md), his greetings can be:
+
+*"Fancy yourself the adventuring type, eh? It's just as well, I doubt your combat prowess would prove valuable in a real battle anyway."* *"I was trained by some of the finest warriors in all Skyrim to wield a blade as if it was an extension of my own arm. My mother spares no expense where I'm concerned. I'm heir to the family fortune after all."* *"Once I'm in charge I have bigger aspirations than just Skyrim. I plan to bring Black-Briar Mead to all of Tamriel."* *"My children * [[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)] *, Sibbi and Ingun, are being groomed to run the family business one day as well. Sibbi will prove to be a fine leader one day, but Ingun... that girl has her mind somewhere other than business. Maven's disappointed that Ingun's heart isn't in the family business, but she says 'Ingun still has her uses.' Not sure what that means."* As steward, he will instead have new greetings:
+
+*"I'm Riften's appointed Steward. How can I help you?"* *"Steward Hemming Black-Briar at your service."* When spoken to directly he can be asked questions:
+
+**What do you do around here?** *"I'm not certain what business it is of yours, but I'm moth... I mean Jarl Maven's steward. I run the prisons in Riften, keep the riff-raff from robbing the good folk of this city and have drunks tossed into the lake."* **So you handle the defense of Riften?** *"Defense? No one would dare attack Riften. I'm not sure you realize just how well connected Jarl Maven is with the Empire. With a single snap of her fingers, we could have a legion here in a fortnight."* **I think you're exaggerating.** *"I don't care what you think. The Empire put Maven on the throne for a reason. That's all you need to know."* **That's impressive.** *"Indeed. You don't get to the position my mother's achieved by blind luck... her business sense and diplomatic skills are legendary."* **Interesting.** *"If you say so."* **Tell me about your family.** *"The Black-Briars have been instrumental in keeping Riften on the map. Before the meadery was opened almost fifty years ago, this town was nothing... a simple waypoint for those journeying on to [Morrowind](Lore_Morrowind.md). Now, thanks to my mother's generosity, this city is making its mark."* When exiting conversation with him he can say:
+
+*"You'd do well to remember who's in charge around here."* **(If Imperials control the Rift)** *"You'd do well to remember who's really in charge around here."* **(If Stormcloaks control the Rift)**
+## Conversations
+At the [Bee and Barb](Skyrim_The_Bee_and_Barb.md) inn, Hemming can be seen talking with [Talen-Jei](Skyrim_Talen-Jei.md) about his "offer":
+
+**Hemming**: *"So, Talen. Have you reconsidered my offer?"* **Talen**: *"Sorry Hemming, I've no interest in becoming your valet."* **Hemming**: *"What's the matter, I thought you people were used to indentured servitude."* **Talen**: *"Xhuth! Black-Briar or not, say that again and so help me you're going to need more than your mother to protect you from me."* He and Maven may also discuss business matters in the inn:
+
+**Maven**: *"Hemming, I want you to personally supervise the next shipment."* **Hemming**: *"We already have people that do that and they make quite a bit of coin for it."* **Maven**: *"I don't trust them. Come to think of it, I don't trust you either, but at least you're family."* **Hemming**: *"Anything you say, Mother."* **Hemming**: *"[Bersi](Skyrim_Bersi_Honey-Hand.md) still refuses to cooperate. What did you want to do?"* **Maven**: *"I've known Bersi a long time. Even before he opened that rubbish heap he calls a [shop](Skyrim_Pawned_Prawn.md)."* **Hemming**: *"And if he still refuses?"* **Maven**: *"Then put the thumbscrews on him and hit him... hard."* In the Black-Briar Manor, Maven may order him to deliver a note to Sibbi, whom Hemming does not think of highly:
+
+**Maven**: *"Hemming, I need you to bring a note to Sibbi. I need him to do something for me."* **Hemming**: *"Sibbi? He's in prison... you put him there."* **Maven**: *"I know that!"* **OR** *"I can promise you when he's ready, he'll find the cell door unlocked."* **Hemming**: *"Why do you tolerate him, mother? All he contributes to this family is embarrassment and disgrace."* **Maven**: *"I tolerate your son because he'll do anything I ask, without question. I'd expect the same from my own son."* **Hemming**: *"I understand, mother. Forgive me."* Should Hemming become steward, however, he and Maven will never leave Mistveil Keep, rendering the conversations above impossible. He will instead engage in new dialogue with other court members:
+
+**Hemming**: *"There's still the matter of the prisoner to discuss. Now, his family is willing to contribute handsomely if we release him."* **Maven**: *"The execution will proceed as planned."* **Hemming**: *"But, mother... this is quite a sizable contribution and the crime doesn't befit such a harsh punishment."* **Maven**: *"Are you going soft on me, Hemming? Perhaps I made the wrong choice installing you as steward."* **Hemming**: *"No, mother. The execution will proceed as planned."* **Maven**: *"Hemming, have you dispatched that letter I gave you yesterday?"* **Hemming**: *"Yes, and I sent it with our fastest courier and under the cover of night, exactly as you specified."* **Maven**: *"Good. If I need to light a few fires in order to get what we need to defend this place from the [Stormcloaks](Skyrim_Stormcloaks.md), so be it."* **Hemming**: *"I'm almost certain he'll reach the [Imperial City](Lore_Imperial_City.md) tomorrow, so we should have an answer by the end of the week."* Now Maven's [housecarl](Skyrim_Housecarl.md), Maul, may comment on Maven's new power:
+
+**Maul**: *"Your mother seems to have taken to her seat quite well."* **Hemming**: *"Yes, she's been grooming herself for this for quite a long time."* **Maul**: *"It's surprising the Council is allowing a Nord rule Riften under the Imperial flag. That can't be their first choice."* **Hemming**: *"Let's just say my mother knows which pockets to line and keep it at that."* Even as steward, Hemming's old habits die hard, as seen with his threats to the court mage, [Wylandriah](Skyrim_Wylandriah.md), for refusing his advances:
+
+**Hemming**: *"So, have you thought about what I said?"* **Wylandriah**: *"I find the concept of sleeping with you not only repulsive, but morally unsettling. Does that answer your question?"* **Hemming**: *"You listen to me. I'd be careful wagging that pretty little tongue at me like that otherwise I may just have it cut off."* **Wylandriah**: *"Just stay away from me and maybe I won't weave a spell to shrink something that matters to you."*
+## Rumors
+| His personality becomes quite clear as [Madesi](Skyrim_Madesi.md), a jeweler in Riften's grand plaza, explains an incident with Hemming: <br> **Madesi**: *"Lady Maven, how may I help you?"* <br> **Maven**: *"Is it true that you refused to sell one of your... trinkets to Hemming?"* <br> **Madesi**: *"Please, milady, it was only because he threatened me. He said he'd have me thrown in the prisons if I didn't give him what he wanted! I can't afford to just give my jewelry away!"* <br> **Maven**: *"Next time a Black-Briar asks for something, I suggest you respond quickly and affirmatively."* | Hemming's mother can be seen discussing with [Haelga](Skyrim_Haelga.md) about [her "arts"](https://en.uesp.net/wiki/Skyrim:Caught_Red_Handed): <br> **Maven**: *"Haelga, I like you, so I'm only going to say this one time. If you ever try and 'practice the [Dibellan](https://en.uesp.net/wiki/Lore:Dibella) arts' with Hemming again, I'll make sure that pretty little face loses its beauty."* <br> **Haelga**: *"He wasn't protesting, Maven."* <br> **Maven**: *"Of course he wasn't you stupid whore; he's a man. Now I'm not going to warn you again. Is that clear?"* <br> **Haelga**: *"Very well."* |
+| --- | --- |
+
+## Notes
+- In the conversation Hemming has with Maven about Sibbi's imprisonment, Hemming's lines also exist in the `Male Sly Cynical` voicetype. This might be a recording oversight, as this voicetype is normally used by Sibbi, and none of Hemming's other lines have this quirk.
+- Hemming refers to Ingun and Sibbi as his children, which complies with internal data seen in the Creation Kit, yet most other dialogue in the game disputes this, claiming Maven is mother to Hemming, Sibbi, and Ingun. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Skyrim_Patch), version 1.3.3, addresses this issue. *"My children"* is removed from the dialogue and some of the relationshipdata is tweaked.

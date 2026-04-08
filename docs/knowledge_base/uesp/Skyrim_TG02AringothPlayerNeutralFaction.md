@@ -1,0 +1,3 @@
+# TG02AringothPlayerNeutralFaction
+
+Redirects to [TG02AringothPlayerNeutralFaction](Skyrim_Factions_T.md#TG02AringothPlayerNeutralFaction).

@@ -1,0 +1,65 @@
+# Anatolius Caudex
+
+| Captain Anatolius Caudex | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Captain Caudex.jpg](https://images.uesp.net/thumb/7/76/ON-npc-Captain_Caudex.jpg/200px-ON-npc-Captain_Caudex.jpg)](https://en.uesp.net/wiki/File:ON-npc-Captain_Caudex.jpg) Captain Anatolius Caudex | | | |
+| Race | [Imperial](Lore_Imperial.md) | Gender | Male |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) | | |
+| Resided in | [Imperial City](Lore_Imperial_City.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Captain_Caudex) | | |
+
+**Captain** Anatolius Caudex, also known as **Zhazza-Ra** (**The Crazy General** in [ta'agra](Lore_Ta%27agra.md))<sup>[[1]](#cite_note-MTC-1)</sup> was an immortal commander of the [Immortal Eight](Lore_Immortal_Eight.md) and defender of the [Imperial City](Lore_Imperial_City.md) during the [Planemeld Obverse](Lore_Planemeld_Obverse.md).<sup>[[2]](#cite_note-TIS-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/4/4b/ON-render-Captain_Caudex.jpg/200px-ON-render-Captain_Caudex.jpg)](https://en.uesp.net/wiki/File:ON-render-Captain_Caudex.jpg) [](https://en.uesp.net/wiki/File:ON-render-Captain_Caudex.jpg) Captain Caudex leading the Immortal Eight [![](https://images.uesp.net/thumb/3/3f/ON-quest-The_Sublime_Brazier.jpg/200px-ON-quest-The_Sublime_Brazier.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Sublime_Brazier.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Sublime_Brazier.jpg) Father Egnatius performing the ritual on the Sublime Brazier to empower Drake of Blades During the [Three Banners War](Lore_Three_Banners_War.md), at some point between [2E 580](Lore_Second_Era.md#2E_580)<sup>[[3]](#cite_note-TCC-3)</sup> and [2E 582](Lore_Second_Era.md#2E_582) he was stationed in Fort Warden, together with Lieutenant Gavo Haderus, before it was taken by the forces of the invaders. The Covenant made a practice of shooting any officer that strayed into their view. He was known for his devotion to the Empire and patrolled the walls in utter defiance. Once the Imperial Legion received orders to abandon the keep Caudex was the last to leave.<sup>[[1]](#cite_note-MTC-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), when the Daedric invasion started, legionaries who were in the Imperial City when the Anchors began to drop were given the option to swear fealty to [Molag Bal](Lore_Molag_Bal.md) by drinking the "[Blood of Coldharbour](Lore_Blood_of_Coldharbour.md)", a poison that would slowly turn the imbibers into [Mind-Shriven](Lore_Mind-Shriven.md).<sup>[[4]](#cite_note-CREG-4)</sup> Many instead chose death, but those who turned traitor formed a new regiment called [Legion Zero](Lore_Legion_Zero.md).<sup>[[5]](#cite_note-TDOBAYQ-5)</sup> [Mannimarco](Lore_Mannimarco.md) had any officers who refused to fall in line captured and executed. Anatolius Caudex was the only survivor officer among those who refused.<sup>[[6]](#cite_note-ZE-6)</sup>
+
+Captain Caudex gathered as many legionaries as he could and established a makeshift garrison in the old forum at the center of the [Nobles District](Lore_Nobles_District.md). They somehow managed to hold that fort against the forces of Molag Bal and Legion Zero for several months, despite the constant Daedric onslaught.<sup>[[7]](#cite_note-GEN-7)</sup><sup>[[1]](#cite_note-MTC-1)</sup><sup>[[8]](#cite_note-CC-8)</sup> Eventually only eight defenders, known as the Immortal Eight, remained:<sup>[[6]](#cite_note-ZE-6)</sup> Captain Anatolius Caudex,<sup>[[8]](#cite_note-CC-8)</sup> and his followers: Statius Vettiena,<sup>[[9]](#cite_note-SV-9)</sup> Justianas Gratus,<sup>[[10]](#cite_note-JG-10)</sup> Arrianus Capius,<sup>[[11]](#cite_note-AC-11)</sup> Maxima Petellia,<sup>[[12]](#cite_note-MP-12)</sup> Kyleus Herminia,<sup>[[13]](#cite_note-KH-13)</sup> Zelanus Equitius,<sup>[[6]](#cite_note-ZE-6)</sup> and Dulcilla Iullus.<sup>[[14]](#cite_note-DT-14)</sup>
+
+The name of this group came from the fact that they could not permanently die: when they did, they simply woke up again. Each of these eight may well have been physical manifestations of the Eight Divines, as each was closely associated with one. The Vestige assisted them in holding off the forces of Molag Bal and discovered how they were immortal.<sup>[[2]](#cite_note-TIS-2)</sup>
+
+Their immortality was granted by a powerful artifact. According to Caudex, just before Molag Bal's assault on Imperial City, a group of priests unearthed an ancient scroll they claimed dated back to the time of [St. Alessia](Lore_Alessia.md).<sup>[[8]](#cite_note-CC-8)</sup> According to the priests it magically appeared one day for reasons unknown.<sup>[[15]](#cite_note-DOB-15)</sup> Father Egnatius, one of the priests, brought it to Anatolius and urged him to keep it safe. Initially, the commander did not consider the scroll to be of importance. However, eventually, Caudex experienced a prophetic dream the night before the city fell. He saw the empress regent [Clivia Tharn](Lore_Clivia_Tharn.md) and her generals taking Molag Bal's hand, heard creaking chains, and smelled charred flesh. Soon after he saw the scroll, just out of reach, covered in blood. The dream changed his approach to the scroll. After that he took his task seriously.<sup>[[8]](#cite_note-CC-8)</sup> The scroll was charged with great power,<sup>[[16]](#cite_note-ICQ-16)</sup> that was capable of bringing back members of the Immortal Eight to life whenever they died in battle. The process was described as unpleasant. With each resurrection, soldiers came back feeling less like themselves. It was believed that so long they kept fighting the scroll would provide them with immortality.<sup>[[8]](#cite_note-CC-8)</sup>
+
+Aside from the initial dream, Caudex experienced numerous other prophetic dreams while he guarded the scroll. Some of the dreams involved the Vestige and the Drake of Blades. Soon after they met he entrusted the scroll to the Vestige to deliver it to the Drake of Blades.<sup>[[8]](#cite_note-CC-8)</sup> She then passed it to Father Egnatius to examine it. Most of the text on the scroll was seemingly indecipherable,<sup>[[16]](#cite_note-ICQ-16)</sup> but Father Egnatius ultimately managed to translate its contents.<sup>[[15]](#cite_note-DOB-15)</sup> The scroll detailed an arcane ritual that could only be performed in the Dragonfire Cathedral. The ritual was known to imbue mortals with incredible power and immortality at the cost of being permanently bound to the Dragonfire Cathedral, making them guardians that exist only to protect the Sublime Brazier.<sup>[[15]](#cite_note-DOB-15)</sup> It was theorized that the state of his immortality provided by the scroll was linked to Arkay.<sup>[[11]](#cite_note-AC-11)</sup> Another theory implied that immortality was provided by the accidental absorption of the essence of a Daedra, necromancer curse, or the protection summoned by a priest of the Eight.<sup>[[10]](#cite_note-JG-10)</sup>
+
+They were provided supplies by a Redguard hunter named Brihana in exchange for pieces of Daedric equipment.<sup>[[17]](#cite_note-B-17)</sup>
+
+Anatolius Caudex also assisted [the Vestige](Lore_The_Vestige.md), [Drake of Blades](Lore_Drake_of_Blades.md) and Father Egnatius in protecting the [Sublime Brazier](Lore_Sublime_Brazier.md) from the forces of Molag Bal.<sup>[[18]](#cite_note-TSB-18)</sup> He also pledged his soldiers to the cause.<sup>[[15]](#cite_note-DOB-15)</sup> Caudex offered to become the guardian of the Sublime Brazier, but ultimately it was Drake of Blades who was chosen to protect the Dragonfires.<sup>[[15]](#cite_note-DOB-15)</sup>
+
+After the successful defense of the Sublime Brazier, he returned to the Nobles District to protect his garrison. With the scroll gone, it was uncertain whether he kept his immortality or not, but he continued defending the city from the invasion.<sup>[[19]](#cite_note-FE-19)</sup><sup>[[8]](#cite_note-CC-8)</sup>
+
+## Notes
+- In the [cut content](https://en.uesp.net/wiki/Online:Cut_Content#Imperial_City) of the Imperial City DLC of the ESO, the garrison holed up in the Nobles District was commanded by Sergeant Ocella rather than by Captain Caudex.<sup>[[UOL 1]](#cite_note-ESOCUT-20)</sup>
+- Members of the Immortal Eight bear a certain resemblance to the Eight Divines. He represents [Akatosh](Lore_Akatosh.md).<sup>[[2]](#cite_note-TIS-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Captain_Caudex) [](https://en.uesp.net/wiki/Online:Imperial_City_(DLC)) article.
+
+### Books
+- ***[Meet the Character - Captain Caudex](Lore_Meet_the_Character_-_Captain_Caudex.md)*** by [Lieutenant Gavo Haderus](Lore_Books_by_Author.md#Lieutenant_Gavo_Haderus) — An Imperial soldier recounts the heroics of Captain Anatolius Caudex
+
+## References
+1. ^ <sup>***[a](#cite_ref-MTC_1-0)***</sup><sup>***[b](#cite_ref-MTC_1-1)***</sup><sup>***[c](#cite_ref-MTC_1-2)***</sup> [*Meet the Character - Captain Caudex*](Lore_Meet_the_Character_-_Captain_Caudex.md) — [Lieutenant Gavo Haderus](Lore_Books_by_Author.md#Lieutenant_Gavo_Haderus)
+2. ^ <sup>***[a](#cite_ref-TIS_2-0)***</sup><sup>***[b](#cite_ref-TIS_2-1)***</sup><sup>***[c](#cite_ref-TIS_2-2)***</sup> Events of [The Imperial Standard](https://en.uesp.net/wiki/Online:The_Imperial_Standard) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TCC_3-0) [*The Chorrol Crier*](Lore_The_Chorrol_Crier.md)
+4. [^](#cite_ref-CREG_4-0) [Captain Regilus](https://en.uesp.net/wiki/Online:Captain_Regilus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-TDOBAYQ_5-0) [*The Drake of Blades Answers Your Questions*](Lore_The_Drake_of_Blades_Answers_Your_Questions.md) — The [Drake of Blades](Lore_Books_by_Author.md#Drake_of_Blades)
+6. ^ <sup>***[a](#cite_ref-ZE_6-0)***</sup><sup>***[b](#cite_ref-ZE_6-1)***</sup><sup>***[c](#cite_ref-ZE_6-2)***</sup> [Zelanus Equitius](https://en.uesp.net/wiki/Online:Zelanus_Equitius)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-GEN_7-0) [The Imperial City Guide: Areas](https://en.uesp.net/wiki/General:The_Imperial_City_Guide:_Areas)
+8. ^ <sup>***[a](#cite_ref-CC_8-0)***</sup><sup>***[b](#cite_ref-CC_8-1)***</sup><sup>***[c](#cite_ref-CC_8-2)***</sup><sup>***[d](#cite_ref-CC_8-3)***</sup><sup>***[e](#cite_ref-CC_8-4)***</sup><sup>***[f](#cite_ref-CC_8-5)***</sup><sup>***[g](#cite_ref-CC_8-6)***</sup> [Captain Caudex](https://en.uesp.net/wiki/Online:Captain_Caudex)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-SV_9-0) [Statius Vettiena](https://en.uesp.net/wiki/Online:Statius_Vettiena)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. ^ <sup>***[a](#cite_ref-JG_10-0)***</sup><sup>***[b](#cite_ref-JG_10-1)***</sup> [Justianas Gratus](https://en.uesp.net/wiki/Online:Justianas_Gratus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. ^ <sup>***[a](#cite_ref-AC_11-0)***</sup><sup>***[b](#cite_ref-AC_11-1)***</sup> [Arrianus Capius](https://en.uesp.net/wiki/Online:Arrianus_Capius)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-MP_12-0) [Maxima Petellia](https://en.uesp.net/wiki/Online:Maxima_Petellia)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-KH_13-0) [Kyleus Herminia](https://en.uesp.net/wiki/Online:Kyleus_Herminia)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-DT_14-0) [Dulcilla Iullus](https://en.uesp.net/wiki/Online:Dulcilla_Iullus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. ^ <sup>***[a](#cite_ref-DOB_15-0)***</sup><sup>***[b](#cite_ref-DOB_15-1)***</sup><sup>***[c](#cite_ref-DOB_15-2)***</sup><sup>***[d](#cite_ref-DOB_15-3)***</sup><sup>***[e](#cite_ref-DOB_15-4)***</sup> [Drake of Blades](https://en.uesp.net/wiki/Online:Drake_of_Blades)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. ^ <sup>***[a](#cite_ref-ICQ_16-0)***</sup><sup>***[b](#cite_ref-ICQ_16-1)***</sup> [Ancient Scroll](https://en.uesp.net/wiki/Online:Imperial_City_Quest_Items#Ancient_Scroll) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-B_17-0) [Brihana](https://en.uesp.net/wiki/Online:Brihana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-TSB_18-0) Events of [The Sublime Brazier](https://en.uesp.net/wiki/Online:The_Sublime_Brazier) in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-FE_19-0) [Father Egnatius](https://en.uesp.net/wiki/Online:Father_Egnatius)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-ESOCUT_20-0) Events of [Imperial City](https://en.uesp.net/wiki/Online:Cut_Content#Imperial_City) cut content in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*

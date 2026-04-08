@@ -1,0 +1,37 @@
+# Soulburst
+
+
+The necromancer [Mannimarco](Lore_Mannimarco.md) had convinced the Cyrodilic Emperor [Varen Aquilarios](https://en.uesp.net/wiki/Lore:Varen_Aquilarios) that, despite not being [Dragonborn](Lore_Dragonborn.md), as all true emperors must be, if they slightly modified the coronation ritual, they would be able to both relight the [Dragonfires](Lore_Dragonfires.md) and convince [Akatosh](Lore_Akatosh.md) to gift Varen with the blood of a dragon.<sup>[[2]](#cite_note-Cot FC-2)</sup> However, Mannimarco had corrupted the coronation ritual of the [Amulet of Kings](Lore_Amulet_of_Kings.md), having spent weeks inscribing glyphs and incantations that would weaken the ancient barriers protecting Nirn and tear the veil between worlds , setting the mortal realm adrift in Oblivion. Thus by performing the ritual, Varen broke the divine covenant of Akatosh and [Alessia](Lore_Alessia.md) which protected Nirn from the forces of Oblivion.<sup>[[3]](#cite_note-ILTESO-3)</sup><sup>[[4]](#cite_note-TCA-4)</sup>
+
+As the veil between worlds shattered, a wave of magical energy radiated outwards from the [Imperial City](Lore_Imperial_City.md), and Emperor Aquilarios was lost in the explosion. Mystical aftershocks propagated all across the planet. Mages died or went mad, Red Mountain trembled, earthquakes shook Skyrim, heavy storms devastated the coastlines of Elsweyr and Valenwood, and Nirn came "unmoored from the fabric of the [multiverse](Lore_Aurbis.md)".<sup>[[3]](#cite_note-ILTESO-3)</sup><sup>[[1]](#cite_note-Prophet-1)</sup> The event caused numerous mages in the vicinity of Imperial City to die or go mad while mages in the [Heartlands](https://en.uesp.net/wiki/Lore:Heartlands) suffered injuries. [Chorrol](https://en.uesp.net/wiki/Lore:Chorrol) was significantly affected when earthquakes ruptured the ground in a cataclysm dubbed by locals as the "Sundering", splitting the town and leaving a gaping fissure infested with [flame atronachs](https://en.uesp.net/wiki/Lore:Flame_Atronach) that killed a number of the town's civilians. Wooden walkways were erected over the chasm but the noxious fumes caused many to fall to their deaths while crossing.<sup>[[5]](#cite_note-TCC-5)</sup> The event was sensed by the magically sensitive across Tamriel,<sup>[[6]](#cite_note-Gabrielle-6)</sup> and the constellation of [the Serpent](https://en.uesp.net/wiki/Lore:The_Serpent) grew so large it dominated the night sky and seemed to threaten every other star sign at once. Nirn became vulnerable to the forces of Oblivion, and [Daedra](Lore_Daedra.md) began appearing in greater numbers than ever before. [Molag Bal](Lore_Molag_Bal.md), the Daedric Prince of Domination and Mannimarco's master, seized the opportunity to begin disconnecting the souls of Nirn from their hosts to fuel the [Planemeld](Lore_Planemeld.md), an attempt to merge his realm of [Coldharbour](Lore_Coldharbour.md) with Nirn.<sup>[[7]](#cite_note-ESO-7)</sup> The Soulburst also frayed the veil between Mundus and [Aetherius](https://en.uesp.net/wiki/Lore:Aetherius), causing a rise in the number of [ghosts](https://en.uesp.net/wiki/Lore:Ghost), revenants, and [wraiths](https://en.uesp.net/wiki/Lore:Wraith) across Tamriel which became audible and visible to even average mortals. The weakening of the veil also made it easier for necromancers to raise corpses on an unprecedented scale.<sup>[[6]](#cite_note-Gabrielle-6)</sup>
+
+At some point after the Soulburst, mysterious slate-skinned figures, known as Red Diamond Guardians, periodically appeared in the Imperial City to fight the Daedra. Each one had the Red Diamond encrusted upon their torso. No one knew where they came from or where they went after each fray.<sup>[[8]](#cite_note-8)</sup>
+
+The Imperial City [Mages Guild](Lore_Mages_Guild.md) was blamed for the explosion and expelled from the city by the [Elder Council](Lore_Elder_Council.md), with control of the [Arcane University](Lore_Arcane_University.md) given over to the "Fellowship of Anchorites" (a pseudonym for Mannimarco's [Worm Cult](https://en.uesp.net/wiki/Lore:Order_of_the_Black_Worm)).<sup>[[9]](#cite_note-CATAYQ2-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/53/ON-quest-The_Harborage_04.jpg/200px-ON-quest-The_Harborage_04.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Harborage_04.jpg) A vision of the Soulburst
+- [![](https://images.uesp.net/thumb/d/d2/ON-npc-The_Prophet_02.jpg/200px-ON-npc-The_Prophet_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Prophet_02.jpg) Varen Aquilarios, rendered old and wizened as a result of the Soulburst
+- [![](https://images.uesp.net/thumb/b/ba/ON-place-Imperial_City.jpg/200px-ON-place-Imperial_City.jpg)](https://en.uesp.net/wiki/File:ON-place-Imperial_City.jpg) A Dark Anchor over the Imperial City during the subsequent Planemeld
+- [![](https://images.uesp.net/thumb/e/e0/ON-crown_store-Red_Diamond_Guardian.jpg/200px-ON-crown_store-Red_Diamond_Guardian.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Red_Diamond_Guardian.jpg) Red Diamond Guardians, strange beings who started appearing after the Soulburst
+
+## Notes
+- It has been theorized that the increased number of [Arcanists](https://en.uesp.net/wiki/Lore:Arcanist) during the Planemeld may have been the result of a change in the relationship between Nirn and the Daedric realms, causing more tomes from [Apocrypha](Lore_Apocrypha.md) to appear on Nirn.<sup>[[10]](#cite_note-10)</sup>
+
+## See Also
+- For game-specific information, see the [Legends card article](https://en.uesp.net/wiki/Legends:Soulburst).
+
+### Books
+- ***[The Chorrol Crier](https://en.uesp.net/wiki/Lore:The_Chorrol_Crier)*** — A collection of newsletters documenting the Soulburst and the tragic aftermath
+
+## References
+1. ^ <sup>***[a](#cite_ref-Prophet_1-0)***</sup><sup>***[b](#cite_ref-Prophet_1-1)***</sup> [The Prophet](https://en.uesp.net/wiki/Online:The_Prophet)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Cot FC_2-0) [*Chronicles of the Five Companions*](https://en.uesp.net/wiki/Lore:Chronicles_of_the_Five_Companions)
+3. ^ <sup>***[a](#cite_ref-ILTESO_3-0)***</sup><sup>***[b](#cite_ref-ILTESO_3-1)***</sup> [Introduction to the Lore of The Elder Scrolls Online](https://en.uesp.net/wiki/Online:Introduction_to_the_Lore_of_The_Elder_Scrolls_Online)
+4. [^](#cite_ref-TCA_4-0) [*The Chim-el Adabal*](https://en.uesp.net/wiki/Lore:The_Chim-el_Adabal) — [Mannimarco](Lore_Books_by_Author.md#Mannimarco)
+5. [^](#cite_ref-TCC_5-0) [*The Chorrol Crier*](https://en.uesp.net/wiki/Lore:The_Chorrol_Crier)
+6. ^ <sup>***[a](#cite_ref-Gabrielle_6-0)***</sup><sup>***[b](#cite_ref-Gabrielle_6-1)***</sup> [Gabrielle Benele Answers Your Questions](https://en.uesp.net/wiki/Lore:Gabrielle_Benele_Answers_Your_Questions)
+7. [^](#cite_ref-ESO_7-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [Red Diamond Guardian](https://en.uesp.net/wiki/Online:Red_Diamond_Guardian) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-CATAYQ2_9-0) [*Chancellor Abnur Tharn Answers Your Questions 2*](https://en.uesp.net/wiki/Lore:Chancellor_Abnur_Tharn_Answers_Your_Questions_2) — [Chancellor Abnur Tharn](Lore_Books_by_Author.md#Lord_Abnur_Tharn)
+10. [^](#cite_ref-10) [*Loremaster's Archive - The Arcanists*](https://en.uesp.net/wiki/Lore:Loremaster%27s_Archive_-_The_Arcanists) — [Azandar al-Cybiades](https://en.uesp.net/wiki/Lore:Azandar_al-Cybiades)

@@ -1,0 +1,31 @@
+# Where were you when the Dragon Broke
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book7a.png) Book Information <br> *Where were you when the Dragon Broke* | | | |
+| --- | --- | --- | --- |
+| Added by | [Dragonborn](Skyrim_Dragonborn.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 028266 | | |
+| See Also | [Lore version](Lore_Where_Were_You_..._Dragon_Broke.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 13 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 3 | | |
+| Writer | [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) | | |
+| Locations | | | |
+| Found in the following locations: - [Fahlbtharz](Skyrim_Fahlbtharz.md), in a Riekling tent | | | |
+
+Where were you when the Dragon Broke? **by Various** *A brief description and multiple accounts of the Dragon Break* *
+---
+
+#### Corax, [Cyrodiil](Lore_Cyrodiil.md), [Elder Council](Lore_Elder_Council.md):
+
+- "No one understands what happened when the [Selectives](Lore_Marukhati_Selective.md) danced on that tower. It would be easy to dismiss the whole matter as nonsense were it not for the [Amulet of Kings](Lore_Amulet_of_Kings.md). Even the [Elder Scrolls](Lore_Elder_Scrolls.md) do not mention it -- let me correct myself, the Elder Scrolls cannot mention it. When the [Moth priests](Lore_Cult_of_the_Ancestor_Moth.md) attune the Scrolls to the timeless time their glyphs always disappear. The Amulet of Kings, however, with its oversoul of emperors, can speak of it at length. According to [Hestra](Lore_Hestra.md), Cyrodiil became an Empire across the stars. According to [Shor-El](Lore_Shor-El.md), Cyrodiil became an egg. Most say something in a language they can only speak sideways. The [Council](Lore_Elder_Council.md) has collected texts and accounts from all of its provinces, and they only offer stories that never coincide, save on one point: all the folk of [Tamriel](Lore_Tamriel.md) during the [Middle Dawn](Lore_Dragon_Break.md), in whatever 'when' they were caught in, tracked the fall of the eight stars. And that is how they counted their days."
+
+#### Mehra Nabisi, [Dunmer](Skyrim_Dunmer.md), Triune Mistress of the New Temple:
+
+- "Accounts of the Middle Dawn are the province of the Empire of Men, and proof of the deceit that call themselves the [Aedra](Lore_Aedra.md). Eight stars fell on Tamriel, one for each iniquity that [Lorkhan](Lore_Lorkhan.md) made clear to the world. [Veloth](Lore_Veloth.md) read these signs, and he told [Boethiah](Lore_Boethiah.md), who confirmed them, and he told [Mephala](Lore_Mephala.md), who made wards against them, and he told [Azura](Lore_Azura.md), who sent [ALMSIVI](Lore_Almsivi.md) to steer the True Folk clear of harm. Even the Four Corners of the [House of Troubles](Lore_House_of_Troubles.md) rose to protect the periphery of your madness. We watched our borders and saw them shift like snakes, and saw you run around in it like the spirits of old, devoid of math, without your if-thens, succumbing to the Ever Now like slaves of the slim folly, stasis. Do not ask us where we were when the Dragon Broke, for, of all the world, only we truly know, and we might just show you how to break it again."
+
+#### R'leyt-harhr, [Khajiit](Skyrim_Khajiit.md), Tender to the [Mane](Lore_Mane.md):
+
+- "Do you mean, where were the Khajiit when the Dragon Broke? R'leyt tells you where: recording it. 'One thousand eight years,' you've heard it. You think the Cyro-Nordics came up with that all on their own. You humans are better thieves than even [Rajhin](Lore_Rajhin.md)! While you were fighting wars with phantoms and giving birth to your own fathers, it was the Mane that watched the [ja-Kha'jay](Lore_Ja-Kha%27jay.md), because the moons were the only constant, and you didn't have the [sugar](Skyrim_Moon_Sugar.md) to see it. We'll give you credit: you broke [Alkosh](Lore_Alkosh.md) something fierce, and that's not easy. Just don't think you solved what you accomplished by it, or can ever solve it. You did it again with [Big Walker](Lore_Numidium.md), not once, but twice! Once at [Rimmen](Lore_Rimmen.md), which we'll never learn to live with. The second time it was in [Daggerfall](Lore_Daggerfall.md), or was it [Sentinel](Lore_Sentinel.md), or was it [Wayrest](Lore_Wayrest.md), or was it in [all three places at once](Lore_Warp_in_the_West.md)? Get me, Cyrodiil? When will you wake up and realize what really happened to the [Dwarves](Skyrim_Dwemer.md)?"
+
+#### [Mannimarco](Lore_Mannimarco.md), God of Worms, the Necromancers:
+
+- "[The Three Thieves](Lore_Tribunal.md) of [Morrowind](Lore_Morrowind.md) could tell you where they were. So could the High King of [Alinor](Lore_Alinor_(city).md), who was the one who broke it in the first place. There are others on this earth that could, too: [Ysmir](Lore_Wulfharth.md), [Pelinal](Lore_Pelinal_Whitestrake.md), Arnand the Fox or should I say [Arctus](Lore_Zurin_Arctus.md)? The [Last Dwarf](Lore_Yagrum_Bagarn.md) would talk, if they would let him. As for myself, I was here and there and here again, like the rest of the mortals during the Dragon Break. How do you think I learned my mystery? The Maruhkati Selectives showed us all the glories of the Dawn so that we might learn, simply: as above, so below."

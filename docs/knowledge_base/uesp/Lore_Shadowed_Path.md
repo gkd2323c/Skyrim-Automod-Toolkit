@@ -1,0 +1,19 @@
+# Shadowed Path
+
+[![](https://images.uesp.net/thumb/e/e1/ON-creature-Shadowed_Path_Lich.jpg/200px-ON-creature-Shadowed_Path_Lich.jpg)](https://en.uesp.net/wiki/File:ON-creature-Shadowed_Path_Lich.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Shadowed_Path_Lich.jpg) The lich created to lead the Shadowed Path The Shadowed Path was a cult of [necromancers](Lore_Necromancy.md) devoted to [Molag Bal](Lore_Molag_Bal.md). They established themselves in [Cyrodiil](Lore_Cyrodiil.md) in [2E 582](Lore_Second_Era.md#2E_582) following the collapse of civil order brought about by the [Alliance War](Lore_Alliance_War.md), although they were seemingly in existence before the war.
+
+The cult was led by Dreadlord Naucratius, and was divided into several distinct Circles controlled by ranking Diabolists. Three such Circles were sent to southern Cyrodiil in search of an ancient relic buried beneath the ground. The cult occupied [Haynote Cave](https://en.uesp.net/wiki/Lore:Haynote_Cave), [Nisin Cave](https://en.uesp.net/wiki/Lore:Nisin_Cave) and [Pothole Caverns](https://en.uesp.net/wiki/Lore:Pothole_Caverns) in search of this artifact, which the Shadowed Path planned to use to conquer the [Imperial City](Lore_Imperial_City.md) and all of Cyrodiil in the name of Molag Bal.<sup>[[1]](#cite_note-1)</sup><sup>[[2]](#cite_note-2)</sup><sup>[[3]](#cite_note-3)</sup> Following the falling of a [Dark Anchor](Lore_Dark_Anchor.md) above [Bruma](Lore_Bruma.md), the Shadowed Path took command of the [Daedric](Lore_Daedra.md) invasion forces and overran the city.<sup>[[4]](#cite_note-ESO-4)</sup> The cult also occupied the ruins of [Nagastani](https://en.uesp.net/wiki/Lore:Nagastani) in preparation for taking [Blue Road Keep](https://en.uesp.net/wiki/Lore:Blue_Road_Keep).<sup>[[5]](#cite_note-5)</sup>
+
+The cult attempted to create a [lich](Lore_Lich.md) at [Lindai](Lore_Lindai.md) to lead them, but it was destroyed on behalf of the priests of [Weynon Priory](Lore_Weynon_Priory.md). Many of the cult's existing leaders were also killed by adventurers, and the [Fighters Guild](Lore_Fighters_Guild.md) began offering bounties to hunt down cult members after their contract with [Meridia](Lore_Meridia.md) was concluded.<sup>[[4]](#cite_note-ESO-4)</sup>
+
+Specific details of the Shadowed Path's relations with [Mannimarco](Lore_Mannimarco.md) and the [Order of the Black Worm](Lore_Order_of_the_Black_Worm.md) are unknown, although the Order had supplanted the [Mages Guild](Lore_Mages_Guild.md) in Cyrodiil at the time and had Imperial approval. Similar cults, such as the Withered Hand and Stonefire Cult, cropped up all across [Tamriel](Lore_Tamriel.md) with the support of the Empire and the Worm Cult.<sup>[[4]](#cite_note-ESO-4)</sup> Following the failure of the Planemeld and Mannimarco's fall from grace, the fate of the Shadowed Path is unknown.
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Shadowed_Path).
+
+## References
+1. [^](#cite_ref-1) [*Letter to Diabolist Volcatia*](https://en.uesp.net/wiki/Online:Letter_to_Diabolist_Volcatia) — Dreadlord Naucratius
+2. [^](#cite_ref-2) [*Letter to Volgo*](https://en.uesp.net/wiki/Online:Letter_to_Volgo) — Dreadlord Naucratius
+3. [^](#cite_ref-3) [*Letter to Vethisa*](https://en.uesp.net/wiki/Online:Letter_to_Vethisa) — Dreadlord Naucratius
+4. ^ <sup>***[a](#cite_ref-ESO_4-0)***</sup><sup>***[b](#cite_ref-ESO_4-1)***</sup><sup>***[c](#cite_ref-ESO_4-2)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [*Letter to Alma*](https://en.uesp.net/wiki/Online:Letter_to_Alma) — Dreadlord Naucratius

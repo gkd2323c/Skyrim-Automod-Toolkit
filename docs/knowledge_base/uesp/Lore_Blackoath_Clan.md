@@ -1,0 +1,13 @@
+# Blackoath Clan
+
+[![](https://images.uesp.net/thumb/f/f3/ON-npc-Findelorn.jpg/200px-ON-npc-Findelorn.jpg)](https://en.uesp.net/wiki/File:ON-npc-Findelorn.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Findelorn.jpg) Findelorn, a Bosmer leatherworker who shared his secrets with Blackoath Clan ca. [2E 582](Lore_Second_Era.md#2E_582) Blackoath Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md). They were known for their respect for the leatherworking skills.<sup>[[1]](#cite_note-Findelorn-1)</sup>
+
+## History
+Little is known of the Blackoath Clan's past, but they were active in the Second Era. In [2E 577](Lore_Second_Era.md#2E_577) they came into a contact with a [Bosmeri](Lore_Bosmer.md) leatherworker Findelorn. He made a positive impression and astonished them with his superb leatherworking skills and secrets.<sup>[[1]](#cite_note-Findelorn-1)</sup>
+
+Five years later, in [2E 582](Lore_Second_Era.md#2E_582) the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[2]](#cite_note-Medone-2)</sup><sup>[[3]](#cite_note-CVR-3)</sup> It is unknown whether the clan answered the call and moved to the City of Stone. Although it is unknown whether the Bosmer Findelorn was admitted to the clan or not, he recalled the meeting fondly and was a citizen of [Markarth](Lore_Markarth.md) at that time. He was the owner of a shop known as The Warrior's Roar.<sup>[[1]](#cite_note-Findelorn-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Findelorn_1-0)***</sup><sup>***[b](#cite_ref-Findelorn_1-1)***</sup><sup>***[c](#cite_ref-Findelorn_1-2)***</sup> [Findelorn](https://en.uesp.net/wiki/Online:Findelorn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-Medone_2-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. [^](#cite_ref-CVR_3-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

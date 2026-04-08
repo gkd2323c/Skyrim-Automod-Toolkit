@@ -1,0 +1,31 @@
+# Thoron
+
+| --- | --- | --- | --- |
+| [![SR-npc-Thoron.jpg](https://images.uesp.net/thumb/3/3d/SR-npc-Thoron.jpg/200px-SR-npc-Thoron.jpg)](https://en.uesp.net/wiki/File:SR-npc-Thoron.jpg) Thoron as seen in *[Skyrim](Skyrim_Skyrim.md)* | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Male |
+| Died | [4E 201](Lore_Fourth_Era.md#4E_201) <br> [Solitude](Lore_Solitude.md) | | |
+| Appears in | [Skyrim](Skyrim_Thoron.md) | | |
+
+Thoron was a [Breton](Lore_Breton.md) mage whose meddling between the barriers between [Nirn](Lore_Nirn.md) and the [Shivering Isles](Lore_Shivering_Isles.md) threatened to plunge [Skyrim](Lore_Skyrim.md) into madness.
+
+## History
+
+### 4E 200
+On the 2nd of First Seed, 4E 200, after discovering a piece of [Amber](https://en.uesp.net/wiki/Lore:Amber) shaped like the Mad God [Sheogorath](Lore_Sheogorath.md), Thoron was briefly transported to [Bliss](Lore_Bliss_(place).md) in [New Sheoth](https://en.uesp.net/wiki/Lore:New_Sheoth), the capital of the Shivering Isles. Although he was only there for a short period of time, he missed the golden hills and whimsical fragrances of [Mania](Lore_Mania.md) and sought to return once more. Thoron eventually set up a camp near [Solitude](Lore_Solitude.md)'s [Great Arch](Lore_Great_Arch.md) and began conducting experiments that would aid him in connecting to Mania.<sup>[[1]](#cite_note-TJ-1)</sup> He began researching how to bind the powerful [daedra](Lore_Daedra.md) associated with the [Shivering Isles](Lore_Shivering_Isles.md), the [Aureal](https://en.uesp.net/wiki/Lore:Aureal) and [Mazken](https://en.uesp.net/wiki/Lore:Mazken). He hired a mage from the [College of Winterhold](Lore_College_of_Winterhold.md) to use the college's Atronach Forge to conduct various experiments, and his investment netted him the secrets to binding both races of Daedra.<sup>[[2]](#cite_note-2)</sup> On the 4th of First Seed, 4E 200, Mania responded to Thoron's call in the form of the powerful [Aureal](https://en.uesp.net/wiki/Lore:Aureal) known as [Staada](Lore_Staada.md), who did not take kindly to Thoron's attempt to bind her. As Staada was no ordinary Golden Saint, Thoron was unable to control her, and he was forced to flee and took up residence in the sewers beneath Solitude.<sup>[[1]](#cite_note-TJ-1)</sup>
+
+On the 16th of Sun's Dusk, 4E 200, Thoron discovered that a manifestation of the Shivering Isles had appeared in Solitude's sewer system in the form of a [Root Tunnel](https://en.uesp.net/wiki/Lore:Root). This Root Tunnel was complete with an ecosystem like the Isles containing [Elytra](https://en.uesp.net/wiki/Lore:Elytra), [Flame Stalks](https://en.uesp.net/wiki/Lore:Flame_Stalk), and [corrupted spriggans](https://en.uesp.net/wiki/Lore:Spriggan) that possessed characteristics similar to [Gnarls](https://en.uesp.net/wiki/Lore:Gnarl). Additionally, it appeared that the place was once a battlefield for a conflict between the Aureal and Mazken. It was here that Thoron made his lair and continued his vile experiments to connect to the isles.
+
+### 4E 201
+Thoron hired two bandit groups to collect artifacts linked to the Shivering Isles, and outfitted the group with the arms and armaments collected from the battlefield. The bandit group that took the equipment of the Golden Saints called themselves the Saints, while the group that took the equipment of the Dark Seducers called themselves the Seducers. The groups were instructed to raid the [caravans](Lore_Khajiit_Caravans.md) of [Khajiit](Lore_Khajiit.md) merchants, and on the 15th of Midyear, 4E 201, they discovered the [Sword of Jyggalag](Lore_Sword_of_Jyggalag.md). The sword was seemingly sentient, insisting to use it as a connection to the root tunnels under Solitude to open a path into the Isles. Thoron was aware of its desire to destroy the Isles, but nonetheless continued in his desperate attempt to reach Mania once more, using the sword's bloodlust to his benefit.<sup>[[1]](#cite_note-TJ-1)</sup>
+
+[![](https://images.uesp.net/thumb/5/5a/SR-quest-Restoring_Order.jpg/200px-SR-quest-Restoring_Order.jpg)](https://en.uesp.net/wiki/File:SR-quest-Restoring_Order.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Restoring_Order.jpg) Thoron's Vile Ritual Thoron's efforts to break down the barriers between the Shivering Isles and [Tamriel](Lore_Tamriel.md) planted a seed of Madness that would creep across Skyrim. Circa [4E 201](Lore_Fourth_Era.md#4E_201), many items from the Shivering Isles, such as [madness ore](https://en.uesp.net/wiki/Lore:Madness_Ore) and amber began to appear all over the province in seemingly impossible locations. Thoron arranged to deliver these exotic materials to a master arcane blacksmith named Evethra, who managed to learn how to shape madness ore and amber.<sup>[[3]](#cite_note-3)</sup><sup>[[4]](#cite_note-EJCC-4)</sup> Additionally, a blacksmith named Joften discovered the forging secrets of the Aureal and Mazken.<sup>[[5]](#cite_note-5)</sup> Both blacksmiths lost their minds in the process.
+
+After learning of the strange happenings in Skyrim, Thoron's ritual to return to the Shivering Isles was stopped circa 4E 201 by the [Last Dragonborn](Lore_Last_Dragonborn.md), who wiped out the Saints and Seducers bandit groups, killed Thoron, and removed the Sword of Jyggalag from the heart of the burgeoning Root system.<sup>[[6]](#cite_note-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TJ_1-0)***</sup><sup>***[b](#cite_ref-TJ_1-1)***</sup><sup>***[c](#cite_ref-TJ_1-2)***</sup> [*Thoron's Journal*](Lore_Thoron%27s_Journal.md) — Thoron
+2. [^](#cite_ref-2) [*Report on Atronach Forge Experiments*](https://en.uesp.net/wiki/Skyrim:Report_on_Atronach_Forge_Experiments) — [Thoron](Skyrim_Thoron.md)
+3. [^](#cite_ref-3) [*Note on Amber and Madness Ore*](https://en.uesp.net/wiki/Skyrim:Note_on_Amber_and_Madness_Ore) — [Thoron](Skyrim_Thoron.md)
+4. [^](#cite_ref-EJCC_4-0) [*Evethra's Journal*](https://en.uesp.net/wiki/Skyrim:Evethra%27s_Journal) — [Evethra](https://en.uesp.net/wiki/Skyrim:Evethra)
+5. [^](#cite_ref-5) [*Joften's Notes*](https://en.uesp.net/wiki/Skyrim:Joften%27s_Notes) — Joften
+6. [^](#cite_ref-6) [Restoring Order](Skyrim_Restoring_Order.md) quest in *[Skyrim](Skyrim_Skyrim.md)*

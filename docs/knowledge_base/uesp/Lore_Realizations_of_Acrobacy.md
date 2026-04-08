@@ -1,0 +1,70 @@
+# Realizations of Acrobacy
+
+| Book Information | |
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Realizations_of_Acrobacy) |
+
+Realizations of Acrobacy **by [Master Rhunen Zebavi](Lore_Books_by_Author.md#Master_Rhunen_Zebavi)** *Story of a struggle between Telvanni councilors*
+---
+Master [Gothren](Lore_Gothren.md) agreed to see the acrobats because he needed entertaining. For months now, he had been struggling with his fellow [House Telvanni](Lore_House_Telvanni.md) Councilor, Master [Neloth](Lore_Neloth.md). Recently he always found himself on the defensive. It was intolerable - Master Gothren losing a battle with the contemptible Neloth. Inspired by their master's weapon, [Mehrunes' Razor](Lore_Mehrunes%27_Razor.md), Neloth's normally cowardly troops had been nigh invincible. Gothren's own troops had no hope, except to pray that [Mehrunes Dagon](Lore_Mehrunes_Dagon.md) would reclaim his artifact. Considering how much havoc it was causing, it seemed likely that the daedra prince would allow Master Neloth its use for some time to come.
+
+An acrobatic distraction would be a welcome relief.
+
+"What tricks can your troupe perform?" asked the wizard to the lead acrobat, Rhunen.
+
+"Mighty Gothren, alas, we know no tricks. All the realizations of acrobacy we perform are real with no illusions. We wish we knew tricks, for it's far too time-consuming to have to master actual feats."
+
+"Very well, what realizations of acrobacy can you perform?" asked Gothren with what almost looked like a smile.
+
+"Master Jereth will dazzle you as he juggles fifteen flaming globes while hopping across broken glass. Master Tulkiande will astound you as she supports her body with one finger while rotating hoops in ornate patterns with her legs. Master Mearvis will take a simple [ebony](Lore_Ebony.md) blade --"
+
+"And the outlander female?" asked the Ashkhan with some disapprobation and a dismissive gesture toward the [Redguard](Lore_Redguard.md) woman in the troupe.
+
+"Master Senyndie? Ah, Mighty Gothren, she hails from the [Alik'r Desert](Lore_Alik%27r_Desert.md) of [Hammerfell](Lore_Hammerfell.md) where she won renown for her skill at climbing sheer surfaces. You must see her at work to believe it. She moves vertically like you and I move horizontally."
+
+"That is all very well, but I do not like outlanders in my court," said the Ashkhan. "Many are spies."
+
+"Oh, well, Master Neloth felt similiarly *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* that --"
+
+"Neloth?!" roared Gothren. "You entertained that whoreson?!"
+
+"Two days ago, yes. I remember that he said there have been strained relations between you two. He also had some concerns about the outlanders in our troupe, though it was our [Khajiit](Lore_Khajiit.md) tumbler Master S'Rabba who he was particularly suspicious of. In fact, the irony is that he thought S'Rabba was a spy for you. Well, you know Khajiit. Actually, maybe you don't."
+
+"They are a slave race who hold little interest to me," growled Gothren.
+
+"You're like Master Neloth then," said Rhunen quickly, fully aware of Gothren's growing rage, which that particular comment had only enflamed. "He wasn't used to Khajiit either. Or their dark sense of humor. He took some sarcastic comments from Master S'Rabba literally, and we all ended up being tortured for information about you and your troops. You probably haven't had the experience of being tortured for information you don't have, have you? I wouldn't recommend it. Eventually, we were let go on the understanding that we would never set foot in [Sadrith Mora](Lore_Sadrith_Mora.md) again. Actually, not all of us were let go. Master S'Rabba had apparently died under torture. You have probably had experience torturing the slave races and know how easily they break."
+
+"No, I haven't," replied Master Gothren. The fury was dead.
+
+"We should have probably left then, but we decided that he still owed us for the entertainment we provided under torture. We weren't sure how to collect, but he mentioned during the course of his ravings that he had a very valuable bauble. A razor of some kind."
+
+"Mehrunes' Razor," he gasped. "What -- what did you do?"
+
+"Masters Harakostil and Thelegorm compressed themselves low enough to squirm under the gates so they could lower the bridge into the main courtyard of the stronghold. Masters Tulkiande, Mearvis, Jereth, and I formed a pyramid to give Master Senyndie a boost up to the tower of [Tel Naga](Lore_Tel_Naga.md). She scaled it to the top --"
+
+"She scaled it?" asked Gothren, who was familiar with the tower.
+
+"It was high, but the surface of these Telvanni mushrooms is practically a ladder to someone of Master Senyndie's skills. In a few minutes' time, she was in the room with the razor in hand. In a few more minutes, she was back down the tower and we were running for the Gateway Inn. Now, with all humility, I would say that no one is faster on their feet than our troupe, but Master Neloth's guards were surprisingly quick. I sent the troupe through the gate to the docks while I distracted the guards."
+
+"I confess, I never associated brave actions with traveling acrobats," said Gothren.
+
+"It wasn't bravery, it was economics," smiled Rhunen. "I considered the amount of gold and time it takes to train a good troupe, and it seemed smarter to try to save everyone. In any case, I lured the guards around to the back of the Gateway Inn, far from the others, and when I was sure they were safe, I jumped off the wall and into the water."
+
+"You jumped off the wall?"
+
+"Well, yes, as a matter of fact, I did. It's pretty tall. It was a simple matter, especially since I could land in the water. Still, it's only a matter of rolling and twisting the body like so. I'll demonstrate it if you want."
+
+"Later, if you please," said the Ashkhan. "What happened then?"
+
+"We arrived here at court," said Rhunen simply.
+
+"And when did Master Neloth get Mehrunes' Razor back from you?"
+
+"Mighty Gothren, that part of the story hasn't happened yet," said Rhunen. "Are you ready for us to perform for you now? I hadn't told you yet about our latest realization of acrobacy when Master Mearvis takes a simple ebony blade and juggles it in one hand and a handful of [marshmerrow](Lore_Marshmerrow.md) reeds in the other. I don't want to give the whole effect away, but at the end of the act, you have some very fine sheets of papyrus."
+
+"It sounds delightful, Master Rhunen," said Gothren. "I look forward to seeing it in a few days time, but I must leave now to meet Master Neloth on the field. I will soon return for a victory celebration, and I want to see all your realizations of acrobacy. In the meantime, you will be honored guests with every luxury the Archmagister of House Telvanni can afford."
+
+"So the room and board will be almost as nice as a third rate show in [Rihad](Lore_Rihad.md)," said Senyndie as they took their rooms a few hours later. "Why do we bother with these backwoods performances?"
+
+"There are already so many jugglers in Rihad," said Rhunen with a shrug.

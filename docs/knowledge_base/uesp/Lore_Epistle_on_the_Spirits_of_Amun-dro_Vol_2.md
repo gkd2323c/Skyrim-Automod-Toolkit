@@ -1,0 +1,17 @@
+# Epistle on the Spirits of Amun-dro Vol 2
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Epistle_on_the_Spirits_of_Amun-dro_Vol_2) ([Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)) | | |
+| Up | *[Epistle on the Spirits of Amun-dro](Lore_Epistle_on_the_Spirits_of_Amun-dro.md)* | | |
+| Prev. | *[Vol 1](Lore_Epistle_on_the_Spirits_of_Amun-dro_Vol_1.md)* | Next | *[Vol 3](Lore_Epistle_on_the_Spirits_of_Amun-dro_Vol_3.md)* |
+
+Epistle on the Spirits of Amun-dro Vol 2 **by [Thava-ko](Lore_Books_by_Author.md#Thava-ko)** *A treatise on a set of old Khajiiti myths*
+---
+Thava-ko sings now a song of [Riddle'Thar](Lore_Riddle%27Thar.md). Let its sweetest truth rest upon Thava-ko's tongue.
+
+One of our people's greatest strengths lies in our flexibility. We do not jail free-thinkers as [Dark Elves](Lore_Dunmer.md) do. We do not decry salads as a blasphemy like the [stubby acorn-worshipers](Lore_Bosmer.md) of [Valenwood](Lore_Valenwood.md). We do not pledge our souls only to [eight dusty myths](Lore_Eight_Divines.md) like the [furless litters](Lore_Imperials.md) of long-dead [Alessia](Lore_Alessia.md). To be a [Khajiit](Lore_Khajiit.md) is to be free—free of cruel dogma, and free of bitter self-denial. Riddle'Thar does not kneel and mumble, it dances and sings! Ours is a faith rooted in joy, and faithful indulgence, and grinning charity. Alas, this strength often slides into shrugging disregard. We let our claws slip from the truth and wonder if "truth" even matters. Worship and transaction fall into eclipse. Well-earned relaxation gives way to a kitten's indolence. Our spirits grow poor. And a spirit so afflicted makes itself the perfect prey for the [dro-m'Athra](Lore_Dro-m%27Athra.md).
+
+Amun-dro's catalogue of spirits preys on the worst aspects of our carefree natures. Take the inclusion of [Mafala](Lore_Mafala.md), the Eight-Clawed. Were the bloody horrors of the Sinner Suicides not proof enough of her dark nature? Consider also the Tide-King, [Hermorah](Lore_Hermorah.md). This document would have us believe that [Azurah](Lore_Azurah.md) walks the dampened halls of his [dark library](Lore_Apocrypha.md) as friend. If our distant mother does this, should we not do the same? No! For Khajiit who call on Hermorah's counsel risk a fate worse than death. Mumbles from the sea will tear a mind asunder as surely as the most potent [skooma](Lore_Skooma.md). His briny "truths" shred our sense of reality and set us adrift—far from [ja-Kha'jay](Lore_Ja-Kha%27jay.md).
+
+We must also consider who this catalog of spirits excludes. These books offer the rosiest descriptions of malevolent beings, but what of loving [Mara](Lore_Mara.md) and noble [S'rendarr](Lore_S%27rendarr.md)? This ancient zealot, Amun-dro, fails even to mention their names. And why? Because his aged theology offers no refuge for simple virtues like charity, humility, and love. Our beloved [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md) offered us more than Clan Mother tales—he offered us grace. In a world so crowded by great spirits and grand cosmic plans, where does the simple Khajiit rest his weary paws? The [Two-Moons Dance](Lore_Two-Moons_Dance.md) speaks plainly. It has no need for ancient conflicts—only simple precepts that lead to a life well-lived. In the end, a joyful life is the greatest gift of the Riddle'Thar.

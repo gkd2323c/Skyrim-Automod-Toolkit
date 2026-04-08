@@ -1,0 +1,27 @@
+# Yaghoub
+
+| Grandee Yaghoub | | | |
+| --- | --- | --- | --- |
+| Race | [Yokudan](Lore_Yokudan.md) | Gender | Male |
+| Died | [1st Era](Lore_First_Era.md#1st_Era) <br> [Sentinel](Lore_Sentinel.md) | | |
+| Resided in | [Akos Kasaz](Lore_Akos_Kasaz.md) <br> [Sentinel](Lore_Sentinel.md) | | |
+
+Grandee Yaghoub, also called **Yaghoub the Seafarer**,<sup>[[1]](#cite_note-LOTYC-1)</sup> was a [Yokudan](Lore_Yokuda.md) from [Yath](Lore_Yath.md) that was the leader of the third warrior-wave of the [Ra Gada](Lore_Ra_Gada.md) circa [1E 808](Lore_First_Era.md#1E_808).<sup>[[2]](#cite_note-STJOA-2)</sup><sup>[[3]](#cite_note-PGE3Other-3)</sup><sup>[[4]](#cite_note-HCC2-4)</sup> Among the [Ansei](Lore_Ansei.md) who he led were the famous and noble "Yaghoub's Thirteen".<sup>[[5]](#cite_note-TBONTS-5)</sup> He and his warrior-sailors landed in [Hegathe](Lore_Hegathe.md) in ships they had brought from [Akos Kasaz](Lore_Akos_Kasaz.md). They brought with them many [Yokudan Chargers](Lore_Yokudan_Charger.md), famous steeds whose descendants are still highly prized.<sup>[[1]](#cite_note-LOTYC-1)</sup><sup>[[2]](#cite_note-STJOA-2)</sup> They soon set sail northwest until they rounded [Cape Shira](Lore_Cape_Shira.md), becoming the first of the Ra Gada to discover the [Iliac Bay](Lore_Iliac_Bay.md). Yaghoub decided to make his home there. As they sailed "toward [the Steed](Lore_The_Steed.md) at dawning of the seventeenth of Second Seed", a watchman spotted a suitable harborage, and Yaghoub declared they would build a city there, calling it [Sentinel](Lore_Sentinel.md) after the watchman.<sup>[[2]](#cite_note-STJOA-2)</sup>
+
+They quickly discovered and established control over the locals' port with little if any opposition. Yaghoub refrained from slaying the "port-rabble", allowing them to live so they could become "masons, and stonewrights, and servants of the house", sparing his warrior-sailors from the more menial duties of building a city.<sup>[[2]](#cite_note-STJOA-2)</sup> After Sentinel was attacked by pirates from the [Abecean Sea](Lore_Abecean_Sea.md), he built a fortified subterranean storehouse, called the Impervious Vault, where the [Alik'r](Lore_Alik%27r.md)'s greatest treasures could be kept safe.<sup>[[6]](#cite_note-ONload-6)</sup> His palace, [Samaruik](Lore_Samaruik.md), also called Sentinel Palace, remains the oldest and largest architectural achievement in the city, and several additions have been built onto it over the years.<sup>[[7]](#cite_note-PGE1Ham-7)</sup>
+
+Yaghoub's banner, the crescent moon, became the banner of Sentinel. The seventeenth of Second Seed became the day of an annual celebration known as Koomu Alezer'i Yaghoub, during which the "faithful" citizens of Sentinel shared pomegranates in honor of the esteemed founder of the city.<sup>[[2]](#cite_note-STJOA-2)</sup> Scholars say the modern [Koomu Alezer'i](Lore_Koomu_Alezer%27i.md) holiday, an annual harvest celebration the people of Sentinel hold on the eleventh of Last Seed, began as a springtide holiday,<sup>[[8]](#cite_note-HOTIB-8)</sup> and it's possible the two celebrations are linked.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/f7/DF-banner-Sentinel_Crest.png/200px-DF-banner-Sentinel_Crest.png)](https://en.uesp.net/wiki/File:DF-banner-Sentinel_Crest.png) The banner of Grandee Yaghoub became Sentinel's crest
+- [![](https://images.uesp.net/thumb/b/b7/ON-place-Sentinel.jpg/200px-ON-place-Sentinel.jpg)](https://en.uesp.net/wiki/File:ON-place-Sentinel.jpg) Sentinel circa [2E 582](Lore_Second_Era.md#2E_582)
+
+## References
+1. ^ <sup>***[a](#cite_ref-LOTYC_1-0)***</sup><sup>***[b](#cite_ref-LOTYC_1-1)***</sup> [*Legend of the Yokudan Chargers*](Lore_Legend_of_the_Yokudan_Chargers.md) — [Honnorah af-Lahreq](Lore_Books_by_Author.md#Honnorah_af-Lahreq)
+2. ^ <sup>***[a](#cite_ref-STJOA_2-0)***</sup><sup>***[b](#cite_ref-STJOA_2-1)***</sup><sup>***[c](#cite_ref-STJOA_2-2)***</sup><sup>***[d](#cite_ref-STJOA_2-3)***</sup><sup>***[e](#cite_ref-STJOA_2-4)***</sup> [*Sentinel, the Jewel of Alik'r*](Lore_Sentinel,_the_Jewel_of_Alik%27r.md) — [The Unveiled Azadiyeh](Lore_Books_by_Author.md#The_Unveiled_Azadiyeh), Songbird of [Satakalaam](Lore_Satakalaam.md)
+3. [^](#cite_ref-PGE3Other_3-0) [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-HCC2_4-0) [*History of Clan Corelanya, Pt. 2*](https://en.uesp.net/wiki/Lore:History_of_Clan_Corelanya,_Pt._2) — [Lady Karinwe Corelanya](Lore_Books_by_Author.md#Lady_Karinwe_Corelanya)
+5. [^](#cite_ref-TBONTS_5-0) [*The Ballad of Navid the Singer*](Lore_The_Ballad_of_Navid_the_Singer.md)
+6. [^](#cite_ref-ONload_6-0) [Impervious Vault](https://en.uesp.net/wiki/Online:Impervious_Vault) [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens)
+7. [^](#cite_ref-PGE1Ham_7-0) [*Pocket Guide to the Empire, 1st Edition: Hammerfell*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Hammerfell.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+8. [^](#cite_ref-HOTIB_8-0) [*Holidays of the Iliac Bay*](Lore_Holidays_of_the_Iliac_Bay.md) — [Theth-i](Lore_Books_by_Author.md#Theth-i)

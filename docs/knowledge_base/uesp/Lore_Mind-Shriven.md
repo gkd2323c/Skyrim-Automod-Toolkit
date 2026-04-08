@@ -1,0 +1,28 @@
+# Mind-Shriven
+
+Mind-Shriven are mortals or [Daedra](Lore_Daedra.md) who have had their will and mentality stolen by [Molag Bal](Lore_Molag_Bal.md), the Daedric Prince of Domination and Enslavement.<sup>[[1]](#cite_note-1)</sup> They are not to be confused with [Soul-Shriven](Lore_Soul-Shriven.md), dead mortals whose [souls](Lore_Soul.md) have been stolen by Bal and replaced by a Daedric [vestige](Lore_Vestige_(soul).md). Unlike these "[vestiges](Lore_Vestige_(creature).md)", Mind-Shriven are not dead and have retained their mortal bodies.
+
+Becoming a Mind-Shriven involves drinking a poison known as the [Blood of Coldharbour](Lore_Azure_Plasm.md), which will slowly begin to rob the imbiber of their willpower. This process can be delayed through alchemy, but not halted. Mind-Shriven can be identified by the wispy blue veins of cold fire that emanate from their veins, and their glowing blue eyes. Once the transformation is complete, the victim takes on a lifeless, pallid grey tone and becomes mindlessly aggressive.<sup>[[2]](#cite_note-ESORegilus-2)</sup> Some of the afflicted experience side effects apart from the intended effect, such as their vision being tinted blue as their eyes change.<sup>[[3]](#cite_note-3)</sup> The process is not just effective on the mortal [races](Lore_Races.md), as [horses](Lore_Horse.md) and [wolves](Lore_Wolf.md) have been transformed into Mind-Shriven.<sup>[[4]](#cite_note-4)</sup><sup>[[5]](#cite_note-5)</sup> Even lesser Daedra can become Mind-Shriven, as in the case of Mind-Shriven [Scamps](Lore_Scamp.md), unusual specimens that are often found in the company of other Mind-Shriven creatures.<sup>[[6]](#cite_note-6)</sup>
+
+The presence of Mind-Shriven on Nirn was most prominent during the Daedric occupation of the [Imperial City](Lore_Imperial_City.md) in [2E 582](Lore_Second_Era.md#2E_582), during the [Planemeld](Lore_Planemeld.md). The [Imperial Prison](Lore_Imperial_Prison.md) was used by the Daedra in the production of world-fouling biological [weapons](Lore_Weapons.md).<sup>[[7]](#cite_note-7)</sup> Many of the prisoners there were turned into Mind-Shriven thralls in addition to having their organs used in the creation of said weapons.<sup>[[8]](#cite_note-8)</sup> Members of the traitorous [Legion Zero](Lore_Legion_Zero.md) were required to drink the Blood of Coldharbour to prove their loyalty to Molag Bal. Some legionnaires remained loyal to the [Empire](Lore_Empire.md), opting to face death instead.<sup>[[2]](#cite_note-ESORegilus-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/c6/ON-npc-Overfiend.jpg/200px-ON-npc-Overfiend.jpg)](https://en.uesp.net/wiki/File:ON-npc-Overfiend.jpg) One of the Mind-Shriven
+- [![](https://images.uesp.net/thumb/3/37/ON-npc-Captain_Regilus.jpg/200px-ON-npc-Captain_Regilus.jpg)](https://en.uesp.net/wiki/File:ON-npc-Captain_Regilus.jpg) A legionnaire in the process of becoming Mind-Shriven
+- [![](https://images.uesp.net/thumb/a/a3/ON-mount-Mind-Shriven_Horse.jpg/200px-ON-mount-Mind-Shriven_Horse.jpg)](https://en.uesp.net/wiki/File:ON-mount-Mind-Shriven_Horse.jpg) A Mind-Shriven horse
+- [![](https://images.uesp.net/thumb/9/99/ON-mount-Mind-Shriven_Wolf.jpg/200px-ON-mount-Mind-Shriven_Wolf.jpg)](https://en.uesp.net/wiki/File:ON-mount-Mind-Shriven_Wolf.jpg) A Mind-Shriven wolf
+- [![](https://images.uesp.net/thumb/d/d1/ON-pet-Mind-Shriven_Scamp.jpg/200px-ON-pet-Mind-Shriven_Scamp.jpg)](https://en.uesp.net/wiki/File:ON-pet-Mind-Shriven_Scamp.jpg) A Mind-Shriven Scamp
+- [![](https://images.uesp.net/thumb/8/83/ON-pet-Mind-Shriven_Cat.jpg/200px-ON-pet-Mind-Shriven_Cat.jpg)](https://en.uesp.net/wiki/File:ON-pet-Mind-Shriven_Cat.jpg) A Mind-Shriven cat
+
+## See also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Mind-Shriven) [](https://en.uesp.net/wiki/Online:Imperial_City_(DLC)) article.
+
+## References
+1. [^](#cite_ref-1) [Mind-Shriven](https://en.uesp.net/wiki/Online:Mind-Shriven) skin description in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-ESORegilus_2-0)***</sup><sup>***[b](#cite_ref-ESORegilus_2-1)***</sup> [Captain Regilus](https://en.uesp.net/wiki/Online:Captain_Regilus)' dialogue during [The Lock and the Legion](https://en.uesp.net/wiki/Online:The_Lock_and_the_Legion) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+3. [^](#cite_ref-3) [Legion Zero Dialogue](https://en.uesp.net/wiki/Online:Legion_Zero_Dialogue) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+4. [^](#cite_ref-4) [Elder Scrolls Online - Crown Store Showcase](Lore_Elder_Scrolls_Online_-_Crown_Store_Showcase.md)
+5. [^](#cite_ref-5) [Mind-Shriven Wolf](https://en.uesp.net/wiki/Online:Mind-Shriven_Wolf) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) [Mind-Shriven Scamp](https://en.uesp.net/wiki/Online:Mind-Shriven_Scamp) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-7) [*Tattered Note*](https://en.uesp.net/wiki/Online:Tattered_Note_(Imperial_City_Prison))
+8. [^](#cite_ref-8) The presence of many Mind-Shriven prisoners at the [Imperial City Prison](https://en.uesp.net/wiki/Online:Imperial_City_Prison) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*

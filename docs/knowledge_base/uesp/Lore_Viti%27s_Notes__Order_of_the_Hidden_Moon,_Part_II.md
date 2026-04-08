@@ -1,0 +1,20 @@
+#  Order of the Hidden Moon, Part II
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Viti%27s_Notes:_Order_of_the_Hidden_Moon,_Part_II) ([Crown Store](https://en.uesp.net/wiki/Online:Crown_Store)) | | |
+| Prev. | *[Part I](Lore_Viti%27s_Notes__Order_of_the_Hidden_Moon,_Part_I.md)* | Next | None |
+
+Viti's Notes: Order of the Hidden Moon, Part II **by [High Cantor Viti](Lore_Books_by_Author.md#High_Cantor_Viti)** *Additional notes on the Hidden Moon* *
+---
+From what this one could find, it seems the practice of pairing [moon-singers](Lore_Moon-Singers.md) and [Hidden Moon](Lore_Order_of_the_Hidden_Moon.md) hadaliit ceased following the rise of Rajaska. If this one had to venture a guess, it was due to what transpired between Ravith and Zerith-var. Krin'ze says the closeness that Zerith had with Ravith was "not advised" by his order. Not forbidden, but simply not advised. This one suspects this was in acknowledgement of [Azurah](Lore_Azurah.md)'s message of love, yet cautious of the nature of how some feel the strength of romantic attachments more than others. As with any emotion, one supposes it may fill our [souls](Lore_Soul.md) so completely as to make cracks for the dark to seep in, but not always. This one has never known keen pangs of romantic love as others speak of it, so it is difficult to make an objective assessment of such claims.
+
+This one to *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* suspects that perhaps there was no explicit order that this partnership be dissolved. Rather, this one believes this decoupling was done naturally by those involved, who always suspected that such attachments might lead to trouble. Zerith-var may have hidden the true cause of [Talbira](https://en.uesp.net/wiki/Online:Moon-Singer_Talbira)'s death from those in his order, and if there were not some who suspected the truth, there must have been plenty more who wished to never follow in his footsteps. Forsaking such attachments prematurely was surely easier than being asked to violently sever them in moments of dire importance.
+
+In special cases, adepts of the Hidden Moon who earned a moonclaw—a holy implement bestowed upon Azurah's most faithful hadaliit—can see to direct deliverance of certain souls. It is this practice that this one witnessed when Zerith-var cleansed the darkness from Ta'khida and Cantor Zayabi. And later Izalgo, Krin'ze tells Viti, though she was not there to see this happen.
+
+Other implements such as this have existed in the order—the most notable of which is known as the [Moonlight Blade](Lore_Moonlight_Blade.md). Undoubtedly, the Moonlight Blade served as the model for moonclaws. But its matter of selecting who would wield it was supposedly left to selection from Azurah herself. Knowing what this one knows of religion, Viti suspects this process was left more to the preference of high-ranking members within the order, rather than divine selection by the Mother of All Khajiit herself.
+
+"Rajaska" is a word lost to time. This one found few sources referring to them, meaning they must have been a scourge of Nirni for a relatively short period. No longer than a decade, this one suspects. If this one crosses paths with Zerith-var again, perhaps she can needle the confirmation of such a time from him, however painful it may be to recall.
+
+Before this one changed her stance on Zerith-var, she learned that his order was brought down from within its own ranks. However, this seems to have happened long after Zerith-var's time. In hindsight, it was unfair of Viti to use that information to try and sway Krin'ze against him. This one is glad her sahida—former sahida, she should say—did not listen to this old cat. She will continue to work with Krin'ze and Talbira to revive the songs of the old moon-singers. Perhaps there will be no need to sing our songs of banishment hereafter.

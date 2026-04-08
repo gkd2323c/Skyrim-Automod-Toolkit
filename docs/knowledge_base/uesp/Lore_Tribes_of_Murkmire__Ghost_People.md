@@ -1,0 +1,17 @@
+#  Ghost People
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Tribes_of_Murkmire:_Ghost_People) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md)* | | |
+| Prev. | *[Bright-Throats](Lore_Tribes_of_Murkmire__Bright-Throats.md)* | Next | *[Black-Tongues](Lore_Tribes_of_Murkmire__Black-Tongues.md)* |
+
+[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md): Ghost People **by [Emmanubeth Hurrent](Lore_Books_by_Author.md#Emmanubeth_Hurrent), the Wayfarers' Society of [Wayrest](Lore_Wayrest.md)** *A description of one of the many Argonian tribes within the region of Murkmire* *
+---
+I write these words by candlelight. My entourage was on its way to [Stormhold](Lore_Stormhold.md) when our guide suddenly ordered us to stop. He sniffed the air and wrinkled his nose, declaring that we'd strayed too close to "Veeskhleel-Tzel," as if that explained everything. We heeded him, but I pressed for more of an explanation as we corrected our course. Our guide was reluctant to speak more on the subject, but after a great deal of convincing, at the cost of many more of my possessions than I would have hoped, I finally got an answer.
+
+The "Ghost People" are a tribe native to [Murkmire](Lore_Murkmire.md), and they appear to have a rather horrid reputation, as far as I can tell. He only spoke of them in hushed tones, after glancing into the shadows. He claimed that the Ghost People live entirely in the dark, only leaving the [Deepmire](Lore_Deepmire.md) to stalk the night and abduct the unwary. Though he'd never seen one in the flesh, he claimed that they are so pale you can see down to their bones. If you've ever imagined what keeps [Argonian](Lore_Argonian.md) children up at night, picture that and you'll have a pretty good idea. As unwelcoming as they sound, I'll admit that I wanted to know more about this unusual tribe. Much as I might want to go directly to the source, I opted to limit my inquiries to other locals who were willing to speak on the [Veeskhleel](Lore_Veeskhleel.md).
+
+What I learned was that the Ghost People are shrouded in mystery, even among the locals, and the rumors surrounding them are abundant. Of all the wild stories I hear about the Veeskhleel, two things seem certain. You can spot them by their pale, white scales, and they have a sour reputation as "dead stealers" and kidnappers. The distaste for grave robbing is something I could certainly understand but given how little attachment Argonians in Murkmire place on permanence I was surprised that it was taboo to them as well. When I asked my guide about this, he told me that it isn't just the bodies that the Ghost People steal. It's believed that they bury the corpses among the roots of their [Hist](Lore_Hist.md) and perform profane rituals to steal the departed souls from their tribes. To them, there are few greater taboos.
+
+As I sit here pondering dreadful necromancy in the dark, I can't help but imagine luckless travelers rising out of the shallow water by the dozen, covered in mud swollen with rot as my lone candle gutters out. We should be setting out at first light. It can't come soon enough to chase away this black night and the pallid Ghost People.

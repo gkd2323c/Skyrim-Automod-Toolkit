@@ -1,0 +1,50 @@
+# Anora's Journal (old)
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Skyrim](Skyrim_Anora%27s_Journal.md) ([Creation Club](Skyrim_Creation_Club.md)) |
+
+Anora's Journal **by Anora** *A journal documenting the construction and early years of Myrwatch* *
+---
+*This is the original text of [Anora's Journal](Lore_Anora%27s_Journal.md). All mention of the Warlock's Ring was removed during a patch.*
+
+---
+**1st of Morning Star, [3E 423](Lore_Third_Era.md#3E_423)**
+A wise mage once told me the power of a spell lies in one's conviction.
+
+It's evident to me now that the college has lost all desire and purpose, and has become feckless under its current stewardship.
+
+The Arch-Mage [Shalidor](Lore_Shalidor.md) believed the halls to be a proving ground where a mage could test the limits of their abilities. Now the college is a tomb of knowledge, where grand spells and lofty ideals are left to wither and rot.
+
+We should not let the outside world dictate how we conduct ourselves. Placating their ignorance is not a virtue. The augurs speak of a great war on the horizon, and we should be doing everything in our power to prepare for it.
+
+That is why Teel-Ja and I have chosen to leave. We know the road ahead will be hard, but one thing we do not lack is the conviction to see it through.
+
+**23rd of Rain's Hand, [3E 428](Lore_Third_Era.md#3E_428)**
+Construction of the tower is almost complete. Teel-Ja accused me of being impatient, a crime which I've been guilty of more often than not. Between us he has always been the tortoise, and I the hare. Still, our needs are pressing. The coming war will not wait for the mortar to dry.
+
+The location has much to do with the delays, but that can't be helped. The [Nords](Lore_Nord.md) are distrustful of magic by nature, and some would frown upon our efforts. Others might take a more violent approach. For that reason, we've put a ward on the door that requires magic to dispel.
+
+We've chosen to honor Shalidor in much of what we do, including the seal outside the door. Teel-Ja seemed pleased with the idea of setting it on fire, while others seemed uncomfortable with the idea. I warned them that pride is the enemy of progress. If we are to survive in the coming storm, we must not be bound by tradition. We must be willing to set it aflame.
+
+**11th of First Seed, [3E 429](Lore_Third_Era.md#3E_429)**
+It's been a year since construction has finished, yet there is still much that needs to be done. The tower is only the foundation for our defense. Our minds and our magic must serve as its ramparts, and for them to hold we must amplify our strength.
+
+As such, I have sent scouts throughout [Tamriel](Lore_Tamriel.md) to find powerful artifacts that may help us in our efforts; artifacts the college wizards refused to seek out of cowardice or comfort. And through our efforts in [Morrowind](Lore_Morrowind.md), we managed to obtain the [Warlock's Ring](Lore_Warlock%27s_Ring.md), the one worn by the legendary Archmage [Syrabane](Lore_Syrabane.md).
+
+According to the legends, Syrabane used the power of the ring to end the [Thrassian Plague](Lore_Thrassian_Plague.md) that threatened all of Tamriel. Perhaps it is the ring's destiny to stand between the world and its ruin.
+
+**17th of Frost Fall, 3E 429**
+We've had little luck finding more artifacts of note. Based on the information I've culled from [the Arcanaeum](Lore_College_of_Winterhold.md) records, I know there are several here in Skyrim, including the Staff of [Gauldur](Lore_Gauldur.md). We must endeavor to find them all.
+
+More concerning, however, is the disposition and morale of the mages. Even Teel-Ja seems to have fallen into the trappings of routine and idleness. It is hard to convince weary souls to explore yet another ruin when the task has been stripped of all urgency.
+
+**29th of Sun's Height, [3E 433](Lore_Third_Era.md#3E_433)**
+It's now halfway through the year 433, more than ten years since we left the college. Yet all remains blissfully calm. One of the new acolytes even suggested abandoning her training to become a cook, happily showing me her spell for preserving apple pies. I reminded her that she is here to study battle magic, not pastries. She will have more than enough time to indulge her sweet tooth when her youth is behind her.
+
+It is why we've devoted half the library to the placement of powerful artifacts, to serve as a reminder of our pursuit. Yet seeing the racks as they are now, collecting only dust, makes me wonder if I've led us all astray.
+
+As leader of this guild, I have the training to fight and the knowledge of what's to come. What I don't have, sadly, is the conviction that it will.
+
+**28th of Last Seed, 3E 433**
+A courier came by with news from [Cyrodiil](Lore_Cyrodiil.md). [Emperor Septim](Lore_Uriel_Septim_VII.md) is dead. The Gates of [Oblivion](Lore_Oblivion.md) have opened. [Divines](Lore_Nine_Divines.md) help us all.

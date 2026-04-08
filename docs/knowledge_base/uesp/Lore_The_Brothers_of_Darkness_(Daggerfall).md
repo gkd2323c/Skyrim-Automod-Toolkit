@@ -1,0 +1,31 @@
+# The Brothers of Darkness (Daggerfall)
+
+| Book Information | |
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Daggerfall](https://en.uesp.net/wiki/Daggerfall:The_Brothers_of_Darkness) |
+
+The Brothers of Darkness **by [Pellarne Assi](Lore_Books_by_Author.md#Pellarne_Assi)** *A brief history of the Dark Brotherhood* *
+---
+*Note: This page is for the version of this book appearing in * [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall) *. The version in * [Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind) *, * [Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion) *, * [Skyrim](Skyrim_Skyrim.md) *, and * [Online](https://en.uesp.net/wiki/Online:Online) *, found [here](Lore_The_Brothers_of_Darkness.md), contains numerous changes.*
+
+---
+As their name suggests, the [Dark Brotherhood](Lore_Dark_Brotherhood.md) has a history shrouded in obfuscation. Their ways are secret to those who are not Brothers of the order (Brothers is the generic term: some of the deadliest of the assassins are female, but they are called Brothers as well). How they continue to exist in shadow, but can be easily found by those desparate *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* enough to pay for their services is not the least of their mysteries.
+
+The Dark Brotherhood sprang from a religious order, the [Morag Tong](Lore_Morag_Tong.md), during the [Second Era](Lore_Second_Era.md). The Morag Tong were worshippers of the [daedra](Lore_Daedra.md) spirit [Mephala](Lore_Mephala.md), who encouraged them to commit ritual murders. In their early years, they were as disorganized as cultists usually are. There was no one to lead the group, and as a group they dared not murder any of any importance. This changed with the rise of the [Night Mother](Lore_Night_Mother.md).
+
+All leaders of the Morag Tong, and then the Dark Brotherhood, have been called the Night Mother. Whether the same woman has commanded the Dark Brotherhood since the second era is unknown. What is believed is that the original Night Mother developed an important belief of the Morag Tong.
+
+This first belief is that, while Mephala grows stronger with every murder commited *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* in her name, certain murders were better than others. Murders that came from hate pleased Mephala more than murders commited *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* because of greed. Murders of great men and women pleased Mephala more than murders of unknowns.
+
+We can approximate the time this belief was adopted with the first known murder commited *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* by the Morag Tong. In the year [324](Lore_Second_Era.md#2E_324) of the 2nd Era, the Potentate [Versidue-Shaie](Lore_Versidue-Shaie.md) was murdered in his [palace](Lore_Senchal_Palace.md) in what is today the [Elsweyr](Lore_Elsweyr.md) kingdom of [Senchal](Lore_Senchal.md). In a brash move, the Night Mother announced the identity of the murderers by painting MORAG TONG on the walls in the Potentate's blood.
+
+Previous to that time, the Morag Tong existed in relative peace, like a witches coven. Occasionally persecuted, but usually ignored. In a remarkable syncroncity *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* at a time when the [Arena](Lore_Tamriel.md) was a fractured land, the Morag Tong was outlawed throughout the continent. Every sovereign gave the cult's elimination his highest priority. Nothing more was officially heard of them for a hundred years.
+
+It is more difficult to date the era when the Morag Tong re-emerged as the Dark Brotherhood. Assassin guilds have sporadically appeared throughout the history of Tamriel. The first mention of the Dark Brotherhood that I have found is from the journals of the Blood Queen [Arlimahera](Lore_Arlimahera.md) of [Hegathe](Lore_Hegathe.md): she spoke of slaying her enemies by her own hand, or, if necessary, "with the help of the Night Mother and her Dark Brotherhood, the secret arsenal my family has employed since my grandfather's time." Arlimahera wrote this in [2E 412](Lore_Second_Era.md#2E_412), so one can surmise that the Dark Brotherhood had been in existance *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* since at least [360](Lore_Second_Era.md#2E_360) if her grandfather truly used them.
+
+The important distinction between the Dark Brotherhood and the Morag Tong was that the Brotherhood was a business as much as a cult. Rulers and wealthy merchants now used the order as an assassin's guild. The Brotherhood gained the obvious benefits of a profitable enterprise, as well as the secondary benefit that no longer could rulers actively persecute them. They were needed. Even an extremely virtuous leader would be unwise to maltreat the Brotherhood.
+
+Not long after Alimahera's journal entry about them was penned came perhaps the most famous series of executions in the history of the Dark Brotherhood. The [Colovian](Lore_Colovia.md) Emperor Potentate [Savirien-Chorak](Lore_Savirien-Chorak.md) and every one of his heirs was murdered on one bloody night in [Sun's Dawn](Lore_Sun%27s_Dawn.md) in [430](Lore_Second_Era.md#2E_430). Within a fortnight, the Colovian Dynasty crumbled, to the delight of its enemies. For over four hundred years, until the age of [Tiber Septim](Lore_Tiber_Septim.md), chaos reigned over Tamriel. Though no comparably impressive executions have been recorded, the Brotherhood must have grown fat with gold during that age.
+
+The Dark Brotherhood has no shortage of business opportunities -- an accounting, I have been informed, is the Brotherhood's favorite euphemism for execution. While they are officially an unlawful organization in every corner of the [Empire](Lore_Third_Empire.md), like the [Thieves Guild](Lore_Thieves_Guild.md), they are almost universally tolerated.

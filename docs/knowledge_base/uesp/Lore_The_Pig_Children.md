@@ -1,0 +1,14 @@
+# The Pig Children
+
+| Book Information | |
+| --- | --- |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) |
+| Seen In: | - [Daggerfall](https://en.uesp.net/wiki/Daggerfall:The_Pig_Children) <br> - [Morrowind](https://en.uesp.net/wiki/Morrowind:The_Pig_Children) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:The_Pig_Children) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:The_Pig_Children) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Pig_Children) |
+
+The Pig Children **by [Tyston Bane](Lore_Books_by_Author.md#Tyston_Bane)** *Discusses the history of the Orcish threat in the Iliac Bay*
+---
+No one -- not the oldest [Dark Elf](Lore_Dunmer.md) of [Mount Dagoth-Ur](Lore_Dagoth-Ur_(place).md) or the Ancient Sage of [Solitude](Lore_Solitude.md) himself -- can recall a time when the [Orc](Lore_Orc.md) did not ravage our fair [Tamriel](Lore_Tamriel.md). Whatever foul and pestilent [Daedra](Lore_Daedra.md) of [Oblivion](Lore_Oblivion.md) conjured them up could scarcely have created a more constant threat to the well-being of the civilized races of Tamriel than the obnoxious Orc.
+
+Orcs are thankfully easy to recognize from other humanoids by their size -- commonly forty pertans in height and fifteen thousand angaids in weight -- their brutal pig-like features, and their stench. They are consistently belligerent, morally grotesque, intellectually moronic, and unclean. By all rights, the civilized races of Tamriel should have been able to purge the land of their blight eras ago, but their ferocity, animal cunning, and curious tribal loyalty have made them inevitable as leeches in a stagnant pool.
+
+Tales of Orcish barbarity precede written record. When [Jastyaga](https://en.uesp.net/wiki/Lore:Jastyaga) wrote of the [Order of Diagna](Lore_Order_of_the_Diagna.md)'s joining the armies of [Daggerfall](Lore_Daggerfall_(kingdom).md) and [Sentinel](Lore_Sentinel_(kingdom).md) "to hold at bay the wicked Orcs in their foul [Orsinium](Lore_Orsinium.md) fastness... and burn aught in cleansing flame" in [1E950](Lore_First_Era.md#1E_950), she assumed that any reader would be aware of the savagery of the Orcs. When the siege was completed [thirty years later](Lore_First_Era.md#1E_980), after the death of many heroes including [Gaiden Shinji](Lore_Gaiden_Shinji.md), and the destruction of Orsinium scattered the Orcish survivors throughout the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md), she further wrote, "The free peoples rejoiced for that their ancient fell enemy was dispersed into diverse parts." Obviously, the Orcs had been terrorizing the region of the [Iliac Bay](Lore_Iliac_Bay.md) at least since the early years of the [First Era](Lore_First_Era.md).

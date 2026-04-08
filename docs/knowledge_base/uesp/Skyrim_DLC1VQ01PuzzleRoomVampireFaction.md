@@ -1,0 +1,3 @@
+# DLC1VQ01PuzzleRoomVampireFaction
+
+Redirects to [DLC1VQ01PuzzleRoomVampireFaction](Skyrim_Factions_V.md#DLC1VQ01PuzzleRoomVampireFaction).

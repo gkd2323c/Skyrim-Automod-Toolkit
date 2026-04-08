@@ -1,0 +1,9 @@
+# Sixth Legion
+
+[![](https://images.uesp.net/thumb/b/b8/ON-place-Sixth_Legion_Surplus.jpg/200px-ON-place-Sixth_Legion_Surplus.jpg)](https://en.uesp.net/wiki/File:ON-place-Sixth_Legion_Surplus.jpg) [](https://en.uesp.net/wiki/File:ON-place-Sixth_Legion_Surplus.jpg) Sixth Legion Surplus merchant stall [![](https://images.uesp.net/thumb/d/da/ON-npc-Antonia_Gratas.jpg/200px-ON-npc-Antonia_Gratas.jpg)](https://en.uesp.net/wiki/File:ON-npc-Antonia_Gratas.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Antonia_Gratas.jpg) A member of the Sixth Legion The Sixth Legion is one of the many legions that make up the [Imperial Legion](Lore_Imperial_Legion.md), the militant arm of the [Empire](Lore_Empire.md). The Sixth Legion was operational during the [Three Banners War](Lore_Three_Banners_War.md) of the [Interregnum](Lore_Interregnum.md), though little is known of their activities. It was known that its rules pertaining to capture and imprisonment were short and concise.<sup>[[1]](#cite_note-AG-1)</sup>
+
+One of the members of the legion, a solitary stranded soldier, Antonia Gratas was found in the region of [Craglorn](Lore_Craglorn.md) in northern [Hammerfell](Lore_Hammerfell.md) circa [2E 582](Lore_Second_Era.md#2E_582). In adherence to the Legion's protocol, she had to sell excess equipment belonging to the Sixth Legion in order to secure a safe passage back to her unit in [Cyrodiil](Lore_Cyrodiil.md).<sup>[[1]](#cite_note-AG-1)</sup><sup>[[2]](#cite_note-SLS-2)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-AG_1-0)***</sup><sup>***[b](#cite_ref-AG_1-1)***</sup> [Antonia Gratas](https://en.uesp.net/wiki/Online:Antonia_Gratas)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-SLS_2-0) [Sixth Legion Surplus](https://en.uesp.net/wiki/Online:Sixth_Legion_Surplus) in [ESO](https://en.uesp.net/wiki/Online:Online)

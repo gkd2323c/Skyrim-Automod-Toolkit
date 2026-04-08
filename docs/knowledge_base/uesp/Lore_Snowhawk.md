@@ -1,0 +1,51 @@
+# Snowhawk
+
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [Hjaalmarch](Lore_Hjaalmarch.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Snowhawk), [Skyrim](Skyrim_Fort_Snowhawk.md) |
+
+[![](https://images.uesp.net/thumb/4/44/AR-place-Snowhawk.jpg/200px-AR-place-Snowhawk.jpg)](https://en.uesp.net/wiki/File:AR-place-Snowhawk.jpg) [](https://en.uesp.net/wiki/File:AR-place-Snowhawk.jpg) Snowhawk (Arena) [![](https://images.uesp.net/thumb/f/f1/AR-map-Skyrim_%28annotated%29.jpg/200px-AR-map-Skyrim_%28annotated%29.jpg)](File_AR-map-Skyrim_(annotated).jpg.md) [](File_AR-map-Skyrim_(annotated).jpg.md) Map of Skyrim *We bids * [[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)] * you enter Snowhawk, where the wind is as sharp as its talons and as fierce as its name...*
+—In-game description in *[Arena](https://en.uesp.net/wiki/Arena:Arena)* Snowhawk was one of the eight major cities in the province of [Skyrim](Lore_Skyrim.md).<sup>[[1]](#cite_note-ARMap-1)</sup> It is located in [Hjaalmarch](Lore_Hjaalmarch.md), directly west from [Morthal](Lore_Morthal.md). It is found on a hill that overlooks the [Drajkmyr](Lore_Drajkmyr.md) marsh to the northeast.<sup>[[2]](#cite_note-SR-2)</sup> Once considered one of the greatest cities of the West, Snowhawk fell into ruin in the aftermath of the wars of the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), and an [Imperial](Lore_Imperial_Legion.md) fortification from the [Third Empire](Lore_Third_Empire.md) called **Fort Snowhawk** was named in its memory.<sup>[[2]](#cite_note-SR-2)</sup><sup>[[UOL 1]](#cite_note-SINE-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/f/fc/ON-place-Karthwatch_03.jpg/200px-ON-place-Karthwatch_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Karthwatch_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Karthwatch_03.jpg) Karthwatch, the settlement that would evolve into Snowhawk A settlement known as [Karthwatch](Lore_Karthwatch.md) was established in the mid- [Second Era](Lore_Second_Era.md) to defend the border against [the Reach](Lore_The_Reach.md) after [Karthald](Lore_Karthald.md) was carved from its northern territory, and it would eventually become the city of Snowhawk.<sup>[[3]](#cite_note-ONSvana-4)</sup><sup>[[4]](#cite_note-ESOLive-5)</sup> Fort Snowhawk did not exist in the mid- [Second Era](Lore_Second_Era.md), though an old Nordic ruin was located on the site of the future fort.<sup>[[5]](#cite_note-ONSnowhawk-6)</sup> Just across from it was an old [Dwemer](Lore_Dwemer.md) lift to the [Greymoor Caverns](https://en.uesp.net/wiki/Lore:Greymoor_Caverns) of [Blackreach](Lore_Blackreach.md), specifically the northern cave of the same name.<sup>[[6]](#cite_note-ONLift-7)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the city-state of Snowhawk was an active settlement. It was ruled by King Torbens and had a rivalry with [Solitude](Lore_Solitude.md). At the time, Snowhawk was the seat of a Kingship and was the largest city in the region.<sup>[[7]](#cite_note-AR-8)</sup> It was neighbored by several settlements, including [Dunstad Grove](Lore_Dunstad_Grove.md) to the east, Lainalten to the south, and [Markarth Side](https://en.uesp.net/wiki/Lore:Markarth_Side) to the north.<sup>[[1]](#cite_note-ARMap-1)</sup> According to one account, during the [War of the Bend'r-mahk](Lore_War_of_the_Bend%27r-mahk.md), [Redguard](Lore_Redguard.md) forces and allied [Orcish](Lore_Orc.md) mercenaries laid siege to Snowhawk from Frostfall [3E 397](Lore_Third_Era.md#3E_397) to Sun's Dawn [3E 398](Lore_Third_Era.md#3E_398). Though they failed to take it, a magical attack caused all stone walls and structures in the city to disappear. The city fell, and most of the survivors moved to [Karthwasten](Lore_Karthwasten.md), [Solitude](Lore_Solitude.md), and [Whiterun](Lore_Whiterun.md).<sup>[[UOL 1]](#cite_note-SINE-3)</sup> By the [Oblivion Crisis](Lore_Oblivion_Crisis.md) in [3E 433](Lore_Third_Era.md#3E_433), there was a small settlement found outside of the city.<sup>[[8]](#cite_note-OBWhispers-9)</sup>
+
+[![](https://images.uesp.net/thumb/7/74/SR-place-Fort_Snowhawk.jpg/200px-SR-place-Fort_Snowhawk.jpg)](https://en.uesp.net/wiki/File:SR-place-Fort_Snowhawk.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fort_Snowhawk.jpg) Fort Snowhawk, dedicated to the town Fort Snowhawk was built by the [Third Empire](Lore_Third_Empire.md) in [4E 21](Lore_Fourth_Era.md#4E_21) on the road toward [Haafingar](Lore_Haafingar.md) and the [Karth River](Lore_Karth_River.md), dedicated to the memory of the town, though it was abandoned later on in the [Fourth Era](Lore_Fourth_Era.md) and it gradually eroded to a ruined fort.<sup>[[9]](#cite_note-SM-10)</sup><sup>[[UOL 1]](#cite_note-SINE-3)</sup> The walls degraded, the jail collapsed, and the bailey was partially flooded and infested with [skeevers](https://en.uesp.net/wiki/Lore:Skeever).<sup>[[9]](#cite_note-SM-10)</sup> Over the years, many people from bandits and [necromancers](https://en.uesp.net/wiki/Lore:Necromancers) took residence in Fort Snowhawk. In [4E 201](Lore_Fourth_Era.md#4E_201), it was occupied by a local necromancer coven after they forced out the bandits that previously lived there. They used their new base of operations to perform experiments and find test subjects on the road just outside of it.<sup>[[10]](#cite_note-NL-11)</sup> During the [Skyrim Civil War](Lore_Skyrim_Civil_War.md), the fort served as a point of contention between the Imperial Legion and the [Stormcloaks](Lore_Stormcloaks.md). Fort Snowhawk played a pivotal role in the conflict as it determined the hold's allegiance.<sup>[[11]](#cite_note-SRBattle-12)</sup>
+
+### Known Rulers
+- The **Third Era** - King Torbens *(fl. [3E 389](Lore_Third_Era.md#3E_389) – [3E 399](Lore_Third_Era.md#3E_399))*<sup>[[7]](#cite_note-AR-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/b6/ON-place-Snowhawk_Ruins.jpg/200px-ON-place-Snowhawk_Ruins.jpg)](https://en.uesp.net/wiki/File:ON-place-Snowhawk_Ruins.jpg) The future site of Fort Snowhawk (ESO)
+- [![](https://images.uesp.net/thumb/b/bb/LG-cardart-Snowhawk_Detachment.png/200px-LG-cardart-Snowhawk_Detachment.png)](https://en.uesp.net/wiki/File:LG-cardart-Snowhawk_Detachment.png) Snowhawk Detachment ([Legends](https://en.uesp.net/wiki/Legends:Legends))
+
+## Notes
+- There is an outfit style available in [ESO](https://en.uesp.net/wiki/Online:Online) called [Snowhawk Mage](https://en.uesp.net/wiki/Online:Snowhawk_Mage_Style), which might be a reference to the city.<sup>[[12]](#cite_note-ONStyle-13)</sup> Despite this, Karthwatch was confirmed by Art Director CJ Grebb to be Snowhawk's predecessor during ESO's timeframe.<sup>[[4]](#cite_note-ESOLive-5)</sup>
+- *[Arena](https://en.uesp.net/wiki/Arena:Arena)* was originally conceived as a fighting game featuring a tournament that took the player to each of Tamriel's cities to challenge different gladiatorial teams. According to a file from that stage of development left behind in the final game, Snowhawk's gladiatorial team would have been called "the Frost Demons".<sup>[[UOL 2]](#cite_note-14)</sup>
+
+## See Also
+- For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Snowhawk) and [*Skyrim*](Skyrim_Fort_Snowhawk.md) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-ARMap_1-0)***</sup><sup>***[b](#cite_ref-ARMap_1-1)***</sup> [Map of Skyrim – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Skyrim.jpg)
+2. ^ <sup>***[a](#cite_ref-SR_2-0)***</sup><sup>***[b](#cite_ref-SR_2-1)***</sup> [Fort Snowhawk](Skyrim_Fort_Snowhawk.md) in *[Skyrim](Skyrim_Skyrim.md)*
+3. [^](#cite_ref-ONSvana_4-0) [Svana](https://en.uesp.net/wiki/Online:Svana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-ESOLive_5-0)***</sup><sup>***[b](#cite_ref-ESOLive_5-1)***</sup> [*ESO Live Art and Lore of Greymoor*](https://en.uesp.net/wiki/General:ESO_Live_Art_and_Lore_of_Greymoor)
+5. [^](#cite_ref-ONSnowhawk_6-0) [Unnamed Nordic ruins](https://en.uesp.net/wiki/File:ON-place-Snowhawk_Ruins.jpg) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+6. [^](#cite_ref-ONLift_7-0) [Hjaalmarch Great Lift](https://en.uesp.net/wiki/Online:Hjaalmarch_Great_Lift) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+7. ^ <sup>***[a](#cite_ref-AR_8-0)***</sup><sup>***[b](#cite_ref-AR_8-1)***</sup> [Snowhawk](https://en.uesp.net/wiki/Arena:Snowhawk) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+8. [^](#cite_ref-OBWhispers_9-0) [Whispers of Death](https://en.uesp.net/wiki/Oblivion:Whispers_of_Death) faction quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. ^ <sup>***[a](#cite_ref-SM_10-0)***</sup><sup>***[b](#cite_ref-SM_10-1)***</sup> [*Stormcloak Missive*](Skyrim_Stormcloak_Missive_(Fort_Snowhawk).md)
+10. [^](#cite_ref-NL_11-0) [*Necromancer's Letter*](https://en.uesp.net/wiki/Skyrim:Necromancer%27s_Letter)
+11. [^](#cite_ref-SRBattle_12-0) [The Battle for Fort Snowhawk](Skyrim_The_Battle_for_Fort_Snowhawk_(Stormcloaks).md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+12. [^](#cite_ref-ONStyle_13-0) [Snowhawk Mage](https://en.uesp.net/wiki/Online:Snowhawk_Mage_Style) style in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-SINE_3-0)***</sup><sup>***[b](#cite_ref-SINE_3-1)***</sup><sup>***[c](#cite_ref-SINE_3-2)***</sup> [*Skyrim In the New Era*](https://en.uesp.net/wiki/General:Skyrim_In_the_New_Era) — Soren Long-Tooth
+2. [^](#cite_ref-14) [Original TES: Arena texts at the Imperial Library](http://www.imperial-library.info/content/go-blades)

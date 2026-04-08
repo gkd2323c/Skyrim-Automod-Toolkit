@@ -1,0 +1,15 @@
+# On Inferniums
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:On_Inferniums) ([The Deadlands](https://en.uesp.net/wiki/Online:The_Deadlands_(DLC))) |
+
+On Inferniums **From the notes of [Pelagius Habor](Lore_Books_by_Author.md#Pelagius_Habor), Council Daedrologist-in-Residence, Imperial City** *An essay about a variety of Daedra rarely seen on Nirn*
+---
+Daedrologists rarely summon [Daedra](Lore_Daedra.md). Mostly because the majority of us have no real magical aptitude. Those brave—or foolhardy—mages who do invite beings from [Oblivion](Lore_Oblivion.md) into [Nirn](Lore_Nirn.md) tend to focus on humanoid Daedra like [Xivilai](Lore_Xivilai.md) and [Dremora](Lore_Dremora.md), or more bestial creatures like [clannfears](Lore_Clannfear.md) and [daedroths](Lore_Daedroth.md). This focus on ten to fifteen morphotypes regrettably blinds many sorcerers to the true measure of Oblivion's inhabitants. Countless beings roam the planes of Oblivion—some the size of [fleshflies](Lore_Fleshflies.md) and others far, far larger.
+
+Take the [Infernium](Lore_Infernium.md), for instance. According to a well-regarded Dremora diplomat, mortals cannot pronounce the creature's true name, as it is spoken at a pitch too low for our ears to hear. The creature dwarfs most known Daedra in both size and hideousness, resembling a great fanged leech or monstrous caterpillar. It can easily devour beasts as large as [horses](Lore_Horse.md) and displays no great preference in what it consumes.
+
+While these facts should be more than enough to frighten most people, I find myself even more disturbed by its alien motivations. Like all Daedra with [Dagonic](Lore_Mehrunes_Dagon.md) allegiances, the Infernium seems obsessed with upheaval and revolution. But unlike other bestial Daedra, it doesn't pursue these ends in a crude, general sense. It seems keenly aware of where political and cultural power rests, and acts to check it with frightening results. High-ranking Dremora routinely fall prey to Infernium attacks—far more often than low-ranking Varlets who enjoy fewer defenses. Inferniums also consume powerful items such as grand [soul gems](Lore_Soul_Gems.md), master [lucents](https://en.uesp.net/wiki/Lore:Lucent), and valuable extraplanar relics. Wherever there is potential, or prestige, or authority, you can be sure that an Infernium lurks nearby with eagerly chittering jaws.
+
+This raises all sorts of ontological questions about essence of power—something we mortals have always regarded as an abstract concept. We must consider the possibility that in Oblivion, abstract power may exist as a quantifiable, material force that can be detected, measured, and perhaps even collected in physical form. We will likely never learn the truth of it in my lifetime, but I trust that future Daedrologists will unlock this mystery eventually.

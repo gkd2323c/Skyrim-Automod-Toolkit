@@ -1,0 +1,43 @@
+# Masque of Clavicus Vile
+
+[![](https://images.uesp.net/thumb/1/1f/OBR-item-Masque_of_Clavicus_Vile.jpg/200px-OBR-item-Masque_of_Clavicus_Vile.jpg)](https://en.uesp.net/wiki/File:OBR-item-Masque_of_Clavicus_Vile.jpg) [](https://en.uesp.net/wiki/File:OBR-item-Masque_of_Clavicus_Vile.jpg) Masque of Clavicus Vile The Masque of Clavicus Vile (also known as **The Masque of Clavicus** or **Mask of Clavicus Vile**)<sup>[[1]](#cite_note-DD-1)</sup> is a helm which as its name suggests, is associated with the Daedric Prince [Clavicus Vile](Lore_Clavicus_Vile.md), and is enchanted with the ability to make the wearer more popular wherever they might go by making them seem charming and trustworthy.<sup>[[2]](#cite_note-AA-2)</sup> Much like other Daedra and their artifacts, Clavicus seems to retain ultimate control of the Masque and may recall it without warning.<sup>[[3]](#cite_note-FAo T-3)</sup>
+
+The best known story of the Masque tells the tale of Avalea, a noblewoman of some renown. As a young girl, she was grossly disfigured by a spiteful servant. Avalea made a dark deal with Clavicus Vile and received the Masque in return. Though the Masque did not change her looks, suddenly she had the respect and admiration of everyone. A year and a day after her marriage to a well connected baron, Clavicus Vile reclaimed the Masque. Although pregnant with his child, Avalea was banished from the Baron's household. Twenty-one years and one day later, Avalea's daughter claimed her vengeance by slaying the Baron.<sup>[[3]](#cite_note-FAo T-3)</sup>
+
+## History
+The Masque of Clavicus Vile was believed to be one of the Daedric artifacts formed through the long-term binding of lesser daedric entities by Clavicus Vile.<sup>[[1]](#cite_note-DD-1)</sup>
+
+[Yagrum Bagarn](Lore_Yagrum_Bagarn.md), the last living [dwarf](Lore_Dwemer.md), at one point befriended the sorcerer [Divayth Fyr](Lore_Divayth_Fyr.md).<sup>[[4]](#cite_note-MWYB-4)</sup> At Fyr’s behest, Yagrum Bagarn wrote and compiled centuries of personal notes into a book that would become known as *[Tamrielic Lore](Lore_Tamrielic_Lore.md)*,<sup>[[5]](#cite_note-MWProphecies-5)</sup><sup>:241</sup> listing the Masque of Clavicus Vile among the artifacts of "unimaginable significance". By the [Interregnum](Lore_Interregnum.md), copies had spread across Tamriel, offering readers rare insights into these legendary items,<sup>[[6]](#cite_note-TA-6)</sup> and Fyr himself hoped to utilize this knowledge in his search for the Masque of Clavicus Vile and the other artifacts detailed in the book.<sup>[[7]](#cite_note-MWFR-7)</sup>
+
+In the events leading up the [Warp in the West](Lore_Warp_in_the_West.md), an [agent](Lore_The_Agent.md) of the [Blades](Lore_Blades.md) summoned Vile seeking power, and was tasked with assassinating a rogue [werewolf](Lore_Werewolf.md) that was terrorizing some of his associates. A worshipper of the Prince rewarded the agent the Masque for completing the task.<sup>[[8]](#cite_note-Daggerfall-8)</sup>
+
+Sometime in the late [Third Era](Lore_Third_Era.md), the [Nord](Lore_Nord.md) [necromancer](Lore_Necromancy.md), Sorkvild the Raven, searched [Vvardenfell](Lore_Vvardenfell.md) for the Masque. He occupied a wizard's tower near [Dagon Fel](Lore_Dagon_Fel.md) rumored to belong to [N'Gasta](Lore_N%27Gasta.md), a [Sload](Lore_Sload.md) that was once in service to Vile.<sup>[[2]](#cite_note-AA-2)</sup> By [3E 427](Lore_Third_Era.md#3E_427), Sorkvild obtained the artifact and began terrorizing Dagon Fel. The [Imperial Legion](Lore_Imperial_Legion.md) tasked the [Nerevarine](Lore_Nerevarine.md) to slay him, and the Masque was claimed from Sorkvild's corpse.<sup>[[9]](#cite_note-Morrowind-9)</sup>
+
+Circa [3E 433](Lore_Third_Era.md#3E_433), Clavicus Vile sent the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) to retrieve [Umbra](Lore_Umbra.md) from a [Bosmer](Lore_Bosmer.md) named Lenwin, who was from the small settlement of [Pell's Gate](Lore_Pell%27s_Gate.md). [Barbas](Lore_Barbas.md), Vile's Hound, advised the Hero against bringing him the sword, foreseeing that it would bring ruin to the Prince. It is unknown if the Hero went through with the prince's request to return the sword and receive the Masque in return, or if the Hero of Kvatch kept Umbra for themself.<sup>[[10]](#cite_note-Oblivion-10)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), Clavicus Vile tasked the [Last Dragonborn](Lore_Hero.md) with retrieving the [Rueful Axe](Lore_Rueful_Axe.md) from Sebastian, who had reclaimed it. He was residing in a cave named Rimerock Burrow in [Haafingar](Lore_Haafingar.md), [Skyrim](Lore_Skyrim.md). In return, the Dragonborn requested that Vile would forgive Barbas, whom he had banished to [Tamriel](Lore_Tamriel.md). Vile gave the Dragonborn the option to either keep the Rueful Axe and use it to slay Barbas, temporarily vanquishing him to the [Void](Lore_Void.md), or to go through with the original deal in which Vile would take both Barbas and the Axe in return for the Masque of Clavicus Vile. It is unknown which option the Last Dragonborn chose.<sup>[[11]](#cite_note-SRDBF-11)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/4/49/DF-item-Masque_of_Clavicus.png)](https://en.uesp.net/wiki/File:DF-item-Masque_of_Clavicus.png) Daggerfall
+- [![](https://images.uesp.net/9/92/DF-statue-Masque_of_Clavicus_Vile.png)](https://en.uesp.net/wiki/File:DF-statue-Masque_of_Clavicus_Vile.png) Statue of the Masque (Daggerfall)
+- [![](https://images.uesp.net/thumb/c/c0/MW-item-Masque_of_Clavicus_Vile.jpg/200px-MW-item-Masque_of_Clavicus_Vile.jpg)](https://en.uesp.net/wiki/File:MW-item-Masque_of_Clavicus_Vile.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/a/a8/OB-item-Masque_of_Clavicus_Vile.jpg/200px-OB-item-Masque_of_Clavicus_Vile.jpg)](https://en.uesp.net/wiki/File:OB-item-Masque_of_Clavicus_Vile.jpg) Oblivion
+- [![](https://images.uesp.net/thumb/6/6c/SR-item-Masque_Of_Clavicus_Vile.jpg/200px-SR-item-Masque_Of_Clavicus_Vile.jpg)](https://en.uesp.net/wiki/File:SR-item-Masque_Of_Clavicus_Vile.jpg) Skyrim
+- [![](https://images.uesp.net/thumb/4/43/MER-art-Loot_Crate_Masque_of_Clavicus_Vile.png/163px-MER-art-Loot_Crate_Masque_of_Clavicus_Vile.png)](https://en.uesp.net/wiki/File:MER-art-Loot_Crate_Masque_of_Clavicus_Vile.png) Merchandise Replica
+- [![](https://images.uesp.net/7/79/ON-concept-Prince-Clavicus_Vile-emblem.png)](https://en.uesp.net/wiki/File:ON-concept-Prince-Clavicus_Vile-emblem.png) Masque of Clavicus Vile as a flag's emblem (ESO)
+
+## See Also
+- For game-specific information, see the [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Masque_of_Clavicus), [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Masque_of_Clavicus_Vile), [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Masque_of_Clavicus_Vile), and [*Skyrim*](Skyrim_Masque_of_Clavicus_Vile.md) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-DD_1-0)***</sup><sup>***[b](#cite_ref-DD_1-1)***</sup> [*Darkest Darkness*](Lore_Darkest_Darkness.md)
+2. ^ <sup>***[a](#cite_ref-AA_2-0)***</sup><sup>***[b](#cite_ref-AA_2-1)***</sup> [Artisa Arelas](https://en.uesp.net/wiki/Morrowind:Artisa_Arelas)' dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+3. ^ <sup>***[a](#cite_ref-FAo T_3-0)***</sup><sup>***[b](#cite_ref-FAo T_3-1)***</sup> [*Famed Artifacts of Tamriel*](Lore_Famed_Artifacts_of_Tamriel.md) — [Yagrum Bagarn](Lore_Books_by_Author.md#Yagrum_Bagarn)
+4. [^](#cite_ref-MWYB_4-0) [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+5. [^](#cite_ref-MWProphecies_5-0) [*The Morrowind Prophecies: Game of the Year Edition*](https://en.uesp.net/wiki/Books:The_Morrowind_Prophecies:_Game_of_the_Year_Edition) — Peter Olafson
+6. [^](#cite_ref-TA_6-0) [*Tamrielic Artifacts*](Lore_Tamrielic_Artifacts.md)
+7. [^](#cite_ref-MWFR_7-0) [French version of](https://cslist.uesp.net/index.php?game=mwfr&edid=Tamrielic_Lore&rectype=BOOK) [Tamrielic Lore](https://en.uesp.net/wiki/Morrowind:Tamrielic_Lore)
+8. [^](#cite_ref-Daggerfall_8-0) [Clavicus Vile's Quest](https://en.uesp.net/wiki/Daggerfall:Clavicus_Vile%27s_Quest) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+9. [^](#cite_ref-Morrowind_9-0) [Sorkvild the Raven](https://en.uesp.net/wiki/Morrowind:Sorkvild_the_Raven_(quest)) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-Oblivion_10-0) [Clavicus Vile](https://en.uesp.net/wiki/Oblivion:Clavicus_Vile) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+11. [^](#cite_ref-SRDBF_11-0) [A Daedra's Best Friend](Skyrim_A_Daedra%27s_Best_Friend.md) quest in [*Skyrim*](Skyrim_Skyrim.md)

@@ -1,0 +1,22 @@
+# Middle Argonia
+
+| Middle Argonia | |
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Black Marsh](Lore_Black_Marsh.md) |
+
+[![](https://images.uesp.net/thumb/8/81/LO-map-Black_Marsh_%28Oblivion_Codex%29.jpg/200px-LO-map-Black_Marsh_%28Oblivion_Codex%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Black_Marsh_(Oblivion_Codex).jpg) [](https://en.uesp.net/wiki/File:LO-map-Black_Marsh_(Oblivion_Codex).jpg) Map of Black Marsh Middle Argonia is a far-off region found in the province of [Black Marsh](Lore_Black_Marsh.md),<sup>[[1]](#cite_note-FGt RT-1)</sup> specifically in the center of the area. It wields a wide-spread reputation as the impenetrable center, and the dark heart of Black Marsh,<sup>[[2]](#cite_note-TAA3-2)</sup> where only the [Argonians](Lore_Argonian.md) can survive.<sup>[[3]](#cite_note-PGE3EBM-3)</sup> The city of [Helstrom](Lore_Helstrom.md) is found here. The marsh is very dense,<sup>[[4]](#cite_note-SCOS-4)</sup> and it contains Helstrom Heart-Mud, which is known for being pitch black.<sup>[[5]](#cite_note-NN-5)</sup> The province is known for various river systems, all of which flow into Middle Argonia; such examples are the Oortrel and [Onkobra Rivers](Lore_Onkobra_River.md), found near the city of [Gideon](Lore_Gideon.md)<sup>[[2]](#cite_note-TAA3-2)</sup> and the region of [Shadowfen](Lore_Shadowfen.md).<sup>[[6]](#cite_note-ESOOKM-6)</sup>
+
+The [Hist](Lore_Hist.md) of Black Marsh are known to grow in the innermost region of the province, and so because of this, there are several tribes found exclusively in Middle Argonia. One of these tribes are the [Agacephs](Lore_Agacephs.md), a needle-faced variant that comes in many bright colors. Others include the [Paatru](Lore_Paatru.md), a toad-like variant, the [Sarpa](Lore_Sarpa.md), a winged-variant, and the [Nagas](Lore_Naga.md), a warrior-tribe that resemble adders,<sup>[[7]](#cite_note-TAA4-7)</sup> though they can also be found in [Murkmire](Lore_Murkmire.md). In [1E 2811](Lore_First_Era.md#1E_2811), the [Imperial Legion](Lore_Imperial_Legion.md) of the [Second Empire](Lore_Second_Empire.md) invaded Black Marsh in the historical [Battle of Argonia](Lore_Battle_of_Argonia.md). The last of the Argonian resistance was defeated by the Empire and were forced to retreat into Middle Argonia and the city of Helstrom.<sup>[[3]](#cite_note-PGE3EBM-3)</sup> Here, they were able to avoid the Empire, as their siege weapons were unable to traverse the dense marsh.<sup>[[4]](#cite_note-SCOS-4)</sup> However, it was at the rest of Argonia's expense, which was subsequently conquered in the [Blackwater War](Lore_Blackwater_War.md).<sup>[[8]](#cite_note-TBW-8)</sup> Argonian feather-serpents are said to inhabit the depths of Black Marsh.<sup>[[9]](#cite_note-Attrebus-9)</sup>
+
+## References
+1. [^](#cite_ref-FGt RT_1-0) [*Field Guide to River Trolls*](Lore_Field_Guide_to_River_Trolls.md) — [Phrastus of Elinhir](Lore_Books_by_Author.md#Phrastus_of_Elinhir)
+2. ^ <sup>***[a](#cite_ref-TAA3_2-0)***</sup><sup>***[b](#cite_ref-TAA3_2-1)***</sup> [*The Argonian Account, Book 3*](Lore_The_Argonian_Account,_Book_3.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+3. ^ <sup>***[a](#cite_ref-PGE3EBM_3-0)***</sup><sup>***[b](#cite_ref-PGE3EBM_3-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. ^ <sup>***[a](#cite_ref-SCOS_4-0)***</sup><sup>***[b](#cite_ref-SCOS_4-1)***</sup> [*Stormhold, City of Shadowfen*](Lore_Stormhold,_City_of_Shadowfen.md) — [Cirantille](Lore_Cirantille.md)
+5. [^](#cite_ref-NN_5-0) [*Neelo's Notes*](https://en.uesp.net/wiki/Online:Neelo%27s_Notes) — [Neelo](https://en.uesp.net/wiki/Online:Neelo)
+6. [^](#cite_ref-ESOOKM_6-0) [Onkobra Kwama Mine](https://en.uesp.net/wiki/Online:Onkobra_Kwama_Mine) delve in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-TAA4_7-0) [*The Argonian Account, Book 4*](Lore_The_Argonian_Account,_Book_4.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+8. [^](#cite_ref-TBW_8-0) [*The Blackwater War*](Lore_The_Blackwater_War.md) — [Valenca Arvina](Lore_Books_by_Author.md#Valenca_Arvina), Historian-in-Residence at [Gwylim University](Lore_University_of_Gwylim.md)
+9. [^](#cite_ref-Attrebus_9-0) [Redguard.com Archive](https://en.uesp.net/wiki/General:Redguard.com_Archive/Characters)

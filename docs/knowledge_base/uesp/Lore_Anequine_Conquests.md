@@ -1,0 +1,16 @@
+# Anequine Conquests
+
+
+## History
+During the course of the Anequine Conquests, Darloc Brae conquered all of Anequina, parts of [Valenwood](Lore_Valenwood.md), and parts of [Cyrodiil](Lore_Cyrodiil.md).<sup>[[3]](#cite_note-KR-3)</sup><sup>[[4]](#cite_note-ESODWC-4)</sup><sup>[[5]](#cite_note-TGt L-5)</sup> At the height of the Conquests, the borders of the Kingdom of [Ne Quin-al](Lore_Anequina.md) extended to the [Strid River](https://en.uesp.net/wiki/Lore:Strid_River) and [Crescent River](https://en.uesp.net/wiki/Lore:Crescent_River) in the west, with the stronghold of Khaj Rawlith and the Do'Krin Monastery being the westernmost points, and to [Rimmen](Lore_Rimmen.md) and the [Larsius River](https://en.uesp.net/wiki/Lore:Larsius_River) in the east.<sup>[[3]](#cite_note-KR-3)</sup><sup>[[6]](#cite_note-ESODKM-6)</sup><sup>[[7]](#cite_note-ESOM-7)</sup> Darloc Brae conquered [Leyawiin](Lore_Leyawiin.md) during this period, and Leyawiin was under Khajiiti control for more than twenty years as a result.<sup>[[5]](#cite_note-TGt L-5)</sup><sup>[[8]](#cite_note-ONGA-8)</sup> The Anequine Conquests are remembered by the [Khajiit](Lore_Khajiit.md) as a glorious period, with the loot from the Conquests being used to build the greatest of the Golden Beast's architectural projects.<sup>[[6]](#cite_note-ESODKM-6)</sup><sup>[[9]](#cite_note-KD-9)</sup>
+
+## References
+1. [^](#cite_ref-RTR_1-0) [*Rislav The Righteous*](Lore_Rislav_The_Righteous.md) — [Sinjin](Lore_Books_by_Author.md#Sinjin)
+2. [^](#cite_ref-Aa PAI_2-0) [*Anequina and Pellitine: An Introduction*](https://en.uesp.net/wiki/Lore:Anequina_and_Pellitine__An_Introduction) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+3. ^ <sup>***[a](#cite_ref-KR_3-0)***</sup><sup>***[b](#cite_ref-KR_3-1)***</sup> [Khaj Rawlith](https://en.uesp.net/wiki/Online:Fort_Grimwatch) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-ESODWC_4-0) [Desert Wind Caverns](https://en.uesp.net/wiki/Online:Desert_Wind_Caverns) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+5. ^ <sup>***[a](#cite_ref-TGt L_5-0)***</sup><sup>***[b](#cite_ref-TGt L_5-1)***</sup> [*Traveler's Guide to Leyawiin*](https://en.uesp.net/wiki/Lore:Traveler%27s_Guide_to_Leyawiin) — [Astinia Isauricus](Lore_Books_by_Author.md#Astinia_Isauricus); published 1 Frost Fall, [2E 569](Lore_Second_Era.md#2E_569)
+6. ^ <sup>***[a](#cite_ref-ESODKM_6-0)***</sup><sup>***[b](#cite_ref-ESODKM_6-1)***</sup> [Do'Krin Monastery](https://en.uesp.net/wiki/Online:Do%27Krin_Monastery) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ESOM_7-0) Location of the [Do'Krin Monastery](https://en.uesp.net/wiki/Online:Do%27Krin_Monastery) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ONGA_8-0) [Stained Glass of Lunar Phases](https://en.uesp.net/wiki/Online:Northern_Elsweyr_Antiquities#Stained_Glass_of_Lunar_Phases) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+9. [^](#cite_ref-KD_9-0) [Kuna's Delve](https://en.uesp.net/wiki/Online:Kuna%27s_Delve) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)

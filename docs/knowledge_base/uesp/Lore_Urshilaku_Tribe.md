@@ -1,0 +1,53 @@
+# Urshilaku Tribe
+
+[![](https://images.uesp.net/thumb/6/63/ON-banner-Urshilaku_Banner_transparent.png/150px-ON-banner-Urshilaku_Banner_transparent.png)](https://en.uesp.net/wiki/File:ON-banner-Urshilaku_Banner_transparent.png) [](https://en.uesp.net/wiki/File:ON-banner-Urshilaku_Banner_transparent.png) The Urshilaku Tribe banner *But more than its many hunters, warriors, and herders, Urshilaku is famed for its lore-keepers. It is the only tribe that currently has multiple Farseers, and the Wise-Woman of Urshilaku is widely renowned. Urshilaku has been key in ushering in a temporary age of peace among the Ashlander tribes, for all are listening when the oracles speak of an age of coming strife that the tribes must prepare for.*
+— Ulran Releth, *[Ashlander Tribes and Customs](Lore_Ashlander_Tribes_and_Customs.md)* The Urshilaku Tribe is one of the four distinct tribes of the [Ashlanders](Lore_Ashlander.md) of [Vvardenfell](Lore_Vvardenfell.md), in the province of [Morrowind](Lore_Morrowind.md). The Urshilaku are known as lore-keepers and mystics, they are highly-respected, and are in fact, the second-most populated tribe in the region. They commonly live along the northern coast, in the **Urshilaku Camp** where the [West Gash](Lore_West_Gash.md) meets the [Ashlands](Lore_Ashlands.md). The Urshilaku Tribe are staunch believers in that the [Nerevarine](Lore_Nerevarine.md) would return to unite the people.<sup>[[1]](#cite_note-Customs-1)</sup> A sub-sect of the Urshilaku, known as the [Nerevarine Cult](Lore_Nerevarine_Cult.md) are the ones that enforce this belief and worshipped [Indoril Nerevar](Lore_Indoril_Nerevar.md).<sup>[[2]](#cite_note-2)</sup> The Urshilaku Tribe are known to keep [Guar](Lore_Guar.md) bones, because it is believed that the soul of the guar lingers in the bones and that they can continue to guide them, even after death. The **Urshilaku Burial Caverns** are found just east of [Bthungthumz](Lore_Bthungthumz.md).<sup>[[3]](#cite_note-Quest-3)</sup>
+
+## History
+The Urshilaku Tribe was founded by Lammak Urshilaku many years ago as one of the First Ashkhans. Lammak and the other First Ashkhans led their tribes together to defeat the menace known as [Skar](Lore_Skar.md).<sup>[[4]](#cite_note-ONDrelyth-4)</sup> With the help of Dranoth Hleran and his spear, the Calderas. The beast was vanquished and the Velothi of House Hleran were revered as heroes. However, after the death of the First Ashkhans, their successors exiled the Hleran and took over the carcass of Skar, which became the holy grounds known as [Ald'ruhn](Lore_Ald%27ruhn.md).<sup>[[5]](#cite_note-ONDranoth-5)</sup> Lammak's cairn was established in [Ald'ruhn](Lore_Ald%27ruhn.md), behind a leg of Skar. In order to gain his blessing, one must offer guar bones.<sup>[[3]](#cite_note-Quest-3)</sup>
+
+During the [Interregnum](Lore_Interregnum.md) around [2E 582](Lore_Second_Era.md#2E_582), the Urshilaku Tribe had established their camp on the edge of the West Gash, amidst the crags of the northern coast. The tribe would occasionally gather at the encampment of [Ald'ruhn](Lore_Ald%27ruhn.md). At this time, the Ashkhan of the Tribe was [Conoon Chodala](Lore_Conoon_Chodala.md), who led the Urshilaku at the [Second Akaviri Invasion](Lore_Second_Akaviri_Invasion.md) in [2E 572](Lore_Second_Era.md#2E_572). Conoon Chodala was named the Ashkhan at an early age and would lead raids against ancient stronghold across [Red Mountain](Lore_Red_Mountain.md), because of this, Chodala had gained respect from the other tribes.<sup>[[6]](#cite_note-Conoon-6)</sup>
+
+But things would change when Conoon Chodala would declare himself the Nerevarine. Chodala would enlist the help of the [Red Exiles](Lore_Red_Exiles.md), a group of outcast Ashlanders. His sister, the Urshilaku ambassador, Seryn would attempt to convince her brother to not follow the prophecy. When Chodala acquired the staff, [Sunna'rah](Lore_Sunna%27rah.md), the Urshilaku Ashkhan would step forward and attempt to claim the title of Nerevarine, by force.<sup>[[7]](#cite_note-7)</sup><sup>[[8]](#cite_note-8)</sup> After a meeting in Ald'ruhn, where the Wise Woman had denied his claim. The Ashkhan had laid an assault onto the council hall but was subsequently slain at the ruins of Kaushtarari.<sup>[[9]](#cite_note-9)</sup>
+
+During [the Blight](Lore_The_Blight.md) outbreak in [3E 427](Lore_Third_Era.md#3E_427), the Urshilaku Tribe had established their camp closer into the Ashlands, north of their burial caverns, across the water from the Velothi tower, [Ald Redaynia](Lore_Ald_Redaynia.md). At this time, the Ashkhan and spiritual guardian of the Nerevarine Cult was Sul-Matuul, a proud warrior. It was at this time, the true [Nerevarine](Lore_Nerevarine.md) would appear and first speak with the Ashlanders, through the Urshilaku and Sul-Matuul. Unsure about the Outlander's purpose in their camp, Sul-Matuul had sent them to the Urshilaku Burial Caverns, to retrieve his father's bow, and to prove their worth. Once the Nerevarine had returned with the bow, they were named Clanfriend. The Nerevarine spoke with the Wise Woman, Nibani Maesa, who told the Outlander to find the lost prophecies and bring it to her. From then on, the Outlander would work with the Urshilaku to learn more about the Nerevarine Prophecies.<sup>[[10]](#cite_note-10)</sup>
+
+Sometime later, the Nerevarine returned to Nibani Maesa with the lost prophecies, convincing her that they may be the Nerevarine. The Outlander would begin to speak with Sul-Matuul, to begin the third trial. Sul-Matuul sends the Outlander into the stronghold of [Kogoruhn](Lore_Kogoruhn.md), to prove they are ready for the third trial. Once they finished, the Ashkhan had sent them to the Cavern of the Incarnate, to acquire [Moon-and-Star](Lore_Moon-and-Star.md), the ring of Indoril Nerevar. The third trial had been completed, and the Outlander had begun the steps to officially become the Nerevarine, by being recognized by the [Great Houses](Lore_Great_Houses.md) and the Ashlander Tribes of Vvardenfell.<sup>[[11]](#cite_note-11)</sup> Not long after obtaining Moon-and-Star, Sul-Matuul had recognized the Outlander as the Nerevarine, awarding them the Teeth of the Urshilaku.<sup>[[12]](#cite_note-12)</sup>
+
+## Known Leaders
+
+### Ashkhans
+- Lammak Urshilaku
+- [Conoon Chodala](Lore_Conoon_Chodala.md)
+- Sul-Matuul
+
+### Wise-Women
+- Dovrosi
+- Nibani Maesa
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/91/MW-banner-Urshilaku_Tribal_Flag.png/50px-MW-banner-Urshilaku_Tribal_Flag.png)](https://en.uesp.net/wiki/File:MW-banner-Urshilaku_Tribal_Flag.png) The Urshilaku Flag circa 3E 427
+- [![](https://images.uesp.net/thumb/f/f3/MW-item-Teeth_of_the_Urshilaku.jpg/200px-MW-item-Teeth_of_the_Urshilaku.jpg)](https://en.uesp.net/wiki/File:MW-item-Teeth_of_the_Urshilaku.jpg) The Teeth of the Urshilaku
+- [![](https://images.uesp.net/thumb/1/1f/ON-place-Urshilaku_Camp.jpg/200px-ON-place-Urshilaku_Camp.jpg)](https://en.uesp.net/wiki/File:ON-place-Urshilaku_Camp.jpg) Urshilaku Camp circa 2E 582
+- [![](https://images.uesp.net/thumb/e/e2/MW-place-Urshilaku_Camp.jpg/200px-MW-place-Urshilaku_Camp.jpg)](https://en.uesp.net/wiki/File:MW-place-Urshilaku_Camp.jpg) Urshilaku Camp circa 3E 427
+- [![](https://images.uesp.net/thumb/0/08/ON-npc-Chodala.jpg/200px-ON-npc-Chodala.jpg)](https://en.uesp.net/wiki/File:ON-npc-Chodala.jpg) Conoon Chodala
+- [![](https://images.uesp.net/thumb/d/d7/MW-npc-Sul-Matuul.jpg/200px-MW-npc-Sul-Matuul.jpg)](https://en.uesp.net/wiki/File:MW-npc-Sul-Matuul.jpg) Sul-Matuul
+- [![](https://images.uesp.net/thumb/c/c8/MW-misc-Mummy.jpg/200px-MW-misc-Mummy.jpg)](https://en.uesp.net/wiki/File:MW-misc-Mummy.jpg) An Urshilaku [mummy](Lore_Mummy.md)
+
+## See Also
+- For game-specific information on the tribe, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Urshilaku_Tribe) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Urshilaku_Tribe) [](https://en.uesp.net/wiki/Online:Morrowind) articles.
+- For game-specific information on the camp, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Urshilaku_Camp) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Urshilaku_Camp) [](https://en.uesp.net/wiki/Online:Morrowind) articles.
+
+## References
+1. [^](#cite_ref-Customs_1-0) [*Ashlander Tribes and Customs*](Lore_Ashlander_Tribes_and_Customs.md) — [Ulran Releth](Lore_Books_by_Author.md#Ulran_Releth) of [House Redoran](Lore_House_Redoran.md)
+2. [^](#cite_ref-2) [*Nerevarine cult notes*](https://en.uesp.net/wiki/Morrowind:Nerevarine_cult_notes) — [Sharn gra-Muzgob](https://en.uesp.net/wiki/Morrowind:Sharn_gra-Muzgob)
+3. ^ <sup>***[a](#cite_ref-Quest_3-0)***</sup><sup>***[b](#cite_ref-Quest_3-1)***</sup> The description of [Guar Bones](https://en.uesp.net/wiki/Online:Morrowind_Quest_Items) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+4. [^](#cite_ref-ONDrelyth_4-0) [Drelyth Hleran](https://en.uesp.net/wiki/Online:Drelyth_Hleran)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+5. [^](#cite_ref-ONDranoth_5-0) [Dranoth Hleran](https://en.uesp.net/wiki/Online:Dranoth_Hleran)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+6. [^](#cite_ref-Conoon_6-0) [Conoon Chodala](https://en.uesp.net/wiki/Morrowind:Conoon_Chodala)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+7. [^](#cite_ref-7) [Divine Inquiries](https://en.uesp.net/wiki/Online:Divine_Inquiries) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+8. [^](#cite_ref-8) [*Chodala's Writings*](https://en.uesp.net/wiki/Online:Chodala%27s_Writings) — [Chodala](https://en.uesp.net/wiki/Online:Chodala)
+9. [^](#cite_ref-9) [Divine Delusions](https://en.uesp.net/wiki/Online:Divine_Delusions) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+10. [^](#cite_ref-10) [Meet Sul-Matuul](https://en.uesp.net/wiki/Morrowind:Meet_Sul-Matuul) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+11. [^](#cite_ref-11) [The Path of the Incarnate](https://en.uesp.net/wiki/Morrowind:The_Path_of_the_Incarnate) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+12. [^](#cite_ref-12) [Urshilaku Nerevarine](https://en.uesp.net/wiki/Morrowind:Urshilaku_Nerevarine) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*

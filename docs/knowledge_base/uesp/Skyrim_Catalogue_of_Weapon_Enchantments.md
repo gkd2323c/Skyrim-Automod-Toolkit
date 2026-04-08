@@ -1,0 +1,28 @@
+# Catalogue of Weapon Enchantments
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book5a.png) Book Information <br> *Catalogue of Weapon Enchantments* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 02F83A | | |
+| See Also | [Lore version](Lore_Catalogue_of_Weapon_Enchantments.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 50 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Enchanting](Skyrim_Enchanting.md) | | |
+| Locations | | | |
+| Found in the following locations: - [Castle Dour, Emperor's Tower](Skyrim_Castle_Dour,_Emperor%27s_Tower.md) ([Solitude](Skyrim_Solitude.md)) <br> - [Darkwater Pass](Skyrim_Darkwater_Pass.md), near the middle of the dungeon, found on top of the Arcane Enchanter <br> - [Roadside Ruins](https://en.uesp.net/wiki/Skyrim:Roadside_Ruins) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)), near a chest in the center [(map)](https://gamemap.uesp.net/sr/?x=-43372&y=-78799&zoom=17&legacy=true) <br> - [The White Hall](Skyrim_The_White_Hall.md) ([Dawnstar](Skyrim_Dawnstar.md)), in a room with the enchanter between two barrels <br> - [Urag gro-Shub](Skyrim_Urag_gro-Shub.md) ([College of Winterhold](Skyrim_College_of_Winterhold_(place).md)), [Hitting the Books](Skyrim_Hitting_the_Books.md) quest reward <br> - [Apocrypha](Skyrim_Apocrypha.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Waking Dreams](Skyrim_Apocrypha_(Waking_Dreams).md#Chapter_III), Chapter III <br> - [Myrwatch](Skyrim_Myrwatch_(place).md), on the Arcane Enchanter table | | | |
+
+Complete Catalogue of Enchantments for Weaponry **by [Yvonne Bienne](Lore_Books_by_Author.md#Yvonne_Bienne), Synod researcher** *An incomplete list of all the spells and weapons used in enchanting*
+---
+Within this catalogue are all the known varieties of weapon enchantments the modern mages can cast. No pretense is made that this list is complete. New discoveries are made and new enchantments are revealed often enough that this work will eventually become outdated. Those who follow may choose to revise this work as needed.
+
+[Weapon](Skyrim_Weapons.md) *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* such as axes and bows can hold a wide variety of enchantments. The most common are fire, frost and lightning. The simple, yet effective enchantments burn, freeze or shock when they draw blood.
+
+Only slightly less common are weapon enchantments that drain magicka or stamina. These drain off a wizards *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* reserve of power, tiring him magically just as the weapons that strain stamina tire their victims physically. Unlike the elemental enchantments, the enchantment along *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* cannot kill, although the weapon itself can still take a life.
+
+Equally less common are the enchantments of fear. There are two varieties, one for the living, and one for the undead. The former will only affect living creatures, not undead, or magical constructs such as atronachs and dwarven automatons. The latter cause draugr, skeletons, vampires and the like to flee. There is no known fear enchantment that will affect dwarven machines.
+
+A particularly insidious, but somewhat common enchantment, is soul trap. Upon entering the blood, the victim's soul is bound. Should he die shortly thereafter, he *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* soul is siphoned off to a nearby soul gem. This form of magic should only be used against beasts and monsters. To use it against men or elves is abhorrent.
+
+Noticablely *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* more rare are the absorb enchantments. There are three known types that drain the victims *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* health, magicka, or stamina. The weapon becomes a conduit, transferring the stolen energy from the victim to the wielder. These are sometime *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* referred to as vampiric enchantments. As discussed above, absorbing magicka and stamina is not in itself deadly. Absorbing health can actual *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* steal the life from a creature.
+
+The rarest of enchantments are those of banishment and paralyzation. Banishment only affects summoned atronachs or undead raised by wizards. The banishment breaks the link between the caster and the creature. Summoned atronach *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* return to the Oblivion plane from whence *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* they came. Raised undead are released. It is important to note that self-willed undead are not affected by banishment.
+
+Paralyzation is simple, yet deadly. The affected creature becomes rigid and unable to move for a short time. This is one of the most prized enchantments among warriors. A paralyzed opponent can be dispatched with ease. It is important to note that many creature *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* are immune to paralysis, such as Atronachs, skeletons, ice wraiths, and dwarven automatons.

@@ -1,0 +1,13 @@
+# City-Face
+
+[![](https://images.uesp.net/thumb/f/f4/MW-concept-City-Face.jpeg/200px-MW-concept-City-Face.jpeg)](https://en.uesp.net/wiki/File:MW-concept-City-Face.jpeg) [](https://en.uesp.net/wiki/File:MW-concept-City-Face.jpeg) Vivec battling City-Face City-Face, originally known as **Ha-Note**, was one of the eight [monster children](Lore_Monster_Children.md) born from the unholy union of [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md), who initially escaped being slain.<sup>[[1]](#cite_note-LOV12-1)</sup><sup>[[2]](#cite_note-LOV18-2)</sup> The [Grabbers](Lore_Grabber.md), the mysterious beings of the [Adjacent Place](Lore_Adjacent_Place.md) who had never built a city of their own, grew jealous of Vivec's [marvelous city](Lore_Vivec_City.md), and therefore transformed Ha-Note into the being known as City-Face.<sup>[[3]](#cite_note-LOV30-3)</sup> Vivec, in an act of subterfuge, corrected the error in the monstrous city of the Grabbers, but then stabbed City-Face with the [Ethos Knife](Lore_Keening.md), killing him.<sup>[[3]](#cite_note-LOV30-3)</sup><sup>[[4]](#cite_note-CMBA-4)</sup> The act of Vivec killing City-Face with the Ethos Knife inspired the creation of the [Buoyant Armigers'](Lore_Buoyant_Armigers.md) daggers.<sup>[[4]](#cite_note-CMBA-4)</sup> City-Face was described as similar to the [Numidium](Lore_Numidium.md) of the [Dwemer](Lore_Dwemer.md).<sup>[[3]](#cite_note-LOV30-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/d/d3/MW-concept-Vivec_city.jpg/200px-MW-concept-Vivec_city.jpg)](https://en.uesp.net/wiki/File:MW-concept-Vivec_city.jpg) Vivec City
+- [![](https://images.uesp.net/thumb/0/0a/LO-misc-Numidium_Wall.png/200px-LO-misc-Numidium_Wall.png)](https://en.uesp.net/wiki/File:LO-misc-Numidium_Wall.png) Numidium
+
+## References
+1. [^](#cite_ref-LOV12_1-0) [*36 Lessons of Vivec, Sermon 12*](Lore_36_Lessons_of_Vivec,_Sermon_12.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-LOV18_2-0) [*36 Lessons of Vivec, Sermon 18*](Lore_36_Lessons_of_Vivec,_Sermon_18.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+3. ^ <sup>***[a](#cite_ref-LOV30_3-0)***</sup><sup>***[b](#cite_ref-LOV30_3-1)***</sup><sup>***[c](#cite_ref-LOV30_3-2)***</sup> [*36 Lessons of Vivec, Sermon 30*](Lore_36_Lessons_of_Vivec,_Sermon_30.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+4. ^ <sup>***[a](#cite_ref-CMBA_4-0)***</sup><sup>***[b](#cite_ref-CMBA_4-1)***</sup> [*Crafting Motif 47: Buoyant Armiger Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_47__Buoyant_Armiger_Style) — [Lord Vivec](Lore_Books_by_Author.md#Vivec)

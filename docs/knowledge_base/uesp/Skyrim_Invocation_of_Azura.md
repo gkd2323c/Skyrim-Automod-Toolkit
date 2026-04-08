@@ -1,0 +1,26 @@
+# Invocation of Azura
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book3.png) Book Information <br> *Invocation of Azura* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01B245 | | |
+| See Also | [Lore version](Lore_Invocation_of_Azura.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 20 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 4 | | |
+| Needed for | [Fetch me that Book!](Skyrim_Fetch_me_that_Book!.md) | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Bards College](Skyrim_Bards_College.md), on a bookshelf in [Inge Six Fingers](Skyrim_Inge_Six_Fingers.md)' room | | | |
+
+Invocation of Azura **by [Sigillah Parate](Lore_Books_by_Author.md#Sigillah_Parate)** *A work written by a priestess of Azura arguing the superiority of Azura to other Daedra Princes*
+---
+
+![F](https://images.uesp.net/thumb/9/92/F_letter.png/45px-F_letter.png)
+or three hundred years I have been a priestess of [Azura](Lore_Azura.md), the [Daedric Princess](Lore_Daedric_Princes.md) of [Moonshadow](Lore_Moonshadow.md), Mother of the Rose, and Queen of the Night Sky. Every Hogithum, which we celebrate on the 21st of First Seed, we summon her for guidance, as well as to offer things of worth and beauty to Her Majesty. She is a cruel but wise mistress. We do not invoke her on any Hogithum troubled by thunderstorms, for those nights belong to the Mad One, [Sheogorath](Lore_Sheogorath.md), even if they do coincide with the occasion. Azura at such times understands our caution.
+
+Azura's invocation is a very personal one. I have been priestess to three other Daedric Princes, but Azura values the quality of her worshippers, and the truth behind our adoration of her. When I was a [Dark Elven](Skyrim_Dunmer.md) maid of sixteen, I joined my grandmother's coven, worshippers of [Molag Bal](Lore_Molag_Bal.md), the Schemer Princess. Blackmail, extortion, and bribery are as much the weapons of the Witches of Molag Bal as is dark magic. The Invocation of Molag Bal is held on the 20th of Evening Star, except during stormy weather. This ceremony is seldom missed, but Molag Bal often appears to her cultists in mortal guise on other dates. When my grandmother died in an attempt to poison the heir of [Firewatch](Lore_Firewatch.md), I re-examined my faith in the cult.
+
+My brother was a wizard of the cult of [Boethiah](Lore_Boethiah.md) -and from what he told me, the Dark Warrior was closer to my spirit than the treacherous Molag Bal. Boethiah is a Warrior Princess who acts more overtly than any other Daedroth. After years of skulking and scheming, it felt good to perform acts for a mistress which had direct, immediate consequences. Besides, I liked it that Boethiah was a Daedra of the Dark Elves. Our cult would summon her on the day we called the Gauntlet, the 2nd of Sun's Dusk. Bloody competitions would be held in her honor, and the duels and battles would continue until nine cultists were killed at the hands of other cultists. Boethiah cared little for her cultists-she only cared for our blood. I do think I saw her smile when I accidentally slew my brother in a sparring session. My horror, I think, greatly pleased her.
+
+I left the cult soon after that. Boethiah was too impersonal for me, too cold. I wanted a mistress of greater depth. For the next eighteen years of my life, I worshipped no one. Instead I read and researched. It was in an old and profane tome that I came upon the name of [Nocturnal](Lore_Nocturnal.md) -Nocturnal the Night Mistress, Nocturnal the Unfathomable. As the book prescribed, I called to her on her holy day, the 3rd of Hearth Fire. At last I had found the personal mistress I had so long desired. I strove to understand her labyrinthine philosophy, the source of her mysterious pain. Everything about her was dark and shrouded, even the way she spoke and the acts she required of me. It took years for me to understand the simple fact that I could never understand Nocturnal. Her mystery was as essential to her as savagery was to Boethiah or treachery was to Molag Bal. To understand Nocturnal is to negate her, to pull back the curtains cloaking her realm of darkness. As much as I loved her, I recognized the futility of unraveling her enigmas. I turned instead to her sister, Azura.
+
+Azura is the only Daedra Princess I have ever worshipped who seems to care about her followers. Molag Bal wanted my mind, Boethiah wanted my arms, and Nocturnal perhaps my curiosity. Azura wants all of that, and our love above all. Not our abject slavering, but our honest and genuine caring in all its forms. It is important to her that our emotions be engaged in her worship. And our love must also be directed inward. If we love her and hate ourselves, she feels our pain. I will, for all time, have no other mistress.

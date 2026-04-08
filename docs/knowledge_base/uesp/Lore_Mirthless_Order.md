@@ -1,0 +1,9 @@
+# Mirthless Order
+
+[![](https://images.uesp.net/thumb/1/18/ON-npc-Mirthless_Order_Mage.jpg/200px-ON-npc-Mirthless_Order_Mage.jpg)](https://en.uesp.net/wiki/File:ON-npc-Mirthless_Order_Mage.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Mirthless_Order_Mage.jpg) A mage of the Mirthless Order circa [2E 582](Lore_Second_Era.md#_2E_582) The Mirthless Order was a group of [Dunmer](Lore_Dunmer.md) whose purpose was to protect the sacredness of humor, specifically, an ancient rite written by three Dunmer comedians, the Brothers Randoro.<sup>[[1]](#cite_note-GR-1)</sup><sup>[[2]](#cite_note-DR-2)</sup><sup>[[3]](#cite_note-TGR-3)</sup> The order would deal death to any who performed the rite improperly. The order's ancient home was said to be [Kragenmoor](Lore_Kragenmoor.md). Despite being seldom seen and the words to the ancient joke they protected known by hardly any, the order was still active by the middle of the [Second Era](Lore_Second_Era.md) and it was ready to kill in the name of their duty.<sup>[[4]](#cite_note-4)</sup>
+
+## References
+1. [^](#cite_ref-GR_1-0) [Geril Randoro](https://en.uesp.net/wiki/Online:Geril_Randoro)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-DR_2-0) [Doril Randoro](https://en.uesp.net/wiki/Online:Doril_Randoro)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-TGR_3-0) [Taril Randoro](https://en.uesp.net/wiki/Online:Taril_Randoro)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) Events of [This One's a Classic](https://en.uesp.net/wiki/Online:This_One%27s_a_Classic) in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,12 @@
+# Clan Idha-hara
+
+[![](https://images.uesp.net/thumb/3/30/ON-npc-Udeya.jpg/200px-ON-npc-Udeya.jpg)](https://en.uesp.net/wiki/File:ON-npc-Udeya.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Udeya.jpg) Udeya, a member of Clan Idha-hara *The only reason Clan Idha-hara doesn't run the city is because they do not wish to. This one understands. It is hard enough to remember where one left their rings, let alone keep track of a whole city. It is better this way*
+—Udeya<sup>[[1]](#cite_note-Udeya-1)</sup> Clan Idha-hara was a [Khajiiti](Lore_Khajiit.md) clan known for its influence within the city of [Sunport](Lore_Sunport.md) on the isle of [Solstice](Lore_Solstice_(island).md). According to a Khajiiti woman Udeya, who claimed distant kinship with the clan, it was the finest trading house in Sunport. She even suggested that Clan Idha-hara could easily rule the city if they wished,<sup>[[1]](#cite_note-Udeya-1)</sup> though this claim was doubtful, as Sunport was firmly under the control of the influential [Altmeri](Lore_Altmer.md) [Clan Corelanya](Lore_Clan_Corelanya.md), whose leader, Regent [Karinwe Corelanya](Lore_Karinwe_Corelanya.md), also governed the city itself.<sup>[[2]](#cite_note-RK-2)</sup><sup>[[3]](#cite_note-HOCC-3)</sup> Little is known of the clan's history, other than that by [2E 582](Lore_Second_Era.md#2E_582), it had been some time since their last family gathering.<sup>[[1]](#cite_note-Udeya-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Clan_Idha-hara) [](https://en.uesp.net/wiki/Online:2025_Content_Pass) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Udeya_1-0)***</sup><sup>***[b](#cite_ref-Udeya_1-1)***</sup><sup>***[c](#cite_ref-Udeya_1-2)***</sup> [Udeya](https://en.uesp.net/wiki/Online:Udeya)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-RK_2-0) [Regent Karinwe](https://en.uesp.net/wiki/Online:Regent_Karinwe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-HOCC_3-0) [*History of Clan Corelanya*](https://en.uesp.net/wiki/Lore:History_of_Clan_Corelanya) — [Lady Karinwe Corelanya](Lore_Books_by_Author.md#Lady_Karinwe_Corelanya)

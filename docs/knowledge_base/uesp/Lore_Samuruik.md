@@ -1,0 +1,36 @@
+# Samuruik
+
+| Samuruik | |
+| --- | --- |
+| Type | Castle |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Hammerfell](Lore_Hammerfell.md) |
+| Region | [Sentinel](Lore_Sentinel_(kingdom).md) |
+| Settlement | [Sentinel](Lore_Sentinel.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Palaces), [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Sentinel_(city)#Castle_Sentinel), [ESO](https://en.uesp.net/wiki/Online:Sentinel_Palace) |
+
+[![](https://images.uesp.net/thumb/8/80/DF-place-Sentinel_Palace_01.png/200px-DF-place-Sentinel_Palace_01.png)](https://en.uesp.net/wiki/File:DF-place-Sentinel_Palace_01.png) [](https://en.uesp.net/wiki/File:DF-place-Sentinel_Palace_01.png) Samuruik ca. 3E 405 Samuruik (also called the **Palace of Sentinel**<sup>[[1]](#cite_note-EGTH-1)</sup> or sometimes spelled **Samaruik**)<sup>[[2]](#cite_note-SJo A-2)</sup> is the seat of power within the city of [Sentinel](Lore_Sentinel.md), and therefore the entire [Kingdom of Sentinel](Lore_Sentinel_(kingdom).md). Built in the heyday of the [Ra Gada](Lore_Ra_Gada.md), Samuruik is a sprawling and defendable citadel that looms over the entire city, surrounded by parklands that take much of the city space. The royal family of [Forebears](Lore_Forebears.md) and their many retainers and envoys live in the castle. Its central golden dome and surrounding ornate ramparts guard it well. However, years of violent usurping stain the inner walls with blood. A joke among the lower class is that there are servants in Samuruik that constantly wash the blood from the rugs and tapestries to no end, creating the joke, *"I'd rather be a rug washer in Samuruik."* It is only called Samuruik by the people than in general.<sup>[[1]](#cite_note-EGTH-1)</sup>
+
+## History
+Samuruik was built following [Yaghoub](Lore_Yaghoub.md) the Seafarer's conquest over what later became Sentinel in [1E 808](Lore_First_Era.md#1E_808).<sup>[[3]](#cite_note-Hot IB-3)</sup> After his Ra Gada claimed this unnamed port from the lower [elves](Lore_Mer.md) and [men](Lore_Man.md) that lived there, he used their hard-labor to build his own palace which became Samuruik.<sup>[[2]](#cite_note-SJo A-2)</sup> It is considered one of the oldest and largest architectural monuments built by the [Redguards](Lore_Redguard.md). One of the reasons it was built was to ward against the [Bretons](Lore_Breton.md).<sup>[[4]](#cite_note-PGE1E-4)</sup> Since then, countless kings and queens lived in Samuruik, but there has just as much death and despair in the palace, such as the lonesome death of King [Ramzi](https://en.uesp.net/wiki/Lore:Ramzi) the Distrait in [2E 560](Lore_Second_Era.md#2E_560), who starved to death to completely avoid the [Knahaten Flu](Lore_Knahaten_Flu.md).<sup>[[1]](#cite_note-EGTH-1)</sup>
+
+The Forebears lost control over Sentinel when the royal family of [Crowns](Lore_Crowns.md) from [Hegathe](Lore_Hegathe.md) moved the capital to Sentinel. Their reign ended with the death of [Thassad II](Lore_Thassad_II.md) in [2E 862](Lore_Second_Era.md#2E_862), which launched a full-scale civil war between the Crowns and Forebears that left Sentinel in the midst of conflict. Baron [Volag](Lore_Volag.md)'s rebellion had forced the Crowns further west into [Stros M'Kai](Lore_Stros_M%27Kai.md) when they obtained an alliance with the burgeoning [Third Empire](Lore_Third_Empire.md). However, when Volag had mysterious disappeared, the Empire had left Sentinel and Samuruik to the Imperial Provisional Governor, [Senecus Goddkey](Lore_Senecus_Goddkey.md) in [2E 864](Lore_Second_Era.md#2E_864),<sup>[[4]](#cite_note-PGE1E-4)</sup> but he was quickly dethroned by Baron Volag, who reclaimed Sentinel.<sup>[[5]](#cite_note-RGIszara-5)</sup>
+
+At some point, the Sorcerer-Prince of Sentinel, Karolas was buried well underneath Samuruik and had turned towards [lichdom](Lore_Lich.md).<sup>[[6]](#cite_note-DFLich-6)</sup> During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), Sentinel Palace was occupied by King Caacte, who would often give out quests to any adventurer that approached the court.<sup>[[7]](#cite_note-ARPalace-7)</sup> Many years later in [3E 405](Lore_Third_Era.md#3E_405), following the death of his great-grandson, King [Camaron](Lore_Camaron.md), Karolas' [soul](Lore_Soul.md) was retrieved by an [agent](Lore_Agent.md) of the [King of Worms](Lore_Mannimarco.md) and brought to his fortress, the [Scourg Barrow](Lore_Scourg_Barrow.md) in the [Dragontail Mountains](Lore_Dragontail_Mountains.md).<sup>[[6]](#cite_note-DFLich-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/38/ON-place-Sentinel_Palace.jpg/200px-ON-place-Sentinel_Palace.jpg)](https://en.uesp.net/wiki/File:ON-place-Sentinel_Palace.jpg) Sentinel Palace (ESO)
+- [![](https://images.uesp.net/thumb/0/0f/DF-place-Sentinel_Palace_02.png/200px-DF-place-Sentinel_Palace_02.png)](https://en.uesp.net/wiki/File:DF-place-Sentinel_Palace_02.png) Sentinel Palace (Daggerfall)
+- [![](https://images.uesp.net/thumb/7/74/DF-map-Sentinel_%28city%29.jpg/197px-DF-map-Sentinel_%28city%29.jpg)](https://en.uesp.net/wiki/File:DF-map-Sentinel_(city).jpg) Map of Sentinel
+
+## See Also
+- For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Palaces), [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Castle_Sentinel), and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Sentinel_Palace) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-EGTH_1-0)***</sup><sup>***[b](#cite_ref-EGTH_1-1)***</sup><sup>***[c](#cite_ref-EGTH_1-2)***</sup> [*The Improved Emperor's Guide to Tamriel: Hammerfell*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Hammerfell) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+2. ^ <sup>***[a](#cite_ref-SJo A_2-0)***</sup><sup>***[b](#cite_ref-SJo A_2-1)***</sup> [*Sentinel, the Jewel of Alik'r*](Lore_Sentinel,_the_Jewel_of_Alik%27r.md) — [The Unveiled Azadiyeh](Lore_Books_by_Author.md#The_Unveiled_Azadiyeh), Songbird of [Satakalaam](Lore_Satakalaam.md)
+3. [^](#cite_ref-Hot IB_3-0) [*Holidays of the Iliac Bay*](Lore_Holidays_of_the_Iliac_Bay.md) — [Theth-i](Lore_Books_by_Author.md#Theth-i)
+4. ^ <sup>***[a](#cite_ref-PGE1E_4-0)***</sup><sup>***[b](#cite_ref-PGE1E_4-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: Hammerfell*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Hammerfell.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+5. [^](#cite_ref-RGIszara_5-0) [Iszara](https://en.uesp.net/wiki/Redguard:Raze_the_Palace#Epilogue)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+6. ^ <sup>***[a](#cite_ref-DFLich_6-0)***</sup><sup>***[b](#cite_ref-DFLich_6-1)***</sup> [Soul of a Lich](https://en.uesp.net/wiki/Daggerfall:Soul_of_a_Lich) story quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+7. [^](#cite_ref-ARPalace_7-0) [Palaces](https://en.uesp.net/wiki/Arena:Palaces) in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*

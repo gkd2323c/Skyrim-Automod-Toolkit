@@ -1,0 +1,8 @@
+# House Vien
+
+House Vien is a [Breton](Lore_Breton.md) noble house that served as one of the four criminal cartels known collectively as the "Merchant Lords" that supplanted royal power in [Abah's Landing](Lore_Abah%27s_Landing.md) in [Hew's Bane](Lore_Hew%27s_Bane.md) by the mid- [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-MFDL-1)</sup><sup>[[2]](#cite_note-v1-2)</sup> House Vien rose to prominence after Lady Felice Vien came to the region from [Wayrest](Lore_Wayrest.md) after allegedly murdering her husband. Using her wealth, she purchased properties and established a tavern that also functioned as a brothel and a front for other illicit activities. House Vien's clientele include pirates, merchants, and nobles. By [2E 582](Lore_Second_Era.md#2E_582), the house was led by Lady Ylanie Montaine.<sup>[[3]](#cite_note-v3-3)</sup>
+
+## References
+1. [^](#cite_ref-MFDL_1-0) [Magnifica Falorah](https://en.uesp.net/wiki/Online:Magnifica_Falorah)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-v1_2-0) [*Abah's Landing Merchant Lords, V. 1*](Lore_Abah%27s_Landing_Merchant_Lords,_V._1.md) — [Tamonir](Lore_Books_by_Author.md#Tamonir), Master of Secrets for the Queen of [Taneth](Lore_Taneth.md)
+3. [^](#cite_ref-v3_3-0) [*Abah's Landing Merchant Lords, V. 3*](Lore_Abah%27s_Landing_Merchant_Lords,_V._3.md) — [Tamonir](Lore_Books_by_Author.md#Tamonir), Master of Secrets for the Queen of [Taneth](Lore_Taneth.md)

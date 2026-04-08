@@ -1,0 +1,31 @@
+# Gods Z
+
+[Overview](Lore_Gods.md) | [A](Lore_Gods_A.md) [B](Lore_Gods_B.md) [C](Lore_Gods_C.md) [D](Lore_Gods_D.md) [E](Lore_Gods_E.md) [F](Lore_Gods_F.md) [G](Lore_Gods_G.md) [H](Lore_Gods_H.md) [I](Lore_Gods_I.md) [J](Lore_Gods_J.md) [K](Lore_Gods_K.md) [L](Lore_Gods_L.md) [M](Lore_Gods_M.md) [N](Lore_Gods_N.md) [O](Lore_Gods_O.md) [P](Lore_Gods_P.md) [Q](Lore_Gods_Q.md) [R](Lore_Gods_R.md) [S](Lore_Gods_S.md) [T](Lore_Gods_T.md) [U](Lore_Gods_U.md) [V](Lore_Gods_V.md) [W](Lore_Gods_W.md) [X](Lore_Gods_X.md) [Y](Lore_Gods_Y.md) Z
+---
+
+#### [Z'en](Lore_Z%27en.md), God of Toil
+[Z'en](Lore_Z%27en.md) is a God of Toil, vengeance, agriculture, and payment in kind worshipped by [Bosmer](Lore_Bosmer.md). Although he is the god of agriculture, he is rumored to have a larger realm of influence than just crops and cattle. Studies indicates his mythology originates from both [Akaviri](Lore_Akaviri.md) and [Argonian](Lore_Argonian.md) cultures. Like [Y'ffre](Lore_Y%27ffre.md), Z'en is a god of [the Green](Lore_The_Green.md).
+
+#### Zeht, Yokudan God of Farms
+[Zeht](Lore_Zeht.md), Yokudan God of Farms, is the [Yokudan](Lore_Yokuda.md) god of agriculture, civil law, mathematics, and food, but he still finds a place in the pantheon of the [Crowns](Lore_Crowns.md). He is similar to [Zenithar](Lore_Zenithar.md), and sometimes worshiped in that name by the Forebears. He renounced his father after the world was created, which is why [Ruptga](Lore_Ruptga.md) makes it so hard to grow food. He is the father of [Zeqqi](Lore_Zeqqi.md). He forsakes the land of [Hew's Bane](Lore_Hew%27s_Bane.md), preventing most food from growing there. Occasionally farming utensils of the Zeht's faithful such as digging spades are decorated with semi-precious stones and blessed by a priests of Zeht. The white [camel](Lore_Camel.md) is believed to be sacred to Zeht and pious Redguards tend to bow to passing Cloud Camels.
+
+#### Zenithar, God of Work and Commerce, Trader God
+[Zenithar](Lore_Zenithar.md), the **God of Work and Commerce**, the **Provider of our Ease**, is one of the [Divines](Lore_Divines.md). The Trader God is frequently seen as the same deity as the [Bosmeri](Lore_Bosmer.md) god [Z'en](Lore_Z%27en.md). In the [Empire](Lore_Empire.md), however, Zenithar is considered a more cultivated god of merchants and middle nobility, being the deity of wealth, labor, commerce, communication, and community.
+
+He has strong ties to [Cyrodiil](Lore_Cyrodiil.md) and [High Rock](Lore_High_Rock.md). The introduction of the worship of Zenithar was largely tolerated in [Hammerfell](Lore_Hammerfell.md) due to his similarities to a [Yokudan](Lore_Yokuda.md) agricultural deity. His worshippers say that, despite his mysterious origins, Zenithar is the god 'that will always win'. His priests teach that the path to peace and prosperity is through earnest work and honest profit, not through war, bloodshed, or theft. Zenithar is seen as a warrior god, but one who is restrained and reserved in times of peace.
+
+He is thought to be associated with [Kynareth](Lore_Kynareth.md), as well as a large blue star sometimes seen in the skies of [Tamriel](Lore_Tamriel.md). It's also said that he is most in touch with the mortal world, and that he created the Mace of the Crusader for [Pelinal Whitestrake](Lore_Pelinal_Whitestrake.md) to help him defeat [Umaril the Unfeathered](Lore_Umaril_the_Unfeathered.md).
+
+Zenithar appeared to the [Nerevarine](Lore_Nerevarine.md) during their service to the [Imperial Cult](Lore_Imperial_Cult.md), as a [Redguard](Lore_Redguard.md) named Jon Hawker, and after he had been freed, the Nerevarine received his gauntlets, Zenithar's Warning and Zenithar's Wiles.
+
+#### Zeqqi, the Madonna of Tears
+[Zeqqi](Lore_Zeqqi.md), known as the **Madonna of Tears**, is a water goddess and the daughter of [Zeht](Lore_Zeht.md). As her father forsakes [Hew's Bane](Lore_Hew%27s_Bane.md), the water goddess takes pity on the lost souls who call [Abah's Landing](Lore_Abah%27s_Landing.md) their home. It is theorized that the "Lady in the Cistern" statue depicts her, recognizing the sacrifices she makes to sustain the people of the city, hidden from the gaze of her disapproving father. The Hel Netu swore by Zeqqi's mercy.
+
+#### Zisa
+[![](https://images.uesp.net/thumb/6/67/ON-misc-Zisa.png/150px-ON-misc-Zisa.png)](https://en.uesp.net/wiki/File:ON-misc-Zisa.png) [](https://en.uesp.net/wiki/File:ON-misc-Zisa.png) [Symbol of Zisa](https://en.uesp.net/wiki/Online:Akaviri_Table,_Stone) **Zisa** symbolizes the water in [Tsaesci](Lore_Tsaesci_(race).md) culture. She is said to own a "graceful [wand](Lore_Wand.md)".<sup>[[1]](#cite_note-Tot E-1)</sup>
+
+#### Zylvara
+[Zylvara](Lore_Zylvara.md) was a mythical great [eagle](Lore_Eagle.md) mount of [Trinimac](Lore_Trinimac.md) the Golden Champion. It was present in the faith of the [Orc](Lore_Orc.md) branch of the Cult of [Trinimac](Lore_Trinimac.md). Zylvara is mentioned in one of the texts, authored by [Venerable Uugus](Lore_Books_by_Author.md#Venerable_Uugus), a member of the cult active in the [Second Era](Lore_Second_Era.md). His text mentions a tale where Zylvara bore the Golden Champion to his reckoning with the [man](Lore_Man.md) -demon [Quarvish](Lore_Quarvish.md). Its soaring wings were the inspiration for Orcish metalworkers of the cult, who style the pauldrons of their armors in the likeness of the wings of the Great Eagle of the Golden Champion. Although the imagery of eagle is common among the [Altmer](Lore_Altmer.md), it is unknown if Zylvara was also present in the Altmeri cult of Trinimac or if there is any connection between it and the Altmeri eagle iconography.
+
+## References
+1. [^](#cite_ref-Tot E_1-0) [*Tale of the Elements*](Lore_Tale_of_the_Elements.md) — [Nalae-Polek](Lore_Books_by_Author.md#Nalae-Polek), Poet Laureate to Potentate [Versidue-Shaie](Lore_Versidue-Shaie.md)

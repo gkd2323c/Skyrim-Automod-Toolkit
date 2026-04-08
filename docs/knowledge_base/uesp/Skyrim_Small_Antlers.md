@@ -1,0 +1,59 @@
+# Small Antlers
+
+| [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Small_Antlers.png) Small Antlers <br> 00 06bc0b | | | |
+| --- | --- | --- | --- |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 2 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0.1 |
+| [Alchemy Effects](Skyrim_Alchemy_Effects.md) | | | |
+| 1st | [](Skyrim_Weakness_to_Poison.md) [Weakness to Poison](Skyrim_Weakness_to_Poison.md) | | |
+| 2nd | [](Skyrim_Fortify_Restoration.md) [Fortify Restoration](Skyrim_Fortify_Restoration.md) | | |
+| 3rd | [](Skyrim_Lingering_Damage_Stamina.md) [Lingering Damage Stamina](Skyrim_Lingering_Damage_Stamina.md) | | |
+| 4th | [](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md) | | |
+| Sources | | | |
+| # Samples | 2 | | |
+| Creature | [Elk](Skyrim_Elk.md) | | |
+| Merchant Avail. | None (Common) | | |
+
+[![](https://images.uesp.net/thumb/7/79/SR-ingredient-Small_Antlers.jpg/200px-SR-ingredient-Small_Antlers.jpg)](https://en.uesp.net/wiki/File:SR-ingredient-Small_Antlers.jpg) [](https://en.uesp.net/wiki/File:SR-ingredient-Small_Antlers.jpg) Small antlers **Small Antlers** may be dropped by female [elk](Skyrim_Elk.md), whereas male deer and elk drop [large antlers](Skyrim_Large_Antlers.md).
+
+## Combinations
+In terms of combinations of two ingredients, Small Antlers can be combined with 45 other ingredients.
+
+### 2 Effects
+| Desired Effect | Combine with: | |
+| --- | --- | --- |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Lingering_Damage_Stamina.md) [Lingering Damage Stamina](Skyrim_Lingering_Damage_Stamina.md)** | [Coda Flower](Skyrim_Coda_Flower.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) (**2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Nightshade](Skyrim_Nightshade.md) |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | **[](Skyrim_Weakness_to_Poison.md) [Weakness to Poison](Skyrim_Weakness_to_Poison.md)** | [Chokeberry](Skyrim_Chokeberry.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Deathbell](Skyrim_Deathbell.md) (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Wisp Stalk Caps](Skyrim_Wisp_Stalk_Caps.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Fortify_Restoration.md) [Fortify Restoration](Skyrim_Fortify_Restoration.md)** | **[](Skyrim_Weakness_to_Poison.md) [Weakness to Poison](Skyrim_Weakness_to_Poison.md)** | [Abecean Longfin](Skyrim_Abecean_Longfin.md) |
+
+### 1 Effect
+| Desired Effect | Combine with: |
+| --- | --- |
+| **[](Skyrim_Weakness_to_Poison.md) [Weakness to Poison](Skyrim_Weakness_to_Poison.md)** | [Bleeding Crown](Skyrim_Bleeding_Crown.md), [Chaurus Eggs](Skyrim_Chaurus_Eggs.md), [Giant Lichen](Skyrim_Giant_Lichen.md), [Hypha Facia](Skyrim_Hypha_Facia.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Pine Thrush Egg](Skyrim_Pine_Thrush_Egg.md), [Sabre Cat Tooth](Skyrim_Sabre_Cat_Tooth.md) |
+| **[](Skyrim_Fortify_Restoration.md) [Fortify Restoration](Skyrim_Fortify_Restoration.md)** | [Cyrodilic Spadetail](Skyrim_Cyrodilic_Spadetail.md), [Hackle-Lo Leaf](Skyrim_Hackle-Lo_Leaf.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.27** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Salt Pile](Skyrim_Salt_Pile.md), [Small Pearl](Skyrim_Small_Pearl.md), [Yellow Mountain Flower](Skyrim_Yellow_Mountain_Flower.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> (**1.25** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)) |
+| **[](Skyrim_Lingering_Damage_Stamina.md) [Lingering Damage Stamina](Skyrim_Lingering_Damage_Stamina.md)** | [Bittergreen Petals](Skyrim_Bittergreen_Petals.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Butterfly Wing](Skyrim_Butterfly_Wing.md), [Chicken's Egg](Skyrim_Chicken%27s_Egg.md), [Daedra Silk](Skyrim_Daedra_Silk.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Hawk's Egg](Skyrim_Hawk%27s_Egg.md)<sup>[HF](Skyrim_Hearthfire.md)</sup>, [Kagouti Hide](Skyrim_Kagouti_Hide.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Luminous Russula](Skyrim_Luminous_Russula.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**2** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **2.14** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)) |
+| **[](Skyrim_Damage_Health.md) [Damage Health](Skyrim_Damage_Health.md)** | [Crimson Nirnroot](Skyrim_Crimson_Nirnroot.md) (**3.0** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Ectoplasm](Skyrim_Ectoplasm.md), [Emperor Parasol Moss](Skyrim_Emperor_Parasol_Moss.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [Falmer Ear](Skyrim_Falmer_Ear.md), [Fire Petal](Skyrim_Fire_Petal.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Gnarl Bark](Skyrim_Gnarl_Bark.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Human Flesh](Skyrim_Human_Flesh.md), [Human Heart](Skyrim_Human_Heart.md), [Imp Gall](Skyrim_Imp_Gall.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Imp Stool](Skyrim_Imp_Stool.md), [Jarrin Root](Skyrim_Jarrin_Root.md) (**100** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Mort Flesh](Skyrim_Mort_Flesh.md)<sup>[CC](Skyrim_Plague_of_the_Dead.md)</sup>, [Nirnroot](Skyrim_Nirnroot.md) (**12.6** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Poison Bloom](Skyrim_Poison_Bloom.md)<sup>[DG](Skyrim_Dawnguard.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Red Mountain Flower](Skyrim_Red_Mountain_Flower.md), [Redwort Flower](Skyrim_Redwort_Flower.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [River Betty](Skyrim_River_Betty.md) (**2.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png)), [Scalon Fin](Skyrim_Scalon_Fin.md)<sup>[CC](Skyrim_Rare_Curios.md)</sup> (**1.5** × [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png), **1.56** × [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png)), [Skeever Tail](Skyrim_Skeever_Tail.md), [Troll Fat](Skyrim_Troll_Fat.md), [Void Salts](Skyrim_Void_Salts.md) |
+
+## Ingredients
+2-3<sup>([DG](Skyrim_Dawnguard.md))</sup> guaranteed samples can be found in 2-3<sup>([DG](Skyrim_Dawnguard.md))</sup> different locations:
+
+- [Japhet's Folly Towers](Skyrim_Japhet%27s_Folly_Towers.md) ([Winterhold](Skyrim_Winterhold_(region).md))
+- [Rimerock Burrow](Skyrim_Rimerock_Burrow.md) ([Haafingar](Skyrim_Haafingar.md))
+- [Volkihar Keep](Skyrim_Volkihar_Keep.md)<sup>([DG](Skyrim_Dawnguard.md))</sup>
+
+This ingredient is **not** in the `Vendor Item Ingredient` category that allows it to be traded by apothecary merchants (see [bugs](#Bugs)).
+
+The only way to make this ingredient become available from apothecary merchants is to unlock the [Merchant](Skyrim_Merchant_(perk).md) perk (requires level 50 [Speech](Skyrim_Speech.md)), at which point it is a "common" ingredient.
+
+Remaining ways to obtain already-harvested small antlers all have relatively low probabilities. The best bets are:
+
+- [Peddlers](Skyrim_Peddler.md) may be randomly encountered in the wilderness (typically being attacked). These peddlers have an 8% chance of carrying 1-3 samples.
+- Various ingredient-specific barrels have a 17% chance of containing 1-5 sample.
+- Uncommon- and rare-type [apothecary's satchels](Skyrim_Apothecary%27s_Satchel.md) have a 2% chance of containing one.
+- [Warlocks](Skyrim_Warlock.md) and [Forsworn](Skyrim_Forsworn.md) have a 0.5% chance of carrying one.
+
+## Creatures
+There is a 50% chance that a female elk will drop small antlers, in addition to [venison](Skyrim_Venison.md) and [deer hide](Skyrim_Deer_Hide.md).
+
+## Bugs
+- This ingredient cannot normally be bought from apothecary merchants, even though it should be available according to their merchandise leveled lists. It also cannot be sold to apothecary merchants; it can only be sold to general goods merchants. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2, fixes this bug.

@@ -1,0 +1,67 @@
+# Sunderstone Gorge
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) \| Cave: <br> Sunderstone Gorge <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Sunderstone+Gorge)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Sunderstone Gorge <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Sunderstone+Gorge)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Sunderstone Gorge <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Sunderstone+Gorge)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](Skyrim_Respawn.md) | 10 days or 30 days | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 2 | |
+| Occupants | | |
+| [Warlocks](Skyrim_Warlock.md), [Skeletons](Skyrim_Skeleton.md), [Skeever](Skyrim_Skeever.md) | | |
+| Important Treasure | | |
+| *[2920, Frostfall, v10](Skyrim_2920,_Frostfall,_v10.md)* <br> [Unusual Gem](Skyrim_Quest_Items.md#Unusual_Gem) | | |
+| Console Location Code(s) | | |
+| Sunderstone Gorge Exterior01, Sunderstone Gorge01 | | |
+| Region | | |
+| [Falkreath Hold](Skyrim_Falkreath_Hold.md) | | |
+| Location | | |
+| North-northwest of [Falkreath](Skyrim_Falkreath.md) <br> East of [Bilegulch Mine](Skyrim_Bilegulch_Mine.md) | | |
+| Special Features | | |
+| [Word Wall](Skyrim_Word_Wall.md) | [Fire Breath](Skyrim_Fire_Breath.md) | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 2 | |
+| # of [Arcane Enchanters](Skyrim_Arcane_Enchanters.md) | 1 | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Silver](Skyrim_Silver_Ore.md) | 4 | |
+
+[![](https://images.uesp.net/thumb/e/e1/SR-place-Sunderstone_Gorge.jpg/200px-SR-place-Sunderstone_Gorge.jpg)](https://en.uesp.net/wiki/File:SR-place-Sunderstone_Gorge.jpg) [](https://en.uesp.net/wiki/File:SR-place-Sunderstone_Gorge.jpg) Sunderstone Gorge **Sunderstone Gorge** is a small [cave](Skyrim_Caves.md) north-northwest of [Falkreath](Skyrim_Falkreath.md) containing [warlocks](Skyrim_Warlock.md) and [skeletons](Skyrim_Skeleton.md). It contains only one zone, *[Sunderstone Gorge](#Sunderstone_Gorge)*.
+
+Its [word wall](Skyrim_Word_Wall.md) teaches part of the [Fire Breath](Skyrim_Fire_Breath.md) [dragon shout](Skyrim_Dragon_Shouts.md).
+
+## Related Quests
+- **[No Stone Unturned](Skyrim_No_Stone_Unturned.md)**: Find the [24 gems](Skyrim_Unusual_Gem.md) to restore the Crown of Barenziah.
+
+#### [Radiant Quests](Skyrim_Radiant.md)
+- **[Arniel's Endeavor](Skyrim_Arniel%27s_Endeavor.md)**: Uncover an ancient Dwemer secret.
+- **[Dungeon Delving](Skyrim_Dungeon_Delving_(Caves).md)**: Do a favor by retrieving an item from a cave.
+- **[Onmund's Request](Skyrim_Onmund%27s_Request.md)**: Help [Onmund](Skyrim_Onmund.md) negotiate the return of a family amulet from [Enthir](Skyrim_Enthir.md).
+- **[Hunting the Monster](Skyrim_Hunting_the_Monster.md)**<sup>[DG](Skyrim_Dawnguard.md)</sup>: Destroy the [vampire](Skyrim_Vampire.md) target.
+
+## Walkthrough
+
+### Exterior
+Two sets of skeletal remains and blood splashed cairns lead up to the gorge's mountain entrance. A single, leveled [necromancer](Skyrim_Necromancer.md) is found standing beside the entrance and will try to bar your entry. They can be very hard to spot from any distance as they blend in very well.
+
+### Sunderstone Gorge
+Once inside the path leads downward to the first of many [pressure plates](Skyrim_Pressure_Plate.md) that triggers a [falling boulders](Skyrim_Falling_Boulders.md) trap. It is best to avoid this trap, as setting it off carries you, along with the boulders, down past some skeletal remains and over to a necromancer sitting by a fire. There are three pieces of firewood beside the fire. By avoiding the trap, you have the elevated advantage for a ranged attack on the mage. At the bottom of the path the gorge turns eastward into a narrow passage.
+
+[![](https://images.uesp.net/thumb/7/71/SR-interior-Sunderstone_Gorge.jpg/200px-SR-interior-Sunderstone_Gorge.jpg)](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge.jpg) The second trap The passage opens up into a space with a second pressure plate that triggers a [swinging mammoth skull](Skyrim_Traps.md#Skull_Ram) trap. A skeleton patrols the small cavity occupied by the trap. The crevice through which you pass into this area is narrow, so activating the plate from a distance with [Magelight](Skyrim_Magelight.md) or a ranged shot with a bow can trigger the ram, allowing safe clearance and dealing with the skeleton simultaneously. Another possibility is to touch the plate and quickly jump backward into the safety of the narrow passage, though if your follower is too close behind you this could be disastrous. A random [potion of healing](Skyrim_Potion_of_Minor_Healing.md) and large [coin purse](Skyrim_Coin_Purse.md) can be found on a small ledge just behind the mammoth skull, on the east wall. The path continues through a narrow passage on the south wall. Watch for the [bone chimes](Skyrim_Bone_Chimes.md) which may alert enemies lurking farther along.
+
+A skeleton waits around the right corner in the next room. Before entering, note the pressure plate next to the left corner of the opening next to an [oil slick](Skyrim_Oil_Slick.md). This triggers a [flame spout trap](Skyrim_Flame_Spout_Trap.md). Safely igniting the slick from your position in the passage will clear the low-level enemies within. A [silver ore vein](Skyrim_Silver_Ore_Vein.md) is on the eastern wall to the right of a side passage. In this passage is a ledge used as a shortcut exit later. Here you will find an [urn](Skyrim_Urn.md) and three additional silver ore veins, one on the right and two on the left walls, with a [skeever](Skyrim_Skeever.md) lurking between them. The main path continues north through a crevice revealing the open sky above, with water raining down into the pathway feeding the plentiful [hanging moss](Skyrim_Hanging_Moss.md) you can harvest along the way.
+
+[![](https://images.uesp.net/thumb/d/d2/SR-interior-Sunderstone_Gorge_02.jpg/200px-SR-interior-Sunderstone_Gorge_02.jpg)](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge_02.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge_02.jpg) Oil lanterns everywhere Note where the oil slick on the floor begins again and the numerous [oil lanterns](Skyrim_Oil_Lanterns.md) hanging from above. A necromancer, a skeleton, and two [fire mages](Skyrim_Fire_Mage.md) await on the raised platform and in the clearing ahead. You can use the oil and lanterns for a preemptive strike; however, this alerts all enemies to your presence and location. A pressure plate triggering a [spike wall](Skyrim_Spike_Wall.md) is at the mouth of the clearing, just below the raised platform. Avoid it, or make use of it during battle. Opposite this, against the wall is an open crate containing a sheaf of [wheat](Skyrim_Wheat.md) and two potatoes. Beside the crate sits a barrel with a hammer, a lantern, a bottle of ale, and a coin purse. When the area is clear, a small room to the right contains an adept-locked chest. There is nothing of note in the area behind the spike wall, so continue up the two ramps to a landing. On the landing look directly ahead, to the south, for a bucket on the ground. Behind the bucket, tucked into a niche, is an apprentice-locked chest. Follow the bridge across the room, heading east to an intersection. Take a left at the intersection to find a wooden door leading to the next room along the eastern wall.
+
+The doors open to the living quarters where a fire mage and a leveled [conjurer](Skyrim_Conjurer.md) are waiting. Another oil slick is on the floor if you wish to make use of it. A [spellcaster trap](Skyrim_Spellcaster_Trap.md) shooting flames is immediately to the right before the room opens up. Dodge the flames and remove the [soul gem](Skyrim_Soul_Gems.md) to disable the trap. Three [spider eggs](Skyrim_Spider_Egg.md) are found in a broken urn to the left of the first pillar, with an [orange dartwing](Skyrim_Orange_Dartwing.md) in a second broken urn along with a large stone pot against the same wall. On the right side of the room, just past the soul gem trap, a wooden door opens to a storage room. Opening the door will trigger a [poison dart trap](Skyrim_Dart_Trap.md) unless the adept-locked tension cable is first disarmed. The darts are easy to avoid by standing to the far left of the door and then opening it. Inside is a shelf with a random [soul gem](Skyrim_Soul_Gems.md), an [apothecary's satchel](Skyrim_Apothecary%27s_Satchel.md) and a chest. Next to the storage room is an [alchemy lab](Skyrim_Alchemy_Lab.md). A number of ingredients and a potion are on the table with the lab, but may have been flung about in the skirmish. On the table, or around it on the floor, find a potion, three bunches of [juniper berries](Skyrim_Juniper_Berries.md), a bowl of [fire salts](Skyrim_Fire_Salts.md), a piece of [canis root](Skyrim_Canis_Root.md) and a bowl of [moon sugar](Skyrim_Moon_Sugar.md). Farther in the room are three holding cells containing nothing of interest. Across from the cells, the room opens up into the living quarters. On the dresser by the two beds find some loose septims and a [deathbell](Skyrim_Deathbell.md) flower. A [cooking spit](Skyrim_Cooking_Spit.md) and a shelf with a mage's robe are against the wall. In the alcove at the far end of the room, nestled in the rubble is a master-locked chest. To the left is a plinth with a random helmet and to the right is the narrow trail leading onward.
+
+[![](https://images.uesp.net/thumb/b/bc/SR-interior-Sunderstone_Gorge_03.jpg/200px-SR-interior-Sunderstone_Gorge_03.jpg)](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge_03.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Sunderstone_Gorge_03.jpg) The word wall The trail takes you to an iron door that opens to a large room with two fire mages on the dais. A [flame atronach](Skyrim_Flame_Atronach.md) will join in the fray when you enter the room. Battle your way up the stairs to the word wall with a part of the Fire Breath shout (see [bugs](#Bugs)). In front of the wall is a bier with the body of a [Wood Elf](Skyrim_Wood_Elf_(dead).md), a [Redguard](Skyrim_Redguard_(dead).md), and an [unusual gem](Skyrim_Unusual_Gem.md). To the right is the boss chest, an [arcane enchanter](Skyrim_Arcane_Enchanter.md), an urn, and two small [burial urns](Skyrim_Burial_Urn.md). In the center of the platform a copy of the [Conjuration](Skyrim_Conjuration.md) [skill book](Skyrim_Skill_Books.md) *[2920, Frostfall, v10](Skyrim_2920,_Frostfall,_v10.md)* is on a plinth with a random soul gem on stands, on either side. A bowl of fire salts and a random potion are on the embalming table on the way out. Activate the chain to the left of the portcullis to access the next room. The small work area is lined with shelves. The first shelf to the left holds a bowl of [vampire dust](Skyrim_Vampire_Dust.md) and an amethyst. The next shelf holds a [scroll of fireball](Skyrim_Scroll_of_Fireball.md), a [scroll of conjure familiar](Skyrim_Scroll_of_Conjure_Familiar.md), and a [scroll of cure wounds](Skyrim_Scroll_of_Cure_Wounds.md), along with a garnet. On the other side of the room is an alchemy lab, with a potion, a bowl of fire salts, a sample of [creep cluster](Skyrim_Creep_Cluster.md), and a piece of canis root. Next is an urn and then a set of shelves with a cast iron pot. Looking inside the pot you will find a sample of [giant lichen](Skyrim_Giant_Lichen.md) and a [human heart](Skyrim_Human_Heart.md). The pull chain to exit is next to the urn. The path out takes you to the short side passage you visited previously, only now you are on the stone wall looking down. On the far wall, above the giant stone face, there is a coin purse that you can shoot down, use [Telekinesis](Skyrim_Telekinesis.md), or use an area effect spell to dislodge. Once you have it, jump down and backtrack to exit the gorge.
+
+## Notes
+- In addition to the frequent patches of oil throughout the dungeon, there is a circle of oil before the stairs leading up into the room with the final chest. As you approach it, a flame atronach will be summoned through a portal. The atronach can ignite the oil slick; the resulting explosion will damage and possibly kill the atronach.
+- The campfire after the rock trap has damaging flames, similar to those found around [Yisra](Skyrim_Yisra.md)'s corpse. They will damage anyone who stands in them, be it you, a follower, or the hostile mage tending the fire.
+
+## Bugs
+- This location is referred to as "Greywater Gorge" in game letters and your quest journal. - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.9, fixes this bug.
+- At the word wall, you may encounter a bug where the word is absorbed as normal but doesn't appear in the Shouts menu and you cannot unlock it. This is permanent. - This may possibly be avoided by approaching the word wall from the left.
+- The mage leaning against the wall on the catwalk shortly after the entrance cannot be hit by arrows while in that area.

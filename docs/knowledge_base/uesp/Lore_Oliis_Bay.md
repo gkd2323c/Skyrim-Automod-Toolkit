@@ -1,0 +1,21 @@
+# Oliis Bay
+
+| Oliis Bay | |
+| --- | --- |
+| Type | Body of Water |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Black Marsh](Lore_Black_Marsh.md) |
+| Appears in | *[The Infernal City](https://en.uesp.net/wiki/Books:Greg_Keyes_Novels/Places#Oliis_Bay)*, [ESO](https://en.uesp.net/wiki/Online:Murkmire) |
+
+[![](https://images.uesp.net/thumb/d/d1/ON-place-Oliis_Bay.jpg/200px-ON-place-Oliis_Bay.jpg)](https://en.uesp.net/wiki/File:ON-place-Oliis_Bay.jpg) [](https://en.uesp.net/wiki/File:ON-place-Oliis_Bay.jpg) Oliis Bay circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/8/81/LO-map-Black_Marsh_%28Oblivion_Codex%29.jpg/200px-LO-map-Black_Marsh_%28Oblivion_Codex%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Black_Marsh_(Oblivion_Codex).jpg) [](https://en.uesp.net/wiki/File:LO-map-Black_Marsh_(Oblivion_Codex).jpg) Map showing Lilmoth and Oliis Bay Oliis Bay is a large body of water found in southeastern [Black Marsh](Lore_Black_Marsh.md), forming the east coast of [Murkmire](Lore_Murkmire.md). It was named by the [Imperials](Lore_Imperial.md) when they laid claim over the province's coastlines.<sup>[[1]](#cite_note-TIC-1)</sup><sup>:33</sup> The city of [Lilmoth](Lore_Lilmoth.md) is found at the mouth of the bay, where it connects to the [Southern Sea](Lore_Southern_Sea.md).<sup>[[2]](#cite_note-2)</sup>
+
+In addition to Lilmoth, the villages of [Bright-Throat](Lore_Bright-Throat_Village.md) and [Root-Whisper](Lore_Root-Whisper_Tribe.md) are on the Murkmire side of the bay, perched on rocky cliffs that overlook the waters. The [Xinchei-Konu Monument](Lore_Xinchei-Konu_Monument.md) is found in the lowlands, where the water flows into the grassy fields east of Lilmoth.<sup>[[3]](#cite_note-ESOMurkmire-3)</sup> On the eastern side of the bay is the town of [Rockpark](https://en.uesp.net/wiki/Lore:Rockpark). Along its northern coast are small rivers that lead deeper into Black Marsh, towards [Middle Argonia](Lore_Middle_Argonia.md). To the northwest, Oliis Bay connects to a river that flows from the city of [Blackrose](Lore_Blackrose.md). To the north of the bay, the village of Seaspring and the dark forest of [Murkwood](Lore_Murkwood.md) can be found.<sup>[[4]](#cite_note-ARMap-4)</sup>
+
+A thick wall of [mangrove](Lore_Flora_M.md#Mangrove) trees thrives along the shore about ten miles from Lilmoth.<sup>[[1]](#cite_note-TIC-1)</sup><sup>:53</sup> They form a nigh-impenetrable wall, and look like thousands of [giant spiders](https://en.uesp.net/wiki/Lore:Giant_Spider) with their legs interlocked. An Argonian folktale claims that's exactly what they once were. These giant spiders apparently garnered the [Hist](Lore_Hist.md)'s wrath during an ancient conflict, and were transformed into trees.<sup>[[1]](#cite_note-TIC-1)</sup><sup>:52</sup> The Oliis Bay features all sorts of aquatic fauna but the rarest fish includes the [Fat Sleeper](Lore_Fat_Sleeper.md), the [Longlure Eelfin](Lore_Longlure_Eelfin.md), and the [Spotted Seatrout](Lore_Spotted_Seatrout.md).<sup>[[5]](#cite_note-ONFishing-5)</sup> In the deep waters off the coast of Lilmoth, there are the Sea drakes.<sup>[[1]](#cite_note-TIC-1)</sup><sup>:50</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TIC_1-0)***</sup><sup>***[b](#cite_ref-TIC_1-1)***</sup><sup>***[c](#cite_ref-TIC_1-2)***</sup><sup>***[d](#cite_ref-TIC_1-3)***</sup> Keyes, Greg. *[The Infernal City](https://en.uesp.net/wiki/Books:The_Infernal_City)*. Del Rey Books, 2009.
+2. [^](#cite_ref-2) [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+3. [^](#cite_ref-ESOMurkmire_3-0) [Murkmire](https://en.uesp.net/wiki/Online:Murkmire) region in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+4. [^](#cite_ref-ARMap_4-0) [Map of Black Marsh – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Black_Marsh_towns.png)
+5. [^](#cite_ref-ONFishing_5-0) [Murkmire](https://en.uesp.net/wiki/Online:Fishing) fishing catch in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*

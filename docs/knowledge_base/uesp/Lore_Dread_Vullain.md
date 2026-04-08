@@ -1,0 +1,27 @@
+# Dread Vullain
+
+| Dread Vullain | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) |
+| Region | [Greenshade](Lore_Greenshade.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Vullain_Haven), [ESO](https://en.uesp.net/wiki/Online:Dread_Vullain) |
+
+[![](https://images.uesp.net/thumb/b/be/ON-place-Dread_Vullain.jpg/200px-ON-place-Dread_Vullain.jpg)](https://en.uesp.net/wiki/File:ON-place-Dread_Vullain.jpg) [](https://en.uesp.net/wiki/File:ON-place-Dread_Vullain.jpg) Dread Vullain circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/e/e3/AR-place-Vullain_Haven.jpg/200px-AR-place-Vullain_Haven.jpg)](https://en.uesp.net/wiki/File:AR-place-Vullain_Haven.jpg) [](https://en.uesp.net/wiki/File:AR-place-Vullain_Haven.jpg) Vullain Haven during the Simulacrum Dread Vullain (also called **Vullain Haven**<sup>[[1]](#cite_note-Arena-1)</sup> or simply **Vullain**<sup>[[2]](#cite_note-Malgoth-2)</sup>) is a village located in the region of [Greenshade](Lore_Greenshade.md), within the province of [Valenwood](Lore_Valenwood.md). Unlike the rest of Valenwood, the Wood Elven hunters of Vullain sworn loyalty to the [nereid](Lore_Nereid.md) in the region.<sup>[[2]](#cite_note-Malgoth-2)</sup>
+
+## History
+Vullain was a notable settlement in the early years, especially when their allegiance with the nereid was known. The people are known for being hunters, but not fully-fledged warriors, as their archery and swordsmanship could only take them so far.<sup>[[3]](#cite_note-Elphirion-3)</sup>
+
+At one point, General [Malgoth](Lore_Malgoth.md) of the Blackroot Clan had attempted to unite all of Northern Valenwood under his leadership, and so he began his conquest with Vullain. He saw their allegiance to the nereid as sacrilegious, forsaken the race's undying worship of [Y'ffre](Lore_Y%27ffre.md). Malgoth's war council unanimously agreed on Vullain, to set an example across Valenwood. The following day, Malgoth's forces had ransacked Vullain.<sup>[[2]](#cite_note-Malgoth-2)</sup> Prior to this, the Wood Elves of Vullain had pleaded to the nereid, who gave them a poison to consume themselves. Knowing that General Malgoth would adhere to the Meat Mandate of the [Green Pact](Lore_Green_Pact.md), the Wood Elves injected poison as the village was destroyed.<sup>[[3]](#cite_note-Elphirion-3)</sup> Malgoth's forces partook the Meat Mandate but would later succumb to the people's poisoned corpses. Malgoth attempted to beg for a cure from the nereids, but was denied.<sup>[[2]](#cite_note-Malgoth-2)</sup> Ever since then, Vullain adopted the name, *Dread Vullain*, and it became a haunted site.
+
+During the [Interregnum](Lore_Interregnum.md) in [2E 582](Lore_Second_Era.md#2E_582), the site of Dread Vullain would be visited by the [Veiled Heritance](Lore_Veiled_Heritance.md). The Shade of [Naemon](Lore_Naemon.md) had resurrected the Blackroot Clan, having them serve the Shade through the [Rite of Theft](Lore_Bosmer.md#The_Rite_of_Theft). The Shade had stolen General Malgoth's bow, which led to their position in Dread Vullain. An [Agent](Lore_Soulless_One.md) of the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md), along with the mage, [Indaenir](Lore_Indaenir.md) would traverse Dread Vullain and uncover the mystery surrounding the site. Once the two found Malgoth's remains, they were brought to the [Shadow Wood](Lore_Shadow_Wood.md), a corrupted form of Valenwood created by the Shade of Naemon. It was here, the two acquired the bow of Malgoth. The Agent had invoked the Rite of Theft and so Malgoth's forces were at the Aldmeri Dominion's command. Whether they were used in the battle against Naemon, or if they were released is unknown, regardless, Dread Vullain was liberated from Naemon.<sup>[[4]](#cite_note-4)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the village of Vullain Haven was an active settlement, being ruled by Lord Silman. It had a rivalry with Glenpoint.<sup>[[1]](#cite_note-Arena-1)</sup> It was neighbored by several settlements, including [Longhaven](Lore_Longhaven.md) in the east, and [Woodhearth](Lore_Woodhearth.md) in the northwest.<sup>[[5]](#cite_note-Map Arena-5)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Arena_1-0)***</sup><sup>***[b](#cite_ref-Arena_1-1)***</sup> [Vullain Haven](https://en.uesp.net/wiki/Arena:Vullain_Haven) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. ^ <sup>***[a](#cite_ref-Malgoth_2-0)***</sup><sup>***[b](#cite_ref-Malgoth_2-1)***</sup><sup>***[c](#cite_ref-Malgoth_2-2)***</sup><sup>***[d](#cite_ref-Malgoth_2-3)***</sup> [*General Malgoth's Journal*](Lore_General_Malgoth%27s_Journal.md) — [General Malgoth](Lore_Books_by_Author.md#General_Malgoth)
+3. ^ <sup>***[a](#cite_ref-Elphirion_3-0)***</sup><sup>***[b](#cite_ref-Elphirion_3-1)***</sup> [*Elphirion's Journal*](https://en.uesp.net/wiki/Lore:Elphirion%27s_Journal) — [Elphirion](Lore_Books_by_Author.md#Elphirion)
+4. [^](#cite_ref-4) [Right of Theft](https://en.uesp.net/wiki/Online:Right_of_Theft) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Map Arena_5-0) [Map of Valenwood – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Valenwood_towns.png)

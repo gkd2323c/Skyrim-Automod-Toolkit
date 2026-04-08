@@ -1,0 +1,53 @@
+# Forte
+
+| Grand Maestro Forte | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Grand Maestro Forte.jpg](https://images.uesp.net/thumb/6/6a/ON-npc-Grand_Maestro_Forte.jpg/200px-ON-npc-Grand_Maestro_Forte.jpg)](https://en.uesp.net/wiki/File:ON-npc-Grand_Maestro_Forte.jpg) Grand Maestro Forte | | | |
+| Race | [Altmer](Lore_Altmer.md) | Gender | Male |
+| Resided in | [Rellenthil](Lore_Rellenthil.md), [Summerset Isle](Lore_Summerset_Isle.md) | | |
+| Previous Ruler | [Ingress](https://en.uesp.net/wiki/Lore:Ingress) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Grand_Maestro_Forte) | | |
+
+[![](https://images.uesp.net/thumb/c/ca/ON-prerelease-Rellenthil.jpg/200px-ON-prerelease-Rellenthil.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Rellenthil.jpg) [](https://en.uesp.net/wiki/File:ON-prerelease-Rellenthil.jpg) The Amphitheater of Rellenthil *There are many voices within my troupe, all passionate, but not always cohesive. I simply lend my ear and give wisdom when needed. A voice of logic when many are led by their hearts. That is all.*
+—Grand Maestro Forte<sup>[[1]](#cite_note-GMF-1)</sup> **Grand Maestro** Forte was an [Altmer](Lore_Altmer.md) scholar, performer, and the leader of the [House of Reveries](Lore_House_of_Reveries.md), and a renowned scholar of ancient languages in addition to his theatrical talents.<sup>[[2]](#cite_note-RI-2)</sup><sup>[[3]](#cite_note-Andewen-3)</sup><sup>[[4]](#cite_note-GMFR-4)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/0a/ON-place-Ebon_Stadmont_02.jpg/200px-ON-place-Ebon_Stadmont_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Ebon_Stadmont_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Ebon_Stadmont_02.jpg) Ebon Stadmont [![](https://images.uesp.net/thumb/e/e5/ON-place-Manor_of_Masques.jpg/200px-ON-place-Manor_of_Masques.jpg)](https://en.uesp.net/wiki/File:ON-place-Manor_of_Masques.jpg) [](https://en.uesp.net/wiki/File:ON-place-Manor_of_Masques.jpg) Manor of Masques Not much is known about Forte's early life, but at some point, he left his birth name behind and became a member of the House of Reveries. He eventually rose to the position of Maestro within the faction.<sup>[[1]](#cite_note-GMF-1)</sup>
+
+During the mid- [Second Era](Lore_Second_Era.md), he embarked on an expedition to [Ebon Stadmont](Lore_Ebon_Stadmont.md) along with a troupe. During their journey, Forte and his entourage focused on studying the mysterious [ancient language of the ruin](Lore_Ebon_Stadmont.md#Language), leading to his successful translation of several stanzas of poems. However, not everyone returned unscathed, as one of his associates named Fletch was driven deeper into Ebon Stadmont by a malevolent spirit residing within the ruins.<sup>[[5]](#cite_note-5)</sup><sup>[[6]](#cite_note-TES-6)</sup><sup>[[7]](#cite_note-Fletch-7)</sup>
+
+He shared his language research with Ritemaster [Iachesis](Lore_Iachesis.md) of the [Psijic Order](Lore_Psijic_Order.md). He concluded it was ancient and alien, not native to anywhere on [Nirn](Lore_Nirn.md). He did note, however, that it bore a resemblance to [Daedric](Lore_Daedra.md).<sup>[[2]](#cite_note-RI-2)</sup><sup>[[4]](#cite_note-GMFR-4)</sup> He also studied the Ebon Stadmont itself, not just its mysterious language.<sup>[[8]](#cite_note-EL-8)</sup>
+
+Eventually, the title of Grand Maestro was passed to Forte from his predecessor, an unknown woman, who had received it from her own predecessor,<sup>[[1]](#cite_note-GMF-1)</sup> tracing all the way back to the first Grand Maestro, [Ignress](https://en.uesp.net/wiki/Lore:Ingress).<sup>[[9]](#cite_note-HORTH-9)</sup>
+
+Around [2E 582](Lore_Second_Era.md#2E_582), Andewen, a [Mages Guild](Lore_Mages_Guild.md) member, explored the forest of Ebon Stadmont with an adventurer. During their journey, they encountered the so-called Spirit of Ebon Stadmont, who trapped Andewen in the Ebon Sanctum. In her captivity, she studied the language. The adventurer used the language's power to travel in time, delivering Andewen's future research to her past self before they entered the forest. She published it in the Mages Guild, though it received mostly skeptical reactions. During their time-travel, they briefly met the past Forte.<sup>[[6]](#cite_note-TES-6)</sup>
+
+In the same year, Iachesis sent one of his fellow monks, Oriandra, to translate the ancient words. He suggested that she should reach out to Forte, an expert in ancient languages and obscure dialects. It is unknown if she contacted him, but they utilized his research in their studies. The Psijiics also explored the ruins and their language, believing it connected to Ritemaster Iachesis's concealment of the [Heart of Transparent Law](Lore_Heart_of_Transparent_Law.md) —the Stone of the [Crystal Tower](Lore_Crystal_Tower.md). Inside the ruins, they encountered the Earl of Nocturnal of the Court of Bedlam and learnt that [Nocturnal](Lore_Nocturnal.md) had been researching the language herself under the guise of the Spirit of the Sanctum, employing mortal agents like Fletch and Andewen in her pursuit to claim the Heart.<sup>[[2]](#cite_note-RI-2)</sup><sup>[[10]](#cite_note-LIT-10)</sup>
+
+As a Grand Maestro, Forte had many duties within the House of Reveries. People often recommended other artists to him,<sup>[[11]](#cite_note-Tenor-11)</sup> and he was responsible for approving the plays that the troupe would produce.<sup>[[12]](#cite_note-Candlelight-12)</sup> He was responsible for auditioning the Hopefuls and determining their worthiness to join the troupe.<sup>[[13]](#cite_note-Alchemy-13)</sup><sup>[[14]](#cite_note-Alchemy2-14)</sup><sup>[[15]](#cite_note-MOM-15)</sup> The names of new members should be known only to them, their mentor, and Grand Maestro Forte.<sup>[[16]](#cite_note-HORTA-16)</sup> He selects new members, and also also holds the authority to expel a member if they violate the troupe's rules. Beyond that, his role primarily involves providing guidance to the troupe.<sup>[[1]](#cite_note-GMF-1)</sup> Grand Maestro Forte was described as a delightful employer who took an active role in overseeing various aspects of the work, including hiring individuals for roles such as managing food and cultivating flowers for the productions.<sup>[[17]](#cite_note-Eilayne-17)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Grand_Maestro_Forte) [](https://en.uesp.net/wiki/Online:Summerset_(Chapter)) article.
+
+### Books
+- ***[Grand Maestro Forte's Research](Lore_Grand_Maestro_Forte%27s_Research.md)*** by Grand Maestro Forte
+- ***[Meet the Character - Alchemy of the House of Reveries](Lore_Meet_the_Character_-_Alchemy_of_the_House_of_Reveries.md)*** by [Maestro Engima](Lore_Books_by_Author.md#Maestro_Engima) — A letter regarding the newest addition to a performing troupe
+
+## References
+1. ^ <sup>***[a](#cite_ref-GMF_1-0)***</sup><sup>***[b](#cite_ref-GMF_1-1)***</sup><sup>***[c](#cite_ref-GMF_1-2)***</sup><sup>***[d](#cite_ref-GMF_1-3)***</sup> [Grand Maestro Forte](https://en.uesp.net/wiki/Online:Grand_Maestro_Forte)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+2. ^ <sup>***[a](#cite_ref-RI_2-0)***</sup><sup>***[b](#cite_ref-RI_2-1)***</sup><sup>***[c](#cite_ref-RI_2-2)***</sup> [Ritemaster Iachesis](https://en.uesp.net/wiki/Online:Ritemaster_Iachesis)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+3. [^](#cite_ref-Andewen_3-0) [Andewen](https://en.uesp.net/wiki/Online:Andewen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+4. ^ <sup>***[a](#cite_ref-GMFR_4-0)***</sup><sup>***[b](#cite_ref-GMFR_4-1)***</sup> [*Grand Maestro Forte's Research*](Lore_Grand_Maestro_Forte%27s_Research.md) — Grand Maestro Forte
+5. [^](#cite_ref-5) [*The Language of Ebon Stadmont*](https://en.uesp.net/wiki/Lore:The_Language_of_Ebon_Stadmont) — Unknown
+6. ^ <sup>***[a](#cite_ref-TES_6-0)***</sup><sup>***[b](#cite_ref-TES_6-1)***</sup> Events of [The Ebon Sanctum](https://en.uesp.net/wiki/Online:The_Ebon_Sanctum) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+7. [^](#cite_ref-Fletch_7-0) [Fletch](https://en.uesp.net/wiki/Online:Fletch)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+8. [^](#cite_ref-EL_8-0) [Earl Leythen](https://en.uesp.net/wiki/Online:Earl_Leythen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+9. [^](#cite_ref-HORTH_9-0) [*House of Reveries: The History*](https://en.uesp.net/wiki/Lore:House_of_Reveries__The_History) — [Quill](Lore_Books_by_Author.md#Quill), House of Reveries Archivist
+10. [^](#cite_ref-LIT_10-0) Events of [Lost in Translation](https://en.uesp.net/wiki/Online:Lost_in_Translation) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+11. [^](#cite_ref-Tenor_11-0) [Tenor](https://en.uesp.net/wiki/Online:Tenor)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+12. [^](#cite_ref-Candlelight_12-0) [Candlelight](https://en.uesp.net/wiki/Online:Candlelight)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+13. [^](#cite_ref-Alchemy_13-0) [Alchemy](https://en.uesp.net/wiki/Online:Alchemy_(person))'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+14. [^](#cite_ref-Alchemy2_14-0) [*Meet the Character - Alchemy of the House of Reveries*](Lore_Meet_the_Character_-_Alchemy_of_the_House_of_Reveries.md) — [Maestro Engima](Lore_Books_by_Author.md#Maestro_Engima)
+15. [^](#cite_ref-MOM_15-0) Events of [Manor of Masques](https://en.uesp.net/wiki/Online:Manor_of_Masques) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+16. [^](#cite_ref-HORTA_16-0) [*House of Reveries: The Audition*](https://en.uesp.net/wiki/Lore:House_of_Reveries__The_Audition) — [Quill](Lore_Books_by_Author.md#Quill), House of Reveries Archivist
+17. [^](#cite_ref-Eilayne_17-0) [Eilayne](https://en.uesp.net/wiki/Online:Eilayne)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*

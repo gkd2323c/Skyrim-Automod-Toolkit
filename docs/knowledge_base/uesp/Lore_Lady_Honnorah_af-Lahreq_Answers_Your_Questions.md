@@ -1,0 +1,84 @@
+# Lady Honnorah af-Lahreq Answers Your Questions
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Loremaster's Archive](Lore_Loremaster%27s_Archive.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/25447)) |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+
+Lady Honnorah af-Lahreq Answers Your Questions **by [Lady Honnorah af-Lahreq](Lore_Books_by_Author.md#Honnorah_af-Lahreq)** *A Redguard stable owner answers questions about mounts*
+---
+
+- **"Greetings Lady Honnorah,**
+
+- **I know the beasts are not known to be found in [Hammerfell](Lore_Hammerfell.md), and therefore I would understand your limited understanding on them, but could [netches](Lore_Netch.md) (both betty and bull) be utilised as mounts? Due to their ability to float it would seem they would be able to bypass obstacles such as steep climbs, allowing the rider to be able to get to places that were seemingly inaccessible beforehand.**
+
+- **Also, out of curiosity, are you familiar with [Merric at-Aswala](Lore_Merric_at-Aswala.md)? If so, do you know what creature he might have preferred to ride into battle? I never got the chance to ask him due to his sudden workload as the [Fighter's Guild](Lore_Fighters_Guild.md)'s new guild-master.**
+
+- **Yours sincerely, Alena-Draco, Chief Paladin and Matriarch of House Draco"**
+
+- Lady Honnorah af-Lahreq says, *"Do I know Merric? He is my cousin! As a [Redguard](Lore_Redguard.md) [Gallant](Lore_Gallants_of_Hammerfell.md), and more importantly an Aswala, quite naturally he rides a [Yokudan Charger](Lore_Yokudan_Charger.md).*
+
+- *"I have never seen a netch, of course, but I have heard of them. When I was a child I had a [Dark Elf](Lore_Dark_Elf.md) nanny, and she used to tell me Dunmeri folk tales about a character called 'the N'wah Boy,' whose foolish decisions always got him into hilarious predicaments. One story was called 'The N'wah Boy Rides the Netch,' and while I don't remember all the details, I recall that it ended with the lad stranded atop a windmill and stinking of netch gas, which my Elven nanny said was 'worse even than human flatulence.'*
+
+- *"Funny stories aside, I'm afraid flying mounts are entirely a figment of the imagination, and not something anyone will ever see in [Tamriel](Lore_Tamriel.md). The idea is attractive, but quite absurd. And unnecessary—when I gallop my mare Asphodel across the dune sea, I might as well be flying, or at least that's how it feels to me!"*
+
+- **"Greetings to you Lady Honnorah af-Lahreq, Mistress of Mounts! Word has reached my ear of your expertise and knowledge of great steeds new and old. I come bearing a question that arose, as many things do here in East- [Skyrim](Lore_Skyrim.md), from a very intense spat in one of our time-honored taverns.**
+
+- **A Nordic hunter and a 'City [Orc](Lore_Orc.md)' both stood about a table quarreling with one another about whether or not the Orcs of the West truly road great, woolly caterpillar-like beasts as steeds. The local orc proclaimed that his stronghold-dwelling cousins have used the unique beasts for generations, as they allegedly 'were useful for navigating the rocky crags and slopes of [The Reach](Lore_The_Reach.md) and [Wrothgar](Lore_Wrothgar.md) '. My kinsman disagreed vehemently with the pigman's assertions and demanded that he get his thick skull checked, naturally. According to the hunter the only unique mounts he had seen the wild Orcs ride in the western mountains were [bears](Lore_Bear.md), not furred caterpillars. Furthermore, he insisted that his Clan had hunted in The Reach since High-King [One-Eye](Lore_Olaf_One-Eye.md) had conquered the region and not once had they encountered such a creature.**
+
+- **And so, honored Lady, I believe you might have already guessed my question: Are the woolly, caterpillar-steeds of the mountain Orcs a true form of mount to the ever-savage orcs? Or, are they simply fictitious nonsense; a myth conjured up by the barbarians? (It isn't hard to imagine that Orcs, with such naturally low intelligence, could mistake a bear for this 'woolly worm'.) I can only presume that the warriors of the sands would have encountered such steeds during their sacking of Wrothgar had they been real.**
+
+- **I'd appreciate any insight you may have on this matter. As would a great many tavern-owners.**
+
+- **May Owl spread your knowledge,**
+
+- **Jorvald Fjord-Heart, Shaman of the Old-Ways & Keeper of Northern Legends."**
+
+- **< The end of the parchment is stamped with silver wax sigil in the shape of two embattled dragons >**
+
+- Lady Honnorah af-Lahreq says, *"Well, I don't know—I've never seen a bear, but I have seen pictures of them, and I think at a glance one might very well be mistaken for a great woolly caterpillar! Only with too few legs. And the face of a beast rather than an insect. And the distinct lack of a segmented thorax.*
+
+- *"All right, maybe a bear can't be easily mistaken for a giant woolly caterpillar. However, no such beast is mentioned in either De Brazy's 'Steeds of Tamriel' or Luponio's 'Mounts of the World,' so it's probably safe to regard them as mythical. (I've always found the Orcs to be more fanciful than most people think!)"*
+
+- **"Greetings Honnorah, I erect the spines of welcome and grace. I remember buying a [horse](Lore_Horse.md) from your grandfather...may his soul find forever joy underneath the watchful eye of [Tu'whacca](Lore_Tu%27whacca.md) in the [Far Shores](Lore_Far_Shores.md). But let us move that matter behind us, for I came here to speak with you about a somewhat...interesting matter regarding ancient war mounts. Do you remember that talk I had with your grandpapa about my trip to the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md) for my studying of the [giant bats](Lore_Giant_Bat.md) there? Oh, of course you don't...you were practically a baby. But as I was studying these creatures, I was contacted by a strange Orc named Turok who told me that back during the [First Era](Lore_First_Era.md) his people, as well as the [Breton](Lore_Breton.md) city-tribes they fought against, once domesticated the echkin and utilized them as steeds and cattle. At first I was highly suspicious and believed this tardigrade rancher was just merely swinging my tail...before I came into the possession of a famous engraving depicting the making of 'bat-cheese' from the 'long-lost giant dairy bats of [Goldfolly](Lore_Goldfolly.md)'. I found this interesting for two things: one, the idea of bat-cheese sounds delicious; and two, in the background of the engraving you can see armored warriors riding what appears to be outfitted giant bats, and keeping guard over them. Well, I know this may seem out of your field of expertise, but your family are probably the most knowledgeable individuals in regards to Tamrielic Mount Lore that I know in the immediate vicinity. If you would care to share just a little insight into this dear, I would be very grateful." – Eis Vuur Warden, Wayward and Contract Scholar**
+
+- Lady Honnorah af-Lahreq says, *"Bat-cheese not only sounds delicious, it tastes that way, too! Have you ever been to [Ska'vyn](Lore_Ska%27vyn.md)? In the Caverns of Wry, just north of town, the Skav bat-herds breed their own giant dairy bats, fermenting from their milk a delectable cheese that is moist, crumbly, and piquant. Quite delightful, and it pairs well with pomegranate wine! If the bat-cheese of [Goldfolly](Lore_Goldfolly.md) was half as good, it's a shame it's no longer produced there.*
+
+- *"As for riding giant bats, I'm afraid that, large as they are, the creatures simply aren't up to the task of supporting a person's weight while flying. Though quite intimidating with their wings at full spread, giant bats are really quite light—bearing persons two or three times their weight is quite out of the question. But the idea of a flying mount is so appealing that it's a persistent theme in legends and tales from all cultures. However, the dream of a flying mount is really no more than that—a fantasy."*
+
+**
+
+- **"Greetings, my good Lady. Thank you for taking the time to answer some questions from this humble battlemage. I recently visited the former location of the [Aswala Stables](Lore_Aswala_Stables.md) on an official [Covenant](Lore_Daggerfall_Covenant.md) matter (a polite way of saying I was militarily deployed to aid in the forcible removal of the [Dark Anchor](Lore_Dark_Anchor.md) there) and I was saddened to see what had become of the place. I wish you the best of fortune in its eventual restoration and return to its former glory.**
+
+- **I understand you're an expert on both contemporary and historical war mounts, and while I have a scholarly fascination with the subject at large, I must focus my questions on the available resources of the Daggerfall Covenant as a matter of practicality and duty. Thus, I'll keep my inquiries concise.**
+
+- **Firstly, the Yokudan Charger is legendary, and quite a powerful beast as well as a gorgeous one to behold. I must say, the horses of your people rival those from Breton song. Even the steeds of [Saint Pelin](Lore_Saint_Pelin.md) and [Ryain Direnni](Lore_Ryain_Direnni.md) would have met their match, it seems. However, I'm curious as to the overall absence of another famous [Hammerfell](Lore_Hammerfell.md) mount among the Covenant forces. When I visited [Sentinel](Lore_Sentinel.md) in my youth, there were rather more than a few [camels](Lore_Camel.md) to be seen, both as pack animals and as mounts. I've seen several tapestries in [High Rock](Lore_High_Rock.md) and [Colovia](Lore_Colovia.md) depicting full cavalry charges on camelback. Was this ever a common war mount in Hammerfell or [Yokuda](Lore_Yokuda.md), or is this the fancy of Tamrielic natives trying to understand the culture of the Raga *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*?**
+
+- **Secondly, in lieu of a question about Bretonic breeds of horses (I grew up there, and trained extensively for mounted combat, as many young Breton knights and battlemages do), I'd like to hear your opinion on the origin of the Tamrielic horse. Were the Elves already utilizing them before the [Nedes](Lore_Nede.md) arrived from [Atmora](Lore_Atmora.md), or was it my Human ancestors who brought them across on longboats? Or, perhaps, did both [Man](Lore_Man.md) and [Mer](Lore_Mer.md) bring their own strains, and if so, are modern Tamrielic horses hybridizations of Atmoran, [Aldmeri](Lore_Aldmer.md) and [Yokudan](Lore_Yokudan.md) stocks? For that matter, is there any record of the [Akaviri](Lore_Akaviri.md) bringing war mounts with them? I've only ever heard of their sailors and foot soldiers. Any input would be appreciated!" – Legate Cyclenophus of the Bretonic Imperial Restoration Society**
+
+- Lady Honnorah af-Lahreq says, *"There is nothing wrong with camels, as either mounts or pack beasts, and I have the greatest respect for them! Their recent scarcity in Sentinel just shows the power of fad and fashion. Though the Aswala, as keepers of a precious Yokudan legacy, are naturally [Crowns](Lore_Crowns.md), our family was friendly with young Prince [Fahara'jad](Lore_Fahara%27jad.md), although he and his family are [Forebears](Lore_Forebears.md), and provided him with several fine steeds in his youth. When he became king (at least of northern Hammerfell), my cousin Merric suggested that, as a gesture to the Crowns, his majesty might make a strong statement reinforcing the tradition that the most prestigious mount for a Redguard is, and always has been, a well-bred horse, and not the camels the [Ra Gada](Lore_Ra_Gada.md) found here when they arrived on these shores. King Fahara'jad took Merric's suggestion, and suddenly every rider in Sentinel had to be mounted on a horse! (This also happened to be a fortunate turn of events for Aswala Stables.) However, though horses are the finest mounts gallants can ride, they are thirsty beasts, and expensive to maintain, particularly compared to the hardier and less finicky camels. I predict that, within the year, camels will once again be seen on a regular basis in Sentinel, and throughout northern Hammerfell.*
+
+- "*As for the origin of our steeds, mythohistory tells us that since the dawn of time, wherever there have been humans, there have been horses. They seem to have been an integral part of our civilizations going well back into tribal times, which implies that they came from the same places we did: Tamriel, [Atmora](Lore_Atmora.md), and Yokuda. As to the Akaviri, all we know is that the folk of that continent have invaded Tamriel twice, and brought no war-mounts with them either time. Whether that's because they don't use them, or it was just prohibitively difficult to bring them across the [broad eastern ocean](Lore_Padomaic_Ocean.md), I cannot say."*
+
+- **"Lady Honnorah af-Lahreq,**
+**Only a few among the race of Men dwelling in your land, which we shall soon be pleased to call [Hegathe](Lore_Hegathe.md) once more, deserve to be addressed as honoured adversaries. I count you among those few. The fame of the Aswala Stables has reached even [Summerset proper](Lore_Summerset_Isle.md), and one would look quite the fool pretending to deny the peerless virtues of the Yokudan Charger. Moreover, I cannot help but feel that, having devoted your life to breeding perfection from stock brought over from a long-lost continent, you may understand us better than most.**
+**I should be grateful, then, to receive your expert judgement of our own methods of equine husbandry. Have you had the privilege of examining the mounts ridden by the winged Royal [Altmeri](Lore_Altmer.md) Hussars in their signature charge? Further, do you think the graceful kirin has much to recommend it as a steed of war?**
+**With respect, Battlereeve Romilcano of Alinor"**
+
+- Lady Honnorah af-Lahreq says, *"Again with the flying mounts? This has gone far enough. 'Winged Royal Altmeri Hussars' indeed! Next you'll try to persuade me that [Dragons](Lore_Dragon.md) and [Unicorns](Lore_Unicorn.md) are real. I'm afraid your Elven humor is lost on this respectable Redguard matron."*
+
+- **"To Lady Honnorah af-Lahreq, greetings:**
+
+- **In regards to your invitation for queries, I submit the following: what circumstances lead to the domestication of some of the more unusual steeds? And how was it accomplished? The horse seems to be the most widespread of mounts I have seen in my travels, why do you believe this to be the case?**
+
+- **Kind regards, Rohais of [Auridon](Lore_Auridon.md)"**
+
+- Lady Honnorah af-Lahreq says, *"I believe horses are so common among the human cultures because we have always shared a special bond with them. And Elves like them, of course, because they admire anything that embodies grace and elegance. But it must be admitted that horses are not the ideal mount for every climate and terrain, and so other kinds of steeds have been domesticated in various parts of Tamriel: bears in the Wrothgarian Mountains, [senche](Lore_Senche.md) -tigers in the cat-lands of the south, camels in Hammerfell, and of course the many charming breeds of [guar](Lore_Guar.md) bred by the Dark Elves in [Morrowind](Lore_Morrowind.md). Still, as you say, the horse is undoubtedly Tamriel's most popular mount."*
+
+- **"Pleb Honnorah af-Lahreq,**
+
+- **I've read your pamphlet on the Legend of the Yokudan Chargers; however, I would put forward that a strong and stout Colovian bred steed can outmatch one of these sand-eating equine of your people any day! But on to my question, I see many roaming the lands atop Senche Tigers, how are these creatures tamed to a ride able *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* state and are they not just [Khajiit](Lore_Khajiit.md) in another form?**
+
+- **Brutus Verulus, the Hound of [Anvil](Lore_Anvil.md)."**
+
+- Lady Honnorah af-Lahreq says, *"I have been told that the senche-mounts of the Khajiit folk are not nearly as intelligent as their riders, though—confusingly for us non-Khajiit—they do share a name, in part, with two of the cat-folks' furstocks. I must also admit that the [Baandari](Lore_Baandari.md) Pedlar who told me this accompanied his explanation with a broad feline wink, so perhaps the information is not entirely reliable. In order to find out for myself, I've entered into negotiations with a [Riverhold](Lore_Riverhold.md) stablemaster to purchase a black senche-panther mount. This is partly for professional reasons, and partly because, I must confess, I think they look quite fabulous. I can hardly wait to ride it into [Tava's Blessing](Lore_Tava%27s_Blessing.md) on market day!"*

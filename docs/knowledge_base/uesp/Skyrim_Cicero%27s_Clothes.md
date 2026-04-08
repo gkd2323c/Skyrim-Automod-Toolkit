@@ -1,0 +1,19 @@
+# Cicero's Clothes
+
+| --- | --- | --- | --- |
+| **Type** | [Clothes](Skyrim_Clothes.md) | | |
+| **Editor ID** | DBClothes Jester Cicero <br> DBClothes Jester | | |
+| Statistics | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-Warmth_small.png) **Warmth** | 27 | | |
+| | | [](https://en.uesp.net/wiki/File:SR-icon-Warmth_small.png) **Warmth** | 27 |
+| [](File_SR-icon-clothing-Leather_Backpack_(square).png.md) **Weight** | 1 | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) **Value** | 1946/1163 (Jester) |
+| Enchantment | | | |
+| \| *Prices are 20/12% (Jester) better, and damage with One-Handed weapons is 20/12% (Jester) better:* - [Fortify Barter](Skyrim_Fortify_Barter.md), 20/12 (Jester) pts <br> - [Fortify One-Handed](https://en.uesp.net/wiki/Skyrim:Fortify_One-Handed), 20/12 (Jester) pts \| <br> \| --- \| | *Prices are 20/12% (Jester) better, and damage with One-Handed weapons is 20/12% (Jester) better:* - [Fortify Barter](Skyrim_Fortify_Barter.md), 20/12 (Jester) pts <br> - [Fortify One-Handed](https://en.uesp.net/wiki/Skyrim:Fortify_One-Handed), 20/12 (Jester) pts | | |
+| *Prices are 20/12% (Jester) better, and damage with One-Handed weapons is 20/12% (Jester) better:* - [Fortify Barter](Skyrim_Fortify_Barter.md), 20/12 (Jester) pts <br> - [Fortify One-Handed](https://en.uesp.net/wiki/Skyrim:Fortify_One-Handed), 20/12 (Jester) pts | | | |
+
+[![](https://images.uesp.net/thumb/8/87/SR-item-Jester%27s_Clothes.jpg/200px-SR-item-Jester%27s_Clothes.jpg)](https://en.uesp.net/wiki/File:SR-item-Jester%27s_Clothes.jpg) [](https://en.uesp.net/wiki/File:SR-item-Jester%27s_Clothes.jpg) Cicero's Clothes Cicero's Clothes is the clothing worn by their eponymous owner, [Cicero](Skyrim_Cicero.md). This clothing is a part of a set that also include Cicero's [boots](https://en.uesp.net/wiki/Skyrim:Cicero%27s_Boots), [gloves](https://en.uesp.net/wiki/Skyrim:Cicero%27s_Gloves), and [hat](https://en.uesp.net/wiki/Skyrim:Cicero%27s_Hat). As Cicero sees himself as a clown, his clothing's outward appearance reflect this. The outfit is primarily red, with vertical black stripes and golden lines separating the darker collar from the rest of the outfit. There are a number of patches throughout the article of clothing, likely gained throughout Cicero's travels across [Tamriel](Lore_Tamriel.md). The clothing has been enchanted to [fortify bartering](Skyrim_Fortify_Barter.md) ability as well as [fortify one-handed](https://en.uesp.net/wiki/Skyrim:Fortify_One-Handed) ability by twenty points each, making it so that the wearer can get a better deal from merchants, or have an easier time stabbing them if the mood strikes.
+
+Cicero's Clothes can be obtained during [The Cure for Madness](Skyrim_The_Cure_for_Madness.md). If Cicero is slain during this quest, his equipment set can be freely retrieved from his corpse. Alternatively, it can be pickpocketed from him, if you have the [Perfect Touch](Skyrim_Pickpocket.md#Skill_Perks) perk. Another version of this item, the more generic Jester's Clothes, can easily be acquired during the same quest. While entering the [Dawnstar Sanctuary](Skyrim_Dawnstar_Sanctuary.md), the full set of Jester's equipment can be found upon a table right after entering the sanctuary. However, the Jester's Clothes enchantment is of a lower value, only fortifying barter and one-handed by twelve points instead of twenty. Additionally, the Jester's Clothes is worth several hundred fewer gold pieces.
+
+## Related Quests
+- **[The Cure for Madness](Skyrim_The_Cure_for_Madness.md)**: Confront the traitor among the [Dark Brotherhood](Skyrim_Dark_Brotherhood.md).

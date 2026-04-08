@@ -1,0 +1,19 @@
+# Blackwater Brigands
+
+[![](https://images.uesp.net/thumb/5/5d/OB-npc-Lynch.jpg/200px-OB-npc-Lynch.jpg)](https://en.uesp.net/wiki/File:OB-npc-Lynch.jpg) [](https://en.uesp.net/wiki/File:OB-npc-Lynch.jpg) A Blackwater Brigand, wearing the group's emblem on his cuirass The Blackwater Brigands were a group of pirates founded by an [Imperial](Lore_Imperial.md) woman named Selene.
+
+The gang was founded in [Bravil](Lore_Bravil.md) in the late [Third Era](Lore_Third_Era.md). The group consisted of four individuals who made a solemn to let no one else join. Their plan was to hijack *The Bloated Float*, a ship docked at the [Imperial City](Lore_Imperial_City.md) Waterfront, and search it for the Golden Galleon, a statuette made of solid gold. The ship had been purchased by an [Altmer](Lore_Altmer.md) named Ormil and converted into an inn. The tale of the Golden Galleon was in fact a fabrication invented by Ormil to attract business to his inn. Unaware of this, the Blackwater Brigands took Ormil and the inn's bouncer hostage and assumed control of the ship circa [3E 433](Lore_Third_Era.md#3E_433), three months after the group was formed. Unbeknownst to the Brigands, the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) was asleep downstairs during this affair, and awoke to find the ship out at sea. The Hero single-handedly killed every member of the gang aside from Selene, who surrendered when confronted by the Hero's knowledge of their plans.<sup>[[nb 1]](#intnote_nb1)</sup> She was later taken into custody by the [Imperial Watch](Lore_Imperial_Watch.md) when the ship returned to the Imperial City.<sup>[[1]](#cite_note-1)</sup>
+
+The story of the Golden Galleon was seemingly passed down through Selene's descendants, with one of them reviving the group. Circa [4E 201](Lore_Fourth_Era.md#4E_201), the Brigands were nothing more than a small bandit gang led by a woman named Celeste. The group still had ambitions to become pirates, and began searching for the legendary *Dead Man's Dread*, a ship once captained by [Cyrus](Lore_Cyrus.md), which was grounded on [Blackbone Isle](Lore_Blackbone_Isle.md) off the coast of [Skyrim](Lore_Skyrim.md).<sup>[[2]](#cite_note-2)</sup> The Brigands made camp at the wreck of the *Orphan's Tear* to carry out their search for the island, but were killed by the [Last Dragonborn](Lore_Last_Dragonborn.md), who was also searching for this legendary ship.<sup>[[3]](#cite_note-3)</sup>
+
+## Notes
+- | [^](#note_nb1) | Selene's death at the hands of the player character is a possible outcome of the quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*. However, *[Celeste's Note](Skyrim_Celeste%27s_Note.md)* mentions an old Imperial speaking of the Golden Galleon. As explained above, this detail indicates that Selene survived the events and the story of the Golden Galleon was passed down through her descendants, with one of them reviving the group. |
+| --- | --- |
+
+## See Also
+- For game-specific information, see the [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Blackwater_Brigands) and [*Skyrim*](Skyrim_Blackwater_Brigands.md)<sup>[CC](Skyrim_Dead_Man%27s_Dread.md)</sup> articles.
+
+## References
+1. [^](#cite_ref-1) [An Unexpected Voyage](https://en.uesp.net/wiki/Oblivion:An_Unexpected_Voyage) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+2. [^](#cite_ref-2) [*Celeste's Note*](Skyrim_Celeste%27s_Note.md) — [Celeste](Skyrim_Celeste.md)
+3. [^](#cite_ref-3) [The Restless](Skyrim_The_Restless.md) quest in the [Dead Man's Dread](Skyrim_Dead_Man%27s_Dread.md) [Creation](Skyrim_Creation_Club.md) for [Skyrim](Skyrim_Skyrim.md) [Special Edition](Skyrim_Special_Edition.md)

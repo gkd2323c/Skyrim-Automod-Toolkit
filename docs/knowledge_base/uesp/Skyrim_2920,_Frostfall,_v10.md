@@ -1,0 +1,129 @@
+# 2920, Frostfall, v10
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Spell Tome Conjuration.png) Book Information <br> *2920, Frostfall, v10* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01AFEA | | |
+| See Also | [Lore version](Lore_2920,_Frostfall_(v10).md) | | |
+| Up | *[2920, The Last Year of the First Era](https://en.uesp.net/wiki/Skyrim:2920,_The_Last_Year_of_the_First_Era)* | | |
+| Prev. | *[Book Nine: Hearth Fire](Skyrim_2920,_Hearth_Fire,_v9.md)* | Next | *[Book Eleven: Sun's Dusk](Skyrim_2920,_Sun%27s_Dusk,_v11.md)* |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 50 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Conjuration](Skyrim_Conjuration.md) | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Belyn Hlaalu's House](Skyrim_Belyn_Hlaalu%27s_House.md) ([Windhelm](Skyrim_Windhelm.md)), upstairs behind the dresser <br> - 450 ft SSW of [Evergreen Grove](Skyrim_Evergreen_Grove.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)), on an unmarked necromancer's altar [(map)](https://gamemap.uesp.net/sr/?x=-53721&y=-76998&zoom=17&legacy=true) <br> - [Ironbind Barrow](Skyrim_Ironbind_Barrow.md) ([Winterhold](Skyrim_Winterhold_(region).md)) on [Beem-Ja](Skyrim_Beem-Ja.md) (only as part of quest [Coming of Age](Skyrim_Coming_of_Age.md)) <br> - [Sunderstone Gorge](Skyrim_Sunderstone_Gorge.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)), on a pedestal in the room with the word wall <br> - On a summit south of [Geirmund's Hall](Skyrim_Geirmund%27s_Hall.md), carried by a necromancer [(map)](https://gamemap.uesp.net/sr/?x=90909&y=-74026&zoom=17&legacy=true) | | | |
+
+Book Ten of [2920, The Last Year of the First Era](https://en.uesp.net/wiki/Skyrim:2920,_The_Last_Year_of_the_First_Era)
+
+Frostfall **by [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)** *Volume 10 of a historical series about Vivec and the Empire*
+---
+
+- 10 Frostfall, [2920](Lore_First_Era.md#1E_2920)
+- [Phrygias](Lore_Phrygias.md), [High Rock](Lore_High_Rock.md)
+
+The creature before them blinked, senseless, its eyes glazed, mouth opening and closing as if relearning its function. A thin glob of saliva burbled down between its fangs, and hung suspended. Turala had never seen anything of its kind before, reptilian and massive, perched on its hind legs like a man. Mynistera applauded enthusiastically.
+
+"My child," she crowed. "You have come so far in so short a time. What were you thinking when you summoned this [daedroth](Lore_Daedroth.md)?"
+
+It took [Turala](Lore_Turala.md) a moment to recall whether she was thinking anything at all. She was merely overwhelmed that she had reached out across the fabric of reality into the realm of [Oblivion](Lore_Oblivion.md), and plucked forth this loathsome creature, conjuring it into the world by the power of her mind.
+
+"I was thinking of the color red," Turala said, concentrating. "The simplicity and clarity of it. And then -- I desired, and spoke the charm. And this is what I conjured up."
+
+"Desire is a powerful force for a young witch," said Mynistera. "And it is well matched in this instance. For this daedroth is nothing if not a simple force of the spirits. Can you release your desire as easily?"
+
+Turala closed her eyes and spoke the dismissal invocation. The monster faded away like a painting in sunlight, still blinking confusedly. Mynistera embraced her [Dark Elf](Skyrim_Dark_Elf.md) pupil, laughing with delight.
+
+"I never would have believed it, a month and a day you've been with the coven, and you're already far more advanced than most of the women here. There is powerful blood in you, Turala, you touch spirits like you were touching a lover. You'll be leading this coven one day -- I have seen it!"
+
+Turala smiled. It was good to be complimented. The [Duke](Lore_Brindisi_Dorom.md) of [Mournhold](Lore_Mournhold.md) had praised her pretty face; and her family, before she had dishonored them, praised her manners. [Cassyr](Lore_Cassyr_Whitley.md) had been nothing more than a companion: his compliments meant nothing. But with Mynistera, she felt she was home.
+
+"You'll be leading the coven for many years yet, great sister," said Turala.
+
+"I certainly intend to. But the spirits, while marvelous companions and faultless tellers of truth, are often hazy about the when and hows. You can't blame them really. When and how mean so little to them," Mynistera opened the door to the shed, allowing the brisk autumn breeze in to dispel the bitter and fetid smells of the daedroth. "Now, I need you to run an errand to [Wayrest](Lore_Wayrest.md). It's only a week's ride there, and a week's ride back. Bring Doryatha and Celephyna with you. As much as we try to be self-sufficient, there are herbs we can't grow here, and we seem to run through an enormous quantity of gems in no time at all. It's important that the people of the city learn to recognize you as one of the wise women of [Skeffington coven](Lore_Skeffington_Coven.md). You'll find the benefits of being notorious far outweigh the inconveniences."
+
+Turala did as she was bade. As she and her sisters climbed aboard their horses, Mynistera brought her child, little five-month-old Bosriel to kiss her mother good-bye. The witches were in love with the little Dunmer infant, fathered by a wicked Duke, birthed by wild [Ayleid](Lore_Ayleid.md) elves in the forest heart of the Empire. Turala knew her nursemaids would protect her child with their lives. After many kisses and a farewell wave, the three young witches rode off into the bright woods, under a covering of red, yellow, and orange.
+
+- 12 Frostfall, 2920
+- [Dwynnen](Lore_Dwynnen.md), High Rock
+
+For a Middas evening, the Least Loved Porcupine tavern was wildly crowded. A roaring fire in the pit in the center of the room cast an almost sinister glow on all the regulars, and made the abundance of bodies look like a punishment tapestry inspired by [the Arcturian Heresies](https://en.uesp.net/wiki/Skyrim:The_Arcturian_Heresy). Cassyr took his usual place with his cousin and ordered a flagon of ale.
+
+"Have you been to see the Baron?" asked Palyth.
+
+"Yes, he may have work for me in the palace of [Urvaius](Lore_Urvaius_(city).md)," said Cassyr proudly. "But more than that I can't say. You understand, secrets of state and all that. Why are there so many damned people here tonight?"
+
+"A shipload of Dark Elves just came in to harbor. They've come from the war. I was just waiting until you got here to introduce you as another veteran."
+
+Cassyr blushed, but regained his composure enough to ask: "What are they doing here? Has there been a truce?"
+
+"I don't know the full story," said Palyth. "But apparently, the Emperor and [Vivec](Lore_Vivec.md) are in negotiations again. These fellas here have investments they were keen to check on, and they figured things on the Bay were quiet enough. But the only way we can get the full story is to talk to the chaps."
+
+With that, Palyth gripped his cousin's arm and pulled him to the other side of the bar so suddenly, Cassyr would have had to struggle violently to resist. The Dunmer travelers were spread out across four of the tables, laughing with the locals. They were largely amiable young men, well-dressed, befitting merchants, animated in gesture made more extravagant by liquor.
+
+"Excuse me," said Palyth, intruding on the conversation. "My shy cousin Cassyr was in the war as well, fighting for the living god, Vivec."
+
+"The only Cassyr I ever heard of," said one of the Dunmer drunkenly with a wide, friendly smile, shaking Cassyr's free hand. "Was a Cassyr Whitley, who Vivec said was the worst spy in history. We lost [Ald Marak](Lore_Ald_Marak.md) due to his bungling intelligence work. For your sake, friend, I hope the two of you were never confused."
+
+Cassyr smiled and listened as the lout told the story of his failure with bountiful exaggerations which caused the table to roar with laughter. Several eyes looked his way, but none of the locals sought to explain that the fool of the tale was standing at attention. The eyes that stung the most were his cousin's, the young man who had believed that he had returned to Dwynnen a great hero. At some point, certainly, the Baron would hear about it, his idiocy increasing manifold with each retelling.
+
+With every fiber in his soul, Cassyr cursed the living god Vivec.
+
+- 21 Frostfall, 2920
+- The [Imperial City](Lore_Imperial_City.md), [Cyrodiil](Lore_Cyrodiil.md)
+
+Corda, in a robe of blinding whiteness, a uniform of the priestesses of the [Hegathe](Lore_Hegathe.md) [Morwha](Lore_Morwha.md) conservatorium, arrived in the City just as the first winter storm was passing. The clouds broke with sunlight, and the beauteous teenaged [Redguard](Skyrim_Redguard.md) girl appeared in the wide avenue with escort, riding toward the Palace. While her sister was tall, thin, angular, and haughty, Corda was a small, round-faced lass with wide brown eyes. The locals were quick to draw comparisons.
+
+"Not a month after Lady Rijja's execution," muttered a housemaid, peering out the window, and winking to her neighbor.
+
+"And not a month out of the nunnery neither," the other woman agreed, reveling in the scandal. "This one's in for a ride. Her sister weren't no innocent, and look where she ended up."
+
+- 24 Frostfall, 2920
+- [Dwynnen](Lore_Dwynnen_(city).md), High Rock
+
+Cassyr stood on the harbor and watched the early sleet fall on the water. It was a pity, he thought, that he was prone to sea-sickness. There was nothing for him now in [Tamriel](Lore_Tamriel.md) to the east or to the west. Vivec's tale of his poor spycraft had spread to taverns everywhere. The Baron of Dwynnen had released him from his contract. No doubt they were laughing about him in [Daggerfall](Lore_Daggerfall.md), too, and [Dawnstar](Skyrim_Dawnstar.md), [Lilmoth](Lore_Lilmoth.md), [Rimmen](Lore_Rimmen.md), [Greenheart](Lore_Greenheart.md), probably in [Akavir](Lore_Akavir.md) and [Yokuda](Lore_Yokuda.md) for that matter. Perhaps it would be best to drop into the waves and sink. The thought, however, did not stay long in his mind: it was not despair that haunted him, but rage. Impotent fury that he could not assuage.
+
+"Excuse me, sir," said a voice behind him, making him jump. "I'm sorry to disturb you, but I was wondering whether you could recommend an inexpensive tavern for me to spend the night."
+
+It was a young man, a [Nord](Lore_Nord.md), with a sack over his shoulder. Obviously, he had just disembarked from one of the boats. For the first time in weeks, someone was looking at Cassyr as something other than a colossal, famous idiot. He could not help, black as his mood was, but be friendly.
+
+"You've just arrived from [Skyrim](Lore_Skyrim.md)?" asked Cassyr.
+
+"No, sir, that's where I'm going," said the fellow. "I'm working my way home. I've come up from [Sentinel](Lore_Sentinel.md), and before that [Stros M'kai](Lore_Stros_M%27Kai.md), and before that [Woodhearth](Lore_Woodhearth.md) in [Valenwood](Lore_Valenwood.md), and before that [Artaeum](Lore_Artaeum.md) in [Summurset](Lore_Summerset_Isles.md). Welleg's my name."
+
+Cassyr introduced himself and shook Welleg's hand. "Did you say you came from Artaeum? Are you a [Psijic](Skyrim_Psijic_Order.md)?"
+
+"No, sir, not anymore," the fellow shrugged. "I was expelled."
+
+"Do you know anything about summoning daedra? You see, I want to cast a curse against a particularly powerful person, one might say a living god, and I haven't had any luck. The Baron won't allow me in his sight, but the Baroness has sympathy for me and allowed me the use of their Summoning Chambers." Cassyr spat. "I did all the rituals, made sacrifices, but nothing came of it."
+
+"That'd be because of [Sotha Sil](Lore_Sotha_Sil.md), my old master," replied Welleg with some bitterness. "The [Daedra princes](Lore_Daedric_Princes.md) have agreed not to be summoned by any amateurs at least until the war ends. Only the Psijics may counsel with the daedra, and a few nomadic sorcerers and witches."
+
+"Witches, did you say?"
+
+- 29 Frostfall, 2920
+- [Phrygias](Lore_Phrygias.md), High Rock
+
+Pale sunlight flickered behind the mist bathing the forest as Turala, Doryatha, and Celephyna drove their horses on. The ground was wet with a thin layer of frost, and laden down with goods, it was a slippery way over unpaved hills. Turala tried to contain her excitement about coming back to the coven. Wayrest had been an adventure, and she adored the looks of fear and respect the cityfolk gave her. But for the last few days, all she could think of was returning to her sisters and her child.
+
+A bitter wind whipped her hair forward so she could see nothing but the path ahead. She did not hear the rider approach to her side until he was almost upon her. When she turned and saw Cassyr, she shouted with as much surprise as pleasure at meeting an old friend. His face was pale and drawn, but she took it to be merely from travel.
+
+"What brings you back to Phrygias?" she smiled. "Were you not treated well in Dwynnen?"
+
+"Well enough," said Cassyr. "I have need of the Skeffington coven."
+
+"Ride with us," said Turala. "I'll bring you to Mynistera."
+
+The four continued on, and the witches regaled Cassyr with tales of Wayrest. It was evident that it was also a rare treat for Doryatha and Celephyna to leave [Old Barbyn's Farm](Lore_Old_Barbyn%27s_Farm.md). They had been born there, as daughters and grand-daughters of Skeffington witches. Ordinary High Rock city life was exotic to them as it was to Turala. Cassyr said little, but smiled and nodded his head, which was encouragement enough. Thankfully, none of the stories they had heard were about his own stupidity. Or at the very least, they did not tell him.
+
+Doryatha was in the midst of a tale she had heard in a tavern about a thief who had been locked overnight in a pawnshop when they crossed over a familiar hill. Suddenly, she halted in her story. The barn was supposed to be visible, but it was not. The other three followed her gaze into the fog, and a moment later, they rode as fast as they could towards what was once the site of the Skeffington coven.
+
+The fire had long since burned out. Nothing but ashes, skeletons, and broken weaponry remained. Cassyr recognized at once the signs of an orc raid.
+
+The witches fell from their horses, racing through the remains, wailing. Celephyna found a tattered, bloody piece of cloth that she recognized from Mynistera's cloak. She held it to her ashen face, sobbing. Turala screamed for Bosriel, but the only reply was the high whistling wind through the ashes.
+
+"Who did this?" she cried, tears streaking down her face. "I swear I'll conjure up the very flames of Oblivion! What have they done with my baby?"
+
+"I know who did it," said Cassyr quietly, dropping from his horse and walking towards her. "I've seen these weapons before. I fear I met the very fiends responsible in Dwynnen, but I never thought they'd find you. This is the work of assassins hired by the Duke of Mournhold."
+
+He paused. The lie came easily. Adopt and improvise. What's more, he could tell instantly that she believed it. Her resentment over the cruelty the Duke had shown her had quieted, but never disappeared. One look at her burning eyes told him that she would summon the daedra and wreak his, and her, revenge upon Morrowind. And what's more, he knew they'd listen.
+
+And listen they did. For the power that is greater than desire is rage. Even rage misplaced.

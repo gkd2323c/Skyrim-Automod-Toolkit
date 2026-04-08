@@ -1,0 +1,21 @@
+# Meet the Character - Clivia Tharn
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/25429)) |
+| Publication Date: | August 20, 2015 |
+
+My Dear Sister [Clivia](Lore_Clivia_Tharn.md) **by [Magus-General Septima Tharn](Lore_Books_by_Author.md#Magus-General_Septima_Tharn)** *Septima Tharn reminisces her youth with her sister*
+---
+[![ON-render-Clivia Tharn.jpg](https://images.uesp.net/thumb/b/b1/ON-render-Clivia_Tharn.jpg/300px-ON-render-Clivia_Tharn.jpg)](https://en.uesp.net/wiki/File:ON-render-Clivia_Tharn.jpg)
+- **My Dear Sister [Clivia](Lore_Clivia_Tharn.md)**
+
+- From Unpublished Notes for "Life of a Cyrod Daughter," by Magus-General [Septima Tharn](Lore_Septima_Tharn.md)
+
+- Back when we were all studying different parts of [Father](Lore_Abnur_Tharn.md)'s curriculum for world domination, a corner of the [White-Gold Tower](Lore_White-Gold_Tower.md) library was set up as a classroom for me, my sisters, and our tutors. I had a natural talent for spell-work, and by the age of thirteen I was already quite advanced in the family tradition of Battlemagic. However, I always had trouble with combat teleportation, and I remember one day I was working on trying to 'port a rat from one desk to another, when I was distracted by an argument between Clivia and [Euraxia](Lore_Euraxia_Tharn.md). Euraxia was about six years old at this point, and Clivia was seven and a half, but she already wore that haughty majesty that would serve her so well later in life. They were playing the basic version of my father's boardgame, "Imperial War-Chess," and Clivia had just moved her [Guar](Lore_Guar.md) Cavalry from [Morrowind](Lore_Morrowind.md) to [Nibenay](Lore_Nibenay.md) over the [Velothi Mountains](Lore_Velothi_Mountains.md) to take Euraxia's [Rimmen](Lore_Rimmen.md) Mercenaries—an illegal move, as the speed of cavalry is halved over difficult terrain. Euraxia protested loudly at this violation of the rules, calling Clivia a big cheater. Clivia just slapped her and told her not to be such a baby. This only made Euraxia madder—she drew herself up to her full height and declared that one day, when she was Queen of Rimmen, Clivia would get hers, and then she knocked Clivia's cavalry piece off the board. In response Clivia simply kicked the board hard from below, sending the game, pieces and all, showering over her younger sister's head. "Queens don't scare me," she said coldly. "Because I'm going to be EMPRESS, and then you'll ALL bow your heads."
+
+- She turned to me, unprovoked, and added, "And that goes for you, too, Big Ugly. Learn every spell in the library. Just see what good it does you." Then she stood, every lovely hair still in place, turned and marched out of the room. Wailing, Euraxia went after her, begging forgiveness.
+
+- That was Clivia: ever the regal one, with everyone always falling all over themselves to win the crumbs of her favor. Imperious, beautiful, statuesque even, she had a dazzling smile, but she only bestowed it on one who'd paid for it somehow—or was going to. She had no talent to be a Battlemage, she lacked Euraxia's instinctive grasp of power politics, she never learned Father's trick of demanding a good man's loyalty, and yet she was the one Abnur groomed for the Ruby Throne. Because Clivia had the inborn aura of command: people simply wanted to do her bidding, and when she gave an order, it felt wrong to disobey.
+
+- How did she do it? I never did figure that out. There was no magic involved, so far as I could tell. It was just her nature. When Prince [Leovic](Lore_Leovic.md) came back triumphant from his first campaign against the border raiders, our family was there in the Great Hall with the other councilors and great nobles to receive him. His father, Emperor [Moricar](Lore_Moricar.md), praised the prince and decreed that he could name his reward. Prince Leovic didn't hesitate: he walked right up to us and said, "Your Majesty, I want the Chancellor's daughter." And though Abnur Tharn had many daughters, we knew which one he meant.

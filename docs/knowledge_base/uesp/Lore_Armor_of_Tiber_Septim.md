@@ -1,0 +1,37 @@
+# Armor of Tiber Septim
+
+[![](https://images.uesp.net/thumb/e/e8/OB-item-Armor_of_Tiber_Septim.jpg/200px-OB-item-Armor_of_Tiber_Septim.jpg)](https://en.uesp.net/wiki/File:OB-item-Armor_of_Tiber_Septim.jpg) [](https://en.uesp.net/wiki/File:OB-item-Armor_of_Tiber_Septim.jpg) The Armor of Tiber Septim (Oblivion) The Armor of Tiber Septim is an [artifact](Lore_Artifacts.md) associated with [Talos](Lore_Talos.md), one of the [Nine Divines](Lore_Nine_Divines.md). Talos wore the armor prior to his apotheosis, when he was the man known as [Tiber Septim](Lore_Tiber_Septim.md). The armor is a plated cuirass,<sup>[[1]](#cite_note-1)</sup> black and gold in color. It is a piece of heavy armor, made in the [Imperial Legion](Lore_Imperial_Legion.md) style and similar in appearance to the Imperial Dragon Armor worn by subsequent Emperors.<sup>[[2]](#cite_note-2)</sup><sup>[[3]](#cite_note-3)</sup>
+
+## History
+After the [Battle of Sancre Tor](Lore_Sack_of_Sancre_Tor.md) in [2E 852](Lore_Second_Era.md#2E_852), Tiber Septim gave his armor to the [Blades](Lore_Blades.md) in honor of their role in his victory. The Blades built a shrine in the catacombs of [Sancre Tor](Lore_Sancre_Tor.md), on the spot where Tiber Septim received the blessing of [Akatosh](Lore_Akatosh.md). The armor was subsequently housed there, and for a time the Shrine of Tiber Septim became a place of pilgrimage for all Blades.<sup>[[4]](#cite_note-Jauffre-4)</sup> Pilgrims who wished to witness the armor would be tested by a riddle referring to the [Sun](Lore_Sun.md)'s course across the sky.<sup>[[5]](#cite_note-5)</sup>
+
+Sancre Tor was later corrupted by the [Underking](Lore_Underking.md) [Zurin Arctus](Lore_Zurin_Arctus.md), prompting it to be sealed shut by the Grandmaster of the Blades in the thirty-sixth year of the reign of Tiber Septim.<sup>[[6]](#cite_note-OB-6)</sup> Four of the greatest Blades of their time were sent to Sancre Tor to cleanse it of the Underking's evil, but they were separated within the ruins by a magical fog and perished, never to be seen again.<sup>[[7]](#cite_note-7)</sup> The armor would thererafter remain sealed within Sancre Tor for almost the entirety of the [Third Era](Lore_Third_Era.md), with the secret of its existence passed from one Grandmaster of the Blades to the next.<sup>[[8]](#cite_note-OBMQ-8)</sup>
+
+During the [Oblivion Crisis](Lore_Oblivion_Crisis.md) of [3E 433](Lore_Third_Era.md#3E_433), Brother [Martin Septim](Lore_Martin_Septim.md) managed to open a portal to [Mankar Camoran](Lore_Mankar_Camoran.md)'s [Paradise](Lore_Gaiar_Alata.md) by studying the contents of the *[Mysterium Xarxes](Lore_Mysterium_Xarxes.md)*. One of the items required for this ritual was a scraping of divine blood. Unaware of any artifacts associated with the [Eight Divines](Lore_Eight_Divines.md) that could serve Martin's purpose, Grandmaster [Jauffre](Lore_Jauffre.md) chose to reveal the secret location of the Armor of Tiber Septim. With Martin's promise that the armor would not be destroyed by the ritual, Jauffre reluctantly authorized the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) to unseal the ruins of Sancre Tor and recover the armor. The [ghosts](Lore_Ghost.md) of the four ancient Blades were freed from the Underking's snare by the Hero, and together their spirits banished the "Breath of the Underking", a magical fog that killed any who attempted to approach the armor.<sup>[[8]](#cite_note-OBMQ-8)</sup>
+
+Once recovered, the armor was brought to [Cloud Ruler Temple](Lore_Cloud_Ruler_Temple.md), where it was used to open a portal to Paradise. The Hero of Kvatch used this portal to reach Mankar Camoran and recover the [Amulet of Kings](Lore_Amulet_of_Kings.md).<sup>[[9]](#cite_note-9)</sup> The Blades and the [Order of Talos](Lore_Order_of_Talos.md) were overjoyed at the recovery of what they considered to be a holy relic of their patron.<sup>[[4]](#cite_note-Jauffre-4)</sup>
+
+Cloud Ruler Temple was sacked in the [Fourth Era](Lore_Fourth_Era.md) during the [Great War](Lore_Great_War.md), resulting in the destruction of its archives and garrison at the hands of the [Thalmor](Lore_Thalmor.md).<sup>[[10]](#cite_note-TDE-10)</sup><sup>[[11]](#cite_note-BW-11)</sup> Following the signing of the [White-Gold Concordat](Lore_White-Gold_Concordat.md), worship of Talos was outlawed by the [Empire](Lore_Third_Empire.md).<sup>[[12]](#cite_note-12)</sup> It is unknown what became of the Armor of Tiber Septim.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/71/OB-Place-Sancre_Tor_Tiber_Septim_Armor.jpeg/200px-OB-Place-Sancre_Tor_Tiber_Septim_Armor.jpeg)](https://en.uesp.net/wiki/File:OB-Place-Sancre_Tor_Tiber_Septim_Armor.jpeg) The Shrine of Tiber Septim (Oblivion)
+- [![](https://images.uesp.net/a/ae/OM-quest-Blood_of_the_Divine_02.png)](https://en.uesp.net/wiki/File:OM-quest-Blood_of_the_Divine_02.png) The Shrine of Tiber Septim (Oblivion Mobile)
+- [![](https://images.uesp.net/thumb/8/88/LG-cardart-A_New_Era.png/132px-LG-cardart-A_New_Era.png)](https://en.uesp.net/wiki/File:LG-cardart-A_New_Era.png) Tiber Septim (Legends)
+- [![](https://images.uesp.net/thumb/f/fd/CT-outfits-Armor_of_Tiber_Septim.jpg/200px-CT-outfits-Armor_of_Tiber_Septim.jpg)](https://en.uesp.net/wiki/File:CT-outfits-Armor_of_Tiber_Septim.jpg) Armor of Tiber Septim (Castles)
+
+## See Also
+- For game-specific information, see the [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Armor_of_Tiber_Septim) and [*Castles*](https://en.uesp.net/wiki/Castles:Armor_of_Tiber_Septim) articles.
+
+## References
+1. [^](#cite_ref-1) [Armor of Tiber Septim](https://en.uesp.net/wiki/Castles:Armor_of_Tiber_Septim) in *[Castles](https://en.uesp.net/wiki/Castles:Castles)*
+2. [^](#cite_ref-2) [Armor of Tiber Septim](https://en.uesp.net/wiki/Oblivion:Armor_of_Tiber_Septim) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. [^](#cite_ref-3) [Imperial Dragon Armor](https://en.uesp.net/wiki/Oblivion:Imperial_Dragon_Armor) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. ^ <sup>***[a](#cite_ref-Jauffre_4-0)***</sup><sup>***[b](#cite_ref-Jauffre_4-1)***</sup> [Jauffre](https://en.uesp.net/wiki/Oblivion:Jauffre)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+5. [^](#cite_ref-5) [Baynham's riddle](https://en.uesp.net/wiki/OBMobile:Blood_of_the_Divine) in *[Oblivion Mobile](https://en.uesp.net/wiki/OBMobile:Oblivion_Mobile)*
+6. [^](#cite_ref-OB_6-0) Scripted message at [Sancre Tor](https://en.uesp.net/wiki/Oblivion:Sancre_Tor) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+7. [^](#cite_ref-7) [Ghost of Casnar](https://en.uesp.net/wiki/Oblivion:Ghost_of_Casnar)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+8. ^ <sup>***[a](#cite_ref-OBMQ_8-0)***</sup><sup>***[b](#cite_ref-OBMQ_8-1)***</sup> [Blood of the Divines](https://en.uesp.net/wiki/Oblivion:Blood_of_the_Divines) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. [^](#cite_ref-9) [Paradise](https://en.uesp.net/wiki/Oblivion:Paradise_(quest)) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+10. [^](#cite_ref-TDE_10-0) [*Thalmor Dossier: Esbern*](https://en.uesp.net/wiki/Lore:Thalmor_Dossier__Esbern)
+11. [^](#cite_ref-BW_11-0) [*Bolar's Writ*](Skyrim_Bolar%27s_Writ.md) — Acilius Bolar
+12. [^](#cite_ref-12) [*The Great War*](Lore_The_Great_War_(book).md) — Legate [Justianus Quintius](Lore_Books_by_Author.md#Justianus_Quintius)

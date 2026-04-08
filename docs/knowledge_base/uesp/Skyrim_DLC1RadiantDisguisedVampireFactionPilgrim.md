@@ -1,0 +1,3 @@
+# DLC1RadiantDisguisedVampireFactionPilgrim
+
+Redirects to [DLC1RadiantDisguisedVampireFactionPilgrim](Skyrim_Factions_R.md#DLC1RadiantDisguisedVampireFactionPilgrim).

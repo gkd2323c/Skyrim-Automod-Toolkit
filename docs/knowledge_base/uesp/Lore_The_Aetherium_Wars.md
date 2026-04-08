@@ -1,0 +1,26 @@
+# The Aetherium Wars
+
+| --- | --- |
+| Seen In: | - [Skyrim](https://en.uesp.net/wiki/Skyrim:The_Aetherium_Wars)<sup>([DG](Skyrim_Dawnguard.md))</sup> |
+
+The Aetherium Wars **by [Taron Dreth](Lore_Books_by_Author.md#Taron_Dreth)** *A treatise on the collapse of Dwemer city-states in Skyrim*
+---
+*Note: Taron Dreth plagiarized this work using his colleague's [notes](https://en.uesp.net/wiki/Lore:Katria%27s_Journal).*
+
+---
+*Dedicated to Katria,*
+*my Friend and Colleague* The end, when it came, was swift. In the span of three short years, the great [dwarven](Lore_Dwemer.md) cities of [Skyrim](Lore_Skyrim.md), from [Markarth](Lore_Markarth.md) to the [Velothi Mountains](Lore_Velothi_Mountains.md), fell before the armies of the High King. Cities that had held fast against the [Nords](Lore_Nord.md) for over a hundred years crumbled abruptly and without warning.
+
+For centuries, scholars have marveled at the sudden collapse of the Dwemer city-states. Even the Nords seem to have been taken by surprise, though their chroniclers were quick to ascribe their success to [King Gellir's](Lore_Gellir.md) inspired tactics and the blessings of [Shor](https://en.uesp.net/wiki/Lore:Shor).
+
+My research suggests a much different cause, however. In the decades preceding their fall, the dwarven cities of Skyrim had been decimated by internal disputes and infighting over a most surprising cause: [Aetherium](Lore_Aetherium.md).
+
+Modern scholars know Aetherium as a rare, luminescent blue crystal found in some Dwemer ruins. Most consider it little more than a curiosity, as it has proven all but impossible to work with: while it has a strong magical aura, it is [alchemically](https://en.uesp.net/wiki/Lore:Alchemy) inert, and no known process can enchant, smelt, mold, bind, or break it.
+
+To the dwarves, of course, such problems were merely a challenge. In the years following [King Harald's](Lore_Harald.md) reign, the Dwemer discovered a considerable source of Aetherium in their deepest delvings. An alliance of four cities, led by [Arkngthamz](Lore_Arkngthamz.md), the great research center in the southern [Reach](Lore_The_Reach.md), was formed to oversee its extraction, processing, and study, and a new 'Aetherium Forge' constructed to smelt it under precisely controlled conditions.
+
+If the inscriptions I discovered are to be believed, the results were nothing short of spectacular: the items produced by the Forge were artifacts of immense power, imbued from the moment of their creation with powerful enchantments. The dwarven alliance shattered almost immediately, as the four city-states and their rivals attempted to claim the Forge.
+
+We can only speculate that none were successful. Decades of conflict merely weakened them all, allowing for King Gellir's subsequent conquests. And though the Dwemer reclaimed most of their lands a century later, there is no evidence that they ever resumed their research on Aetherium. Perhaps the costs had just been too great.
+
+But nothing like the Aetherium Forge described in the inscriptions has ever been found within the borders of Skyrim. It may have been destroyed long ago, by the Nord invaders or the Dwemer themselves. Or perhaps it, like the secrets of Aetherium itself, still remains to be discovered.

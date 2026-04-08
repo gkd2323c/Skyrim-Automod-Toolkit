@@ -1,0 +1,12 @@
+# Kagesh Tribe
+
+[![](https://images.uesp.net/thumb/5/58/ON-npc-Kagesh_Tribe.jpg/200px-ON-npc-Kagesh_Tribe.jpg)](https://en.uesp.net/wiki/File:ON-npc-Kagesh_Tribe.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Kagesh_Tribe.jpg) The Kagesh Tribe The Kagesh Tribe is an [Ashlander](Lore_Ashlanders.md) tribe that lives in the [Stonefalls](Lore_Stonefalls.md) region of mainland [Morrowind](Lore_Morrowind.md). They are traditionally hated and feared by the settled [Dunmer](Lore_Dunmer.md) of the region. In [2E 582](Lore_Second_Era.md#2E_582), the Kagesh ashkhan led an attack on the Iliath Temple as a means of ending the tribe's persecution. The move was against the wishes of the wise woman Hedranna Kaliki, who attempted to strike a peace with the [Temple](Lore_Tribunal_Temple.md) by offering herbs and healing potions. The tribe's gift was used to heal injured soldiers of the [Ebonheart Pact](Lore_Ebonheart_Pact.md), who were then employed to defend the temple. Additionally, the spirits of dead [Ordinators](Lore_Ordinators.md) were also summoned to hold the walls. Faced with this, the ashkhan and his supporters attempted to tunnel into the temple, but the poor supports were toppled by the defenders and the invaders were killed in the collapse. The remaining Kagesh were forced to flee.<sup>[[1]](#cite_note-ESO1-1)</sup><sup>[[2]](#cite_note-ESO2-2)</sup> Some members of the tribe bore the [Givyn](Lore_Givyn.md) name.<sup>[[3]](#cite_note-BG-3)</sup><sup>[[4]](#cite_note-EG-4)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Kagesh_Tribe).
+
+## References
+1. [^](#cite_ref-ESO1_1-0) Events of [Undermined](https://en.uesp.net/wiki/Online:Undermined) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-ESO2_2-0) Events of [From the Wastes](https://en.uesp.net/wiki/Online:From_the_Wastes) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-BG_3-0) [Broder Givyn](https://en.uesp.net/wiki/Online:Broder_Givyn) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-EG_4-0) [Ervas Givyn](https://en.uesp.net/wiki/Online:Ervas_Givyn) in [ESO](https://en.uesp.net/wiki/Online:Online)

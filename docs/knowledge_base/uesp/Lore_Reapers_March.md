@@ -1,0 +1,61 @@
+# Reaper's March
+
+| Reaper's March | |
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) <br> [Elsweyr](Lore_Elsweyr.md) |
+| Subregions | [Dawnmead](Lore_Dawnmead.md) <br> [Jodewood](Lore_Jodewood.md) <br> [Northern Woods](Lore_Northern_Woods.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Reaper%27s_March) |
+
+[![](https://images.uesp.net/thumb/3/31/ON-place-Western_Reaper%27s_March.jpg/200px-ON-place-Western_Reaper%27s_March.jpg)](https://en.uesp.net/wiki/File:ON-place-Western_Reaper%27s_March.jpg) [](https://en.uesp.net/wiki/File:ON-place-Western_Reaper%27s_March.jpg) Reaper's March circa 2E 582 Reaper's March is a region connecting the jungles of northeastern [Valenwood](Lore_Valenwood.md) with the rolling plains of northwestern [Elsweyr](Lore_Elsweyr.md). The northwestern woodlands are called simply the [Northern Woods](Lore_Northern_Woods.md), which give way to [Jodewood](Lore_Jodewood.md) in the south. Eastern Reaper's March is called [Dawnmead](Lore_Dawnmead.md). The [Strid River](Lore_Strid_River.md) forms its northern border, separating it from western [Cyrodiil](Lore_Cyrodiil.md). It is home to the cities of [Arenthia](Lore_Arenthia.md), [Rawl'kha](Lore_Rawl%27kha.md), and [Dune](Lore_Dune.md), as well as some smaller settlements and [Ayleid](Lore_Ayleid.md) ruins. The walking city [Falinesti](Lore_Falinesti.md) has been known to spend the autumn in the Northern Woods west of Rawl'kha.<sup>[[1]](#cite_note-ESO-1)</sup>
+
+The March has a unique mixture of [Bosmeri](Lore_Bosmer.md) and [Khajiiti](Lore_Khajiit.md) culture, along with some [Imperial](Lore_Imperial.md) influence. The [senche-tigers](Lore_Senche-Tiger.md) native to the area are believed by the locals to have mystical alchemical properties.<sup>[[1]](#cite_note-ESO-1)</sup> Despite the dry conditions of Reaper's March, the Khajiit have managed to farm and harvest [moon sugar](Lore_Moon_Sugar.md) in the area for generations through extensive irrigation projects.<sup>[[2]](#cite_note-MSITM-2)</sup> While bandits and [skooma](Lore_Skooma.md) smuggling are common, [Daedra](Lore_Daedra.md) worship is minimal. Khajiiti temples in the region are noted for their awe-inspiring beauty, though there are many other monuments and grand structures which are decayed and ruined.<sup>[[3]](#cite_note-TME-3)</sup>
+
+## History
+Reaper's March has a particularly bloody past. Besides conflicts between the Khajiit and Bosmer, [Colovian](Lore_Colovia.md) kingdoms have made a number of sorties into the region over the years, and some soldiers from these campaigns decided to stay and put down roots in Reaper's March. Southwest of Arenthia is the town of [Greenhill](Lore_Greenhill.md), which is near the famous burial site of Thibaut's Cairn, where many of the most respected, wealthy, and powerful individuals are interred. It takes its name from the famed Colovian general Thibaut of Kvatch.<sup>[[4]](#cite_note-TCAIH-4)</sup> During the [Alliance War](Lore_Alliance_War.md) circa [2E 582](Lore_Second_Era.md#2E_582), the Colovian Estates attempted to annex land in Reaper's March, and called on "Freeborn Colovians" in the area to join them with the promise of riches and land grants.<sup>[[5]](#cite_note-YFTT-5)</sup> Though the region at the time was aligned with the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md), some Khajiit seemed to be more concerned about Dominion spies, the so-called [Eyes of the Queen](Lore_Eyes_of_the_Queen.md), than about Imperial incursions.<sup>[[6]](#cite_note-EEES-6)</sup> They joined the Dominion because of the help they had provided in overcoming the devastating [Knahaten Flu](Lore_Knahaten_Flu.md), but all understood that the Dominion had provided this help as a matter of policy, not as a matter of friendship.<sup>[[7]](#cite_note-TEATC-7)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), Javad Tharn sought to plunge Elsweyr into chaos. Using his families' influence, he launched a Colovian occupation upon the city of [Arenthia](Lore_Arenthia.md) under the guise that it would be a stepping stone for the annexation of Reapers March. In reality, Javad had an ulterior motive that related to the downfall of Elsweyr and the [First Aldmeri Dominion](Lore_Aldmeri_Dominion.md#First_Dominion).<sup>[[8]](#cite_note-8)</sup> After taking the city, he ordered the Stonefire Cult to construct a [Dark Anchor](Lore_Dark_Anchor.md) in secret, within the Temple District of [Arenthia](Lore_Arenthia.md).<sup>[[9]](#cite_note-9)</sup> Javad also sought to look for other forms of daedric power outside the Lord of Brutalities' domain, and exploited the Khajiit's natural enemy, the dro-m'Athra, and reawakened their fabled Dark Mane. He used this dark spirit to possess Mane Akkhuz-ri. As the Mane represents the soul of the Khajiiti people, Javad hoped that with the Mane's soul stained, the soul of the Khajiiti people would be plunged into darkness.
+
+Meanwhile, the Mane's lunar champions, Khali and Shazah, were forced to fight back against the invading dro-m'Athra in Fort Grimwatch, where [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md) appeared before them and their [ally](Lore_Soulless_One.md) to guide them in their process of becoming Mane. He deemed that Akkhuz-ri was no longer able to serve as Mane, and so bestowed the champion's ally the title of *"Moon Hallowed."*<sup>[[10]](#cite_note-ESOGrim-10)</sup>
+
+Javad's occupation would subsequently foiled by the Arenthian Resistance, and the Dark Mane had been subdued. Afterwards, the Dark Mane corrupted the temple of [Moonmont](Lore_Moonmont.md). There the Mane reunited with the Moon Hallowed and the Lunar Champions, before they had to encounter the Dark Mane and seal him away. The Mane gave the Hallowed the choice between which of the twins had to imprison the Dark Mane while the other became the Mane. It is unknown who they chose, but the Dark Mane was sealed.<sup>[[11]](#cite_note-11)</sup>
+
+In a last ditch effort, Javad Tharn and the Stonefire Cult had launched an attack on the city of [Dune](Lore_Dune.md). He took refuge inside the Temple of the Two Moons Path as the Moon Hallowed, and the chosen Lunar Champion attempted to stabilize the conflict in Dune. Queen [Ayrenn](Lore_Ayrenn.md)'s forces were attempting to retake the city, until both the Lunar Champion and the Moon Hallowed had arrived in Dune. Once they had, the two were able to drive out the Daedra, using the Sacred Khajiit Fang to close portals across the city. Both the merchant and temple districts were liberated of the Daedra. Dune was reclaimed by the Aldmeri Dominion.<sup>[[12]](#cite_note-ESOFires-12)</sup>
+
+In presence of the Dominion's leaders and other important figures at the Temple of the Two Moons Path, the Moon Hallowed and Lunar Champion walked the last path—the Two Moons Path, where they would face Javad Tharn, and the sister would become the Mane. They traveled to the Plane of Jode and witnessed a possible future which would result in the fall of the Aldmeri Dominion, should they fail in their quest.<sup>[[13]](#cite_note-13)</sup> They were able to persevere and were to undergo the last step. They encountered both Javad, and the Dark Mane at the Den of Lorkhaj. In the end, the Mane, and the Moon Hallowed had prevailed, and the battle against Javad Tharn was over. The other Lunar Champion that sacrificed herself before was set free by this, able to reach [Aetherius](Lore_Aetherius.md). After their victory, at Dune, Rid-Thar-ri'Datta gave his blessing for the new Mane of Elsweyr.<sup>[[14]](#cite_note-ESOLorkhaj-14)</sup>
+
+By the end of the [Third Era](Lore_Third_Era.md), Reaper's March continued to be plagued by anger and resentment after centuries of war. The region still possessed a significant Bosmer population at that time.<sup>[[15]](#cite_note-OBBR-15)</sup>
+
+## Maps
+- [![](https://images.uesp.net/thumb/e/e7/ON-concept-Reapers_March.jpg/200px-ON-concept-Reapers_March.jpg)](https://en.uesp.net/wiki/File:ON-concept-Reapers_March.jpg) Reaper's March concept art (ESO)
+- [![](https://images.uesp.net/thumb/d/d5/ON-map-Reaper%27s_March.jpg/200px-ON-map-Reaper%27s_March.jpg)](https://en.uesp.net/wiki/File:ON-map-Reaper%27s_March.jpg) Map of Reaper's March (ESO)
+- [![](https://images.uesp.net/thumb/d/d2/LO-map-Valenwood_%28Oblivion_Codex%29.jpg/200px-LO-map-Valenwood_%28Oblivion_Codex%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Valenwood_(Oblivion_Codex).jpg) Map of Valenwood (Oblivion)
+- [![](https://images.uesp.net/thumb/d/d6/LO-map-Elsweyr_%28Oblivion_Codex%29.jpg/190px-LO-map-Elsweyr_%28Oblivion_Codex%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Elsweyr_(Oblivion_Codex).jpg) Map of Elsweyr (Oblivion)
+
+## See Also
+- For game-specific information, see the [ESO article](https://en.uesp.net/wiki/Online:Reaper%27s_March).
+
+### Books
+- ***[The March Explored](Lore_The_March_Explored.md)*** by [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer) — Excerpts from a guide to the Reaper's March region
+- ***[Thibaut's Cairn and its History](https://en.uesp.net/wiki/Lore:Thibaut%27s_Cairn_and_its_History)*** by [Charonius of Sutch](Lore_Books_by_Author.md#Charonius_of_Sutch) — On the hero Thibaut and his resting place
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESO_1-0)***</sup><sup>***[b](#cite_ref-ESO_1-1)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-MSITM_2-0) [*Moon-Sugar in the March*](Lore_Moon-Sugar_in_the_March.md)
+3. [^](#cite_ref-TME_3-0) [*The March Explored*](Lore_The_March_Explored.md) — [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer)
+4. [^](#cite_ref-TCAIH_4-0) [*Thibaut's Cairn and its History*](https://en.uesp.net/wiki/Lore:Thibaut%27s_Cairn_and_its_History) — [Charonius of Sutch](Lore_Books_by_Author.md#Charonius_of_Sutch)
+5. [^](#cite_ref-YFTT_5-0) [*Yours for the Taking!*](Lore_Yours_for_the_Taking!.md) — [Catonius Libo](Lore_Books_by_Author.md#Catonius_Libo), Aide-de-Camp to General Lavinia Axius
+6. [^](#cite_ref-EEES_6-0) [*Elven Eyes, Elven Spies*](Lore_Elven_Eyes,_Elven_Spies.md) — [Zwinthodurr Roun-dar](Lore_Books_by_Author.md#Zwinthodurr_Roun-dar)
+7. [^](#cite_ref-TEATC_7-0) [*The Eagle and the Cat*](Lore_The_Eagle_and_the_Cat.md) — [Lord Gharesh-ri](Lore_Books_by_Author.md#Lord_Gharesh-ri), Speaker for the [Mane](Lore_Mane.md)
+8. [^](#cite_ref-8) [*Yours for the Taking!*](Lore_Yours_for_the_Taking!.md) — [Catonius Libo](Lore_Books_by_Author.md#Catonius_Libo), Aide-de-Camp to General Lavinia Axius
+9. [^](#cite_ref-9) [Stonefire Machinations](https://en.uesp.net/wiki/Online:Stonefire_Machinations) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-ESOGrim_10-0) [Grim Situation](https://en.uesp.net/wiki/Online:Grim_Situation) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-11) [Motes in the Moonlight](https://en.uesp.net/wiki/Online:Motes_in_the_Moonlight) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-ESOFires_12-0) [The Fires of Dune](https://en.uesp.net/wiki/Online:The_Fires_of_Dune) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-13) [The Moonlit Path](https://en.uesp.net/wiki/Online:The_Moonlit_Path) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-ESOLorkhaj_14-0) [The Den of Lorkhaj](https://en.uesp.net/wiki/Online:The_Den_of_Lorkhaj) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-OBBR_15-0) [Bosmer Race Backgrounds](https://en.uesp.net/wiki/Oblivion:Races#Oblivion_Remastered) in *[Oblivion Remastered](https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered)*
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Lore:Reaper%27s_March&action=edit).*

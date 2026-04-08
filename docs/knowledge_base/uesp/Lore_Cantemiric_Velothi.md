@@ -1,0 +1,7 @@
+# Cantemiric Velothi
+
+The Cantemiric Velothi were a tribe of [Velothi](Lore_Velothi.md) that lived in [Black Marsh](Lore_Black_Marsh.md). They were one of the tribes of [Mer](Lore_Mer.md) inhabiting the province, the other being the [Barsaebic](Lore_Barsaebic_Ayleids.md) [Ayleids](Lore_Ayleids.md), and generally lived in eastern regions near present-day [Archon](Lore_Archon.md), [Arnesia](Lore_Arnesia.md), and [Thorn](Lore_Thorn.md). It is unknown where they came from, as tribes were typically either sent to Black Marsh as refugees or prisoners, or settled along the coastal waterways and adapted to its strange and usually insalubrious environment.<sup>[[1]](#cite_note-PGE3E-1)</sup> When he awoke, [Dagoth Ur](Lore_Dagoth_Ur.md) planned to reclaim their ancient territories that were "stolen by Argonia".<sup>[[2]](#cite_note-DUP-2)</sup> The non-Argonian cultures of Black Marsh were documented well into the [Second Era](Lore_Second_Era.md), but were no longer found there by the end of the [Third Era](Lore_Third_Era.md).<sup>[[1]](#cite_note-PGE3E-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-PGE3E_1-0)***</sup><sup>***[b](#cite_ref-PGE3E_1-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+2. [^](#cite_ref-DUP_2-0) [*Dagoth Ur's Plans*](Lore_Dagoth_Ur%27s_Plans.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)

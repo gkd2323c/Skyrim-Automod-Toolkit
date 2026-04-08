@@ -1,0 +1,36 @@
+# Cardea
+
+| Consul Cardea | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Consul Cardea.jpg](https://images.uesp.net/thumb/4/43/ON-npc-Consul_Cardea.jpg/200px-ON-npc-Consul_Cardea.jpg)](https://en.uesp.net/wiki/File:ON-npc-Consul_Cardea.jpg) Consul Cardea | | | |
+| Race | [Imperial](Lore_Imperial.md) | Gender | Female |
+| Born | [Second Era](Lore_Era.md#Second_Era) | | |
+| Resided in | [Markarth](Lore_Markarth.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Consul_Cardea) | | |
+
+Cardea was an [Imperial](Lore_Imperial.md) consul and the administrator of [Markarth](Lore_Markarth.md) during the sixth century of the [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-CC-1)</sup><sup>[[2]](#cite_note-QUEST-2)</sup> Cardea became the administrator of Markarth under the [Longhouse Emperors](Lore_Longhouse_Emperors.md), and after the dynasty's fall, she retained the position under the city's former governor, Ard [Caddach](Lore_Caddach.md).<sup>[[3]](#cite_note-POTR-3)</sup> She was also a prolific writer. She was an author of two books related to the history and the politics of the [Reachfolk](Lore_Reachfolk.md): *[Politics of the Reach](Lore_Politics_of_the_Reach.md)*,<sup>[[3]](#cite_note-POTR-3)</sup> and *[History of Markarth: A Story in Stone](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone)*.<sup>[[4]](#cite_note-HOMASIS-4)</sup> She also penned an autobiographical text *[An Imperial in Markarth](Lore_An_Imperial_in_Markarth.md)*,<sup>[[5]](#cite_note-ON:AIIM-5)</sup> and numerous other documents of administrative nature, as well as a leaflet for contractors willing to aid Markarth.<sup>[[6]](#cite_note-ONWFHIM-6)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/0e/ON-npc-Ard_Caddach.jpg/200px-ON-npc-Ard_Caddach.jpg)](https://en.uesp.net/wiki/File:ON-npc-Ard_Caddach.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Ard_Caddach.jpg) Ard Caddach Circa [2E 568](Lore_Second_Era.md#2E_568), Consul Cardea was sent from her post in Imperial City by the order of Emperor [Leovic](Lore_Leovic.md) to aid Markarth as the administrator and provide a conduit between Cyrodiil and the Reach.<sup>[[3]](#cite_note-POTR-3)</sup> It was her first assignment.<sup>[[1]](#cite_note-CC-1)</sup> She served under [Caddach](Lore_Caddach.md), the Imperial Governor of Markarth. After the fall of the Longhouse dynasty, in [2E 577](Lore_Second_Era.md#2E_577)<sup>[[7]](#cite_note-SHot LE-7)</sup> Caddach set aside his Imperial title and took the old Reach title of ard instead.<sup>[[4]](#cite_note-HOMASIS-4)</sup> During his tenure as Governor, he came to appreciate Cardea's administrative skills. When the Empire fell, he requested her to stay and she agreed. She had grown to love the Markarth and its people and devoted her life to helping the region.<sup>[[1]](#cite_note-CC-1)</sup><sup>[[3]](#cite_note-POTR-3)</sup><sup>[[5]](#cite_note-ON:AIIM-5)</sup>
+
+One year later, in [2E 578](Lore_Second_Era.md#2E_578) her book *[Politics of the Reach](Lore_Politics_of_the_Reach.md)* was published.<sup>[[3]](#cite_note-POTR-3)</sup> Her other works: *[History of Markarth: A Story in Stone](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone)* and *[An Imperial in Markarth](Lore_An_Imperial_in_Markarth.md)* were both written at an unknown date, but both were published after the fall of the Longhouse dynasty.<sup>[[5]](#cite_note-ON:AIIM-5)</sup><sup>[[4]](#cite_note-HOMASIS-4)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), one of her duties was overseeing the contract jobs. She assisted the [Stonehands](Lore_Stonehands.md) and the ambassador of the [Arenthia](Lore_Arenthia.md)'s scholarly institution in organizing the contracts. She was responsible for maintaining the records for the job brokers,<sup>[[1]](#cite_note-CC-1)</sup><sup>[[2]](#cite_note-QUEST-2)</sup> and writing various other documents, including the leaflets.<sup>[[6]](#cite_note-ONWFHIM-6)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Consul_Cardea) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+### Books
+- ***[An Imperial in Markarth](Lore_An_Imperial_in_Markarth.md)*** by [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator — An Imperial's thoughts on Markarth during the Interregnum
+- ***[History of Markarth: A Story in Stone](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone)*** by [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator — A history of the city of Markarth
+- ***[Politics of the Reach](Lore_Politics_of_the_Reach.md)*** by [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator, [2E 578](Lore_Second_Era.md#2E_578) — An overview of politics between clans in the Reach
+- ***[Work for Hire in Markarth](https://en.uesp.net/wiki/Online:Work_for_Hire_in_Markarth)*** by [Consul Cardea](https://en.uesp.net/wiki/Online:Consul_Cardea) — An advertisement for work in the city of Markarth
+
+## References
+1. ^ <sup>***[a](#cite_ref-CC_1-0)***</sup><sup>***[b](#cite_ref-CC_1-1)***</sup><sup>***[c](#cite_ref-CC_1-2)***</sup><sup>***[d](#cite_ref-CC_1-3)***</sup> [Consul Cardea](https://en.uesp.net/wiki/Online:Consul_Cardea)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-QUEST_2-0)***</sup><sup>***[b](#cite_ref-QUEST_2-1)***</sup> Events of [Help Wanted in Markarth](https://en.uesp.net/wiki/Online:Help_Wanted_in_Markarth) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. ^ <sup>***[a](#cite_ref-POTR_3-0)***</sup><sup>***[b](#cite_ref-POTR_3-1)***</sup><sup>***[c](#cite_ref-POTR_3-2)***</sup><sup>***[d](#cite_ref-POTR_3-3)***</sup><sup>***[e](#cite_ref-POTR_3-4)***</sup> [*Politics of the Reach*](Lore_Politics_of_the_Reach.md) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator, [2E 578](Lore_Second_Era.md#2E_578)
+4. ^ <sup>***[a](#cite_ref-HOMASIS_4-0)***</sup><sup>***[b](#cite_ref-HOMASIS_4-1)***</sup><sup>***[c](#cite_ref-HOMASIS_4-2)***</sup> [*History of Markarth: A Story in Stone*](https://en.uesp.net/wiki/Lore:History_of_Markarth__A_Story_in_Stone) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator
+5. ^ <sup>***[a](#cite_ref-ON:AIIM_5-0)***</sup><sup>***[b](#cite_ref-ON:AIIM_5-1)***</sup><sup>***[c](#cite_ref-ON:AIIM_5-2)***</sup> [*An Imperial in Markarth*](Lore_An_Imperial_in_Markarth.md) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator
+6. ^ <sup>***[a](#cite_ref-ONWFHIM_6-0)***</sup><sup>***[b](#cite_ref-ONWFHIM_6-1)***</sup> [*Work for Hire in Markarth*](https://en.uesp.net/wiki/Online:Work_for_Hire_in_Markarth) — [Consul Cardea](https://en.uesp.net/wiki/Online:Consul_Cardea)
+7. [^](#cite_ref-SHot LE_7-0) [*Secret History of the Longhouse Emperors*](https://en.uesp.net/wiki/Lore:Secret_History_of_the_Longhouse_Emperors) — [Councilor Vandacia](Lore_Books_by_Author.md#High_Priest_Vandacia)

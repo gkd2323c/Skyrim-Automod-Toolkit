@@ -1,0 +1,18 @@
+# Dragonclaw Clan
+
+[![](https://images.uesp.net/thumb/4/4e/ON-place-Dragonstar_Arena.jpg/200px-ON-place-Dragonstar_Arena.jpg)](https://en.uesp.net/wiki/File:ON-place-Dragonstar_Arena.jpg) [](https://en.uesp.net/wiki/File:ON-place-Dragonstar_Arena.jpg) Dragonstar Arena [![](https://images.uesp.net/thumb/3/33/ON-npc-Shilia.jpg/200px-ON-npc-Shilia.jpg)](https://en.uesp.net/wiki/File:ON-npc-Shilia.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Shilia.jpg) Shilia of the Dragonclaw Clan ca. [2E 582](Lore_Second_Era.md#2E_582) Dragonclaw Clan, also known as **Dragonclaws** was a [clan](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in during the [Second Era](Lore_Second_Era.md). Members of the clan participated in a tournament at the [Dragonstar Arena](Lore_Dragonstar_Arena.md), an inter- [planar](Lore_Planes_of_Existence.md) arena complex devoted to [Boethiah](Lore_Boethiah.md).<sup>[[1]](#cite_note-DA2-1)</sup>
+
+## History
+Little is known of the past of the Dragonclaw Clan. In [2E 582](Lore_Second_Era.md#2E_582), a group composed of warriors,<sup>[[2]](#cite_note-DS-2)</sup> conjurers,<sup>[[3]](#cite_note-DC-3)</sup> and hedge mages<sup>[[4]](#cite_note-DHW-4)</sup> of the clan led by Shilia and Nak'tah ventured to [Dragonstar Arena](Lore_Dragonstar_Arena.md) in northern [Craglorn](Lore_Craglorn.md) in order to participate in the tournament.<sup>[[5]](#cite_note-Nak.27tah-5)</sup><sup>[[6]](#cite_note-Shilia-6)</sup><sup>[[7]](#cite_note-DA-7)</sup> They competed against members of various other groups such as the [Fighters Guild](Lore_Fighters_Guild.md), [Mages Guild](Lore_Mages_Guild.md), [House Dres](Lore_House_Dres.md), [Nordic](Lore_Nord.md) warrior team named after the [Sovngarde](Lore_Sovngarde.md), [Bosmer](Lore_Bosmer.md) adherents of the [Green Pact](Lore_Green_Pact.md), [werewolves](Lore_Lycanthropy.md), and [vampires](Lore_Vampire.md).<sup>[[1]](#cite_note-DA2-1)</sup> Similarly to all other participants, they were bested by [the Vestige](Lore_The_Vestige.md) and defeated in the third round of the tournament which took place in the marshland. It is unknown whether the participants of the tournament were all members of the clan and as such future of the clan is uncertain.<sup>[[1]](#cite_note-DA2-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Dragonclaw_Clan).
+
+## References
+1. ^ <sup>***[a](#cite_ref-DA2_1-0)***</sup><sup>***[b](#cite_ref-DA2_1-1)***</sup><sup>***[c](#cite_ref-DA2_1-2)***</sup> [Dragonstar Arena](https://en.uesp.net/wiki/Online:Dragonstar_Arena) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-DS_2-0) [Dragonclaw Savage](https://en.uesp.net/wiki/Online:Dragonclaw_Savage) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-DC_3-0) [Dragonclaw Conjurer](https://en.uesp.net/wiki/Online:Dragonclaw_Conjurer) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-DHW_4-0) [Dragonclaw Hedge Wizard](https://en.uesp.net/wiki/Online:Dragonclaw_Hedge_Wizard) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Nak.27tah_5-0) [Nak'tah](https://en.uesp.net/wiki/Online:Nak%27tah) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-Shilia_6-0) [Shilia](https://en.uesp.net/wiki/Online:Shilia) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-DA_7-0) Round 3: The Marsh in [Dragonstar Arena](https://en.uesp.net/wiki/Online:Dragonstar_Arena) in [ESO](https://en.uesp.net/wiki/Online:Online)

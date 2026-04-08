@@ -1,0 +1,54 @@
+# Tavia
+
+| Empress Tavia | | | |
+| --- | --- | --- | --- |
+| [![ON-quest-Partners in Crime.jpg](https://images.uesp.net/thumb/6/6a/ON-quest-Partners_in_Crime.jpg/200px-ON-quest-Partners_in_Crime.jpg)](https://en.uesp.net/wiki/File:ON-quest-Partners_in_Crime.jpg) Tavia's supposed skull | | | |
+| Race | [Imperial](Lore_Imperial.md) | Gender | Female |
+| Born | [1st Era](Lore_First_Era.md#1st_Era) | | |
+| Died | [1E 2920, 6th of Hearthfire](Lore_First_Era.md#1E_2920.2C_6th_of_Hearthfire) <br> [Gideon](Lore_Gideon.md) | | |
+
+Tavia was an [Imperial](Lore_Imperial.md) noble in the late [First Era](Lore_First_Era.md). She was the last Empress of the [Second Empire](Lore_Second_Empire.md), the wife of Emperor [Reman III](Lore_Reman_III.md) and the mother of Prince [Juilek](Lore_Juilek.md). She was famously imprisoned in Castle Giovesse, a fortress in the vicinity of [Gideon](Lore_Gideon.md), for treason, and spent her remaining years undermining her husband's reign.<sup>[[1]](#cite_note-TGTG-1)</sup>
+
+## History
+Tavia was an Imperial noble alive in the latter years of the [Reman Dynasty](Lore_Reman_Dynasty.md)'s reign. She came from a wealthy background and had powerful allies in the western [Colovian Estates](Lore_Colovian_Estates.md).<sup>[[2]](#cite_note-2920v8-2)</sup> At some point in time, she married Emperor Reman III, who ascended to the throne in [1E 2877](Lore_First_Era.md#1E_2877)<sup>[[3]](#cite_note-OBSancre-3)</sup>, and had a child: the heir apparent Juilek. In her last seventeen years, Reman and Tavia were at each others' throats until they were at an impasse<sup>[[2]](#cite_note-2920v8-2)</sup> and eventually, Tavia was sent to prison for treason. Her sentence started in [1E 2899](Lore_First_Era.md#1E_2899)<sup>[[4]](#cite_note-PGE3E-4)</sup> and subsequently she was moved from castle to castle until she was placed in Castle Giovesse in [1E 2913](Lore_First_Era.md#1E_2913).<sup>[[5]](#cite_note-2920v1-5)</sup><sup>[[6]](#cite_note-TAPI-6)</sup> The 2920 series<sup>[[nb 1]](#intnote_2920)</sup> explains that Reman III was paranoid over treason and because of this, Tavia and later his mistress, Rijja were accused and punished for this.<sup>[[7]](#cite_note-2920v7-7)</sup>
+
+Tavia was placed in a lavish tower in the northern part of Castle Giovesse.<sup>[[8]](#cite_note-ONTower-8)</sup> In prison, she was accompanied by her personal [Imperial Guard](Lore_Imperial_Guard.md), the [Kothringi](Lore_Kothringi.md) knight, [Zuuk](Lore_Zuuk_(person).md)<sup>[[5]](#cite_note-2920v1-5)</sup> and spent all her energy there to dethrone her husband and return from exile.<sup>[[1]](#cite_note-TGTG-1)</sup> Zuuk was believed to be responsible for carrying Tavia's secret missives.<sup>[[9]](#cite_note-ESOContraband-9)</sup> Despite her animosity toward the Emperor, Tavia cared deeply for her son Juilek and feared that Reman would possibly view him as a traitor and have him killed.<sup>[[10]](#cite_note-2920v5-10)</sup>
+
+In late [Second Seed](Lore_Second_Seed.md), [1E 2920](Lore_First_Era.md#1E_2920), Tavia made contact with the [Morag Tong](Lore_Morag_Tong.md) through Zuuk and assigned them to assassinate the Emperor. Her plan was for the assassin to attack the Emperor's caravan in [Dorsza Pass](Lore_Dorsza_Pass.md), a road between [Morrowind](Lore_Morrowind.md) and [Black Marsh](Lore_Black_Marsh.md).<sup>[[10]](#cite_note-2920v5-10)</sup> In [Last Seed](Lore_Last_Seed.md), the Empress sent a missive to Prince Juilek, who was stationed in Ald Lambasi to formally end the [Four-Score War](Lore_Four-Score_War.md). The exact contents of the letter are unknown, but the 2920 series claims it hinted at an impending threat, but also warned him about a band of former slaves en route between them. With the [treaty](Lore_Cervant_Truce.md) signed, Juilek went post-haste to his mother in Gideon and took the Dorsza Pass to cross the province.<sup>[[2]](#cite_note-2920v8-2)</sup>
+
+Prince Juilek was assassinated in Dorsza Pass and his body was found sometime later. Tavia greatly mourned the loss of her child and committed suicide a few days later. She left a sum of her wealth to Zuuk, who fled the province<sup>[[11]](#cite_note-2920v9-11)</sup> and paid the [Night Mother](Lore_Night_Mother.md) with gold for Reman III's death later.<sup>[[12]](#cite_note-2920v11-12)</sup> After her death, a golden, gem-encrusted cranium circulated throughout Tamriel and it was reported to be Tavia's skull. It is called the Giovessen Skull and a rumor spread claiming that the skull was a false relic, originally from a condemned [Breton](Lore_Breton.md) prisoner. However, when Thane Fulstrom of [Eastmarch](Lore_Eastmarch.md) acquired the skull in the mid-Second Era, it was given to the Imperial historian Mercator Mannix to prove its authenticity. It was later confirmed authentic<sup>[[13]](#cite_note-AOTGS-13)</sup> and kept safe in Fulstrom's manor off the coast of Eastmarch. It was soon stolen by the [Thieves Guild](Lore_Thieves_Guild.md) and taken faraway to their hideout in [Abah's Landing](Lore_Abah%27s_Landing.md).<sup>[[14]](#cite_note-ONPartners-14)</sup> Another item of interest associated with Tavia and circulated throughout Tamriel was her [gilded](Lore_Gold.md) tapestry needle.<sup>[[15]](#cite_note-ONContraband-15)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/1/18/ON-place-Castle_Giovesse.jpg/200px-ON-place-Castle_Giovesse.jpg)](https://en.uesp.net/wiki/File:ON-place-Castle_Giovesse.jpg) Castle Giovesse
+- [![](https://images.uesp.net/thumb/5/55/ON-place-Tavia%27s_Tower.jpg/200px-ON-place-Tavia%27s_Tower.jpg)](https://en.uesp.net/wiki/File:ON-place-Tavia%27s_Tower.jpg) Tavia's Tower in the castle
+- [![](https://images.uesp.net/thumb/e/ea/ON-interior-Tavia%27s_Tower.jpg/200px-ON-interior-Tavia%27s_Tower.jpg)](https://en.uesp.net/wiki/File:ON-interior-Tavia%27s_Tower.jpg) The inside of Tavia's prison
+
+## Notes
+- | [^](#note_2920) | The authenticity of the historical-fiction series *2920, The Last Year of the First Era* wavers between thoroughly researched to mostly fiction. In the book [Fire and Darkness](Lore_Fire_and_Darkness.md), the author Ynir Gorming claims it is generally well-researched.<sup>[[16]](#cite_note-FAD-16)</sup> However, the Imperial historian Mercator Mannix states that the 2920 series is mostly fictional in nature but lends credence to the idea that some events in the book were true.<sup>[[13]](#cite_note-AOTGS-13)</sup> |
+| --- | --- |
+- It was well known that Tavia had an Orchid Nixad around as a friend and a companion. These types of [nixad](Lore_Nixad.md) are extremely rare and only appeared in places sacred to [Dibella](Lore_Dibella.md).<sup>[[17]](#cite_note-ONPet Orchid-17)</sup>
+
+## See Also
+
+### Books
+- ***[2920, The Last Year of the First Era](Lore_2920,_The_Last_Year_of_the_First_Era.md)*** by [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway) — A fictional series of books about historical events involving Vivec and the Empire
+- ***[Authenticity of the Giovessen Skull](https://en.uesp.net/wiki/Lore:Authenticity_of_the_Giovessen_Skull)*** by [Mercator Mannix](Lore_Books_by_Author.md#Mercator_Mannix), Imperial Historian — A certification confirming the authenticity of a relic
+
+## References
+1. ^ <sup>***[a](#cite_ref-TGTG_1-0)***</sup><sup>***[b](#cite_ref-TGTG_1-1)***</sup> [*Traveler's Guide to Gideon*](Lore_Traveler%27s_Guide_to_Gideon.md) — [Astinia Isauricus](Lore_Books_by_Author.md#Astinia_Isauricus); Published 22 Frost Fall, [2E 570](Lore_Second_Era.md#2E_570)
+2. ^ <sup>***[a](#cite_ref-2920v8_2-0)***</sup><sup>***[b](#cite_ref-2920v8_2-1)***</sup><sup>***[c](#cite_ref-2920v8_2-2)***</sup> [*2920, Last Seed*](Lore_2920,_Last_Seed_(v8).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+3. [^](#cite_ref-OBSancre_3-0) [Reman III](https://en.uesp.net/wiki/Oblivion:Sancre_Tor#Tombs)'s epitaph in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. [^](#cite_ref-PGE3E_4-0) [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+5. ^ <sup>***[a](#cite_ref-2920v1_5-0)***</sup><sup>***[b](#cite_ref-2920v1_5-1)***</sup> [*2920, Morning Star*](Lore_2920,_Morning_Star_(v1).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+6. [^](#cite_ref-TAPI_6-0) [Time and Place inconsistences – The Imperial Library](https://www.imperial-library.info/content/time-and-place-inconsistencies)
+7. [^](#cite_ref-2920v7_7-0) [*2920, Sun's Height*](Lore_2920,_Sun%27s_Height_(v7).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+8. [^](#cite_ref-ONTower_8-0) [Tavia's Tower](https://en.uesp.net/wiki/Online:Castle_Giovesse#Tavia.27s_Tower) sub-location in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+9. [^](#cite_ref-ESOContraband_9-0) [Zuuk's Scrollcase](https://en.uesp.net/wiki/Online:Contraband_Z#Zuuk.27s_Scrollcase) contraband in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+10. ^ <sup>***[a](#cite_ref-2920v5_10-0)***</sup><sup>***[b](#cite_ref-2920v5_10-1)***</sup> [*2920, Second Seed*](Lore_2920,_Second_Seed_(v5).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+11. [^](#cite_ref-2920v9_11-0) [*2920, Hearth Fire*](Lore_2920,_Hearth_Fire_(v9).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+12. [^](#cite_ref-2920v11_12-0) [*2920, Sun's Dusk*](Lore_2920,_Sun%27s_Dusk_(v11).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+13. ^ <sup>***[a](#cite_ref-AOTGS_13-0)***</sup><sup>***[b](#cite_ref-AOTGS_13-1)***</sup> [*Authenticity of the Giovessen Skull*](https://en.uesp.net/wiki/Lore:Authenticity_of_the_Giovessen_Skull) — [Mercator Mannix](Lore_Books_by_Author.md#Mercator_Mannix), Imperial Historian
+14. [^](#cite_ref-ONPartners_14-0) [Partners in Crime](https://en.uesp.net/wiki/Online:Partners_in_Crime) story quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+15. [^](#cite_ref-ONContraband_15-0) [Empress Tavia's Tapestry Needle](https://en.uesp.net/wiki/Online:Contraband_E#Empress_Tavia.27s_Tapestry_Needle) contraband text in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-FAD_16-0) [*Fire and Darkness*](Lore_Fire_and_Darkness.md) — [Ynir Gorming](Lore_Books_by_Author.md#Ynir_Gorming)
+17. [^](#cite_ref-ONPet Orchid_17-0) [Orchid Nixad](https://en.uesp.net/wiki/Online:Orchid_Nixad) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,25 @@
+# Bear-Heart Clan
+
+[![](https://images.uesp.net/thumb/1/17/ON-npc-Beagan.jpg/200px-ON-npc-Beagan.jpg)](https://en.uesp.net/wiki/File:ON-npc-Beagan.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Beagan.jpg) Beagan, exiled member of the Bear-Heart Clan ca. [2E 582](Lore_Second_Era.md#2E_582) Bear-Heart Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-MQI-1)</sup> Their name is derived from the blessing of Hrokkibeg, the Bear aspect of [Hircine](Lore_Hircine.md).<sup>[[2]](#cite_note-AOLH-2)</sup> Some members of the clan were known for wearing simple pendants made of beer teeth and claws strung along a thin strip of leather.<sup>[[1]](#cite_note-MQI-1)</sup>
+
+## History
+Little is known of the Bear-Heart Clan's past, but they were active in the Second Era. Circa [2E 582](Lore_Second_Era.md#2E_582) [Ardanir](Lore_Ardanir.md) of the [Wayward Guardians](Lore_Wayward_Guardians.md) sent [an adventurer](Lore_The_Vestige.md) to rescue Reachfolk exiles who were taken captive by the [Falmer](Lore_Falmer.md).<sup>[[3]](#cite_note-Ardanir-3)</sup> The adventurer managed to save two of them,<sup>[[3]](#cite_note-Ardanir-3)</sup><sup>[[4]](#cite_note-Leven-4)</sup><sup>[[5]](#cite_note-Callan-5)</sup> but one of the exiles, Beagan a former member of the Bear-Heart Clan perished before the help arrived.<sup>[[3]](#cite_note-Ardanir-3)</sup><sup>[[6]](#cite_note-Beagan-6)</sup><sup>[[7]](#cite_note-AITD-7)</sup> The Wayward Guardians' representative pledged to bury his amulet on the banks of the [Karth River](Lore_Karth_River.md) in hopes that this would bring peace to the spirit of the deceased.<sup>[[3]](#cite_note-Ardanir-3)</sup>
+
+In the same year the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[8]](#cite_note-Medone-8)</sup><sup>[[9]](#cite_note-CVR-9)</sup> It is unknown whether the clan answered the call and moved to the City of Stone, but it was active at that time as Wayward Guardians attempted to protect one of their exiles.<sup>[[3]](#cite_note-Ardanir-3)</sup>
+
+## Notes
+- According to [Uraccanach the Witchman](Lore_Uraccanach.md) the Bear-Heart is the name of the blessing bestowed by Hrokkibeg, one of the aspects of Hircine. Allegedly it can be obtained by approaching him with deference and offering of honey-sweet mead.<sup>[[2]](#cite_note-AOLH-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Bear-Heart_Clan) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-MQI_1-0)***</sup><sup>***[b](#cite_ref-MQI_1-1)***</sup> [Bear-Heart Clan Necklace](https://en.uesp.net/wiki/Online:Markarth_Quest_Items#Bear-Heart_Clan_Necklace) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-AOLH_2-0)***</sup><sup>***[b](#cite_ref-AOLH_2-1)***</sup> [*Aspects of Lord Hircine*](Lore_Aspects_of_Lord_Hircine.md) — [Juno Procillus](Lore_Books_by_Author.md#Juno_Procillus), [Academy](Lore_Academy_of_Chorrol.md) of [Chorrol](Lore_Chorrol.md)
+3. ^ <sup>***[a](#cite_ref-Ardanir_3-0)***</sup><sup>***[b](#cite_ref-Ardanir_3-1)***</sup><sup>***[c](#cite_ref-Ardanir_3-2)***</sup><sup>***[d](#cite_ref-Ardanir_3-3)***</sup><sup>***[e](#cite_ref-Ardanir_3-4)***</sup> [Ardanir](https://en.uesp.net/wiki/Online:Ardanir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-Leven_4-0) [Leven](https://en.uesp.net/wiki/Online:Leven)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-Callan_5-0) [Callan](https://en.uesp.net/wiki/Online:Callan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+6. [^](#cite_ref-Beagan_6-0) [Beagan](https://en.uesp.net/wiki/Online:Beagan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+7. [^](#cite_ref-AITD_7-0) Events of [Alone in the Dark](https://en.uesp.net/wiki/Online:Alone_in_the_Dark) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+8. [^](#cite_ref-Medone_8-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+9. [^](#cite_ref-CVR_9-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

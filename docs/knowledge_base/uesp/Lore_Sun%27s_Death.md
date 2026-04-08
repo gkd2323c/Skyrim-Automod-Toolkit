@@ -1,0 +1,26 @@
+# Sun's Death
+
+
+The event was caused by the first major eruption of [Red Mountain](Lore_Red_Mountain.md), which filled the sky with sulphurous ash for an entire year.<sup>[[3]](#cite_note-VOF-3)</sup><sup>[[5]](#cite_note-NM-5)</sup> This catastrophe caused significant climate disruption in some parts and reshaped the island of [Vvardenfell](Lore_Vvardenfell.md).<sup>[[7]](#cite_note-7)</sup><sup>[[8]](#cite_note-AMOD-8)</sup>
+
+Various religious interpretations of the event exist. Some believe that the [Orcish](Lore_Orc.md) god [Mauloch](https://en.uesp.net/wiki/Lore:Mauloch) filled the sky with his hatred after his defeat at the Battle of Dragon Wall circa [1E 660](Lore_First_Era.md#1E_660).<sup>[[3]](#cite_note-VOF-3)</sup> Those in [Shornhelm](Lore_Shornhelm.md) claim that the event was only ended due to the Purge of the [Wyrd](https://en.uesp.net/wiki/Lore:Wyrd) - [Hags](https://en.uesp.net/wiki/Lore:Hag), which is said to have restored [Magnus](Lore_Magnus_(god).md) to the sky.<sup>[[9]](#cite_note-SCCOTN-9)</sup> The War of the First Council ended thirty-two years later at the [Battle of Red Mountain](Lore_Battle_of_Red_Mountain.md) in [1E 700](Lore_First_Era.md#1E_700), and resulted in the disappearance of the [Dwemer](Lore_Dwemer.md), the creation of the [Tribunal](Lore_Tribunal.md), and the [Chimer](Lore_Chimer.md) being cursed by [Azura](https://en.uesp.net/wiki/Lore:Azura) to become the ashen-skinned [Dunmer](Lore_Dunmer.md). Azura also foretold of the [Nerevarine Prophecy](Lore_Nerevarine_Prophecy.md) at the conclusion of the war.<sup>[[10]](#cite_note-BORM-10)</sup>
+
+Regardless of the metaphysical significance of the event, Sun's Death had a real and measurable effect on the climate of [Tamriel](Lore_Tamriel.md). The modern [Nirnroot](https://en.uesp.net/wiki/Lore:Nirnroot) plant emerged as a result of the lack of sunlight, which caused the plant to adapt to the use of falling [ash salts](https://en.uesp.net/wiki/Lore:Ash_Salts) for nourishment. This allowed the plant to avoid extinction, although over time the amount of ash content in the soil diminished.<sup>[[5]](#cite_note-NM-5)</sup> During the [Second Era](Lore_Second_Era.md), volcanic [tuffs](https://en.uesp.net/wiki/Lore:Tuff) from Red Mountain could still be seen along the banks of [Lake Rumare](https://en.uesp.net/wiki/Lore:Lake_Rumare),<sup>[[11]](#cite_note-11)</sup> but by the late [Third Era](Lore_Third_Era.md) the ash content of [Cyrodiil](Lore_Cyrodiil.md)'s soils had diminished to such an extent as to threaten the Nirnroot with extinction.<sup>[[12]](#cite_note-Oblivion-12)</sup>
+
+## Notes
+- Another eruption event, the [Red Year](Lore_Red_Year.md) of [4E 5](Lore_Fourth_Era.md#4E_5), coincided with the conclusion of the Nerevarine Prophecy and the falling of [Baar Dau](https://en.uesp.net/wiki/Lore:Baar_Dau).<sup>[[13]](#cite_note-TRY-13)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-PGE1M_1-0)***</sup><sup>***[b](#cite_ref-PGE1M_1-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: Morrowind*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Morrowind.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+2. [^](#cite_ref-ONLoading_2-0) [ESO loading screens](https://en.uesp.net/wiki/Online:Loading_Screens)
+3. ^ <sup>***[a](#cite_ref-VOF_3-0)***</sup><sup>***[b](#cite_ref-VOF_3-1)***</sup><sup>***[c](#cite_ref-VOF_3-2)***</sup> [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+4. [^](#cite_ref-TIOW_4-0) [*The Importance of Where*](https://en.uesp.net/wiki/Lore:The_Importance_of_Where) — [Marobar Sul](Lore_Books_by_Author.md#Marobar_Sul)
+5. ^ <sup>***[a](#cite_ref-NM_5-0)***</sup><sup>***[b](#cite_ref-NM_5-1)***</sup><sup>***[c](#cite_ref-NM_5-2)***</sup> [*The Nirnroot Missive*](https://en.uesp.net/wiki/Lore:The_Nirnroot_Missive) — [Sinderion](Lore_Books_by_Author.md#Sinderion)
+6. [^](#cite_ref-FSKW_6-0) [*Five Songs of King Wulfharth*](Lore_Five_Songs_of_King_Wulfharth.md)
+7. [^](#cite_ref-7) [*Poison Song VI*](https://en.uesp.net/wiki/Lore:Poison_Song_VI) — [Bristin Xel](Lore_Books_by_Author.md#Bristin_Xel)
+8. [^](#cite_ref-AMOD_8-0) [Antique Map of Deshaan](https://en.uesp.net/wiki/Online:Antique_Map_of_Deshaan) codex entry in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-SCCOTN_9-0) [*Shornhelm, Crown City of the North*](https://en.uesp.net/wiki/Lore:Shornhelm,_Crown_City_of_the_North) — [Lord Wylon](Lore_Books_by_Author.md#Baron_Wylon_Montclair), 39th Baron [Montclair](https://en.uesp.net/wiki/Lore:House_Montclair)
+10. [^](#cite_ref-BORM_10-0) [*The Battle of Red Mountain*](Lore_The_Battle_of_Red_Mountain.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+11. [^](#cite_ref-11) [Nirnroot Wine](https://en.uesp.net/wiki/Online:Nirnroot_Wine) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-Oblivion_12-0) Events of *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+13. [^](#cite_ref-TRY_13-0) [*The Red Year*](Lore_The_Red_Year.md) — [Melis Ravel](Lore_Books_by_Author.md#Melis_Ravel)

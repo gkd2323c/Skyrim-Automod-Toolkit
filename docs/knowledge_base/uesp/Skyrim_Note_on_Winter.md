@@ -1,0 +1,16 @@
+# Note on Winter
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) Book Information <br> *Note on Winter* | | | |
+| --- | --- | --- | --- |
+| Added by | [Forgotten Seasons](Skyrim_Forgotten_Seasons.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 0008A6 | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 0 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0 |
+| Related to | [Forgotten Seasons](Skyrim_Forgotten_Seasons_(quest).md) | | |
+| Locations | | | |
+| Found in the following locations: - [Runoff Caverns](Skyrim_Runoff_Caverns.md), Winter's Chimes | | | |
+
+Note on Winter
+---
+Two steps into winter and I can't feel my toes.
+
+Now the mage says we're gonna have to jump fifty feet into water so cold it'll crack your bones. This is all Bjorn's fault, I wanted to try the Summer room but I drew the sodding short straw.

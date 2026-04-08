@@ -1,0 +1,46 @@
+# Dragon Bridge
+
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Hold | [Haafingar](Lore_Haafingar.md) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Dragon_Bridge), [Skyrim](Skyrim_Dragon_Bridge.md), [ESO](https://en.uesp.net/wiki/Online:Dragon_Bridge) |
+
+[![](https://images.uesp.net/thumb/c/cf/SR-place-Dragon_Bridge_02.jpg/200px-SR-place-Dragon_Bridge_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Dragon_Bridge_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dragon_Bridge_02.jpg) Dragon Bridge circa [4E 201](Lore_Fourth_Era.md#4E_201) [![](https://images.uesp.net/thumb/9/96/AR-place-Dragon_Bridge.jpg/200px-AR-place-Dragon_Bridge.jpg)](https://en.uesp.net/wiki/File:AR-place-Dragon_Bridge.jpg) [](https://en.uesp.net/wiki/File:AR-place-Dragon_Bridge.jpg) Dragon Bridge during the Imperial Simualcrum Dragon Bridge is a lumber town located along the [Karth River](Lore_Karth_River.md) in the region of [Haafingar](Lore_Haafingar.md), within the province of [Skyrim](Lore_Skyrim.md). It is found down the road from [Solitude](Lore_Solitude.md). Dragon Bridge acquires its name from the eponymous Dragon Bridge, an ancient and ornate bridge decorated with [dragon figureheads](Lore_Statues.md). The bridge, which predates the settlement by untold years, spans the [Karth River](Lore_Karth_River.md), connecting the town to the main road through [Hjaalmarch](Lore_Hjaalmarch.md). Some scholars believe the two dragon skulls on the bridge are actually petrified skulls of [dragons](Lore_Dragon.md) due to the difference in stonework detail between the bridge's stone and the skulls, while other scholars deride this as "poetic nonsense".<sup>[[1]](#cite_note-1)</sup>
+
+Dragon Bridge is traditionally well-guarded because, while the Nords value its symbolism, it has also long stood as a strategic crossroads for the northern region, and the first line of defense for Solitude and the neighboring holds.<sup>[[2]](#cite_note-2)</sup> Despite the garrison, a series of caves beneath the hills surrounding Dragon Bridge have been used for various clandestine activities over the years, such as smuggling.<sup>[[3]](#cite_note-3)</sup>
+
+## History
+In [2E 582](Lore_Second_Era.md#2E_582), Dragon Bridge was attacked by the group of [Reachmen](Lore_Reachman.md) marauders led by [Vund the Stone-Shaper](https://en.uesp.net/wiki/Lore:Vund). He intended to destroy the bridge using explosive alchemical reagents. His plans were foiled by the local garrison aided by [an adventurer](Lore_The_Vestige.md), who killed Vund and his followers in the caves beneath the village.<sup>[[4]](#cite_note-CADB-4)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the town of Dragon Bridge was an active settlement. It was ruled by Princess Dorina and had a rivalry with [Stonehills](Lore_Stonehills.md).<sup>[[5]](#cite_note-AR-5)</sup> It was neighbored by several settlements, including [Markarth Side](https://en.uesp.net/wiki/Lore:Markarth_Side) to the south, and [Solitude](Lore_Solitude.md) to the northeast.<sup>[[6]](#cite_note-ARMap-6)</sup>
+
+During the [Skyrim Civil War](Lore_Skyrim_Civil_War.md), the town of Dragon Bridge was very active, as many soldiers from the [Imperial Legion](Lore_Imperial_Legion.md) passed through the town on their way to the battlefield.<sup>[[7]](#cite_note-SRFaida-7)</sup> Local resentment toward soldiers grew with claims of harassment and that they abused their station to avoid paying for goods and services.<sup>[[8]](#cite_note-SRAzzada-8)</sup> The villagers also feared that the strategic value of their historic bridge might lead someone to destroy it. This ultimately would not come to pass, but both [Stormcloaks](Lore_Stormcloaks.md) and Legion soldiers often scouted this critical Karth River crossing on the path to Solitude. During this time, the Emperor of [Cyrodiil](Lore_Cyrodiil.md), [Titus Mede II](Lore_Titus_Mede_II.md), planned a diplomatic mission to Skyrim, and the [Penitus Oculatus](Lore_Penitus_Oculatus.md) were sent to make preparations, establishing their foothold in Dragon Bridge. They were led by Commander Maro, who spearheaded an investigation into the last remaining holdout of the [Dark Brotherhood](Lore_Dark_Brotherhood.md) in Skyrim.<sup>[[9]](#cite_note-SRFaction-9)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), residents of Dragon Bridge were in fear of a nearby cave called [Wolfskull Cave](https://en.uesp.net/wiki/Lore:Wolfskull_Cave) due to the strange noises and lights emanating from it. This fear led Jarl [Elisif the Fair](Lore_Elisif_the_Fair.md) to send the [Last Dragonborn](Lore_Last_Dragonborn.md) to investigate the cave, where it was revealed that a large group of necromancers were attempting to resurrect and bind the spirit of [Potema Septim](Lore_Potema.md). The necromancers and draugr were cleared out, quelling the fears of the townsfolk.<sup>[[10]](#cite_note-10)</sup> That same year, a bandit named Peladius arrived from [Cyrodiil](Lore_Cyrodiil.md), disguised as a guardsman and using a false identity. Originally a member of the [Crimson Dirks](https://en.uesp.net/wiki/Lore:Crimson_Dirks) bandit gang,<sup>[[11]](#cite_note-11)</sup> Peladius hoped to learn the identity of an informant who had betrayed them, but his cover was compromised by a suspicious guard.<sup>[[12]](#cite_note-12)</sup> Peladius killed the guard and attempted to make it look like a suicide by throwing the body off the Dragon Bridge, but eventually confessed to his crimes when the Last Dragonborn began investigating the murder.<sup>[[13]](#cite_note-13)</sup> Seeking a warrior's death, he challenged the Dragonborn to a fight on the bridge and was slain in single combat.<sup>[[14]](#cite_note-14)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/34/ON-place-Dragon_Bridge_03.jpg/200px-ON-place-Dragon_Bridge_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Dragon_Bridge_03.jpg) Dragon Bridge circa [2E 582](Lore_Second_Era.md#2E_582)
+- [![](https://images.uesp.net/thumb/7/71/ON-place-Dragon_Bridge.jpg/200px-ON-place-Dragon_Bridge.jpg)](https://en.uesp.net/wiki/File:ON-place-Dragon_Bridge.jpg) (ESO)
+- [![](https://images.uesp.net/thumb/b/b3/ON-load-Dragon_Bridge_Overlook.png/200px-ON-load-Dragon_Bridge_Overlook.png)](https://en.uesp.net/wiki/File:ON-load-Dragon_Bridge_Overlook.png) One of the caves beneath Dragon Bridge
+- [![](https://images.uesp.net/thumb/d/da/ON-statue-Dragon_Bridge.jpg/200px-ON-statue-Dragon_Bridge.jpg)](https://en.uesp.net/wiki/File:ON-statue-Dragon_Bridge.jpg) A dragon skull sculpture
+
+## See Also
+- For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Dragon_Bridge), [*Skyrim*](Skyrim_Dragon_Bridge.md), and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Dragon_Bridge) [](https://en.uesp.net/wiki/Online:Greymoor) articles.
+
+## References
+1. [^](#cite_ref-1) [*Guide to Western Skyrim: Haafingar*](Lore_Guide_to_Western_Skyrim__Haafingar.md) — [Imperial Surveyor Buntara Gravius](Lore_Books_by_Author.md#Buntara_Gravius)
+2. [^](#cite_ref-2) [Aelvyd](https://en.uesp.net/wiki/Online:Aelvyd)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [Dragon Bridge Smuggler Caves](https://en.uesp.net/wiki/Online:Dragon_Bridge_Smuggler_Caves) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-CADB_4-0) Events of [Crisis at Dragon Bridge](https://en.uesp.net/wiki/Online:Crisis_at_Dragon_Bridge) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-AR_5-0) [Dragon Bridge](https://en.uesp.net/wiki/Arena:Dragon_Bridge) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+6. [^](#cite_ref-ARMap_6-0) [Map of Skyrim – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Skyrim_towns.png)
+7. [^](#cite_ref-SRFaida_7-0) [Faida](https://en.uesp.net/wiki/Skyrim:Faida)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+8. [^](#cite_ref-SRAzzada_8-0) [Azzada Lylvieve](https://en.uesp.net/wiki/Skyrim:Azzada_Lylvieve)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+9. [^](#cite_ref-SRFaction_9-0) [Penitus Oculatus](Skyrim_Penitus_Oculatus.md) faction in *[Skyrim](Skyrim_Skyrim.md)*
+10. [^](#cite_ref-10) [The Man Who Cried Wolf](https://en.uesp.net/wiki/Skyrim:The_Man_Who_Cried_Wolf) quest in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-11) [*The Crimson Dirks, v1*](https://en.uesp.net/wiki/Lore:The_Crimson_Dirks,_v1) — Gathers-the-Coin
+12. [^](#cite_ref-12) [*Guard's Note on Aldepius*](https://en.uesp.net/wiki/Skyrim:Guard%27s_Note_on_Aldepius) — [Guard](Skyrim_Guard_(Alternative_Armors_-_Steel_Soldier).md)
+13. [^](#cite_ref-13) [*Aldepius' Confession*](https://en.uesp.net/wiki/Skyrim:Aldepius%27_Confession) — [Aldepius](https://en.uesp.net/wiki/Skyrim:Aldepius)
+14. [^](#cite_ref-14) [Over the Edge](https://en.uesp.net/wiki/Skyrim:Over_the_Edge) quest from [Alternative Armors - Steel Soldier](Skyrim_Alternative_Armors_-_Steel_Soldier.md) [Creation](Skyrim_Creation_Club.md) for [Skyrim](Skyrim_Skyrim.md) [Special Edition](Skyrim_Special_Edition.md)

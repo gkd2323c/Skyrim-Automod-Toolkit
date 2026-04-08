@@ -1,0 +1,3 @@
+# DLC1RadiantDisguisedVampireFactionMerchant
+
+Redirects to [DLC1RadiantDisguisedVampireFactionMerchant](Skyrim_Factions_R.md#DLC1RadiantDisguisedVampireFactionMerchant).

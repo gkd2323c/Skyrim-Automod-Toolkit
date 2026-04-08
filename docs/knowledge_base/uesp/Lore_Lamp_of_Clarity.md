@@ -1,0 +1,9 @@
+# Lamp of Clarity
+
+[](https://en.uesp.net/wiki/File:ON-icon-quest-Lamp_of_Clarity.png) [](https://en.uesp.net/wiki/File:ON-icon-quest-Lamp_of_Clarity.png) The Lamp of Clarity The Lamp of Clarity was an [artifact](Lore_Artifacts.md) created by the [Daedric Prince](Lore_Daedric_Prince.md) [Azura](Lore_Azura.md) in order to aid in [Ithelia's](Lore_Ithelia.md) imprisonment. It possessed the ability to illuminate the presence of Ithelia and her Unseen on a [Path](Lore_Many_Paths.md) and to reveal open [portals](Lore_Portals.md) to the [Many Paths](Lore_Many_Paths.md), or pull alternate versions of things from the Many Paths into reality.<sup>[[1]](#cite_note-Ithelia-1)</sup><sup>[[2]](#cite_note-Leramil-2)</sup><sup>[[3]](#cite_note-Beragon-3)</sup> The Lamp was ultimately destroyed when it was used as part of a [spell](Lore_Spells.md) originating from [Hermaeus Mora](Lore_Hermaeus_Mora.md), which was provided to the [Vestige](Lore_The_Vestige.md) in order to repair the [reality tears](Lore_Fate.md) created by Ithelia's power that were threatening to unravel all [existence](Lore_Aurbis.md). After the spell was cast the Lamp of Clarity became a normal lamp, its [Daedric](Lore_Daedra.md) power fully expended.<sup>[[4]](#cite_note-Scruut-4)</sup>
+
+## References
+1. [^](#cite_ref-Ithelia_1-0) [Ithelia](https://en.uesp.net/wiki/Online:Ithelia)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Leramil_2-0) [Leramil](https://en.uesp.net/wiki/Online:Leramil_the_Wise)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Beragon_3-0) [Beragon](https://en.uesp.net/wiki/Online:Beragon)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Scruut_4-0) [Scruut](https://en.uesp.net/wiki/Online:Scruut)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

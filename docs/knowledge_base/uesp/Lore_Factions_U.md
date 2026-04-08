@@ -1,0 +1,29 @@
+# Factions U
+
+[Overview](Lore_Factions.md) | [A](Lore_Factions_A.md) [B](Lore_Factions_B.md) [C](Lore_Factions_C.md) [D](Lore_Factions_D.md) [E](Lore_Factions_E.md) [F](Lore_Factions_F.md) [G](Lore_Factions_G.md) [H](Lore_Factions_H.md) [I](Lore_Factions_I.md) [J](Lore_Factions_J.md) [K](Lore_Factions_K.md) [L](Lore_Factions_L.md) [M](Lore_Factions_M.md) [N](Lore_Factions_N.md) [O](Lore_Factions_O.md) [P](Lore_Factions_P.md) [Q](Lore_Factions_Q.md) [R](Lore_Factions_R.md) [S](Lore_Factions_S.md) [T](Lore_Factions_T.md) U [V](Lore_Factions_V.md) [W](Lore_Factions_W.md) [X](Lore_Factions_X.md) Y [Z](Lore_Factions_Z.md)
+---
+
+## Ulath
+The [Ulath Tribe](Lore_Ulath_Tribe.md) (also known as the **Ulathi**) is a minor [Ashlander](Lore_Ashlanders.md) tribe that lives in the [Stonefalls](Lore_Stonefalls.md) region of mainland [Morrowind](Lore_Morrowind.md). Little is known of them, as they are hostile to outsiders. The Cave of Memories, a small cave northwest of [Heimlyn Keep](Lore_Heimlyn_Keep.md), serves as their ancestral burial grounds. They are particularly devoted to the [Daedric Prince](Lore_Daedric_Prince.md) [Mephala](Lore_Mephala.md), one of the Three [Good Daedra](Lore_Good_Daedra.md), and make [silver](Lore_Silver.md) armlets fashioned in the semblance of a spiderweb to honor her.
+
+Their wise-women were known to don long gray fungus-linen wrap-shrouds, draped many times around their torsos during Holy Meditation. They were also known to bless certain pieces of equipment.
+
+## Undaunted
+The [Undaunted](Lore_Undaunted.md) were a loose faction of adventurers contemporary with the [Three Banners War](Lore_Three_Banners_War.md). Neutral in the ongoing war, the Undaunted had members all across [Tamriel](Lore_Tamriel.md) and worked together to raid the greatest dungeons in the land for wealth and glory. They had so-called enclaves in some major cities, such as [Mournhold](Lore_Mournhold.md), [Elden Root](Lore_Elden_Root.md), and [Wayrest](Lore_Wayrest.md) but often chose to meet at inns or taverns.
+
+## University of Gwylim
+The [University of Gwylim](Lore_University_of_Gwylim.md) (also called the **University of Gwilym** or **Gwylim University**) is an ancient scholarly organization dating back to the late [First Era](Lore_First_Era.md), and was founded by the [Ayleid](Lore_Ayleid.md) scholar [Tjurhane Fyrre](Lore_Tjurhane_Fyrre.md). The **University of Gwylim Press** has been responsible for many publications throughout history. It is known that the university awards the **Gwylim Prize** to scholars at times.
+
+The University of Gwylim itself is found in [Cyrodiil](Lore_Cyrodiil.md), however, the term Gwylim is a [Breton](Lore_Breton.md) word. [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md) originally taught at the university before being forced to flee to [Elinhir](Lore_Elinhir.md) due to the [Three Banners War](Lore_Three_Banners_War.md). There is a forbidden section of Gwylim University containing books, and it is unknown what else it carries. They have a satellite campus called the Gwylim Annex in Solitude.
+
+## Unmakers
+The [Unmakers](Lore_Unmakers.md) were a [Second Era](Lore_Second_Era.md) cult devoted to [Sithis](Lore_Sithis.md) the Unmaker. They were led by the self-proclaimed Daughter of Sithis, an [Imperial](Lore_Imperial.md) woman named Lalais. Originally a noblewoman from [Leyawiin](Lore_Leyawiin.md), Lalais dabbled in dark lore, and surrendered herself eagerly to the darkness she found within [Deepscorn Hollow](Lore_Deepscorn_Hollow.md).
+
+The Unmakers established themselves within the ancient halls of Deepscorn Hollow, believed to have been a site sacred to Sithis for untold ages. The cult emerged in [Blackwood](Lore_Blackwood.md) during the chaos of the [Three Banners War](Lore_Three_Banners_War.md), and many wealthy socialites were attracted to its cause. The cultists believed that the world would be reborn once all was consumed by the jaws of the [Void](Lore_Void.md). For this purpose, the cult began to kidnap captives to undergo "Death of the Crystal Fangs": ritualistic sacrifice through the use of life-draining red crystals. In truth, the cult served nothing but Lalais's own avarice and lust, and those foolish enough to join her were bewitched into believing her to be the embodiment of Sithis's dark will.
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), mercenaries descended upon Deepscorn Hollow in search of Quistley Silvelle, a [Breton](Lore_Breton.md) nobleman who had recently fallen in with the cult. With the aid of [the Vestige](Lore_The_Vestige.md), Quistley was located and rescued from the cult before he could be sacrificed. The Vestige confronted Lalais and her "brother" (a giant [flesh colossus](Lore_Flesh_Colossus.md)) within the Fane of Scorn and defeated them, ending the threat of the cult.
+
+## Urshilaku Tribe
+The [Urshilaku Tribe](Lore_Urshilaku_Tribe.md) is one of the four distinct tribes of the [Ashlanders](Lore_Ashlander.md) of [Vvardenfell](Lore_Vvardenfell.md), in the province of [Morrowind](Lore_Morrowind.md). The Urshilaku are known as lore-keepers and mystics, they are highly-respected, and are in fact, the second-most populated tribe in the region. They commonly live along the northern coast, in the **Urshilaku Camp** where the [West Gash](Lore_West_Gash.md) meets the [Ashlands](Lore_Ashlands.md). The Urshilaku Tribe are staunch believers in that the [Nerevarine](Lore_Nerevarine.md) would return to unite the people. A sub-sect of the Urshilaku, known as the [Nerevarine Cult](Lore_Nerevarine_Cult.md) are the ones that enforce this belief and worshipped [Indoril Nerevar](Lore_Indoril_Nerevar.md). The Urshilaku Tribe are known to keep [Guar](Lore_Guar.md) bones, because it is believed that the soul of the guar lingers in the bones and that they can continue to guide them, even after death. The **Urshilaku Burial Caverns** are found just east of [Bthungthumz](Lore_Bthungthumz.md).
+
+## References

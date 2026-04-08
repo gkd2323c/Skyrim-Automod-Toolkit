@@ -1,0 +1,24 @@
+# M'Sharra's Confession
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) Book Information <br> *M'Sharra's Confession* | | | |
+| --- | --- | --- | --- |
+| Added by | [Alternative Armors - Silver](Skyrim_Alternative_Armors_-_Silver.md) | | |
+| [ID](Skyrim_Form_ID.md) | FE [xxx](Skyrim_Form_ID.md#Creation_Club) 815 | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 0 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 0 |
+| Needed for | [When the Cat's Away](Skyrim_When_the_Cat%27s_Away.md) | | |
+| Locations | | | |
+| Found in the following locations: - [Whiterun](Skyrim_Whiterun.md), [Dragonsreach Dungeon](Skyrim_Dragonsreach.md#Dragonsreach_Dungeon) hidden behind the evidence chest | | | |
+
+M'Sharra's Confession **by [M'Sharra](Lore_M%27Sharra.md)** *A note detailing M'Sharra's involvement with the Crimson Dirks*
+---
+M'Sharra enjoyed her fight with the guard. Plus, her new home is better than the last. It is a very tiny cage, but she does not beg for food. It is given.
+
+Still, M'Sharra longs to see the night sky. When she was a kitten, the elders warned her that if she stared too long at the moons, they would grow shy, and M'Sharra would never see them again. This made her sad, and so M'Sharra vowed to stop looking at the sky, and kept her head down toward the dirt where the beggars belonged.
+
+One day, she tried to steal the silver out of the pockets of a Nord named Tyra. When she heard Khajiit's story, she took pity on the kitten, and told her that the moons were not the timid creatures she had believed. She said that as long as Khajiit held her head up high, they would shine brighter than any star.
+
+From that day on she spent her life in service to the Crimson Dirks. And when she was ready, her new litter-mates forged her an armor made of silver, and in its heart, the piece Tyra had in her pocket so many moons ago.
+
+M'Sharra hid the armor in a hut, northwest of Rorikstead. At times, M'Sharra has longed to retrieve it, and wear it proudly.
+
+But she must be careful not to let sentiment cloud her judgment. M'Sharra suspects she is being followed. So she will leave the armor for another. Besides, it is not the silver in the armor or the moonlight in the sky that M'Sharra treasures, but the friends she has lost. Perhaps in death, she will see them again.

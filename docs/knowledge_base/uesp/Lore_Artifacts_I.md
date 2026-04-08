@@ -1,0 +1,14 @@
+# Artifacts I
+
+[Overview](Lore_Artifacts.md) | [A](Lore_Artifacts_A.md) [B](Lore_Artifacts_B.md) [C](Lore_Artifacts_C.md) [D](Lore_Artifacts_D.md) [E](Lore_Artifacts_E.md) [F](Lore_Artifacts_F.md) [G](Lore_Artifacts_G.md) [H](Lore_Artifacts_H.md) I [J](Lore_Artifacts_J.md) [K](Lore_Artifacts_K.md) [L](Lore_Artifacts_L.md) [M](Lore_Artifacts_M.md) [N](Lore_Artifacts_N.md) [O](Lore_Artifacts_O.md) [P](Lore_Artifacts_P.md) [Q](Lore_Artifacts_Q.md) [R](Lore_Artifacts_R.md) [S](Lore_Artifacts_S.md) [T](Lore_Artifacts_T.md) [U](Lore_Artifacts_U.md) [V](Lore_Artifacts_V.md) [W](Lore_Artifacts_W.md) X Y [Z](Lore_Artifacts_Z.md)
+---
+
+## Ice Blade of the Monarch
+[![](https://images.uesp.net/thumb/1/17/MW-item-Ice_Blade_of_the_Monarch.jpg/200px-MW-item-Ice_Blade_of_the_Monarch.jpg)](https://en.uesp.net/wiki/File:MW-item-Ice_Blade_of_the_Monarch.jpg) [](https://en.uesp.net/wiki/File:MW-item-Ice_Blade_of_the_Monarch.jpg) Ice Blade of the Monarch The [Ice Blade of the Monarch](Lore_Ice_Blade_of_the_Monarch.md) (or simply the **Ice Blade**) is a claymore prized by [Tamrielians](Lore_Tamriel.md). The Archmage [Almion Celmo](Lore_Almion_Celmo.md) of the [Summerset Isles](Lore_Summerset_Isles.md) created the claymore for great warrior Thurgnarr Assi, who attempted to use it to commit regicide in some distant land, and become the new ruler. The assassination failed and Almion Celmo was imprisoned. Almnion enchanted the weapon with the soul of a [Frost Monarch](Lore_Frost_Atronach.md#Frost_Monarch), and therefore it freezes all who feel its edge. It is believed to be capable of cutting through the walls of ice that are said to line the world. The Ice Blade goes from owner to owner, never settling for long.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Ice_Blade_of_the_Monarch_(artifact)), [Skyrim](Skyrim_Ice_Blade_of_the_Monarch.md)<sup>[CC](Skyrim_The_Contest.md)</sup>
+
+## Indigo Tomes
+The [Indigo Tomes](Lore_Indigo_Tomes.md) (or **Indigo Scrolls**) are a mysterious collection of tomes found somewhere in the vaults of [Necrom](Lore_Necrom.md). They are very difficult to access, though according to rumor, Princess [Ayrenn](Lore_Ayrenn.md) of [Alinor](Lore_Alinor_(city).md) managed to read them by sneaking into the vaults disguised as a [Dunmer](Lore_Dunmer.md). The existence of the Indigo Tomes was a closely held secret for centuries by the [Keepers of the Dead](Lore_Keepers_of_the_Dead.md), however [Headmaster Tanion](Lore_Books_by_Author.md#Headmaster_Tanion)'s offhand mention of the tomes in his book *[Ayrenn: The Unforeseen Queen](Lore_Ayrenn__The_Unforeseen_Queen.md)* caused the Keepers a small amount of grief, according to [Divayth Fyr](Lore_Divayth_Fyr.md).
+
+**Found in:** - [Lore](Lore_Ayrenn__The_Unforeseen_Queen.md)

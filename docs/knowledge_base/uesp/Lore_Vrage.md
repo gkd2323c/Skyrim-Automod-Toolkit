@@ -1,0 +1,41 @@
+# Vrage
+
+| --- | --- | --- | --- |
+| Race | [Nord](Lore_Nord.md) | Gender | Male |
+| Born | [1E 208](Lore_First_Era.md#1E_208) | | |
+| Resided in | [Skyrim](Lore_Skyrim.md) | | |
+| Reign | [1E 222](Lore_First_Era.md#1E_222) - | | |
+| Previous Ruler | [Hjalmer](Lore_Hjalmer.md) | | |
+
+King Vrage (also called **Vrage the Gifted**<sup>[[1]](#cite_note-PGE1-1)</sup> or **Vrage the Butcher**)<sup>[[2]](#cite_note-ASi V-2)</sup> was the High King of [Skyrim](Lore_Skyrim.md) and the fifteenth monarch descended from [Ysgramor](Lore_Ysgramor.md).<sup>[[3]](#cite_note-KEX-3)</sup> He is widely known for founding and expanding the [First Empire of the Nords](Lore_First_Empire_of_the_Nords.md) across the northern reaches of [Tamriel](Lore_Tamriel.md), growing his domain to encompass parts of [High Rock](Lore_High_Rock.md), [Morrowind](Lore_Morrowind.md), and the [Nibenay Valley](Lore_Nibenay.md).<sup>[[1]](#cite_note-PGE1-1)</sup><sup>[[4]](#cite_note-TDC-4)</sup> Along with his predecessor [Harald](Lore_Harald.md), King Vrage can be credited with leading [man](Lore_Man.md)'s rise to dominance over [mer](Lore_Mer.md) in what would become the provinces of [Cyrodiil](Lore_Cyrodiil.md) and High Rock.<sup>[[5]](#cite_note-FC-5)</sup>
+
+## History
+Vrage was born in [1E 208](Lore_First_Era.md#1E_208)<sup>[[UOL 1]](#cite_note-TFHMCOTOYTR-6)</sup> as a descendant of the [Ysgramor Clan](https://en.uesp.net/wiki/Lore:Ysgramor_Clan).<sup>[[nb 1]](#intnote_Dad)</sup> In [1E 222](Lore_First_Era.md#1E_222), he ascended to the throne in [Windhelm](Lore_Windhelm.md) after the previous king, [Hjalmer](Lore_Hjalmer.md) passed away following a year-long reign.<sup>[[4]](#cite_note-TDC-4)</sup> Vrage spent his tenure expanding the Nordic Empire into other territories.<sup>[[1]](#cite_note-PGE1-1)</sup> His first priority was to take control of High Rock and expel [Aldmeri](Lore_Aldmer.md) influence over the [proto-Bretons](https://en.uesp.net/wiki/Lore:Proto-Breton). While his initial advancement took him as far west as the [Bjoulsae River](Lore_Bjoulsae_River.md), his influence could not last when the elves had the upper hand.<sup>[[6]](#cite_note-PGE1HR-7)</sup>
+
+Regardless, by [1E 240](Lore_First_Era.md#1E_240), High King Vrage's Empire had expanded to include all of High Rock and Morrowind (aside from the [Dwemer](Lore_Dwemer.md) kingdom of [Vvardenfell](Lore_Vvardenfell.md)),<sup>[[4]](#cite_note-TDC-4)</sup> and established a loose alliance with the [Nedic](https://en.uesp.net/wiki/Lore:Nede) rebels led by [Alessia](Lore_Alessia.md) to the south.<sup>[[7]](#cite_note-PGE3-8)</sup> He was known to survey his newly-conquered territory and announce his arrival with a bronze war horn.<sup>[[8]](#cite_note-ONBronzed-9)</sup> The [Ayleids](Lore_Ayleid.md) that fled to Skyrim after their empire's downfall were slaughtered by militias led by Vrage himself.<sup>[[2]](#cite_note-ASi V-2)</sup> His campaign's success was sometimes credited to [Sai](https://en.uesp.net/wiki/Lore:Sai), the God of Luck, whose many years living among the Nords had blessed them with luck, leaving the elves completely in the dust. According to legend, Sai settled with a family in Skyrim, and his time spent in this land bestowed excessive luck to the people of Skyrim. The gods told him he must leave the area and distribute his luck around Tamriel. It took Sai roughly a hundred and fifty years to make things right and reset Vrage's influence, which gave the conquered provinces the leverage to reclaim their lands.<sup>[[3]](#cite_note-KEX-3)</sup>
+
+Ysgramor's dynasty did not end with Vrage as it would continue for roughly one hundred more years until its death with [Borgas](Lore_Borgas.md).<sup>[[1]](#cite_note-PGE1-1)</sup> Vrage was known to have a least one bastard child; according to local legend, a star-studded [guar](https://en.uesp.net/wiki/Lore:Guar) quietly brought them to the village of Fulstrom in northeast [Eastmarch](Lore_Eastmarch.md) one snowy night. No one heard the pair pass through, and the villagers only discovered the child after it cried out for warmth. By the break of dawn, the guar had disappeared.<sup>[[9]](#cite_note-ONStar Born-10)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/e/e8/LO-map-Skyrim_%28PGE1%29.jpg/200px-LO-map-Skyrim_%28PGE1%29.jpg)](File_LO-map-Skyrim_(PGE1).jpg.md) Map of Skyrim
+- [![](https://images.uesp.net/thumb/a/ac/ON-crown_store-Star-Born_Guardian_Guar.jpg/200px-ON-crown_store-Star-Born_Guardian_Guar.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Star-Born_Guardian_Guar.jpg) A Star-Born Guardian Guar
+
+## Notes
+- | [^](#note_Dad) | The [King Edward](https://en.uesp.net/wiki/Lore:King_Edward) series of historical fiction books claim that Vrage was Harald's second son, but the timeline in [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) says that Vrage was Hjalmer's youngest son. |
+| --- | --- |
+- Some accounts describe Vrage as both a [Tongue](https://en.uesp.net/wiki/Lore:Tongue) and a Thoom-Thane, to whom the Fifty-Five Beards of Broadwall gave their oath and tribute. It was his clan that built, shattered, and rebuilt Broadwall each time the Nords chose to sing their return, whether forward or back. The same source also tells of Thoom-Sha, his Sky-Wife, the Queen of the Tongues of Men.<sup>[[UOL 1]](#cite_note-TFHMCOTOYTR-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-PGE1_1-0)***</sup><sup>***[b](#cite_ref-PGE1_1-1)***</sup><sup>***[c](#cite_ref-PGE1_1-2)***</sup><sup>***[d](#cite_ref-PGE1_1-3)***</sup> [*Pocket Guide to the Empire, 1st Edition: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+2. ^ <sup>***[a](#cite_ref-ASi V_2-0)***</sup><sup>***[b](#cite_ref-ASi V_2-1)***</sup> [*Ayleid Survivals in Valenwood*](https://en.uesp.net/wiki/Lore:Ayleid_Survivals_in_Valenwood) — [Cuinur of Cloudrest](Lore_Books_by_Author.md#Cuinur_of_Cloudrest), 4th Tier Scholar of Tamrielic Minutiae
+3. ^ <sup>***[a](#cite_ref-KEX_3-0)***</sup><sup>***[b](#cite_ref-KEX_3-1)***</sup> [*King Edward, Part X*](Lore_King_Edward,_Part_X.md) — Anonymous
+4. ^ <sup>***[a](#cite_ref-TDC_4-0)***</sup><sup>***[b](#cite_ref-TDC_4-1)***</sup><sup>***[c](#cite_ref-TDC_4-2)***</sup> [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) — Ronald Wartow
+5. [^](#cite_ref-FC_5-0) [*Frontier, Conquest*](Lore_Frontier,_Conquest.md) — [University of Gwylim Press](Lore_Books_by_Author.md#University_of_Gwylim_Press), [3E 344](Lore_Third_Era.md#3E_344)
+6. [^](#cite_ref-PGE1HR_7-0) [*Pocket Guide to the Empire, 1st Edition: High Rock*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_High_Rock.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+7. [^](#cite_ref-PGE3_8-0) [*Pocket Guide to the Empire, 3rd Edition: The Seat of Sundered Kings: Cyrodiil*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Cyrodiil.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+8. [^](#cite_ref-ONBronzed_9-0) [Bronzed War Horn](https://en.uesp.net/wiki/Online:Stonefalls_Antiquities#Bronzed_War_Horn) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+9. [^](#cite_ref-ONStar Born_10-0) [Star-Born Guardian Guar](https://en.uesp.net/wiki/Online:Star-Born_Guardian_Guar) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-TFHMCOTOYTR_6-0)***</sup><sup>***[b](#cite_ref-TFHMCOTOYTR_6-1)***</sup> [*The Five Hundred Mighty Companions or Thereabouts of Ysgramor the Returned*](https://en.uesp.net/wiki/General:The_Five_Hundred_Mighty_Companions_or_Thereabouts_of_Ysgramor_the_Returned)

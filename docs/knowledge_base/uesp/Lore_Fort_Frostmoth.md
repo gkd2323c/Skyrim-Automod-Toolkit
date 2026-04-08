@@ -1,0 +1,51 @@
+# Fort Frostmoth
+
+| Fort Frostmoth | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Morrowind](Lore_Morrowind.md) |
+| Region | [Solstheim](Lore_Solstheim.md) |
+| Appears in | [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Fort_Frostmoth), [Dragonborn](Skyrim_Fort_Frostmoth.md) |
+
+[![](https://images.uesp.net/thumb/f/f9/BM-place-Fort_Frostmoth.jpg/200px-BM-place-Fort_Frostmoth.jpg)](https://en.uesp.net/wiki/File:BM-place-Fort_Frostmoth.jpg) [](https://en.uesp.net/wiki/File:BM-place-Fort_Frostmoth.jpg) Fort Frostmoth circa [3E 427](Lore_Third_Era.md#3E_427) Fort Frostmoth was the primary [Imperial](Lore_Imperial.md) settlement on the south coast of [Solstheim](Lore_Solstheim.md), in the [Hirstaang Forest](Lore_Hirstaang_Forest.md). It was established some time in the [Third Era](Lore_Third_Era.md), after the Imperial discovery of the island. The fort acted as the area office of the [East Empire Company](Lore_East_Empire_Company.md), established on Solstheim to mine the rich deposits of [ebony](Lore_Ebony.md) from [Raven Rock](Lore_Raven_Rock.md), and was also the main link to [Vvardenfell](Lore_Vvardenfell.md) by way of [Khuul](Lore_Khuul.md). The sizeable garrison was one of the few signs of civilization on the island, apart from the colony.<sup>[[1]](#cite_note-Dialogue-1)</sup><sup>[[2]](#cite_note-PRIMA-2)</sup><sup>:1054</sup> The fort was known among the [legionnaires](Lore_Imperial_Legion.md) as a punishment detail, due partly to the unpleasant weather and partly due to the mead. Unruly soldiers were usually sent to the fort as penance,<sup>[[2]](#cite_note-PRIMA-2)</sup><sup>:1054</sup> and the locals viewed them as nothing more than Imperials who had no respect for the island.<sup>[[1]](#cite_note-Dialogue-1)</sup>
+
+## History
+[Falx Carius](Lore_Falx_Carius.md) volunteered for the posting of Captain at Fort Frostmoth. His subordinates theorized that it was because he had some sort of a death wish or had lost a bet, but the true reason is unknown. They viewed him as being a do-gooder who went strictly by the book, but was still a good man who, while tough, was also fair.<sup>[[UOL 1]](#cite_note-Legionnaire Interview-3)</sup>
+
+In [3E 427](Lore_Third_Era.md#3E_427), during the fulfillment of the [Bloodmoon Prophecy](Lore_Bloodmoon_Prophecy.md), the fort was attacked by [werewolves](Lore_Werewolf.md) sent by [Hircine](Lore_Hircine.md), who captured Captain Carius to act as one of the Prey in the Hunt. The fort sustained heavy structural damage in the attack. Carius survived the ordeal and re-assumed command of the fort later that year.<sup>[[3]](#cite_note-BM-4)</sup>
+
+In [3E 433](Lore_Third_Era.md#3E_433), the [Nords](Lore_Nord.md) of [Skyrim](Lore_Skyrim.md) attempted to capture the whole of Solstheim and remove Fort Frostmoth.<sup>[[4]](#cite_note-5)</sup> Solstheim did indeed, as a whole, come under official control from Skyrim at this time:<sup>[[5]](#cite_note-6)</sup> but the fort remained intact, as did the recently-established town of Raven Rock and its ebony mines.<sup>[[6]](#cite_note-7)</sup> Indeed, any change in the overall situation seems to have existed largely on paper.
+
+After the [Oblivion Crisis](Lore_Oblivion_Crisis.md), [Dunmer](Lore_Dunmer.md) refugees led by [House Redoran](Lore_House_Redoran.md) began settling in Raven Rock in [4E 1](Lore_Fourth_Era.md#4E_1), under the leadership of Councilor [Brara Morvayn](Lore_Brara_Morvayn.md), who maintained a good relationship with the East Empire Company who were currently (still) in charge of the town.<sup>[[7]](#cite_note-AHRR-8)</sup>. There is evidence that General Carius, while still alive, perceived the Dunmer settlements as a threat to the garrison and demanded that the Dunmer surrender. They never replied, and Carius repeatedly wrote to the [Imperial Council](Lore_Imperial_Council.md) to seek guidance,<sup>[[8]](#cite_note-LTIC-9)</sup> apparently also without reply. Eventually, Carius decided to declare war on Raven Rock, threatening to retaliate if the Dunmer attacked the fort.<sup>[[9]](#cite_note-DOW-10)</sup> It appears, in fact, that several of the letters were never actually sent (it was in Fort Frostmoth that they were found, in [4E 201](Lore_Fourth_Era.md#4E_201)), and that the whole idea of a conflict between Fort Frostmoth and Raven Rock appears to have been a product of an increasingly paranoid Carius's imagination. Raven Rock at that time still regarded itself as under Imperial protection according to its own history, and was still under the control of the East Empire Company; furthermore, the Dunmer colony was still very small.<sup>[[7]](#cite_note-AHRR-8)</sup>
+
+In [4E 5](Lore_Fourth_Era.md#4E_5), the aging Fort Frostmoth was almost completely destroyed by the eruption of the [Red Mountain](Lore_Red_Mountain.md), resulting in the deaths of most of the garrison including General Carius. The few surviving Imperial soldiers moved to Raven Rock and attempted to establish a new garrison there, but they were too few in number to effectively protect the settlement on their own: they were supplemented, and eventually replaced, by guards from House Redoran. In [4E 16](Lore_Fourth_Era.md#4E_16) Solstheim officially became a territory of [Morrowind](Lore_Morrowind.md) when the High King of Skyrim offered the island to the Dunmer people. The East Empire Company withdrew from Solstheim by this time, believing the ebony mine to be failing (in fact it kept going for a considerable time), and taking the last vestiges of Imperial influence along with it, and the fort was never rebuilt.<sup>[[7]](#cite_note-AHRR-8)</sup> The ruins were taken over by [Ash Spawn](Lore_Ash_Spawn.md) and Albino Spiders.
+
+Some time before [4E 201](Lore_Fourth_Era.md#4E_201), [Ildari Sarothril](Lore_Ildari_Sarothril.md), an apprentice of [Master Neloth](Lore_Neloth.md) of [Great House Telvanni](Lore_House_Telvanni.md), entered the ruins of Fort Frostmoth to conduct necromantic experiments using [heart stones](Lore_Heart_Stone.md). She succeeded in reanimating the corpse of Falx Carius, but after two months she departed when she was unable to exert any manner of control over him. The undead Carius, apparently under the delusion that the Ash Spawn still in the fort were his garrison, continued (or possibly began; see [notes](#Notes)) his crusade against House Redoran by sending enclaves of Ash Spawn to attack Raven Rock. In 4E 201, the [Last Dragonborn](Lore_Hero.md) traced the attacks back to Fort Frostmoth and destroyed Carius on behalf of the Redoran Guard.<sup>[[10]](#cite_note-11)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/77/BM-quest-The_Disappearance_of_Captain_Carius.jpg/200px-BM-quest-The_Disappearance_of_Captain_Carius.jpg)](https://en.uesp.net/wiki/File:BM-quest-The_Disappearance_of_Captain_Carius.jpg) The fort after a [werewolf](Lore_Werewolf.md) attack
+- [![](https://images.uesp.net/thumb/3/3d/SR-place-Fort_Frostmoth.jpg/200px-SR-place-Fort_Frostmoth.jpg)](https://en.uesp.net/wiki/File:SR-place-Fort_Frostmoth.jpg) The ruins of Fort Frostmoth circa [4E 201](Lore_Fourth_Era.md#4E_201)
+- [![](https://images.uesp.net/thumb/9/9d/Solstheim_map_Bloodmoon.jpg/172px-Solstheim_map_Bloodmoon.jpg)](https://en.uesp.net/wiki/File:Solstheim_map_Bloodmoon.jpg) Map of Solstheim showing Fort Frostmoth
+
+## Notes
+- It is doubtful that the Dunmer of Raven Rock even knew that Carius perceived them as a threat in the early Fourth Era - that is, if Carius ever wrote the letters at the time at all. It is possible that the letters, and his paranoid insanity about the increasing growth of the Dunmer colony, actually all date from after his necromantic reanimation, by which time the Dunmer were indeed in charge of Raven Rock and their colony was indeed "sizable", and Carius's "attempts to contact them" took the form of sending invasions of Ash Spawn, one of which was carrying his apparent "declaration of war" as if the Ash Spawn invasion had been a diplomatic mission.
+
+## See Also
+- For game-specific information, see the [*Bloodmoon*](https://en.uesp.net/wiki/Bloodmoon:Fort_Frostmoth) and [*Skyrim*](Skyrim_Fort_Frostmoth.md)<sup>[DB](Skyrim_Dragonborn.md)</sup> articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Dialogue_1-0)***</sup><sup>***[b](#cite_ref-Dialogue_1-1)***</sup> [Fort Frostmoth](https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_F#Fort_Frostmoth) dialogue topic
+2. ^ <sup>***[a](#cite_ref-PRIMA_2-0)***</sup><sup>***[b](#cite_ref-PRIMA_2-1)***</sup> [The Elder Scrolls V: Skyrim Legendary Prima Official Game Guide](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide#Legendary_Edition)
+3. [^](#cite_ref-BM_4-0) Events of *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+4. [^](#cite_ref-5) Rumors in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+5. [^](#cite_ref-6) [Dragonborn loading screen](Skyrim_Loading_Screens.md#Solstheim)
+6. [^](#cite_ref-7) The [History of Raven Rock](https://en.uesp.net/wiki/Lore:History_of_Raven_Rock) has no record of any attempt to conquer the town or the fort by violence.
+7. ^ <sup>***[a](#cite_ref-AHRR_8-0)***</sup><sup>***[b](#cite_ref-AHRR_8-1)***</sup><sup>***[c](#cite_ref-AHRR_8-2)***</sup> [*History of Raven Rock*](https://en.uesp.net/wiki/Lore:History_of_Raven_Rock) — [Lyrin Telleno](Lore_Books_by_Author.md#Lyrin_Telleno)
+8. [^](#cite_ref-LTIC_9-0) [*Letter to Imperial City*](https://en.uesp.net/wiki/Skyrim:Letter_to_Imperial_City) — [General Falx Carius](Skyrim_General_Falx_Carius.md)
+9. [^](#cite_ref-DOW_10-0) [*Declaration of War*](Skyrim_Declaration_of_War.md) — [General Falx Carius](Skyrim_General_Falx_Carius.md)
+10. [^](#cite_ref-11) Events of *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-Legionnaire Interview_3-0) [*Withershyn's Interview with a Legionnaire Concerning Solstheim*](https://en.uesp.net/wiki/General:Withershyn%27s_Interview_with_a_Legionnaire_Concerning_Solstheim) — Ligur Pontius

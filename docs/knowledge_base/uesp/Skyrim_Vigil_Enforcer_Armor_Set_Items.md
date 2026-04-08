@@ -1,0 +1,47 @@
+# Vigil Enforcer Armor Set Items
+
+This page documents the **new items** added by the [Vigil Enforcer Armor Set](Skyrim_Vigil_Enforcer_Armor_Set.md) [Creation](Skyrim_Creation_Club.md).
+
+## Apparel
+| | Name ([ID](Skyrim_Form_ID.md)) | Type | [Tempering](Skyrim_Workbench.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Armor.png) | Vigil Corrupted Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7F) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Boots.png) | Vigil Corrupted Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7E) | Heavy Boots | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 9 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Gauntlets.png) | Vigil Corrupted Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D80) | Heavy Gauntlets | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Helmet.png) | Vigil Corrupted Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D82) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 300 | 19 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Open_Helmet.png) | Vigil Corrupted Open Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D81) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 5 | 125 | 17 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Corrupted_Sashed_Armor.png) | Vigil Corrupted Sashed Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 803) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Enforcer_Armor.png) | Vigil Enforcer Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D61) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Enforcer_Boots.png) | Vigil Enforcer Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D63) | Heavy Boots | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 9 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Enforcer_Gauntlets.png) | Vigil Enforcer Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D62) | Heavy Gauntlets | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Enforcer_Helmet.png) | Vigil Enforcer Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D65) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 5 | 125 | 17 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Silver_Hand_Armor.png) | Vigil Silver Hand Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D84) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Silver_Hand_Boots.png) | Vigil Silver Hand Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D83) | Heavy Boots | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 9 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Silver_Hand_Gauntlets.png) | Vigil Silver Hand Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D85) | Heavy Gauntlets | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Silver_Hand_Helmet.png) | Vigil Silver Hand Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D86) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 5 | 125 | 17 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Armor.png) | Vigil Veteran Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7B) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Boots.png) | Vigil Veteran Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7A) | Heavy Boots | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 9 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Gauntlets.png) | Vigil Veteran Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7C) | Heavy Gauntlets | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 125 | 14 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Helmet.png) | Vigil Veteran Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D64) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 6 | 300 | 19 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Open_Helmet.png) | Vigil Veteran Open Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) D7D) | Heavy Helmet | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 5 | 125 | 17 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Vigil_Veteran_Sashed_Armor.png) | Vigil Veteran Sashed Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 800) | Heavy Armor | [Steel Ingot](Skyrim_Steel_Ingot.md); <br> perk: [Steel](Skyrim_Steel_Smithing.md) | 38 | 625 | 40 | |
+
+## Books
+| | Title ([ID](Skyrim_Form_ID.md)) | Author | Description | Location |
+| --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal3.png) | [***Azarain's Journal***](Skyrim_Azarain%27s_Journal.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 927 | [Azarain](Skyrim_Azarain.md) | The diary of a deceased Vigilant of Stendarr | - On [Azarain](Skyrim_Azarain.md)'s body at the [Windward Ruins](Skyrim_Windward_Ruins.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal3.png) | [***Fenrik's Journal***](Skyrim_Fenrik%27s_Journal.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 963 | [Fenrik](Skyrim_Fenrik.md) | A journal documenting a Vigilant's attempts to cure his vampirism | - Carried by [Fenrik](Skyrim_Fenrik.md) in [Quicksilver Mine](Skyrim_Quicksilver_Mine.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book4a.png) | [***Galur Rithari's Papers***](Skyrim_Galur_Rithari%27s_Papers.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 952 | [Galur Rithari](Lore_Books_by_Author.md#Galur_Rithari) | Galur Rithari's account of his attempts to rid himself of vampirism | - Hidden chamber within [Quicksilver Mine](Skyrim_Quicksilver_Mine.md) |
+
+## Miscellaneous
+| | Name ([ID](Skyrim_Form_ID.md)) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | Notes |
+| --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-misc-Elven_Dagger.png) | Elven Dagger <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 97C) | 0 | 3 | - Found in the data, but unused. |
+
+## Notes
+| | Title ([ID](Skyrim_Form_ID.md)) | Author | Description | Location |
+| --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Letter to Keeper Carcette***](Skyrim_Letter_to_Keeper_Carcette.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 811 | [Azarain](Skyrim_Azarain.md) | A letter from a concerned Vigilant reporting disappearances in the Pale | - [Hall of the Vigilant](Skyrim_Hall_of_the_Vigilant.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Miner's Note***](Skyrim_Miner%27s_Note.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 929 | [Harald](Skyrim_Harald.md) | A note from a Molag Bal cultist | - Found on [Harald](Skyrim_Harald.md)'s body if he dies before leading you to the secret door in [Quicksilver Mine](Skyrim_Quicksilver_Mine.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Mysterious Note***](Skyrim_Mysterious_Note_(Vigil_Enforcer_Armor_Set).md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 928 | | An ominous note from a supposed informant | - [Windpeak Inn](Skyrim_Windpeak_Inn.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Notes on Dissection***](Skyrim_Notes_on_Dissection.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 9E5 | | Dissection notes on a Vigilant of Stendarr | - [Quicksilver Mine](Skyrim_Quicksilver_Mine.md), in the cavern with the shrine to [Molag Bal](Lore_Molag_Bal.md), on a table in between multiple pieces of human bones and [embalming tools](Skyrim_Embalming_Tool.md) |

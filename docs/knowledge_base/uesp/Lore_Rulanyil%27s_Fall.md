@@ -1,0 +1,29 @@
+# Rulanyil's Fall
+
+| Rulanyil's Fall | |
+| --- | --- |
+| Type | Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) |
+| Region | [Greenshade](Lore_Greenshade.md) <br> ([Drowned Coast](Lore_Drowned_Coast.md)) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Rulanyil%27s_Fall) |
+
+[![](https://images.uesp.net/thumb/6/69/ON-place-Rulanyil%27s_Fall.jpg/200px-ON-place-Rulanyil%27s_Fall.jpg)](https://en.uesp.net/wiki/File:ON-place-Rulanyil%27s_Fall.jpg) [](https://en.uesp.net/wiki/File:ON-place-Rulanyil%27s_Fall.jpg) Rulanyil's Fall circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/e/ef/ON-place-Ceythalmor_Hideout_%28Interrogation_Chamber%29_03.jpg/200px-ON-place-Ceythalmor_Hideout_%28Interrogation_Chamber%29_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Ceythalmor_Hideout_(Interrogation_Chamber)_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Ceythalmor_Hideout_(Interrogation_Chamber)_03.jpg) Interrogation chamber in the Ceythalmor hideout Rulanyil's Fall is an [Ayleid](Lore_Ayleid.md) ruin located in the [Greenshade](Lore_Greenshade.md) region of [Valenwood](Lore_Valenwood.md), northeast of [Woodhearth](Lore_Woodhearth.md). It is one of the most impressive examples of Ayleid architecture in all of Valenwood, and possesses its own [Ayleid Well](Lore_Ayleid_Wells.md).
+
+When the [White-Gold Tower](Lore_White-Gold_Tower.md) fell to [Nedic](Lore_Nede.md) rebels in [1E 243](Lore_First_Era.md#1E_243) after the [Alessian Slave Rebellion](Lore_Alessian_Slave_Rebellion.md), the [Daedra](Lore_Daedra.md) -worshipping Rulanyil clan was forced to migrate out of [Cyrodiil](Lore_Cyrodiil.md) to avoid slaughter. They abandoned the city of [Vilverin](Lore_Vilverin.md) on the shores of [Lake Rumare](Lore_Lake_Rumare.md) and traveled to Greenshade to found Rulanyil's Fall.<sup>[[1]](#cite_note-1)</sup> Although they escaped largely unscathed, the clan's fervor for Daedra worship decreased, and they were forced to abide by the [Green Pact](Lore_Green_Pact.md) in order to continue receiving aid from their [Bosmer](Lore_Bosmer.md) cousins. Within two thousand years of its founding, Rulanyil's Fall was left abandoned, its Ayleid inhabitants having been integrated fully into Bosmer society.<sup>[[2]](#cite_note-2)</sup>
+
+By the time of the [Interregnum](Lore_Interregnum.md), the ruins of Rulanyil's Fall were occupied by the [Merethic Society](Lore_Merethic_Society.md), a loose group of adventurers devoted to hoarding antiques. It was repurposed as "Endarwe's Museum of Wonder and Antiquities", where the society displayed their various historical relics to the general public. Among their more notable possessions were the warhorn of High King [Borgas](Lore_Borgas.md), the sword of [Aiden Direnni](Lore_Aiden_Direnni.md), the crown of [Mansel Sesnit](Lore_Mansel_Sesnit.md), a compass from the [All-Flags Navy](Lore_All-Flags_Navy.md), a statue believed to be the petrified head of [Brazzefk](https://en.uesp.net/wiki/Lore:Brazzefk), a legendary [Dwemer](Lore_Dwemer.md) [alchemist](Lore_Alchemy.md), as well as various [Altmeri](Lore_Altmer.md) and Nedic antiques. However, the centerpiece of the collection was the corpse of Warlord [Ceyran](Lore_Ceyran.md), a fearsome Ayleid leader and [Daedraphile](Lore_Daedraphiles.md) who had been entombed in Rulanyil's Fall. However, in truth the body was that of an Altmer named Nanwen, a member of the Merethic Society who had died in a cave-in while repurposing the ruins.<sup>[[3]](#cite_note-ESO-3)</sup><sup>[[4]](#cite_note-HOB-4)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the [Worm Cult](Lore_Worm_Cult.md) invaded the ruins in order to resurrect [Ceyran](Lore_Ceyran.md) as a powerful undead servant. The cultists destroyed many of the exhibits, raising the dead to fortify the ruins while they prepared the ritual. Fearing that his secret would be discovered, Endarwe sent groups of adventurers into the ruins to fight back against the cultists, rescue the surviving relics, and prevent Nanwen from being resurrected. Many of the items were retrieved, and the Worm Cult only succeeded in binding Nanwen's awakened spirit to a sword, which Endarwe agreed to part with in order to continue displaying the corpse as Ceyran. Among the cultists killed in the ruins was [Magna Tharn](Lore_Magna_Tharn.md), a member of House [Tharn](Lore_Tharn.md). A resurrected Ayleid named Hergor the Fallen was also banished when he attempted to raise his own army of undead.<sup>[[3]](#cite_note-ESO-3)</sup>
+
+That same year, the [Ceythalmor](Lore_Ceythalmor.md) established a hideout in an unused section of Rulanyil's Fall, marked by a red tapestry. With the help of [the Vestige](Lore_The_Vestige.md), Tanlorin located and attacked this hideout to rescue Hyacinth, a fellow a member of the Garland Ring who had also been targeted for interrogation by the Ceythalmor.<sup>[[5]](#cite_note-5)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Rulanyil%27s_Fall).
+
+## References
+1. [^](#cite_ref-1) [ESO loading screens](https://en.uesp.net/wiki/Online:Loading_Screens)
+2. [^](#cite_ref-2) [*Ayleid Survivals in Valenwood*](Lore_Ayleid_Survivals_in_Valenwood.md) — [Cuinur of Cloudrest](Lore_Books_by_Author.md#Cuinur_of_Cloudrest), 4th Tier Scholar of Tamrielic Minutiae
+3. ^ <sup>***[a](#cite_ref-ESO_3-0)***</sup><sup>***[b](#cite_ref-ESO_3-1)***</sup> [Rulanyil's Fall](https://en.uesp.net/wiki/Online:Rulanyil%27s_Fall) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-HOB_4-0) [*Head of Brazzefk*](Lore_Head_of_Brazzefk.md) — [Merethic Society](Lore_Books_by_Author.md#Merethic_Society)
+5. [^](#cite_ref-5) [The Garland Ring](https://en.uesp.net/wiki/Online:The_Garland_Ring) quest in [ESO](https://en.uesp.net/wiki/Online:ESO)

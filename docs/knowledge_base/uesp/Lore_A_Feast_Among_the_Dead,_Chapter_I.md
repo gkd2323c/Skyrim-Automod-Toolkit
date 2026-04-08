@@ -1,0 +1,17 @@
+# A Feast Among the Dead, Chapter I
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:A_Feast_Among_the_Dead,_Chapter_I) ([Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))) | | |
+| Up | *[A Feast Among the Dead](Lore_A_Feast_Among_the_Dead.md)* | | |
+| Prev. | None | Next | *[Chapter II](Lore_A_Feast_Among_the_Dead,_Chapter_II.md)* |
+
+A Feast Among the Dead, Chapter I **by [Severia Quasitto](Lore_Books_by_Author.md#Severia_Quasitto), renowned traveler** *A traveler's journey to Necrom*
+---
+My journeys through the [Dunmer](Lore_Dunmer.md) [homeland](Lore_Morrowind.md) have taken me on a circuitous route, but having finally secured a berth on a merchant vessel bound for [Vos](Lore_Vos.md), I was able to travel to [Sadrith Mora](Lore_Sadrith_Mora.md). From there, it was a matter of taking a [silt-strider](Lore_Silt_Strider.md) across the [Narrow Sea](https://en.uesp.net/wiki/Lore:Narrow_Sea) to Ald Isra (a voyage only made during the doldrums of [Sun's Height](Lore_Sun%27s_Height.md) and [Last Seed](Lore_Last_Seed.md); the crossing is too treacherous otherwise) and, finally, joining a pilgrim train to [Necrom](Lore_Necrom.md).
+
+Necrom! The City of the Dead is paradoxically both an apt sobriquet and also wholly unsuitable. At certain hours, I give you, the city is as a mausoleum—full of stillness and solemn reflection. The atmosphere in these hours weighs heavily on the soul and wrenches a mournful moan from the lungs. At other times, however, the city becomes a flurry of activity—Dark Elves from all [Houses](Lore_Great_Houses.md) and walks of life walk as equal kindred here, and they seize upon the chance to engage, to trade, to cajole, and to feast. Here an [Indoril](Lore_House_Indoril.md) and a [Redoran](Lore_House_Redoran.md) set aside house banners, knowing they share the blood of an ancestor who lived some dozen generations past. Together they honor this ancestor, that they may rest easier.
+
+As was my dearest hope, I managed to secure an invitation to one of these graveside gatherings. My bunk-mate at the boarding-house—two-a-bed, ugh! But mercifully clean and free of fleas—was a portly and convivial textile merchant from somewhere west of [Ebonheart](Lore_Ebonheart.md) who had come to Necrom to pay homage to some distant and long-dead relation, as had several dozen of his kin. (I must confess my eyes glazed over when he started explaining the distinction between a great-great-aunt's third cousin and a third cousin's great-great aunt.)
+
+The deceased—the subject of this family gathering—had a name composed of so many H's and L's as to be incomprehensible. He was once a cook of some great renown—he served in the Refectory of the High Fane in [Vivec](Lore_Vivec_City.md) for nearly sixty years. His death had been some two hundred years previous. I am given to understand that many ancestor spirits prefer to move on from the mortal plane much sooner. My host, however, took great care to inform me that the deceased was unwilling to forsake the mortal plane until he was satisfied one of his descendants proved sufficiently capable of bearing his culinary legacy. I was intrigued. Who would not be? And so as night began to fall across the city, and the long shadows drew a shroud over the bone-white stones, we set off to the Necropolis and into the ancient vaults beneath.

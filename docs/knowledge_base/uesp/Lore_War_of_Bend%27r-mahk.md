@@ -1,0 +1,71 @@
+# War of the Bend'r-mahk
+
+This article is about the war. For the term, see [Bend'r-mahk](https://en.uesp.net/wiki/Lore:Bend%27r-mahk).
+
+[![](https://images.uesp.net/thumb/8/88/Shadowkey_Map.jpg/200px-Shadowkey_Map.jpg)](https://en.uesp.net/wiki/File:Shadowkey_Map.jpg) [](https://en.uesp.net/wiki/File:Shadowkey_Map.jpg) Borders during the war [![](https://images.uesp.net/a/a3/SK-narrative-Start1.png)](https://en.uesp.net/wiki/File:SK-narrative-Start1.png) [](https://en.uesp.net/wiki/File:SK-narrative-Start1.png) War comes to the Western Reach The War of the Bend'r-mahk<sup>[[1]](#cite_note-DC-1)</sup><sup>:9</sup><sup>[[2]](#cite_note-V2AS-2)</sup> (sometimes stylized as the War of the Bend'r-Mahk<sup>[[3]](#cite_note-SKManual-3)</sup><sup>:4</sup><sup>[[4]](#cite_note-PGE3High-4)</sup> and the War of Bend'r-Mahk)<sup>[[5]](#cite_note-PGE3Ham-5)</sup><sup>[[6]](#cite_note-PGE3Sky-6)</sup> was a conflict that started in [3E 397](Lore_Third_Era.md#3E_397) during the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) period between the provinces of [Hammerfell](Lore_Hammerfell.md), [Skyrim](Lore_Skyrim.md) and [High Rock](Lore_High_Rock.md).<sup>[[3]](#cite_note-SKManual-3)</sup><sup>:4</sup><sup>[[7]](#cite_note-SKmap-7)</sup>
+
+During the war [Skyrim](Lore_Skyrim.md) defeated the forces of [Hammerfell](Lore_Hammerfell.md) and [High Rock](Lore_High_Rock.md) and claimed many miles of the [eastern parts of those provinces](Lore_Western_Reach.md), including the cities of [Elinhir](Lore_Elinhir.md) and [Jehanna](Lore_Jehanna.md).<sup>[[6]](#cite_note-PGE3Sky-6)</sup> Some of these territories were claimed to have been lost in previous wars at the expense of Skyrim.<sup>[[4]](#cite_note-PGE3High-4)</sup> The Redguards harbored a fierce grudge against [Skyrim](Skyrim_Skyrim.md), and yearned for a chance to take back land that was seized from them.<sup>[[5]](#cite_note-PGE3Ham-5)</sup>
+
+Behind the scenes, the conflict was being used by [Jagar Tharn](Lore_Jagar_Tharn.md) and [Pergan Asuul](Lore_Pergan_Asuul.md) to create a *Shadow of Conflict*, or [Umbra' Keth](Lore_Umbra%27_Keth.md).<sup>[[8]](#cite_note-Shadowkey-8)</sup> However, the villains' plans were put to an end by the [Soul of Conflict](Lore_Soul_of_Conflict.md), a commoner from [Azra's Crossing](Lore_Azra%27s_Crossing.md) that was roped into the shadow wars of higher players through a series of events.
+
+After peace was established, a commission was created to repair the damage done by the war.<sup>[[9]](#cite_note-9)</sup>
+
+## Skyrim
+[![](https://images.uesp.net/thumb/3/3b/SK-npc-General_Duvais.png/150px-SK-npc-General_Duvais.png)](https://en.uesp.net/wiki/File:SK-npc-General_Duvais.png) [](https://en.uesp.net/wiki/File:SK-npc-General_Duvais.png) General Duvais [![](https://images.uesp.net/thumb/f/f7/SK-place-Lakvan%27s_Stronghold.png/200px-SK-place-Lakvan%27s_Stronghold.png)](https://en.uesp.net/wiki/File:SK-place-Lakvan%27s_Stronghold.png) [](https://en.uesp.net/wiki/File:SK-place-Lakvan%27s_Stronghold.png) Lakvan's Stronghold in Skyrim Jagar Tharn wanted to establish a foothold in Hammerfell with him paying bandits such as Lakvan to kill Hammerfell soldiers.<sup>[[10]](#cite_note-10)</sup> The agents of both Hammerfell and Skyrim were worried by these actions and both attempted to enlist the Soul of Conflict to help them in dealing with Lakvan and gathering intelligence on the Empire's aims.<sup>[[11]](#cite_note-11)</sup><sup>[[12]](#cite_note-12)</sup> It is unknown which side the Soul of Conflict helped but it is known that they did travel to Lakvan's Stronghold in Skyrim and killed Lakvan and acquired his Shadowkey, Lakvan also revealed he was also working with [Pergan Asuul](Lore_Pergan_Asuul.md).<sup>[[13]](#cite_note-13)</sup>
+
+Another group of bandits that Tharn was paying were known as the 'Spire Thieves' and were based out of a citadel known as Broken Wing. These spire thieves were helping Tharn kidnap and bribe prominent families of Dragonstar to collude with Skyrim.<sup>[[14]](#cite_note-14)</sup>
+
+General Duvais was the leader of the forces of Skyrim that were attacking Dragonstar from the east. He was attempting to establish a foothold in Loth' Na Caverns to the west but was killed in the caverns by an agent of Hammerfell.<sup>[[15]](#cite_note-15)</sup>
+
+During the war the invading forces of [Skyrim](Lore_Skyrim.md) used the [Earthtear Caverns](Lore_Earthtear_Caverns.md) in Hammerfell as a meeting point. However, one of their numbers was attacked within by [Pergan Asuul](Lore_Pergan_Asuul.md), who summoned vermin to overrun the caverns. Namely, Earthtear became host to [rats](Lore_Rat.md), [spiders](Lore_Spider.md), and [wormmouths](Lore_Wormmouth.md), including a giant Diamond Spider Queen. There was only one survivor, a mage known as Rogurin.<sup>[[16]](#cite_note-16)</sup>
+
+Tanyin Aldwyr was a Redguard knight whose sympathies lay with Skyrim. She was known to have stolen a guild roster from the Mages Guild of Dragonstar East<sup>[[17]](#cite_note-TMG-17)</sup> and also rescued an agent of Skyrim from jail.<sup>[[18]](#cite_note-18)</sup>
+
+According to one account, during the War the [Redguard](Lore_Redguard.md) forces and allied [Orcish](Lore_Orc.md) mercenaries laid siege to [Snowhawk](Lore_Snowhawk.md) in Skyrim from Frostfall [3E 397](Lore_Third_Era.md#3E_397) to Sun's Dawn [3E 398](Lore_Third_Era.md#3E_398). Though they failed to take it, a magical attack caused all stone walls and structures in the city to disappear. The city fell, and most of the survivors moved to [Karthwasten](Lore_Karthwasten.md), [Solitude](Lore_Solitude.md), and [Whiterun](Lore_Whiterun.md).<sup>[[UOL 1]](#cite_note-SINE-19)</sup>
+
+## Hammerfell
+[![](https://images.uesp.net/thumb/2/28/LO-misc-Dragonstar_Destruction.png/200px-LO-misc-Dragonstar_Destruction.png)](https://en.uesp.net/wiki/File:LO-misc-Dragonstar_Destruction.png) [](https://en.uesp.net/wiki/File:LO-misc-Dragonstar_Destruction.png) Destruction in Dragonstar [![](https://images.uesp.net/2/22/SK-narrative-DF01.png)](https://en.uesp.net/wiki/File:SK-narrative-DF01.png) [](https://en.uesp.net/wiki/File:SK-narrative-DF01.png) Skyrim and Hammerfell's ambitions fall hard on Dragonstar. One known agent of Hammerfell during the war was an Argonian known as Porliss Caith.<sup>[[19]](#cite_note-20)</sup>
+
+The most peculiar situation in Hammerfell's territory in the war arose in the city of [Dragonstar](Lore_Dragonstar.md), where the city was divided into western (Hammerfell) and eastern (Skyrim) sections of the city, walled off from each other, with each section having its own government and a desire to take control of the entire city, even resorting to acts of terrorism.<sup>[[6]](#cite_note-PGE3Sky-6)</sup> One such act was members of the Mages Guild of Dragonstar using noxious enchantments on Skyrim soldiers.<sup>[[17]](#cite_note-TMG-17)</sup> The Thieves' Guild of Dragonstar were also known to be aligned with Hammerfell despite being in Skyrim's section of the city.<sup>[[20]](#cite_note-21)</sup><sup>[[21]](#cite_note-22)</sup> The [Fighters Guild](Lore_Fighters_Guild.md) of Dragonstar was also involved in attacking Skyrim's soldiers.<sup>[[22]](#cite_note-23)</sup> The national divide in Dragonstar persisted for thirty odd years after the conflicts conclusion.<sup>[[6]](#cite_note-PGE3Sky-6)</sup>
+
+The war resulted in a deeper division between the [Redguard](Lore_Redguard.md) factions of [Crowns](Lore_Crowns.md) and [Forebears](Lore_Forebears.md), as the Forebear cities showed no inclination to help the Crown cities assaulted and occupied by the [Nords](Lore_Nord.md), which in turn was a response to the lack of help by Crowns to the Forebears during [the Camoran Usurper's invasion](Lore_Camoran_Usurper%27s_Invasion.md).<sup>[[5]](#cite_note-PGE3Ham-5)</sup>
+
+## High Rock
+[![](https://images.uesp.net/thumb/b/b7/OB-npc-Sir_Roderic.jpg/150px-OB-npc-Sir_Roderic.jpg)](https://en.uesp.net/wiki/File:OB-npc-Sir_Roderic.jpg) [](https://en.uesp.net/wiki/File:OB-npc-Sir_Roderic.jpg) Sir Roderic of Wayrest in his later years A famous hero of the war on the side of High Rock was [Sir Roderic](Lore_Roderic.md) of Wayrest, who fought in many battles throughout the course of the war.<sup>[[23]](#cite_note-OBLathon-24)</sup> Seemingly, High Rock and Hammerfell fought as allies in the war against invading Skyrim.<sup>[[23]](#cite_note-OBLathon-24)</sup>
+
+The Kingdom of [Wayrest](Lore_Wayrest_(kingdom).md) is noted as having lost the war.<sup>[[23]](#cite_note-OBLathon-24)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/a/aa/SK-creature-Umbra-Keth.png/200px-SK-creature-Umbra-Keth.png)](https://en.uesp.net/wiki/File:SK-creature-Umbra-Keth.png) The Umbra' Keth created by the conflict
+
+## Notes
+- The conflict described in *[The Rear Guard](Lore_The_Rear_Guard.md)* may be part of the War of Bend'r-mahk, which describes a Wood Elf mercenary defending [Cascabel Hall](Lore_Cascabel_Hall.md) in Skyrim in a war between the King of Solitude and the King of Farrun, which takes place some time in the latter half of the Third Era.
+
+## References
+1. [^](#cite_ref-DC_1-0) [*Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:Daggerfall_Chronicles) — Ronald Wartow
+2. [^](#cite_ref-V2AS_2-0) [Vir2l.com Archive/*Shadowkey* Description](https://en.uesp.net/wiki/General:Vir2l.com_Archive#The_Elder_Scrolls_Travels_Shadowkey)
+3. ^ <sup>***[a](#cite_ref-SKManual_3-0)***</sup><sup>***[b](#cite_ref-SKManual_3-1)***</sup> [*Shadowkey*'s Game Manual](https://en.uesp.net/wiki/Shadowkey:Game_Manual)
+4. ^ <sup>***[a](#cite_ref-PGE3High_4-0)***</sup><sup>***[b](#cite_ref-PGE3High_4-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Sons and Daughter of the Direnni West: High Rock*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_High_Rock) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+5. ^ <sup>***[a](#cite_ref-PGE3Ham_5-0)***</sup><sup>***[b](#cite_ref-PGE3Ham_5-1)***</sup><sup>***[c](#cite_ref-PGE3Ham_5-2)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Ra Gada: Hammerfell*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Hammerfell) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+6. ^ <sup>***[a](#cite_ref-PGE3Sky_6-0)***</sup><sup>***[b](#cite_ref-PGE3Sky_6-1)***</sup><sup>***[c](#cite_ref-PGE3Sky_6-2)***</sup><sup>***[d](#cite_ref-PGE3Sky_6-3)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Throat of the World: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+7. [^](#cite_ref-SKmap_7-0) The [in-game map](https://en.uesp.net/wiki/File:Shadowkey_Map.jpg) in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+8. [^](#cite_ref-Shadowkey_8-0) Events of *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+9. [^](#cite_ref-9) [*A Dance in Fire, Chapter 7*](Lore_A_Dance_in_Fire,_Chapter_7.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+10. [^](#cite_ref-10) [*Red Scroll*](Lore_Red_Scroll.md)
+11. [^](#cite_ref-11) [Tanyin Lakvan Evidence](https://en.uesp.net/wiki/Shadowkey:Tanyin_Lakvan_Evidence) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+12. [^](#cite_ref-12) [Porliss Lakvan Evidence](https://en.uesp.net/wiki/Shadowkey:Porliss_Lakvan_Evidence) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+13. [^](#cite_ref-13) [Lakvan](https://en.uesp.net/wiki/Shadowkey:Lakvan)'s dialogue in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+14. [^](#cite_ref-14) [Bribery Papers](https://en.uesp.net/wiki/Shadowkey:Bribery_Papers) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+15. [^](#cite_ref-15) [Porliss Loth' Na](https://en.uesp.net/wiki/Shadowkey:Porliss_Loth%27_Na) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+16. [^](#cite_ref-16) [Rogurin](https://en.uesp.net/wiki/Shadowkey:Rogurin)'s dialogue in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+17. ^ <sup>***[a](#cite_ref-TMG_17-0)***</sup><sup>***[b](#cite_ref-TMG_17-1)***</sup> [Tanyin Mages' Guild](https://en.uesp.net/wiki/Shadowkey:Tanyin_Mages%27_Guild) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+18. [^](#cite_ref-18) [Tanyin Prisoner Free](https://en.uesp.net/wiki/Shadowkey:Tanyin_Prisoner_Free) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+19. [^](#cite_ref-20) [Porliss Caith](https://en.uesp.net/wiki/Shadowkey:Porliss_Caith) in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+20. [^](#cite_ref-21) [Porliss Thieves' Guild](https://en.uesp.net/wiki/Shadowkey:Porliss_Thieves%27_Guild) quest in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+21. [^](#cite_ref-22) [Clever Sed](https://en.uesp.net/wiki/Shadowkey:Clever_Sed)'s dialogue in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+22. [^](#cite_ref-23) [Dominus](https://en.uesp.net/wiki/Shadowkey:Dominus)' dialogue in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+23. ^ <sup>***[a](#cite_ref-OBLathon_24-0)***</sup><sup>***[b](#cite_ref-OBLathon_24-1)***</sup><sup>***[c](#cite_ref-OBLathon_24-2)***</sup> [Lathon's dialogue](https://en.uesp.net/wiki/Oblivion:Lathon) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-SINE_19-0) [*Skyrim In the New Era*](https://en.uesp.net/wiki/General:Skyrim_In_the_New_Era) — Soren Long-Tooth

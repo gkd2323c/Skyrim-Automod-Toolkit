@@ -1,0 +1,93 @@
+# Breton Holidays
+
+[![](https://images.uesp.net/thumb/4/46/ON-crown_store-Day_of_Release_Roisterer_02.jpg/200px-ON-crown_store-Day_of_Release_Roisterer_02.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Day_of_Release_Roisterer_02.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Day_of_Release_Roisterer_02.jpg) Two Bretons dressed for the Day of Release in Daggerfall The [Bretons](Lore_Breton.md) have been in [Tamriel](Lore_Tamriel.md) since before recorded history. Their [holidays](Lore_Holidays.md) have remained almost unchanged since primitive times, though new holidays have been created to replace those which have lost popularity.<sup>[[1]](#cite_note-HOTIB-1)</sup>
+
+- [Scour Day](https://en.uesp.net/wiki/Lore:Scour_Day) is celebrated by villages in [High Rock](Lore_High_Rock.md) on the 2nd of [Morning Star](Lore_Morning_Star.md), the day after New Life. It was once a day to clean up after New Life, but has changed into a party of its own.<sup>[[2]](#cite_note-2)</sup>
+
+- [Waking Day](Lore_Waking_Day.md) was invented by the people of the [Yeorth Burrowland](Lore_Yeorth_Burrowland.md) in prehistoric times to wake the spirits of nature after a long and cold winter, but has evolved into a sort of orgiastic celebration of the end of winter.<sup>[[3]](#cite_note-3)</sup> The Bretons of the Burrowlands share stories about the "Terrible [Torchbug](Lore_Torchbug.md) of [Molag Bal](Lore_Molag_Bal.md)" the night before Waking Day which vary but share the one consistent element of a fearsome, savage entity in the presence of blue torchbugs.<sup>[[4]](#cite_note-Blue Torchbug-4)</sup>
+
+- [Heart's Day](Lore_Heart%27s_Day.md) is a holiday celebrated all over Tamriel on the 16th of [Sun's Dawn](Lore_Sun%27s_Dawn.md). In almost every house, the [Legend of the Lovers](Lore_Legend_of_the_Lovers.md) is being sung for the younger generation. In honor of these lovers, Polydor and Eloisa, the inns of various cities offer a free room for visitors. If such kindness had been given these Lovers, it is said, it would always be springtime in the world.<sup>[[5]](#cite_note-DF-5)</sup>
+
+- [Perserverance Day](https://en.uesp.net/wiki/Lore:Perserverance_Day) is celebrated in [Ykalon](Lore_Ykalon.md), originally a solemn memorial to those killed in battle while resisting the Camoran Usurper but now a boisterous festival.<sup>[[6]](#cite_note-6)</sup>
+
+- [Mad Pelagius](Lore_Mad_Pelagius.md) is a newer festival held in mock honor of [Pelagius](https://en.uesp.net/wiki/Lore:Pelagius) Septim, the mad Emperor. Pelagius was the prince of Wayrest before he became King of Solitude and later Emperor, and Bretons jokingly boast that it was his time in High Rock that drove him mad.<sup>[[1]](#cite_note-HOTIB-1)</sup>
+
+- [Day of Release](Lore_Day_of_Release.md) celebrates Aiden Direnni's victory over the Alessians at the Battle of Glenumbria Moors. The most cheerful celebrants don festive garb just for the occasion. The day is spent drinking, dancing, and toasting.<sup>[[7]](#cite_note-7)</sup>
+
+- [Flower Day](Lore_Flower_Day.md) is a lively, colorful<sup>[[8]](#cite_note-8)</sup> and frivolous spring celebration observed all over High Rock which is just as old, if not older than Waking Day. Children pick new flowers, while older Bretons come out to welcome the season with dancing and singing.<sup>[[9]](#cite_note-9)</sup> In [Camlorn](Lore_Camlorn.md), a lavish parade called the March of Beauty precedes the Flower Festival, which occurs at dusk. During the march (which starts at the Temple of Sethiete and ends at the palace), prostitutes dance down the main street, dressed provocatively and in bright colors. A circle of twelve unlit torches and baskets full of flowers and vines are arranged around [Cavilstyr Rock](Lore_Cavilstyr_Rock.md) for the Festival. At sundown, the torches are lit, and the dancers from the parade (and soon after, the crowd) begin the event by pulling petals out of the baskets and filling the air with them. The spectacle is accompanied by music and dancing.<sup>[[10]](#cite_note-MOT1-10)</sup>
+
+- The celebration of [Gardtide](Lore_Gardtide.md) hearkens back to the old cult of the flower,<sup>[[1]](#cite_note-HOTIB-1)</sup> as the Bretons of [Tamarilyn Point](Lore_Tamarilyn_Point.md) hold a festival to honor [Druagaa](Lore_Druagaa.md), the old goddess of flowers. Worship of the goddess is all but dead, but the celebration is always lively.<sup>[[11]](#cite_note-11)</sup>
+
+- The [Day of the Dead](Lore_Day_of_the_Dead.md) is celebrated in Daggerfall on the 13th of [Rain's Hand](Lore_Rain%27s_Hand.md). It is a remnant of ancestor worship, which was a hallmark of the ancient Breton religion.<sup>[[1]](#cite_note-HOTIB-1)</sup> The superstitious say that the dead rise on this holiday to wreak vengeance on the living.<sup>[[12]](#cite_note-12)</sup>
+
+- The [Jester's Festival](Lore_Jester%27s_Festival.md) is an annual holiday that falls on the 28th of [Rain's Hand](Lore_Rain%27s_Hand.md).<sup>[[13]](#cite_note-WFDF-13)</sup> During the event, troupes of jesters and fools encourage the people of Tamriel of all walks of life to celebrate the foolish and absurd. Performers roam the streets and openly mock the powerful, towns celebrate with festive pranks, and silly games are held with joke prizes rewarded as an incentive.<sup>[[14]](#cite_note-CJF-14)</sup>
+
+- [Marukh's Day](Lore_Marukh%27s_Day.md) is only observed by certain communities in Skeffington Wood. Celebrants compare themselves to the prophet [Marukh](Lore_Marukh.md) and pray for the strength to resist temptation.<sup>[[15]](#cite_note-15)</sup>
+
+- The [Fire Festival](https://en.uesp.net/wiki/Lore:Fire_Festival) in [Northmoor](Lore_Northmoor.md) is one of the most attended celebrations in High Rock. It began as a pompous display of magic and military strength in ancient days and has become quite a festival.<sup>[[16]](#cite_note-16)</sup>
+
+- [Fishing Day](https://en.uesp.net/wiki/Lore:Fishing_Day) is a boisterous celebration held by the usually modest Bretons who live off the bounty of the Iliac Bay.<sup>[[17]](#cite_note-17)</sup> The holiday was also adopted in [Skyrim](Lore_Skyrim.md) and in other parts of Tamriel where fishing is both a livelihood and a way of life.<sup>[[18]](#cite_note-TESTOC-18)</sup><sup>:16</sup>
+
+- [Dancing Day](Lore_Dancing_Day.md) is celebrated in Daggerfall on the 23rd of [Mid Year](Lore_Mid_Year.md), and is a celebration of great pomp and merriment for all.<sup>[[19]](#cite_note-19)</sup>
+
+- [Tibedetha](Lore_Tibedetha.md) (meaning "Tibers Day" in middle Tamrielic) is a great party held by the lorddom of Alcaire to commemorate Tiber Septim, who is perhaps the most famous person to come out of the region.<sup>[[UOL 1]](#cite_note-DFTDE-20)</sup>
+
+- The Bretons of the Wrothgarian Mountains celebrate [Khurat](https://en.uesp.net/wiki/Lore:Khurat) as a day when the finest young scholars are accepted into priesthoods. Those lacking children of age pray for the wisdom and benevolence of the clergy on this holiday.<sup>[[20]](#cite_note-21)</sup>
+
+- [Children's Day](https://en.uesp.net/wiki/Lore:Children%27s_Day) is a celebration of youth observed in [Betony](Lore_Betony.md) which began as a memorial to the dozens of children in Betony stolen from their homes by vampires one night, never to be seen again.<sup>[[21]](#cite_note-22)</sup>
+
+[![](https://images.uesp.net/thumb/f/f3/ON-crown_store-Hollowjack_Rider_Horse_02.jpg/200px-ON-crown_store-Hollowjack_Rider_Horse_02.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Hollowjack_Rider_Horse_02.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Hollowjack_Rider_Horse_02.jpg) A Hollowjack Horse Rider - In the 13th of Frost Fall, Bretons along with the rest of Tamriel celebrates the [Witches Festival](Lore_Witches_Festival.md) to defy their superstitious fears. [Ghosts](Lore_Ghost.md), demons, and evil spirits are mocked and celebrated by both occult occurrences and outrageous costumes.<sup>[[22]](#cite_note-WFR-23)</sup> On this day, portals between Nirn and the [Daedra Lord](Lore_Daedra_Lord.md) [Hollowjack](Lore_Hollowjack.md)'s demi-plane of [Detritus](Lore_Detritus.md) are opened.<sup>[[23]](#cite_note-24)</sup> At night, Jaque o' the Hollow is resurrected from his hidden hollow in Rivenspire, who then proceeds to curse riders all across Tamriel to ride headless throughout the night, clutching a carved pumpkin atop their mounts. This led to his legend spreading far east past High Rock.<sup>[[24]](#cite_note-25)</sup><sup>[[25]](#cite_note-26)</sup>
+
+- [Broken Diamonds](Lore_Broken_Diamonds.md) is observed in [Glenpoint](Lore_Glenpoint.md) and the Glenumbra Moors on the 23rd of Frost Fall to remember the death of [Kintyra Septim II](Lore_Kintyra_Septim_II.md), who died while imprisoned in Glenpoint's dungeons on the order of [Uriel III](Lore_Uriel_III.md).<sup>[[26]](#cite_note-27)</sup> The shame of Glenpoint is overwhelming; they feel the debt has not yet been repaid. The Sephavre, a song written in [Old Bretic](Lore_Old_Bretic.md), is sung every Broken Diamonds.<sup>[[27]](#cite_note-BD-28)</sup>
+
+- The [Moon Festival](Lore_Moon_Festival.md) is an older holiday celebrated by the Bretons of Glenumbra Moors to honor [Secunda](Lore_Secunda.md), goddess of the moon, just as the nights are growing longer.<sup>[[1]](#cite_note-HOTIB-1)</sup> Though she has no active worshippers, the holiday is a time of feasting and merriment.<sup>[[28]](#cite_note-29)</sup>
+
+- Bretons celebrate the holiday [Saturalia](Lore_Saturalia.md) on the 25th of Evening Star, which heralds the [New Life Festival](Lore_New_Life_Festival.md) that falls on the 1st of Morning Star.<sup>[[29]](#cite_note-BLST-30)</sup><sup>[[30]](#cite_note-31)</sup><sup>[[31]](#cite_note-32)</sup> Saturalia was originally a holiday held to celebrate a forgotten god of debauchery, it has transformed into a day where gifts are given, parades are held, and feasts are had.<sup>[[32]](#cite_note-33)</sup> Saturalia shares some elements with the cross-continental New Life Festival, with it managing to become connected (or at some points synonymous with) the festival. This is thanks to the efforts of merchants from the trade hub that is [Wayrest](Lore_Wayrest.md) capitalizing on the holiday through consumer goods. Widespread adoption of Saturalia-themed trees, decorations, and more across Tamriel for usage in the New Life Festival make for a booming market during this time of year, touching even Tamrielans that grew up with their own New Life traditions.<sup>[[33]](#cite_note-LATH-34)</sup> This convergence of these Breton-influenced practices and aesthetics were started during the time of the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md),<sup>[[33]](#cite_note-LATH-34)</sup> and has carried onto the [Fourth Era](Lore_Fourth_Era.md).<sup>[[34]](#cite_note-SASL-35)</sup><sup>[[35]](#cite_note-36)</sup> Despite many Saturalian traditions being incorporated into New Life, the latter retains its unique customs, which each participating Tamrielic race practices in their own way—even among the Bretons, who celebrate both Saturalia and the New Life Festival.<sup>[[36]](#cite_note-ONBreda-37)</sup>
+
+- [Sovereignty Day](https://en.uesp.net/wiki/Lore:Sovereignty_Day) celebrates High Rock's independence from the First Empire. Traditionally, Bretons have picnics on Sovereignty Day. Chefs and innkeepers in High Rock sell their own picnic collations for citizens to take on such picnics.<sup>[[37]](#cite_note-Pa P-38)</sup>
+
+- [Red Parade](https://en.uesp.net/wiki/Lore:Red_Parade) takes place in honor of [Saint Pelin's](Lore_Pelin.md) sacrifice at the Bangkorai Garrison, an annual celebration is held where the priest's sacrifice is reenacted.<sup>[[38]](#cite_note-39)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-HOTIB_1-0)***</sup><sup>***[b](#cite_ref-HOTIB_1-1)***</sup><sup>***[c](#cite_ref-HOTIB_1-2)***</sup><sup>***[d](#cite_ref-HOTIB_1-3)***</sup><sup>***[e](#cite_ref-HOTIB_1-4)***</sup> [*Holidays of the Iliac Bay*](Lore_Holidays_of_the_Iliac_Bay.md) — [Theth-i](Lore_Books_by_Author.md#Theth-i)
+2. [^](#cite_ref-2) [Scour Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Scour_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. [^](#cite_ref-3) [Waking Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Waking_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+4. [^](#cite_ref-Blue Torchbug_4-0) [Blue Torchbug](https://en.uesp.net/wiki/Online:Blue_Torchbug) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-DF_5-0) Heart's Day [description](https://en.uesp.net/wiki/Daggerfall:Holidays) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+6. [^](#cite_ref-6) [Perserverance Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Perserverance_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+7. [^](#cite_ref-7) [Day of Release Roisterer](https://en.uesp.net/wiki/Online:Day_of_Release_Roisterer) costume description in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [*Travels in High Rock*](Lore_Travels_in_High_Rock.md)
+9. [^](#cite_ref-9) [Flower Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Flower_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+10. [^](#cite_ref-MOT1_10-0) [*Mystery of Talara, v 1*](Lore_Mystery_of_Talara,_v_1.md) — [Mera Llykith](Lore_Books_by_Author.md#Mera_Llykith)
+11. [^](#cite_ref-11) [Gardtide](https://en.uesp.net/wiki/Daggerfall:Holidays#Gardtide) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+12. [^](#cite_ref-12) [Day of the Dead](https://en.uesp.net/wiki/Daggerfall:Holidays#Day_of_the_Dead) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+13. [^](#cite_ref-WFDF_13-0) [Jester's Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Rain.27s_Hand) description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+14. [^](#cite_ref-CJF_14-0) [Celebrate the Jester's Festival](https://www.elderscrollsonline.com/en-gb/news/post/25979) on the official [ESO](https://en.uesp.net/wiki/Online:Online) website
+15. [^](#cite_ref-15) [Marukh's Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Marukh.27s_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+16. [^](#cite_ref-16) [Fire Festival](https://en.uesp.net/wiki/Daggerfall:Holidays#Fire_Festival) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+17. [^](#cite_ref-17) [Fishing Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Fishing_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+18. [^](#cite_ref-TESTOC_18-0) [*The Elder Scrolls: The Official Cookbook*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook) — Chelsea Monroe-Cassel
+19. [^](#cite_ref-19) [Dancing Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Dancing_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+20. [^](#cite_ref-21) [Khurat](https://en.uesp.net/wiki/Daggerfall:Holidays#Khurat) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+21. [^](#cite_ref-22) [Children's Day](https://en.uesp.net/wiki/Daggerfall:Holidays#Children.27s_Day) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+22. [^](#cite_ref-WFR_23-0) [The Witches Festival Returns](https://www.elderscrollsonline.com/en-us/news/post/26213) on the official [ESO](https://en.uesp.net/wiki/Online:Online) website
+23. [^](#cite_ref-24) [Elder Scrolls Online - Crown Crate Season Announcement](https://en.uesp.net/wiki/Lore:Elder_Scrolls_Online_-_Crown_Store_Showcase_Crown_Crates)
+24. [^](#cite_ref-25) [Hollowjack Rider Horse](https://en.uesp.net/wiki/Online:Hollowjack_Rider_Horse) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+25. [^](#cite_ref-26) [Hollowjack Rider Guar](https://en.uesp.net/wiki/Online:Hollowjack_Rider_Guar) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+26. [^](#cite_ref-27) [Broken Diamonds](https://en.uesp.net/wiki/Daggerfall:Holidays#Broken_Diamonds) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+27. [^](#cite_ref-BD_28-0) [*Broken Diamonds*](Lore_Broken_Diamonds.md) — [Ryston Baylor](Lore_Books_by_Author.md#Ryston_Baylor)
+28. [^](#cite_ref-29) [Moon Festival](https://en.uesp.net/wiki/Daggerfall:Holidays#Moon_Festival) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+29. [^](#cite_ref-BLST_30-0) [Saturalia Tree Decoration](https://en.uesp.net/wiki/Blades:Saturalia_Tree) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+30. [^](#cite_ref-31) [Saturalia](https://en.uesp.net/wiki/Daggerfall:Holidays#Saturalia) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+31. [^](#cite_ref-32) [New Life Festival](https://en.uesp.net/wiki/Daggerfall:Holidays#New_Life_Festival) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+32. [^](#cite_ref-33) [Saturalia](https://en.uesp.net/wiki/Daggerfall:Holidays#Saturalia) information in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+33. ^ <sup>***[a](#cite_ref-LATH_34-0)***</sup><sup>***[b](#cite_ref-LATH_34-1)***</sup> [Loremaster's Archive—Tamriel's Holidays](Lore_Loremaster%27s_Archive_-_Tamriel%27s_Holidays.md)
+34. [^](#cite_ref-SASL_35-0) [Grand Saturalia Tree Decoration](https://en.uesp.net/wiki/Blades:Grand_Saturalia_Tree) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+35. [^](#cite_ref-36) [New Life Festival](https://en.uesp.net/wiki/Blades:New_Life_Festival) event having Saturalia decorations in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+36. [^](#cite_ref-ONBreda_37-0) [Breda](https://en.uesp.net/wiki/Online:Breda)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+37. [^](#cite_ref-Pa P_38-0) [*Picnic at Pelin (A Horror Story)*](Lore_Picnic_at_Pelin_(A_Horror_Story).md) — [De Witte Bourbois](Lore_Books_by_Author.md#De Witte_Bourbois)
+38. [^](#cite_ref-39) [*The Gray Host: A History Part 1*](https://en.uesp.net/wiki/Lore:The_Gray_Host__A_History_Part_1) — [Lord Archibald Laurent](Lore_Books_by_Author.md#Lord_Archibald_Laurent), Lordly Explorer
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-DFTDE_20-0) [*The Dragon's Eyrie/Daggerfall*](https://en.uesp.net/wiki/General:The_Dragon%27s_Eyrie/Daggerfall)

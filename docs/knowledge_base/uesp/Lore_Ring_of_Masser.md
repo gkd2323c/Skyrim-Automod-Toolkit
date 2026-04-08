@@ -1,0 +1,33 @@
+# Ring of Masser
+
+[![](https://images.uesp.net/thumb/f/ff/SR-item-Ring_of_Masser.jpg/200px-SR-item-Ring_of_Masser.jpg)](https://en.uesp.net/wiki/File:SR-item-Ring_of_Masser.jpg) [](https://en.uesp.net/wiki/File:SR-item-Ring_of_Masser.jpg) Ring of Masser *She held the ring up against the sky, circling the area where the moon once stood.*
+— *[The Crimson Dirks, v5](https://en.uesp.net/wiki/Lore:The_Crimson_Dirks,_v5)* The Ring of Masser is a [Khajiiti](Lore_Khajiit.md) artifact of some importance.<sup>[[1]](#cite_note-TCD-1)</sup><sup>[[2]](#cite_note-MM-2)</sup> It was a [silver](Lore_Silver.md) ring set with a [ruby](Lore_Ruby.md) gemstone. It is known to empower its wearer by easing the casting of [Illusion](Lore_Illusion.md) [spells](Lore_Spells.md),<sup>[[3]](#cite_note-ROM-3)</sup> and restoring mental focus,<sup>[[1]](#cite_note-TCD-1)</sup> while also enhancing their stamina and improving stealth.<sup>[[3]](#cite_note-ROM-3)</sup> It is named after the [moon](Lore_Moons.md) [Masser](Lore_Masser.md), known to the Khajiit as Jode, which holds great religious significance in their belief.<sup>[[4]](#cite_note-VOF-4)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d4/ON-place-Dune.jpg/200px-ON-place-Dune.jpg)](https://en.uesp.net/wiki/File:ON-place-Dune.jpg) [](https://en.uesp.net/wiki/File:ON-place-Dune.jpg) Dune [![](https://images.uesp.net/thumb/7/78/SR-npc-Erwan.jpg/200px-SR-npc-Erwan.jpg)](https://en.uesp.net/wiki/File:SR-npc-Erwan.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Erwan.jpg) Erwan of the Crimson Dirks *She wrung herself free of the guard's grasp, and not knowing what would happen, placed the ring on her finger.
+The chanting stopped. And in its place, the shrill cry of weapons drawn from their scabbards. The Daedric warrior turned his attention to the cultists, but it was too late. Erwan's spell of hysteria had taken hold, her focus restored by the power of the ring. One by one the cultists turned on each other, their rage driven by hers. And when the clangs of metal faded and the screams turned to silence, Erwan collapsed, having exhausted all of herself and the ring.*
+— *The Crimson Dirks, v5* Little is known of the Ring of Masser’s history beyond its links to Khajiiti culture.<sup>[[2]](#cite_note-MM-2)</sup> Sometime before 4E 201, members of the [Crimson Dirks](Lore_Crimson_Dirks.md), Edward and Erwan, robbed the Clan Mother's treasury in [Dune](Lore_Dune.md) and killed a merchant who attempted to betray them, with Erwan taking the Ring of Masser from him at the Crescent Moons Inn. Erwan kept the ring and eventually came to believe it was cursed, attributing a series of personal setbacks, professional losses, and near-fatal incidents to its influence. Hoping to mitigate the supposed curse, she began wearing the ring around her neck rather than on her hand. At a later point, when Erwan was captured by [Daedric](Lore_Daedra.md) cultists, she used the ring's power, on the advice of her companion Skjol, to aid in casting a hysteria spell, turning her captors against one another and securing their escape. This led her to question the cursed nature of the ring.<sup>[[1]](#cite_note-TCD-1)</sup> During this fight, she acquired a great deal of valuable loot and sold most of it, including a piece of [Daedric mail](Lore_Daedric_Equipment.md) sold to Ma'draan of [Ri'saad's](Lore_Ri%27saad.md) [Khajiit Caravans](Lore_Khajiit_Caravans.md). Although she liked the armor, she believed she could always reclaim it by trading something of equal value, such as the Ring of Masser.<sup>[[5]](#cite_note-EJ-5)</sup>
+
+In 4E 201, Gunther Frost-Foot was killed by Erwan at Traitor's Post.<sup>[[2]](#cite_note-MM-2)</sup><sup>[[6]](#cite_note-LFE-6)</sup> When he was reported missing,<sup>[[7]](#cite_note-MMN-7)</sup> a search was launched, and the [Last Dragonborn](Lore_Last_Dragonborn.md) eventually found Erwan at the site along with Gunther's body,<sup>[[2]](#cite_note-MM-2)</sup><sup>[[8]](#cite_note-Erwan-8)</sup> upon which the Ring of Masser had been left.<sup>[[9]](#cite_note-Gunther-9)</sup> They defeated Erwan and acquired the ring.<sup>[[2]](#cite_note-MM-2)</sup> As a Khajiiti artifact, the ring may have been traded by the Dragonborn to Ma'draan in exchange for the same set of Daedric armor, though it is also possible that the armor was simply purchased with gold.<sup>[[2]](#cite_note-MM-2)</sup><sup>[[10]](#cite_note-Ma.27dran-10)</sup>
+
+## Known Owners
+- Clan Mothers of Dune
+- Unknown Khajiit Merchant
+- Erwan of the [Crimson Dirks](Lore_Crimson_Dirks.md) - Gunther (posthumously)
+- [Last Dragonborn](Lore_Last_Dragonborn.md)
+- Ma'dran of the [Khajiit Caravans](Lore_Khajiit_Caravans.md) (possibly)
+
+## See Also
+- For game-specific information, see the [*Skyrim*](https://en.uesp.net/wiki/Skyrim:Ring_of_Masser)<sup>[CC](Skyrim_Alternative_Armors_-_Daedric_Mail.md)</sup> article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-TCD_1-0)***</sup><sup>***[b](#cite_ref-TCD_1-1)***</sup><sup>***[c](#cite_ref-TCD_1-2)***</sup> [*The Crimson Dirks, v5*](https://en.uesp.net/wiki/Lore:The_Crimson_Dirks,_v5) — Gathers-the-Coin
+2. ^ <sup>***[a](#cite_ref-MM_2-0)***</sup><sup>***[b](#cite_ref-MM_2-1)***</sup><sup>***[c](#cite_ref-MM_2-2)***</sup><sup>***[d](#cite_ref-MM_2-3)***</sup><sup>***[e](#cite_ref-MM_2-4)***</sup><sup>***[f](#cite_ref-MM_2-5)***</sup> [Missing Merchant](https://en.uesp.net/wiki/Skyrim:Missing_Merchant) quest and journal entries in *[Skyrim](Skyrim_Skyrim.md): [Alternative Armors - Daedric Mail](Skyrim_Alternative_Armors_-_Daedric_Mail.md)*
+3. ^ <sup>***[a](#cite_ref-ROM_3-0)***</sup><sup>***[b](#cite_ref-ROM_3-1)***</sup> [Ring of Masser](https://en.uesp.net/wiki/Skyrim:Ring_of_Masser) in *[Skyrim](Skyrim_Skyrim.md): [Alternative Armors - Daedric Mail](Skyrim_Alternative_Armors_-_Daedric_Mail.md)*
+4. [^](#cite_ref-VOF_4-0) [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+5. [^](#cite_ref-EJ_5-0) [*Erwan's Journal*](Skyrim_Erwan%27s_Journal.md) — [Erwan](Skyrim_Erwan.md)
+6. [^](#cite_ref-LFE_6-0) [*Letter from Edward*](https://en.uesp.net/wiki/Skyrim:Letter_from_Edward) — Edward
+7. [^](#cite_ref-MMN_7-0) [*Missing Merchant*](Skyrim_Missing_Merchant_(note).md)
+8. [^](#cite_ref-Erwan_8-0) [Erwan](Skyrim_Erwan.md) in *[Skyrim](Skyrim_Skyrim.md)*
+9. [^](#cite_ref-Gunther_9-0) [Gunther](Skyrim_Gunther.md) in *[Skyrim](Skyrim_Skyrim.md)*
+10. [^](#cite_ref-Ma.27dran_10-0) [Ma'dran](https://en.uesp.net/wiki/Skyrim:Ma%27dran)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*

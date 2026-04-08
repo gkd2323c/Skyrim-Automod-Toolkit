@@ -1,0 +1,14 @@
+# Jails
+
+[![](https://images.uesp.net/thumb/3/35/SR-interior-Dragonsreach_Dungeon.jpg/200px-SR-interior-Dragonsreach_Dungeon.jpg)](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Dungeon.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Dragonsreach_Dungeon.jpg) Dragonsreach Dungeon This pages lists all the **jails** in [Skyrim](Skyrim_Skyrim.md).
+
+- **[Castle Dour Dungeon](Skyrim_Castle_Dour_Dungeon.md)** — A large fortress in Solitude which acts as the headquarters of the Imperial Legion and residence of the Emperor in Skyrim. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Castle+Dour)
+- **[The Bulwark Jail](Skyrim_The_Bulwark_Jail.md)**<sup>[DB](Skyrim_Dragonborn.md)</sup> — The jail in Raven Rock, built directly into the Bulwark. [(map)](https://gamemap.uesp.net/sr/?world=solstheim&centeron=The+Bulwark+Jail)
+- **[The Chill](https://en.uesp.net/wiki/Skyrim:The_Chill)** — The jail for Winterhold, located on an island north-northeast of the College of Winterhold and northeast of Septimus Signus's Outpost, across the sea. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=The+Chill)
+- **[Cidhna Mine](Skyrim_Cidhna_Mine.md)** — A medium-sized silver mine and forced-labor prison camp in southern Markarth. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Cidhna+Mine)
+- **[Dawnstar Barracks](Skyrim_Dawnstar_Barracks.md)** — The living quarters for the Dawnstar guards. It also houses Dawnstar's jail. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dawnstar+Barracks)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Castle.png) **[Dragonsreach Dungeon](Skyrim_Dragonsreach_Dungeon.md)** — The residence of the Jarl of Whiterun Hold, the hold's seat of political power, and the location of the hold's jail. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dragonsreach)
+- **[Falkreath Barracks](Skyrim_Falkreath_Barracks.md)** — The living quarters for the Falkreath guards and also contains Falkreath Hold's jail. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Falkreath+Barracks)
+- **[Guardhouse](Skyrim_Guardhouse.md)** — The Hjaalmarch barracks on the south side of Morthal. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Guardhouse)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Palace.png) **[Palace of the Kings](Skyrim_Palace_of_the_Kings.md)** — A large castle at the far end of the Valunstrad district in Windhelm. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Palace+of+the+Kings)
+- **[Riften Jail](Skyrim_Riften_Jail.md)** — The jail in Riften found below Mistveil Keep. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Riften+Jail)

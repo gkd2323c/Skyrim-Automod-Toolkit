@@ -1,0 +1,26 @@
+# The Unraveling Staff
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Unraveling_Staff) ([Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))) |
+
+The Unraveling Staff **by [Judicator Umberwen](Lore_Books_by_Author.md#Judicator_Umberwen)** *A report regarding a magical staff that causes untold destruction*
+---
+Report of Judicator Umberwen
+Transcribed by Relicmaster Glenadir
+
+Report 4587: Sun's Height, 27th
+
+Suspect taken into custody and [staff](Lore_Staff.md) under magical quarantine. Official documents within suspect's home reveals he was commissioned to create the staff for a prominent weaver within the city. It's theorized that the staff was originally intended to unravel tangled threads.
+
+Several eye witness accounts have been collected from the incident:
+
+"Yes, I've been Anillyon's neighbor for several years now. He told me all about it. Called it the [Unraveling Staff](Lore_Unraveling_Staff.md). Last I heard, it was working spectacularly. Why, what happened?"
+
+"It was madness! He was running down the street, laughing maniacally. And everywhere he pointed, the poor mer's clothes would just fall right apart! So embarrassing."
+
+"I don't know about clothes falling apart. I was too distracted by the buildings coming undone! Stones and planks, flying from their place as if they were alive. I didn't know about—how many deaths, did you say?"
+
+"Yes, I saw it. He pointed the staff and—oh, she was just a young woman. I'll try to describe it but. Oh, that poor thing. It's as if her flesh just—I'm sorry, I don't think I can continue."
+
+Suspect detained until court approved date. No bail will be offered.

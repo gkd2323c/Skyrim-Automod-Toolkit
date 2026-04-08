@@ -1,0 +1,36 @@
+# Great Harbingers
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book2a.png) Book Information <br> *Great Harbingers* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 0ED047 | | |
+| See Also | [Lore version](Lore_Great_Harbingers.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 13 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 3 | | |
+| Locations | | | |
+| Found in the following locations: - [Jorrvaskr](Skyrim_Jorrvaskr.md) Living Quarters, [Kodlak's](Skyrim_Kodlak_Whitemane.md) study at the end of the hall, on a table | | | |
+
+Great Harbingers **by [Swyk the Long-Sighted](Lore_Books_by_Author.md#Swyk_the_Long-Sighted)** *Chronicle of some of the leaders of the Companions*
+---
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+his history is recorded by Swyk the Long-Sighted, of the [Circle of Jorrvaskr](Skyrim_The_Circle.md) in the [3rd era](Lore_Third_Era.md). While I am not gifted with a sharp gift of words, I have learned the stories of the Companions before me, and set to record them that they might not be lost when I am. Hereafter is the list of notable Harbingers of the [Companions](Skyrim_Companions.md), those who lead us through the darkness to glories in [Sovngarde](Lore_Sovngarde.md).
+
+**Notes on the Harbinger**: the Companions have never had a true leader since [Ysgramor](https://en.uesp.net/wiki/Skyrim:Ysgramor) -- none have been mighty enough to corral the great hearts that beat within [Jorrvaskr](Skyrim_Jorrvaskr.md). While others like mages and thieves need the blessings of their hierarchy to know how to dress, we Companions are capable of leading our own destinies to glory. The Harbinger advises, resolves disputes, and helps to clarify when questions arise of the nature of honor. In the thousands of years the Companions have held at Jorrvaskr, there have been Harbingers both terrible and brilliant, those known for their arm, those for their hearts, and those for their minds. Here are listed some of the most gloried Harbingers, who inspire song and deed.
+
+**Ysgramor**: the first Harbinger, the first Man, the bringer of Words, and the one who first bound the Companions to honor in that far off land of long ago. Better people have written of him, so I will not attempt to meet their words.
+
+**[Jeek of the River](Lore_Jeek_of_the_River.md)**: Captain of the Jorrvaskr during the Return, discoverer of the [Skyforge](Skyrim_Skyforge.md), founder of [Whiterun](Skyrim_Whiterun.md), and keeper of the original oath of the Companions, now lost to time. While other crews sought glory in conquest, his was the first to settle and serve as protector for the less war-gifted in the land as they came behind.
+
+**[Mryfwiil the Withdrawn](Lore_Mryfwiil_the_Withdrawn.md)**: Several hundred years after the death of Ysgramor, the Companions as we now know them were soldiers for hire, little better than mercenaries. Our services could be purchased for the fighting of wars, but the commitment to individual honor meant that often Shield-Brothers would be forced to face each other on the field of battle. The bonds of honor which bind the Companions threaten *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* to break, until Mryfwiil, in his wisdom, decreed that we would no longer be party to any war or political conflict of any kind. Because of his steady hand, the Companions today are known as impartial arbiters of honor, in addition to their glories on the field of battle.
+
+**[Cirroc the Lofty](Lore_Cirroc_the_Lofty.md)**: The first Harbinger to not be of ancestral [Atmoran](Lore_Atmora.md) blood. This was around the time that the [Nords](Lore_Nord.md) began to think of themselves as such, and there were great disputes about purity and the legacy of Ysgramor. Cirroc first came to Jorrvaskr as a servant, but the [Redguard](Lore_Redguard.md) quickly proved his mettle when treated disrespectfully by one of the less honor-bound warriors of the time. Granted the stature of an honorary Companion after saving the life of Harbinger [Tulvar the Unmentioned](Lore_Tulvar_the_Unmentioned.md), he became known as the most capable of Shield-Brothers in the hall, with speed and cunning surpassing any of the old Atmoran stock. His time as Harbinger was short-lived, but it is said that his field knowledge of bladework continues to pass to every new Companion through their training.
+
+**[Henantier the Outsider](Lore_Henantier_the_Outsider.md)**: The first elven Harbinger. Like Cirroc before him, he was initially subject to ridicule when arriving at Jorrvaskr, for this was the time (near the closing of the [first era](Lore_First_Era.md)) when elves were not permitted to be full Companions, and few were even allowed to see the inside of the hall. Henantier was humble in the daylight hours, performing any task asked of him. At night, he trained fiercely in the outside yard, allowing himself only minutes of sleep before resuming his servant duties the next day. So he toiled through several Harbingers, never resting, never complaining, and always keeping his mind and body sharp. Given his long life, he came to be trusted by the new Companions as the one who them learn *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* the ways of honor.
+
+When one such pupil had aged into an old man and become Harbinger himself, Henantier was the one at his deathbed. With all Companions assembled, he named Henantier as his successor, saying "even an elf can be born with the heart of a Nord sometimes." There were some number of Companions who laid down their weapons that day, but those who remained knew the truth of honor, and it is their legacy we continue to bear.
+
+**[Macke of the Piercing Eyes](Lore_Macke_of_the_Piercing_Eyes.md)**: A Harbinger known for her great beauty, but any who underestimated her on account of it would never make the mistake again. Was said to have once stared down half an opposing army, then slaughtered the remainder single-handedly. Her disappearance in her 8th year as Harbinger has never been explained, though many slanderous lies claim to make accountings for it.
+
+**[Kyrnil Long-Nose](Lore_Kyrnil_Long-Nose.md)**: After the dark periods in the late [second era](Lore_Second_Era.md), when a string of false and dishonorable Harbingers laid claim to Jorrvaskr, it was Kyrnil Long-Nose who gathered the true hearts of the Companions in the wilds and stormed Jorrvaskr itself, killing the usurpers and returning honor through blood, in the old ways. He began the tradition of trusted advisors called the Circle (after our great lord Ysgramor's council of captains) who would serve as examples to the younger, newer Companions.
+
+By ensuring that the notions of honor can have an unbroken string of tradition, he steadied the course of the Companions and restored our destinies to that of Ysgramor's, pressing ever onwards to Sovngarde.

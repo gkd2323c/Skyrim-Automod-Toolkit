@@ -1,0 +1,32 @@
+# Attribution's Share
+
+| Attribution's Share | |
+| --- | --- |
+| Type | Plane |
+| Realm | [Oblivion](Lore_Oblivion.md) |
+| Appears in | [Oblivion](https://en.uesp.net/wiki/Oblivion:Realm_of_Boethia), [ESO](https://en.uesp.net/wiki/Online:Dragonstar_Arena) |
+
+[![](https://images.uesp.net/thumb/8/89/ON-concept-Dragonstar_Arena.jpg/200px-ON-concept-Dragonstar_Arena.jpg)](https://en.uesp.net/wiki/File:ON-concept-Dragonstar_Arena.jpg) [](https://en.uesp.net/wiki/File:ON-concept-Dragonstar_Arena.jpg) Concept art of Dragonstar Arena in Attribution's Share (ESO) Attribution's Share is the plane of [Oblivion](Lore_Oblivion.md) created and ruled over by [Boethiah](Lore_Boethiah.md),<sup>[[1]](#cite_note-Adventure Game-1)</sup><sup>[[2]](#cite_note-2)</sup> the [Daedric Prince](Lore_Daedric_Princes.md) of Deceit.<sup>[[3]](#cite_note-Boethia_dialogue-3)</sup> The Realm of Boethia is described as a country of labyrinthine policy and betrayals, with maze gardens and twisted towers. It was formerly known as **Snake Mount**.<sup>[[UOL 1]](#cite_note-4)</sup><sup>[[UOL 2]](#cite_note-AYP-5)</sup>
+
+One realm under the Princes dominion, called **Boethia Stadium**,<sup>[[4]](#cite_note-TESIVOOGG-6)</sup> consists of stormy skies, volcanic islands and lava seas, similar to the [Deadlands](Lore_Deadlands.md).<sup>[[5]](#cite_note-Ro B-7)</sup> Although usually avoided by mortals, Boethia uses this particular realm to host prestigious arena tournaments so that mortals can earn her favor. The most well-known of these is the Tournament of Ten Bloods. Champions from each of the ten major [races](Lore_Races.md) of [Tamriel](Lore_Tamriel.md) are taken to the realm, where they battle one-on-one to the death. The victor earns the Prince's favor, the title of Chosen One, and a suitably martial prize, such as the [Goldbrand](Lore_Goldbrand.md).<sup>[[6]](#cite_note-OBBoethia-8)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d0/ON-place-The_Champion%27s_Arena.jpg/200px-ON-place-The_Champion%27s_Arena.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Champion%27s_Arena.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Champion%27s_Arena.jpg) The Champion's Arena (ESO) [![](https://images.uesp.net/thumb/d/dc/OB-place-Boethia%27s_Realm_Statue.jpg/200px-OB-place-Boethia%27s_Realm_Statue.jpg)](https://en.uesp.net/wiki/File:OB-place-Boethia%27s_Realm_Statue.jpg) [](https://en.uesp.net/wiki/File:OB-place-Boethia%27s_Realm_Statue.jpg) A statue of Boethia within the realm (Oblivion) In [2E 582](Lore_Second_Era.md#2E_582), followers of Boethia repurposed ancient [Nordic](Lore_Nord.md) ruins near the city of [Dragonstar](Lore_Dragonstar.md), naming it the [Dragonstar Arena](Lore_Dragonstar_Arena.md). Combatants that entered the arena would pass through Daedric portals as they completed each round, until facing Boethia's current champion in the Champion's Arena, a staging area located within her realm.<sup>[[7]](#cite_note-DRA-9)</sup> Circa [3E 433](Lore_Third_Era.md#3E_433), Boethiah opened a portal to Boethia Stadium to allow the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) to compete in the Tournament of Ten Bloods.<sup>[[6]](#cite_note-OBBoethia-8)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), the [Sheathed Blades](Lore_Sheathed_Blades.md) entered a portal to Attribution's Share within the [Throat of the World](Lore_Throat_of_the_World.md) to chase Oviron Salith, the leader of a Dunmer cult of Boethiah that were promoting dissent and violence throughout Skyrim. For hundreds of years they hunted Salith through the realm, and he was seemingly lost forever. The Blades died dozens of times, but somehow came back to life again and again, dying in grisly ways such as being swallowed whole by nightmarish creatures.<sup>[[1]](#cite_note-Adventure Game-1)</sup>
+
+After centuries in Attribution's Share, Boethiah gave them a chance to win their freedom and the heroes were sent back to [Skyrim](Lore_Skyrim.md) in 4E 201, and they are reborn, rebuilt, and recreated from their ashes with amnesia. The only task required of them is to help the Daedric Prince in her eternal fight against [Molag Bal](Lore_Molag_Bal.md). Frustrated by their slow pace, Boethiah returned Oviron Salith to Tamriel to act as competition. When the Blades saw their old nemesis emerge, their memories of their time in Oblivion washed upon them.<sup>[[1]](#cite_note-Adventure Game-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Adventure Game_1-0)***</sup><sup>***[b](#cite_ref-Adventure Game_1-1)***</sup><sup>***[c](#cite_ref-Adventure Game_1-2)***</sup> *[Skyrim - The Adventure Game](https://en.uesp.net/wiki/Skyrim TAG:Skyrim_-_The_Adventure_Game)*
+2. [^](#cite_ref-2) [*The Elder Scrolls: The Official Survival Guide to Tamriel*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Survival_Guide_to_Tamriel) — [Tori Schafer](https://en.uesp.net/wiki/General:Tori_Schafer)
+3. [^](#cite_ref-Boethia_dialogue_3-0) [Boethia](https://en.uesp.net/wiki/Oblivion:Boethia)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. [^](#cite_ref-TESIVOOGG_6-0) [*The Elder Scrolls IV: Oblivion Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_IV:_Oblivion_Official_Game_Guide) — Peter Olafson
+5. [^](#cite_ref-Ro B_7-0) Appearance of the [Realm of Boethia](https://en.uesp.net/wiki/Oblivion:Realm_of_Boethia) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+6. ^ <sup>***[a](#cite_ref-OBBoethia_8-0)***</sup><sup>***[b](#cite_ref-OBBoethia_8-1)***</sup> [Boethia](https://en.uesp.net/wiki/Oblivion:Boethia) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+7. [^](#cite_ref-DRA_9-0) Events of [Dragonstar Arena](https://en.uesp.net/wiki/Online:Dragonstar_Arena) in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-4) [*Imperial Census of Daedra Lords*](https://en.uesp.net/wiki/General:Imperial_Census_of_Daedra_Lords) — the [Imperial Geographic Survey](Lore_Imperial_Geographical_Society.md)
+2. [^](#cite_ref-AYP_5-0) [Andrew Young's Posts](https://en.uesp.net/wiki/General:Andrew_Young%27s_Posts)

@@ -1,0 +1,28 @@
+# Sunna'rah
+
+[![](https://images.uesp.net/thumb/4/4c/ON-item-Sunna%27rah.jpg/200px-ON-item-Sunna%27rah.jpg)](https://en.uesp.net/wiki/File:ON-item-Sunna%27rah.jpg) [](https://en.uesp.net/wiki/File:ON-item-Sunna%27rah.jpg) Sunna'rah (ESO) Sunna'rah is a powerful [staff-like](Lore_Staff.md) device created by the clockwork god [Sotha Sil](Lore_Sotha_Sil.md). Also referred to as the "blessed staff",<sup>[[1]](#cite_note-ESOBarilzar-1)</sup> it combines clockwork technology with [magicka](Lore_Magic.md).<sup>[[2]](#cite_note-ESOSunnarah-2)</sup> It was used by Sotha Sil to study his divine powers. By draining minute pieces of his own energy into a reservoir, he could study it and then return the energy back into himself.<sup>[[1]](#cite_note-ESOBarilzar-1)</sup>
+
+The staff was largely forgotten about until around [2E 582](Lore_Second_Era.md#2E_582). An [Ashlander](Lore_Ashlanders.md) warrior named [Conoon Chodala](Lore_Conoon_Chodala.md) plotted to unite the fractured tribes and elevate them by overthrowing the [Great Houses](Lore_Great_House.md). He somehow learned that Sunna'rah was in the possession of the [Nycotic Cult](Lore_Nycotic_Cult.md), a group worshipping a twisted version of [Clavicus Vile](Lore_Clavicus_Vile.md), who were planning to use it in a dark ritual. He ordered a warband of [Red Exiles](Lore_Red_Exiles.md) to infiltrate the ritual site and steal the staff.<sup>[[3]](#cite_note-REI-3)</sup>
+
+With the staff in his possession, Chodala attuned Sunna'rah for his own gain and began to use it to slowly drain the divine power from [Vivec](Lore_Vivec_(god).md) himself. Vivec began to weaken, while Chodala became virtually unstoppable.<sup>[[4]](#cite_note-ESOTarvus-4)</sup> With his new powers Chodala was able to strengthen his claim that he was the legendary [Nerevarine](Lore_Nerevarine.md) and convinced the Red Exiles to pledge their loyalty to him.<sup>[[5]](#cite_note-MWC-5)</sup><sup>[[6]](#cite_note-ESOSeryn-6)</sup>
+
+A weakened Vivec asked [the Vestige](Lore_The_Vestige.md) for aid to discern why his power was draining. Eventually, Chodala's plot involving Sunna'rah was revealed and Archcanon Tarvus ordered that he be stopped and the staff be recovered. The Vestige and the Ashlander Seryn tracked Chodala to a [Daedric](Lore_Daedra.md) shrine where they used a tonal inverter to disrupt the staff's power. The warmongering ashkhan was struck down and Sunna'rah was brought back to Vivec's palace.<sup>[[7]](#cite_note-ONDI-7)</sup>
+
+Unexpectedly, Archcanon Tarvus revealed himself to be [Barbas](Lore_Barbas.md), the hound of Clavicus Vile. Seeking to discover the location of the hidden [Clockwork City](Lore_Clockwork_City.md), he used the staff to send Vivec's divine power to a reservoir in the city's Divinity Atelier. The surge of energy revealed the city's location and Barbas escaped with Sunna'rah.<sup>[[7]](#cite_note-ONDI-7)</sup><sup>[[1]](#cite_note-ESOBarilzar-1)</sup>
+
+Upon traveling to Clockwork City, Barbas used Sunna'rah to deactivate the wards placed around the city and open its gates. The Vestige and Barilzar followed him to the Divinity Atelier, where Barbas tried to use Sunna'rah to create a portal for his master. The Vestige defeated Barbas before he could allow Clavicus Vile to enter the Clockwork City. The Vestige then returned to Vivec's palace and used Sunna'rah to restore Vivec's divine energy.<sup>[[8]](#cite_note-ONDR-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/08/ON-npc-Chodala.jpg/200px-ON-npc-Chodala.jpg)](https://en.uesp.net/wiki/File:ON-npc-Chodala.jpg) Chodala with Sunna'rah (ESO)
+- [![](https://images.uesp.net/thumb/4/4e/LG-cardart-False_Incarnate.jpg/200px-LG-cardart-False_Incarnate.jpg)](https://en.uesp.net/wiki/File:LG-cardart-False_Incarnate.jpg) Chodala with Sunna'rah (Legends)
+- [![](https://images.uesp.net/thumb/1/12/LG-cardart-Chodala%27s_Treachery.jpg/200px-LG-cardart-Chodala%27s_Treachery.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Chodala%27s_Treachery.jpg) Chodala using Sunna'rah (Legends)
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESOBarilzar_1-0)***</sup><sup>***[b](#cite_ref-ESOBarilzar_1-1)***</sup><sup>***[c](#cite_ref-ESOBarilzar_1-2)***</sup> [Barilzar](https://en.uesp.net/wiki/Online:Barilzar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+2. [^](#cite_ref-ESOSunnarah_2-0) [Sunna'rah](https://en.uesp.net/wiki/Online:Sunna%27rah)'s item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+3. [^](#cite_ref-REI_3-0) [Red Exile Instructions](https://en.uesp.net/wiki/Online:Red_Exile_Instructions)
+4. [^](#cite_ref-ESOTarvus_4-0) [Archcanon Tarvus](https://en.uesp.net/wiki/Online:Archcanon_Tarvus)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+5. [^](#cite_ref-MWC_5-0) [Meeting with Chodala](https://en.uesp.net/wiki/Online:Meeting_with_Chodala)
+6. [^](#cite_ref-ESOSeryn_6-0) [Seryn](https://en.uesp.net/wiki/Online:Seryn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+7. ^ <sup>***[a](#cite_ref-ONDI_7-0)***</sup><sup>***[b](#cite_ref-ONDI_7-1)***</sup> [Divine Intervention](https://en.uesp.net/wiki/Online:Divine_Intervention) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+8. [^](#cite_ref-ONDR_8-0) [Divine Restoration](https://en.uesp.net/wiki/Online:Divine_Restoration) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*

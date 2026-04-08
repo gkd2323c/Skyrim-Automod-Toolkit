@@ -1,0 +1,26 @@
+# Airship Captain's Journal
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Airship_Captain%27s_Journal) |
+
+Airship Captain's Journal **by Captain Roberto Jodoin** *Journal of Captain Roberto Jodoin, Commander of the Beauchamp Expedition*
+---
+Journal of Captain Roberto Jodoin
+Commander, Beauchamp Expedition
+
+Entry 1: Today is the day! Beauchamp's airship seems sturdy enough, and the crew is ready to set sail. We'll travel north-northwest until we reach the island of [Solstheim](Lore_Solstheim.md). According to Beauchamp, the Hrothmund's Bane wolf formation is somewhere near the [Moesring Mountains](Lore_Moesring_Mountains.md). The barrow we're set to explore is located at the wolf's eye. We'll get Beauchamp's precious magic item and be back at the Guild of Mages in a few days. What could possibly go wrong?
+
+Entry 4: Damn conjurers, sorcerers, inventors, scientists and all they're *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* academic ilk! Beauchamp promised me his airship would hold together, promised me it could be sailed just like a sea-bound craft. All lies! This monstrosity is barely holding together -- we've been trailing bits and pieces of it ever since we left [Ald'Ruhn](Lore_Ald%27ruhn.md) *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*! Just an hour ago we lost one of the [Dwemer](Lore_Dwemer.md#Technology) cogs from the main engine! If this were a frigate or sloop I'd be holding her together just fine, but alas, trying to control an airship is like setting to sea in a barrel with a spoon for an oar.
+
+Entry 6: Land ho!
+
+Entry 7: It's normal for a crewmember to get edgy, but the [Argonian](Lore_Argonian.md) finally went berserk. I told him repeatedly before we left Ald'Ruhn that an airship sails in the sky, and not on the water. He told me he understood, but his fear of heights must have finally taken sway. In a frenzied state he grabbed the wheel and almost forced us into the sea. I had no choice but to run him through. Swims-In-Swells was his name, and a good crewmember he was before this unfortunate incident. I would have preferred a burial at sea, but considering our current situation we had no choice but to toss his body overboard. We aimed for the ocean, but by that time the airship had drifted over Solstheim. Alas, I fear we missed, and his corpse landed somewhere on the southeastern shore.
+
+Entry 9: We've located Hrothmund's Bane! At least Beauchamp was right about something. The wolf formation runs from west to east, with the head -- and eye -- toward the eastern end. We'll look for a place to set down and then explore Hrothmund's Barrow -- assuming THAT is where Beauchamp said it would be. I must also note that the going is slower than I'd like. There's a fell chill in the air, and I don't trust the dark clouds that have gathered over the mountains....
+
+Entry 11: We have been assailed by a blizzard, the likes of which I have never seen! I feared a storm, but could never have imagined anything like this. Beauchamp's contraption is coming apart at the seams, and I don't think we can hold altitude. There's nowhere to land, but land we must!
+
+Entry 12: Dead. All of them ded *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. Most of the crew were killd *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* instantly when the aiship *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* went down. the *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* few that made it soon sucummed *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* to the cold. I alon *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* survived. Need to make a camp. Snow is blocking my way into the ship's hold. I go to the barrow in the murning *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. I can harly *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* write. My hands arr *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* nearly frzen *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*.
+
+Entry 13: so *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* cold so cold. So hu Ngry *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*...madness tak KIng *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* me I can feeeel ite *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. I see eyes night eyes wolf eys *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*. Here *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* them...so hungry. Eye of wlf *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* coming! White wolf! So col *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*...

@@ -1,0 +1,10 @@
+# Markarth Watch
+
+[![](https://images.uesp.net/thumb/0/01/ON-pet-Black_Mask_Bear-Dog.jpg/200px-ON-pet-Black_Mask_Bear-Dog.jpg)](https://en.uesp.net/wiki/File:ON-pet-Black_Mask_Bear-Dog.jpg) [](https://en.uesp.net/wiki/File:ON-pet-Black_Mask_Bear-Dog.jpg) Black Mask Bear-Dog [![](https://images.uesp.net/thumb/a/a4/ON-place-Markarth_02.jpg/200px-ON-place-Markarth_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Markarth_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Markarth_02.jpg) Markarth ca. 2E 582 Markarth Watch was one of the [factions](Lore_Reachman_Clans.md#Factions) of [Reachfolk](Lore_Reachfolk.md) that operated in [Markarth](Lore_Markarth.md) during the times of the [Three Banners War](Lore_Three_Banners_War.md), during the [Interregnum](Lore_Interregnum.md) in the [Second Era](Lore_Second_Era.md). As of [2E 582](Lore_Second_Era.md#2E_582), alongside the [Stonehands](Lore_Stonehands.md) they were one of the groups responsible for law enforcement and crime investigation within the city walls.<sup>[[1]](#cite_note-ROTDOM-1)</sup><sup>[[2]](#cite_note-BMBD-2)</sup><sup>[[3]](#cite_note-ESO_Gwenyfe-3)</sup>
+
+They were known for working with [Bear-Dogs](Lore_Dog.md#Bear-Dog). Their favorite variant of the Bear-Dog was the Black Mask breed. Those dogs were used to sniff out trouble and to find local thieves.<sup>[[2]](#cite_note-BMBD-2)</sup>
+
+## References
+1. [^](#cite_ref-ROTDOM_1-0) [*Report on the Despot of Markarth*](Lore_Report_on_the_Despot_of_Markarth.md) — [Lady Nilene Devierin](Lore_Nilene_Devierin.md) of Stormhaven
+2. ^ <sup>***[a](#cite_ref-BMBD_2-0)***</sup><sup>***[b](#cite_ref-BMBD_2-1)***</sup> [Black Mask Bear-Dog](https://en.uesp.net/wiki/Online:Black_Mask_Bear-Dog) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ESO_Gwenyfe_3-0) [Gwenyfe](https://en.uesp.net/wiki/Online:Gwenyfe)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

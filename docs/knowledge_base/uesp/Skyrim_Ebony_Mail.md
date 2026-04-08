@@ -1,0 +1,45 @@
+# Ebony Mail
+
+| --- | --- | --- | --- |
+| **Type** | [Heavy](Skyrim_Heavy_Armor.md) [Armor](Skyrim_Heavy_Armor_(item).md) | | |
+| **Editor ID** | DA02Armor | | |
+| Statistics | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) **Rating** | 45 | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) **Rating** | 45 | [](https://en.uesp.net/wiki/File:SR-icon-Warmth_small.png) **Warmth** | 27 |
+| [](File_SR-icon-clothing-Leather_Backpack_(square).png.md) **Weight** | 28 | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) **Value** | 5000 |
+| [![Quality](https://images.uesp.net/thumb/6/65/SR-skill-Smithing_bw_%28crop%29.png/22px-SR-skill-Smithing_bw_%28crop%29.png)](File_SR-skill-Smithing_bw_(crop).png.md) **[Tempering](https://en.uesp.net/wiki/Skyrim:Tempering)** | [Ebony Ingot](https://en.uesp.net/wiki/Skyrim:Ebony_Ingot) | | |
+| [![Quality](https://images.uesp.net/thumb/6/65/SR-skill-Smithing_bw_%28crop%29.png/22px-SR-skill-Smithing_bw_%28crop%29.png)](File_SR-skill-Smithing_bw_(crop).png.md) **[Tempering](https://en.uesp.net/wiki/Skyrim:Tempering)** | [Ebony Ingot](https://en.uesp.net/wiki/Skyrim:Ebony_Ingot) | **Perk** | [Ebony Smithing](https://en.uesp.net/wiki/Skyrim:Ebony_Smithing) |
+| Enchantment | | | |
+| \| *You are able to move more quietly, and opponents that get too close take 5 points [poison damage](https://en.uesp.net/wiki/Skyrim:Poison_Damage) per second.* \| <br> \| --- \| | *You are able to move more quietly, and opponents that get too close take 5 points [poison damage](https://en.uesp.net/wiki/Skyrim:Poison_Damage) per second.* | | |
+| *You are able to move more quietly, and opponents that get too close take 5 points [poison damage](https://en.uesp.net/wiki/Skyrim:Poison_Damage) per second.* | | | |
+
+[![](https://images.uesp.net/thumb/8/8e/SR-item-Ebony_Mail.jpg/200px-SR-item-Ebony_Mail.jpg)](https://en.uesp.net/wiki/File:SR-item-Ebony_Mail.jpg) [](https://en.uesp.net/wiki/File:SR-item-Ebony_Mail.jpg) Ebony Mail The Ebony Mail is an artifact created by the Daedric Prince [Boethiah](Lore_Boethiah.md). It is [heavy armor](Skyrim_Heavy_Armor_(item).md) and enchanted with a [muffle](Skyrim_Muffle_(effect).md) effect as well as a unique area effect that inflicts 5 points of [poison damage](https://en.uesp.net/wiki/Skyrim:Poison_Damage) per second on nearby opponents. It can be [improved](Skyrim_Workbench.md) with an [ebony ingot](https://en.uesp.net/wiki/Skyrim:Ebony_Ingot). It is awarded to you by Boethiah for completing the quest [Boethiah's Calling](https://en.uesp.net/wiki/Skyrim:Boethiah%27s_Calling).
+
+In appearance, the Ebony Mail is not too different from ordinary [ebony armor](https://en.uesp.net/wiki/Skyrim:Ebony_Armor), aside from the absence of shoulder pauldrons, a black chainmail texture replacing the cloth areas, and minor color changes. The most unique feature of the Ebony Mail is its "poison cloak" enchantment, which activates when the wearer is sneaking or when an enemy is nearby. While active, the armor gives off a black/green-colored smoke and all parts of the wearer (including weapons but not hair and facial hair) appear a shadowy black. Most hostile creatures or NPCs affected by the poison cloak will take on a similar silhouetted appearance.
+
+## Related Quests
+- **[Boethiah's Calling](https://en.uesp.net/wiki/Skyrim:Boethiah%27s_Calling)**: Become [Boethiah](Lore_Boethiah.md)'s new champion.
+
+## Notes
+- The value of the [Muffle](Skyrim_Muffle_(effect).md) effect is set to 1, so the Ebony Mail alone completely eliminates all noise from your armor. However, the Muffle effect for the Ebony Mail only activates while you are in sneak mode.
+- The Ebony Mail armor is the lightest heavy armor cuirass and has the best defense-to-weight ratio (1.61) in the game. Three materials have a better basic armor rating, [daedric](https://en.uesp.net/wiki/Skyrim:Daedric_Armor), [dragonplate](https://en.uesp.net/wiki/Skyrim:Dragonplate), and [stalhrim](Skyrim_Stalhrim.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, but are all much heavier. Dragonplate and stalhrim have only one point of armor rating more, while daedric has three, while they are 14, 12, and 22 points heavier, respectively. Choosing Ebony Mail over the other sets is a small loss of defense (which has a maximum limit achievable without the best armor), in exchange for a relatively large amount of carrying space.
+- The enchantment on the Ebony Mail has several drawbacks: - Getting too close to any non-allied NPC can trigger the poison aura, effectively attacking the NPC. This effect also can cause [pickpocketing](Skyrim_Pickpocket.md) and [sneaking](Skyrim_Sneak.md) to fail where it would normally succeed. - The poison aura is however quite useful when swimming as it can kill slaughterfish.
+- The smoke emitted by the poison cloak can obscure a significant part of the screen in first-person view and thus interfere with your ability to see enemies while in combat; the effect is especially noticeable when you are stationary or aiming a bow.
+- [Brawling](Skyrim_Combat.md#Brawls) while wearing the Ebony Mail violates the rules of a brawl and will give you an assault bounty. - [![On PC](https://images.uesp.net/d/d7/Computer.svg)](https://www.wikipedia.org/wiki/PC_game) This issue has been addressed by version 1.2.4 of the [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim:USKP); the poison cloak enchantment will no longer cause unintended damage during brawls.
+- Because of all these drawbacks, you may want to consider giving the Ebony Mail to your [follower](Skyrim_Followers.md). - Followers benefit from [Fortify Carry Weight](Skyrim_Fortify_Carry_Weight.md) enchantments, but only with single items or stacks transferred at a time. The menu must be closed and reopened to add more. See the "Enchanted Follower Equipment" section of [follower](Skyrim_Followers.md) for details. Followers do not benefit from the [Steed Stone](Skyrim_The_Steed_Stone.md), or the [Conditioning](Skyrim_Conditioning.md) perk; Ebony Mail is an excellent choice to mitigate this limitation (see second note).
+- The problems that the poison cloak causes regarding sneaking and pickpocketing can be easily worked around by having your follower wait a safe distance away.
+- Followers do not get involved in a brawl, so they will not assault your opponent with the poison cloak.
+- The Ebony Mail can be used as a radar: it will activate the smoke effect as soon as a creature or NPC goes hostile.
+- The "poison cloak" does not deactivate by activating one of the Cloak spells.
+- The "poison" of the cloak effect also damages Draugr and Vampires, despite their supposed immunity to poisons.
+- The poison damage is **not** amplified by any the following effects: [Weakness to Magic](Skyrim_Weakness_to_Magic.md), [Weakness to Poison](https://en.uesp.net/wiki/Skyrim:Weakness_to_Poison), [Fortify Destruction](Skyrim_Fortify_Destruction.md), [Fortify Restoration](Skyrim_Fortify_Restoration.md), [Fortify Alteration](https://en.uesp.net/wiki/Skyrim:Fortify_Alteration)/[Illusion](https://en.uesp.net/wiki/Skyrim:Fortify_Illusion)/[Conjuration](https://en.uesp.net/wiki/Skyrim:Fortify_Conjuration).
+
+## Bugs
+- The [Champion of Boethiah](https://en.uesp.net/wiki/Skyrim:Champion_of_Boethiah) will re-equip this armor every time he is revived with [Dead Thrall](Skyrim_Dead_Thrall.md), which can be exploited for infinite gold and powerful armor for your followers. - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.5, fixes this bug.
+- Equipping the Ebony Mail directly from the Champion's body may not terminate the quest. Taking then equipping it, or unequipping and re-equipping, will remedy this. <sup>**?**</sup>
+- Prior to the last official patch, the Ebony Mail, like all ebony armor, was not considered heavy armor for the purposes of the [Matching Set](Skyrim_Heavy_Armor.md#Matching_Set) perk. - The [Official Skyrim Patch](Skyrim_Patch.md), version 1.9, fixes this bug.
+- During the quest [Diplomatic Immunity](Skyrim_Diplomatic_Immunity.md), the armor has a tendency to be absent from the chest with the smuggled items. Avoid giving [Malborn](Skyrim_Malborn.md) the armor. <sup>**?**</sup>
+- You can use the mannequin glitch to duplicate this armor, but all upgrades done to it will be lost. <sup>**?**</sup>
+- Wearing this armor can make it less likely to absorb [dragon souls](https://en.uesp.net/wiki/Skyrim:Dragon_Soul). <sup>**?**</sup>
+- Drawn weapons may sometimes visibly blink in and out when the armor's shroud is active. <sup>**?**</sup>
+- Equipping the [Masque of Clavicus Vile](https://en.uesp.net/wiki/Skyrim:Masque_of_Clavicus_Vile) along with this armor can cause your head to disappear. <sup>**?**</sup>

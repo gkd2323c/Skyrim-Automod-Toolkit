@@ -1,0 +1,114 @@
+# Fahlbtharz
+
+| --- |
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) \| Dwarven Ruin: <br> Fahlbtharz <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Fahlbtharz)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) | Dwarven Ruin: <br> Fahlbtharz <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Fahlbtharz)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Dwemer.png) | Dwarven Ruin: <br> Fahlbtharz <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Fahlbtharz)) | |
+| # of Zones | 5 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days or 30 days | |
+| [Level](https://en.uesp.net/wiki/Skyrim:Encounter_Zone_Level) | Min: 25 | |
+| Occupants | | |
+| [Albino Spiders](https://en.uesp.net/wiki/Skyrim:Albino_Spider), [Dwarven Automatons](Skyrim_Dwarven_Automatons.md), [Oil Spiders](Skyrim_Oil_Spider_(creature).md), [Rieklings](Skyrim_Riekling.md) | | |
+| Important Treasure | | |
+| [Kagrumez Resonance Gem](https://en.uesp.net/wiki/Skyrim:Kagrumez_Resonance_Gem) <br> [Visage of Mzund](Skyrim_Visage_of_Mzund.md) | | |
+| Console Location Code(s) | | |
+| DLC2Fahlbtharz Exterior01, DLC2Fahlbtharz Exterior02, DLC2Fahlbthar Exterior03, DLC2Fahlbtharz01, DLC2Fahlbtharz02, DLC2Fahlbtharz03, DLC2Fahlbtharz04, cc ASVSSE001Interior01 | | |
+| Region | | |
+| [Solstheim](Skyrim_Solstheim.md) | | |
+| Location | | |
+| East of the [Water Stone](Skyrim_Water_Stone.md) <br> Northwest of [Frostmoon Crag](Skyrim_Frostmoon_Crag.md) | | |
+
+[![](https://images.uesp.net/thumb/6/68/SR-place-Fahlbtharz.jpg/200px-SR-place-Fahlbtharz.jpg)](https://en.uesp.net/wiki/File:SR-place-Fahlbtharz.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fahlbtharz.jpg) Fahlbtharz **Fahlbtharz** is a large [Dwarven ruin](Skyrim_Dwarven_Ruins.md) east of the [Water Stone](Skyrim_Water_Stone.md) containing [rieklings](Skyrim_Riekling.md), [albino spiders](https://en.uesp.net/wiki/Skyrim:Albino_Spider), [oil spiders](Skyrim_Oil_Spider_(creature).md), and [Dwarven automatons](Skyrim_Dwarven_Automatons.md). It contains four zones: *[Fahlbtharz](#Fahlbtharz_.28zone.29)*, *[Fahlbtharz Corridor](#Fahlbtharz_Corridor)*, *[Fahlbtharz Boilery](#Fahlbtharz_Boilery)*, and *[Fahlbtharz Grand Hall](#Fahlbtharz_Grand_Hall)*. A fifth zone, *[Fahlbtharz Forge](#Fahlbtharz_Forge)*, is found if the [Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal.md) [Creation](Skyrim_Creation_Club.md) is installed.
+
+## Related Quests
+- **[Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal_(quest).md)**<sup>[CC](Skyrim_Ghosts_of_the_Tribunal.md)</sup>: Decide the fate of a [heretical cult](Skyrim_Tribunal_Temple.md).
+- **[Trueflame](Skyrim_Trueflame_(quest).md)**<sup>[CC](Skyrim_Ghosts_of_the_Tribunal.md)</sup>: Restore power to the Dwarven Forge in Fahlbtharz to restore a [powerful artifact](https://en.uesp.net/wiki/Skyrim:Trueflame).
+- **[The Kagrumez Gauntlet](https://en.uesp.net/wiki/Skyrim:The_Kagrumez_Gauntlet)**: Survive the [Kagrumez](Skyrim_Kagrumez.md) trials to claim a unique [prize](https://en.uesp.net/wiki/Skyrim:Dwarven_Black_Bow_of_Fate).
+
+## Walkthrough
+
+### Exterior
+You will be ambushed by three rieklings near the entrance, one of which will be mounted on a bristleback. The Dwarven structures are partially destroyed and situated on a slope. There are also a few riekling structures, comprising a [hut](https://en.uesp.net/wiki/Skyrim:Riekling_Hut) and a bridge leading to a Dwemer tower with a [chest](https://en.uesp.net/wiki/Skyrim:Chest) and a copy of the rare book *[Nchunak's Fire and Faith](https://en.uesp.net/wiki/Skyrim:Nchunak%27s_Fire_and_Faith)* beside it.
+
+### Fahlbtharz
+[![](https://images.uesp.net/thumb/9/93/SR-interior-Fahlbtharz_03.jpg/200px-SR-interior-Fahlbtharz_03.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_03.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_03.jpg) The main chamber Due to its placement on a hill, the entry hallway is tilted. Go straight ahead and face a couple rieklings inhabiting this area. There is a fire behind some fencing with two pieces of charred skeever meat on top, and in and beside a tent opposite are three books, including a copy of *[Where were you when the Dragon Broke?](https://en.uesp.net/wiki/Skyrim:Where_were_you_when_the_Dragon_Broke)*. The hallway to the west then descends to the south and west, passing another tent and two more huts. Proceed south through several broken pipes and piles of rubble until you reach an open door and two dead rieklings pierced with [Dwarven arrows](https://en.uesp.net/wiki/Skyrim:Dwarven_Arrow). Avoid the two pressure plates that activate the [slicer](https://en.uesp.net/wiki/Skyrim:Slicer) trap just before the door, and head inside.
+
+Follow the passage to fight a leveled [Dwarven sphere](Skyrim_Dwarven_Sphere.md), then enter a room with a 10-button control panel on the right and a novice-locked door with a Dwarven chest behind it on the left. The buttons, numbered from left to right and top to bottom, trigger the following:
+
+[![](https://images.uesp.net/thumb/3/3e/SR-interior-Fahlbtharz_05.jpg/200px-SR-interior-Fahlbtharz_05.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_05.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_05.jpg) Control panel | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| Opens/closes the gate on the west side of the room, through which you first enter the room. | Spawns a leveled [Dwarven spider](Skyrim_Dwarven_Spider.md) from its port. (**once**) | Toggles a stationary [spinning blade](https://en.uesp.net/wiki/Skyrim:Spinning_Blades). | Spawns a leveled [Dwarven spider](Skyrim_Dwarven_Spider.md) from its port. (**once**) | Spawns a leveled [Dwarven spider](Skyrim_Dwarven_Spider.md) from its port. (**once**) |
+| 6 | 7 | 8 | 9 | 10 |
+| Spews flames on the left side of the control panel. | Opens/closes the novice-locked door on the north side of the room. | Toggles a stationary [spinning blade](https://en.uesp.net/wiki/Skyrim:Spinning_Blades). | Opens/closes the gate on the southeast side of the room. | Does nothing (see [bugs](#Bugs)). |
+
+[![](https://images.uesp.net/thumb/6/63/SR-interior-Fahlbtharz_08.jpg/200px-SR-interior-Fahlbtharz_08.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_08.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_08.jpg) Mushroom garden To progress, activate the second button from the right in the bottom row (**9**). The gate that has now been opened leads to a hallway with a caved-in room on the left containing an adept-locked chest. With the [Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal.md) [Creation](Skyrim_Creation_Club.md) installed, the caved-in portion with the adept-locked chest will be replaced by a door to *Fahlbtharz Forge*. At the end of the hallway is a room containing a [kinetic resonator](https://en.uesp.net/wiki/Skyrim:Kinetic_Resonator), with an expert-locked chest to the left of it (on the wall, not the ground). Hit the resonator to open the nearby gate to the east, and make your way through a web-covered section of the dungeon housing several [oil spiders](Skyrim_Oil_Spider_(creature).md), also passing several albino spider eggs and several different fungi. Eventually you will reach a closed gate, which can be opened by hitting the resonator hidden behind the destructible spider web to the left of the gate. Beyond the gate, downstairs, is a room with a mushroom garden containing three [white cap](https://en.uesp.net/wiki/Skyrim:White_Cap), two [blisterwort](https://en.uesp.net/wiki/Skyrim:Blisterwort), two [imp stool](https://en.uesp.net/wiki/Skyrim:Imp_Stool), two [bleeding crown](https://en.uesp.net/wiki/Skyrim:Bleeding_Crown), and a [fly amanita](https://en.uesp.net/wiki/Skyrim:Fly_Amanita) fungi. You will need to deal with two [Dwarven spiders](Skyrim_Dwarven_Spider.md) and a sphere in the two adjacent rooms. The first room through the doorway beside the mushroom farm is a bedroom containing four stone beds around a central table, with an unlocked Dwarven chest near the east wall. Enter the room to the west with a pile of rubble in the center that has broken another table in half, and go through the door at the end of the hall to the left.
+
+You will end up in an expansive chamber full of tall pillars, bearing platforms and walkways at their higher levels, and many giant spinning gears on the lower levels shortly above a large pool of water. Three [Dwarven ballistae](Skyrim_Dwarven_Ballista.md) will be guarding the higher levels. Jump down onto one of the spinning gears from under the small Dwemer tower to your right. Navigate southwest over the gears, some of which hide Dwarven spiders, and you will find the entrance to *[Fahlbtharz Corridor](#Fahlbtharz_Corridor)*.
+
+### Fahlbtharz Forge
+[![](https://images.uesp.net/thumb/5/57/SR-quest-Ghosts_of_the_Tribunal_02.jpg/200px-SR-quest-Ghosts_of_the_Tribunal_02.jpg)](https://en.uesp.net/wiki/File:SR-quest-Ghosts_of_the_Tribunal_02.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Ghosts_of_the_Tribunal_02.jpg) Fahlbtharz Forge Fahlbtharz Forge is a small room, as you enter, you will hear a ghost is saying *"Ah"* when killed by [Hand Kenro Hlan](https://en.uesp.net/wiki/Skyrim:Hand_Kenro_Hlan), if you're on the quest [Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal_(quest).md), you need kill Hand Kenro Hlan and progress the quest. There's a forge with 4 [Fahlbtharz Forge Gem](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal_Items#Fahlbtharz_Forge_Gem) sockets, it's quest related.
+
+### Fahlbtharz Corridor
+[![](https://images.uesp.net/thumb/3/3a/SR-interior-Fahlbtharz_04.jpg/200px-SR-interior-Fahlbtharz_04.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_04.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_04.jpg) Fahlbtharz Corridor There are two pressure plates near the entrance that trigger a [ballista](https://en.uesp.net/wiki/Skyrim:Dwemer_Ballista). On the way upstairs, there is a pressure plate connected to a [slicer](https://en.uesp.net/wiki/Skyrim:Slicer) trap. A single [Dwarven sphere](Skyrim_Dwarven_Sphere.md) will be spawned if you activate any of these three pressure plates. Upstairs to the left is an adept-locked gate, behind which are various Dwemer items including seven pieces of smeltable scrap metal and a [war axe](https://en.uesp.net/wiki/Skyrim:Dwarven_War_Axe), and a chest. To the right is a door leading to a higher level of the main chamber, back to the zone *[Fahlbtharz](#Fahlbtharz)*.
+
+Back in the main zone, turn left and go upstairs, and you will find yourself in a small alcove with a valve and a lever. The valve lowers the bridge in front of you leading to the water level of the chamber. Pulling the lever will rotate the nearby tower and extend a bridge to it. Cross the bridge and proceed straight ahead as far you can, then jump down onto the spinning gears. One of the gears has two large coin purses and a random enchanted shield in the center. Cross the gears and jump onto the platform ahead. Go upstairs, where you will find the corpse of [Eydis](Skyrim_Eydis_(Dragonborn).md), an explorer presumably killed by Dwarven automatons. You can loot her body for a set of [Skaal armor](https://en.uesp.net/wiki/Skyrim:Skaal_Coat) (excluding the [hat](https://en.uesp.net/wiki/Skyrim:Skaal_Hat)) and [her journal](https://en.uesp.net/wiki/Skyrim:Eydis%27s_Journal). There is a door on the left leading to *[Fahlbtharz Boilery](#Fahlbtharz_Boilery)*, and a valve ahead which lowers two ramps down to the water level of the chamber.
+
+### Fahlbtharz Boilery
+[![](https://images.uesp.net/thumb/8/83/SR-interior-Fahlbtharz_09.jpg/200px-SR-interior-Fahlbtharz_09.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_09.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_09.jpg) Fahlbtharz Boilery As you enter, you will notice there is an inaccessible gate to your right and a [kinetic resonator](https://en.uesp.net/wiki/Skyrim:Kinetic_Resonator) behind it. Past the gate, fight a [Dwarven spider](Skyrim_Dwarven_Spider.md) on your way downstairs to find yourself in a long room full of vent pipes and gears. There will be a shelf ahead with a [Dwarven bow](https://en.uesp.net/wiki/Skyrim:Dwarven_Bow) and four quivers, each containing 12 [Dwarven arrows](https://en.uesp.net/wiki/Skyrim:Dwarven_Arrow). A single [Dwarven ballista](Skyrim_Dwarven_Ballista.md) stands guard at the end of the room.
+
+[![](https://images.uesp.net/thumb/b/b8/SR-interior-Fahlbtharz.jpg/150px-SR-interior-Fahlbtharz.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz.jpg) Intact boiler [![](https://images.uesp.net/thumb/9/99/SR-interior-Fahlbtharz_02.jpg/150px-SR-interior-Fahlbtharz_02.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_02.jpg) Overcharged boiler Your progress will be blocked by a closed gate controlled by a steam-powered Dwarven mechanism. Get on the platform above, either by riding the two pistons up at this end, or by walking to the far end and climbing the stairs. There is a small alcove underneath the upper platform containing a table and chairs along with four unlocked Dwarven chests. In the center of the upper platform above the alcove lies the corpse of another unlucky explorer, [Ulyn](https://en.uesp.net/wiki/Skyrim:Ulyn), which can be looted for [his journal](https://en.uesp.net/wiki/Skyrim:Ulyn%27s_Journal) providing a few hints on how to solve the puzzle. Nearby rests a leveled enchanted bow and a quiver of 25 random arrows of up to ebony quality. You will also see a boiler consisting of a large Dwemer gear with twenty steam meters around it, and six resonators: three to the left, and three to the right. Each resonator represents a value (see [puzzle values](#Puzzle_Values)), which equals the number of steam meters that will be powered when that resonator is hit, or the number that will be reset when the resonator is hit again. Steam meters are powered progressively and clockwise, whereby each steam meter glows blue when powered, and orange when overpowered.
+
+#### Puzzle Values
+- Values of #1 and #6 are hinted in [Ulyn's journal](https://en.uesp.net/wiki/Skyrim:Ulyn%27s_Journal).
+
+| Resonator | #1 | #2 | #3 | #4 | #5 | #6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Value | **3** | **4** | 6 | 9 | **13** | 18 |
+
+The puzzle is solved when all twenty steam meters are powered, and none are overpowered. This can be achieved by shooting resonators #1, #2, and #5, numbered 1-6 from left to right as you face them. However, if the resonators are hit incorrectly, the boiler will be overcharged, venting out steam and spawning hostile Dwarven automatons. Failing more than twice will result in three moving [spinning blades](https://en.uesp.net/wiki/Skyrim:Spinning_Blades) being activated instead.
+
+Go upstairs through the gate that has been opened, and you will find the resonator that opens the previously inaccessible nearby gate. Destroy the nearby spider, then open the door straight ahead leading to a higher level of the main chamber, back to the zone *[Fahlbtharz](#Fahlbtharz)*.
+
+Back in the main zone, an essential lever that is easily overlooked will be on a wall directly to the right. The walkways will then align in a way which, after some further gear-navigating and resonator manipulation, will lead to *[Fahlbtharz Grand Hall](#Fahlbtharz_Grand_Hall)*. A lootable skeleton with a random enchanted bow and a quiver containing 15 arrows of leveled quality nearby can be found in the tower with the resonator. The opposite tower holds a large Dwarven chest. To the left of the entrance to the Grand Hall, on top of a nearby tall rock formation below, is a lootable skeleton holding a small expert-locked Dwarven chest, as well as an [apothecary's satchel](https://en.uesp.net/wiki/Skyrim:Apothecary%27s_Satchel) with three lockpicks next to it.
+
+### Fahlbtharz Grand Hall
+[![](https://images.uesp.net/thumb/d/dd/SR-interior-Fahlbtharz_06.jpg/200px-SR-interior-Fahlbtharz_06.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_06.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_06.jpg) Fahlbtharz Grand Hall [![](https://images.uesp.net/thumb/9/91/SR-interior-Fahlbtharz_07.jpg/200px-SR-interior-Fahlbtharz_07.jpg)](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_07.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Fahlbtharz_07.jpg) Treasure room You will find that the entire hall is covered with spider webs, so prepare to fight several [albino](https://en.uesp.net/wiki/Skyrim:Albino_Spider) and [oil spiders](Skyrim_Oil_Spider_(creature).md). Two [Dwarven Centurion Guardians](Skyrim_Dwarven_Centurion.md) can be found sleeping in the corners ahead, but will not awaken unless attacked or otherwise interacted with. As you move away from the entrance, two [Dwarven ballistae](Skyrim_Dwarven_Ballista.md) will ambush you from above.
+
+Within the hall is a round platform with three Dynamo Actuators that must be filled by [centurion dynamo cores](https://en.uesp.net/wiki/Skyrim:Centurion_Dynamo_Core), dropped by the centurions nearby, to progress. Fortunately, the middle actuator is already filled. The actuators, from left to right as you face them, trigger the final gate, the staircase to it, and the bars before the gate, respectively.
+
+After filling the Dynamo Actuators, you will be able to access the treasure room, which contains five [piles of gold](Skyrim_Gold.md#Pile_of_Gold), a treasure chest, a leveled battleaxe up to [Daedric](Skyrim_Daedric.md) quality, a single [Kagrumez resonance gem](https://en.uesp.net/wiki/Skyrim:Kagrumez_Resonance_Gem), and the unique Dwarven helmet [Visage of Mzund](Skyrim_Visage_of_Mzund.md). Activate the lever on the left to lift yourself back to surface, directly north of the [Abandoned Lodge](Skyrim_Abandoned_Lodge.md). This means leaving three valuable centurion dynamo cores behind; the alternative is to take them and make the long trek back to the surface the way you came.
+
+[![](https://images.uesp.net/thumb/f/fa/SR-place-Fahlbtharz_02.jpg/200px-SR-place-Fahlbtharz_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Fahlbtharz_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fahlbtharz_02.jpg) Fahlbtharz lift
+## Notes
+- Moving across the spinning gears and into the nearby towers can be frustrating. A carefully targeted Whirlwind Sprint can sometimes get you where you want to go; save the game before trying.
+- It is possible to get into the treasure room and retain two dynamo cores by removing the center one that controls the stairs, then placing it in the activator that opens the swinging gates. Once you have that set, jump onto the right activator that controls the bars, place a core into it, then remove it and quickly use Whirlwind Sprint as you line your sight with the opening to the control room. It is very tight timing, but it can be done. Note: Your follower will catch up to you when you leave the room.
+- It is possible to loot some items from the treasure room without any extra dynamo cores by using [Telekinesis](Skyrim_Telekinesis.md) to pull items through the bars.
+
+- It is possible to completely bypass the boiler room puzzle by standing right up against the gate near the entrance and casting spells/powers (see "Working Methods" below) or shouting through it, thus hitting the resonator.
+
+| Working Methods - **[Destruction](Skyrim_Destruction.md) magic** - Most shock spells <br> - Rune spells (indirectly) <br> - [Blizzard](https://en.uesp.net/wiki/Skyrim:Blizzard) <br> - [Fire Storm](https://en.uesp.net/wiki/Skyrim:Fire_Storm) <br> - **[Restoration](Skyrim_Restoration.md) magic** - [Circle of Protection](Skyrim_Circle_of_Protection.md) <br> - **[Powers](Skyrim_Powers.md)** - [Battle Cry](Skyrim_Battle_Cry.md) <br> - [North Wind](https://en.uesp.net/wiki/Skyrim:North_Wind) <br> - **[Shouts](Skyrim_Shouts.md)** - [Unrelenting Force](Skyrim_Unrelenting_Force.md) <br> <br> \| \| <br> \| --- \| | |
+| --- | --- |
+| | |
+
+- If you want the treasure from the final room (including the Visage and the resonance gem) but don't want to bother with the puzzles of the entire ruin, you can use a wooden plate or platter to glitch through the locked gate of the Fahlbtharz Lift, use the lift to go down, and then claim the treasure. Note that you can't "backtrack" to the entrance this way, as the door leading to it is barred by the puzzle.
+
+## Bugs
+- The button at the bottom right corner of the control panel was intended to activate the flamethrower on the right side of the panel, but doesn't. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Dragonborn Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Dragonborn_Patch), version 2.0.3, fixes this bug.
+- There are some Dwarven chests that are double placed, and thus lootable twice. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Dragonborn Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Dragonborn_Patch), version 2.0.4, fixes this bug.
+- If you sneak attack the centurions in the Grand Hall before they activate, you may not be able to loot their corpses, and will either need to have brought two centurion dynamo cores with you to progress, or exit Fahlbtharz before clearing it.
+- If you carry no Centurion dynamo cores and keep interacting with an empty actuator, one will eventually be added to your inventory. That way you may fill all the actuators, despite starting with zero cores.
+- Sometimes you'll have to *remove* the right dynamo core after adding it in order to clear the bars.
+- When you enter the Grand Hall, there is a map glitch where albino/oil spiders and any items will fall through. <sup>**?**</sup>
+- The body of Eydis can disappear. Attempts to use `player.moveto` will just move you to where the body should have been. <sup>**?**</sup>
+- The Dwarven Ballista in the Boilery is sometimes not hostile <sup>**?**</sup>
+
+## Maps
+- [![](https://images.uesp.net/thumb/8/86/SR-map-Fahlbtharz.jpg/200px-SR-map-Fahlbtharz.jpg)](https://en.uesp.net/wiki/File:SR-map-Fahlbtharz.jpg) Fahlbtharz
+- [![](https://images.uesp.net/thumb/6/6d/SR-map-Fahlbtharz_Corridor.jpg/200px-SR-map-Fahlbtharz_Corridor.jpg)](https://en.uesp.net/wiki/File:SR-map-Fahlbtharz_Corridor.jpg) Fahlbtharz Corridor
+- [![](https://images.uesp.net/thumb/2/20/SR-map-Fahlbtharz_Boilery.jpg/200px-SR-map-Fahlbtharz_Boilery.jpg)](https://en.uesp.net/wiki/File:SR-map-Fahlbtharz_Boilery.jpg) Fahlbtharz Boilery
+- [![](https://images.uesp.net/thumb/1/1d/SR-map-Fahlbtharz_Grand_Hall.jpg/200px-SR-map-Fahlbtharz_Grand_Hall.jpg)](https://en.uesp.net/wiki/File:SR-map-Fahlbtharz_Grand_Hall.jpg) Fahlbtharz Grand Hall

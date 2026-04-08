@@ -1,0 +1,156 @@
+# Father Of The Niben
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book6.png) Book Information <br> *Father Of The Niben* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01B008 | | |
+| See Also | [Lore version](Lore_Father_Of_The_Niben.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 65 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Archery](Skyrim_Archery.md) | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Hunter's Rest](Skyrim_Hunter%27s_Rest.md) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)), between two bedrolls <br> - 460 ft SW of [Kagrenzel](Skyrim_Kagrenzel.md) ([Eastmarch](Skyrim_Eastmarch.md)) [(map)](https://gamemap.uesp.net/sr/?x=185593&y=-37167&zoom=17&legacy=true) <br> - 190 ft NNE of [Twilight Sepulcher](https://en.uesp.net/wiki/Skyrim:Twilight_Sepulcher) ([Falkreath Hold](Skyrim_Falkreath_Hold.md)) [(map)](https://gamemap.uesp.net/sr/?x=-69443&y=-76729&zoom=17&legacy=true) <br> - [Wreck Of The Brinehammer](https://en.uesp.net/wiki/Skyrim:Wreck_Of_The_Brinehammer) ([The Pale](Skyrim_The_Pale.md)), lower cargo hold [(map)](https://gamemap.uesp.net/sr/?x=-2982&y=119860&zoom=17&legacy=true) <br> - [Autumnshade Clearing](Skyrim_Autumnshade_Clearing.md), on the corpse of a hunter (respawn indefinitely) [(map)](https://gamemap.uesp.net/sr/?x=152132&y=-78943&zoom=17&legacy=true) | | | |
+
+Father of the Niben **by [Florin Jaliil](Lore_Books_by_Author.md#Florin_Jaliil)** *Translation of the fragmented journal of Topal the Pilot*
+---
+
+### Introduction:
+Writing the biography of anyone is a challenge. Usually the problem lies in assessing one's sources, comparing the prejudices of one chronicle versus another versus another. [Waughin Jarth](Lore_Waughin_Jarth.md), I have been told, in writing his well-regarded [series](https://en.uesp.net/wiki/Skyrim:The_Wolf_Queen) on the [Wolf Queen of Solitude](https://en.uesp.net/wiki/Skyrim:Potema) used over a hundred contemporary narratives. I cannot complain about my task having a similar issue.
+
+There is but one record of the man called [Topal the Pilot](Lore_Topal_the_Pilot.md), the earliest known [Aldmer](Lore_Aldmer.md) explorer of [Tamriel](Lore_Tamriel.md). Only four short verse fragments of the epic "Father of the Niben" have survived to present day, but they offer an interesting if controversial look at the Middle [Merethic Era](Lore_Merethic_Era.md) when Topal the Pilot may have sailed the seas around Tamriel.
+
+Though "Father of the Niben" is the only written record of Topal the Pilot's voyages, it is not the only proof of his existence. Among the treasures of the great [Crystal Tower](Lore_Crystal_Tower.md) of [Summerset Isle](Lore_Summerset_Isle.md) are his crude but fascinating maps, his legacy to all Tamriel.
+
+The translation of the [Aldmeri](Lore_Aldmeris_(language).md) [Udhendra Nibenu](Lore_Udhendra_Nibenu.md), "Father of the Niben," is my own, and I accept that other scholars may disagree with some of my choice of words. I cannot promise my translation lives up to the beauty of the original: I have only strived for simple coherence.
+
+### Fragment One:
+
+- - Second ship, the Pasquiniel, manned by pilot
+- Illio, was to follow the southern pointing
+- [Waystone](Lore_Waystone.md); and the third, the Niben, manned
+- By pilot Topal, was to follow the north-east
+- Pointing waystone; the orders from the
+- Crystal Tower, they were to sail forth for
+- Eighty moons and then return to tell.
+- Only Niben returned to [Firsthold](Lore_Firsthold.md), laden high with
+- Gold and spice and fur and strange creatures,
+- Dead and live.
+- Though, alas, [Old Ehlnofey](Lore_Old_Ehlnofey.md) Topal never found, he
+- Told the tales of the lands he had visited to the
+- Wonderment of all.
+- For sixty-six days and nights, he sailed, over crashing
+- Waves of dire intent, past whirlpools, through
+- Mist that burned like fire, until he reached the
+- Mouth of a great bay and he landed on a
+- Sun-kissed meadow of gentle dells.
+- As he and his men rested, there came a fearsome howl,
+- And hideous [orcs](Skyrim_Orc.md) streamed forth from the murky
+- Glen, cannibal teeth clotted with gore
+
+For centuries, strange crystalline balls were unearthed at the sites of ancient Aldmer shipwrecks and docks, peculiar artifacts of the Merethic and [Dawn Eras](Lore_Dawn_Era.md) that puzzled archeologists until it was demonstrated that each had a tendency to rotate on its axis in a specific direction. There were three varieties, one that pointed southward, one that pointed northeast, and one that point northwest.
+
+It is not understood how they work, but they seemed attuned to particular lines of power. These are the "waystones" of the fragment, which each of the pilots used to point their craft in the direction they were assigned to go. A ship with a name not mentioned in the fragment took his vessel north-west, towards [Thras](Lore_Thras.md) and [Yokuda](Lore_Yokuda.md). The Pasquiniel took the southern waystone, and must have sailed down toward [Pyandonea](Lore_Pyandonea.md). Topal and his north-east waystone found the mainland of Tamriel.
+
+It is clear from this fragment what the three ships were assigned to do - find a passage back to Old Ehlnofey so that the Aldmer now living in Summerset could learn what became of their old homeland. As this book is intended to be a study of Topal the Pilot, there is scarcely room to dedicate to different theories of the Aldmeri exodus from Old Ehlnofey.
+
+If I were using this poem as my only source, I would have to agree with the scholars who believe in the tradition that several ships left Old Ehlnofey and were caught in a storm. Those who survived found their way to Summerset Isle, but without their waystones, they did not know what direction their homeland was. After all, what other explanation is there for three ships heading in three opposite directions to find a place?
+
+Naturally, only one of the ships returned, and we do not know if either or both of the other two found Old Ehlnofey, or perished at sea or at the hands of the ancient Pyandoneans, [Sload](Lore_Sload.md), or [Yokudans](Lore_Yokudan.md). We must assume, unless we think the Aldmer particularly idiotic, that at least one of them must have been pointing in the right direction. It may well have even been Topal, and he simply did not go north-east far enough.
+
+So, Topal setting sail from Firsthold heads north-east, which coincidentally is the longest one can travel along the [Abecean Sea](Lore_Abecean_Sea.md) without striking land of any kind. Had he traveled straight east, he would have struck the mainland somewhere in what is now the [Colovian West](Lore_Colovian_West.md) of [Cyrodiil](Lore_Cyrodiil.md) in a few weeks. Had he traveled south-east, he might have reached the hump of [Valenwood](Lore_Valenwood.md) in a few days. But our pilot, judging by his own and our modern maps, sailed in a straight line north-east, through the Abecean sea, and into the [Iliac Bay](Lore_Iliac_Bay.md), before touching ground somewhere near present day [Anticlere](Lore_Anticlere.md) in two months time.
+
+The rolling verdant hills of southern [High Rock](Lore_High_Rock.md) are unmistakable in this verse, recognizable to anyone who has been there. The question, of course, is what is to be made of this apparent reference to orcs occupying the region? Tradition has it that the orcs were not born until after the Aldmer had settled the mainland, that they sprung up as a distinct race following the famous battle between [Trinimac](Lore_Trinimac.md) and [Boethiah](Lore_Boethiah.md) at the time of [Resdayn](Lore_Resdayn.md).
+
+It is possible that the tradition is wrong. Perhaps the orcs were an aboriginal tribe predating the Aldmeri colonization. Perhaps these were a cursed folk -- "Orsimer" in the [Aldmeris](Lore_Aldmeris.md), the same word for "Orc" -- of a different kind, whose name was to be given the orcs in a different era. It is regrettable that the fragment ends here, for more clues to the truth are undoubtedly lost.
+
+What's missing between the first fragment and the second is appreciable. It must be more than eighty months that have passed, because Topal is on the opposite side of mainland Tamriel now, attempting to sail south-west to return to Firsthold, after his failure at finding Old Ehlnofey.
+
+### Fragment Two:
+
+- - No passage westward could be found in the steely cliffs
+- That jutted up like giant's jaw, so the Niben
+- Sailed south.
+- As it passed an sandy, forested island that promised
+- Sanctuary and peace, the crew cheered in joy.
+- Then exultation turned to terror as a great shadow rose
+- From the trees on leathered wings like a unfurling Cape.
+- The great [bat lizard](Lore_Bat_Lizard.md) was large as the ship, but good pilot
+- Topal merely raised his bow, and struck it in its Head.
+- As it fell, he asked his Bo 'sun, "Do you think it's dead?"
+- And before it struck the white-bearded waves, he
+- Shot once more its heart to be certain.
+- And so for another forty days and six, the Niben sailed south
+
+We can see that in addition to Topal's prowess as a navigator, cartographer, survivalist, and raconteur, he is a master of [archery](Skyrim_Bow.md). It may be poetic license, of course, but we do have archeological proof that the Merethic Aldmer were sophisticated archers. Their bows of layers of wood and horn drawn by silver silk thread are beautiful, and still, I have heard experts say, millennia later, very deadly.
+
+It is tempting to imagine it a [dragon](Skyrim_Dragon.md), but the creature that Topal faces at the beginning of this fragment sounds like an ancestor of the [cliffracer](Lore_Cliffracer.md) of present day [Morrowind](Lore_Morrowind.md). The treacherous cliff coastline sounds like the region around [Necrom](Lore_Necrom.md), and the island of [Gorne](Lore_Gorne.md) may be where the nest of the "bat lizard" is. No creatures like that exist in eastern Morrowind to my knowledge at the present day.
+
+### Fragment Three:
+
+- - The fetid, evil swamp lands and their human lizards
+- Retreated to the east, and Topal and his men's
+- Hearts were greatly gladdened by the sight of
+- Diamond blue, pure, sweet ocean.
+- For three days, they sailed in great cheer north-west
+- Where Firsthold beckoned them, but hope died
+- In horror, as land, like a blocking shield rose
+- Before them.
+- Topal the Pilot was sore wroth, and consulted he
+- The maps he had faithfully drawn, to see
+- Whether best to go south where the
+- Continent must end, or take the river that
+- Snaked through a passage north.
+- "North!" cried he to his sad men. "North we go
+- Now! Fear not, north!"
+
+Tracing Topal's movements, we see that he has skirted the edge of Morrowind and delved into southern [Blackmarsh](Lore_Black_Marsh.md), seemingly determined to follow his waystone as best as he can. The swamp he is leaving is probably near present day [Gideon](Lore_Gideon.md). Knowing what we now know about Topal's personality, we can understand his frustration in the bay between Black Marsh and [Elsweyr](Lore_Elsweyr.md).
+
+Here is a man who follows his orders explicitly, and knows that he should have been going south-east through river ways to reach Firsthold. Looking at his maps, we can see that he attempted to find passages through, as he has mapped out the [Inner Sea](Lore_Inner_Sea.md) of Morrowind, and several of the swampy tributaries of Black Marsh, no doubt being turned away by the disease and fierce [Argonian](Skyrim_Argonian.md) tribes that dissuaded many other explorers after him.
+
+With a modern map of Tamriel in hand, we can see that he makes the wrong choice in electing to go north-east instead of pushing southward. He could not have known then that what he perceived to be the endless mainland was only a jutting peninsula. He only knew that he had traveled too far southward already, and so he made a smart but incorrect decision to go up the river.
+
+It is ironic that this great miscalculation would today bear his mark of history. The bay he thought was an endless ocean is now known as [Topal Bay](Lore_Topal_Bay.md), and the river that took him astray shares the name of his boat, the [Niben River](Lore_Niben_River.md).
+
+### Fragment Four:
+
+- - The cat demons of four legs and two ran the river's
+- Length, always keeping the boat in their
+- Green-eyed sight, hissing, and spitting, and
+- Roaring with rage.
+- But the sailors never had to brave the shores, for
+- Fruit trees welcomed them, dropping their
+- Arms down to the river's edge as if to
+- Embrace the mer, and the men took the
+- Fruit quickly before the cats could pounce.
+- For eleven days, they traveled north, until they came
+- To a crystalline lake, and eight islands of
+- Surpassing beauty and peace.
+- Brilliant flightful creatures of glorious colors
+- Greeted them in Aldmeri language,
+- Making the mer wonder, until they
+- Understood they were only calling back
+- The word they were speaking without
+- Understanding it, and then the sailors
+- Laughed.
+- Topal the Pilot was enchanted with the islands
+- And the feathered men who lived there.
+- There the Niben stayed for a moon, and the bird
+- Men learned how to speak their own words,
+- And with taloned feet, to write.
+- In joy for their new knowledge, they made Topal
+- Their lord, giving him their islands for the
+- Gift.
+- Topal said he would return someday, but first he
+- Must find the passage east to Firsthold, so
+- Far away.
+
+This last fragment is bittersweet for a number of reasons.
+
+We know that this strange, friendly feathered people the Pilot encounters will be lost - in fact, this poem is the only one where mention is made of the [bird creatures](Lore_Bird_Men.md) of [Cyrodiil](Lore_Cyrodiil.md). The literacy that Topal gives them is evidently not enough to save them from their eventual fate, likely at the hands of the "cat demons," who we may assume are ancient [Khajiiti](Skyrim_Khajiit.md).
+
+We know that Topal and his crew never find a route from the eight islands which are the modern day [Imperial City](Lore_Imperial_City.md) through to the Iliac Bay. His maps tell the tale where this lost poem cannot.
+
+We see his hand as he traces his route up the Niben to [Lake Rumare](Lore_Lake_Rumare.md); and, after attempting a few tributaries which do not lead him where he wants to go, we can imagine Topal's frustration -- and that of his long-suffering crew -- as they return back down the Niben to Topal Bay.
+
+There, they evidently discovered their earlier mistake, for we see that they pass the [peninsula](Lore_Quin%27rawl_Peninsula.md) of Elsweyr. Eventually they traveled along its coastline, past the shores of Valenwood, and eventually home. Usually epic tales end with a happy ending, but this one begins with one, and the means to which it was accomplished is lost.
+
+Besides the extraordinary bird creatures of present day Cyrodiil, we have caught glimpses of ancient orcs *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* (perhaps), ancient cliff-racers, ancient Argonians, and in this fragment, ancient Khajiit. Quite a history in a few lines of simple verse, all because a man failed to find his home, and took all the wrong turns to retrace his steps back.

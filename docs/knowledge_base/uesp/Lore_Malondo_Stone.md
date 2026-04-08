@@ -1,0 +1,14 @@
+# Malondo Stone
+
+Malondo Stones are golden crystals used by the [Altmer](Lore_Altmer.md) and usually only found on the [Summerset Isles](Lore_Summerset_Isles.md). The stones are pieces of cut and enchanted [Meteoric Glass](Lore_Meteoric_Glass.md), a rare form of [Aetherial Fragment](Lore_Aetherial_Fragments.md). Alongside [Culanda Stones](Lore_Culanda_Stone.md), they are an attempt at creating magical crystals similar to the [Welkynd Stones](Lore_Welkynd_Stone.md) and [Varla Stones](Lore_Varla_Stone.md) produced by the [Ayleids](Lore_Ayleid.md). Unlike the Ayleid stones, which crumble to dust when harnessed by modern mages, Malondo Stones can be recharged and can be tapped by spellcasters as a source of magicka replenishment or to restore charge to enchanted items. Some scholars insist that the Malondo Stone improves upon Ayleid methods and can be cultivated like the Welkynd Stones once were, although others believe the Altmer simply discovered a more reliable method of recharging the original Ayleid stones.<sup>[[1]](#cite_note-1)</sup> Vitrified Malondo is used to create armor and clothing for the [Psijic Order](Lore_Psijic_Order.md).<sup>[[2]](#cite_note-2)</sup> Altmeri artisans were known to craft cameos with likeness of people carved into the glowing malondo stones. One of known people portrayed that way was Queen [Ayrenn](Lore_Ayrenn.md).<sup>[[3]](#cite_note-Contraband Q-3)</sup> They were a royal gift for the High Elf youth.<sup>[[4]](#cite_note-TM-4)</sup> Royal Battlereeve's Command Batons were crafted from yellow sunwood and crowned with a radiant Malondo Stone.<sup>[[5]](#cite_note-TR-5)</sup>
+
+## Gallery
+- [](https://en.uesp.net/wiki/File:ON-icon-stolen-Waystone.png) A Malondo Stone (ESO)
+- [](https://en.uesp.net/wiki/File:ON-icon-style_material-Vitrified_Malondo.png) Vitrified Malondo (ESO)
+
+## References
+1. [^](#cite_ref-1) [*Aetherial Fragments*](Lore_Aetherial_Fragments_(book).md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+2. [^](#cite_ref-2) The [Psijic Style](https://en.uesp.net/wiki/Online:Psijic_Style) of armor in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+3. [^](#cite_ref-Contraband Q_3-0) [Queen's Cameo](https://en.uesp.net/wiki/Online:Contraband_Q#Queen.27s_Cameo) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-TM_4-0) [Malondo Marbles](https://en.uesp.net/wiki/Online:Treasures_M#Malondo_Marbles) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-TR_5-0) [Royal Battlereeve's Command Baton](https://en.uesp.net/wiki/Online:Treasures_R#Royal_Battlereeve.27s_Command_Baton) item description in [ESO](https://en.uesp.net/wiki/Online:Online)

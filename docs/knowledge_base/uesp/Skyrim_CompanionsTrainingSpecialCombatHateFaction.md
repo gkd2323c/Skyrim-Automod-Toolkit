@@ -1,0 +1,3 @@
+# CompanionsTrainingSpecialCombatHateFaction
+
+Redirects to [CompanionsTrainingSpecialCombatHateFaction](Skyrim_Factions_C.md#CompanionsTrainingSpecialCombatHateFaction).

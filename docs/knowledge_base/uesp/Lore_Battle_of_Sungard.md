@@ -1,0 +1,19 @@
+# Battle of Sungard
+
+[![](https://images.uesp.net/thumb/e/e3/SR-place-Fort_Sungard.jpg/200px-SR-place-Fort_Sungard.jpg)](https://en.uesp.net/wiki/File:SR-place-Fort_Sungard.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fort_Sungard.jpg) Fort Sungard [![](https://images.uesp.net/thumb/6/6a/SR-place-Falkreath.jpg/200px-SR-place-Falkreath.jpg)](https://en.uesp.net/wiki/File:SR-place-Falkreath.jpg) [](https://en.uesp.net/wiki/File:SR-place-Falkreath.jpg) Falkreath The Battle of Sungard was a conflict in the early [First Era](Lore_First_Era.md) between the [Nords](Lore_Nord.md) of [Skyrim](Lore_Skyrim.md) under High King [Kjoric the White](Lore_Kjoric_the_White.md) and the [Alessian Empire](Lore_Alessian_Empire.md) under Emperor [Gorieus](Lore_Gorieus.md). It is named after the settlement, [Sungard](Lore_Sungard.md), in southern Skyrim<sup>[[1]](#cite_note-RTR-1)</sup> but despite that, the conflict encompassed nearby [Falkreath](Lore_Falkreath.md) as well.<sup>[[2]](#cite_note-TESVSPOGG-2)</sup><sup>:574</sup>
+
+## History
+The Battle of Sungard took place in [1E 478](Lore_First_Era.md#1E_478), seventeen years after Emperor Gorieus assumed the throne. The battle was part of a greater conflict in which the Alessians vied for control of southern Skyrim from the Nords. Gorieus and Kjoric the White met each other on the battlefield<sup>[[1]](#cite_note-RTR-1)</sup> and the latter passed away while defending Falkreath from the opposition.<sup>[[2]](#cite_note-TESVSPOGG-2)</sup><sup>:574</sup> As the [Pact of Chieftains](Lore_Pact_of_Chieftains.md) decided on his successor, the Alessians retook territory in southern Skyrim.<sup>[[1]](#cite_note-RTR-1)</sup>
+
+Although the battle was a loss for Skyrim, they had their revenge a couple or so years later with the [Battle of Glenumbra Moors](Lore_Battle_of_Glenumbra_Moors.md), where Kjoric's son, [Hoag Merkiller](Lore_Hoag_Merkiller.md) joined the [Direnni Hegemony](Lore_Direnni_Hegemony.md) against the Alessians.<sup>[[1]](#cite_note-RTR-1)</sup><sup>[[3]](#cite_note-FSOKW-3)</sup> After the battle, a local species of [sabre cats](Lore_Sabre_Cat.md) moved into the area. Scholars at the time felt that some element of the battle disturbed their normal habitat, and attracted them to the former battlefield.<sup>[[4]](#cite_note-ONSungard-4)</sup>
+
+A statue was built in Falkreath to commemorate the battle. Standing over the city's graveyard, it was built on the very spot where Kjoric died in battle. Legend has it that Hoag Merkiller died there years later when he retook the city. By [4E 201](Lore_Fourth_Era.md#4E_201), the statue was no longer present.<sup>[[2]](#cite_note-TESVSPOGG-2)</sup><sup>:574</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/90/ON-pet-Sungard_Sabre_Cat.jpg/200px-ON-pet-Sungard_Sabre_Cat.jpg)](https://en.uesp.net/wiki/File:ON-pet-Sungard_Sabre_Cat.jpg) Sungard Sabre Cat
+
+## References
+1. ^ <sup>***[a](#cite_ref-RTR_1-0)***</sup><sup>***[b](#cite_ref-RTR_1-1)***</sup><sup>***[c](#cite_ref-RTR_1-2)***</sup><sup>***[d](#cite_ref-RTR_1-3)***</sup> [*Rislav The Righteous*](Lore_Rislav_The_Righteous.md) — [Sinjin](Lore_Books_by_Author.md#Sinjin)
+2. ^ <sup>***[a](#cite_ref-TESVSPOGG_2-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_2-1)***</sup><sup>***[c](#cite_ref-TESVSPOGG_2-2)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+3. [^](#cite_ref-FSOKW_3-0) [*Five Songs of King Wulfharth*](Lore_Five_Songs_of_King_Wulfharth.md)
+4. [^](#cite_ref-ONSungard_4-0) [Sungard Sabre Cat](https://en.uesp.net/wiki/Online:Sungard_Sabre_Cat) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)

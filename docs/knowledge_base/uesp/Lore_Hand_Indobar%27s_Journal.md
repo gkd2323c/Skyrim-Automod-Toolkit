@@ -1,0 +1,15 @@
+# Hand Indobar's Journal
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Skyrim](Skyrim_Hand_Indobar%27s_Journal.md) ([Creation Club](Skyrim_Ghosts_of_the_Tribunal.md)) |
+
+Hand Indobar's Journal **by Hand Kydren Indobar** *A Hand of Almalexia makes a painful compromise*
+---
+Five [Hands](Lore_Hands_of_Almalexia.md) served [Her](Lore_Almalexia.md) once. Yet those numbers have dwindled, and as I deign to stand here alongside hedge wizards, sellswords, and other vermin on two legs, I cannot help but weep for the Lady and her station.
+
+Still, I will not allow them access to the armory. They do not deserve the honor of wearing the sacred garb. To do so means you are an extension of the Goddess. Our bodies and soul belong to Her, and are fortified by her divine magic. So it was for my ancestors, and so it is for me.
+
+As such, I will not see my Lady's hands covered in filth. The Matriarch may have granted them a place on the dais, but while they stand eye to eye, they are still beneath us. And so, they are beneath Her.
+
+I would slay every last one of them, but I stay my hand for Her sake. As long as they are loyal and do the Lady's bidding, I will allow their hearts to remain beating against their soiled flesh.

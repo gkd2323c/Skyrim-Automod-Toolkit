@@ -1,0 +1,20 @@
+# The Daggerfall Chronicles
+
+This article is about the in-universe book. For the game guide, see [Books:The Daggerfall Chronicles](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles).
+
+*The Daggerfall Chronicles*, also known as the ***Codex Scientia II***, was a Book of Knowledge created and finished by the [Scenarist Guild](Lore_Scenarist_Guild.md) in the [fifth century of the Third Era](Lore_Third_Era.md#Fifth_Century) as a guide to the [Kingdom of Daggerfall](Lore_Daggerfall_(kingdom).md) and the overall [Iliac Bay](Lore_Iliac_Bay.md) region.<sup>[[1]](#cite_note-DFC-1)</sup><sup>:180</sup><sup>[[2]](#cite_note-Dag Hint-2)</sup><sup>[[3]](#cite_note-TDC-3)</sup><sup>[[4]](#cite_note-CD-4)</sup><sup>[[5]](#cite_note-DFCD-5)</sup>
+
+## History
+
+### Third Era
+Beginning in [3E 370](Lore_Third_Era.md#3E_370), master Nezmyt of the Scenarist Guild created a sect of Imperial scribes charged with creating a second *[Codex Scientia](Lore_Codex_Scientia.md)*,<sup>[[2]](#cite_note-Dag Hint-2)</sup><sup>[[3]](#cite_note-TDC-3)</sup> a Book of Knowledge designed for heroes which had been described in text by ancient prophets.<sup>[[4]](#cite_note-CD-4)</sup><sup>[[5]](#cite_note-DFCD-5)</sup> After the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) period concluded in the year [3E 399](Lore_Third_Era.md#3E_399), the book was focused on recording all historical events beginning with the defeat of the usurper [Jagar Tharn](Lore_Jagar_Tharn.md)<sup>[[2]](#cite_note-Dag Hint-2)</sup> to the conclusion of the [Wars of the Iliac Bay](Lore_Fractious_Wars.md) —and the book became known as *The Daggerfall Chronicles* after the events that took place in that [city-state](Lore_Daggerfall.md) during the wars.<sup>[[1]](#cite_note-DFC-1)</sup><sup>:180</sup> It also described in detail how to traverse the [Daggerfall](Lore_Daggerfall_(kingdom).md) landscape from a physical, mystical, and historical perspective and was considered a must-have survivor's guide for anyone adventuring in the western kingdoms the [Iliac Bay](Lore_Iliac_Bay.md).<sup>[[2]](#cite_note-Dag Hint-2)</sup> The guild maintained a Monster Watch Grid, or bestiary, which they documented in the *Chronicles* as a way of informing the reader of the various monsters that inhabit the Iliac Bay, including the thousands of dark minions released by the [Underking](Lore_Underking.md) in the events leading up to the [Warp in the West](Lore_Warp_in_the_West.md).<sup>[[1]](#cite_note-DFC-1)</sup><sup>:180</sup> However, the book was smuggled out of the Scenarists' citadel by anonymous renegade guild member and was subsequently hidden in a shrine of the [Oracle of Hammerfell](Lore_The_Oracle.md).<sup>[[2]](#cite_note-Dag Hint-2)</sup> It is not known what ultimately became of the book.
+
+## See Also
+- [Codex Scientia](Lore_Codex_Scientia.md)
+
+## References
+1. ^ <sup>***[a](#cite_ref-DFC_1-0)***</sup><sup>***[b](#cite_ref-DFC_1-1)***</sup><sup>***[c](#cite_ref-DFC_1-2)***</sup> [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) — Ronald Wartow
+2. ^ <sup>***[a](#cite_ref-Dag Hint_2-0)***</sup><sup>***[b](#cite_ref-Dag Hint_2-1)***</sup><sup>***[c](#cite_ref-Dag Hint_2-2)***</sup><sup>***[d](#cite_ref-Dag Hint_2-3)***</sup><sup>***[e](#cite_ref-Dag Hint_2-4)***</sup> [bethsoft.com/daggerfall-hintbook](https://web.archive.org/web/19961030030351/http://www.bethsoft.com/html/daghint.html)
+3. ^ <sup>***[a](#cite_ref-TDC_3-0)***</sup><sup>***[b](#cite_ref-TDC_3-1)***</sup> [bethsoft.com/product-library](https://web.archive.org/web/19970707114357/http://www.bethsoft.com/html_n/htms/prodlib.htm#:~:text=Codex%20Scientia%20II%3A%20The%20Official%20Daggerfall%20Hint%20Book)
+4. ^ <sup>***[a](#cite_ref-CD_4-0)***</sup><sup>***[b](#cite_ref-CD_4-1)***</sup> *[Codex Scientia](https://en.uesp.net/wiki/Books:Codex_Scientia)* — [Advertisement](https://en.uesp.net/wiki/Books:Codex_Scientia/Advertisement)
+5. ^ <sup>***[a](#cite_ref-DFCD_5-0)***</sup><sup>***[b](#cite_ref-DFCD_5-1)***</sup> [*Daggerfall* CD inlay advert](https://en.uesp.net/wiki/File:BK-cover-The_Daggerfall_Chronicles_02.jpg)

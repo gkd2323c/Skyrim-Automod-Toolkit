@@ -1,0 +1,25 @@
+# The Reclamations
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book3.png) Book Information <br> *The Reclamations* | | | |
+| --- | --- | --- | --- |
+| Added by | [Dragonborn](Skyrim_Dragonborn.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 03b052 | | |
+| See Also | [Lore version](Lore_The_Reclamations.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 6 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 2 | | |
+| Locations | | | |
+| Found in the following locations: - [The Retching Netch](Skyrim_The_Retching_Netch.md), bottom floor, in a room, on a bottom shelf | | | |
+
+The Reclamations: The Fall of the Tribunal and the Rise of the New Temple **by [Thara of Rihad](Lore_Books_by_Author.md#Thara_of_Rihad)** *An account of changes in the Dunmer religion following the end of the Tribunal* *
+---
+
+![T](https://images.uesp.net/thumb/1/18/T_letter.png/44px-T_letter.png)
+he destruction of [Vivec City](Lore_Vivec_City.md) and the subsequent eruption of [Red Mountain](Lore_Red_Mountain.md) in [4E 5](Lore_Fourth_Era.md#4E_5) was not just a crisis in terms of the physical destruction it caused - it also cut deeply into the ancient religious beliefs of the [Dunmer](Skyrim_Dunmer.md). The fall of the [Ministry of Truth](Lore_Ministry_of_Truth.md) was the last straw in the tottering support for the [Temple](Skyrim_Tribunal_Temple.md)'s worship of [Almalexia](Lore_Almalexia.md), [Sotha Sil](Lore_Sotha_Sil.md), and [Vivec](Lore_Vivec.md). With all three of the [Tribunes](Lore_Tribunal.md) now widely believed dead or disappeared, what had been a simmering schism within the ranks of the Temple priesthood burst into the open.
+
+While outsiders may never know the full tale of this internal struggle, when the smoke cleared a few years later, the former [Dissident Priests](Lore_Dissident_Priests.md) were in full control of the Temple heirarchy *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*, with Tribunal loyalists either purged or recanted. The so-called "[New Temple](Lore_New_Temple.md)" now declared the worship of the Tribunes a result of misguided teaching, blaming the mistakes on the former Tribunal. The Temple now taught that the [daedra](Skyrim_Daedra.md) venerated by the [Ashlander](Lore_Ashlanders.md) tribes ([Azura](Lore_Azura.md), [Mephala](Lore_Mephala.md) and [Boethia](Lore_Boethiah.md)) were the "true way" and should be revered by the Dunmer people. Fittingly, the daedra were named the "[Reclamations](Lore_Reclamations.md)," as if they were reclaiming their status from the Tribunal.
+
+In an elegant comprise *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*, no doubt intended to reconcile the large majority of the Temple priesthood who were neither Dissidents nor fanatic Tribunal loyalists, Almalexia, Sotha Sil and Vivec were relegated to the status of "[saints](Lore_Tribunal_Saints.md)," a traditional way to venerate the most honored Dunmer ancestors. This apparently satisfied enough of the existing priesthood that the New Temple was able to maintain at least a semblance of outward continuity.
+
+The rise of the New Temple almost completely vindicated the previously persecuted Ashlanders, who had continued to worship the three daedra throughout the Tribunal's rule. The Ashlanders are now lauded as the keepers of the old ways and having "true vision." It is now quite common for many of the Dunmer people to make the arduous pilgrimages into the ash wastes to seek the counsel of the Wise Women. These women have supposedly opened the eyes of those who they claim were "blinded by the Tribunal," and directly connect the eruption of the Red Mountain and the [Argonian](Skyrim_Argonian.md) [invasion](Lore_Accession_War.md) to the anger of the three daedra. [House Indoril](Lore_House_Indoril.md), whose fortunes were so entwined with the Tribunal Temple, suffered greatly from its fall. While House Indoril still technically exists, the priesthood of the Temple are now considered one and the same with House Indoril - those who become priests are now considered to have "joined Indoril." The political power of the Indoril has thus passed entirely into the hands of the Temple (although members of the old House Indoril are still over-represented in the priesthood).
+
+The rise of the New Temple has a number of parallels with the rise of [House Redoran](Lore_House_Redoran.md) - each filled the vacuum of power resulting from the crisis of [Red Year](Lore_Red_Year.md). How durable these new arrangements will prove, religious and political, remains to be seen. The span of two centuries is quite brief in the long history of the ancient Dunmer people.

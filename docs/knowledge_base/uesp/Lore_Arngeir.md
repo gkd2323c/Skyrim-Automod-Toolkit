@@ -1,0 +1,39 @@
+# Arngeir
+
+| Master Arngeir | | | |
+| --- | --- | --- | --- |
+| [![SR-npc-Arngeir.jpg](https://images.uesp.net/thumb/d/d1/SR-npc-Arngeir.jpg/200px-SR-npc-Arngeir.jpg)](https://en.uesp.net/wiki/File:SR-npc-Arngeir.jpg) Master Arngeir | | | |
+| Race | [Nord](Lore_Nord.md) | Gender | Male |
+| Resided in | [High Hrothgar](Lore_High_Hrothgar.md) | | |
+| Appears in | [Skyrim](Skyrim_Arngeir.md) | | |
+
+*We study the Way of the Voice, according to the teachings of our founder, Jurgen Windcaller. Very few are permitted to study with us here at High Hrothgar. But in your case, Dragonborn, it is a privilege to guide you towards mastery of your Voice.*
+—Arngeir<sup>[[1]](#cite_note-Arngeir-1)</sup> Arngeir is a powerful [Greybeard](Lore_Greybeards.md) who lived during the second and third centuries of the [Fourth Era](Lore_Fourth_Era.md). At the time, Arngeir was the only human of the order with the control over his [thu'um](Lore_Thu%27um.md) necessary to speak without fear of wreaking havoc. Therefore, he acted as the Greybeards' representative during this period. He was the right hand of [Paarthurnax](Lore_Paarthurnax.md), the Grandmaster of the order. Arngeir tutored the [Last Dragonborn](Lore_Last_Dragonborn.md) in the [Way of the Voice](Lore_Way_of_the_Voice.md) and helped bring about the final defeat of [Alduin](Lore_Alduin.md).<sup>[[2]](#cite_note-Skyrim-2)</sup>
+
+## History
+*This is the road we have to walk. Even the Greybeards must bend to the winds of change, it seems. So be it.*
+—Arngeir<sup>[[1]](#cite_note-Arngeir-1)</sup> [![](https://images.uesp.net/thumb/6/6e/SR-npc-Ulfric_Stormcloak.jpg/200px-SR-npc-Ulfric_Stormcloak.jpg)](https://en.uesp.net/wiki/File:SR-npc-Ulfric_Stormcloak.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Ulfric_Stormcloak.jpg) Ulfric Stormcloak, Arngeir's former student [![](https://images.uesp.net/thumb/1/1f/SR-creature-Paarthurnax.jpg/200px-SR-creature-Paarthurnax.jpg)](https://en.uesp.net/wiki/File:SR-creature-Paarthurnax.jpg) [](https://en.uesp.net/wiki/File:SR-creature-Paarthurnax.jpg) Paarthurnax, Arngeir's master Little is known about Arngeir's life before his seclusion from the world and his joining of the Greybeards at High Hrothgar. He spent years honing the art of the Voice and learned many ways of wielding thu'um. He was known to master a variety of shouts, such as Zun Haal Viik, Yol Toor Shul, Fo Krah Diin, Iiz Slen Nus, Fus Ro Dah, Lok Vah Koor, or Wuld Nah Kest.<sup>[[1]](#cite_note-Arngeir-1)</sup>
+
+Circa [4E 161](Lore_Fourth_Era.md#4E_161), [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) was honored to be chosen by the Greybeards while he was "just a lad", and spent nearly ten years training at High Hrothgar, learning the Way of the Voice under Arngeir. By then Arngeir was already the oldest and the most powerful among the human members of the Order. Ulfric left the High Hrothgar when the [Great War](Lore_Great_War.md) began and retained some belief in Arngeir's teachings, particularly that the thu'um should not be used lightly. However, he doubted Arngeir had ever forgiven him for leaving, or for what he saw as the blasphemy of using the Voice for purposes other than the worship of [Kyne](Lore_Kyne.md).<sup>[[3]](#cite_note-Ulfric-3)</sup>
+
+By [4E 201](Lore_Fourth_Era.md#4E_201), Master Arngeir, alongside the dragon Paarthurnax and his fellow Nord Greybeards Borri, Einarth, and Wulfgar, were the only remaining members of the Order.<sup>[[1]](#cite_note-Arngeir-1)</sup> Upon sensing the presence of the Last Dragonborn in Skyrim, they summoned them to High Hrothgar for instruction. Arngeir served as the Dragonborn's teacher and mentor, preparing them for their trials and for their role in the defeat of Alduin.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[4]](#cite_note-TWOTV-4)</sup> He sent the Last Dragonborn to retrieve the Horn of [Jurgen Windcaller](Lore_Jurgen_Windcaller.md) from his resting place at [Ustengrav](Lore_Ustengrav.md) as the final trial.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[5]](#cite_note-THOJW-5)</sup> He aided the Last Dragonborn in learning more words of power,<sup>[[6]](#cite_note-TWOP-6)</sup> allowed the Last Dragonborn to meet with his master Paarthurnax,<sup>[[7]](#cite_note-TTOTW-7)</sup> and possibly guided them to learn more of the [Elder Scrolls](Lore_Elder_Scrolls.md) from the mages of the [College of Winterhold](Lore_College_of_Winterhold.md).<sup>[[8]](#cite_note-EK-8)</sup> Following the Last Dragonborn's battle against Alduin at the Throat of the World he provided further assistance to the hero.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[9]](#cite_note-AB-9)</sup><sup>[[10]](#cite_note-TF-10)</sup> If the situation called for it, he even arranged a diplomatic meeting between the factions of the civil war, hoping to give the Last Dragonborn the means to properly oppose Alduin.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[11]](#cite_note-SU-11)</sup> Following Alduin's defeat and the Dragonborn's victory in [Sovngarde](Lore_Sovngarde.md), Arngeir offered a final counsel, urging them to reflect on how they would use the great power they had gained. He reminded the Dragonborn that their future legacy, whether as a hero, a warning, or one forgotten, would be shaped by their choices, and encouraged them to follow the Way of the Voice as a path toward wisdom.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[12]](#cite_note-Dragonslayer-12)</sup>
+
+There are, however, some accounts claiming that the Dragonborn slew Paarthurnax during their quest, heeding the request of the Grandmaster [Delphine](Lore_Delphine.md) of the [Blades](Lore_Blades.md) instead. In such case, Arngeir would refuse to offer further assistance to the Dragonborn, declaring that such an act was beyond his forgiveness.<sup>[[1]](#cite_note-Arngeir-1)</sup><sup>[[13]](#cite_note-Paarthurnax Q-13)</sup>
+
+## See Also
+- For game-specific information, see the [*Skyrim* article](Skyrim_Arngeir.md).
+
+## References
+1. ^ <sup>***[a](#cite_ref-Arngeir_1-0)***</sup><sup>***[b](#cite_ref-Arngeir_1-1)***</sup><sup>***[c](#cite_ref-Arngeir_1-2)***</sup><sup>***[d](#cite_ref-Arngeir_1-3)***</sup><sup>***[e](#cite_ref-Arngeir_1-4)***</sup><sup>***[f](#cite_ref-Arngeir_1-5)***</sup><sup>***[g](#cite_ref-Arngeir_1-6)***</sup><sup>***[h](#cite_ref-Arngeir_1-7)***</sup><sup>***[i](#cite_ref-Arngeir_1-8)***</sup><sup>***[j](#cite_ref-Arngeir_1-9)***</sup> [Arngeir](Skyrim_Arngeir.md)'s dialogue and abilities in *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-Skyrim_2-0) Events of *[Skyrim](Skyrim_Skyrim.md)*
+3. [^](#cite_ref-Ulfric_3-0) [Ulfric Stormcloak](Skyrim_Ulfric_Stormcloak.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+4. [^](#cite_ref-TWOTV_4-0) [The Way of the Voice](Skyrim_The_Way_of_the_Voice.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+5. [^](#cite_ref-THOJW_5-0) [The Horn of Jurgen Windcaller](Skyrim_The_Horn_of_Jurgen_Windcaller.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-TWOP_6-0) [The Words of Power](Skyrim_The_Words_of_Power.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+7. [^](#cite_ref-TTOTW_7-0) [The Throat of the World](Skyrim_The_Throat_of_the_World.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+8. [^](#cite_ref-EK_8-0) [Elder Knowledge](Skyrim_Elder_Knowledge.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+9. [^](#cite_ref-AB_9-0) [Alduin's Bane](Skyrim_Alduin%27s_Bane.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+10. [^](#cite_ref-TF_10-0) [The Fallen](Skyrim_The_Fallen.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-SU_11-0) [Season Unending](Skyrim_Season_Unending.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+12. [^](#cite_ref-Dragonslayer_12-0) [Dragonslayer](Skyrim_Dragonslayer.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+13. [^](#cite_ref-Paarthurnax Q_13-0) [Paarthurnax](Skyrim_Paarthurnax_(quest).md) quest in *[Skyrim](Skyrim_Skyrim.md)*

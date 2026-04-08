@@ -1,0 +1,18 @@
+# Robe of the Lich
+
+[![](https://images.uesp.net/thumb/1/1f/TR-artifact-Robe_of_the_Lich.jpg/200px-TR-artifact-Robe_of_the_Lich.jpg)](https://en.uesp.net/wiki/File:TR-artifact-Robe_of_the_Lich.jpg) [](https://en.uesp.net/wiki/File:TR-artifact-Robe_of_the_Lich.jpg) The Robe of the Lich (Tribunal) [![](https://images.uesp.net/thumb/3/39/SR-item-Robe_of_the_Lich_Female.jpg/200px-SR-item-Robe_of_the_Lich_Female.jpg)](https://en.uesp.net/wiki/File:SR-item-Robe_of_the_Lich_Female.jpg) [](https://en.uesp.net/wiki/File:SR-item-Robe_of_the_Lich_Female.jpg) The Robe of the Lich (Skyrim CC) The Robe of the Lich belonged to [Gedna Relvel](Lore_Gedna_Relvel.md), an infamous priestess in [Mournhold](Lore_Mournhold.md) who was condemned for studying and practicing forbidden [magics](Lore_Magic.md). However, she had turned herself into a [lich](Lore_Lich.md) and survived beneath the city for untold years.<sup>[[1]](#cite_note-TRNerile-1)</sup>
+
+In [3E 427](Lore_Third_Era.md#3E_427), after Gedna Relvel's tomb was unsealed by a curious adventurer, she attempted to spread the [Crimson Plague](Lore_Crimson_Plague.md) throughout the city of [Mournhold](Lore_Mournhold.md) by infecting rats. The lich was destroyed by the [Nerevarine](Lore_Nerevarine.md) before the disease could spread to more than a few people and the robes were recovered from her corpse.<sup>[[2]](#cite_note-TRCP-2)</sup> The Nerevarine subsequently sold it to a [Dunmer](Lore_Dunmer.md) noblewomen by the name of [Torasa Aram](Lore_Torasa_Aram.md), who put it on display in her Museum of Artifacts in [Mournhold](Lore_Mournhold.md).<sup>[[3]](#cite_note-Tribunal-3)</sup>
+Circa [4E 201](Lore_Fourth_Era.md#4E_201) the robe was in the possession of Erden Relvel, a [Dagoth Ur](Lore_Dagoth_Ur.md) worshiper, seeking to spread [Corprus](Lore_Corprus.md). He was stopped by the [Last Dragonborn](Lore_Last_Dragonborn.md), who recovered the robes from him.<sup>[[4]](#cite_note-CCAH-4)</sup>
+
+## See Also
+- For game-specific information, see the [*Tribunal*](https://en.uesp.net/wiki/Tribunal:Robe_of_the_Lich) and [*Skyrim*](https://en.uesp.net/wiki/Skyrim:Robe_of_the_Lich)<sup>[CC](Skyrim_Ghosts_of_the_Tribunal.md)</sup> articles.
+
+## References
+1. [^](#cite_ref-TRNerile_1-0) [Nerile Andaren](https://en.uesp.net/wiki/Tribunal:Nerile_Andaren)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+2. [^](#cite_ref-TRCP_2-0) [Crimson Plague](https://en.uesp.net/wiki/Tribunal:Crimson_Plague) quest *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+3. [^](#cite_ref-Tribunal_3-0) [The Museum](https://en.uesp.net/wiki/Tribunal:The_Museum) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*
+4. [^](#cite_ref-CCAH_4-0) [Ashen Heart](Skyrim_Ashen_Heart.md) quest in the [Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal.md) [Creation](Skyrim_Creation_Club.md) for [Skyrim](Skyrim_Skyrim.md)
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Lore:Robe_of_the_Lich&action=edit).*

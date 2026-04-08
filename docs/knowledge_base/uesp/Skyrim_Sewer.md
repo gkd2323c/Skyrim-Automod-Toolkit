@@ -1,0 +1,66 @@
+# Riften Jail
+
+| **This article is being developed as part of the Skyrim Houses Redesign Project. If you see this tag it means the article can still be improved. Please see the [project page](https://en.uesp.net/wiki/UESPWiki:SHRP) for guidelines.** |
+| --- |
+
+| \| Jail: <br> Riften Jail <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Riften+Jail)) \| <br> \| --- \| | Jail: <br> Riften Jail <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Riften+Jail)) |
+| --- | --- |
+| Jail: <br> Riften Jail <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Riften+Jail)) | |
+| # of Zones | 2 |
+| [Respawn Time](Skyrim_Respawn.md) | 10 days |
+| Important Treasure | |
+| *[Advances in Lockpicking‎](Skyrim_Advances_in_Lockpicking.md)* | |
+| Console Location Code(s) | |
+| Riften Jail01, Riften Jail02 | |
+| Location | |
+| [Riften](Skyrim_Riften.md) | |
+| Special Features | |
+| [Shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) | [](Skyrim_Shadowmarks_(Thieves_Guild).md) Escape |
+
+[![](https://images.uesp.net/thumb/1/12/SR-place-Riften_Jail.jpg/200px-SR-place-Riften_Jail.jpg)](https://en.uesp.net/wiki/File:SR-place-Riften_Jail.jpg) [](https://en.uesp.net/wiki/File:SR-place-Riften_Jail.jpg) Riften Jail **Riften Jail** is the jail in [Riften](Skyrim_Riften.md) found below [Mistveil Keep](Skyrim_Mistveil_Keep.md).
+
+There is an entrance at the right-hand side of the main entrance of Mistveil Keep, the Jarl's Residence.
+
+## Residents
+| Residents |
+| --- |
+| [Riften Guards](Skyrim_Riften_Guard.md) (Guard) <br> [Molgrom Twice-Killed](Skyrim_Molgrom_Twice-Killed.md) (Prisoner) <br> [Sibbi Black-Briar](Skyrim_Sibbi_Black-Briar.md) (Prisoner) <br> [Threki the Innocent](Skyrim_Threki_the_Innocent.md) (Prisoner) <br> [Brand-Shei](Skyrim_Brand-Shei.md) (Prisoner) <sup>[†](#intnote_Brand-Shei)</sup> <br> [Romlyn Dreth](Skyrim_Romlyn_Dreth.md) (Prisoner) <sup>[†](#intnote_Romlyn)</sup> |
+
+[†](#note_Brand-Shei) This person only becomes a resident after completing the relevant [quest](Skyrim_A_Chance_Arrangement.md) for the [Thieves Guild](Skyrim_Thieves_Guild_(faction).md). However, it is possible to join the Thieves Guild without framing Brand-Shei for theft. This is done by dropping Madesi's ring onto the ground instead of reverse pickpocketing it onto Brand-Shei. This will fail the objective to plant the ring on him during A Chance Arrangement, but Brynjolf will still allow you to join the Thieves Guild and Brand-Shei will remain free. [†](#note_Romlyn) This person becomes a resident if you report him to [Indaryn](Skyrim_Indaryn.md) during [Under the Table](Skyrim_Under_the_Table.md) with version 1.2.4 of the [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch).
+## Related Quests
+- **[The Lover's Requital](Skyrim_The_Lover%27s_Requital.md)**: Help [Sibbi Black-Briar](Skyrim_Sibbi_Black-Briar.md) locate his former [fiancée](Skyrim_Svidi.md), so he can kill her.
+- **[Promises to Keep](Skyrim_Promises_to_Keep.md)**: Help [Louis Letrush](Skyrim_Louis_Letrush.md) get [Frost](Skyrim_Frost.md) from [Sibbi Black-Briar](Skyrim_Sibbi_Black-Briar.md).
+
+## Walkthrough
+
+### Riften Jail
+Upon entering there is a corridor with a dresser in front of you, with a chair beside it. On the dresser is a copy of *[A Dance in Fire, v4](Skyrim_A_Dance_in_Fire,_v4.md)* and a bottle of [wine](Skyrim_Wine.md). The corridor turns to the east and descends a few stairs to a door with a [Riften guard](Skyrim_Riften_Guard.md) sitting on a chair beside it. The first time you enter you will be required to pass a persuasion test in order to be granted access. There are several barrels and sacks all containing [foodstuffs](Skyrim_Food.md) along this corridor and around the jail. Beyond the door there is a small set of shelves holding only clutter on your left. There are doors to the north and south and a corridor to the east. In the middle of this area is a table and a couple of wooden benches against the walls. On the right-hand wall ahead is another set of shelves holding a bottle of [alto wine](Skyrim_Alto_Wine.md), [bread](Skyrim_Bread.md) and cheese. Past this there is a walkway around the room passing two cells on each side with a view down to a lower level in the middle.
+
+Before the first cell to the north there is a cupboard and crate containing clutter. The first cell on the north side is adept-locked and contains two single owned beds, a dresser and table. On the floor, in a wooden bowl is a portion of [grilled leeks](Skyrim_Grilled_Leeks.md). Just outside the cell is a barrel. The next cell is [Sibbi Black-Briar's](Skyrim_Sibbi_Black-Briar.md) and is nicely furnished with a large double bed in the northeast corner, a wardrobe containing [fine clothes](Skyrim_Fine_Clothes.md) to the left against the north wall and a long [chest](Skyrim_Chest.md) containing minor loot at the foot of the bed. There is a small wardrobe with a [red mountain flower](Skyrim_Red_Mountain_Flower.md), a [jug](Skyrim_Jug.md), a [bowl](Skyrim_Bowl.md) and [goblet](Skyrim_Goblet.md) on top and a wash basin in front of that. Against the west wall is a chair, small table and small bookcase. On the table is a bottle of alto wine and a goblet, the bookcase holds copies of *[Sovngarde: A Reexamination](Skyrim_Sovngarde__A_Reexamination.md)*, *[Of Crossed Daggers](Skyrim_Of_Crossed_Daggers.md)*, *[Nightingales: Fact or Fiction?](Skyrim_Nightingales__Fact_or_Fiction%3F.md)*, *[Cats of Skyrim](Skyrim_Cats_of_Skyrim.md)*, a bottle of wine, a bottle of alto wine and several goblets. In the northwest corner is a table holding two bottles of [Black-Briar mead](Skyrim_Black-Briar_Mead.md), a [plate](Skyrim_Plate.md) and [platter](Skyrim_Platter.md) holding two [cooked beef](Skyrim_Cooked_Beef.md) steaks, two portions of grilled leeks, a couple of loaves of bread, a [baked potato](Skyrim_Baked_Potatoes.md), a [salmon steak](Skyrim_Salmon_Steak.md), a [honey nut treat](Skyrim_Honey_Nut_Treat.md) and a jug.
+
+The cell opposite Sibbi's is the one that you'll be sent to if you get arrested and decide to serve your time. There is a single bed in the northwest corner, a dresser against the west wall and a long wooden table against the east wall. On the table is a loaf of bread, some pieces of cheese and a lockpick. At the rear of the room is an [](Skyrim_Shadowmarks_(Thieves_Guild).md) Escape [Shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) (see [notes](#Notes)). The fourth cell is home to [Threki the Innocent](Skyrim_Threki_the_Innocent.md), a female Nord thief. Her cell contains two single beds, one in the southwest corner, the other in southeast corner, a round wooden table and four chairs, two by the table, two against the walls. On the table is a bottle of wine and loaf of bread. To the right of this cell is a chair and wooden bench.
+
+The door to the south leads into a room used by the guards. There is a fireplace opposite the door in the middle of the south wall, with a pile of firewood to the left and a small round wooden table and two chairs to the right. On the table is a bottle of Nord mead and a loaf of bread. Against the west wall is a dresser with a [sliced eidar cheese](Skyrim_Sliced_Eidar_Cheese.md), a [red](Skyrim_Red_Apple.md) and a [green apple](Skyrim_Green_Apple.md) on top. To the north, against the wall is a long wooden table and chair with a bottle of alto wine and copies of *[Fall from Glory](Skyrim_Fall_from_Glory.md)*, *[Rising Threat, Vol. I](Skyrim_Rising_Threat,_Vol._I.md)* and *[The Third Era Timeline](Skyrim_The_Third_Era_Timeline.md)* on top of the table. There is also a door to the east that leads into a room containing the prisoner belongings and evidence chests. There are also two small cages hanging from the ceiling, a dresser against the northwest wall with an [iron dagger](Skyrim_Iron_Dagger.md) on top and a long wooden table and bench against the north wall, with a large [coin purse](Skyrim_Coin_Purse.md), three [iron arrows](Skyrim_Iron_Arrow.md), and an [iron war axe](Skyrim_Iron_War_Axe.md) on top, and a [potion of minor stamina](Skyrim_Potion_of_Minor_Stamina.md) on the ground to the right of it. Under the table, on the bench is a pair of [leather bracers](Skyrim_Leather_Bracers.md). Against the south wall is a sideboard with an [iron sword](Skyrim_Iron_Sword.md), two iron daggers, an [iron mace](Skyrim_Iron_Mace.md) and a [potion of minor healing](Skyrim_Potion_of_Minor_Healing.md) on top and a pair of [leather boots](Skyrim_Leather_Boots.md) on the ground beside it.
+
+Behind the door to the north is a bottle of alto wine on top of a dresser against the west wall, the corridor heads north, then turns to the east and descend a few stairs. At the next corner, where is turns to the south and descends further is a pair of sets of shelves. These hold several more common books, an iron war axe, three bottles of wine and two bottles of alto wine. The next stairs end with a long wooden table and chair against the south wall, where a guard usually sits. On the table is a copy of *[The Song of Pelinal, v4](Skyrim_The_Song_of_Pelinal,_v4.md)*. The corridor turns to the east again and passes a cupboard on he left. This holds an [iron helmet](Skyrim_Iron_Helmet.md), a few more common books and an empty [petty soul gem](Skyrim_Petty_Soul_Gem.md).
+
+Beyond this are another four cells, two to the north and two to the south. The first to the north is adept-locked and contains a single bed in the northeast corner, a dresser at the foot of the bed, a table against the west wall and a chair laying on its back on the ground. The second cell to the north has a barrel just outside and contains two single beds, one in the northwest and one in the northeast corners. An end table holding a bottle of Nord mead and a bottle of Wine. A set of shelves against the west wall and a square wooden table and chairs against the east wall. On this table is a portion of grilled leeks, a baked potato and an [eidar cheese wedge](Skyrim_Eidar_Cheese_Wedge.md). Opposite is the cell [Brand-Shei](Skyrim_Brand-Shei.md) get brought to after the Thieves Guild quest gets him arrested. It is adept-locked and contains two single beds one in the southeast and the other in the northwest corners, a round wooden table and two chairs against the east wall and a tall wardrobe against the west wall. The last cell is also adept-locked and has two single beds coming out from the south wall, an end table, a small square wooden table and two chairs in the northwest corner and a sideboard against the east wall.
+
+## Notes
+- There is an [](Skyrim_Shadowmarks_(Thieves_Guild).md) Escape [Shadowmark](Skyrim_Shadowmarks_(Thieves_Guild).md) on the wall of the cell.
+- The Sewer part can also be entered through an opening south of the Riften docks without going through the jail. It contains the [Lockpicking](Skyrim_Lockpicking.md) [skill book](Skyrim_Skill_Books.md) *[Advances in Lockpicking‎](Skyrim_Advances_in_Lockpicking.md)* on a barrel. - You can enter the cell from the escape tunnel and passing through the wall. However this does not make the wall activate, so you will not be able to pass back into the tunnel.
+- It is possible to enter [Sibbi Black-Briar's](Skyrim_Sibbi_Black-Briar.md) cell by interacting with the chair through the wall from the adjacent cell. Once inside the cell, you are unable to return as the door will not open, and the bed in the neighboring cell is owned and not usable in the same way. - You can exit the cell by alerting the guards (attacking Sibbi Black-Briar) and then sheathing your weapon. You need to submit to go to jail, and your stolen items will be put in the evidence chest.
+- The Riften Jail key, which opens any of the empty cells, can be found just outside the evidence room (first right, then first left after entering).
+
+## Bugs
+- The trigger box that runs the secret exit from here respawns when it wasn't supposed to. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.2.7, fixes this bug.
+- However, this fix won't take effect until the area resets.
+- The sewer grate that leads to the prisoner belongings and evidence chests won't open due to the door having no activator text. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.3.3, fixes this bug.
+- The Broken Shackle button to open up the escape route is broken, making it impossible to use that escape route. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.0.9, fixes this bug.
+
+- The escape route may rarely work as intended, collapsing when the Broken Shackle is interacted with. What causes this is unknown. <sup>**?**</sup>
+- A wall near the prisoner belongings chest in the sewers will bleed if struck by weapons or spells. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Legendary Edition Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Legendary_Edition_Patch), version 3.0.10, fixes this bug.

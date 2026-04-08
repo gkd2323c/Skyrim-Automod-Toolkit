@@ -1,0 +1,33 @@
+# Staff of Nenalata
+
+[![](https://images.uesp.net/thumb/e/e3/OB-item-Staff_of_Nenalata.jpg/200px-OB-item-Staff_of_Nenalata.jpg)](https://en.uesp.net/wiki/File:OB-item-Staff_of_Nenalata.jpg) [](https://en.uesp.net/wiki/File:OB-item-Staff_of_Nenalata.jpg) Staff of Nenalata The Staff of Nenalata, also referred to as King [Laloriaran Dynar](Lore_Laloriaran_Dynar.md)'s **Scepter**, was a potent magical [artifact](Lore_Artifacts.md) and a symbol of his rule, alongside the [Crown of Nenalata](Lore_Crown_of_Nenalata.md) and the Emblem of the Last King. It was said to drain the willpower of its victims and neutralize magical effects.<sup>[[1]](#cite_note-NFLR-1)</sup><sup>[[2]](#cite_note-SON-2)</sup>
+
+## History
+
+### First Era
+King Dynar's scepter, crown, and emblem served as the royal regalia of [Nenalata](Lore_Nenalata.md) but were lost when the city's inhabitants fled the [Alessian Order](Lore_Alessian_Order.md)'s persecution.<sup>[[1]](#cite_note-NFLR-1)</sup><sup>[[3]](#cite_note-LOAK-3)</sup> This exodus took place between [1E 372](Lore_First_Era.md#1E_372) and [374](Lore_First_Era.md#1E_374).<sup>[[4]](#cite_note-ALo Sa S-4)</sup>
+
+In *[Last of the Ayleid Kings](Lore_Last_of_the_Ayleid_Kings.md)*, Sonolia Vatia, scribe to the court of [Emperor](Lore_Tamrielic_Emperors.md) [Brazollus Dor](Lore_Brazollus_Dor.md) of [Cyrodiil](Lore_Cyrodiil.md) in the late [First Era](Lore_First_Era.md) recorded that three items comprised the regalia of Laloriaran Dynar, one of the last of the Ayleid kings: his crown, his scepter, and a staff-like emblem. According to her writings, the emblem was entrusted to loyal retainers but vanished during their flight, while Dynar escaped with both the crown and the scepter.<sup>[[3]](#cite_note-LOAK-3)</sup>
+
+### Second Era
+In *[Notes on the Five Loyal Retainers](Lore_Notes_on_the_Five_Loyal_Retainers.md)*, a text written during the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md), [Narsis Dren](Lore_Narsis_Dren.md), an archaeologist and researcher of questionable repute claimed that King Dynar fled before the advancing Alessian armies, and that in the ensuing confusion, all of the symbols of his office—the Crown, Scepter, and Emblem were lost.<sup>[[1]](#cite_note-NFLR-1)</sup> By that time, the Emblem was housed in [Wendir](Lore_Wendir.md),<sup>[[5]](#cite_note-Emblem-5)</sup><sup>[[6]](#cite_note-ND-6)</sup> while the Crown was held in a secure vault by the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) in the city of [Marbruk](Lore_Marbruk.md). However, the whereabouts of the Scepter were unknown.<sup>[[7]](#cite_note-CS-7)</sup>
+
+### Third Era
+In [3E 433](Lore_Third_Era.md#3E_433), [Umbacano](Lore_Umbacano.md) enlisted the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) to search the province's Ayleid ruins for ten ancient statues known as the [Ten Ancestors](Lore_Ten_Ancestors.md).<sup>[[8]](#cite_note-OBTC-8)</sup> He also tasked the Hero with recovering an ancient carving from the ruins of [Malada](Lore_Malada.md),<sup>[[9]](#cite_note-OBNYCP-9)</sup> as well as the Crown of Laloriaran Dynar. It is not known if the Hero recovered the crown or accepted rival collector [Herminia Cinna](Lore_Herminia_Cinna.md)'s proposal to trick Umbacano into accepting the crown of the rival city of [Lindai](Lore_Lindai.md).<sup>[[10]](#cite_note-OBSot A-10)</sup> What is known is that Umbacano brought one of the crowns to the throne room of Nenalata and attempted to use it to restore the city to its former glory. Accounts of what followed vary: some claim Umbacano used the Crown of Nenalata, resulting in his [soul](Lore_Soul.md) being replaced by that of an ancient Ayleid king. He is said to have taken on a vampire-like appearance, mysteriously acquired the Staff of Nenalata, and was ultimately slain by the Hero of Kvatch. Other sources assert that he used the Crown of Lindai, inadvertently killing himself and destroying the crown in the process.<sup>[[11]](#cite_note-11)</sup><sup>[[12]](#cite_note-12)</sup>
+
+## See Also
+- For game-specific information, see the [*Oblivion* article](https://en.uesp.net/wiki/Oblivion:Staff_of_Nenalata).
+
+## References
+1. ^ <sup>***[a](#cite_ref-NFLR_1-0)***</sup><sup>***[b](#cite_ref-NFLR_1-1)***</sup><sup>***[c](#cite_ref-NFLR_1-2)***</sup> [*Notes on the Five Loyal Retainers*](Lore_Notes_on_the_Five_Loyal_Retainers.md) — [Narsis Dren](Lore_Books_by_Author.md#Narsis_Dren)
+2. [^](#cite_ref-SON_2-0) [Staff of Nenalata](https://en.uesp.net/wiki/Oblivion:Staff_of_Nenalata) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. ^ <sup>***[a](#cite_ref-LOAK_3-0)***</sup><sup>***[b](#cite_ref-LOAK_3-1)***</sup> [*Last of the Ayleid Kings*](Lore_Last_of_the_Ayleid_Kings.md) — [Sonolia Vatia](Lore_Books_by_Author.md#Sonolia_Vatia), scribe to the court of Emperor [Brazollus Dor](Lore_Brazollus_Dor.md)
+4. [^](#cite_ref-ALo Sa S_4-0) [*A Life of Strife and Struggle*](Lore_A_Life_of_Strife_and_Struggle.md) — [King Laloriaran Dynar](Lore_Books_by_Author.md#King_Laloriaran_Dynar)
+5. [^](#cite_ref-Emblem_5-0) [Emblem of the Last King](https://en.uesp.net/wiki/Online:Gold_Road_Quest_Items#Emblem_of_the_Last_King) item description and location in [ESO](https://en.uesp.net/wiki/Online:Online): *[Gold Road](https://en.uesp.net/wiki/Online:Gold_Road)*
+6. [^](#cite_ref-ND_6-0) [Narsis Dren](https://en.uesp.net/wiki/Online:Narsis_Dren)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Gold Road](https://en.uesp.net/wiki/Online:Gold_Road)*
+7. [^](#cite_ref-CS_7-0) [Captain Sarandil](https://en.uesp.net/wiki/Online:Captain_Sarandil)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-OBTC_8-0) Events of [The Collector](https://en.uesp.net/wiki/Oblivion:The_Collector) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. [^](#cite_ref-OBNYCP_9-0) [Nothing You Can Possess](https://en.uesp.net/wiki/Oblivion:Nothing_You_Can_Possess) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+10. [^](#cite_ref-OBSot A_10-0) Events of [Secrets of the Ayleids](https://en.uesp.net/wiki/Oblivion:Secrets_of_the_Ayleids) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+11. [^](#cite_ref-11) Events of the [Secrets of the Ayleids](https://en.uesp.net/wiki/Oblivion:Secrets_of_the_Ayleids) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+12. [^](#cite_ref-12) [Umbacano](https://en.uesp.net/wiki/Oblivion:Umbacano)'s dialogue and equipment in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*

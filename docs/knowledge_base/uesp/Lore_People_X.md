@@ -1,0 +1,22 @@
+# People X
+
+[Overview](Lore_People.md) | [A](Lore_People_A.md) [B](Lore_People_B.md) [C](Lore_People_C.md) [D](Lore_People_D.md) [E](Lore_People_E.md) [F](Lore_People_F.md) [G](Lore_People_G.md) [H](Lore_People_H.md) [I](Lore_People_I.md) [J](Lore_People_J.md) [K](Lore_People_K.md) [L](Lore_People_L.md) [M](Lore_People_M.md) [N](Lore_People_N.md) [O](Lore_People_O.md) [P](Lore_People_P.md) [Q](Lore_People_Q.md) [R](Lore_People_R.md) [S](Lore_People_S.md) [T](Lore_People_T.md) [U](Lore_People_U.md) [V](Lore_People_V.md) [W](Lore_People_W.md) X [Y](Lore_People_Y.md) [Z](Lore_People_Z.md)
+---
+
+#### King Xakhwan (?b - [1E 853](Lore_First_Era.md#1E_853))
+King [Xakhwan](Lore_Xakhwan.md) was a [Yokudan](Lore_Yokudan.md) monarch from the island of [Yath](Lore_Yath.md). Around the time of the [Ra Gada](Lore_Ra_Gada.md) invasion of [Hammerfell](Lore_Hammerfell.md) that started in [1E 808](Lore_First_Era.md#1E_808), Xakhwan began to establish colonies along the coast, but was met by resistance from a native [Altmer](Lore_Altmer.md) tribe called the [Corelanya](Lore_Corelanya_Clan.md).
+
+By [1E 853](Lore_First_Era.md#1E_853), Xakhwan devised a plan to finally drive the elves from Hammerfell. He sent his two sons, Prince Haqmir and Sameer, to lead a charge into a valley known as the Ash'abah Pass and kill the Corelanyan leader, Kinlady [Iniel](Lore_Iniel_Corelanya.md). The brothers were successful, but unexpectedly the Corelanya tricked the Yokudan forces into leaving King Xakhwan vulnerable. They infiltrated Xakhwan's palace and a necromancer named Wraithmaster [Venerien](Lore_Venerien.md) killed King Xakhwan, then reanimated his corpse.
+
+This presented prince Sameer and Haqmir with a dilemma. Yokudan laws were sacred and their father was now considered "honored dead". To harm their father would have meant dishonoring themselves, which in turn would have resulted in their exile. Conversely, the brothers refused to leave their father as a walking undead husk. The brothers came to an agreement that one of them would deal with their father and accept exile, while the other would take their father's place as king. Which brother accepted this sacrifice (known later as "the first sacrifice") is lost to history, but ultimately the raised corpse of King Xakhwan was killed in his own throne room.
+
+#### Ancestral Ascendant Organ Lord of Lilmoth Xhon-Mehl the Fisher (fl. before 4E 48)
+[Xhon-Mehl](Lore_Xhon-Mehl.md) **the Fisher** was an [Argonian](Lore_Argonian.md) figure of importance. He served as the **Ancestral Ascendant Organ Lord of Lilmoth** at some point in history, long before [4E 48](Lore_Fourth_Era.md#4E_48). A statue of his likeness was erected in [Lilmoth](Lore_Lilmoth.md), but by the time of 4E 48, it was sunken into the marsh up to the snout. It was not uncommon for more permanent stone structures to meet that fate there. Many of the stone villas of the Old [Imperial](Lore_Imperial.md) Lilmoth suffered a similar fate, as swamp had reclaimed it.
+
+#### Runemaster Xiomara (?b - [2E 582](Lore_Second_Era.md#2E_582))
+[Xiomara](Lore_Xiomara.md) was a powerful [Dunmer](Lore_Dunmer.md) [Arcanist](Lore_Arcanist.md) inhabiting Runemaster's Acropolis in [Apocrypha](Lore_Apocrypha.md) active during the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md). His extraordinary power caught attention of [Vivec](Lore_Vivec.md) of the [Tribunal](Lore_Tribunal.md).
+
+#### Xivilai Moath (?b - ?d)
+[Xivilai Moath](Lore_Xivilai_Moath.md) (or simply **Moath**) is a [Xivilai](Lore_Xivilai.md) [Daedra Lord](Lore_Daedra_Lord.md), and the leader of [Xivilai's Clan](Lore_Xivilai%27s_Clan.md) that is in the service of [Clan Dagon](Lore_Clan_Dagon.md). He along with [Faydra Shardai](Lore_Faydra_Shardai.md) are [Mehrunes Dagon](Lore_Mehrunes_Dagon.md)'s adoptive children. Faydra and [Imago Storm](Lore_Imago_Storm.md) are his oathkin. His [incantory neonymic](Lore_Nymic.md) was once **Wegerohseh-chehkohieu** (listen Link ⏵). He has a prominent red eye on the right side of his face.
+
+The Constrictions of Moath are named after him. This is a procedure known to some Xivilai where a subject is crushed by a conjured hand. Mortals may die from the experience, but those that survive report a feeling of bodily relief.

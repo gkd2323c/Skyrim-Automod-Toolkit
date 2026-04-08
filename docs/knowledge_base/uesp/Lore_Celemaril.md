@@ -1,0 +1,44 @@
+# Celemaril
+
+| --- | --- | --- | --- |
+| [![BL-creature-Celemaril, The Sorcerer-King.jpg](https://images.uesp.net/thumb/9/9e/BL-creature-Celemaril%2C_The_Sorcerer-King.jpg/200px-BL-creature-Celemaril%2C_The_Sorcerer-King.jpg)](https://en.uesp.net/wiki/File:BL-creature-Celemaril,_The_Sorcerer-King.jpg) Sorcerer-King Celemaril | | | |
+| Race | [Ayleid](Lore_Ayleid.md) | Gender | Male |
+| Undeath | [1st Era](Lore_First_Era.md#1st_Era) | | |
+| Resided in | [Cyrodiil](Lore_Cyrodiil.md) | | |
+| Appears in | [Blades](https://en.uesp.net/wiki/Blades:Celemaril,_The_Sorcerer-King) | | |
+
+Celemaril ([/s ɛ. l ɛ. m ə ˈ r ɪ l/](https://www.wikipedia.org/wiki/Help:IPA/English) Link ⏵) **Light-Bringer**, also known as **King Celemaril the Undying**<sup>[[1]](#cite_note-ST-1)</sup> also simply referred to as the **Sorcerer-King** or **Lich** is a powerful [Ayleid](Lore_Ayleid.md) [lich](Lore_Lich.md) and [necromancer](https://en.uesp.net/wiki/Lore:Necromancy) who seeks to rule [Tamriel](Lore_Tamriel.md) and ultimately destroy [Nirn](Lore_Nirn.md).<sup>[[2]](#cite_note-Shulkunaak-2)</sup> Celemaril ruled a domain in [Cyrodiil](Lore_Cyrodiil.md) as king,<sup>[[3]](#cite_note-Saashi-3)</sup> and he is also said to have conquered Tamriel (to some unknown extent) in the [First Era](Lore_First_Era.md).<sup>[[4]](#cite_note-Telarendil-4)</sup>
+
+## History
+
+### First Era
+[![](https://images.uesp.net/thumb/0/0a/LO-misc-Blades_Mural.png/200px-LO-misc-Blades_Mural.png)](https://en.uesp.net/wiki/File:LO-misc-Blades_Mural.png) [](https://en.uesp.net/wiki/File:LO-misc-Blades_Mural.png) Celemaril's rise and fall In the First Era, together with his undead forces,<sup>[[3]](#cite_note-Saashi-3)</sup> the immortal Celemaril waged war across Tamriel.<sup>[[4]](#cite_note-Telarendil-4)</sup><sup>[[2]](#cite_note-Shulkunaak-2)</sup> His brother Valentis led other Ayleid kings in a rebellion against Celemaril. With [varla stones](https://en.uesp.net/wiki/Lore:Varla_Stone) and an [Elder Scroll](Lore_Elder_Scrolls.md), Valentis donned Celemaril's crown and spoke a ritual incantation, sealing his brother within a crypt beneath a [marble](https://en.uesp.net/wiki/Lore:Marble) statue bearing his likeness.<sup>[[5]](#cite_note-5)</sup><sup>[[2]](#cite_note-Shulkunaak-2)</sup><sup>[[3]](#cite_note-Saashi-3)</sup> As king, Valentis would then erase much of the records of Celemaril and his conquest of Tamriel.<sup>[[4]](#cite_note-Telarendil-4)</sup><sup>[[3]](#cite_note-Saashi-3)</sup> Valentis also founded the town of [Rivercrest](Lore_Rivercrest.md) at the site of the statue which sealed Celemaril.<sup>[[6]](#cite_note-6)</sup><sup>[[3]](#cite_note-Saashi-3)</sup>
+
+### Fourth Era
+[![](https://images.uesp.net/thumb/8/8d/LO-misc-Blades_Statue_Render.png/200px-LO-misc-Blades_Statue_Render.png)](https://en.uesp.net/wiki/File:LO-misc-Blades_Statue_Render.png) [](https://en.uesp.net/wiki/File:LO-misc-Blades_Statue_Render.png) The Elder Statue By [4E 180](Lore_Fourth_Era.md#4E_180),<sup>[[7]](#cite_note-Junius-7)</sup> Rivercrest was in the domain of the [Bloodfall Kingdom](Lore_Bloodfall.md). One day, [Queen Urzoga gra-Batul](https://en.uesp.net/wiki/Lore:Urzoga_gra-Batul) sent mercenaries to collect taxes from the town. In an attempt to scare the townsfolk into paying up,<sup>[[8]](#cite_note-8)</sup> they broke the head off of the statue of Valentis, which they called the Elder Statue, releasing a green fire that razed the town.<sup>[[9]](#cite_note-9)</sup> The magic that trapped Celemaril was dispelled, and so he returned to the surface to plot the destruction of Nirn.
+
+Soon after, the [Warrior](Lore_The_Warrior_(person).md) returned to Rivercrest, their hometown. With the help of the loremaster, Saashi, the Warrior unraveled the mysterious history surrounding Celemaril and his scheme. Next, they worked to recreate the original binding ritual. They retrieved Celemaril's crown, five varla stones, an Elder Scroll, and an inscription of the ritual incantation. Finally, the Warrior commissioned the creation of a new marble statue which precisely resembled the original.<sup>[[7]](#cite_note-Junius-7)</sup> By then, Celemaril had amassed another undead army with which he launched an assault upon Rivercrest. The Warrior met with him in an arena north of Rivercrest and fought one-on-one against the Sorcerer-King. Meanwhile, Saashi read the ritual incantation as Celemaril's undead attacked the town's walls and gates.<sup>[[10]](#cite_note-10)</sup> The Warrior was victorious, and with a magical glow that could be seen even from Rivercrest, Celemaril was sealed beneath Rivercrest once more.<sup>[[11]](#cite_note-11)</sup><sup>[[3]](#cite_note-Saashi-3)</sup>
+
+## Notes
+- [The Abyss](Lore_The_Abyss.md) and Celemaril are said to be linked. However, Celemaril is not responsible for its creation.<sup>[[12]](#cite_note-12)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/1/1b/BL-quest-The_Haunted_Forest.jpg/200px-BL-quest-The_Haunted_Forest.jpg)](https://en.uesp.net/wiki/File:BL-quest-The_Haunted_Forest.jpg) Celemaril with the Elder Scroll (Blades)
+- [![](https://images.uesp.net/thumb/9/9b/BL-item-quest_item-Ancient_Ayleid_Crown.jpg/200px-BL-item-quest_item-Ancient_Ayleid_Crown.jpg)](https://en.uesp.net/wiki/File:BL-item-quest_item-Ancient_Ayleid_Crown.jpg) Celemaril's ancient crown (Blades)
+- [![](https://images.uesp.net/thumb/9/9d/BL-decoration-Abyssal_Altar.jpg/200px-BL-decoration-Abyssal_Altar.jpg)](https://en.uesp.net/wiki/File:BL-decoration-Abyssal_Altar.jpg) Altar symbolizing the Celemaril and the Abyss (Blades)
+- [![](https://images.uesp.net/thumb/c/cc/BL-concept-Ayleid_Lich.jpeg/200px-BL-concept-Ayleid_Lich.jpeg)](https://en.uesp.net/wiki/File:BL-concept-Ayleid_Lich.jpeg) Celemaril (Blades concept art)
+- [![](https://images.uesp.net/thumb/7/76/BL-item-quest_item-Stone_Tablets.jpg/200px-BL-item-quest_item-Stone_Tablets.jpg)](https://en.uesp.net/wiki/File:BL-item-quest_item-Stone_Tablets.jpg) Stone Tablets with inscription for King Celemaril the Undying (Blades)
+
+## References
+1. [^](#cite_ref-ST_1-0) [Stone Tablets](https://en.uesp.net/wiki/Blades:Quest_Items#Stone_Tablets) quest item description in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+2. ^ <sup>***[a](#cite_ref-Shulkunaak_2-0)***</sup><sup>***[b](#cite_ref-Shulkunaak_2-1)***</sup><sup>***[c](#cite_ref-Shulkunaak_2-2)***</sup> [Shulkunaak](https://en.uesp.net/wiki/Blades:Shulkunaak)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+3. ^ <sup>***[a](#cite_ref-Saashi_3-0)***</sup><sup>***[b](#cite_ref-Saashi_3-1)***</sup><sup>***[c](#cite_ref-Saashi_3-2)***</sup><sup>***[d](#cite_ref-Saashi_3-3)***</sup><sup>***[e](#cite_ref-Saashi_3-4)***</sup><sup>***[f](#cite_ref-Saashi_3-5)***</sup> [Saashi](https://en.uesp.net/wiki/Blades:Saashi)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+4. ^ <sup>***[a](#cite_ref-Telarendil_4-0)***</sup><sup>***[b](#cite_ref-Telarendil_4-1)***</sup><sup>***[c](#cite_ref-Telarendil_4-2)***</sup> [Telarendil](https://en.uesp.net/wiki/Blades:Telarendil)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+5. [^](#cite_ref-5) [The mural](https://en.uesp.net/wiki/File:BL-quest-A_Tale_of_Two_Brothers.jpg) in Valentis' tomb during [A Tale of Two Brothers](https://en.uesp.net/wiki/Blades:A_Tale_of_Two_Brothers) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+6. [^](#cite_ref-6) [Founder's Statue](https://en.uesp.net/wiki/Blades:Founder%27s_Statue) description in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+7. ^ <sup>***[a](#cite_ref-Junius_7-0)***</sup><sup>***[b](#cite_ref-Junius_7-1)***</sup> [Junius the Elder](https://en.uesp.net/wiki/Blades:Junius_the_Elder)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+8. [^](#cite_ref-8) [Mercenary](https://en.uesp.net/wiki/Blades:Mercenaries)'s dialogue during [Mercenaries on the Run](https://en.uesp.net/wiki/Blades:Mercenaries_on_the_Run) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+9. [^](#cite_ref-9) [Zakana](https://en.uesp.net/wiki/Blades:Zakana)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+10. [^](#cite_ref-10) [Antoine Nestal](https://en.uesp.net/wiki/Blades:Antoine_Nestal)'s dialogue in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+11. [^](#cite_ref-11) Events of [Wrath of the Sorcerer-King](https://en.uesp.net/wiki/Blades:Wrath_of_the_Sorcerer-King) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+12. [^](#cite_ref-12) [Abyssal Altar](https://en.uesp.net/wiki/Blades:Abyssal_Altar) description in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*

@@ -1,0 +1,25 @@
+# Meet the Character - Mirri Elendis
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/59955)) |
+| Writer | [Bill Slavicsek](https://en.uesp.net/wiki/General:Bill_Slavicsek) |
+| Publication Date: | April 21, 2021 |
+
+Meet the Character - Mirri Elendis **by [Belderi Llenim](Lore_Books_by_Author.md#Belderi_Llenim)** *A Fighters Guild letter of recommendation*
+---
+[![LO-book-Mirri Elendis.jpg](https://images.uesp.net/thumb/4/40/LO-book-Mirri_Elendis.jpg/300px-LO-book-Mirri_Elendis.jpg)](https://en.uesp.net/wiki/File:LO-book-Mirri_Elendis.jpg) Hall Steward [Delte Nethri](https://en.uesp.net/wiki/Online:Delte_Nethri),
+
+Hail and well met, comrade! Regarding your recent request for an expert on [Daedric](Lore_Daedra.md) matters of a sensitive nature, might I recommend Mirri Elendis? Even as a relatively young [Dark Elf](Lore_Dunmer.md), she has already made a reputation for herself in [Mournhold](Lore_Mournhold.md) and the [surrounding countryside](Lore_Deshaan.md). I have no doubt that she could be a help to you in [Vivec City](Lore_Vivec_City.md) or wherever the [Fighters Guild](Lore_Fighters_Guild.md) requires assistance.
+
+Mirri comes from a minor Dark Elf family that has a somewhat checkered reputation for recovering ancient relics, especially items tied to Daedra and the [Daedric Princes](Lore_Daedric_Princes.md). Her father was a former [Hlaalu](Lore_House_Hlaalu.md) merchant who wasn't above trading some of the antiquities they acquired for gold or favors, while her mother was more of a procurer of said curiosities, delving into ruins with audacity and aplomb. I can confirm that Mirri definitely takes after the maternal side of the family.
+
+Mirri's work for us here in Mournhold has been a blessing, even if the [Ordinators](Lore_Ordinators.md) sometimes look askew at her methods. Not only has she been an asset in our study and subsequent drive to deal with the [Dark Anchors](Lore_Dark_Anchors.md) that litter the landscape far and wide, she has also been invaluable when it comes to certain missions we have been charged with by the [Tribunal Temple](Lore_Tribunal_Temple.md). I don't know how it is for you in the city of the Living God, [Vivec](Lore_Vivec.md), but our guildhall's proximity to Mother [Almalexia](Lore_Almalexia.md) encourages her to utilize us as though we were another arm of her Ordinators. It pays well, so who am I to complain?
+
+Luckily, Mirri holds the [Tribunal](Lore_Tribunal.md) in high esteem, and though she is nowhere near what any of us would call orthodox, she possesses a driving interest in the [Anticipations](Lore_Anticipations.md) and how they relate to the Living Gods. So, tracking down relics related to the Anticipations for the Tribunal has solidified her position as a worthy consultant in all matters concerning the Daedra. She isn't a worshiper of the Daedra, if that's your concern. But she analyzes them the way a [kwama](Lore_Kwama.md) miner studies every aspect of the insects they keep and the eggs those creatures lay. As Mirri likes to say, "You can't fetching deal with an enraged [alit](Lore_Alit.md) unless you know what made it fetching mad in the first place." For that reason, she has dedicated herself to knowing all she can about Daedra and Daedric relics.
+
+Now, I don't want you to get the wrong idea. Mirri is competent and hard-working, but she's in no way easy to deal with. She despises authority figures and constantly skirts along the edge of trouble with the local law. She bends the rules nearly to the breaking point, but she gets things done. When she doesn't get her way, her mood turns darker than the bottom of [Malacath](Lore_Malacath.md)'s black boot. And the only thing fouler than her mood is her mouth—she curses like a [Sea Elf](Lore_Maormer.md) pirate! I remember the first time she graced our hall with her presence, Mirri felt that Soris Rothan had insulted her in some way. She unleashed a barrage of [profanities](Lore_Profanity.md) upon the poor sod that ended by proclaiming him "a [scrib](Lore_Scrib.md) sucking s'wit with lips an alit wouldn't kiss!" We laughed for nearly an hour over that!
+
+I wouldn't want a guildhall full of Mirri Elendis's *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]*, but I wouldn't trade the one I've been using for all the [scrib jerky](Lore_Scrib_Jerky.md) in [Morrowind](Lore_Morrowind.md). And you know I love my scrib jerky! If you need a Daedric consultant to delve into the ruins and tombs that decorate the [Vvardenfell](Lore_Vvardenfell.md) wilderness, or if you have a mission that requires Daedric expertise in [Blackwood](Lore_Blackwood.md) or anywhere else in [Tamriel](Lore_Tamriel.md), you won't find a better hire than Mirri Elendis. On that, you have my word.
+
+[Belderi Llenim](https://en.uesp.net/wiki/Online:Belderi_Llenim), Armsman, Mournhold Guildhall

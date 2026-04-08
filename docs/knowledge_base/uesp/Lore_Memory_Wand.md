@@ -1,0 +1,28 @@
+# Memory Wand
+
+[![](https://images.uesp.net/thumb/6/61/LG-cardart-Memory_Wand.png/200px-LG-cardart-Memory_Wand.png)](https://en.uesp.net/wiki/File:LG-cardart-Memory_Wand.png) [](https://en.uesp.net/wiki/File:LG-cardart-Memory_Wand.png) The Memory Wand *Oh. Very sad isn't it. So very, very sad. You know, I think it's even more fun watching your mind break the second time around. Or is it the third now?*
+—Sheogorath The Memory Wand is an artifact created by the [Daedric Prince](Lore_Daedric_Prince.md) of Madness, [Sheogorath](Lore_Sheogorath.md). It is intended to be used by him for the fun of causing a victim to go mad by altering, deleting, and causing them to relive painful memories.<sup>[[1]](#cite_note-SDTFBIOM-1)</sup> This can be done in such a way that the victim will question their own reality.<sup>[[2]](#cite_note-EP5TDES-2)</sup> Its physical appearance is describable as a large metallic rod adorned with a double sided figure of a horned madman, with blue flames coming out of its head.<sup>[[3]](#cite_note-3)</sup>
+
+## History
+The [Dunmer](Lore_Dunmer.md) [Talym Rend](Lore_Talym_Rend.md) became a pawn in Sheogorath's game when he struck a deal with Sheogorath to forget the painful memories of his involvement in a [Worm Cult](Lore_Worm_Cult.md)'s ritual where his son Novos was sacrificed.<sup>[[4]](#cite_note-4)</sup><sup>[[5]](#cite_note-EP6MEM-5)</sup> Sheogorath manipulated his mind for "motivation," and tricked him into thinking his son was alive, and that he was fighting to cure his son of madness instead.<sup>[[1]](#cite_note-SDTFBIOM-1)</sup>
+
+The prince requested three souls driven mad in return for restoring Novos to sanity. Once Talym had driven his three targets to Sheogorath's embrace, Talym returned home only to realize that Novos had been dead the entire time.<sup>[[6]](#cite_note-6)</sup> When Talym set out to gain an explanation from Sheogorath, he was only turned away. Unanswered questions ate away at his sanity as he wandered endlessly around the [Shivering Isles](Lore_Shivering_Isles.md).<sup>[[2]](#cite_note-EP5TDES-2)</sup>
+
+Eventually, he regained a semblance of composure and journeyed to Knifepoint Hollow. There, Talym was informed by [Dyus](Lore_Dyus.md), the librarian of [Jyggalag](Lore_Jyggalag.md), that he might gain an audience with Sheogorath if he retrieved an artifact of Jyggalag.<sup>[[2]](#cite_note-EP5TDES-2)</sup> He retrieved the [Sword of Jyggalag](Lore_Sword_of_Jyggalag.md) and confronted Sheogorath. Using the [wand](Lore_Wands.md), Sheogorath revealed Talym's original intent along with his memories. He proceeded to mock Talym, and in his anger, Talym turned the wand against the Daedric Prince to force him to recall his memories of his previous incarnation: the Daedric Prince of Order, Jyggalag. The memories pained Sheogorath, who pleaded with Talym to stop the boring lawful madness.<sup>[[5]](#cite_note-EP6MEM-5)</sup> He fulfilled Talym's wishes and would leave him and his companions free from his grasp.<sup>[[7]](#cite_note-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/8c/LG-back-Skooma_Cat%27s_Plaything.png/112px-LG-back-Skooma_Cat%27s_Plaything.png)](https://en.uesp.net/wiki/File:LG-back-Skooma_Cat%27s_Plaything.png) Talym Rend holding the Memory Wand next to Sheogorath
+- [![](https://images.uesp.net/thumb/4/48/LG-back-Skooma_Cat%27s_Plaything_2.jpg/115px-LG-back-Skooma_Cat%27s_Plaything_2.jpg)](https://en.uesp.net/wiki/File:LG-back-Skooma_Cat%27s_Plaything_2.jpg) Sheogorath and Talym Rend holding the Memory Wand, high resolution card back from artist (Legends)
+- [![](https://images.uesp.net/thumb/3/3e/LG-quest-A_Reckoning_01.jpg/200px-LG-quest-A_Reckoning_01.jpg)](https://en.uesp.net/wiki/File:LG-quest-A_Reckoning_01.jpg) Sheogorath, defeated with the Memory Wand
+
+## See Also
+- For game-specific information, see the *[Legends](https://en.uesp.net/wiki/Legends:Memory Wand)* [](https://en.uesp.net/wiki/Legends:Isle_of_Madness) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-SDTFBIOM_1-0)***</sup><sup>***[b](#cite_ref-SDTFBIOM_1-1)***</sup> [Sheogorath](https://en.uesp.net/wiki/Legends:Sheogorath)'s dialogue in [The Final Battle](https://en.uesp.net/wiki/Legends:The_Final_Battle) during the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story
+2. ^ <sup>***[a](#cite_ref-EP5TDES_2-0)***</sup><sup>***[b](#cite_ref-EP5TDES_2-1)***</sup><sup>***[c](#cite_ref-EP5TDES_2-2)***</sup> [Episode 5: The Descent](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)#Episode_5:_The_Descent) of the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story
+3. [^](#cite_ref-3) [Memory Wand](https://en.uesp.net/wiki/Legends:Memory_Wand) card in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+4. [^](#cite_ref-4) [The Tragedy](https://en.uesp.net/wiki/Legends:The_Tragedy) quest of the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story
+5. ^ <sup>***[a](#cite_ref-EP6MEM_5-0)***</sup><sup>***[b](#cite_ref-EP6MEM_5-1)***</sup> [Episode 6: Memories](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)#Episode_6:_Memories) of the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story
+6. [^](#cite_ref-6) [The Betrayal](https://en.uesp.net/wiki/Legends:The_Betrayal_(Isle_of_Madness)) quest of the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story
+7. [^](#cite_ref-7) [A Reckoning](https://en.uesp.net/wiki/Legends:A_Reckoning) quest of the [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story)) story

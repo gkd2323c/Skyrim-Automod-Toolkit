@@ -1,0 +1,27 @@
+# Camorian Empire
+
+
+**Camorian** is seemingly a non-standard spelling of the name of **[House Camoran](https://en.uesp.net/wiki/Lore:Camoran)**, the age-old rulers of [Valenwood](Lore_Valenwood.md).<sup>[[3]](#cite_note-PGE3V-3)</sup><sup>[[6]](#cite_note-PGE1-6)</sup> The Camorans remained in power for centuries afterwards, even resisting the aggressive expansion of the [Alessian Empire](Lore_Alessian_Empire.md), until Valenwood was conquered by the [Second Empire](Lore_Second_Empire.md) in [1E 2714](Lore_First_Era.md#1E_2714) following years of unrelenting warfare and the devastation of the [Thrassian Plague](Lore_Thrassian_Plague.md). The line Camoran kings survived, but the Empire broke its influence by granting independence to Valenwood's lesser nobles.<sup>[[3]](#cite_note-PGE3V-3)</sup> [Haymon Camoran](Lore_Haymon_Camoran.md) and his son [Mankar Camoran](Lore_Mankar_Camoran.md) of [Tamriel](Lore_Tamriel.md)'s [Third Era](Lore_Third_Era.md) are described as being indirect descendants of King Eplear's dynasty.<sup>[[3]](#cite_note-PGE3V-3)</sup><sup>[[7]](#cite_note-TR-7)</sup><sup>[[UOL 1]](#cite_note-EPCU-8)</sup>
+
+## Notes
+- Mentions of the Camorian Empire are sparse in the fiction of *[The Elder Scrolls](https://en.uesp.net/wiki/General:The_Elder_Scrolls)*, and the concept has not been codified much at all after initially being mentioned. But indicators in *Daggerfall* -era lore imply that the Camorian Dynasty were intended to be Bretons rather than Wood Elves, as they were described later on. *[Wayrest, Jewel of the Bay](https://en.uesp.net/wiki/Lore:Wayrest,_Jewel_of_the_Bay)* mentions how the Camorian Empire granted Wayrest the right to call itself a kingdom, which might imply the Camorians either held power in that part of High Rock or that they had some vague swath of Tamriel under their reign. Additionally, *[The Daggerfall Chronicles](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles)* timeline refers to the [Camoran Usurper](Lore_Camoran_Usurper.md) as the scion of a Breton woman and [Molag Bal](Lore_Molag_Bal.md), who held a disputed heir status to the Camoran throne after the Empire had long dissipated. The *Daggerfall Chronicles* mentions that Haymon rose to power in southern Valenwood, which may have inspired the writers of the *[Pocket Guide to the Empire, 1st Edition](https://en.uesp.net/wiki/Lore:PGE1)* to cast the Camorans as Bosmer rather than Bretons.<sup>[[1]](#cite_note-WJot B-1)</sup><sup>[[2]](#cite_note-DFC-2)</sup><sup>[[6]](#cite_note-PGE1-6)</sup>
+- According to series writer [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson), the dynastic name "Camoran" is actually a demonym derived from the name "Camora"—though he doesn't recall ever actually knowing what Camora was meant to be and thought that future writers on the series could've filled in that blank spot later on.<sup>[[UOL 2]](#cite_note-Tedders Interview-9)</sup>
+
+## See Also
+- **[Eplear](Lore_Eplear.md)**
+- **[Camoran](https://en.uesp.net/wiki/Lore:Camoran)**
+- **[Camarril](https://en.uesp.net/wiki/Lore:Camarril)**
+
+## References
+1. ^ <sup>***[a](#cite_ref-WJot B_1-0)***</sup><sup>***[b](#cite_ref-WJot B_1-1)***</sup><sup>***[c](#cite_ref-WJot B_1-2)***</sup> [*Wayrest, Jewel of the Bay*](https://en.uesp.net/wiki/Lore:Wayrest,_Jewel_of_the_Bay) — [Sathyr Longleat](Lore_Books_by_Author.md#Sathyr_Longleat)
+2. ^ <sup>***[a](#cite_ref-DFC_2-0)***</sup><sup>***[b](#cite_ref-DFC_2-1)***</sup> [*The Daggerfall Chronicles — Tamriel's Timeline*](http://www.imperial-library.info/content/daggerfall-chronicles-tamriels-timeline)
+3. ^ <sup>***[a](#cite_ref-PGE3V_3-0)***</sup><sup>***[b](#cite_ref-PGE3V_3-1)***</sup><sup>***[c](#cite_ref-PGE3V_3-2)***</sup><sup>***[d](#cite_ref-PGE3V_3-3)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Wilds Remain: Valenwood*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Valenwood) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-PGE1WR_4-0) [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+5. [^](#cite_ref-5) [*How Orsinium Passed to the Orcs*](https://en.uesp.net/wiki/Lore:How_Orsinium_Passed_to_the_Orcs) — [Menyna Gsost](Lore_Books_by_Author.md#Menyna_Gsost)
+6. ^ <sup>***[a](#cite_ref-PGE1_6-0)***</sup><sup>***[b](#cite_ref-PGE1_6-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: Aldmeri Dominion*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_Aldmeri_Dominion) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+7. [^](#cite_ref-TR_7-0) [*The Refugees*](Lore_The_Refugees.md) — [Geros Albreigh](Lore_Books_by_Author.md#Geros_Albreigh)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-EPCU_8-0) [*Ted Peterson's Posts*](https://en.uesp.net/wiki/General:Ted_Peterson%27s_Posts#Is_King_Eplear_and_the_Camoran_Usurper_the_same_character.3F_.282004-09-08.29)
+2. [^](#cite_ref-Tedders Interview_9-0) [*Interview with Ted Peterson by Indigo Gaming*](https://youtu.be/Zzjv WQCND54?feature=shared&t=4237)

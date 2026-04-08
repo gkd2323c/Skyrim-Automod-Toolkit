@@ -1,0 +1,12 @@
+# Karthwasten People
+
+| \| [Enmon's House](Skyrim_Enmon%27s_House.md) \| <br> \| --- \| <br> \| **[Enmon](Skyrim_Enmon.md)** <br> **[Mena](https://en.uesp.net/wiki/Skyrim:Mena)** \| <br> \| [Karthwasten Hall](Skyrim_Karthwasten_Hall.md) \| <br> \| **[Ainethach](Skyrim_Ainethach.md)** \| | [Enmon's House](Skyrim_Enmon%27s_House.md) | **[Enmon](Skyrim_Enmon.md)** <br> **[Mena](https://en.uesp.net/wiki/Skyrim:Mena)** | [Karthwasten Hall](Skyrim_Karthwasten_Hall.md) | **[Ainethach](Skyrim_Ainethach.md)** | \| [Miner's Barracks](Skyrim_Karthwasten_Miner%27s_Barracks.md) \| <br> \| --- \| <br> \| **[Belchimac](Skyrim_Belchimac.md)** <br> **[Josla](Skyrim_Josla.md)**<sup>[CC](Skyrim_Redguard_Elite_Armaments.md)</sup> <br> **[Lash gra-Dushnikh](https://en.uesp.net/wiki/Skyrim:Lash_gra-Dushnikh)** <br> **[Ragnar](https://en.uesp.net/wiki/Skyrim:Ragnar)** \| <br> \| [Sanuarach Mine](https://en.uesp.net/wiki/Skyrim:Sanuarach_Mine) \| <br> \| **[Atar](Skyrim_Atar.md)** \| | [Miner's Barracks](Skyrim_Karthwasten_Miner%27s_Barracks.md) | **[Belchimac](Skyrim_Belchimac.md)** <br> **[Josla](Skyrim_Josla.md)**<sup>[CC](Skyrim_Redguard_Elite_Armaments.md)</sup> <br> **[Lash gra-Dushnikh](https://en.uesp.net/wiki/Skyrim:Lash_gra-Dushnikh)** <br> **[Ragnar](https://en.uesp.net/wiki/Skyrim:Ragnar)** | [Sanuarach Mine](https://en.uesp.net/wiki/Skyrim:Sanuarach_Mine) | **[Atar](Skyrim_Atar.md)** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Enmon's House](Skyrim_Enmon%27s_House.md) | | | | | | | | | |
+| **[Enmon](Skyrim_Enmon.md)** <br> **[Mena](https://en.uesp.net/wiki/Skyrim:Mena)** | | | | | | | | | |
+| [Karthwasten Hall](Skyrim_Karthwasten_Hall.md) | | | | | | | | | |
+| **[Ainethach](Skyrim_Ainethach.md)** | | | | | | | | | |
+| [Miner's Barracks](Skyrim_Karthwasten_Miner%27s_Barracks.md) | | | | | | | | | |
+| **[Belchimac](Skyrim_Belchimac.md)** <br> **[Josla](Skyrim_Josla.md)**<sup>[CC](Skyrim_Redguard_Elite_Armaments.md)</sup> <br> **[Lash gra-Dushnikh](https://en.uesp.net/wiki/Skyrim:Lash_gra-Dushnikh)** <br> **[Ragnar](https://en.uesp.net/wiki/Skyrim:Ragnar)** | | | | | | | | | |
+| [Sanuarach Mine](https://en.uesp.net/wiki/Skyrim:Sanuarach_Mine) | | | | | | | | | |
+| **[Atar](Skyrim_Atar.md)** | | | | | | | | | |

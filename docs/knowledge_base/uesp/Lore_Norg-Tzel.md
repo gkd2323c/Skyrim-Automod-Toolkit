@@ -1,0 +1,34 @@
+# Norg-Tzel
+
+| Norg-Tzel | |
+| --- | --- |
+| Type | Island |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Black Marsh](Lore_Black_Marsh.md) |
+| Region | [Southern Sea](Lore_Southern_Sea.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Norg-Tzel) |
+
+[![](https://images.uesp.net/thumb/b/b5/ON-place-Norg-Tzel_05.jpg/200px-ON-place-Norg-Tzel_05.jpg)](https://en.uesp.net/wiki/File:ON-place-Norg-Tzel_05.jpg) [](https://en.uesp.net/wiki/File:ON-place-Norg-Tzel_05.jpg) The Norg-Tzel Xanmeer circa [2E 582](Lore_Second_Era.md#2E_582). Norg-Tzel (meaning "Forbidden Place" in [Jel](Lore_Jel.md)) is a small island off the coast of the region of [Murkmire](Lore_Murkmire.md), being considered a part of the province of [Black Marsh](Lore_Black_Marsh.md). Norg-Tzel is known as the Forbidden Place for a reason, as it served as the prison of the mythical Golden Skull of Beela-Kaar until it was taken by the [Cyrodilic Collections](Lore_Cyrodilic_Collections.md).
+
+## History
+In the distant past, the [Argonians](Lore_Argonian.md) were establishing their civilization, long before the modern-day races of Tamriel.<sup>[[1]](#cite_note-TCOBK-1)</sup> Among them, a powerful sorcerer known as [Beela-Kaar](Lore_Beela-Kaar.md) rose to prominence, becoming a trusted advisor of Saxhleel leaders and using his power to help the people of Murkmire.<sup>[[1]](#cite_note-TCOBK-1)</sup> However, when Beela-Kaar's mate succumbed to a debilitating wasting disease, the sorcerer isolated himself to search for an alchemical cure or a spell that would reverse the illness. When every form of conventional magic did not work, Beela-Kaar resorted to darker magic, and eventually fell in to practicing [necromancy](Lore_Necromancy.md) in an effort to save his mate.<sup>[[1]](#cite_note-TCOBK-1)</sup> Beela-Kaar was unable to restore his mate, but he resurrected her corpse, and she remained by his side as a mindless zombie.<sup>[[1]](#cite_note-TCOBK-1)</sup>
+
+The Argonians saw this as an abomination, and begged Beela-Kaar to allow his mate to rest in peace.<sup>[[1]](#cite_note-TCOBK-1)</sup> He ignored their pleas, and took one of the mighty xanmeers as a laboratory to conduct increasingly darker necromantic experiments.<sup>[[1]](#cite_note-TCOBK-1)</sup> One day, a few of his vile creations escaped his laboratory and ravaged Murkmire. The elders took action, sending a band of warriors to confront Beela-Kaar and end his rituals. The siege of Beela-Kaar's laboratory lasted thirty-three days and thirty-three nights, but the tide eventually turned in Murkmire's favor.<sup>[[1]](#cite_note-TCOBK-1)</sup> At this point, Beela-Kaar knew that the odds were against him, and conducted one last ritual to infuse all of his power within his skull, which turned solid gold.<sup>[[1]](#cite_note-TCOBK-1)</sup> Beela-Kaar was gone, leaving only his haunted golden skull.<sup>[[1]](#cite_note-TCOBK-1)</sup> To protect Murkmire, the elder Argonians sealed the golden skull in the xanmeer of Norg-Tzel, where it remained for centuries.<sup>[[1]](#cite_note-TCOBK-1)</sup>
+
+Sometime around [2E 582](Lore_Second_Era.md#2E_582), the Cyrodilic Collections, a group of historians and archaeologists that hail from [Cyrodiil](Lore_Cyrodiil.md), made an expedition to Norg-Tzel.<sup>[[2]](#cite_note-ESORC-2)</sup> The group sought to uncover the lost history of the Argonians and have made attempts to uncover every piece of the past they can document.<sup>[[3]](#cite_note-ESOCM-3)</sup> At the same time, a group known as the [Blackguards](https://en.uesp.net/wiki/Lore:Blackguards), comprised of the descendants of inmates from [Blackrose Prison](Lore_Blackrose_Prison.md), attempted to seek out the Golden Skull of Beela-Kaar.<sup>[[2]](#cite_note-ESORC-2)</sup> Margus Derius, an Imperial with a grudge against Murkmire, and saw the Skull of Beela-Kaar as a means to enact his revenge upon the Saxhleel for the death of his son at the hands of the [Naga-Kur](Lore_Naga-Kur.md).<sup>[[4]](#cite_note-TJOMD-4)</sup> However, he was stopped in his tracks in Norg-Tzel by an [associate](Lore_Soulless_One.md) of the Cyrodilic Collections.<sup>[[5]](#cite_note-TCS-5)</sup> The associate was able to acquire the skull and make a swift escape from the Norg-Tzel Xanmeer, returning to the Collections' alcove in [Stormhold](Lore_Stormhold.md).<sup>[[5]](#cite_note-TCS-5)</sup> Ever since then, Cyrodiilic Collections had gained fame throughout Tamriel, garnering new members from as far as [Stros M'Kai](Lore_Stros_M%27Kai.md) and [Vulkhel Guard](Lore_Vulkhel_Guard.md).<sup>[[6]](#cite_note-6)</sup> News of the events in Norg-Tzel spread to [Lilmoth](Lore_Lilmoth.md) as well.<sup>[[7]](#cite_note-ESOSinanis-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/90/ON-item-Golden_Skull_of_Beela-Kaar.png/199px-ON-item-Golden_Skull_of_Beela-Kaar.png)](https://en.uesp.net/wiki/File:ON-item-Golden_Skull_of_Beela-Kaar.png) Golden Skull of Beela-Kaar
+- [![](https://images.uesp.net/thumb/b/b3/ON-place-Norg-Tzel_02.jpg/200px-ON-place-Norg-Tzel_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Norg-Tzel_02.jpg) Flora of Norg-Tzel
+
+## See Also
+- For game-specific information, see the [ESO article](https://en.uesp.net/wiki/Online:Norg-Tzel).
+
+## References
+1. ^ <sup>***[a](#cite_ref-TCOBK_1-0)***</sup><sup>***[b](#cite_ref-TCOBK_1-1)***</sup><sup>***[c](#cite_ref-TCOBK_1-2)***</sup><sup>***[d](#cite_ref-TCOBK_1-3)***</sup><sup>***[e](#cite_ref-TCOBK_1-4)***</sup><sup>***[f](#cite_ref-TCOBK_1-5)***</sup><sup>***[g](#cite_ref-TCOBK_1-6)***</sup><sup>***[h](#cite_ref-TCOBK_1-7)***</sup><sup>***[i](#cite_ref-TCOBK_1-8)***</sup><sup>***[j](#cite_ref-TCOBK_1-9)***</sup> [*The Curse of Beela-Kaar*](Lore_The_Curse_of_Beela-Kaar.md) — [Sil Rothril](Lore_Books_by_Author.md#Sil_Rothril)
+2. ^ <sup>***[a](#cite_ref-ESORC_2-0)***</sup><sup>***[b](#cite_ref-ESORC_2-1)***</sup> Events of [Ruthless Competition](https://en.uesp.net/wiki/Online:Ruthless_Competition) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ESOCM_3-0) [Concordia Mercius](https://en.uesp.net/wiki/Online:Concordia_Mercius)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-TJOMD_4-0) [*The Journal of Margus Derius*](https://en.uesp.net/wiki/Online:The_Journal_of_Margus_Derius) — [Margus Derius](https://en.uesp.net/wiki/Online:Margus_Derius)
+5. ^ <sup>***[a](#cite_ref-TCS_5-0)***</sup><sup>***[b](#cite_ref-TCS_5-1)***</sup> Events of [The Cursed Skull](https://en.uesp.net/wiki/Online:The_Cursed_Skull) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) Events of [Reeling in Recruits](https://en.uesp.net/wiki/Online:Reeling_in_Recruits) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ESOSinanis_7-0) [Sinanis](https://en.uesp.net/wiki/Online:Sinanis)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*

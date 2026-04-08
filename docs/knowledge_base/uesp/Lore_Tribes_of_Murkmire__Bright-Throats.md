@@ -1,0 +1,17 @@
+#  Bright-Throats
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Tribes_of_Murkmire:_Bright-Throats) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md)* | | |
+| Prev. | None | Next | *[Ghost People](Lore_Tribes_of_Murkmire__Ghost_People.md)* |
+
+[Tribes of Murkmire](Lore_Tribes_of_Murkmire.md): Bright-Throats **by [Emmanubeth Hurrent](Lore_Books_by_Author.md#Emmanubeth_Hurrent), the Wayfarers' Society of [Wayrest](Lore_Wayrest.md)** *A description of one of the many Argonian tribes within the region of Murkmire* *
+---
+A few months ago, I asked a Miredancer elder how many tribes resided in the swamps of [Black Marsh](Lore_Black_Marsh.md). He sat quietly for a long time (as [Argonians](Lore_Argonian.md) often do) then pointed behind me. I looked back to see hundreds of torchbugs flitting between the cypress trees, piercing the gloom with flares of green and yellow light. "As many as the lights," he said.
+
+I could scarcely believe such a claim. Argonians are prone to hyperbole, so I dismissed the elder's proclamation as exaggeration. After spending more time among the natives, however, I'm starting to believe that the elder's count might be closer to accurate than I originally estimated. I have discovered at least twelve distinct tribal groups in Murkmire alone, and I'm convinced that scores more exist. Many of the local tribes are hostile, so direct contact with them is next to impossible. But I've seen far too much evidence of their existence to write them off as myth or legend. These journals will serve as a record of my discoveries as I explore the wilds of Murkmire. I shall begin with the tribe most outsiders meet first.
+
+Most outsiders who spend any time in [Lilmoth](Lore_Lilmoth.md) will likely interact with several of the coastal tribes. The most noteworthy, however, are the "Wasseek-haleel," or "[Bright-Throats](Lore_Bright-Throat_Tribe.md)." By and large, the tribe is composed of cheerful artisans who have enjoyed a fruitful relationship with both outsiders and deep-swamp Argonians. The Bright-Throats are famous for their rich music and dance tradition, as well as their preternatural talent as merchants, diplomats, and woodcarvers. While they make countless items, including musical instruments, kitchenware, armor, and weapons, they are most respected for their "xeech'kis," or "seed dolls." These figurines vary in size—sometimes as large as an [Orc](Lore_Orc.md)'s fist, sometimes as small as a single grain of rice. They almost always depict local animals, but they also carve the seed dolls to resemble eggs or tiny Argonians.
+
+Seed dolls are highly sought after—both as protective talismans and works of native art. Cheap imitations are regularly produced by rival tribes, but a genuine xeech-ki is easy to identify after handling the genuine article. I have purchased several in my time here. My favorite is a small [turtle](Lore_Turtle.md) with amber inlays. The carver told me that the turtle is a powerful but unruly totem. I never thought of turtles as particularly unruly, but the locals would know, I suppose. I plan to purchase several more before returning to [Bangkorai](Lore_Bangkorai.md) and eventually to my home in Wayrest.

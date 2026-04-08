@@ -1,0 +1,7 @@
+# Books X
+
+[Overview](Lore_Library.md) | [Numeric](Lore_Books_Numeric.md) [A](Lore_Books_A.md) [B](Lore_Books_B.md) [C](Lore_Books_C.md) [D](Lore_Books_D.md) [E](Lore_Books_E.md) [F](Lore_Books_F.md) [G](Lore_Books_G.md) [H](Lore_Books_H.md) [I](Lore_Books_I.md) [J](Lore_Books_J.md) [K](Lore_Books_K.md) [L](Lore_Books_L.md) [M](Lore_Books_M.md) [N](Lore_Books_N.md) [O](Lore_Books_O.md) [P](Lore_Books_P.md) [Q](Lore_Books_Q.md) [R](Lore_Books_R.md) [S](Lore_Books_S.md) [T](Lore_Books_T.md) [U](Lore_Books_U.md) [V](Lore_Books_V.md) [W](Lore_Books_W.md) X [Y](Lore_Books_Y.md) [Z](Lore_Books_Z.md) | [By Author](Lore_Books_by_Author.md) | [By Subject](Lore_Books_by_Subject.md) | [Mentioned Texts](Lore_Mentioned_Texts.md) | Title | Author | Description | Game(s) |
+| --- | --- | --- | --- |
+| [***Xarxes and Oghma***](Lore_Xarxes_and_Oghma.md) | [Thandelieth](Lore_Books_by_Author.md#Thandelieth) | A tale of a conversation with Xarxes and Oghma | - [ESO](https://en.uesp.net/wiki/Online:Xarxes_and_Oghma) |
+| [***Xil-Go's Spell***](Lore_Xil-Go%27s_Spell.md) | [Adzi-Kahz](Lore_Books_by_Author.md#Adzi-Kahz) | How an Argonian village fought off slavers from House Dres | - [ESO](https://en.uesp.net/wiki/Online:Xil-Go%27s_Spell) |
+| [***Xynaa's Book of Contracts***](Lore_Xynaa%27s_Book_of_Contracts.md) | [Xynaa](Lore_Books_by_Author.md#Xynaa) | A record of a Dremora's many contracts | - [ESO](https://en.uesp.net/wiki/Online:Xynaa%27s_Book_of_Contracts) ([Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))) |

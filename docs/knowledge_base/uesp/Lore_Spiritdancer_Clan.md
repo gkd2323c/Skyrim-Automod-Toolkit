@@ -1,0 +1,14 @@
+# Spiritdancer Clan
+
+[![](https://images.uesp.net/thumb/a/a5/ON-npc-Pilbira.jpg/200px-ON-npc-Pilbira.jpg)](https://en.uesp.net/wiki/File:ON-npc-Pilbira.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Pilbira.jpg) Pilbira, a Khajiit enchantress who killed a party of Spiritdancer Clan raiders Spiritdancer Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md). They used to feud with [Twisted Briar Clan](Lore_Twisted_Briar_Clan.md).<sup>[[1]](#cite_note-Pilbira-1)</sup>
+
+## History
+At some point during the sixth century of the [Second Era](Lore_Second_Era.md) the group of raiders of the Spiritdancer Clan attacked the holdings of the Twisted Briar Clan. All the raiders perished, due to the accidental intervention of the [Khajiit](Lore_Khajiit.md) enchantress Pilbira, who saved the Twisted Briar Clan and its chief.<sup>[[1]](#cite_note-Pilbira-1)</sup>
+
+Years later, in [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[2]](#cite_note-Medone-2)</sup><sup>[[3]](#cite_note-CVR-3)</sup><sup>[[4]](#cite_note-ARD-4)</sup> It is unknown whether the members of the Twisted Briar Clan decided to move to Markarth or not, but Pilbira, the Khajiit enchantress who defeated the party of raiders was a citizen of the City of Stone as of that time.<sup>[[1]](#cite_note-Pilbira-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Pilbira_1-0)***</sup><sup>***[b](#cite_ref-Pilbira_1-1)***</sup><sup>***[c](#cite_ref-Pilbira_1-2)***</sup> [Pilbira](https://en.uesp.net/wiki/Online:Pilbira)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-Medone_2-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. [^](#cite_ref-CVR_3-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-ARD_4-0) [Ard Caddach](https://en.uesp.net/wiki/Online:Ard_Caddach)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

@@ -1,0 +1,15 @@
+# Brarilu Theran
+
+| Brarilu Theran | | | |
+| --- | --- | --- | --- |
+| Race | [Dunmer](Lore_Dunmer.md) | Gender | Male |
+| Resided in | [Vvardenfell](Lore_Vvardenfell.md) <br> [Summerset Isles](Lore_Summerset_Isles.md) <br> [Akavir](Lore_Akavir.md) | | |
+
+Brarilu Theran was a [Dunmer](Lore_Dunmer.md) [mage](Lore_Magic.md) of great renown, being a masterful [pyromancer](Lore_Destruction.md) and [enchanter](Lore_Enchanting.md).<sup>[[1]](#cite_note-TS-1)</sup> He was a widely traveled individual, having been to the [Summerset Isles](Lore_Summerset_Isles.md), communing with the [Psijic Order](Lore_Psijic_Order.md) of [Artaeum](Lore_Artaeum.md), and even visiting the eastern continent of [Akavir](Lore_Akavir.md).<sup>[[1]](#cite_note-TS-1)</sup> In the waning years of his life, Brarilu found himself exploring the smoking ruins of [Red Mountain](Lore_Red_Mountain.md) where he encountered a [dragon](Lore_Dragon.md).<sup>[[1]](#cite_note-TS-1)</sup> Brarilu and the dragon did battle, with the [elf](Lore_Mer.md) defeating the great beast with his pyromancy.<sup>[[1]](#cite_note-TS-1)</sup> Brarilu offered the dragon mercy in exchange for a secret. The dragon obliged, although refused to say its name.<sup>[[1]](#cite_note-TS-1)</sup> The dragon revealed the secret method behind applying two enchantments to a single item, a technique that had been lost to the modern era.<sup>[[1]](#cite_note-TS-1)</sup> Brarilu spent two years tirelessly mastering the process, and finally was able to apply two enchantments to a sword.<sup>[[1]](#cite_note-TS-1)</sup> He embraced his death knowing he had accomplished a feat which had not been replicated in his age.<sup>[[1]](#cite_note-TS-1)</sup>
+
+Brarilu Theran's works were already available to read in [2E 582](Lore_Second_Era.md#2E_582), with evidence of the accomplished scholar Lady [Cinnabar](Lore_Cinnabar_of_Taneth.md) of [Taneth](Lore_Taneth.md) purchasing his *Twin Secrets*.<sup>[[2]](#cite_note-Receipt-2)</sup> The ability to place multiple enchantments on a single item was regarded as one of the most advanced skills in enchanting.<sup>[[3]](#cite_note-EE-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-TS_1-0)***</sup><sup>***[b](#cite_ref-TS_1-1)***</sup><sup>***[c](#cite_ref-TS_1-2)***</sup><sup>***[d](#cite_ref-TS_1-3)***</sup><sup>***[e](#cite_ref-TS_1-4)***</sup><sup>***[f](#cite_ref-TS_1-5)***</sup><sup>***[g](#cite_ref-TS_1-6)***</sup><sup>***[h](#cite_ref-TS_1-7)***</sup> [*Twin Secrets*](Lore_Twin_Secrets.md) — [Brarilu Theran](Lore_Books_by_Author.md#Brarilu_Theran)
+2. [^](#cite_ref-Receipt_2-0) [*Receipt for Arcane Tomes*](https://en.uesp.net/wiki/Online:Receipt_for_Arcane_Tomes) — [Lady Cinnabar](https://en.uesp.net/wiki/Online:Lady_Cinnabar) of [Taneth](Lore_Taneth.md)
+3. [^](#cite_ref-EE_3-0) [Extra Effect](Skyrim_Extra_Effect.md) perk in *[Skyrim](Skyrim_Skyrim.md)*

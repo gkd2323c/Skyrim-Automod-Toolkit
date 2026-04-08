@@ -1,0 +1,63 @@
+# Stalhrim
+
+[](https://en.uesp.net/wiki/File:SR-icon-misc-Stalhrim.png) [](https://en.uesp.net/wiki/File:SR-icon-misc-Stalhrim.png) Stalhrim (Skyrim) Stalhrim is a rare form of [enchanted](Lore_Enchanting.md) ice found only on the island on [Solstheim](Lore_Solstheim.md). Throughout history it has served various uses. Originally it was used in the burial rituals of ancient [Nords](Lore_Nord.md). The deceased would be encased in the material as a form of protection, a privilege that was typically reserved for Nordic individuals.<sup>[[1]](#cite_note-Fot SP-1)</sup><sup>[[2]](#cite_note-DBloading-2)</sup> It has also served as a crafting material and, with the proper tools and techniques, can be used to create weapons, armor, clothing, and even jewelry.<sup>[[3]](#cite_note-BM-3)</sup><sup>[[4]](#cite_note-4)</sup>
+
+Stalhrim armor (sometimes called ice armor) can be light, medium, or heavy in weight. It is very protective, and is often made with [steel](Lore_Steel.md) or [quicksilver](Lore_Quicksilver.md).<sup>[[3]](#cite_note-BM-3)</sup><sup>[[5]](#cite_note-DB-5)</sup> Due to its innate properties, frost enchantments placed on items made of stalhrim are more potent.<sup>[[2]](#cite_note-DBloading-2)</sup> In its raw form, it can be used as an alchemical ingredient that induces paralysis and inflicts frost damage.<sup>[[3]](#cite_note-BM-3)</sup>
+
+Stalhrim is often described as being hard as iron and impossible to break by conventional means. The only known way to mine it is with an ancient Nordic pickaxe, made from superior craftsmanship.<sup>[[2]](#cite_note-DBloading-2)</sup><sup>[[6]](#cite_note-Baldor-6)</sup> It has been described as a rigid, blue-white crystalline metal, faceted yet smooth, and unnaturally cold to touch.<sup>[[7]](#cite_note-motif-7)</sup> Working with stalhrim is much like [ebony](Lore_Ebony.md) smithing, and can only be performed by a skilled blacksmith.<sup>[[6]](#cite_note-Baldor-6)</sup>
+
+## Role in History
+Legends surrounding its creation date back to the early [First Era](Lore_First_Era.md), when the ancient [Nords](Lore_Nord.md) were at war with the [Chimer](Lore_Chimer.md). Many Nords were killed in battle, and the corpses of those who could not be returned to [Skyrim](Lore_Skyrim.md) were buried on Solstheim. Due to the threat of grave robbers and [necromancy](Lore_Necromancy.md), the Nords worked unknown magic upon the tombs of the fallen warriors to give them protection in death. It is said that energy was drawn from the land itself, and the warriors were encased in tombs of ice, which became known as stalhrim.<sup>[[8]](#cite_note-Graring-8)</sup> This practice became tradition among the ancient Nords until it eventually fell out of favor. Conflicting sources instead date the material further back to the late [Merethic Era](Lore_Merethic_Era.md).<sup>[[1]](#cite_note-Fot SP-1)</sup> In ancient times, it was believed to have been used to craft armor for kings that fought in battle.<sup>[[9]](#cite_note-DBr-9)</sup>
+
+The [Skaal](Lore_Skaal.md) consider Stalhrim to be holy and infused with divine power, and at one point shunned its usage.<sup>[[8]](#cite_note-Graring-8)</sup><sup>[[10]](#cite_note-Hidar-10)</sup><sup>[[11]](#cite_note-Aenar-11)</sup><sup>[[12]](#cite_note-BFF-12)</sup> They also believe the art of forging Stalhrim into weapons and armor is sacred, and certain members of the Skaal were charged as keepers of this ancient tradition.<sup>[[13]](#cite_note-Deor-13)</sup> As such, knowledge of stalhrim smithing is very rare and typically known only to the Skaal. However, local Nords and the warriors of [Thirsk](Lore_Thirsk.md) have also been known to possess such knowledge.<sup>[[14]](#cite_note-SRHIF-14)</sup> The [Mace of Aevar Stone-Singer](Lore_Mace_of_Aevar_Stone-Singer.md), a prized Skaal [artifact](Lore_Artifacts.md), is made from stalhrim.
+
+In the mid- [Second Era](Lore_Second_Era.md), Skaal "Frostcaster" shamans made extensive use of Stalhrim by decoratively incorporating the material into their arms and armor. These Frostcasters specialized in Frost Magic in veneration of the [All-Maker](Lore_All-Maker.md). King [Logrolf](Lore_Logrolf.md) of [Windhelm](Lore_Windhelm.md) was known to have a display of Frostcaster clothing, which was recorded by the famed Imperial Ethnographer Doctor [Alfidia Lupus](Lore_Alfidia_Lupus.md) on a visit to his Embassy.<sup>[[7]](#cite_note-motif-7)</sup>
+
+In [3E 427](Lore_Third_Era.md#3E_427), the [East Empire Company](Lore_East_Empire_Company.md) discovered a stalhrim tomb in the [Raven Rock](Lore_Raven_Rock.md) ebony mine, which had hitherto been unknown to the [Empire](Lore_Third_Empire.md). They learned of stalhrim smithing from a group of local Nords, but were not as skilled at creating stalhrim equipment and lacked an ancient Nord pickaxe. The company began producing stalhrim items, but it is unknown if this was in cooperation with the locals or an independent venture.<sup>[[3]](#cite_note-BM-3)</sup>
+
+Sometime in the [Fourth Era](Lore_Fourth_Era.md), a bonemold smith from [Riften](Lore_Riften.md) named Glover Mallory discovered an improved bonemold formula, which required ground stalhrim chips.<sup>[[15]](#cite_note-15)</sup> In [4E 201](Lore_Fourth_Era.md#4E_201), the [Thalmor](Lore_Thalmor.md) were tasked with obtaining stalhrim equipment for the re-established [Aldmeri Dominion](Lore_Aldmeri_Dominion.md). An elf named Ancarion led an expedition to Solstheim, and abducted a Skaal blacksmith for interrogation. The [Last Dragonborn](Lore_Hero.md) intervened and rescued the blacksmith, but it is unknown if the Thalmor succeeded in obtaining the equipment or not.<sup>[[5]](#cite_note-DB-5)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/bc/BM-item-Stalhrim_Deposit.jpg/200px-BM-item-Stalhrim_Deposit.jpg)](https://en.uesp.net/wiki/File:BM-item-Stalhrim_Deposit.jpg) Stalhrim deposit (Bloodmoon)
+- [![](https://images.uesp.net/thumb/8/87/BM-item-Weapons_Stalhrim.jpg/200px-BM-item-Weapons_Stalhrim.jpg)](https://en.uesp.net/wiki/File:BM-item-Weapons_Stalhrim.jpg) Stalhrim weapons (Bloodmoon)
+- [![](https://images.uesp.net/thumb/0/0c/BM-item-Ice_Armor_Male.jpg/200px-BM-item-Ice_Armor_Male.jpg)](https://en.uesp.net/wiki/File:BM-item-Ice_Armor_Male.jpg) Ice armor (Bloodmoon)
+- [![](https://images.uesp.net/thumb/8/82/SR-activity-Mining_%28Stalhrim%29.jpg/200px-SR-activity-Mining_%28Stalhrim%29.jpg)](https://en.uesp.net/wiki/File:SR-activity-Mining_(Stalhrim).jpg) Stalhrim deposit (Skyrim)
+- [![](https://images.uesp.net/thumb/9/90/SR-item-Stalhrim_Heavy_Armor_Male.jpg/200px-SR-item-Stalhrim_Heavy_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Stalhrim_Heavy_Armor_Male.jpg) Stalhrim heavy armor (Skyrim)
+- [![](https://images.uesp.net/thumb/f/ff/SR-item-Stalhrim_Light_Armor_Male.jpg/200px-SR-item-Stalhrim_Light_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Stalhrim_Light_Armor_Male.jpg) Stalhrim light armor (Skyrim)
+- [![](https://images.uesp.net/thumb/8/89/SR-item-Stalhrim_Fur_Armor_Male.jpg/200px-SR-item-Stalhrim_Fur_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Stalhrim_Fur_Armor_Male.jpg) Stalhrim Fur armor (Skyrim)
+- [![](https://images.uesp.net/thumb/3/38/ON-crown_store-Frostcaster_Style.jpg/200px-ON-crown_store-Frostcaster_Style.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Frostcaster_Style.jpg) Stalhrim armor and weapons (ESO)
+- [![](https://images.uesp.net/thumb/d/da/ON-furnishing-Brazier_of_Frozen_Flame_02.jpg/200px-ON-furnishing-Brazier_of_Frozen_Flame_02.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Brazier_of_Frozen_Flame_02.jpg) Brazier made of Stalhrim (ESO)
+- [![](https://images.uesp.net/thumb/3/3b/BL-item-Stalhrim.jpg/200px-BL-item-Stalhrim.jpg)](https://en.uesp.net/wiki/File:BL-item-Stalhrim.jpg) Stalhrim (Blades)
+- [![](https://images.uesp.net/thumb/9/96/BL-item-Stalhrim_Armor_Set.jpg/112px-BL-item-Stalhrim_Armor_Set.jpg)](https://en.uesp.net/wiki/File:BL-item-Stalhrim_Armor_Set.jpg) Stalhrim armor (Blades)
+- [](https://en.uesp.net/wiki/File:CT-icon-resource-Ingot_Stalhrim.png) Stalhrim ingot
+(Unused Castles Item)
+- [![](https://images.uesp.net/thumb/8/8d/BM-concept-Ice_Armor_02.jpg/200px-BM-concept-Ice_Armor_02.jpg)](https://en.uesp.net/wiki/File:BM-concept-Ice_Armor_02.jpg) Ice armor and bō staff concept art
+- [![](https://images.uesp.net/thumb/5/56/BM-concept-Ice_Armor.jpg/200px-BM-concept-Ice_Armor.jpg)](https://en.uesp.net/wiki/File:BM-concept-Ice_Armor.jpg) Ice armor and axe concept art
+- [![](https://images.uesp.net/thumb/9/93/BM-concept-Stalhrim_Dagger.jpg/200px-BM-concept-Stalhrim_Dagger.jpg)](https://en.uesp.net/wiki/File:BM-concept-Stalhrim_Dagger.jpg) Stalhrim dagger concept art
+- [](https://en.uesp.net/wiki/File:ON-icon-style_material-Stalhrim_Shard.png) Stalhrim Shard (ESO)
+- [](https://en.uesp.net/wiki/File:ON-icon-style_material-Stalhrim_Shard_(old).png) ESO's old Stalhrim Shard icon
+
+## Notes
+- The Shield of Stasis, a legendary stalhrim shield, is suspected to have been crafted somewhere other than on [Tamriel](Lore_Tamriel.md).<sup>[[16]](#cite_note-16)</sup>
+- The name *stalhrim* likely comes from the Icelandic words *stál* meaning *steel* and *hrím* meaning *hoarfrost/rime*, translating it to *steel-rime*.
+
+## See Also
+- For game-specific information, see the [*Bloodmoon*](https://en.uesp.net/wiki/Bloodmoon:Raw_Stalhrim), [*Skyrim*](Skyrim_Stalhrim.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Stalhrim_Shard), and [*Blades*](https://en.uesp.net/wiki/Blades:Stalhrim) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Fot SP_1-0)***</sup><sup>***[b](#cite_ref-Fot SP_1-1)***</sup> [*Fall of the Snow Prince*](Lore_Fall_of_the_Snow_Prince.md) — [Lokheim](Lore_Books_by_Author.md#Lokheim)
+2. ^ <sup>***[a](#cite_ref-DBloading_2-0)***</sup><sup>***[b](#cite_ref-DBloading_2-1)***</sup><sup>***[c](#cite_ref-DBloading_2-2)***</sup> Dragonborn [loading screen](Skyrim_Loading_Screens.md#Solstheim)
+3. ^ <sup>***[a](#cite_ref-BM_3-0)***</sup><sup>***[b](#cite_ref-BM_3-1)***</sup><sup>***[c](#cite_ref-BM_3-2)***</sup><sup>***[d](#cite_ref-BM_3-3)***</sup> Events of *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+4. [^](#cite_ref-4) [Skaal Amulet](https://en.uesp.net/wiki/Skyrim:Skaal_Amulet) in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+5. ^ <sup>***[a](#cite_ref-DB_5-0)***</sup><sup>***[b](#cite_ref-DB_5-1)***</sup> Events of *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+6. ^ <sup>***[a](#cite_ref-Baldor_6-0)***</sup><sup>***[b](#cite_ref-Baldor_6-1)***</sup> [Baldor Iron-Shaper](Skyrim_Baldor_Iron-Shaper.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+7. ^ <sup>***[a](#cite_ref-motif_7-0)***</sup><sup>***[b](#cite_ref-motif_7-1)***</sup> [*Crafting Motif 46: Frostcaster Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_46__Frostcaster_Style) — [Doctor Alfidia Lupus, Imperial Ethnographer](Lore_Books_by_Author.md#Doctor_Alfidia_Lupus)
+8. ^ <sup>***[a](#cite_ref-Graring_8-0)***</sup><sup>***[b](#cite_ref-Graring_8-1)***</sup> [Graring](https://en.uesp.net/wiki/Bloodmoon:Graring)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+9. [^](#cite_ref-DBr_9-0) [*Deathbrand*](Lore_Deathbrand.md)
+10. [^](#cite_ref-Hidar_10-0) [Hidar](https://en.uesp.net/wiki/Bloodmoon:Hidar)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+11. [^](#cite_ref-Aenar_11-0) [Aenar](https://en.uesp.net/wiki/Bloodmoon:Aenar)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+12. [^](#cite_ref-BFF_12-0) [Brazier of Frozen Flame](https://en.uesp.net/wiki/Online:Brazier_of_Frozen_Flame) Codex entries
+13. [^](#cite_ref-Deor_13-0) [Deor Woodcutter](Skyrim_Deor_Woodcutter.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+14. [^](#cite_ref-SRHIF_14-0) [Halbarn Iron-Fur](Skyrim_Halbarn_Iron-Fur.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+15. [^](#cite_ref-15) [*Bonemold Formula*](Skyrim_Bonemold_Formula.md) — [Glover Mallory](Skyrim_Glover_Mallory.md)
+16. [^](#cite_ref-16) [Shield of Stasis](https://en.uesp.net/wiki/Blades:Shield_of_Stasis) in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*

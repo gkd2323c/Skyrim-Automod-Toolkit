@@ -1,0 +1,70 @@
+# House of Dibella
+
+[![](https://images.uesp.net/thumb/1/1c/OB-Window-Dibella.jpg/165px-OB-Window-Dibella.jpg)](https://en.uesp.net/wiki/File:OB-Window-Dibella.jpg) [](https://en.uesp.net/wiki/File:OB-Window-Dibella.jpg) Dibella [![](https://images.uesp.net/1/15/DF-sign-House_of_Dibella.png)](https://en.uesp.net/wiki/File:DF-sign-House_of_Dibella.png) [](https://en.uesp.net/wiki/File:DF-sign-House_of_Dibella.png) House of Dibella *At the House of Dibella, we seek truth through beauty and the worship of the embodiment of beauty, the Goddess Dibella. Dibella smiles on those who give generously to our House. She grants charm and grace to donors. In proportion to their generosity, of course. We are always interested in new initiates to the House of Dibella, though only those possessing skills in the promotion of harmony. To be honest, very few qualify.*
+—A Follower of Dibella in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)* The House of Dibella (archaically known as the **Diblashuut**)<sup>[[UOL 1]](#cite_note-TSE-1)</sup> is the temple dedicated to [Dibella](Lore_Dibella.md) the Blessed Lady, Goddess of Beauty and Love. They are generally the place of worship for Dibella. The priests and priestesses within are epicureans and orgiasts who aspire for the beauty of the form and mind. Their establishments are known to teach healing.<sup>[[1]](#cite_note-TR-2)</sup> The Order of the Lily is the House of Dibella's militant arm, and the [Benevolence of Mara](Lore_Benevolence_of_Mara.md) is considered their allies. The House of Dibella is considered enemies of the [Akatosh Chantry](Lore_Akatosh_Chantry.md), the [Order of Arkay](Lore_Order_of_Arkay.md), and the cult of [Sanguine](Lore_Sanguine.md).<sup>[[2]](#cite_note-DFHouse-3)</sup> Members of the house are known as Dibellites.<sup>[[3]](#cite_note-ONFaric-4)</sup>
+
+## Further Information
+*Dibella says: Open your heart to the noble secrets of art and love. Treasure the gifts of friendship. Seek joy and inspiration in the mysteries of love.*
+—Seventh Command of the *[Ten Commands](https://en.uesp.net/wiki/Lore:Ten_Commands__Nine_Divines)* The House of Dibella has existed for thousands of years, roughly as far back as [1E 221](Lore_First_Era.md#1E_221). One of their everlasting missions is to preserve great works of art. And their scouts are spread across Tamriel attempting to keep this tradition. To this day, the House of Dibella has developed a detailed network of archaeologists, couriers, and dealers who are paid well in this pursuit.<sup>[[4]](#cite_note-DFDesired-5)</sup>
+
+Alabaster Dibella Statuettes depicting her emerging from her bath were produced at the House of Dibella in Anvil.<sup>[[5]](#cite_note-Contraband A-6)</sup> The House of Dibella is keep three to four milk-white [cats](Lore_Cat.md) known as the Milady's Cloud Cat in their temples. They are considered sacred to Dibella, as they are seen as her representation in the animal kingdom.<sup>[[6]](#cite_note-7)</sup> An alternate type of temple is called a Dibellaseum, a consecrated love-nest.<sup>[[3]](#cite_note-ONFaric-4)</sup>
+
+The ranks of the House of Dibella follow as such; Novice, Initiate, Acolyte, Adept, Curate, Disciple, Brother/Sister, Diviner, Master, and the Patriarch/Matriarch which typically leads the temple.<sup>[[7]](#cite_note-DFRanks-8)</sup> but in the Chapel of Dibella in [Anvil](Lore_Anvil.md), it is overseen by the Primate. That is because the parishes of [Cyrodiil](Lore_Cyrodiil.md) form together as [the Church](Lore_The_Church.md), the main body of religion in the province. Each of the primates comes together as the [Council of the Nine](Lore_Council_of_the_Nine.md) and represent their respective divine.<sup>[[8]](#cite_note-OBChana-9)</sup>
+
+The House of Dibella has chapters all over Tamriel. It was present in every region across the [Iliac Bay](Lore_Iliac_Bay.md) but the house was the main religious force in four nations; [Koegria](Lore_Koegria.md), [Menevia](Lore_Menevia_(county).md), [Pothago](Lore_Pothago.md), and [Tigonus](Lore_Tigonus_(fiefdom).md).<sup>[[2]](#cite_note-DFHouse-3)</sup> In Cyrodiil, they are based in Anvil, the province's only port on the [Abecean Sea](Lore_Abecean_Sea.md).<sup>[[9]](#cite_note-OBChapel-10)</sup> In [Skyrim](Lore_Skyrim.md), the House of Dibella occupies the temple in [Markarth](Lore_Markarth.md)<sup>[[10]](#cite_note-SRTemple-11)</sup> but it is unknown when it was established since it was previously the [Shrine of the Hunt-Father](Lore_Shrine_of_the_Hunt-Father.md) under Reach-occupied Markarth in the [Interregnum](Lore_Interregnum.md).<sup>[[11]](#cite_note-ONMarkarth-12)</sup> In [Black Marsh](Lore_Black_Marsh.md), the house runs a Dibellaseum on [Gideon](Lore_Gideon.md)'s main street, in a region of [Blackwood](Lore_Blackwood.md) where Dibella worship is historically prevalent.<sup>[[12]](#cite_note-TGTG-13)</sup>
+
+There are several sub-factions within the House of Dibella, such as the Apothecaries of Dibella and Mixers of Dibella, who sell and create potions respectively. Summoners of Dibella, who can summon [daedric princes](Lore_Daedric_Princes.md) on their summoning days for a fee, and the Teachers of Dibella, who offer training in skills that the House of Dibella take priority over in learning, which includes, [daedric](Lore_Daedric_Alphabet.md), etiquette, [illusion](Lore_Illusion.md) magic, lockpicking, long blade, the [nymph](Lore_Nymph.md) language, [orcish](Lore_Orcish.md), and [restoration](Lore_Restoration.md) magic.<sup>[[2]](#cite_note-DFHouse-3)</sup>
+
+### Order of the Lily
+The **Order of the Lily** (or the **Lily Order**) is the militant arm of the House of Dibella, known to enforce the divine's will and protect the temple with their lives. They are said to be consumed with the propagation of beauty, giving them the willpower to protect themselves sufficiently.<sup>[[13]](#cite_note-DFLily-14)</sup>
+
+### The Sibyl
+Each chapter of the temple revolves around the **Sibyl**<sup>[[14]](#cite_note-AVAYQ-15)</sup> (also spelled as **Sybil**),<sup>[[15]](#cite_note-SRHeart-16)</sup> the spiritual leader of the House of Dibella, who directly preach the will and prophecy of Dibella. The process where a new Sibyl is chosen is called the *Exalted Protocol of the Dibellan Sybil*.<sup>[[15]](#cite_note-SRHeart-16)</sup> It is said that Dibella herself will choose her Sibyl and create a [divine revelation](Lore_Sight.md) to a congregation, so they may retrieve them.<sup>[[16]](#cite_note-APAYQ-17)</sup> Sibyls occasionally use silver finger cymbals assembled with Dibellan symbols in their rituals.<sup>[[17]](#cite_note-ESOC-18)</sup> In Markarth the position of Sybil was typically given to a [Reachwoman](Lore_Reachfolk.md) selected as a child to spend her whole life in devotion and communion with the goddess.<sup>[[18]](#cite_note-PRIMA-19)</sup><sup>:332</sup>
+
+#### Known Sibyls
+- [Augustine Viliane](Lore_Augustine_Viliane.md) — Lived in [Wayrest](Lore_Wayrest.md) during the [Interregnum](Lore_Interregnum.md), in [2E 582](Lore_Second_Era.md#2E_582).<sup>[[19]](#cite_note-DMa R-20)</sup>
+- Unnamed Sibyl — Lived in Gideon circa [2E 582](Lore_Second_Era.md#2E_582), Sister Sibyl of Augustine Viliane<sup>[[14]](#cite_note-AVAYQ-15)</sup>
+- Lady Siquine — Lived in [Camlorn](Lore_Camlorn.md) circa [2E 582](Lore_Second_Era.md#2E_582)<sup>[[14]](#cite_note-AVAYQ-15)</sup>
+- Unnamed Reachfolk Sibyl — Lived in [Markarth](Lore_Markarth.md), but died in [4E 201](Lore_Fourth_Era.md#4E_201)<sup>[[15]](#cite_note-SRHeart-16)</sup><sup>[[18]](#cite_note-PRIMA-19)</sup><sup>:332</sup>
+- [Fjotra](Lore_Fjotra.md) — Lived in [Karthwasten](Lore_Karthwasten.md) and was brought to the House of Dibella in Markarth in 4E 201.<sup>[[15]](#cite_note-SRHeart-16)</sup>
+
+## Known Primates
+- The **Third Era** - Dumania Jirich *(3E ? – [3E 433](Lore_Third_Era.md#3E_433))<sup>[[20]](#cite_note-OBJirich-21)</sup>*
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/7e/OB-place-Great_Chapel_of_Dibella.jpg/200px-OB-place-Great_Chapel_of_Dibella.jpg)](https://en.uesp.net/wiki/File:OB-place-Great_Chapel_of_Dibella.jpg) The Great Chapel of Dibella in Anvil
+- [![](https://images.uesp.net/thumb/5/5d/SR-interior-Temple_of_Dibella.jpg/200px-SR-interior-Temple_of_Dibella.jpg)](https://en.uesp.net/wiki/File:SR-interior-Temple_of_Dibella.jpg) The Temple of Dibella in Markarth
+- [![](https://images.uesp.net/thumb/b/bc/ON-place-Temple_of_Dibella.jpg/200px-ON-place-Temple_of_Dibella.jpg)](https://en.uesp.net/wiki/File:ON-place-Temple_of_Dibella.jpg) The Temple of Dibella in Gideon
+- [![](https://images.uesp.net/thumb/f/f7/ON-place-Great_Chapel_of_Dibella_Dancers.jpg/200px-ON-place-Great_Chapel_of_Dibella_Dancers.jpg)](https://en.uesp.net/wiki/File:ON-place-Great_Chapel_of_Dibella_Dancers.jpg) Dancers in the House of Dibella
+- [![](https://images.uesp.net/thumb/9/97/ON-npc-Sibyl_Augustine_Viliane.jpg/200px-ON-npc-Sibyl_Augustine_Viliane.jpg)](https://en.uesp.net/wiki/File:ON-npc-Sibyl_Augustine_Viliane.jpg) Sibyl Augustine Viliane
+- [![](https://images.uesp.net/thumb/f/f2/ON-pet-Milady%27s_Cloud_Cat.jpg/200px-ON-pet-Milady%27s_Cloud_Cat.jpg)](https://en.uesp.net/wiki/File:ON-pet-Milady%27s_Cloud_Cat.jpg) The Milady's Cloud Cat
+
+## See Also
+- For game-specific information on the temple, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:House_of_Dibella).
+- For game-specific information on the knightly order, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Order_of_the_Lily).
+
+## References
+1. [^](#cite_ref-TR_2-0) [*The Refugees*](Lore_The_Refugees.md) — [Geros Albreigh](Lore_Books_by_Author.md#Geros_Albreigh)
+2. ^ <sup>***[a](#cite_ref-DFHouse_3-0)***</sup><sup>***[b](#cite_ref-DFHouse_3-1)***</sup><sup>***[c](#cite_ref-DFHouse_3-2)***</sup> [House of Dibella](https://en.uesp.net/wiki/Daggerfall:House_of_Dibella) faction in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. ^ <sup>***[a](#cite_ref-ONFaric_4-0)***</sup><sup>***[b](#cite_ref-ONFaric_4-1)***</sup> [Faric Gemain](https://en.uesp.net/wiki/Online:Faric_Gemain)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Blackwood](https://en.uesp.net/wiki/Online:Blackwood_(Chapter))*
+4. [^](#cite_ref-DFDesired_5-0) [Desired Artwork](https://en.uesp.net/wiki/Daggerfall:Desired_Artwork) faction quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+5. [^](#cite_ref-Contraband A_6-0) [Alabaster Dibella Statuette](https://en.uesp.net/wiki/Online:Contraband_A#Alabaster_Dibella_Statuette) contraband text in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))*
+6. [^](#cite_ref-7) [The Elder Scrolls Online – Crown Store Showcase (Pet)](https://en.uesp.net/wiki/Lore:Elder_Scrolls_Online_-_Crown_Store_Showcase_Pets#Milady.27s_White_Cat)
+7. [^](#cite_ref-DFRanks_8-0) [Ranks](https://en.uesp.net/wiki/Daggerfall:House_of_Dibella#Ranks) in the House of Dibella in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+8. [^](#cite_ref-OBChana_9-0) [Chana Mona](https://en.uesp.net/wiki/Oblivion:Chana_Mona)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+9. [^](#cite_ref-OBChapel_10-0) [Chapel of Dibella](https://en.uesp.net/wiki/Oblivion:Chapel_of_Dibella) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+10. [^](#cite_ref-SRTemple_11-0) [Temple of Dibella](Skyrim_Temple_of_Dibella.md) in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-ONMarkarth_12-0) [Markarth](https://en.uesp.net/wiki/Online:Markarth) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+12. [^](#cite_ref-TGTG_13-0) [*Traveler's Guide to Gideon*](Lore_Traveler%27s_Guide_to_Gideon.md) — [Astinia Isauricus](Lore_Books_by_Author.md#Astinia_Isauricus); Published 22 Frost Fall, [2E 570](Lore_Second_Era.md#2E_570)
+13. [^](#cite_ref-DFLily_14-0) [Order of the Lily](https://en.uesp.net/wiki/Daggerfall:Order_of_the_Lily) faction in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+14. ^ <sup>***[a](#cite_ref-AVAYQ_15-0)***</sup><sup>***[b](#cite_ref-AVAYQ_15-1)***</sup><sup>***[c](#cite_ref-AVAYQ_15-2)***</sup> [*Augustine Viliane Answers Your Questions*](Lore_Augustine_Viliane_Answers_Your_Questions.md) — Sibyl [Augustine Viliane](Lore_Augustine_Viliane.md)
+15. ^ <sup>***[a](#cite_ref-SRHeart_16-0)***</sup><sup>***[b](#cite_ref-SRHeart_16-1)***</sup><sup>***[c](#cite_ref-SRHeart_16-2)***</sup><sup>***[d](#cite_ref-SRHeart_16-3)***</sup> [The Heart of Dibella](Skyrim_The_Heart_of_Dibella.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+16. [^](#cite_ref-APAYQ_17-0) [*Artorius Ponticus Answers Your Questions*](Lore_Artorius_Ponticus_Answers_Your_Questions.md) — [Bishop Artorius Ponticus](Lore_Artorius_Ponticus.md)
+17. [^](#cite_ref-ESOC_18-0) [Dibellan Sibyl Finger Cymbals](https://en.uesp.net/wiki/Online:Contraband_D#Dibellan_Sibyl_Finger_Cymbals) contraband text in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))*
+18. ^ <sup>***[a](#cite_ref-PRIMA_19-0)***</sup><sup>***[b](#cite_ref-PRIMA_19-1)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+19. [^](#cite_ref-DMa R_20-0) [*Dibella's Mysteries and Revelations*](https://en.uesp.net/wiki/Lore:Dibella%27s_Mysteries_and_Revelations) — [Sibyl Augustine Viliane](Lore_Augustine_Viliane.md)
+20. [^](#cite_ref-OBJirich_21-0) [Dumania Jirich](https://en.uesp.net/wiki/Oblivion:Dumania_Jirich) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-TSE_1-0) [*The Shonni-etta*](https://en.uesp.net/wiki/General:The_Shonni-etta)

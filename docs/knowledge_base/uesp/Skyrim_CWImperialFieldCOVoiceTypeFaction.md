@@ -1,0 +1,3 @@
+# CWImperialFieldCOVoiceTypeFaction
+
+Redirects to [CWImperialFieldCOVoiceTypeFaction](Skyrim_Factions_C.md#CWImperialFieldCOVoiceTypeFaction).

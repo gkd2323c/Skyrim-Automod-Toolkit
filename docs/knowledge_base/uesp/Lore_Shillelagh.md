@@ -1,0 +1,13 @@
+# Shillelagh
+
+[](https://en.uesp.net/wiki/File:ON-icon-quest-Knobby_Stick.png) [](https://en.uesp.net/wiki/File:ON-icon-quest-Knobby_Stick.png) A shillelagh [![](https://images.uesp.net/thumb/4/42/ON-quest-Vows_and_Oaths_04.jpg/200px-ON-quest-Vows_and_Oaths_04.jpg)](https://en.uesp.net/wiki/File:ON-quest-Vows_and_Oaths_04.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Vows_and_Oaths_04.jpg) Barth's shillelagh Shillelaghs (also called **knobby sticks**) are tools functioning as walking sticks, dueling [weapons](Lore_Weapons.md), and clubs.<sup>[[1]](#cite_note-MQI-1)</sup><sup>[[2]](#cite_note-Madearn-2)</sup>
+
+Some [Vateshrans](Lore_Vateshrans.md), a caste of [Reachfolk](Lore_Reachfolk.md) historians and storytellers, were known to carry shillelaghs. [Barth](Lore_Barth.md), a particularly famous Vateshran from the [Second Era](Lore_Second_Era.md), was among the wielders of shillelagh.<sup>[[1]](#cite_note-MQI-1)</sup><sup>[[2]](#cite_note-Madearn-2)</sup> One such weapon was found in his camp circa [2E 582](Lore_Second_Era.md#2E_582) when Eslyn and Madearn of the [Eagleseer](Lore_Eagleseer_Clan.md) and [Six-Ford](Lore_Six-Ford_Clan.md) [clans](Lore_Reachfolk_Clans.md) sought him to mediate the long-standing feud between their clans.<sup>[[3]](#cite_note-VAO-3)</sup> It was noted that it was unusual for him to have left it behind.<sup>[[2]](#cite_note-Madearn-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Markarth_Quest_Items#Knobby_Stick) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-MQI_1-0)***</sup><sup>***[b](#cite_ref-MQI_1-1)***</sup> [Knobby Stick](https://en.uesp.net/wiki/Online:Markarth_Quest_Items#Knobby_Stick) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-Madearn_2-0)***</sup><sup>***[b](#cite_ref-Madearn_2-1)***</sup><sup>***[c](#cite_ref-Madearn_2-2)***</sup> [Madearn](https://en.uesp.net/wiki/Online:Madearn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. [^](#cite_ref-VAO_3-0) Events of [Vows and Oaths](https://en.uesp.net/wiki/Online:Vows_and_Oaths) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

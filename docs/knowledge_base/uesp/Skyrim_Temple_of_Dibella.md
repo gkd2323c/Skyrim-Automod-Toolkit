@@ -1,0 +1,55 @@
+# Temple of Dibella
+
+| --- |
+
+| \| Temple: <br> Temple of Dibella <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Temple+of+Dibella)) \| <br> \| --- \| | Temple: <br> Temple of Dibella <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Temple+of+Dibella)) |
+| --- | --- |
+| Temple: <br> Temple of Dibella <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Temple+of+Dibella)) | |
+| # of Zones | 2 |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days |
+| Important Treasure | |
+| *[2920, Sun's Dawn, v2](https://en.uesp.net/wiki/Skyrim:2920,_Sun%27s_Dawn,_v2)* <br> [Statue to Dibella](Skyrim_Statue_of_Dibella.md) | |
+| Console Location Code(s) | |
+| Markarth Templeof Dibella <br> Markarth Temple Inner Sanctum | |
+| Region | |
+| [The Reach](Skyrim_The_Reach.md) | |
+| Location | |
+| [Markarth](Skyrim_Markarth.md) | |
+
+[![](https://images.uesp.net/thumb/6/62/SR-place-Temple_of_Dibella.jpg/200px-SR-place-Temple_of_Dibella.jpg)](https://en.uesp.net/wiki/File:SR-place-Temple_of_Dibella.jpg) [](https://en.uesp.net/wiki/File:SR-place-Temple_of_Dibella.jpg) Temple of Dibella The **Temple of Dibella** is a small [Aedric](https://en.uesp.net/wiki/Lore:Aedra) temple dedicated to [Dibella](https://en.uesp.net/wiki/Lore:Dibella), the Aedric goddess of love, beauty, and artistry. It is located in the center of [Markarth](Skyrim_Markarth.md) above the [Shrine of Talos](Skyrim_Shrine_of_Talos.md), reached by climbing many flights of stairs. It is home to the [priestesses](https://en.uesp.net/wiki/Skyrim:Priest) of Dibella, led by [Hamal](Skyrim_Hamal.md).
+
+The temple consists of two zones: *[Temple of Dibella](#Temple_of_Dibella)* and *[Inner Sanctum](#Inner_Sanctum)*.
+
+## Residents
+| Residents |
+| --- |
+| [Anwen](Skyrim_Anwen.md) [Fjotra](Skyrim_Fjotra.md) * [Hamal](Skyrim_Hamal.md) [](Skyrim_Trainers.md) [![Enchanting (Master)](https://images.uesp.net/thumb/d/dc/SR-skill-Enchanting_bw.png/22px-SR-skill-Enchanting_bw.png)](Skyrim_Enchanting.md) [Orla](Skyrim_Orla.md) [Senna](Skyrim_Senna.md) |
+
+* Only moves here after completing [The Heart of Dibella](Skyrim_The_Heart_of_Dibella.md)
+
+## Related Quests
+- **[Speak to Degaine](https://en.uesp.net/wiki/Skyrim:Speak_to_Degaine)**: Ask a [beggar](Skyrim_Degaine.md) about money.
+- **[The Heart of Dibella](Skyrim_The_Heart_of_Dibella.md)**: Find a new [Sybil](Skyrim_Fjotra.md) for the Temple of Dibella.
+- **[A Night To Remember](https://en.uesp.net/wiki/Skyrim:A_Night_To_Remember)**: Find your lost friend, [Sam](https://en.uesp.net/wiki/Skyrim:Sam_Guevenne), as you recover from a bad hangover.
+
+## Temple of Dibella
+[![](https://images.uesp.net/thumb/5/5d/SR-interior-Temple_of_Dibella.jpg/200px-SR-interior-Temple_of_Dibella.jpg)](https://en.uesp.net/wiki/File:SR-interior-Temple_of_Dibella.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Temple_of_Dibella.jpg) The temple's interior The first time that you enter, you will be approached by [Senna](Skyrim_Senna.md), who will advise you that "the temple is closed, but you may still receive your blessing from Dibella"—unless you enter the temple for the first time after participating in a drinking contest with [Sam Guevenne](https://en.uesp.net/wiki/Skyrim:Sam_Guevenne); see the related [quest](https://en.uesp.net/wiki/Skyrim:A_Night_To_Remember) for details.
+
+There are statues of Dibella on either side of the entrance corridor and against each of the four pillars around the main chamber, which is used for worshipping and contains a stone pool filled with holy water on a raised platform in the center. It is classed as her altar where you will be required to prostrate yourself to receive your reward the [Agent of Dibella](Skyrim_Agent_of_Dibella.md) passive ability, once you have completed [The Heart of Dibella](Skyrim_The_Heart_of_Dibella.md) quest. Around the room are several stone shelves, sacks, hanging racks, and baskets holding both raw and cooked [foodstuffs](Skyrim_Food.md), including [rabbits](Skyrim_Rabbit_(dead).md), [salmon](Skyrim_Salmon_(dead).md), [sweet rolls](https://en.uesp.net/wiki/Skyrim:Sweet_Roll), a [raw rabbit leg](https://en.uesp.net/wiki/Skyrim:Raw_Rabbit_Leg), [vegetables](Skyrim_Food.md#Fruit.2FVegetables); also bottles of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine) and [wine](https://en.uesp.net/wiki/Skyrim:Wine). There are also many [ingredients](Skyrim_Ingredients.md) used in alchemical preparation, as listed below; all these have been left as offerings. In the center of the north wall is a stone shelf with a [draught of strength](https://en.uesp.net/wiki/Skyrim:Draught_of_Strength) hidden behind a jug. All of the crockery throughout the temple is of the highest quality and, once the related quest is completed, they are free to take, along with all the other low value items. In the center of the south wall is a [shrine of Dibella](https://en.uesp.net/wiki/Skyrim:Shrine_of_Dibella), granting the [Blessing of Dibella](Skyrim_Blessing_of_Dibella.md) (a +10 [bonus to Speech](Skyrim_Fortify_Persuasion.md)) and removing any [diseases](https://en.uesp.net/wiki/Skyrim:Diseases). During [A Night To Remember](https://en.uesp.net/wiki/Skyrim:A_Night_To_Remember), there will also be two bottles of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine), a [giant's toe](Skyrim_Giant%27s_Toe.md), and a [note](https://en.uesp.net/wiki/Skyrim:Repair_Supplies) on the floor, which you will need to take as part of the quest unless you pass a speech check with Senna. Until The Heart of Dibella is finished, the four aforementioned items during A Night To Remember are the only ones you can take for free.
+
+| Ingredients: - 3 [Elves Ear](Skyrim_Elves_Ear.md) <br> - 2 [Frost Mirriam](Skyrim_Frost_Mirriam.md) <br> - 4 [Garlic](Skyrim_Garlic.md) <br> - 3 [Juniper Berries](https://en.uesp.net/wiki/Skyrim:Juniper_Berries) <br> - 1 [Lavender](Skyrim_Lavender.md) <br> - 1 [Tundra Cotton](https://en.uesp.net/wiki/Skyrim:Tundra_Cotton) <br> - 1 [Wheat](Skyrim_Wheat.md) |
+| --- |
+
+## Inner Sanctum
+The door leading to the Inner Sanctum is expert-locked, beyond which are several flights of stairs leading down to closed door. Beyond this is the main room where, on your first visit, the other priestesses are performing a ceremony known as the "Exalted Protocol of the Dibellan Sybil", which enables them to locate the next Sybil.
+
+On the right is a small area with many food sacks and barrels. Down a few steps is a stone table with an unlocked [chest](https://en.uesp.net/wiki/Skyrim:Chest), a bottle of alto wine, and some [bread](https://en.uesp.net/wiki/Skyrim:Bread), cheese and [green apples](https://en.uesp.net/wiki/Skyrim:Green_Apple). Beside this are more sacks and a basket containing a couple of cheese wheels. On the left of the entrance is a barrel containing ingredients and a path behind where the priestesses sit. There is a dresser on your right with a [dragon's tongue](https://en.uesp.net/wiki/Skyrim:Dragon%27s_Tongue) flower, a medium [coin purse](https://en.uesp.net/wiki/Skyrim:Coin_Purse), two [gold](Skyrim_Gold.md) coins, and a [silver emerald necklace](https://en.uesp.net/wiki/Skyrim:Silver_Emerald_Necklace). Further along on the left is a stone shelf with another medium coin purse and a [steel dagger](https://en.uesp.net/wiki/Skyrim:Steel_Dagger) on top. Past this is a second dresser containing [clothes](Skyrim_Clothes.md). At the far end are more food sacks and opposite in the western corner is another small area with a barrel containing ingredients and a set of shelves holding several cheese wheels, several [potatoes](https://en.uesp.net/wiki/Skyrim:Potato), and a [cabbage](https://en.uesp.net/wiki/Skyrim:Cabbage).
+
+Down the center of the room is a path with two sets of shelves at either end opposite each other. There is a circle of stone chairs around a table and with the high priestesses chair on a raised section against the north wall. On the table in the center of the chairs is a bowl containing a filled [greater soul gem](https://en.uesp.net/wiki/Skyrim:Greater_Soul_Gem). The first set of shelves on the left hold a bottle of wine, a [potion of extra magicka](https://en.uesp.net/wiki/Skyrim:Potion_of_Extra_Magicka), a bowl containing an empty [common soul gem](https://en.uesp.net/wiki/Skyrim:Common_Soul_Gem), a [potion of healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Healing), three dragon's tongue flowers, a small coin purse, three gold coins, a [flawless amethyst](https://en.uesp.net/wiki/Skyrim:Flawless_Amethyst), and a [flawless sapphire](https://en.uesp.net/wiki/Skyrim:Flawless_Sapphire). Opposite the shelves hold a [deathbell](https://en.uesp.net/wiki/Skyrim:Deathbell) flower, a bunch of juniper berries, a [gourd](https://en.uesp.net/wiki/Skyrim:Gourd), a [solution of strength](https://en.uesp.net/wiki/Skyrim:Solution_of_Strength), a sprig of [snowberries](Skyrim_Snowberries.md), a bunch of [tundra cotton](https://en.uesp.net/wiki/Skyrim:Tundra_Cotton), a [potion of minor stamina](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Stamina), a bottle of alto wine and a [potion of magicka](https://en.uesp.net/wiki/Skyrim:Potion_of_Magicka).
+
+At the far end the set of shelves on the left holds a bottle of wine, a filled common soul gem, two pieces of cheese, sixteen common books, copies of *[Ghosts in the Storm](https://en.uesp.net/wiki/Skyrim:Ghosts_in_the_Storm)*, *[Mystery of Talara, v5](https://en.uesp.net/wiki/Skyrim:Mystery_of_Talara,_v5)*, *[The Tale of Dro'Zira](https://en.uesp.net/wiki/Skyrim:The_Tale_of_Dro%27Zira)* and a copy of the [Illusion](Skyrim_Illusion.md) [skill book](Skyrim_Skill_Books.md) *[2920, Sun's Dawn, v2](https://en.uesp.net/wiki/Skyrim:2920,_Sun%27s_Dawn,_v2)*. The shelves on the right hold a bottle of [poison](Skyrim_Poison.md), a potion of minor stamina, two [hagraven claws](https://en.uesp.net/wiki/Skyrim:Hagraven_Claw), a bottle of alto wine, a steel dagger, a dragon's tongue flower, a bottle of wine, and a [draught of health](https://en.uesp.net/wiki/Skyrim:Draught_of_Health).
+
+At the western end of the room, through another level-locked door, down a flight of stairs is another room, containing the [Statue to Dibella](Skyrim_Statue_of_Dibella.md) that [Degaine](Skyrim_Degaine.md) want you to steal. This must be completed prior to speaking with [Hamal](Skyrim_Hamal.md) and her instructing you to go to their new Sybil and to escort her to the temple unharmed. The room contains a central stone table with stone chairs at either end unusually facing away from the table with three empty [petty soul gems](https://en.uesp.net/wiki/Skyrim:Petty_Soul_Gem) and a [Dwarven dagger](https://en.uesp.net/wiki/Skyrim:Dwarven_Dagger) on top and at the rear of the room a plinth with the statue on top.
+
+## Notes
+- Version 4.1.2 of the [Unofficial Skyrim Special Edition Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Skyrim_Special_Edition_Patch) replaces the 2 bottles of Alto Wine in the temple during A Night To Remember with Holy Water.

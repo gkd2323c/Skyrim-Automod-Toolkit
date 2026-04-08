@@ -1,0 +1,19 @@
+# Remnants
+
+[](https://en.uesp.net/wiki/File:SR-icon-armor-Remnant_Shield.png) [](https://en.uesp.net/wiki/File:SR-icon-armor-Remnant_Shield.png) Remnant Shield The Remnants, also known as the **Eyes that Watch**,<sup>[[1]](#cite_note-FLt P-1)</sup> are a [Redguard](Lore_Redguard.md) network of warriors and spies from [Hammerfell](Lore_Hammerfell.md) that operate in [Skyrim](Lore_Skyrim.md) and elsewhere. Their main purpose is to make sure the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) and the [Thalmor](Lore_Thalmor.md) follow the terms and conditions set forth by the [Second Treaty of Stros M'Kai](Lore_Second_Treaty_of_Stros_M%27Kai.md), after their retreat from Hammerfell. To that end, they have agents stationed in Skyrim to keep an eye on the Thalmor.<sup>[[2]](#cite_note-FI-2)</sup><sup>[[3]](#cite_note-Interception-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d5/SR-npc-Fijeh.jpg/200px-SR-npc-Fijeh.jpg)](https://en.uesp.net/wiki/File:SR-npc-Fijeh.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Fijeh.jpg) Fiejh, Leader of the Remnants (Skyrim) For many decades, the Remnants claimed to have helped "steer the destiny of Hammerfell" throughout the [Fourth Era](Lore_Fourth_Era.md).<sup>[[1]](#cite_note-FLt P-1)</sup> A number of Remnants agents were stationed in Skyrim following [4E 180](Lore_Fourth_Era.md#4E_180) that have lived there ever since.<sup>[[2]](#cite_note-FI-2)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), the [Last Dragonborn](Lore_Last_Dragonborn.md)'s skill set drew the attention of the Remnant's leader, Fijeh, at [Shor's Stone](Lore_Shor%27s_Stone.md). The hero was recruited to aid in the capture of a traitor by the name of Ismal, a noble that was aiding the Thalmor, as well as the investigation of one of the Remnant's missing agents.<sup>[[1]](#cite_note-FLt P-1)</sup><sup>[[3]](#cite_note-Interception-3)</sup> The investigation led to the discovery that the Thalmor kidnapped the agent, and planned to move him from Hammerfell into [Blacklight](Lore_Blacklight.md).<sup>[[4]](#cite_note-JN-4)</sup> Before that happened, the Last Dragonborn intercepted the wagon in Skyrim near Sunderstone Gorge.<sup>[[5]](#cite_note-SN-5)</sup><sup>[[3]](#cite_note-Interception-3)</sup> For dealing with the traitor and rescuing the agent, the Last Dragonborn was bestowed with the Remnants arms and armor, and kept the artifact [Boneshaver](Lore_Boneshaver.md) they looted from Ismal.<sup>[[3]](#cite_note-Interception-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/b0/SR-prerelease-Redguard_Elite_Armaments.png/200px-SR-prerelease-Redguard_Elite_Armaments.png)](https://en.uesp.net/wiki/File:SR-prerelease-Redguard_Elite_Armaments.png) Remnant Agents (Skyrim)
+- [![](https://images.uesp.net/thumb/e/e9/SR-prerelease-Redguard_Elite_Armaments_04.png/200px-SR-prerelease-Redguard_Elite_Armaments_04.png)](https://en.uesp.net/wiki/File:SR-prerelease-Redguard_Elite_Armaments_04.png) Remnant Agent (Skyrim)
+
+## References
+1. ^ <sup>***[a](#cite_ref-FLt P_1-0)***</sup><sup>***[b](#cite_ref-FLt P_1-1)***</sup><sup>***[c](#cite_ref-FLt P_1-2)***</sup> [*Fijeh's Letter to*](Skyrim_Fijeh%27s_Letter_to_(Player).md) — [Fijeh](Skyrim_Fijeh.md)
+2. ^ <sup>***[a](#cite_ref-FI_2-0)***</sup><sup>***[b](#cite_ref-FI_2-1)***</sup> [*Fijeh's Instructions*](Skyrim_Fijeh%27s_Instructions.md) — [Fijeh](Skyrim_Fijeh.md)
+3. ^ <sup>***[a](#cite_ref-Interception_3-0)***</sup><sup>***[b](#cite_ref-Interception_3-1)***</sup><sup>***[c](#cite_ref-Interception_3-2)***</sup><sup>***[d](#cite_ref-Interception_3-3)***</sup> Events of [Interception](Skyrim_Interception.md) in *[Skyrim](Skyrim_Skyrim.md)*
+4. [^](#cite_ref-JN_4-0) [*Josla's Note*](Skyrim_Josla%27s_Note.md) — [Josla](Skyrim_Josla.md)
+5. [^](#cite_ref-SN_5-0) [*Sirayar's Note*](https://en.uesp.net/wiki/Skyrim:Sirayar%27s_Note) — [Sirayar](https://en.uesp.net/wiki/Skyrim:Sirayar)

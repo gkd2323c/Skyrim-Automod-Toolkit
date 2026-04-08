@@ -1,0 +1,23 @@
+# The Chronicles of King Kurog, Book IV
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Chronicles_of_King_Kurog,_Book_IV) ([Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))) | | |
+| Up | *[The Chronicles of King Kurog](Lore_The_Chronicles_of_King_Kurog.md)* | | |
+| Prev. | *[Book III](Lore_The_Chronicles_of_King_Kurog,_Book_III.md)* | Next | *[Book V](Lore_The_Chronicles_of_King_Kurog,_Book_V.md)* |
+
+[The Chronicles of King Kurog](Lore_The_Chronicles_of_King_Kurog.md), Book IV **by [Zephrine Frey](Lore_Books_by_Author.md#Zephrine_Frey), Chronicler of [Wayrest](Lore_Wayrest.md)** *A Covenant spy recounts Kurog gro-Bagrakh's rise to power*
+---
+As the years went by, I was often used as an intermediary between King [Emeric](Lore_Emeric.md) and Chief [Kurog](Lore_Kurog.md). Because of this, and due to my ongoing friendship with the chief, I was privy to many of the most significant events in Kurog's life. And not only to the events, but also to Kurog's thoughts and feelings, because he continued to trust me and utilize me as a confidant, even writing to me when we were in different parts of the continent. (But, sadly, no. I never took him up on his offer to become one of his wives. Kurog began to collect wives early in his chiefdom, not unlike a stable master collects horses. But that's a tale for another day.)
+
+Kurog spent a few years consolidating his power, growing his clan and forming alliances with clan chiefs that were willing to support his goals and ideals. It was about this time that Kurog revealed the details of his grand vision. "I will follow in the footsteps of mighty [Yashnag](Lore_Yashnag.md) and march into [Skyrim](Lore_Skyrim.md)," he wrote to me. "I will restore the [Orcish](Lore_Orc.md) kingdom in [Falkreath](Lore_Falkreath_Hold.md) and create an Orcish city to rival the wondrous [Wayrest](Lore_Wayrest.md)." While Kurog was busy to the north, King Emeric was dealing with issues in central [High Rock](Lore_High_Rock.md). King [Ranser](Lore_Ranser.md) of [Shornhelm](Lore_Shornhelm.md) had declared war against Wayrest. After a clandestine meeting with the king, I decided I had to make one more trip to stand at Kurog's side.
+
+I caught up with Kurog near [Dragonstar](Lore_Dragonstar.md), as his forces were accumulating in the [mountains](Lore_Druadach_Mountains.md) of [western Skyrim](Lore_Western_Skyrim.md). They were having a more difficult time of it than Kurog had anticipated. The [Nords](Lore_Nord.md), wracked as they were by civil war, nonetheless proved to be capable and courageous fighters. The path to Falkreath was long and arduous, and the rock and snow were going to be bathed in the blood of warriors from both sides before this campaign was done. I sat with Kurog one night, watching the roaring fire, when the clan chief opened up as he did during our times together back in [Elsweyr](Lore_Elsweyr.md).
+
+"These damn Nords," Kurog said, "if they had a shred of decency they'd put down their weapons and get out of our way. But no. The clans that aren't fighting us are trying to bribe us to aid their cause. They don't see us as conquerors. They think we're mercenaries! I'm beginning to think that my Falkreath dream is going to be crushed by all this snow and ice. Damn the Nords and damn their foul mead!"
+
+I placed a hand on Kurog's knee and said softly, "What if I offered you a different, better dream? And the authority to make that dream a reality?" Kurog looked at me for a long time. Then he stood, towering over me, and demanded to know what I was talking about. Instead, I reached into my traveling cloak, withdrew a leather document pouch, and handed it to him. He read the contents by the light of the fire. Read it again. And a third time. Then he asked me if this was some sort of trick. I assured him that it wasn't a trick. It was an offer. "You help King Emeric, and King Emeric helps you," I said, and the two of us talked long into the deepening night.
+
+In the morning, Kurog had a list of demands for me to take back to Wayrest. I was impressed. He was driving a hard bargain, but he was also offering King Emeric the power necessary to end [Ranser's War](Lore_Ranser%27s_War.md) in one fell stroke. I told him I would get the documents to King Emeric as quickly as possible. In return, he promised that his army would be ready and waiting for Emeric's signal—but they would not make a move until the signed documents were in Kurog's hands.
+
+And that was how the Orcs joined the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) and Kurog became the King of [Wrothgar](Lore_Wrothgar.md).

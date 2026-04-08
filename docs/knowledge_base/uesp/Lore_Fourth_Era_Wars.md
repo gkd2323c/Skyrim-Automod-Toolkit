@@ -1,0 +1,49 @@
+# Fourth Era Wars
+
+
+## The Accession War
+[4E 6](Lore_Fourth_Era.md#4E_6)<sup>[[1]](#cite_note-1)</sup>
+
+The [Accession War](Lore_Accession_War.md), more commonly known as the [Argonian Invasion](Lore_Accession_War.md) was a war waged by the [Argonian](Lore_Argonian.md) [An-Xileel](Lore_An-Xileel.md) against the [Dunmer](Lore_Dunmer.md) [Houses](https://en.uesp.net/wiki/Lore:Great_Houses) of [Morrowind](Lore_Morrowind.md) in the immediate aftermath of the [Red Year](Lore_Red_Year.md) of [4E 5](Lore_Fourth_Era.md#4E_5). The invasion devastated much of southern and eastern Morrowind, including the capital city of [Mournhold](Lore_Mournhold.md), and almost led to the complete destruction of [House Telvanni](Lore_House_Telvanni.md) and temporary occupation of much of Morrowind. The war would compound the ongoing alteration of the political dynamics of Morrowind and result in the solidification of [House Redoran](Lore_House_Redoran.md) as the dominant power in Morrowind.
+
+## Night of Green Fire
+[4E 42](Lore_Fourth_Era.md#4E_42)
+
+The [Night of Green Fire](Lore_Night_of_Green_Fire.md) occurred in [4E 42](Lore_Fourth_Era.md#4E_42), when the [Thalmor](Lore_Thalmor.md) attacked [Altmer](Lore_Altmer.md) dissident refugees who had fled persecution in [Alinor](Lore_Summerset_Isles.md) and were living in the city of [Sentinel](Lore_Sentinel.md), in [Hammerfell](Lore_Hammerfell.md). According to a [Legion](Lore_Imperial_Legion.md) officer claiming to be an eyewitness, there was an explosion of magic in the refugee quarter, where Thalmor mages were attacking the Altmer dissidents who, in turn, were resisting with magic of their own. Running to the scene with other Legionaries who were stationed there, the eyewitness found the entire refugee quarter a smoking ruin, and that everyone had been slaughtered.
+
+## Umbriel Crisis
+[![](https://images.uesp.net/thumb/0/0d/BK-cover-cropped-The_Infernal_City.jpg/200px-BK-cover-cropped-The_Infernal_City.jpg)](https://en.uesp.net/wiki/File:BK-cover-cropped-The_Infernal_City.jpg) [](https://en.uesp.net/wiki/File:BK-cover-cropped-The_Infernal_City.jpg) Umbriel [4E 48](Lore_Fourth_Era.md#4E_48)
+
+In [4E 48](Lore_Fourth_Era.md#4E_48), the floating city of [Umbriel](Lore_Umbriel.md),<sup>[[nb 1]](#intnote_nb1)</sup> a fragment of [Clavicus Vile](Lore_Clavicus_Vile.md)'s [Fields of Regret](https://en.uesp.net/wiki/Lore:Fields_of_Regret), appeared on [Nirn](Lore_Nirn.md), coming from the south up through [Black Marsh](Lore_Black_Marsh.md) and southern [Morrowind](Lore_Morrowind.md) and into [Cyrodiil](Lore_Cyrodiil.md). Several major cities were destroyed or besieged, culminating in an assault on the [Imperial City](Lore_Imperial_City.md).
+
+### Major Battles
+- **Massacre at Lilmoth**, [4E 48](Lore_Fourth_Era.md#4E_48). Although the [Argonians](Lore_Argonian.md) at Lilmoth were possessed, a number of plantations in the surrounding countryside fought against the horde of undead sea creatures resurrected by the city. They were all overrun and the defenders were also reanimated and joined the march. - The cities of [Stormhold](https://en.uesp.net/wiki/Lore:Stormhold) and [Gideon](https://en.uesp.net/wiki/Lore:Gideon) soon fell to the undead army as Umbriel continued to head north.
+- **Siege of Cheydinhal**, 4E 48. The undead advanced into [Cyrodiil](Lore_Cyrodiil.md) and overran the city of [Cheydinhal](https://en.uesp.net/wiki/Lore:Cheydinhal). The defenders held the city for a long while but eventually they fell back on the [Imperial City](Lore_Imperial_City.md). The undead did not occupy the city so local people returned there afterwards.
+- **Siege of the Imperial City**, 4E 48. The undead army advanced on the Imperial City in an effort to take control of the [White-Gold Tower](Lore_White-Gold_Tower.md), causing mass panic among its citizens. The Imperial Legion attempted to hold the line along the [Red Ring Road](https://en.uesp.net/wiki/Lore:Red_Ring_Road), but were ultimately driven back to the walls of the city. The Synod and the College of Whispers worked together to bring down the floating city, but also failed. Umbriel was eventually banished from [Mundus](Lore_Mundus.md) by a group of heroes.
+
+## The Great War
+[![](https://images.uesp.net/thumb/0/0f/LG-cardart-Tullius%27_Conscription.png/200px-LG-cardart-Tullius%27_Conscription.png)](https://en.uesp.net/wiki/File:LG-cardart-Tullius%27_Conscription.png) [](https://en.uesp.net/wiki/File:LG-cardart-Tullius%27_Conscription.png) Imperial Legion The [Great War](Lore_Great_War.md), referred to as the **First War Against the Empire** by the [Thalmor](Lore_Thalmor.md), was a war fought from [4E 171](Lore_Fourth_Era.md#4E_171) to [175](Lore_Fourth_Era.md#4E_175) between the [Third Empire](Lore_Third_Empire.md) and the [Third Aldmeri Dominion](Lore_Aldmeri_Dominion.md). The war consisted primarily of a Dominion invasion of Imperial territory, culminating in the capture of the [Imperial City](Lore_Imperial_City.md) before its recapture by the Empire. The war eventually ended when the Empire was forced to sign the [White-Gold Concordat](Lore_White-Gold_Concordat.md), a punishing peace treaty.
+
+## The Forsworn Rebellion
+The [Forsworn Rebellion](Lore_Forsworn_Rebellion.md) was a conflict in the [Fourth Era](Lore_Fourth_Era.md) concurrent with the late stages of the [Great War](Lore_Great_War.md) in [Cyrodiil](Lore_Cyrodiil.md), when [Imperial Legions](Lore_Imperial_Legion.md) stationed in [Skyrim](Lore_Skyrim.md)'s region of [the Reach](Lore_The_Reach.md) and its capital, [Markarth](Lore_Markarth.md), were recalled to help repel the Aldmeri Dominion's invasion. This left the Reach vulnerable to attack, and its native population, known as [Reachmen](Lore_Reachmen.md), successfully revolted and created an independent kingdom.
+
+[![](https://images.uesp.net/thumb/e/e0/LG-cardart-Forsworn_Looter.png/250px-LG-cardart-Forsworn_Looter.png)](https://en.uesp.net/wiki/File:LG-cardart-Forsworn_Looter.png) [](https://en.uesp.net/wiki/File:LG-cardart-Forsworn_Looter.png) A Forsworn The Kingdom of the Reach that was founded ruled peacefully over its Nordic and Reachmen subjects, noted for being just as cosmopolitan as any other part of the Empire, and petitioned for acceptance into the Empire as a province.
+
+Jarl Hrolfdir, the father of future [Jarl Igmund](https://en.uesp.net/wiki/Lore:Igmund), called upon a Nordic militia led by [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) to retake the Reach from its native inhabitants in return for free Talos worship. The uprising was ultimately quelled, but not without consequences. Despite the promise of free religion, the Thalmor discovered the Talos worship taking place in Markarth and demanded the arrest of Ulfric and the other members of the Nord militia. To honor the [White-Gold Concordat](Lore_White-Gold_Concordat.md) and keep the peace with the Dominion, Hrolfdir was forced to comply. Hrolfdir helped arrest Ulfric and the other members of the militia to prevent another war with the Thalmor. In retaliation, Ulfric Stormcloak refused to observe the agreement and decided to allow the freedom to worship Talos himself when he became the new Jarl of Windhelm, sparking the future [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md).
+
+### Major Battles
+- **Battle of Markarth**, [4E 174](Lore_Fourth_Era.md#4E_174). Reachmen quickly breached Markarth's city gates and annexed the city. Years later, Jarl Hrolfdir, father of the future Jarl Igmund, was killed by the Forsworn.
+- **The Markarth Incident**, [4E 176](Lore_Fourth_Era.md#4E_176). Under the leadership of Ulfric Stormcloak, the Nordic militia retook Markarth while inflicting heavy casualties on the Reachmen rebels. When the independent kingdom of the Reach was overthrown, there were executions, including the deaths of some civilians of Markarth who were native members of the Reach. Surviving stragglers of the Reachmen continued to rebel, forming the Forsworn.
+
+## The Stormcloak Rebellion
+[4E 201](Lore_Fourth_Era.md#4E_201) -
+
+The [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md), also known as the **Skyrim Civil War** and **Ulfric's Uprising**, was a civil war in [Skyrim](Lore_Skyrim.md) circa [4E 201](Lore_Fourth_Era.md#4E_201). It was fought between the forces of the [Third Empire](Lore_Empire.md), mobilized in western Skyrim, and the [Stormcloak](Lore_Stormcloaks.md) rebels of eastern Skyrim. The war saw two claimants to Skyrim's throne fight against each other, with the Empire supporting [Elisif the Fair](Lore_Elisif_the_Fair.md)'s claim of High Queen and the Stormcloaks insisting [Jarl Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) had earned his right as High King.
+
+## Dragon Crisis
+[4E 201](Lore_Fourth_Era.md#4E_201) -
+
+The [Return of the Dragons](Lore_Return_of_the_Dragons.md), also known as the **Dragon Crisis**, was an invasion of [Tamriel](Lore_Tamriel.md) that occurred in [4E 201](Lore_Fourth_Era.md#4E_201), orchestrated by [Alduin](Lore_Alduin.md), the [Nordic](Lore_Nord.md) god of time. Alduin, along with his rage of resurrected [dragons](Lore_Dragon.md), caused destruction and chaos throughout [Skyrim](Lore_Skyrim.md) and [Morrowind](Lore_Morrowind.md). However, [a mysterious hero](Lore_Last_Dragonborn.md) revealed to be the Nordic hero of legend, the Last Dragonborn, rose up and was able to defeat Alduin, as foretold by the [Prophecy of the Dragonborn](Lore_Prophecy_of_the_Dragonborn.md). It was concurrent with the [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md), a civil war in Skyrim, fought between the [Third Empire](Lore_Empire.md)'s [Imperial Legion](Lore_Imperial_Legion.md) forces, mobilized in western Skyrim, and the [Stormcloak](Lore_Stormcloaks.md) rebels of eastern Skyrim.
+
+## References
+1. [^](#cite_ref-1) [*Lymdrenn Tenvanni's Journal*](https://en.uesp.net/wiki/Skyrim:Lymdrenn_Tenvanni%27s_Journal) — [Lymdrenn Tenvanni](Lore_Books_by_Author.md#Lymdrenn_Tenvanni)

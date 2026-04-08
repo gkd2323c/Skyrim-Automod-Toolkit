@@ -1,0 +1,10 @@
+# Chrysocolla
+
+[![](https://images.uesp.net/thumb/c/c3/ON-item-Lefthander%27s_Aegis_Belt.jpg/200px-ON-item-Lefthander%27s_Aegis_Belt.jpg)](https://en.uesp.net/wiki/File:ON-item-Lefthander%27s_Aegis_Belt.jpg) [](https://en.uesp.net/wiki/File:ON-item-Lefthander%27s_Aegis_Belt.jpg) Lefthander's Aegis Belt [](https://en.uesp.net/wiki/File:ON-icon-fragment-Totambu_Chrysocollas.png) [](https://en.uesp.net/wiki/File:ON-icon-fragment-Totambu_Chrysocollas.png) Totambu Chrysocollas Chrysocolla is a kind of unique cyan [crystal](Lore_Crystals.md). Chrysocollas, distinguished by their unique golden inclusions, held royal significance in [Yokuda](Lore_Yokuda.md) even prior to the [Na-Totambu](Lore_Na-Totambu.md)'s reign. These gems were also embedded in weapons by the Yokudan's adversaries, the [Lefthanded Elves](Lore_Lefthanded_Elves.md), and were associated with invincibility in battle. They were often [enchanted](Lore_Enchanting.md). In the [Yoku](Lore_Yoku.md) tongue, they were strongly connected to defense. However the term defense is just a different tense of word offense in this language. Unlike the Lefthanded Elves, who integrated these gems into their ornamental defensive girdles, as an answer to the [Ansei](Lore_Ansei.md), Yokudans attributed lesser importance to the concept of defense.<sup>[[1]](#cite_note-LAB-1)</sup><sup>[[2]](#cite_note-LAB2-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Lefthander%27s_Aegis_Belt#Totambu_Chrysocollas).
+
+## References
+1. [^](#cite_ref-LAB_1-0) [Lefthander's Aegis Belt](https://en.uesp.net/wiki/Online:Lefthander%27s_Aegis_Belt) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. [^](#cite_ref-LAB2_2-0) [Lefthander's Aegis Belt](https://en.uesp.net/wiki/Online:Lefthander%27s_Aegis_Belt)'s item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*

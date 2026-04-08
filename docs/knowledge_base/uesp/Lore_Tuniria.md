@@ -1,0 +1,33 @@
+# Tuniria
+
+| Tuniria | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Region | [Solstice](Lore_Solstice_(island).md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Ruins_of_Tuniria) |
+
+[![](https://images.uesp.net/thumb/0/05/ON-place-Ruins_of_Tuniria.jpg/200px-ON-place-Ruins_of_Tuniria.jpg)](https://en.uesp.net/wiki/File:ON-place-Ruins_of_Tuniria.jpg) [](https://en.uesp.net/wiki/File:ON-place-Ruins_of_Tuniria.jpg) Ruins of Tuniria circa [2E 582](Lore_Second_Era.md#2E_582) Tuniria was one of the earliest [Corelanyan](Lore_Corelanya_Clan.md) settlements established on the isle of [Solstice](Lore_Solstice_(island).md). Situated southwest of [Sunport](Lore_Sunport.md),<sup>[[1]](#cite_note-Morlia-1)</sup> off the coast of the Western Bay,<sup>[[2]](#cite_note-ROT-2)</sup><sup>[[3]](#cite_note-WBW-3)</sup> the town had ceased to act as an active settlement by the mid- [Second Era](Lore_Second_Era.md).<sup>[[4]](#cite_note-CNS-4)</sup> By that time, the site, then known as the **Ruins of Tuniria** had been repurposed by the College of Tomes of the Collegium Praxis as a training ground.<sup>[[1]](#cite_note-Morlia-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/09/ON-npc-Morlia.jpg/200px-ON-npc-Morlia.jpg)](https://en.uesp.net/wiki/File:ON-npc-Morlia.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Morlia.jpg) Morlia, a representative of the College of Tomes [![](https://images.uesp.net/thumb/7/78/ON-creature-Gaulm.jpg/200px-ON-creature-Gaulm.jpg)](https://en.uesp.net/wiki/File:ON-creature-Gaulm.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Gaulm.jpg) Gaulm The exact founding date of Tuniria is unclear. Tuniria featured a blend of Corelanyan architecture and older stone [Argonians](Lore_Argonian.md) structures, some of which lie partially submerged in the nearby bay. The Argonian history of the site was unknown.<sup>[[2]](#cite_note-ROT-2)</sup> It was recognized as one of the earliest settlements established by Clan Corelanya on Solstice.<sup>[[1]](#cite_note-Morlia-1)</sup> The Corelanyan [Altmer](Lore_Altmer.md) first discovered the isle of Solstice in [1E 723](Lore_First_Era.md#1E_723) during the expedition led by [Iniel Corelanya](Lore_Iniel_Corelanya.md) She returned in [1E 726](Lore_First_Era.md#1E_726) with a powerful fleet, intent on conquering the island. Her campaign ultimately failed,<sup>[[5]](#cite_note-HOCC2-5)</sup> but a small Corelanya outpost was established. It would later serve as the foundation for the formal establishment of Sunport by [Earlenque Corelanya](Lore_Earlenque_Corelanya.md) in [1E 909](Lore_First_Era.md#1E_909). While Earlenque restricted her people from expanding beyond Sunport, her son [Orlemar](Lore_Orlemar_Corelanya.md), who ascended to power in [1E 1017](Lore_First_Era.md#1E_1017), lifted these limits and granted permission to construct towers and estates across the island.<sup>[[6]](#cite_note-HOCC4-6)</sup>
+
+Between its early founding and the Second Era, Tuniria gradually fell into ruin. Though no longer an active settlement, it continued to serve the Corelanyans in a limited capacity.<sup>[[1]](#cite_note-Morlia-1)</sup><sup>[[2]](#cite_note-ROT-2)</sup> By [2E 582](Lore_Second_Era.md#2E_582), the site, already largely in decay was used by the College of Tomes of the Collegium Praxis as a training ground. This changed when a [Vahath Behemoth](https://en.uesp.net/wiki/Lore:Vahath_Behemoth) named Gaulm took up residence in the ruins, bringing with him [voriplasms](Lore_Voriplasm.md) that accelerated the destruction of what structures remained. It was speculated that the Stone-Nest people may have originally created the behemoths to repel Corelanya invaders in ancient times. If that were the case, Gaulm might simply have been following its intended purpose. However, the College's representatives were less interested in the origins of behemoths origins and more focused on reclaiming the site.<sup>[[1]](#cite_note-Morlia-1)</sup>
+
+Unable to resolve the threat themselves, the College contracted mercenaries to eliminate the menace, tasking them with slaying Gaulm and burning out the voriplasm infestation. Both the Stone-Nest Argonians and the Regency of Sunport supported the removal of these threats. Following the operation, the College intended to reclaim the ruins and resume their use as training grounds.<sup>[[1]](#cite_note-Morlia-1)</sup><sup>[[7]](#cite_note-GL-7)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/3/3b/ON-place-Ruins_of_Tuniria_02.jpg/200px-ON-place-Ruins_of_Tuniria_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Ruins_of_Tuniria_02.jpg) Old Argonian structures
+- [![](https://images.uesp.net/thumb/d/da/ON-prerelease-Solstice_Gaulm.jpg/200px-ON-prerelease-Solstice_Gaulm.jpg)](https://en.uesp.net/wiki/File:ON-prerelease-Solstice_Gaulm.jpg) Gaulm in the ruins
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Ruins_of_Tuniria) [](https://en.uesp.net/wiki/Online:2025_Content_Pass) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Morlia_1-0)***</sup><sup>***[b](#cite_ref-Morlia_1-1)***</sup><sup>***[c](#cite_ref-Morlia_1-2)***</sup><sup>***[d](#cite_ref-Morlia_1-3)***</sup><sup>***[e](#cite_ref-Morlia_1-4)***</sup><sup>***[f](#cite_ref-Morlia_1-5)***</sup> [Morlia](https://en.uesp.net/wiki/Online:Morlia)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-ROT_2-0)***</sup><sup>***[b](#cite_ref-ROT_2-1)***</sup><sup>***[c](#cite_ref-ROT_2-2)***</sup> [Ruins of Tuniria](https://en.uesp.net/wiki/Online:Ruins_of_Tuniria) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-WBW_3-0) [Western Bay Wayshrine](https://en.uesp.net/wiki/Online:Western_Bay_Wayshrine) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-CNS_4-0) [*Crumpled Note*](https://en.uesp.net/wiki/Online:Crumpled_Note_(Solstice))
+5. [^](#cite_ref-HOCC2_5-0) [*History of Clan Corelanya, Pt. 2*](https://en.uesp.net/wiki/Lore:History_of_Clan_Corelanya,_Pt._2) — [Lady Karinwe Corelanya](Lore_Books_by_Author.md#Lady_Karinwe_Corelanya)
+6. [^](#cite_ref-HOCC4_6-0) [*History of Clan Corelanya, Pt. 4*](https://en.uesp.net/wiki/Lore:History_of_Clan_Corelanya,_Pt._4) — [Lady Karinwe Corelanya](Lore_Books_by_Author.md#Lady_Karinwe_Corelanya)
+7. [^](#cite_ref-GL_7-0) Events of [Gaulm's Lair](https://en.uesp.net/wiki/Online:Gaulm%27s_Lair) in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,43 @@
+# Forsworn
+
+
+Despite appearing primitive in nature, the Forsworn have proven to be an aggressive political force, which has an astute grasp of insurgency warfare, and even have agents living among the populace of [Markarth](Lore_Markarth.md) in secret.<sup>[[3]](#cite_note-Skyrim-3)</sup><sup>[[4]](#cite_note-THOS-4)</sup> They directly oppose all other major political groups active in the Reach, including the [Thalmor](Lore_Thalmor.md).<sup>[[3]](#cite_note-Skyrim-3)</sup> They wish to drive both [Nords](Lore_Nord.md) and the [Empire](Lore_Empire.md) out of the Reach and attain independence.<sup>[[1]](#cite_note-TMOTR-1)</sup>
+
+## History
+
+### The Markarth Incident
+In [4E 174](Lore_Fourth_Era.md#4E_174), during the [Great War](Lore_Great_War.md), many of the outer provinces were abandoned by the [Empire](Lore_Empire.md). The Reachmen long held that they were the true owners of the Reach, and for centuries begrudgingly accepted [Nord](Lore_Nord.md) rule.<sup>[[1]](#cite_note-TMOTR-1)</sup> Seeing the perfect opportunity, a group of Reachmen rebelled against the Nords and captured the nearly undefended city of Markarth and all of the Reach in what would become known as the "Forsworn Uprising", creating an independent kingdom.<sup>[[5]](#cite_note-TBOM-5)</sup> According to Arrianus Arius, they administered the kingdom relatively peacefully, with only a few of the harshest Nord landowners put to death. After two years, their experiment with independence seemed largely successful, and the leaders of the Reachmen were beginning the process of seeking recognition from the Empire, although Arius also makes claims in his book that are explicitly contradicted by Jarl Igmund.<sup>[[5]](#cite_note-TBOM-5)</sup>
+
+In [4E 176](Lore_Fourth_Era.md#4E_176), desperate to retake the Reach, and with no Imperial Legions available due to the Great War, the Empire and Igmund's father, Jarl Hrolfdir, enlisted the aid of a Nord militia led by [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) to retake the Reach by promising them free worship of Talos. In that year, the Nord militia stormed the city and reconquered the Reach on behalf of Skyrim, executing officials who worked for the Forsworn and those citizens who did not join the Ulfric's forces, including Nords, elderly and children deemed old enough to be able to fight, as well as torturing natives to give up names of the rebels who fled into the wilds.<sup>[[5]](#cite_note-TBOM-5)</sup><sup>[[6]](#cite_note-CL-6)</sup>
+
+### The Forsworn Emerge
+The survivors of the uprising fled into the wilds of the Reach as the Forsworn. Their leader, [Madanach](https://en.uesp.net/wiki/Lore:Madanach), was secretly imprisoned by [Thonar Silver-Blood](https://en.uesp.net/wiki/Lore:Thonar_Silver-Blood) in an attempt to leverage control over them. When the Thalmor finally returned to the region, they discovered the Talos worship. Igmund's father was forced to arrest Ulfric and his men or risk outright war over religious conflict. The Stormcloaks were eventually allowed to leave, but the broken promise left a fissure that would eventually widen into the [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md). The Forsworn still remember the cruelty of the Nords who deposed them, and seek vengeance against all Nords as a result.
+
+## Society
+[![](https://images.uesp.net/thumb/e/e7/SR-npc-Forsworn_06.jpg/200px-SR-npc-Forsworn_06.jpg)](https://en.uesp.net/wiki/File:SR-npc-Forsworn_06.jpg) [](https://en.uesp.net/wiki/File:SR-npc-Forsworn_06.jpg) Hagravens creating a Briarheart Driven from Markarth, the Forsworn spread across the Reach fortifying any defensible spot they could find. They are organized as a terrorist organization composed of a series of cells which attempt to strike fear into the hearts of their Nord occupiers.<sup>[[7]](#cite_note-AEGTS-7)</sup> The ongoing disruption is popularly known as the Forsworn Rebellion.<sup>[[7]](#cite_note-AEGTS-7)</sup> Many sellswords in the Reach are known to make most of their living by collecting on bounties posted for reputed Forsworn leaders.<sup>[[2]](#cite_note-TCOS-2)</sup> Forsworn attacks generally target non-Bretons found in the Reach. They regularly attack caravans in an especially brutal manner, leaving none alive but taking little, if anything, from the caravan itself. During combat they fight with reckless abandon, caring not if they live or die. They have refused all attempts at making peace, seeing the only solution as the return of their land.<sup>[[3]](#cite_note-Skyrim-3)</sup><sup>[[4]](#cite_note-THOS-4)</sup>
+
+Forsworn equipment and weapons are made up of a distinguishing combination of fur, feathers, bones, antlers and decorated with the skulls of their victims, giving them a savage appearance. Their members sport a unique tribal garb and adopt many of the traditions depicted in *[The Legend of Red Eagle](https://en.uesp.net/wiki/Lore:The_Legend_of_Red_Eagle)*. The most archaic of their practices involves their reverence for [Hagravens](Lore_Hagraven.md), which are treated as matriarchs in their society.<sup>[[3]](#cite_note-Skyrim-3)</sup><sup>[[8]](#cite_note-HBH-8)</sup> The Hagravens offer leadership and access to a bizarre rite involving the removal and replacement of a person's heart and the following incantation:
+
+"*Heart of thorn... bones of the wild... in life, Forsworn...
+...rise from death, Blood of our Blood."*
+- Briarheart Ceremony<sup>[[3]](#cite_note-Skyrim-3)</sup> This ritual purportedly allows a Forsworn to become a spirit of vengeance.<sup>[[3]](#cite_note-Skyrim-3)</sup><sup>[[9]](#cite_note-TLORE-9)</sup>
+
+## See Also
+- For game-specific information, see the [*Skyrim* article](Skyrim_Forsworn.md).
+
+### Books
+- ***[The Bear of Markarth](Lore_The_Bear_of_Markarth.md)*** by [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar — An account of Ulfric Stormcloak's short-lived independent reign over the Reach
+- ***[The City of Stone](Lore_The_City_of_Stone.md)*** by [Amanda Alleia](Lore_Books_by_Author.md#Amanda_Alleia) — A mercenary's guide to Markarth
+- ***[The Legend of Red Eagle](https://en.uesp.net/wiki/Lore:The_Legend_of_Red_Eagle)*** by [Tredayn Dren](Lore_Books_by_Author.md#Tredayn_Dren) — An ancient tale about the invasion of the Reach by the First Empire
+- ***[The "Madmen" of the Reach](https://en.uesp.net/wiki/Lore:The_%22Madmen%22_of_the_Reach)*** by [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar — A defense of the Forsworn
+
+## References
+1. ^ <sup>***[a](#cite_ref-TMOTR_1-0)***</sup><sup>***[b](#cite_ref-TMOTR_1-1)***</sup><sup>***[c](#cite_ref-TMOTR_1-2)***</sup> [*The "Madmen" of the Reach*](https://en.uesp.net/wiki/Lore:The_%22Madmen%22_of_the_Reach) — [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar
+2. ^ <sup>***[a](#cite_ref-TCOS_2-0)***</sup><sup>***[b](#cite_ref-TCOS_2-1)***</sup> [*The City of Stone*](Lore_The_City_of_Stone.md) — [Amanda Alleia](Lore_Books_by_Author.md#Amanda_Alleia)
+3. ^ <sup>***[a](#cite_ref-Skyrim_3-0)***</sup><sup>***[b](#cite_ref-Skyrim_3-1)***</sup><sup>***[c](#cite_ref-Skyrim_3-2)***</sup><sup>***[d](#cite_ref-Skyrim_3-3)***</sup><sup>***[e](#cite_ref-Skyrim_3-4)***</sup><sup>***[f](#cite_ref-Skyrim_3-5)***</sup> Events of *[Skyrim](Skyrim_Skyrim.md)*
+4. ^ <sup>***[a](#cite_ref-THOS_4-0)***</sup><sup>***[b](#cite_ref-THOS_4-1)***</sup> [*The Holds of Skyrim*](Lore_The_Holds_of_Skyrim.md)
+5. ^ <sup>***[a](#cite_ref-TBOM_5-0)***</sup><sup>***[b](#cite_ref-TBOM_5-1)***</sup><sup>***[c](#cite_ref-TBOM_5-2)***</sup> [*The Bear of Markarth*](Lore_The_Bear_of_Markarth.md) — [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar
+6. [^](#cite_ref-CL_6-0) [Markarth Bannermen](https://en.uesp.net/wiki/Legends:Card_Lore#Markarth_Bannermen)'s card lore in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+7. ^ <sup>***[a](#cite_ref-AEGTS_7-0)***</sup><sup>***[b](#cite_ref-AEGTS_7-1)***</sup> [*An Explorer's Guide to Skyrim*](https://en.uesp.net/wiki/Lore:An_Explorer%27s_Guide_to_Skyrim) — [Marcius Carvain](Lore_Books_by_Author.md#Marcius_Carvain), Viscount Bruma
+8. [^](#cite_ref-HBH_8-0) [*Herbane's Bestiary: Hagravens*](https://en.uesp.net/wiki/Lore:Herbane%27s_Bestiary__Hagravens) — [Herbane](Lore_Books_by_Author.md#Herbane)
+9. [^](#cite_ref-TLORE_9-0) [*The Legend of Red Eagle*](https://en.uesp.net/wiki/Lore:The_Legend_of_Red_Eagle) — [Tredayn Dren](Lore_Books_by_Author.md#Tredayn_Dren)

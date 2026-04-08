@@ -1,0 +1,15 @@
+# Joslin Garick
+
+| Lady Joslin Garick | | | |
+| --- | --- | --- | --- |
+| [![ON-item-Lady Garick's Sacred Shield.png](https://images.uesp.net/thumb/3/3b/ON-item-Lady_Garick%27s_Sacred_Shield.png/200px-ON-item-Lady_Garick%27s_Sacred_Shield.png)](https://en.uesp.net/wiki/File:ON-item-Lady_Garick%27s_Sacred_Shield.png) Her Sacred Shield | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Female |
+| Died | [1E 2260](Lore_First_Era.md#1E_2260) <br> [Thras](Lore_Thras.md) | | |
+
+Lady Joslin Garick was a knight who was born a commoner and rose to prominence during the time of the [Thrassian Plague](Lore_Thrassian_Plague.md), when she followed [Bendu Olo](Lore_Bendu_Olo.md)'s call and became a premier captain of the [All Flags Navy](Lore_All_Flags_Navy.md). She was fiercely loyal to her crew, and was described as stern, efficient, shrewd, unrelenting, intelligent, and kind. Her voyages were well known, as she would always bring home her crews safely, and many flocked to her from across the seas to sail with her. She only took the very best, weeding out the unworthy with her Trials of Worth. Just as well-known was what Joslin called her "Sacred Shield". Lady Garick's Sacred Shield, she claimed, was blessed by a saint of Arkay, though in the future others would think it was Arkay himself that endowed his power into it. The shield was said to preserve the wielder's life in that no injury would befall them. The legends seemed to have some merit, for when she left her shield behind for safekeeping, she and her crew met their demise during the All Flags Navy's assault on [Thras](Lore_Thras.md).<sup>[[1]](#cite_note-Cynric-1)</sup>
+
+Lady Garick's legacy lived on through her Sacred Shield, which was guarded by the Order of the Sacred Shield, a knightly order based on [High Isle](Lore_High_Isle.md). Only those that could pass the Trials of Worth could claim the shield for themselves. As time passed and no one succeeded in the trials, challengers stopped traveling to Garick's Rest, the castle that housed the shield, as they thought the task to be impossible. Eventually, Garick's Rest fell into ruin and became the resting place of Joslin's lover, Cynric Ginise, who refused to leave his post even during the afterlife. He was released from his post after [an adventurer](Lore_Vestige.md) claimed the shield for themselves in [2E 582](Lore_Second_Era.md#2E_582), and defeated a necromancer that thought to circumvent the Trials of Worth.<sup>[[1]](#cite_note-Cynric-1)</sup><sup>[[2]](#cite_note-2)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Cynric_1-0)***</sup><sup>***[b](#cite_ref-Cynric_1-1)***</sup> [Cynric Ginise](https://en.uesp.net/wiki/Online:Cynric_Ginise)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. [^](#cite_ref-2) [Amunara](https://en.uesp.net/wiki/Online:Amunara)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*

@@ -1,0 +1,70 @@
+# Line and Lure
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Fishing_02.png) Book Information <br> *Line and Lure* | | | |
+| --- | --- | --- | --- |
+| Added by | [Fishing](Skyrim_Fishing.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 0008E5 | | |
+| See Also | [Lore version](Lore_Line_and_Lure.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 4 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Locations | | | |
+| Found in the following locations: - In the backroom of the [Riften Fishery](Skyrim_Riften_Fishery.md) <br> - At the hunter's camp near [the Guardian Stones](Skyrim_The_Guardian_Stones.md) <br> - Near the bridge just north of [Riverwood](Skyrim_Riverwood.md) | | | |
+
+Line and Lure **by Aland Sea-Bird** *A Nord's guide to fishing*
+---
+
+![M](https://images.uesp.net/thumb/0/05/M_letter.png/73px-M_letter.png)
+y name is Aland Sea-Bird. My fame, or lack thereof, is irrelevant.
+
+I am not writer. As it so happens, my wife gave me this quill when I retired. She called it a gift. To me it is a burden, but I suppose many teachers feel this same weight. If I were to walk the bridge to [Sovngarde](Lore_Sovngarde.md), I would take all my knowledge with me. Hard lessons learned from decades fishing the waters of [Skyrim](Lore_Skyrim.md).
+
+In my life, I've fished in waters open and deep, amidst storms no mortal dare brook. I've ventured down bottomless caves, and challenged the monsters of the deep with my hook. I have seen them all, and caught them all, be it fish, monster, or boot.
+
+With this guide, I will teach you how to do the same.
+
+<center>Chapter I:
+The Rod</center> Just as a warrior needs a sword and a blacksmith a hammer, the first thing any aspiring fisherman needs is a rod. You can find one at a general goods store, or left behind on boats and docks by other fisherman that have come before you. When you obtain one, wield it like you would a weapon, swinging it this way and that. Get a feel for its balance and weight. It must become an extension of your body and mind.
+
+<center>Chapter II:
+Supplies</center> Once you have a rod, you will next need supplies. This includes bait and other essentials to capture the fish once it's been reeled close to the shore.
+
+However, you need not bring your own. It is customary in Skyrim to leave fishing supplies by waters where the fish are plentiful. To find a set of fishing supplies is to be met with a greeting, a hearty hello from one fisherman to another.
+
+When you are done, you will leave these supplies for the next fisher. Such is the way.
+
+<center>Chapter III:
+Casting the Line</center> When you are ready to fish, bait your hook using the fishing supplies. Then, cast your line with vigor and allow the hook to sink below the surface.
+
+The art of fishing is one of patience and focus. In particular, it requires the concentration of two senses, sight and touch.
+
+You might ask, how can one know if there are nearby fish for the taking? It is no different than the way moths are drawn to a flame. When your bait lands on the surface of the water, nearby fish will excitedly converge. The ripples on the surface will quickly announce their presence.
+
+Watch for these ripples carefully! The more the water stirs, the more plentiful the number of fish. In contrast, a quiet surface when your line hits the water will tell you there are no more fish to catch, and you must return in a day's time.
+
+In time, you will learn to tell fish apart based on the tug on your line. You will know the difference between a [river betty](Skyrim_River_Betty.md)'s curious nibble, and a [carp](Skyrim_Carp.md)'s eager pull.
+
+<center>Chapter IV:
+Reeling It In</center> When you have hooked your fish, the time for patience and serenity is over. Now come the throes of war. Your fish will thrash as it fights for its life, but you must keep your grip firm and your mind focused, as you reel your line and pull in your catch.
+
+Once you have reeled it in, the fish is yours. Scale it, cook it, and consume it how you please. Depending on your custom, there are different rituals to follow. But for all fisherman, a catch is always cause for celebration.
+
+<center>Chapter V:
+The Rare and Unusual Catch</center> Different fish are native to different climates. If you seek a variety of fish, do not stay in one place. Temperate lakes and streams to the south will hook you a different catch than snow fringed ponds and pitch black caverns.
+
+When you seek a fish that is seldom caught, the uncommon and rare fish that fisherman brag about until long in their years, your best bet is to fish when the sun is low on the horizon. Dawn and dusk offer the best chance to catch these elusive creatures.
+
+If you seek the very rarest of fish, special rods are required. Seek the advice of those in the [Riften](Skyrim_Riften.md) [Fishery](Skyrim_Riften_Fishery.md). Follow their guidance and wisdom, just as you have done with me.
+
+Of course, not every catch will feed your belly. Some may fill your coin purse, while others have interesting uses to those who brew potions.
+
+In my travels, I have even heard tall tales of Dwarven rods used to lure lost trinkets settled at the bottom of ponds and lakes. For what purpose, a [Nord](Lore_Nord.md) like myself cannot know. As the world moves on, such things are lost to time.
+
+<center>Chapter VI:
+In Conclusion</center> There you have it. As I stated at the beginning of this journey, I am no writer. What is written here are not words, but a piece of me.
+
+It is the callow boy who in his arrogance was nearly dragged into the water by a [goldfish](Skyrim_Goldfish.md).
+
+It is the shivering fishmonger, sitting on a frozen bucket in the dead of night praying to [Kyne](Lore_Kyne.md) that he will live to see the sunrise.
+
+It is the old man at the lake drinking a potion of strength, turning back time so he can hook an old foe.
+
+It is part of me, and if you heed its message, it will become part of you.

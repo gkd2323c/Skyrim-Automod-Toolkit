@@ -1,0 +1,46 @@
+# Necromancer's Amulet
+
+[![](https://images.uesp.net/thumb/6/6e/OBR-item-Necromancer%27s_Amulet.jpg/200px-OBR-item-Necromancer%27s_Amulet.jpg)](https://en.uesp.net/wiki/File:OBR-item-Necromancer%27s_Amulet.jpg) [](https://en.uesp.net/wiki/File:OBR-item-Necromancer%27s_Amulet.jpg) The Necromancer's Amulet (Oblivion Remastered) The Necromancer's Amulet (also known as the **Necromancer Amulet**) is a legendary [artifact](Lore_Artifacts.md) created by [Mannimarco](Lore_Mannimarco.md). In appearance it is an exquisite amulet, often with a [jade](Lore_Jade.md) skull emblazoned upon it, or sometimes carved into the shape of a tiny skull with glowing eyes. It grants the wearer magical protection equivalent to plate armor, as well as the ability to regenerate from injury, resist mundane weapons, and absorb magicka and life force. The wearer also becomes wise beyond his years and far more capable in the School of [Conjuration](Lore_Conjuration.md). This comes at a price, as the amulet can drain the wearer's strength, endurance, health and stamina. The artifact is popular among both thieves and mages. The amulet is unstable in this world, and is forever doomed to fade in and out of existence, reappearing at locations distant from that of its disappearance.<sup>[[1]](#cite_note-TL-1)</sup>
+
+## History
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), a noble from one of the first families of [High Rock](Lore_High_Rock.md) discovered that a corrupt relative had once hoarded confiscated valuables, including a map leading to the Necromancer’s Amulet. Though most of the stolen goods were returned, the map was lost in a dungeon in High Rock. When rumors of the Amulet’s return spread across Tamriel, they eventually reached the [Eternal Champion](Lore_Eternal_Champion.md), who traced them to the noble. In exchange for gold, the noble revealed the map’s location. By recovering it, the Eternal Champion learned the Amulet was located in a second dungeon outside of High Rock, where they were able to acquire the relic.<sup>[[2]](#cite_note-ARTIL-2)</sup>
+
+In [3E 405](Lore_Third_Era.md#3E_405), an adventurer obtained the Necromancer's Amulet after doing a task for their knightly order. The agent defeated an [arch-lich](Lore_Lich.md) in the [Iliac Bay](Lore_Iliac_Bay.md) area that was raising an army of undead. After putting a stop to the undead menace, the agent discovered a clue to the amulet's whereabouts. Following the note's instructions, the agent followed the trail to a secluded wizard, who claimed that the [Mages Guild](Lore_Mages_Guild.md) stole the artifact from his great grandfather. After putting the spirit of the wizard's great grandfather to rest, the ghost revealed the location of the Mages Guild branch that stole the artifact from him. The agent ventured there and took the amulet by brute force. However, there are conflicting accounts that the artifact centered around this story was actually a different one altogether, with [Chrysamere](Lore_Chrysamere.md) (the most prominent), the [Staff of Magnus](Lore_Staff_of_Magnus.md), or the [Warlock's Ring](Lore_Warlock%27s_Ring.md) taking its place in the story.<sup>[[3]](#cite_note-DFTLA-3)</sup>
+
+A more credible source claims the Necromancer's Amulet was in the hands of the [Underking](Lore_Underking.md) around this time, who promised it as a reward for any who would return the [Totem of Tiber Septim](Lore_Totem_of_Tiber_Septim.md) to him. Due to the Warp in the West, the fate of the amulet is unknown, although it may have been given to an [unknown agent](Lore_Agent.md) of the [Blades](Lore_Blades.md).<sup>[[4]](#cite_note-4)</sup>
+
+By [3E 427](Lore_Third_Era.md#3E_427), the amulet had come to be owned by [Arch-Mage Trebonius Artorius](Lore_Trebonius_Artorius.md) of the [Vvardenfell](Lore_Vvardenfell.md) branch of the [Mages Guild](Lore_Mages_Guild.md). It was later claimed by the [Nerevarine](Lore_Nerevarine.md), although the circumstances as to how Artorius lost it are contradictory, ranging from the death of all the [Telvanni](Lore_House_Telvanni.md) councilors to the Nerevarine dueling for the title of Arch-Mage.<sup>[[5]](#cite_note-5)</sup>
+
+By [3E 433](Lore_Third_Era.md#3E_433), the amulet had been transported to the Arcane University in the [Imperial City](Lore_Imperial_City.md) for safekeeping. With the return of Mannimarco after his ascent to godhood, Caranya of the [Council of Mages](https://en.uesp.net/wiki/Lore:Council_of_Mages) turned traitor and took the amulet and her supporters to the abandoned [Fort Ontus](https://en.uesp.net/wiki/Lore:Fort_Ontus), where she intended to return the amulet to its creator, making Mannimarco nigh unstoppable. The [Hero of Kvatch](Lore_Hero_of_Kvatch.md) uncovered Caranya's treachery and killed her, returning the amulet to Arch-Mage [Hannibal Traven](Lore_Hannibal_Traven.md).<sup>[[6]](#cite_note-6)</sup>
+
+By [4E 201](Lore_Fourth_Era.md#4E_201), long after the dissolution of the Mages Guild, the amulet had been discovered, and lost again, by [Calixto Corrium](Lore_Calixto_Corrium.md) of [Windhelm](Lore_Windhelm.md) after he had been driven to madness at the death of his sister Lucilla. Attempting to bring her back to life, Calixto turned to [necromancy](Lore_Necromancy.md) and intended to use the amulet in his experiments. The amulet was found by the [Last Dragonborn](Lore_Last_Dragonborn.md), who was investigating a string of murders in the city, attributed to a serial killer called "the Butcher". The Butcher was none other than Calixto, who was eventually discovered and brought to justice.<sup>[[7]](#cite_note-7)</sup>
+
+### Previous Owners:
+- [Mannimarco](Lore_Mannimarco.md)
+- Anonymous Ancient Lich
+- The [Underking](Lore_Underking.md)
+- [Arch-Mage Trebonius Artorius](Lore_Trebonius_Artorius.md)
+- Caranya
+- [Arch-Mage Hannibal Traven](Lore_Hannibal_Traven.md)
+- [Calixto Corrium](Lore_Calixto_Corrium.md)
+
+## Gallery
+- [![](https://images.uesp.net/3/3d/DF-item-Necromancer%27s_Amulet.png)](https://en.uesp.net/wiki/File:DF-item-Necromancer%27s_Amulet.png) Daggerfall
+- [![](https://images.uesp.net/thumb/a/a0/MW-item-Necromancer%27s_Amulet.jpg/200px-MW-item-Necromancer%27s_Amulet.jpg)](https://en.uesp.net/wiki/File:MW-item-Necromancer%27s_Amulet.jpg) Morrowind
+- [![](https://images.uesp.net/thumb/a/af/OB-item-Necromancer%27s_Amulet.jpg/200px-OB-item-Necromancer%27s_Amulet.jpg)](https://en.uesp.net/wiki/File:OB-item-Necromancer%27s_Amulet.jpg) Oblivion
+- [![](https://images.uesp.net/thumb/b/bd/SR-item-Necromancer_Amulet.jpg/200px-SR-item-Necromancer_Amulet.jpg)](https://en.uesp.net/wiki/File:SR-item-Necromancer_Amulet.jpg) Skyrim
+- [![](https://images.uesp.net/thumb/2/2f/SR-concept-Necromancers_Amulet.jpg/154px-SR-concept-Necromancers_Amulet.jpg)](https://en.uesp.net/wiki/File:SR-concept-Necromancers_Amulet.jpg) Skyrim concept art
+- [![](https://images.uesp.net/thumb/0/09/LG-cardart-Necromancer%27s_Amulet.png/200px-LG-cardart-Necromancer%27s_Amulet.png)](https://en.uesp.net/wiki/File:LG-cardart-Necromancer%27s_Amulet.png) Legends
+- [![](https://images.uesp.net/thumb/1/10/MER-figurine-Underking_Figurine.jpg/150px-MER-figurine-Underking_Figurine.jpg)](https://en.uesp.net/wiki/File:MER-figurine-Underking_Figurine.jpg) Daggerfall Figurine of the Underking wearing the Amulet
+
+## See Also
+- For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Necromancer%27s_Amulet), [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Necromancer%27s_Amulet), [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Necromancer%27s_Amulet), [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Necromancer%27s_Amulet), [*Skyrim*](https://en.uesp.net/wiki/Skyrim:Necromancer_Amulet), and *[Legends](https://en.uesp.net/wiki/Legends:Necromancer's Amulet)* [](https://en.uesp.net/wiki/Legends:Core_Set) articles.
+
+## References
+1. [^](#cite_ref-TL_1-0) Necromancer's Amulet description in [Arena](https://en.uesp.net/wiki/Arena:Necromancer%27s_Amulet) and [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Necromancer%27s_Amulet)
+2. [^](#cite_ref-ARTIL_2-0) [Artifact Quest Dialogue](https://en.uesp.net/wiki/Arena:Necromancer%27s_Amulet) in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+3. [^](#cite_ref-DFTLA_3-0) [The Lost Artifact](https://en.uesp.net/wiki/Daggerfall:The_Lost_Artifact) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+4. [^](#cite_ref-4) [Totem, Totem, Who Gets the Totem?](https://en.uesp.net/wiki/Daggerfall:Totem,_Totem,_Who_Gets_the_Totem%3F) quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+5. [^](#cite_ref-5) [Arch-Mage](https://en.uesp.net/wiki/Morrowind:Arch-Mage) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. [^](#cite_ref-6) [The Necromancer's Amulet](https://en.uesp.net/wiki/Oblivion:The_Necromancer%27s_Amulet) quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+7. [^](#cite_ref-7) [Blood on the Ice](Skyrim_Blood_on_the_Ice.md) quest in *[Skyrim](Skyrim_Skyrim.md)*

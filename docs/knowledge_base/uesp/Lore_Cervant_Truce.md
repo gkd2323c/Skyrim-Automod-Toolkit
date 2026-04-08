@@ -1,0 +1,10 @@
+# Cervant Truce
+
+
+Although peace between the Empire and Morrowind had already been agreed by Emperor [Reman III](https://en.uesp.net/wiki/Lore:Reman_III), including the signing at the [Imperial Palace](Lore_Imperial_Palace.md) followed by a grand ball to commemorate, he didn't live long enough to see it through. Several days prior, Reman III was assassinated by a [Morag Tong](https://en.uesp.net/wiki/Lore:Morag_Tong) assassin in the [Imperial City](Lore_Imperial_City.md). Curiously, some sources claim it was Reman's own Potentate and trusted advisor, Versidue-Shaie, who ordered his assassination before he took control of the Empire.<sup>[[1]](#cite_note-LYE-1)</sup> As a result, Morrowind remained the only Tamrielic nation independent of the [Second Empire](Lore_Second_Empire.md) until its collapse in [2E 430](Lore_Second_Era.md#2E_430).<sup>[[2]](#cite_note-PGE1-P-2)</sup><sup>[[3]](#cite_note-OBNarina-3)</sup> The treaty also was said to have suppressed the private armies of the Imperial nobility.<sup>[[4]](#cite_note-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-LYE_1-0)***</sup><sup>***[b](#cite_ref-LYE_1-1)***</sup> [*2920, The Last Year of the First Era*](https://en.uesp.net/wiki/Lore:2920,_The_Last_Year_of_the_First_Era) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+2. [^](#cite_ref-PGE1-P_2-0) [*Pocket Guide to the Empire, 1st Edition: Prologue*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Prologue.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+3. [^](#cite_ref-OBNarina_3-0) [Countess Narina Carvain](https://en.uesp.net/wiki/Oblivion:Countess_Narina_Carvain)'s dialogue in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+4. [^](#cite_ref-4) [*High King Emeric Answers Your Questions*](https://en.uesp.net/wiki/Lore:High_King_Emeric_Answers_Your_Questions) — [High King Emeric](Lore_Books_by_Author.md#King_Emeric)

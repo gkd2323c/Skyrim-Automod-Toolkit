@@ -1,0 +1,174 @@
+# Tsaesci (race)
+
+
+Black hair is a known genetic trait of the Tsaesci,<sup>[[6]](#cite_note-Meet The Character-7)</sup> with some claiming them to also have scaly feet.<sup>[[7]](#cite_note-COTFC-8)</sup> Sources which identify the Tsaesci as [beastfolk](Lore_Beastfolk.md) attribute to them other physical traits such as tails, and describe them as having the bodies of "inverted [gorgons](https://en.uesp.net/wiki/Lore:Gorgon)".<sup>[[4]](#cite_note-2920:TLY-5)</sup><sup>[[8]](#cite_note-LOVS7-9)</sup><sup>[[Note 1]](#intnote_Legs)</sup> Adding to these contradictory claims, it is also claimed that the so-called serpent-folk apparently not only "ate" the men that lived on Akavir (although this statement can be interpreted in many ways), but also resemble them. Numerous legends shroud the origins of the Tsaesci. Some claim their forebears fell prey to a vampiric serpent race, while others suggest they were captured by them.<sup>[[5]](#cite_note-MA-6)</sup><sup>[[9]](#cite_note-Kiseravi-10)</sup><sup>[[Note 2]](#intnote_Eaten)</sup> Some have claimed that the human appearing Akaviri that were encountered on Tamriel were merely surviving humans of Akavir who served as servitors of the serpent-folk.<sup>[[UOL 2]](#cite_note-Snake Disc-11)</sup>
+
+Although immortality is attributed to them in literature,<sup>[[5]](#cite_note-MA-6)</sup><sup>[[10]](#cite_note-History_of_the_Fighters_Guild-12)</sup> descendants of Tsaesci refugees in Elsweyr claim that longevity is not a trait of the race and speculate that the longevity of figures such as the Potentates had magical origins.<sup>[[11]](#cite_note-Avita Pitio-13)</sup>
+
+Individuals with Tsaesci and Imperial ancestry are said to be barely distinguishable from their pure Cyrodilic cousins, with the eyes and hair being the most recognizable traits of Tsaesci ancestry.<sup>[[6]](#cite_note-Meet The Character-7)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/6/63/LO-misc-Against_the_Snakes.jpg/200px-LO-misc-Against_the_Snakes.jpg)](https://en.uesp.net/wiki/File:LO-misc-Against_the_Snakes.jpg) [](https://en.uesp.net/wiki/File:LO-misc-Against_the_Snakes.jpg) An illustration accompanying *[Against the Snakes](https://en.uesp.net/wiki/Lore:Against_the_Snakes)* of a person facing an Akaviri opponent with a serpent-like shadow cast over them
+### Early History
+The [Anuad](https://en.uesp.net/wiki/Lore:Anuad) creation myth asserts that the Wandering [Ehlnofey](Lore_Ehlnofey.md) were divided onto three continents, with the descendants of those on Akavir becoming the Tsaesci (and therefore related to the [Yokudans](Lore_Yokuda.md) and [Atmorans](Lore_Atmora.md)).<sup>[[3]](#cite_note-TAA-4)</sup>
+
+At some point before the First and Second Eras, the Tsaesci sought to "eat" all of the Dragons. They successfully enslaved the Red Dragons,<sup>[[5]](#cite_note-MA-6)</sup><sup>[[9]](#cite_note-Kiseravi-10)</sup> and went on to use them as war mounts,<sup>[[12]](#cite_note-PGE1C-14)</sup> but the Black Dragons managed to escape them into [Po Tun](Lore_Ka_Po%27_Tun_(place).md). The Tsaesci would then go to war with the [tiger people](Lore_Ka_Po%27_Tun_(race).md) of that land, as a result the Dragons of Akavir were almost entirely wiped out.<sup>[[5]](#cite_note-MA-6)</sup>
+
+### Service to Reman
+The Tsaesci invaded Tamriel in [1E 2703](Lore_First_Era.md#1E_2703), continuing their crusade against the Dragons in Tamriel, where they would search for the [Dragonborn](Lore_Dragonborn.md).<sup>[[13]](#cite_note-Ra F-15)</sup> They were driven back by the forces of Emperor [Reman I](Lore_Reman.md),<sup>[[14]](#cite_note-PGE3Other-16)</sup> who they swore fealty to, claiming he was the Dragonborn they had searched for.<sup>[[13]](#cite_note-Ra F-15)</sup><sup>[[15]](#cite_note-TBOTD-17)</sup> From their ranks the [Akaviri Dragonguard](Lore_Dragonguard.md) was formed, dedicated to hunting Dragons.<sup>[[15]](#cite_note-TBOTD-17)</sup> Additionally, Akaviri Dragon motifs and the practice of creating armor from Dragonscale would become common in Imperial culture. Their war mounts, the Red Dragons, would also come to symbolize the Empire itself.<sup>[[12]](#cite_note-PGE1C-14)</sup><sup>[[Note 4]](#intnote_Dragon Emblem)</sup> They left many influences on [Imperial](Lore_Imperial.md) institutions and culture, including the doctrines and equipment of the [Imperial Legion](Lore_Imperial_Legion.md), the creation of the [Fighters Guild](Lore_Fighters_Guild.md), and a reverence among the Imperial aristocracy for all things Akaviri.<sup>[[12]](#cite_note-PGE1C-14)</sup> Surviving Tsaesci in [Cyrodiil](Lore_Cyrodiil.md) served as mercenaries and personal guards of nobles.<sup>[[12]](#cite_note-PGE1C-14)</sup>
+
+A number of Tsaesci even served the [Second Empire](Lore_Second_Empire.md) as Potentates, among them [Sidri-Ashak](https://en.uesp.net/wiki/Lore:Sidri-Ashak), [Versidue-Shaie](https://en.uesp.net/wiki/Lore:Versidue-Shaie), and [Savirien-Chorak](https://en.uesp.net/wiki/Lore:Savirien-Chorak). The latter two ruled the Second Empire outright during the first half of the [Second Era](Lore_Second_Era.md), a period known as the [Akaviri Potentate](Lore_Akaviri_Potentate.md) that was brought on by the demise of the [Reman Dynasty](Lore_Reman_Dynasty.md).<sup>[[16]](#cite_note-PGE3C-18)</sup>
+
+After the fall of the [Akaviri Potentate](Lore_Akaviri_Potentate.md) in [2E 430](Lore_Second_Era.md#2E_430) most Tsaesci fled [Cyrodiil](Lore_Cyrodiil.md), joining other Akaviri that lived in [Rimmen](Lore_Rimmen.md) and the surrounding area. These Akaviri would later be known as [Rim-Men](https://en.uesp.net/wiki/Lore:Rim-Men)<sup>[[17]](#cite_note-TTS-19)</sup> and would help the resurfaced [Dir-Kamal](https://en.uesp.net/wiki/Lore:Ada%27Soom_Dir-Kamal) armies to conquer [Cyrodiil](Lore_Cyrodiil.md). While they managed to acquire the throne, their reign was short-lived and they were overthrown like many other Emperors of the Interregnum that came before them.<sup>[[18]](#cite_note-PGE1E-20)</sup>
+
+## Society
+[![](https://images.uesp.net/thumb/9/97/ON-npc-Proconsul_Beloren-Kaie.jpg/200px-ON-npc-Proconsul_Beloren-Kaie.jpg)](https://en.uesp.net/wiki/File:ON-npc-Proconsul_Beloren-Kaie.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Proconsul_Beloren-Kaie.jpg) A Tsaesci spirit returned to judge the living during the Proving Festival (ESO) [![](https://images.uesp.net/thumb/f/f9/ON-furnishing-Akaviri_Table%2C_Stone.png/200px-ON-furnishing-Akaviri_Table%2C_Stone.png)](https://en.uesp.net/wiki/File:ON-furnishing-Akaviri_Table,_Stone.png) [](https://en.uesp.net/wiki/File:ON-furnishing-Akaviri_Table,_Stone.png) Four Tsaesci deity sigils (clockwise): Zisa (oceans/water), Nyfa (earth), Ilni (weather/air), and Myn (sun/fire) [Ancestor worship](Lore_Ancestor_Worship.md) seems to be an integral part of Tsaesci culture.<sup>[[19]](#cite_note-TPF-21)</sup><sup>[[20]](#cite_note-22)</sup> They believe that all waterways connect the worlds of the living and the [dead](https://en.uesp.net/wiki/Lore:Ghost) and from them the [spirits](Lore_Souls.md) of their ancestors gaze upon their living descendants and their deeds,<sup>[[21]](#cite_note-Domitia Nasica-23)</sup> thought to grant either good fortune or misfortune depending on whether the actions of their progeny have pleased them. Thus water occupies a special place in Tsaesci faith. One's ancestors are invoked by calling their name during the Proving Festival, a date on which it is said it is possible for spirits to cross over from the afterlife into the living world. Ancestor spirits are said to grow more powerful the more they are revered, thus a well-honored ancestral spirit will be able to cross from the afterlife into the living world more easily, take on different forms such as that of a black bladed golden warrior that is "swift as the wind", grant great fortune or misfortune, commune through and alter dreams, and even drag one to the afterlife if angered. Thus ancestor spirits are viewed as something to be appeased, able to render significant aid if properly honored but also dangerous if offended, known to deliver potentially fatal trials for what they consider insulting behavior such as verbal boasts of greatness that disrespect the dead.<sup>[[22]](#cite_note-Clever-24)</sup><sup>[[23]](#cite_note-ONProconsul-25)</sup><sup>[[24]](#cite_note-Proving-26)</sup> Spirits might also return to the living world for other reasons, such as taking action to maintain their own legacy, whether based on truth or not.<sup>[[25]](#cite_note-Magnate-27)</sup><sup>[[26]](#cite_note-Descendant-28)</sup>
+
+The Rim-Men of Hakoshae, a community of Imperials with claims of Tsaesci descent, maintained what they believed was the Tsaesci tradition of ancestor worship. In [2E 582](Lore_Second_Era.md#2E_582), they revived the Proving Festival—an Akaviri holiday where supplicants prove their wisdom, strength, and honor to their ancestors.<sup>[[25]](#cite_note-Magnate-27)</sup><sup>[[26]](#cite_note-Descendant-28)</sup> The Proving Festival is an important, yearly holiday of the Tsaesci to appease the ancestors and prove one's worth.<sup>[[19]](#cite_note-TPF-21)</sup> It consists of three proofs which a participant has to pass: The first is the Proof of Reverence by which the ancestors are invoked and invited to enter the living world as spirits. The Rim-Men let a paper lotus be carried down a river. The lotus symbolically swims into the realm of the dead to attract the attention of the ancestors.<sup>[[21]](#cite_note-Domitia Nasica-23)</sup> The second proof is the Proof of Strength. It serves to show the ancestors one's strength and that one can resist various dangers.<sup>[[27]](#cite_note-Vek Secunia-29)</sup> The last proof is the Proof of Wisdom. Traditionally it consisted of scholars drafting grand essays, writers composing ornate poems or philosophers performing lengthy debates. However in Hakoshae the inhabitants use riddles for that purpose.<sup>[[28]](#cite_note-30)</sup>
+
+In addition to reverence of the ancestors, at least four deities, symbolizing different [elements](Lore_Elements.md), are known: [Ilni](https://en.uesp.net/wiki/Lore:Ilni) (weather/air), [Myn](https://en.uesp.net/wiki/Lore:Myn) (sun/fire), [Nyfa](https://en.uesp.net/wiki/Lore:Nyfa) (earth), and [Zisa](https://en.uesp.net/wiki/Lore:Zisa) (oceans/water).<sup>[[29]](#cite_note-Tot E-31)</sup> [Z'en](https://en.uesp.net/wiki/Lore:Z%27en) might also be worshipped by the Tsaesci, as origins of his mythology can be traced back to Akavir.<sup>[[30]](#cite_note-VOF-32)</sup>
+
+The Tsaesci refer to their artistry as the Serpentine Ways of Making. Though its introduction in the Reman Empire has diluted and debased it over years, prime examples of it still exist in Tamriel, such as the Tonenaka Shrine in Rimmen.<sup>[[31]](#cite_note-CM53-33)</sup> Ever since their exodus from Cyrodiil, the Tsaesci refugees changed Rimmen forever, by bringing their aesthetics, culture, and food. Their vast wealth that funded the Tonenaka's construction also brought prosperity to the city.<sup>[[17]](#cite_note-TTS-19)</sup>
+
+Tsaesci are known to have had [marriage](Lore_Marriage.md),<sup>[[32]](#cite_note-34)</sup> a tradition they shared with the Rim-Men.<sup>[[33]](#cite_note-35)</sup> Unlike the other races and cultures on Nirn, the Tsaesci do not follow the tradition of [constellations](Lore_Constellations.md) in accordance with their "subdermal culture", meaning none of them possess birthsigns.<sup>[[UOL 3]](#cite_note-MKL-36)</sup> The Tsaesci language is reportedly complex for Tamrielans.<sup>[[14]](#cite_note-PGE3Other-16)</sup>
+
+The Tsaesci are known for their use of magic.<sup>[[11]](#cite_note-Avita Pitio-13)</sup><sup>[[27]](#cite_note-Vek Secunia-29)</sup> Additionally, they utilize a special magic called '[kiai](https://en.uesp.net/wiki/Lore:Kiai)',<sup>[[Note 3]](#intnote_Kiai)</sup> which shares similarities with Shouts of the Nordic [Thu'um](Lore_Thu%27um.md).<sup>[[34]](#cite_note-COTS-37)</sup> Known for their resistance to poison and prowess in combat, tales even speak of their mastery over Dragons, purportedly enslaving the mighty beasts.<sup>[[9]](#cite_note-Kiseravi-10)</sup> Specfically they are known to have enslaved red dragons, who they use as war mounts.<sup>[[5]](#cite_note-MA-6)</sup><sup>[[12]](#cite_note-PGE1C-14)</sup> Additionally, they are known to enslave the [goblins](Lore_Goblin.md) of the isles surrounding their land, who they use for labor and fresh blood.<sup>[[5]](#cite_note-MA-6)</sup>
+
+## Arms and Armor
+Two Akaviri "Blood Drinker" swords, known as [Dawnfang/Duskfang](https://en.uesp.net/wiki/Lore:Dawnfang_and_Duskfang) and [Bloodthirst](https://en.uesp.net/wiki/Lore:Bloodthirst), emulate the rumored traits of their Tsaesci creators. Although some sources claim Tsaesci fight without shields or armor, using only swords such as the Dai-katana in combat,<sup>[[35]](#cite_note-2920v1-38)</sup><sup>[[10]](#cite_note-History_of_the_Fighters_Guild-12)</sup> eye-witness accounts from the battle at Pale Pass describe the Tsaesci not only using armor and shields, but also various types of weapons.<sup>[[36]](#cite_note-39)</sup> The nature of the race is a tapestry of historical contradictions, so what little is known about them is uncertain. However, all known encounters with the Tsaesci have not only confirmed that they are humanoids, but that they also use armor and shields in combat. However, the Tsaesci use shields mostly as a form of ceremonial and decorative armor, and don't find widespread use in combat.<sup>[[31]](#cite_note-CM53-33)</sup>
+
+Akaviri katanas, while elegant and efficient, are too expensive and sophisticated a weapon to be popular with the Legions or hero-adventurers. Well-heeled nobles, collectors, and swordmasters prize the blade for its superior balance and effectiveness.<sup>[[37]](#cite_note-Garo-40)</sup> However, they are part of the standard arms for members of the [Blades](Lore_Blades.md).
+
+The tanto is a stylish dagger variant of Akaviri design. For obscure reasons, the [Telvanni](https://en.uesp.net/wiki/Lore:Telvanni) prefer them to standard daggers as a matrix for their enchantments, and Telvanni mercenaries are often equipped with enchanted tantos by their mage-lord patrons.<sup>[[37]](#cite_note-Garo-40)</sup>
+
+The wakizashi is an elegant and refined single-edged version of the more common double-edged longswords of Western design. Because the weapons themselves are rare, and few smiths know how to make them, they are not common. <sup>[[37]](#cite_note-Garo-40)</sup>
+
+- [![](https://images.uesp.net/thumb/d/d2/MW-item-Weapons_Tantos.jpg/200px-MW-item-Weapons_Tantos.jpg)](https://en.uesp.net/wiki/File:MW-item-Weapons_Tantos.jpg) Daedric and steel tantos (Morrowind)
+- [![](https://images.uesp.net/thumb/c/c2/MW-item-Wakizashis.jpg/200px-MW-item-Wakizashis.jpg)](https://en.uesp.net/wiki/File:MW-item-Wakizashis.jpg) Wakizashis
+- [![](https://images.uesp.net/thumb/6/6f/MW-item-Dai-katanas.jpg/200px-MW-item-Dai-katanas.jpg)](https://en.uesp.net/wiki/File:MW-item-Dai-katanas.jpg) Dai-katanas
+- [![](https://images.uesp.net/thumb/2/24/ON-crown_store-Tsaesci_Motif_%28cropped%29.jpg/200px-ON-crown_store-Tsaesci_Motif_%28cropped%29.jpg)](File_ON-crown_store-Tsaesci_Motif_(cropped).jpg.md) Tsaesci inspired armor
+- [![](https://images.uesp.net/thumb/a/a8/SR-item-Dawnfang_%26_Duskfang.jpg/200px-SR-item-Dawnfang_%26_Duskfang.jpg)](https://en.uesp.net/wiki/File:SR-item-Dawnfang_%26_Duskfang.jpg) Tsaesci "blood drinker" sword
+- [![](https://images.uesp.net/thumb/a/ae/ON-item-armor-Tsaesci_Shield.jpg/200px-ON-item-armor-Tsaesci_Shield.jpg)](https://en.uesp.net/wiki/File:ON-item-armor-Tsaesci_Shield.jpg) Tsaesci shield
+- [![](https://images.uesp.net/thumb/6/64/SI-item-Talisman_of_Abetment.png/200px-SI-item-Talisman_of_Abetment.png)](https://en.uesp.net/wiki/File:SI-item-Talisman_of_Abetment.png) Talisman of Abetment, a talisman of Tsaesci origin
+- [![](https://images.uesp.net/thumb/4/4d/OB-item-Ring_of_the_Vipereye.jpg/200px-OB-item-Ring_of_the_Vipereye.jpg)](https://en.uesp.net/wiki/File:OB-item-Ring_of_the_Vipereye.jpg) The Ring of the Vipereye, a Tsaesci ring
+
+## Gallery
+
+### Depictions
+- [![](https://images.uesp.net/thumb/0/09/OB-npc-Akaviri_Commander_Mishaxhi.jpg/200px-OB-npc-Akaviri_Commander_Mishaxhi.jpg)](https://en.uesp.net/wiki/File:OB-npc-Akaviri_Commander_Mishaxhi.jpg) A Tsaesci ghost
+(Oblivion)
+- [![](https://images.uesp.net/thumb/e/ed/OBR-npc-Akaviri_Commander_Mishaxhi.jpg/200px-OBR-npc-Akaviri_Commander_Mishaxhi.jpg)](https://en.uesp.net/wiki/File:OBR-npc-Akaviri_Commander_Mishaxhi.jpg) A Tsaesci ghost
+(Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/6/68/OBR-npc-Akaviri_Commander_Mishaxhi_02.jpg/200px-OBR-npc-Akaviri_Commander_Mishaxhi_02.jpg)](https://en.uesp.net/wiki/File:OBR-npc-Akaviri_Commander_Mishaxhi_02.jpg) A Tsaesci ghost, close-up
+(Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/5/50/OB-creature-Undead_Akaviri_Soldier.jpg/200px-OB-creature-Undead_Akaviri_Soldier.jpg)](https://en.uesp.net/wiki/File:OB-creature-Undead_Akaviri_Soldier.jpg) A Tsaesci skeleton
+(Oblivion)
+- [![](https://images.uesp.net/thumb/d/d2/SR-Alduins_Wall_Tsaesci.png/200px-SR-Alduins_Wall_Tsaesci.png)](https://en.uesp.net/wiki/File:SR-Alduins_Wall_Tsaesci.png) Depiction on Alduin's Wall showing three kneeling Tsaesci
+(Skyrim)
+- [![](https://images.uesp.net/thumb/b/b3/SR-misc-Akaviri Bas Relief.png/79px-SR-misc-Akaviri Bas Relief.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri Bas Relief.png) Tsaesci bas-relief
+(Skyrim)
+- [![](https://images.uesp.net/thumb/e/e8/SR-concept-Akaviri Bas Relief Concept.png/78px-SR-concept-Akaviri Bas Relief Concept.png)](https://en.uesp.net/wiki/File:SR-concept-Akaviri Bas Relief Concept.png) Tsaesci bas-relief
+(Skyrim concept art)
+- [![](https://images.uesp.net/thumb/8/80/SR-concept-Akaviri Statue.png/175px-SR-concept-Akaviri Statue.png)](https://en.uesp.net/wiki/File:SR-concept-Akaviri Statue.png) Tsaesci statue
+(Skyrim concept art)
+
+### Symbols
+- [![](https://images.uesp.net/thumb/8/8e/SR-misc-Akaviri Dragonborn Symbol.png/190px-SR-misc-Akaviri Dragonborn Symbol.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri Dragonborn Symbol.png) Symbol for "Dragonborn"<sup>[[38]](#cite_note-SREsbern-41)</sup>
+(Skyrim)
+- [![](https://images.uesp.net/thumb/3/3f/SR-misc-Akaviri King Symbol.png/200px-SR-misc-Akaviri King Symbol.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri King Symbol.png) Symbol for "King"<sup>[[38]](#cite_note-SREsbern-41)</sup>
+(Skyrim)
+- [![](https://images.uesp.net/thumb/7/75/SR-misc-Akaviri Warrior Symbol.png/184px-SR-misc-Akaviri Warrior Symbol.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri Warrior Symbol.png) Symbol for "Warrior"<sup>[[38]](#cite_note-SREsbern-41)</sup>
+(Skyrim)
+- [![](https://images.uesp.net/thumb/8/8f/SR-misc-Akaviri Unknown Symbol.png/200px-SR-misc-Akaviri Unknown Symbol.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri Unknown Symbol.png) Symbol of unknown
+(Skyrim)
+- [![](https://images.uesp.net/thumb/e/ee/SR-misc-Akaviri Dragon Symbol.png/193px-SR-misc-Akaviri Dragon Symbol.png)](https://en.uesp.net/wiki/File:SR-misc-Akaviri Dragon Symbol.png) Symbol of a dragon
+(Skyrim)
+- [![](https://images.uesp.net/thumb/b/b8/SR-concept-Akaviri Dragon Symbol.png/200px-SR-concept-Akaviri Dragon Symbol.png)](https://en.uesp.net/wiki/File:SR-concept-Akaviri Dragon Symbol.png) Symbol of a dragon
+(Skyrim concept art)
+- [![](https://images.uesp.net/thumb/4/4b/ON-furnishing-Akaviri_Table%2C_Stone_02.jpg/200px-ON-furnishing-Akaviri_Table%2C_Stone_02.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Akaviri_Table,_Stone_02.jpg) Table depicting four symbols
+(ESO)
+- [![](https://images.uesp.net/thumb/7/76/ON-misc-Ilni.png/200px-ON-misc-Ilni.png)](https://en.uesp.net/wiki/File:ON-misc-Ilni.png) Symbol of Ilni (weather/air)
+(ESO)
+- [![](https://images.uesp.net/thumb/7/7b/ON-misc-Myn.png/200px-ON-misc-Myn.png)](https://en.uesp.net/wiki/File:ON-misc-Myn.png) Symbol of Myn (sun/fire)
+(ESO)
+- [![](https://images.uesp.net/thumb/c/cb/ON-misc-Nyfa.png/200px-ON-misc-Nyfa.png)](https://en.uesp.net/wiki/File:ON-misc-Nyfa.png) Symbol of Nyfa (earth)
+(ESO)
+- [![](https://images.uesp.net/thumb/6/67/ON-misc-Zisa.png/200px-ON-misc-Zisa.png)](https://en.uesp.net/wiki/File:ON-misc-Zisa.png) Symbol of Zisa (oceans/water)
+(ESO)
+
+### Other
+- [![](https://images.uesp.net/thumb/6/6b/ON-npc-Chevalier_Renald.jpg/200px-ON-npc-Chevalier_Renald.jpg)](https://en.uesp.net/wiki/File:ON-npc-Chevalier_Renald.jpg) A Tsaesci descendant in Dragonguard armor
+(ESO)
+- [![](https://images.uesp.net/thumb/b/b4/ON-npc-Magnate_Feina-Darak.jpg/200px-ON-npc-Magnate_Feina-Darak.jpg)](https://en.uesp.net/wiki/File:ON-npc-Magnate_Feina-Darak.jpg) A [Rim-Man](https://en.uesp.net/wiki/Lore:Rim-Men) wearing traditional Tsaesci clothes
+(ESO)
+- [![](https://images.uesp.net/thumb/9/9d/OB-place-Cloud_Ruler_Temple.jpg/200px-OB-place-Cloud_Ruler_Temple.jpg)](https://en.uesp.net/wiki/File:OB-place-Cloud_Ruler_Temple.jpg) [Cloud Ruler Temple](https://en.uesp.net/wiki/Lore:Cloud_Ruler_Temple), an ancient Blades stronghold
+(Oblivion)
+- [![](https://images.uesp.net/thumb/7/7b/OB-book-Messenger%27s_Diary_P1.jpg/134px-OB-book-Messenger%27s_Diary_P1.jpg)](https://en.uesp.net/wiki/File:OB-book-Messenger%27s_Diary_P1.jpg) Tsaesci writings
+(Oblivion)
+- [](https://en.uesp.net/wiki/File:ON-icon-stolen-Burial_Mask.png) A Tsaesci burial mask
+(ESO)
+
+## Notes
+- The Tsaesci are influenced by [East Asian](https://www.wikipedia.org/wiki/East_Asian) cultures, with a particular emphasis on [Japan](https://www.wikipedia.org/wiki/Japan), through their armor, buildings and weapons.
+
+[1.](#note_Legs) *[The Last Year of the First Era](https://en.uesp.net/wiki/Lore:2920,_The_Last_Year_of_the_First_Era)* uses the verb "to slither" when Versidue-Shiae or Savirien-Chorak move. [2.](#note_Eaten) The meaning of the term "eaten" as given from what is known of the land of Akavir is not clear. Although the description of the "vampiric" Tsaesci might suggest literal meaning, it could be a metaphor for being subdued. In *[Mysterious Akavir](https://en.uesp.net/wiki/Lore:Mysterious_Akavir)* by an anonymous writer, the Tsaesci are told to have "tried to eat all the [Dragons](Lore_Dragon.md). They managed to enslave the Red Dragons, but the black ones had fled to (then) Po Tun". [3.](#note_Kiai) *[Children of the Sky](Lore_Children_of_the_Sky.md)* only mentions "Akaviri swordsmen". However, this probably refers to the Tsaesci, as they are said to heavily rely on swords in combat.<sup>[[35]](#cite_note-2920v1-38)</sup> [4.](#note_Dragon Emblem) The main used emblem of the [Second Empire](Lore_Second_Empire.md) however remained the Red Diamond. - "Xhiado Kas" is a known Tsaesci title for *The Flame Maiden*, given to [Luciana Pullo](https://en.uesp.net/wiki/Lore:Luciana_Pullo).<sup>[[39]](#cite_note-42)</sup>
+- [Diagna](https://en.uesp.net/wiki/Lore:Diagna)'s cult originated in [Yokuda](Lore_Yokuda.md) during the "Twenty Seven Snake Folk Slaughter".<sup>[[30]](#cite_note-VOF-32)</sup> Whether the "Snake Folk" were the same as the Tsaesci serpent-folk is unknown. [Carlovac Townway](https://en.uesp.net/wiki/Lore:Carlovac_Townway) once asserted that Redguard culture and their greatest heroes have been heavily influenced by [Akaviri](Lore_Akavir.md) and Tsaesci culture, specifically citing Gaiden Shinji, a leader of the [Order of Diagna](https://en.uesp.net/wiki/Lore:Order_of_Diagna), as an example of this cultural exchange.<sup>[[UOL 4]](#cite_note-Interview-43)</sup>
+
+## See Also
+- [Tsaesci Names](Lore_Names.md#Tsaesci)
+- For a list of notable Tsaesci, see [here](https://en.uesp.net/wiki/Category:Lore-People-Tsaesci).
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Akaviri).
+
+### Books
+- ***[Mysterious Akavir](https://en.uesp.net/wiki/Lore:Mysterious_Akavir)*** — Information about the continent Akavir
+- ***[Crafting Motif 53: Tsaesci Style](https://en.uesp.net/wiki/Lore:Crafting_Motif_53__Tsaesci_Style)*** by [Kiasa-Veda](Lore_Books_by_Author.md#Kiasa-Veda), the Chronicler of Blades, Dir-Tonenaka — A guide to creating weapons and arms in the Tsaesci Style
+- ***[Akaviri Diary Translation](https://en.uesp.net/wiki/Lore:Akaviri_Diary_Translation)*** by [Xhaferi](Lore_Books_by_Author.md#Xhaferi) — An Akaviri messenger's final days during the conflict at Pale Pass
+- ***[2920, The Last Year of the First Era](https://en.uesp.net/wiki/Lore:2920,_The_Last_Year_of_the_First_Era)*** by [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway) — A fictional series of books about historical events involving Vivec and the Empire
+
+## References
+1. [^](#cite_ref-1) [*Grommok's Journal*](https://en.uesp.net/wiki/Lore:Grommok%27s_Journal) — [Grommok gro-Barak](https://en.uesp.net/wiki/Shivering:Grommok_gro-Barak)
+2. ^ <sup>***[a](#cite_ref-ESO_Live_Episode_2_2-0)***</sup><sup>***[b](#cite_ref-ESO_Live_Episode_2_2-1)***</sup> [ESO Live](https://en.uesp.net/wiki/General:ESO_Live) ["Episode 2"](https://youtu.be/UI3D8W3_Emg?feature=shared&t=6468). Retrieved 2026-04-6.
+3. ^ <sup>***[a](#cite_ref-TAA_4-0)***</sup><sup>***[b](#cite_ref-TAA_4-1)***</sup> [*The Annotated Anuad*](Lore_The_Annotated_Anuad.md)
+4. ^ <sup>***[a](#cite_ref-2920:TLY_5-0)***</sup><sup>***[b](#cite_ref-2920:TLY_5-1)***</sup> [*2920, The Last Year of the First Era*](https://en.uesp.net/wiki/Lore:2920,_The_Last_Year_of_the_First_Era) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+5. ^ <sup>***[a](#cite_ref-MA_6-0)***</sup><sup>***[b](#cite_ref-MA_6-1)***</sup><sup>***[c](#cite_ref-MA_6-2)***</sup><sup>***[d](#cite_ref-MA_6-3)***</sup><sup>***[e](#cite_ref-MA_6-4)***</sup><sup>***[f](#cite_ref-MA_6-5)***</sup><sup>***[g](#cite_ref-MA_6-6)***</sup> [*Mysterious Akavir*](https://en.uesp.net/wiki/Lore:Mysterious_Akavir)
+6. ^ <sup>***[a](#cite_ref-Meet The Character_7-0)***</sup><sup>***[b](#cite_ref-Meet The Character_7-1)***</sup> [*Meet the Character - Chevalier Renald*](https://en.uesp.net/wiki/Lore:Meet_the_Character_-_Chevalier_Renald) — [Abnur Tharn](Lore_Books_by_Author.md#Abnur_Tharn)
+7. [^](#cite_ref-COTFC_8-0) [*Chronicles of the Five Companions 8*](https://en.uesp.net/wiki/Lore:Chronicles_of_the_Five_Companions_8) — [Abnur Tharn](Lore_Books_by_Author.md#Lord_Abnur_Tharn)
+8. [^](#cite_ref-LOVS7_9-0) [*36 Lessons of Vivec, Sermon 7*](https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_7) — [Vivec](Lore_Books_by_Author.md#Vivec)
+9. ^ <sup>***[a](#cite_ref-Kiseravi_10-0)***</sup><sup>***[b](#cite_ref-Kiseravi_10-1)***</sup><sup>***[c](#cite_ref-Kiseravi_10-2)***</sup> [Kiseravi](https://en.uesp.net/wiki/Online:Kiseravi)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](Online_Elsweyr_(DLC).md)*
+10. ^ <sup>***[a](#cite_ref-History_of_the_Fighters_Guild_12-0)***</sup><sup>***[b](#cite_ref-History_of_the_Fighters_Guild_12-1)***</sup> [*History of the Fighters Guild*](https://en.uesp.net/wiki/Lore:History_of_the_Fighters_Guild)
+11. ^ <sup>***[a](#cite_ref-Avita Pitio_13-0)***</sup><sup>***[b](#cite_ref-Avita Pitio_13-1)***</sup> [Avita Pitio](https://en.uesp.net/wiki/Online:Avita_Pitio)'s dialogue from [Elder Scrolls Online: Elsweyr](https://en.uesp.net/wiki/Online:Online)
+12. ^ <sup>***[a](#cite_ref-PGE1C_14-0)***</sup><sup>***[b](#cite_ref-PGE1C_14-1)***</sup><sup>***[c](#cite_ref-PGE1C_14-2)***</sup><sup>***[d](#cite_ref-PGE1C_14-3)***</sup><sup>***[e](#cite_ref-PGE1C_14-4)***</sup> [*Pocket Guide to the Empire, 1st Edition: Cyrodiil*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Cyrodiil.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+13. ^ <sup>***[a](#cite_ref-Ra F_15-0)***</sup><sup>***[b](#cite_ref-Ra F_15-1)***</sup> [*The Rise and Fall of the Blades*](https://en.uesp.net/wiki/Lore:The_Rise_and_Fall_of_the_Blades) — Anonymous
+14. ^ <sup>***[a](#cite_ref-PGE3Other_16-0)***</sup><sup>***[b](#cite_ref-PGE3Other_16-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+15. ^ <sup>***[a](#cite_ref-TBOTD_17-0)***</sup><sup>***[b](#cite_ref-TBOTD_17-1)***</sup> [*The Book of the Dragonborn*](Lore_The_Book_of_the_Dragonborn.md) — Prior [Emelene Madrine](Lore_Books_by_Author.md#Emelene_Madrine)
+16. [^](#cite_ref-PGE3C_18-0) [*Pocket Guide to the Empire, 3rd Edition: The Seat of Sundered Kings: Cyrodiil*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Cyrodiil.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+17. ^ <sup>***[a](#cite_ref-TTS_19-0)***</sup><sup>***[b](#cite_ref-TTS_19-1)***</sup> [*The Tonenaka Shrine*](https://en.uesp.net/wiki/Lore:The_Tonenaka_Shrine) — Magnate [Feina-Darak](Lore_Books_by_Author.md#Feina-Darak)
+18. [^](#cite_ref-PGE1E_20-0) [*Pocket Guide to the Empire, 1st Edition: The Elsweyr Confederacy*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Elsweyr_Confederacy) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+19. ^ <sup>***[a](#cite_ref-TPF_21-0)***</sup><sup>***[b](#cite_ref-TPF_21-1)***</sup> [*The Proving Festival*](https://en.uesp.net/wiki/Lore:The_Proving_Festival) — [Laije-Palak Rulician](Lore_Books_by_Author.md#Laije-Palak_Rulician)
+20. [^](#cite_ref-22) [Magnate Feina-Darak](https://en.uesp.net/wiki/Online:Magnate_Feina-Darak)'s dialogue from [Elder Scrolls Online: Elsweyr](https://en.uesp.net/wiki/Online:Online)
+21. ^ <sup>***[a](#cite_ref-Domitia Nasica_23-0)***</sup><sup>***[b](#cite_ref-Domitia Nasica_23-1)***</sup> [Domitia Nasica](https://en.uesp.net/wiki/Online:Domitia_Nasica)'s dialogue from [Elder Scrolls Online: Elsweyr](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-Clever_24-0) [*Clever Kail-Perwa and the Great Boast*](https://en.uesp.net/wiki/Lore:Clever_Kail-Perwa_and_the_Great_Boast) — [Nalae-Polek](Lore_Books_by_Author.md#Nalae-Polek), Poet Laureate to Potentate [Versidue-Shaie](https://en.uesp.net/wiki/Lore:Versidue-Shaie)
+23. [^](#cite_ref-ONProconsul_25-0) [Proconsul Beloren-Kaie](https://en.uesp.net/wiki/Online:Proconsul_Beloren-Kaie)'s appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. [^](#cite_ref-Proving_26-0) [*The Proving Festival*](https://en.uesp.net/wiki/Lore:The_Proving_Festival) — [Laije-Palak Rulician](Lore_Books_by_Author.md#Laije-Palak_Rulician)
+25. ^ <sup>***[a](#cite_ref-Magnate_27-0)***</sup><sup>***[b](#cite_ref-Magnate_27-1)***</sup> [Magnate Feina-Darak](https://en.uesp.net/wiki/Online:Magnate_Feina-Darak)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+26. ^ <sup>***[a](#cite_ref-Descendant_28-0)***</sup><sup>***[b](#cite_ref-Descendant_28-1)***</sup> [Descendant of the Potentate](https://en.uesp.net/wiki/Online:Descendant_of_the_Potentate) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+27. ^ <sup>***[a](#cite_ref-Vek Secunia_29-0)***</sup><sup>***[b](#cite_ref-Vek Secunia_29-1)***</sup> [Vek-Drassi Secunia](https://en.uesp.net/wiki/Online:Vek-Drassi_Secunia)'s dialogue from [Elder Scrolls Online: Elsweyr](https://en.uesp.net/wiki/Online:Online)
+28. [^](#cite_ref-30) [Valoria Marius](https://en.uesp.net/wiki/Online:Valoria_Marius)' dialogue from [Elder Scrolls Online: Elsweyr](https://en.uesp.net/wiki/Online:Online)
+29. [^](#cite_ref-Tot E_31-0) [*Tale of the Elements*](https://en.uesp.net/wiki/Lore:Tale_of_the_Elements) — [Nalae-Polek](Lore_Books_by_Author.md#Nalae-Polek), Poet Laureate to Potentate [Versidue-Shaie](https://en.uesp.net/wiki/Lore:Versidue-Shaie)
+30. ^ <sup>***[a](#cite_ref-VOF_32-0)***</sup><sup>***[b](#cite_ref-VOF_32-1)***</sup> [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+31. ^ <sup>***[a](#cite_ref-CM53_33-0)***</sup><sup>***[b](#cite_ref-CM53_33-1)***</sup> [*Crafting Motif 53: Tsaesci Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_53__Tsaesci_Style) — [Kiasa-Veda](Lore_Books_by_Author.md#Kiasa-Veda), the Chronicler of Blades, Dir-Tonenaka
+32. [^](#cite_ref-34) [*Akaviri Diary Translation*](https://en.uesp.net/wiki/Lore:Akaviri_Diary_Translation) — [Xhaferi](Lore_Books_by_Author.md#Xhaferi)
+33. [^](#cite_ref-35) [Ashur](https://en.uesp.net/wiki/Online:Ashur)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+34. [^](#cite_ref-COTS_37-0) [*Children of the Sky*](Lore_Children_of_the_Sky.md)
+35. ^ <sup>***[a](#cite_ref-2920v1_38-0)***</sup><sup>***[b](#cite_ref-2920v1_38-1)***</sup> [*2920, Morning Star*](Lore_2920,_Morning_Star_(v1).md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+36. [^](#cite_ref-39) [*Crafting Motif 92: Ancestral Akaviri Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_92__Ancestral_Akaviri_Style) — [Caelius Calogerus](Lore_Books_by_Author.md#Caelius_Calogerus), Imperial Captain
+37. ^ <sup>***[a](#cite_ref-Garo_40-0)***</sup><sup>***[b](#cite_ref-Garo_40-1)***</sup><sup>***[c](#cite_ref-Garo_40-2)***</sup> [Garothmuk gro-Muzgub](https://en.uesp.net/wiki/Morrowind:Garothmuk_gro-Muzgub)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+38. ^ <sup>***[a](#cite_ref-SREsbern_41-0)***</sup><sup>***[b](#cite_ref-SREsbern_41-1)***</sup><sup>***[c](#cite_ref-SREsbern_41-2)***</sup> [Esbern](Skyrim_Esbern.md#Alduin.27s_Wall)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+39. [^](#cite_ref-42) [*Meet the Character - Proctor Luciana*](https://en.uesp.net/wiki/Lore:Meet_the_Character_-_Proctor_Luciana) — [Grimrald Brassbones](Lore_Books_by_Author.md#Grimrald_Brassbones)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-MKP_3-0) [*Michael Kirkbride's Posts*](https://en.uesp.net/wiki/General:Michael_Kirkbride%27s_Posts)
+2. [^](#cite_ref-Snake Disc_11-0) [*Are the Tsaesci really snakemen?*](https://en.uesp.net/wiki/General:Are_the_Tsaesci_really_snakemen%3F)
+3. [^](#cite_ref-MKL_36-0) [*Magne-Ge Pantheon*](https://en.uesp.net/wiki/General:Magne-Ge_Pantheon)
+4. [^](#cite_ref-Interview_43-0) [*Interview With Three Writers*](https://en.uesp.net/wiki/General:Interview_With_Three_Writers) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth), [Baloth-Kul](Lore_Books_by_Author.md#Baloth-Kul) and [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway) - [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson)

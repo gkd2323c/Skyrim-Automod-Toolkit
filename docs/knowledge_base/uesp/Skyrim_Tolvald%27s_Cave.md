@@ -1,0 +1,92 @@
+# Tolvald's Cave
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) \| Cave: <br> Tolvald's Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Tolvald%27s+Cave)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Tolvald's Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Tolvald%27s+Cave)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> Tolvald's Cave <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Tolvald%27s+Cave)) | |
+| # of Zones | 3 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](Skyrim_Respawn.md) | 10 days or 30 days | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 18 | |
+| Occupants | | |
+| [Falmer](Skyrim_Falmer.md), [Chaurus](Skyrim_Chaurus.md), [Frostbite Spiders](Skyrim_Frostbite_Spider.md), [Skeevers](Skyrim_Skeever.md) | | |
+| Important Treasure | | |
+| *[Battle of Red Mountain](Skyrim_Battle_of_Red_Mountain.md)* <br> [Crown of Barenziah](Skyrim_Crown_of_Barenziah.md) <br> *[Mystery of Talara, v3](Skyrim_Mystery_of_Talara,_v3.md)* | | |
+| Console Location Code(s) | | |
+| Tolvalds Cave Exterior, Tolvalds Cave01, Tolvalds Cave02, Tolvalds Cave03 | | |
+| Region | | |
+| [The Rift](Skyrim_The_Rift.md) | | |
+| Location | | |
+| Northeast of [Shor's Stone](Skyrim_Shor%27s_Stone.md) <br> South-southeast of [Ansilvund](Skyrim_Ansilvund.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 1 | |
+| # of [Tanning Racks](Skyrim_Tanning.md) | 3 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 2 | |
+| # of [Moonstone](Skyrim_Moonstone_Ore.md) | 1 | |
+| # of [Quicksilver](Skyrim_Quicksilver_Ore.md) | 2 | |
+| # of [Silver](Skyrim_Silver_Ore.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/c/cb/SR-place-Tolvalds Cave.jpg/200px-SR-place-Tolvalds Cave.jpg)](https://en.uesp.net/wiki/File:SR-place-Tolvalds Cave.jpg) [](https://en.uesp.net/wiki/File:SR-place-Tolvalds Cave.jpg) Tolvald's Cave **Tolvald's Cave** is a large [cave](Skyrim_Caves.md) northeast of [Shor's Stone](Skyrim_Shor%27s_Stone.md) containing [Falmer](Skyrim_Falmer.md), [chaurus](Skyrim_Chaurus.md), [frostbite spiders](Skyrim_Frostbite_Spider.md), and [skeevers](Skyrim_Skeever.md). It contains three zones: *[Tolvald's Cave](#Tolvald.27s_Cave)*, *[Tolvald's Gap](#Tolvald.27s_Gap)*, and *[Tolvald's Crossing](#Tolvald.27s_Crossing)*.
+
+## Related Quests
+- **[Arniel's Endeavor](Skyrim_Arniel%27s_Endeavor.md)**: Uncover an ancient Dwemer secret. ([radiant](Skyrim_Radiant.md))
+- **[No Stone Unturned](Skyrim_No_Stone_Unturned.md)**: Find the [24 gems](Skyrim_Unusual_Gem.md) to restore the Crown of Barenziah.
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Exterior
+The cave is in the [Velothi Mountains](Skyrim_Velothi_Mountains.md) north of [Riften](Skyrim_Riften.md). A leveled creature guards the entrance.
+
+### Tolvald's Cave
+Many of the Falmer inhabiting the cave will hop out of [chitinous holes](Skyrim_Falmer_Pod.md) in the wall to ambush you, so be on your guard. Using the spell [Detect Life](Skyrim_Detect_Life_(spell).md) will help you turn the tables.
+
+In the first room, there is an abandoned camp with three bedrolls, an overturned [cooking pot](Skyrim_Cooking_Pot.md), a locked [chest](Skyrim_Chest.md) by the pillar to the left, and on the standing stool, a *[Hunter's Journal](Skyrim_Hunter%27s_Journal_(Tolvald%27s_Cave).md)*, which reveals that a few [hunters](Skyrim_Hunter.md) tracked some animals to the cave and decided to investigate the ruins within. To the right of the chest is an [iron ore vein](Skyrim_Iron_Ore_Vein.md), and atop the ledge are a few sacks and spilled [food](Skyrim_Food.md). To the right of the bedroll farthest from the entrance is a [silver ore vein](Skyrim_Silver_Ore_Vein.md), and starting down the path to the northwest is a [bear trap](Skyrim_Bear_Trap.md) beside a second iron ore vein. The first leveled creature is standing over a [bandit](Skyrim_Bandit.md)'s body between another three bear traps. To the right is a [bleeding crown](Skyrim_Bleeding_Crown.md) fungus, and to either side is a bunch of [white cap](Skyrim_White_Cap.md) mushrooms.
+
+Just before the lantern in the tunnel is a [blisterwort](Skyrim_Blisterwort.md) cluster, with a [Namira's rot](Skyrim_Namira%27s_Rot.md) just after the lantern. The next section contains a leveled creature standing over some bloody bones. Spread around the area are various fungi, including a [fly amanita](Skyrim_Fly_Amanita.md), a bleeding crown, and a white cap. In the small room to the right is a medium [coin purse](Skyrim_Coin_Purse.md) and an [apothecary's satchel](Skyrim_Apothecary%27s_Satchel.md). To the west is a small room with two [snowberries](Skyrim_Snowberry.md), and to the right are two blisterworts. The path continues past the blisterworts into a room guarded by another leveled creature standing over some more remains. Around this room are numerous types of fungi, including a Namira's rot, an [imp stool](Skyrim_Imp_Stool.md), two clusters of white caps, and three bunches of [glowing mushrooms](Skyrim_Glowing_Mushroom.md) on the walls. The tunnel out contains five bunches of glowing mushrooms, an imp stool, a fly amanita, a bleeding crown, a Namira's rot, a [red mountain flower](Skyrim_Red_Mountain_Flower.md), a small coin purse, and three loose coins.
+
+The room behind the door contains a leveled [potion](Skyrim_Potions.md), a piece of [gold ore](Skyrim_Gold_Ore.md), a large coin purse, and a Dwemer chest. On both sides of the room there are hidden doors, with a pull chain by the western door that activates both doors. The chest is [rigged](Skyrim_Tension_Cable.md) such that, when opened, a [dart trap](Skyrim_Dart_Trap.md) will shoot from the walls and Falmer will come through the hidden doors. The darts cannot be circumvented, but opening the doors before the chest will prevent the Falmer from coming down the tunnels. Both tunnels contain bunches of glowing mushrooms. There are two Falmer patrolling the room at the end of the tunnels, and the Falmer scheduled to come through the doors, one of which carries the [shaman's key](Skyrim_Keys.md#Shaman.27s_Key), are waiting in the next passage. In the room at the end of the tunnels is an [alchemy lab](Skyrim_Alchemy_Labs.md), beside which is a random [ingredient](Skyrim_Ingredients.md), three random [poisons](Skyrim_Poisons.md), and some [Falmer equipment](Skyrim_Specialty_Gear.md#Falmer_Equipment) (a war axe, a bow, and arrows). To the left of the lab is a gruesome corner with a random assortment of potions, weapons, and armor. The nearby cage contains a dead hunter, and throughout the room are four bunches of glowing mushrooms and eleven [chaurus egg sacs](Skyrim_Chaurus_Eggs.md). The next passage contains one glowing mushroom and eighteen chaurus egg sacs before opening up into a Falmer camp.
+
+In the center of the camp is a sacrificial table with a dead hunter watched by a single Falmer. The tent to the northwest contains a few random ingredients, while the tent to the southeast contains a [spider egg sac](Skyrim_Spider_Egg.md). There is a Falmer chest in the northwest flanked by two [tanning racks](Skyrim_Tanning_Rack.md). The next large section contains three tents, two spider's egg sacs, an assortment of fungi consisting of two bleeding crowns, two fly amanitas, two imp stools, two white caps, four Namira's rot, and a blisterwort. Two [chicken's eggs](Skyrim_Chicken%27s_Egg.md), a [pine thrush](Skyrim_Pine_Thrush_Egg.md) nest, and a set of [slaughterfish scales](Skyrim_Slaughterfish_Scales.md) are in the first tent, three random ingredients are by the fire, and a few loose chaurus eggs are scattered about. The area is guarded by a Falmer and two frostbite spiders. Two Falmer will appear behind you when you approach the fire. There is a locked chest to the right of the first tent, and a chest in the tent with the gate. The passage to *Tolvald's Gap* is nearby to the south.
+
+### Tolvald's Gap
+The path leading down is patrolled by a Falmer, with a random creature at the bottom. There are five more Falmer patrolling the area (one of which carries another shaman's key), another Falmer on the ledge above, and two frostbite spiders in the next room. The room to the west contains seven bleeding crowns, four white caps, three fly amanitas, two blisterworts, three Namira's rot, six imp stools, fourteen glowing mushrooms, two baskets with a mix of the various ingredients, and a Falmer chest and three chaurus egg sacs in the tent. Exiting the room, there is a chest on a small ledge to the left. Under the glowing mushrooms, following the path, are three blisterwort fungi and a leveled potion. To the right, under the previous side path, is a locked chest.
+
+The second room contains a Falmer to the right of the tent near a spider egg sac, a dead chaurus, and some Falmer swords and loose arrows, and to the left, two frostbite spiders. In the spider webs to the east are two dead skeevers. The next tunnel contains a skeever, more mushrooms and chaurus egg sacs to harvest, and three random poisons and a Falmer bow in one corner of the passage. The next room is a chaurus nest, with two chaurus and a chaurus reaper guarded by a single Falmer. There are approximately seventy chaurus egg sacs and a [quicksilver ore vein](Skyrim_Quicksilver_Ore_Vein.md) in this room. To the left of the next tunnel is a locked Falmer chest, with a few more loose chaurus eggs on the ground, as well as two [charred skeever hides](Skyrim_Charred_Skeever_Hide.md) and a Falmer sword lying on a rock nearby. The tent to the right along the next passage contains a skeever, and an alcove to the right farther along contains a random potion and a random poison. The path takes you back to the ledge near the beginning of the zone with a single Falmer, two tents (one of which contains a Falmer chest), and several loose glowing mushrooms on the ground. The path proceeds south, offering more glowing mushrooms, a Falmer war axe next to a campfire, and more chaurus egg sacs before continuing on to *Tolvald's Crossing*.
+
+### Tolvald's Crossing
+[![](https://images.uesp.net/thumb/3/39/SR-quest-No_Stone_Unturned2.jpg/200px-SR-quest-No_Stone_Unturned2.jpg)](https://en.uesp.net/wiki/File:SR-quest-No_Stone_Unturned2.jpg) [](https://en.uesp.net/wiki/File:SR-quest-No_Stone_Unturned2.jpg) Crown of Barenziah There is a Falmer patrolling below the waterfall, and human bones to the left in the following tunnel. Beside the remains is a *[Faded Diary](Skyrim_Faded_Diary.md)* and a leveled potion. The diary reveals the torment suffered by the writer seeing the death of a brother during the eruption of [Red Mountain](Lore_Red_Mountain.md) in [Morrowind](Lore_Morrowind.md), and plans to move to [Skyrim](Lore_Skyrim.md) due to the resulting poverty. To the left farther along the tunnel is a second quicksilver ore vein. Straight ahead on the right is a crushed cart with a locked chest, and to the left of the cart is a skeleton with a *[Tattered Journal](Skyrim_Tattered_Journal_(Tolvald%27s_Cave).md)*, which details a fight with "white elves". There is another crushed skeleton in the nearby rubble next to a leveled [staff](Skyrim_Staves.md). This skeleton is cradling a large rock, and is wearing a silver amethyst ring on its right hand. The large room beyond this area contains the remains of a caravan, with multiple skeletons, leveled swords and arrows, two dead chaurus, and a randomly enchanted sword near the skeleton in the middle. The last skeleton's hand is outstretched toward the middle of the rubble, where the [Crown of Barenziah](Skyrim_Crown_of_Barenziah.md) appears (after finding all 24 Stones of Barenziah) when the quest [No Stone Unturned](Skyrim_No_Stone_Unturned.md) has advanced far enough. Two to three [Dunmer ghosts](Skyrim_Dunmer_Ghost.md) appear beside the crown after you take it, and will attack you. They are wearing [Elven](Skyrim_Elven.md) armor. Note: the large room containing the crown will be blocked off and invisible on your map if you enter the dungeon before you have advanced far enough in the quest No Stone Unturned.
+
+The path to the previous tunnel has a [tripwire](Skyrim_Tripwire.md) at the start, which activates a [claw trap](Skyrim_Claw.md) from the right. There is a Falmer on the ledge high above. By the pillar in the middle are two [Falmer ears](Skyrim_Falmer_Ear.md), a random poison, and a small coin purse. There are some more wrecked carts and spilled goods and items behind the pillar, which include a few loose chaurus eggs, a copy of the [Block](Skyrim_Block.md) [skill book](Skyrim_Skill_Books.md) *[Battle of Red Mountain](Skyrim_Battle_of_Red_Mountain.md)*, a copy of the [Destruction](Skyrim_Destruction.md) skill book *[Mystery of Talara, v3](Skyrim_Mystery_of_Talara,_v3.md)*, a level-locked chest, another small coin purse, and some jewelry. On the ledge above is a master-locked chest. The path leads past an alcove on the right containing a potion sitting among mushrooms, then proceeds into another room with two Falmer, one patrolling and one standing watching the passage. At the bottom of the ascending stone ramp is a table with two poisons, a leveled potion, a leveled dagger, and a [skeever tail](Skyrim_Skeever_Tail.md), while a Falmer chest is in the tent at the top.
+
+The next tunnel is guarded by a skeever, and leads to a room with a winding path upwards. At the bottom is a table with some ingredients, a [soul gem](Skyrim_Soul_Gems.md), a small coin purse, and a *[Ruined Trailbook](Skyrim_Ruined_Trailbook.md)*. It provides details as to why the caravan tried to cross under the mountains. Just before you reach the next tanning rack and table with an assortment of [alchemical](Skyrim_Alchemy.md) and [smithing](Skyrim_Smithing.md) items, four Falmer will appear from around the room. There is a small side room that holds a Falmer chest, a potion, and a chaurus egg sac. The next room has a Falmer in the tent to the left, and across the bridge, another Falmer in the tent to the right, two more near the fire to the left, and a chaurus in between them. Between the fire and the gated exit from this room is an unlocked boss chest standing on end, making it easy to miss. On the right wall a short distance past the gate is a [moonstone ore vein](Skyrim_Moonstone_Ore_Vein.md). The path continues to the north of the waterfall, which is the same waterfall encountered at the start of this section. The path leads around to the left, across some pipes, and back to the first zone *Tolvald's Cave*.
+
+You emerge in a small room in the first zone with a pull chain that opens a stone door, past which is the abandoned camp in the first room of the dungeon.
+
+| Plants |
+| --- |
+| 21 [Bleeding Crown](Skyrim_Bleeding_Crown.md) <br> 14 [Blisterwort](Skyrim_Blisterwort.md) <br> 13 [Fly Amanita](Skyrim_Fly_Amanita.md) <br> 282 [Glowing Mushroom](Skyrim_Glowing_Mushroom.md) <br> 20 [Imp Stool](Skyrim_Imp_Stool.md) <br> 17 [Namira's Rot](Skyrim_Namira%27s_Rot.md) <br> 1 [Red Mountain Flower](Skyrim_Red_Mountain_Flower.md) <br> 2 [Snowberries](Skyrim_Snowberries.md) <br> 25 [White Cap](Skyrim_White_Cap.md) |
+
+## Notes
+- The dungeon contains the highest number (282) of glowing mushrooms and the second-highest number (243) of chaurus eggs in the game.
+- There is an iron ore vein a short distance northwest of the entrance.
+- The path leading to the Crown of Barenziah will be blocked by rubble until you're given the quest No Stone Unturned by [Vex](Skyrim_Vex.md).
+- In the room where the Crown of Barenziah is found, there is a [knapsack](Skyrim_Knapsack.md) on the ground which you may not be able to interact with. It is to the right of the path immediately before you cross the first stream. The activation spot is tiny, just between the knapsack buckle and the rock the knapsack is leaning against. There is a lootable dead chaurus opposite.
+- During No Stone Unturned, there's a chance only a single male Dunmer Ghost shows up by the crown and that it's not hostile. When talked to, he may say something along the lines of "It's been so many years...", or he may not speak at all. He can also be pickpocketed for an [Elven Shield](Skyrim_Elven_Shield.md).
+
+## Bugs
+- Some of the bodies in *Tolvald's Gap* disappear abnormally quickly.
+- A knapsack in *Tolvald's Crossing* cannot interacted with. It appears to be placed awfully close to a rock formation. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.0.4, fixes this bug.
+- During No Stone Unturned, the Dunmer Ghosts in the cave can become hostile towards each other due to an improper faction setup. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.1.0, fixes this bug.
+- During No Stone Unturned, the Dunmer Ghosts do not drop proper ghost loot or turn into the right kind of ash piles when killed. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Legendary Edition Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Legendary_Edition_Patch), version 3.0.6, fixes this bug.
+- During No Stone Unturned, one of the Dunmer Ghosts in the cave has 4 Elven maces in its inventory, when it doesn't need that many. - The [Unofficial Skyrim Special Edition Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Special_Edition_Patch), version 4.3.8, fixes this bug.
+
+## Maps
+- [![](https://images.uesp.net/thumb/2/2b/SR-map-Tolvald%27s_Cave.jpg/200px-SR-map-Tolvald%27s_Cave.jpg)](https://en.uesp.net/wiki/File:SR-map-Tolvald%27s_Cave.jpg) Tolvald's Cave
+- [![](https://images.uesp.net/thumb/f/fd/SR-map-Tolvald%27s_Gap.jpg/200px-SR-map-Tolvald%27s_Gap.jpg)](https://en.uesp.net/wiki/File:SR-map-Tolvald%27s_Gap.jpg) Tolvald's Gap
+- [![](https://images.uesp.net/thumb/a/a3/SR-map-Tolvald%27s_Crossing.jpg/200px-SR-map-Tolvald%27s_Crossing.jpg)](https://en.uesp.net/wiki/File:SR-map-Tolvald%27s_Crossing.jpg) Tolvald's Crossing

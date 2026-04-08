@@ -1,0 +1,49 @@
+# Dark
+
+**Dark** [armor](Skyrim_Armor.md) and [weapons](Skyrim_Weapons.md) are the serpentine equipment used by the [Dark Seducers](Skyrim_Dark_Seducer.md). It was added to the game by the [Saints & Seducers](Skyrim_Saints_%26_Seducers.md) [Creation](Skyrim_Creation_Club.md).
+
+## Dark Smithing
+Requires [Daedric Smithing Perk](Skyrim_Daedric_Smithing.md). Dark Smithing is learned by reading [Joften's Notes](Skyrim_Joften%27s_Notes.md), located in a chest under the bridge at [Half-Moon Mill](Skyrim_Half-Moon_Mill.md). It is part of a [miscellaneous quest](Skyrim_Golden_and_Dark_Smithing.md) first started by reading the [Notes on the Blacksmith](https://en.uesp.net/wiki/Skyrim:Notes_on_the_Blacksmith), a note kept by the [Saints Bandit Leader](https://en.uesp.net/wiki/Skyrim:Saints_Bandit_Leader). Learning Dark Smithing does not require the miscellaneous quest to be started however, as the chest containing Joften's Notes will be there regardless on if you are on the quest or not.
+
+As it requires Daedric Smithing, Dark Smithing essentially requires a smithing skill of 90. Dark armor and weapons are relatively easy to get without the investment into the skill line, as their pieces can be found on all [Seducers Bandits](https://en.uesp.net/wiki/Skyrim:Seducers_Bandit). Furthermore, as they on par with [Glass](Skyrim_Malachite.md) equipment, they are quite useful to low levels characters as they are obtainable early on, assuming you can manage to take on the bandits that carry them.
+
+All Dark items can be tempered using 1 Quicksilver Ingot.
+
+## Dark Armor
+[![](https://images.uesp.net/thumb/1/1c/SR-item-Dark_Seducer_Armor_Female.jpg/200px-SR-item-Dark_Seducer_Armor_Female.jpg)](https://en.uesp.net/wiki/File:SR-item-Dark_Seducer_Armor_Female.jpg) [](https://en.uesp.net/wiki/File:SR-item-Dark_Seducer_Armor_Female.jpg) A female [Imperial](Skyrim_Imperial.md) wearing Dark Seducer Armor Dark armor is a variety of light armor. When compared to [Glass](Skyrim_Malachite.md), Dark armor is slightly inferior. In terms of armor rating-to-weight ratio (i.e. the number of armor points per unit of weight), the shield, gauntlets and boots have the highest ratio in the game, with the latter two tying with the [Elven Hunter](Skyrim_Elven.md) equivalent.
+
+| | Name ([ID](Skyrim_Form_ID.md)) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) | Raw Materials | Delta | Ratio | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-ingot-Ebony_Ingot.png) [Ebony](Skyrim_Ebony_Ingot.md) | [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Daedra_Heart.png) [Daedra Heart](Skyrim_Daedra_Heart.md) | [](https://en.uesp.net/wiki/File:SR-icon-ingot-Quicksilver_Ingot.png) [Quicksilver](https://en.uesp.net/wiki/Skyrim:Quicksilver_Ingot) | [](https://en.uesp.net/wiki/File:SR-icon-misc-Leather Strips.png) [Strips](https://en.uesp.net/wiki/Skyrim:Leather_Strips) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | | | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Armor_Male.png) [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Armor_Female.png) | Dark Seducer Armor <br> ([xx](Skyrim_Form_ID.md) 000873) | 5 | 650 | 36 | 2 | 1 | 4 | 3 | -1.8 | -149 | 0.74 | 0.81 |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Boots.png) | Dark Seducer Boots <br> ([xx](Skyrim_Form_ID.md) 000874) | 1 | 90 | 10 | 1 | 1 | 1 | 2 | -1.7 | -376 | 0.37 | 0.19 |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Gauntlets.png) | Dark Seducer Gauntlets <br> ([xx](Skyrim_Form_ID.md) 000872) | 1 | 90 | 10 | 1 | 1 | 1 | 2 | -1.7 | -376 | 0.37 | 0.19 |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Helmet.png) | Dark Seducer Helmet <br> ([xx](Skyrim_Form_ID.md) 000871) | 2 | 195 | 14 | 1 | 1 | 2 | 2 | -1.7 | -331 | 0.54 | 0.37 |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dark_Seducer_Shield.png) | Dark Seducer Shield <br> ([xx](Skyrim_Form_ID.md) 000805) | 4 | 250 | 23 | 2 | 1 | 3 | 1 | -1.6 | -483 | 0.71 | 0.34 |
+| Totals (with shield): | 13 | 1275 | 93 | 7 | 5 | 11 | 10 | | | | | |
+| Totals (without shield): | 9 | 1025 | 70 | 5 | 4 | 8 | 9 | | | | | |
+
+- [![](https://images.uesp.net/thumb/2/2f/SR-item-Dark_Seducer_Armor_Male.jpg/200px-SR-item-Dark_Seducer_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dark_Seducer_Armor_Male.jpg) A male [Nord](Skyrim_Nord.md) wearing Dark Seducer Armor
+
+## Dark Weapons
+[![](https://images.uesp.net/thumb/8/84/SR-item-Dark_Seducer_Weapons.jpg/200px-SR-item-Dark_Seducer_Weapons.jpg)](https://en.uesp.net/wiki/File:SR-item-Dark_Seducer_Weapons.jpg) [](https://en.uesp.net/wiki/File:SR-item-Dark_Seducer_Weapons.jpg) Dark Seducer Weapons When compared to [Glass](Skyrim_Malachite.md), one-handed Dark weapons are about the same quality, but lighter. The two-handed weapons and the bow are equal to [Elven](Skyrim_Elven.md), but lighter.
+
+| | Name ([ID](Skyrim_Form_ID.md)) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Crit. <br> [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Speed | Reach | Raw Materials | Delta | Ratio | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-ingot-Ebony_Ingot.png) [Ebony](Skyrim_Ebony_Ingot.md) | [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Daedra_Heart.png) [Daedra Heart](Skyrim_Daedra_Heart.md) | [](https://en.uesp.net/wiki/File:SR-icon-ingot-Quicksilver_Ingot.png) [Quicksilver](https://en.uesp.net/wiki/Skyrim:Quicksilver_Ingot) | [](https://en.uesp.net/wiki/File:SR-icon-misc-Leather Strips.png) [Strips](https://en.uesp.net/wiki/Skyrim:Leather_Strips) | [](https://en.uesp.net/wiki/File:SR-icon-misc-Firewood.png) [Firewood](Skyrim_Firewood.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | | | | | | | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Dagger.png) | Dark Seducer Dagger <br> ([xx](Skyrim_Form_ID.md) 000821) | 3 | 105 | 9 | 5 | 1.3 | 0.7 | 1 | 1 | 1 | 1 | 0 | 0.4 | -358 | 1.15 | 0.23 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Sword.png) | Dark Seducer Sword <br> ([xx](Skyrim_Form_ID.md) 000823) | 11 | 250 | 12 | 7 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 7.4 | -273 | 3.06 | 0.48 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_War_Axe.png) | Dark Seducer War Axe <br> ([xx](Skyrim_Form_ID.md) 000829) | 13 | 320 | 13 | 7 | 0.9 | 1 | 1 | 1 | 1 | 2 | 0 | 10.3 | -146 | 4.81 | 0.69 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Mace.png) | Dark Seducer Mace <br> ([xx](Skyrim_Form_ID.md) 000824) | 15 | 370 | 14 | 8 | 0.8 | 1 | 1 | 1 | 2 | 1 | 0 | 11.4 | -153 | 4.17 | 0.71 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Greatsword.png) | Dark Seducer Greatsword <br> ([xx](Skyrim_Form_ID.md) 000825) | 18 | 510 | 20 | 12 | 0.7 | 1.3 | 1 | 1 | 4 | 3 | 0 | 12.2 | -139 | 3.10 | 0.79 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Battleaxe.png) | Dark Seducer Battleaxe <br> ([xx](Skyrim_Form_ID.md) 000839) | 22 | 575 | 21 | 12 | 0.7 | 1.3 | 1 | 1 | 4 | 2 | 0 | 16.3 | -71 | 3.86 | 0.89 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Warhammer.png) | Dark Seducer Warhammer <br> ([xx](Skyrim_Form_ID.md) 000828) | 26 | 620 | 23 | 13 | 0.6 | 1.3 | 1 | 1 | 4 | 3 | 0 | 20.2 | -29 | 4.48 | 0.96 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark_Bow.png) | Dark Seducer Bow <br> ([xx](Skyrim_Form_ID.md) 000802) | 10 | 495 | 13 | 9 | 0.5 | 1 | 1 | 1 | 2 | 0 | 0 | 6.5 | -25 | 2.86 | 0.95 |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Dark Seducer Arrows.png) | Dark Arrow<sup>[†](#intnote_Arrow)</sup> <br> ([xx](Skyrim_Form_ID.md) 00082A) | 0.1 | 6 | 17 | N/A | 0 | 1 | 1 | 0 | 1 | -4.1 | -261 | 0.37 | 0.36 | | |
+
+[†](#note_Arrow) Recipe creates 24 Dark Arrows for the raw materials values.
+## Notes
+- The artifact [Ruin's Edge](Skyrim_Ruin%27s_Edge_(item).md) is considered to be a dark bow, but was released in an [earlier Creation](Skyrim_Ruin%27s_Edge.md) and doesn't have the same tempering requirements as the dark equipment introduced with the Saints & Seducers Creation.
+
+![](https://images.uesp.net/thumb/4/45/SR-achievement-Platinum_Trophy.png/32px-SR-achievement-Platinum_Trophy.png)
+*This [Skyrim](Skyrim_Skyrim.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Skyrim:Dark&action=edit).*

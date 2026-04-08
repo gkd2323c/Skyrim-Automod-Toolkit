@@ -1,0 +1,10 @@
+# The Changed Ones
+
+| Book Information | |
+| --- | --- |
+| Writer | [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:The_Changed_Ones) <br> - [Skyrim](Skyrim_Changed_Ones.md) ([Dragonborn](Skyrim_Dragonborn.md)) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Changed_Ones) |
+
+The Changed Ones *Story of how Boethiah refuted Trinimac*
+---
+Of all the [et'Ada](Lore_Et%27Ada.md) who wandered [Nirn](Lore_Nirn.md), [Trinimac](Lore_Trinimac.md) was the strongest. He, for a very long time, fooled the [Aldmeri](Lore_Aldmer.md) into thinking that tears were the best response to the Sundering. They cried and shamed our ancestors, especially the feminine [Altmer](Lore_Altmer.md). They even took the [Missing God](Lore_Lorkhan.md)'s name in vain, calling His narratives into question. So one day [Boethiah](Lore_Boethiah.md), Prince of Plots, precocious youth, tricked Trinimac to go into his mouth. Boethiah talked like Trinimac for awhile then, and gathered enough people to listen to him. Boethiah showed them the lies of the et'Ada, the [Aedra](Lore_Aedra.md), and told them Trinimac was the biggest liar of all, saying all this with Trinimac's voice! Boethiah told the mass before him the Tri-Angled Truth. He showed them, with [Mephala](Lore_Mephala.md), the rules of [Psijic Endeavor](Lore_Psijic_Endeavor.md). He taught them how to build [Houses](Lore_Great_Houses.md), and [what items they needed to bury](Lore_36_Lessons_of_Vivec,_Sermon_19.md) in the [Corners](Lore_House_of_Troubles.md). He demonstrated the right way to wear their skin. He performed the way to walk to achieve an Exodus. Then Boethiah relieved himself of Trinimac right there on the ground before them to prove all the things he said were the truth. It was easy then for his new people to become the [Changed Ones](Lore_Chimer.md).

@@ -1,0 +1,28 @@
+# Ovra
+
+| Vateshran Ovra | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-Vateshran Ovra.jpg](https://images.uesp.net/thumb/3/3f/ON-npc-Vateshran_Ovra.jpg/200px-ON-npc-Vateshran_Ovra.jpg)](https://en.uesp.net/wiki/File:ON-npc-Vateshran_Ovra.jpg) Vateshran Ovra | | | |
+| Race | [Reachman](Lore_Reachman.md) | Gender | Female |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) | | |
+| Resided in | [The Reach](Lore_The_Reach.md) <br> [Red Eagle Redoubt](Lore_Red_Eagle_Redoubt.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Vateshran_Ovra) | | |
+
+**Vateshran** Ovra was one of the [Reachfolk](Lore_Reachfolk.md) [historians and storytellers](Lore_Vateshrans.md) active in [2E 582](Lore_Second_Era.md#2E_582), during the period of [Interregnum](Lore_Interregnum.md). She was the keeper of the tale of the meeting between [Rada al-Saran](Lore_Rada_al-Saran.md) and [Red Eagle](Lore_Red_Eagle.md) and the custodian of the sacred cave underneath [Red Eagle Redoubt](Lore_Red_Eagle_Redoubt.md).<sup>[[1]](#cite_note-Vateshran_Ovra-1)</sup><sup>[[2]](#cite_note-RES-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/0f/ON-place-Red_Eagle_Redoubt_%28Sacred_Cave%29_03.jpg/200px-ON-place-Red_Eagle_Redoubt_%28Sacred_Cave%29_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Red_Eagle_Redoubt_(Sacred_Cave)_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Red_Eagle_Redoubt_(Sacred_Cave)_03.jpg) Sacred Cave In 2E 582, Vateshran Ovra aided [Sai Sahan](Lore_Sai_Sahan.md) in his quest to recover the lost art of [Shehai](Lore_Shehai.md) by allowing him to access and read the ancient inscriptions in the sacred cave of Red Eagle located near Red Eagle Redoubt.<sup>[[1]](#cite_note-Vateshran_Ovra-1)</sup><sup>[[2]](#cite_note-RES-2)</sup>
+
+Sai Sahan ventured to [the Reach](Lore_The_Reach.md) in hopes to learn of the legend about the meeting between the master swordsman and sword-singer Rada al-Saran and Faolan the Red Eagle. Together with his lover [Lyris Titanborn](Lore_Lyris_Titanborn.md), and [an ally](Lore_The_Vestige.md) they were scouring the region in search of clues regarding this meeting. According to the letters they found, Rada lost his ability to manifest a Shehai and traveled to the Reach to meet with Faolan to regain his lost abilities.<sup>[[2]](#cite_note-RES-2)</sup><sup>[[3]](#cite_note-Sai_Sahan-3)</sup><sup>[[4]](#cite_note-Lyris_Titanborn-4)</sup>
+
+During their search they helped a Reacholk clan defeat a group of [Gray Host](Lore_Gray_Host.md) [vampires](Lore_Vampire.md),<sup>[[5]](#cite_note-Tisfira-5)</sup> and eventually were directed to the [Hroldan Ring](Lore_Hroldan_Ring.md) and later the [Red Eagle Redoubt](Lore_Red_Eagle_Redoubt.md), where they met Ovra. They sought the guidance of the lore keeper. She agreed to help as the word of their actions was spread across the Reach. She allowed them to visit the ancient cave below the Red Eagle Redoubt, a place sacred to the Reachfolk. Ovra claimed that if the song was meant for them the answers will be found inside the sacred place.<sup>[[1]](#cite_note-Vateshran_Ovra-1)</sup><sup>[[2]](#cite_note-RES-2)</sup> She also revealed that the same cave was the place where Rada and Faolan met and exchanged knowledge. The cave was safeguarded since those times and left alone.<sup>[[4]](#cite_note-Lyris_Titanborn-4)</sup> Ultimately Sai and Lyris uncovered the verses of the ancient song and sang it together. The knowledge he found in the cave as well as his dedication to his lover Lyris allowed Sai to manifest his Shehai.<sup>[[2]](#cite_note-RES-2)</sup><sup>[[3]](#cite_note-Sai_Sahan-3)</sup><sup>[[4]](#cite_note-Lyris_Titanborn-4)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Vateshran_Ovra) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Vateshran_Ovra_1-0)***</sup><sup>***[b](#cite_ref-Vateshran_Ovra_1-1)***</sup><sup>***[c](#cite_ref-Vateshran_Ovra_1-2)***</sup> [Vateshran Ovra](https://en.uesp.net/wiki/Online:Vateshran_Ovra)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. ^ <sup>***[a](#cite_ref-RES_2-0)***</sup><sup>***[b](#cite_ref-RES_2-1)***</sup><sup>***[c](#cite_ref-RES_2-2)***</sup><sup>***[d](#cite_ref-RES_2-3)***</sup><sup>***[e](#cite_ref-RES_2-4)***</sup> Events of [Red Eagle's Song](https://en.uesp.net/wiki/Online:Red_Eagle%27s_Song_(quest)) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. ^ <sup>***[a](#cite_ref-Sai_Sahan_3-0)***</sup><sup>***[b](#cite_ref-Sai_Sahan_3-1)***</sup> [Sai Sahan](https://en.uesp.net/wiki/Online:Sai_Sahan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. ^ <sup>***[a](#cite_ref-Lyris_Titanborn_4-0)***</sup><sup>***[b](#cite_ref-Lyris_Titanborn_4-1)***</sup><sup>***[c](#cite_ref-Lyris_Titanborn_4-2)***</sup> [Lyris Titanborn](https://en.uesp.net/wiki/Online:Lyris_Titanborn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+5. [^](#cite_ref-Tisfira_5-0) [Tisfira](https://en.uesp.net/wiki/Online:Tisfira)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

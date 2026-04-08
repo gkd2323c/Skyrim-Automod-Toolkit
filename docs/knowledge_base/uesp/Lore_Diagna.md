@@ -1,0 +1,21 @@
+# Diagna
+
+[](https://en.uesp.net/wiki/File:ON-icon-stolen-Diagna_Statuette.png) Diagna, (also known as the **Orichalc God of the Sideways Blade**) was an avatar of the [Hoon Ding](https://en.uesp.net/wiki/Lore:Hoon Ding) (the Yokudan God of Make Way) that achieved permanence as a [Redguard](Lore_Redguard.md) sword-god.<sup>[[1]](#cite_note-EGTHammerfell-1)</sup><sup>[[2]](#cite_note-ASE-2)</sup> His "hoary thuggish cult" originated in [Yokuda](Lore_Yokuda.md) during the Twenty Seven Snake Folk Slaughter.<sup>[[3]](#cite_note-VOF-3)</sup> He was instrumental to the defeat of the [Lefthanded Elves](Lore_Lefthanded_Elves.md), as he brought [orichalc](Lore_Orichalcum.md) [weapons](Lore_Weapons.md) to the Yokudan people to win the fight.<sup>[[3]](#cite_note-VOF-3)</sup> According to one myth, Diagna crashed his fist against the Hoon Ding Gong and swords fell from the walls of the Orichalc Tower.<sup>[[4]](#cite_note-LAB-4)</sup>
+
+In [Tamriel](Lore_Tamriel.md), he led a very tight-knit group of followers, called the [Order of Diagna](Lore_Order_of_Diagna.md), against the [Orcs](Lore_Orc.md) of [Orsinium](Lore_Orsinium.md) during the height of their ancient power, but then faded into partial obscurity. He is described as now being little more than a local power spirit of the [Dragontail Mountains](Lore_Dragontail_Mountains.md)<sup>[[3]](#cite_note-VOF-3)</sup> but he is still worshipped as of the [4th Era](Lore_Fourth_Era.md),<sup>[[5]](#cite_note-5)</sup> being part of the Eight of the [Crowns](Lore_Crowns.md).<sup>[[6]](#cite_note-Vo FCR-6)</sup>
+
+High Kings of Hammerfell are crowned on the Throne of [Hegathe](Lore_Hegathe.md) by wearing the [Diadem of Diagna](Lore_Diadem_of_Diagna.md).<sup>[[7]](#cite_note-TWAAHD-7)</sup> Warriors of the Order of Diagna carried stone effigies of Diagna during the siege.<sup>[[2]](#cite_note-ASE-2)</sup> The [Daggerfall Covenant](Lore_Daggerfall_Covenant.md)'s alliance of the Orcs and Redguards was alleged by the Unveiled Azadiyeh to have inflamed Diagna's very sword-arm with the Crimson Rash of Betrayal.<sup>[[8]](#cite_note-Pf OE-8)</sup>
+
+## Notes
+- The description of the Cobalt Sep Adder originally stated that Diagna was said to have created the lightning-blue Sapphire Adder by passing his orichalc sword over a common [Sep Adder](Lore_Sep_Adder.md) when he needed a symbol of Redguard ferocity during the first Siege of Orsinium.<sup>[[9]](#cite_note-Cobalt-9)</sup> It was later changed to remove all mentions of Diagna.
+
+## References
+1. [^](#cite_ref-EGTHammerfell_1-0) [*The Improved Emperor's Guide to Tamriel: Hammerfell*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Hammerfell) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+2. ^ <sup>***[a](#cite_ref-ASE_2-0)***</sup><sup>***[b](#cite_ref-ASE_2-1)***</sup> [Armless Stone Effigy Antiquities Codex](https://en.uesp.net/wiki/Online:Wrothgar_Antiquities#Armless_Stone_Effigy) from [ESO](https://en.uesp.net/wiki/Online:Greymoor)
+3. ^ <sup>***[a](#cite_ref-VOF_3-0)***</sup><sup>***[b](#cite_ref-VOF_3-1)***</sup><sup>***[c](#cite_ref-VOF_3-2)***</sup> [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+4. [^](#cite_ref-LAB_4-0) [Lefthander's Aegis Belt](https://en.uesp.net/wiki/Online:Lefthander%27s_Aegis_Belt) codex entry
+5. [^](#cite_ref-5) [Alik'r Bandit](https://en.uesp.net/wiki/Legends:Alik%27r_Bandit)'s dialogue in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+6. [^](#cite_ref-Vo FCR_6-0) [*Varieties of Faith, Crown Redguards*](Lore_Varieties_of_Faith,_Crown_Redguards.md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+7. [^](#cite_ref-TWAAHD_7-0) [*The Worthy Ar-Azal, His Deeds*](Lore_The_Worthy_Ar-Azal,_His_Deeds.md)
+8. [^](#cite_ref-Pf OE_8-0) [*Plea for Open Eyes*](Lore_Plea_for_Open_Eyes.md) — [The Unveiled Azadiyeh](Lore_Books_by_Author.md#The_Unveiled_Azadiyeh)
+9. [^](#cite_ref-Cobalt_9-0) [Cobalt Sep Adder](https://en.uesp.net/wiki/Online:Cobalt_Sep_Adder) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)

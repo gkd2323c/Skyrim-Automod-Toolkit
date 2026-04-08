@@ -1,0 +1,16 @@
+# Obscuros
+
+[![](https://images.uesp.net/thumb/0/02/ON-quest-Of_Knives_and_Long_Shadows_02.jpg/200px-ON-quest-Of_Knives_and_Long_Shadows_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-Of_Knives_and_Long_Shadows_02.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Of_Knives_and_Long_Shadows_02.jpg) The Obscuros (ESO) The Obscuros is a scrying artifact that enhances the user's [Sight](Lore_Sight.md) and projects their visions in the form of holographic constructs for anyone to see. It is said to be the most powerful scrying device on Tamriel.<sup>[[1]](#cite_note-Lilatha-1)</sup> It was used and protected by the [ancient](Lore_Ancients.md) [Psijics](Lore_Psijic_Order.md) before being deactivated and hidden to prevent its misuse,<sup>[[1]](#cite_note-Lilatha-1)</sup><sup>[[2]](#cite_note-Knives-2)</sup> being relocated to the island of [Dranil Kir](Lore_Dranil_Kir.md) and locked away with magical traps.<sup>[[3]](#cite_note-Load-3)</sup> The artifacts' presence on the island made it infamously plagued by severe weather.<sup>[[4]](#cite_note-Dranil-4)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), the Psijic monk [Lilatha](Lore_Lilatha.md) sought to find the origin of several incidents regarding peoples' [shadows](Lore_Shadow.md) coming to life and killing them. She employed the help of the [Vestige](Lore_The_Vestige.md) to assist her, who gathered an Anuic Lantern and Liminal Lens before meeting her at Dranil Kir to find the Obscuros. The pair reached, repaired, and activated the artifact, asking it where the [Skeleton Key](Lore_Skeleton_Key.md) was located. It output a projection of the [Clockwork City](Lore_Clockwork_City.md),<sup>[[2]](#cite_note-Knives-2)</sup> which would prove to be accurate. Later that year, the Vestige would recover the Skeleton Key from the city, where it was being used to imprison [Sotha Sil](Lore_Sotha_Sil.md).<sup>[[5]](#cite_note-ESOCWC-5)</sup>
+
+## Notes
+- An object known as the Clockwork Obscuros was a souvenir of Sotha Sil's capable of displaying a projection of the Clockwork City.<sup>[[6]](#cite_note-6)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Lilatha_1-0)***</sup><sup>***[b](#cite_ref-Lilatha_1-1)***</sup> [Lilatha](https://en.uesp.net/wiki/Online:Lilatha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Knives_2-0)***</sup><sup>***[b](#cite_ref-Knives_2-1)***</sup> Events of [Of Knives and Long Shadows](https://en.uesp.net/wiki/Online:Of_Knives_and_Long_Shadows) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+3. [^](#cite_ref-Load_3-0) [Dranil Kir](https://en.uesp.net/wiki/Online:Dranil_Kir) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Dranil_4-0) [Dranil Kir](https://en.uesp.net/wiki/Online:Dranil_Kir) appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ESOCWC_5-0) Events of [ESO: *Clockwork City*](https://en.uesp.net/wiki/Online:DLC#Clockwork_City)
+6. [^](#cite_ref-6) [Clockwork Obscuros](https://en.uesp.net/wiki/Online:Clockwork_Obscuros) item description in [ESO](https://en.uesp.net/wiki/Online:Online)

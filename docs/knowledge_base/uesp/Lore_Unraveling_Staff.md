@@ -1,0 +1,26 @@
+# Unraveling Staff
+
+[![](https://images.uesp.net/thumb/b/bd/ON-item-Unraveling_Staff.jpg/200px-ON-item-Unraveling_Staff.jpg)](https://en.uesp.net/wiki/File:ON-item-Unraveling_Staff.jpg) [](https://en.uesp.net/wiki/File:ON-item-Unraveling_Staff.jpg) The Unraveling Staff The Unraveling Staff, occasionally called a wand, is a powerful [staff](Lore_Staff.md) artifact renowned for its ability to unravel any material. It was crafted in [Summerset](Lore_Summerset_Isles.md) by Anillyon. It is extremely dangerous, capable of dismantling buildings, trees, and even flesh of living beings.<sup>[[1]](#cite_note-US-1)</sup><sup>[[2]](#cite_note-TUS-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/0/04/ON-npc-Relicmaster_Glenadir.jpg/200px-ON-npc-Relicmaster_Glenadir.jpg)](https://en.uesp.net/wiki/File:ON-npc-Relicmaster_Glenadir.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Relicmaster_Glenadir.jpg) Relicmaster Glenadir [![](https://images.uesp.net/thumb/e/eb/ON-place-The_Vault_of_Moawita.jpg/200px-ON-place-The_Vault_of_Moawita.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Vault_of_Moawita.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Vault_of_Moawita.jpg) The Vault of Moawita The Unraveling Staff was originally commissioned by a prominent and impatient weaver in the city.<sup>[[1]](#cite_note-US-1)</sup><sup>[[2]](#cite_note-TUS-2)</sup> It was created by Anillyon for this commission, and according to a neighbor of the creator, Anillyon often spoke highly of the staff, claiming it was very effective.<sup>[[2]](#cite_note-TUS-2)</sup>
+
+At one point, Anillyon was spotted running through the streets, laughing maniacally. Everywhere he pointed, people's clothes disintegrated, buildings unraveled, and at least one individual was directly dismantled. His actions unleashed chaos and destruction, resulting in numerous casualties. Judicator Umberwen compiled a report on the incident, labeled Report 4587, dated Sun's Height, 27th. The suspect has been detained pending a court date, with no bail offered. This report was transcribed by Relicmaster Glenadir of the [Psijiic Order](Lore_Psijiic_Order.md), who has stored this artifact along with many others in the Vaults of Moawita on the isle of [Artaeum](Lore_Artaeum.md).<sup>[[2]](#cite_note-TUS-2)</sup><sup>[[3]](#cite_note-RG-3)</sup>
+
+As of [2E 582](Lore_Second_Era.md#2E_582), the Unraveling Staff was among the relics stored in the Vault of Moawita, a secure location for the Order to contain the most cursed and dangerous artifacts—items deemed too powerful to risk misuse. The staff was properly sealed within the vault.<sup>[[3]](#cite_note-RG-3)</sup>
+
+That same year, however, it was stolen along with 19 other artifacts by a thief who concealed them throughout [Summerset Isle](Lore_Summerset_Isle.md), leaving hints for the Order to follow.<sup>[[3]](#cite_note-RG-3)</sup><sup>[[4]](#cite_note-PC-4)</sup> A representative of the Order eventually located the staff beneath a bridge by a serene creek near [Rellenthil](Lore_Rellenthil.md).<sup>[[5]](#cite_note-RUS-5)</sup><sup>[[4]](#cite_note-PC-4)</sup> It was returned to the Artaeum and placed back in the Vault of Moawita, where it remained securely sealed.<sup>[[5]](#cite_note-RUS-5)</sup>
+
+## See Also
+For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Relics_of_Summerset#The_Unraveling_Staff) [](https://en.uesp.net/wiki/Online:Summerset_(Chapter)) article.
+
+### Books
+- ***[The Unraveling Staff](Lore_The_Unraveling_Staff.md)*** by [Judicator Umberwen](Lore_Books_by_Author.md#Judicator_Umberwen) — A report regarding a magical staff that causes untold destruction
+- ***[Psijic Codex: List of Dead Drops](https://en.uesp.net/wiki/Online:Psijic_Codex:_List_of_Dead_Drops)***
+
+## References
+1. ^ <sup>***[a](#cite_ref-US_1-0)***</sup><sup>***[b](#cite_ref-US_1-1)***</sup> The Unraveling Staff item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+2. ^ <sup>***[a](#cite_ref-TUS_2-0)***</sup><sup>***[b](#cite_ref-TUS_2-1)***</sup><sup>***[c](#cite_ref-TUS_2-2)***</sup><sup>***[d](#cite_ref-TUS_2-3)***</sup> [*The Unraveling Staff*](Lore_The_Unraveling_Staff.md) — [Judicator Umberwen](Lore_Books_by_Author.md#Judicator_Umberwen)
+3. ^ <sup>***[a](#cite_ref-RG_3-0)***</sup><sup>***[b](#cite_ref-RG_3-1)***</sup><sup>***[c](#cite_ref-RG_3-2)***</sup> [Relicmaster Glenadir](https://en.uesp.net/wiki/Online:Relicmaster_Glenadir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+4. ^ <sup>***[a](#cite_ref-PC_4-0)***</sup><sup>***[b](#cite_ref-PC_4-1)***</sup> [*Psijic Codex: List of Dead Drops*](https://en.uesp.net/wiki/Online:Psijic_Codex:_List_of_Dead_Drops)
+5. ^ <sup>***[a](#cite_ref-RUS_5-0)***</sup><sup>***[b](#cite_ref-RUS_5-1)***</sup> [Relics of Summerset](https://en.uesp.net/wiki/Online:Relics_of_Summerset) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*

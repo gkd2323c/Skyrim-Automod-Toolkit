@@ -1,0 +1,22 @@
+# Azra's Staffs
+
+[![](https://images.uesp.net/thumb/f/fd/CT-weapon-Staff_of_Lightning.png/200px-CT-weapon-Staff_of_Lightning.png)](https://en.uesp.net/wiki/File:CT-weapon-Staff_of_Lightning.png) [](https://en.uesp.net/wiki/File:CT-weapon-Staff_of_Lightning.png) Azra's Staff (Castles) Azra's Staffs are a collection of [staves](Lore_Staff.md) created and [enchanted](Lore_Enchanting.md) by the original Shadowmage [Azra Nightwielder](Lore_Azra_Nightwielder.md), whose advances in [magic](Lore_Magic.md) were legendary. In addition to his role in the development of [Shadow magic](Lore_Shadow_Magic.md), he was also known as a pioneer of staff enchantment. His techniques were considered rudimentary by the [Fourth Era](Lore_Fourth_Era.md), but his genius remained evident throughout the ages.<sup>[[1]](#cite_note-N-1)</sup><sup>[[2]](#cite_note-PRIMA-2)</sup><sup>:607</sup> While Azra himself wielded a personal staff, its properties are unknown.<sup>[[3]](#cite_note-Azra-3)</sup>
+
+[Neloth](Lore_Neloth.md) of [House Telvanni](Lore_House_Telvanni.md) was known to collect the staves created by Azra Nightwielder. Each staff of his creation led to Neloth's greater understanding of the field of enchantment. He was known to have several of these staves in his personal collection. In [4E 201](Lore_Fourth_Era.md#4E_201), Neloth discovered the locations of several staves created by Azra and enlisted an [adventurer](Lore_Last_Dragonborn.md) to retrieve some of them from sites he had identified in the province of [Skyrim](Lore_Skyrim.md).<sup>[[1]](#cite_note-N-1)</sup><sup>[[2]](#cite_note-PRIMA-2)</sup><sup>:607</sup> It is known that he wielded at least one such staff in battle.<sup>[[4]](#cite_note-Castles-4)</sup>
+
+The staffs created by Azra are numerous and have a variety of known effects, including influencing the minds of people, making them calm or fearful, commanding [undead](Lore_Undead.md) and forcing them to flee, [summoning](Lore_Conjuration.md) various types of [Daedra](Lore_Daedra.md) from [Oblivion](Lore_Oblivion.md) and banishing them, and causing paralysis. Some of them also command elements, the most notable of which are fire,<sup>[[5]](#cite_note-AS-5)</sup> frost, and lightning.<sup>[[4]](#cite_note-Castles-4)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/7b/SK-npc-Azra_Nightwielder_Square.png/200px-SK-npc-Azra_Nightwielder_Square.png)](https://en.uesp.net/wiki/File:SK-npc-Azra_Nightwielder_Square.png) Azra Nightwielder wielding a staff (Shadowkey)
+- [![](https://images.uesp.net/thumb/f/f2/SR-item-Azra%27s_Staff_of_Daedric_Command.jpg/200px-SR-item-Azra%27s_Staff_of_Daedric_Command.jpg)](https://en.uesp.net/wiki/File:SR-item-Azra%27s_Staff_of_Daedric_Command.jpg) One of Azra's Staffs (Skyrim)
+- [![](https://images.uesp.net/thumb/6/6a/SK-place-Cabinet.jpg/169px-SK-place-Cabinet.jpg)](https://en.uesp.net/wiki/File:SK-place-Cabinet.jpg) One of the cabinets containing Azra's artifacts (Shadowkey)
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Azra%27s_Staffs.md)<sup>[DB](Skyrim_Dragonborn.md)</sup> and [*Castles*](https://en.uesp.net/wiki/Castles:Azra%27s_Staff) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-N_1-0)***</sup><sup>***[b](#cite_ref-N_1-1)***</sup> [Neloth](Skyrim_Neloth.md)'s dialogue during [Azra's Staffs](Skyrim_Azra%27s_Staffs.md) in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+2. ^ <sup>***[a](#cite_ref-PRIMA_2-0)***</sup><sup>***[b](#cite_ref-PRIMA_2-1)***</sup> [The Elder Scrolls V: Skyrim Legendary Prima Official Game Guide](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide#Legendary_Edition)
+3. [^](#cite_ref-Azra_3-0) [Azra Nightwielder](https://en.uesp.net/wiki/Shadowkey:Azra_Nightwielder) in *[Shadowkey](https://en.uesp.net/wiki/Shadowkey:Shadowkey)*
+4. ^ <sup>***[a](#cite_ref-Castles_4-0)***</sup><sup>***[b](#cite_ref-Castles_4-1)***</sup> [Neloth](https://en.uesp.net/wiki/Castles:Neloth)'s equipment and [Azra's Staff](https://en.uesp.net/wiki/Castles:Azra%27s_Staff) in *[Castles](https://en.uesp.net/wiki/Castles:Castles)*
+5. [^](#cite_ref-AS_5-0) Variety of staves and events of [Azra's Staffs](Skyrim_Azra%27s_Staffs.md) in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*

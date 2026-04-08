@@ -1,0 +1,7 @@
+# Zeqqi
+
+[![](https://images.uesp.net/thumb/0/09/ON-interior-Thieves_Den.jpg/200px-ON-interior-Thieves_Den.jpg)](https://en.uesp.net/wiki/File:ON-interior-Thieves_Den.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Thieves_Den.jpg) Possible statute of Zeqqi Zeqqi, known as the **Madonna of Tears**, is a water goddess and the daughter of [Zeht](Lore_Zeht.md). As her father forsakes [Hew's Bane](Lore_Hew%27s_Bane.md), the water goddess takes pity on the lost souls who call [Abah's Landing](Lore_Abah%27s_Landing.md) their home. It is theorized that the "Lady in the Cistern" statue depicts her, recognizing the sacrifices she makes to sustain the people of the city, hidden from the gaze of her disapproving father.<sup>[[1]](#cite_note-Lit C-1)</sup> The Hel Netu swore by Zeqqi's mercy.<sup>[[2]](#cite_note-CM131-2)</sup>
+
+## References
+1. [^](#cite_ref-Lit C_1-0) [*Lady in the Cistern: Walks-Softly's Theory*](https://en.uesp.net/wiki/Online:Lady_in_the_Cistern:_Walks-Softly%27s_Theory) — [Walks-Softly](https://en.uesp.net/wiki/Online:Walks-Softly)
+2. [^](#cite_ref-CM131_2-0) [*Crafting Motif 131: Militant Monk Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_131__Militant_Monk_Style) — [Mehira the Nimble](Lore_Books_by_Author.md#Mehira_the_Nimble) of the Hel Netu

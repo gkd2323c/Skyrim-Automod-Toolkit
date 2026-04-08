@@ -1,0 +1,7 @@
+# Yespest
+
+The Yespest (or **Yerpest**)<sup>[[1]](#cite_note-PGE0-1)</sup> are a tribe of [Men](Lore_Men.md) indigenous to [Black Marsh](Lore_Black_Marsh.md), along with the [Horwalli](Lore_Horwalli.md), [Kothringi](Lore_Kothringi.md), and [Orma](Lore_Orma.md). How they arrived in Black Marsh is unknown, but it is possible that they were sent there as refugees or prisoners. Alternatively, they may have settled along the coastal waterways on their own and adapted to the environment.<sup>[[2]](#cite_note-PGE3BM-2)</sup> The Yespest were active in the region around [Blackrose](Lore_Blackrose.md). They may have been contemporaries of the [Barsaebics](Lore_Barsaebics.md), and some Imperial scholars erroneously credit them with building the ancient [Argonian](Lore_Argonian.md) [xanmeers](Lore_Xanmeer.md).<sup>[[1]](#cite_note-PGE0-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-PGE0_1-0)***</sup><sup>***[b](#cite_ref-PGE0_1-1)***</sup> [*The Improved Emperor's Guide to Tamriel: Black Marsh*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Black_Marsh) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+2. [^](#cite_ref-PGE3BM_2-0) [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)

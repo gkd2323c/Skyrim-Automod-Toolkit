@@ -1,0 +1,19 @@
+# Deathwing Clan
+
+[![](https://images.uesp.net/thumb/4/40/ON-npc-Fynennel.jpg/200px-ON-npc-Fynennel.jpg)](https://en.uesp.net/wiki/File:ON-npc-Fynennel.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Fynennel.jpg) A member of the Deathwing Clan ca. [2E 582](Lore_Second_Era.md#2E_582) Deathwing Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md). They were a nomadic clan, known for their beautiful and purposeful artworks, such as carvings,<sup>[[1]](#cite_note-Fynennel-1)</sup> which (typically for the Reachfolk art in general) were known for their impressive rawness of emotion.<sup>[[2]](#cite_note-Antiquity-2)</sup> The belief that clans should not remain in one place for long and that any item wanderers carry must be worth its weight was widespread among its members. The Deathwings revered the cycle of life and death.<sup>[[1]](#cite_note-Fynennel-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/1/12/ON-item-Reach_Glyph_Wall.jpg/200px-ON-item-Reach_Glyph_Wall.jpg)](https://en.uesp.net/wiki/File:ON-item-Reach_Glyph_Wall.jpg) [](https://en.uesp.net/wiki/File:ON-item-Reach_Glyph_Wall.jpg) Various decorative patterns found on Markarth's walls At some point before [2E 582](Lore_Second_Era.md#2E_582) the Deathwings fought against a group of raiders. One of their clan members, an artist named Fynennel purportedly managed to kill five aggressors with a single carving.<sup>[[1]](#cite_note-Fynennel-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[3]](#cite_note-Medone-3)</sup><sup>[[4]](#cite_note-CVR-4)</sup> The Deathwing Clan or at least a part of its members was among the clans that answered the call and moved to the City of Stone.<sup>[[1]](#cite_note-Fynennel-1)</sup>
+
+The same artist, Fynennel was later hired to decorate the walls of the [Understone Keep](Lore_Understone_Keep.md). She claimed that inspiration comes from everything, even the shadows, and can be found anywhere. As a follower of her clan's beliefs regarding the sacredness of the cycle of life and death, she stated that death informs every single piece of art she created.<sup>[[1]](#cite_note-Fynennel-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Deathwing_Clan) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Fynennel_1-0)***</sup><sup>***[b](#cite_ref-Fynennel_1-1)***</sup><sup>***[c](#cite_ref-Fynennel_1-2)***</sup><sup>***[d](#cite_ref-Fynennel_1-3)***</sup><sup>***[e](#cite_ref-Fynennel_1-4)***</sup> [Fynennel](https://en.uesp.net/wiki/Online:Fynennel)'s dialogue and actions in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-Antiquity_2-0) [Red Eagle Cave Painting](https://en.uesp.net/wiki/Online:Red_Eagle_Cave_Painting) antiquity codex entry in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Medone_3-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-CVR_4-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

@@ -1,0 +1,7 @@
+# Lhotunics
+
+[![](https://images.uesp.net/0/0f/DF-npc-Lhotun_%28face%29.png)](https://en.uesp.net/wiki/File:DF-npc-Lhotun_(face).png) [](https://en.uesp.net/wiki/File:DF-npc-Lhotun_(face).png) King Lhotun, namesake of the party The Lhotunics (the name Lhotun meaning **Second Boy** in [Yoku](Lore_Yoku.md))<sup>[[1]](#cite_note-MPDC-1)</sup> are the third faction in [Redguard](Lore_Redguard.md) society that appeared after the [Warp in the West](Lore_Warp_in_the_West.md). During the Warp, the [Forebear](Lore_Forebears.md) city of [Sentinel](Lore_Sentinel.md) became the dominant power in most of northern [Hammerfell](Lore_Hammerfell.md). However, most of Sentinel's new lands were [Crown](Lore_Crowns.md). To keep his kingdom together, [King Lhotun](Lore_Lhotun.md) was forced to create what some consider a third party, one with reverence for the [Yokudan](Lore_Yokudan.md) past but respect for the Imperial ways. The moderate Lhotunics have attracted nothing but contempt from both the Forebears and the Crowns.<sup>[[2]](#cite_note-PGE3-2)</sup>
+
+## References
+1. [^](#cite_ref-MPDC_1-0) [Death Certificate](https://en.uesp.net/wiki/Daggerfall:The_Missing_Prince) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+2. [^](#cite_ref-PGE3_2-0) [*Pocket Guide to the Empire, 3rd Edition: The Ra Gada: Hammerfell*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Hammerfell) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)

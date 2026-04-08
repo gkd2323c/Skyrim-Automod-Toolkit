@@ -1,0 +1,21 @@
+# Mad Baron Densil, Part the Second
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Mad_Baron_Densil,_Part_the_Second) ([High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))) | | |
+| Up | *[Mad Baron Densil](Lore_Mad_Baron_Densil.md)* | | |
+| Prev. | *[Part the First](Lore_Mad_Baron_Densil,_Part_the_First.md)* | Next | *[Part the Third](Lore_Mad_Baron_Densil,_Part_the_Third.md)* |
+
+Mad Baron Densil, Part the Second *The legend of Baron Densil of House Dufort*
+---
+As a youth, the "Mad Baron" [Densil](Lore_Densil_Dufort.md) was one of four children sired by the Third Baron Dufort, Gethmar, and his lady, Baroness Yoanna. Densil's three siblings did not survive to adulthood, their deaths clouded in mystery to the current day. It is said that their despicable brother engineered their deaths, though this is pure conjecture.
+
+What is known is that the death of her third child was too much for Baroness Yoanna, and her mind was shattered. In response, Baron Gethmar had her locked in a tower, where she lived out the rest of her days.
+
+Densil reached the age of majority and was officially declared heir to the barony. The death of Baron Gethmar followed just a year later. A rogue arrow buried itself in the baron's shoulder during a hunting trip, a wound which should not have killed him. Modern historians suspect poison on the barb, but at the time no evidence of any wrongdoing was discovered.
+
+Soon after Densil took the reins of the barony, he dismissed most of the loyal aides and staff, some of who had served the family for generations. All work on the knight's wing for the castle, which Gethmar had begun, ceased. And most knights who had often found a warm welcome and good companionship within Castle Navire departed for less disagreeable environments.
+
+Densil spent the next several years looting the once overflowing coffers of the barony, taxing his subjects to such an extent that they fled to other fiefdoms. Across the region, good land lay fallow. The Mad Baron and his cronies rampaged across the countryside.
+
+The few ships that came out of Navire's once proud shipyards were substandard. It was as if his mental state—a cursed whirlpool of anger, self-indulgence, and innate cruelty—were reflected in the quick downturn of this once well-run, prosperous barony and shipbuilding concern.

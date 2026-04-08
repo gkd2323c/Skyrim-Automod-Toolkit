@@ -1,0 +1,25 @@
+# Sling
+
+[![](https://images.uesp.net/thumb/b/b9/ON-npc-Xit-Xaht_Sludge-Slinger.jpg/200px-ON-npc-Xit-Xaht_Sludge-Slinger.jpg)](https://en.uesp.net/wiki/File:ON-npc-Xit-Xaht_Sludge-Slinger.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Xit-Xaht_Sludge-Slinger.jpg) A Xit-Xaht Sludge-Slinger Slings are projectile [weapons](Lore_Weapons.md) consisting of a strap or loop used to hurl stones or other projectiles.<sup>[[1]](#cite_note-CA-1)</sup><sup>[[2]](#cite_note-TSOC-2)</sup>
+
+Similarly to various other weapons, slings can be enchanted. *The Codex Arcana*, a series of compendiums compiled by the [Imperial Battlemages](Lore_Imperial_Battlemages.md) of [Battlespire](Lore_Battlespire.md), provides insight into the [enchanted](Lore_Enchantment.md) weapons kept within its confines. Serving as a partial index of arcane contrivances known to scholars and alchemists, it aims to familiarize all students with these artifacts to prevent their misuse or neglect. Within the compendium of enchantments lies the description of three remarkable enchanted slings: the Sling of Delight, endowed with magical healing properties; the Sling of Fickle Endowment, which invokes confusion through the [destructive](Lore_Destruction.md) forces of [magic](Lore_Magic.md); and the Sling of Riven Stars, inflicting moderate shock damage while granting its wielder insights into the mystical arts of [alteration](Lore_Alteration.md).<sup>[[1]](#cite_note-CA-1)</sup>
+
+Slings are also used in [sports](Lore_Sport.md), particularly in the [Orcish](Lore_Orc.md) game of [Vosh Ball](Lore_Vosh_Ball.md). Although the rules of the game evolved over time, the fundamental setup remains consistent. Two teams, each comprising six players armed with slings containing three vosh balls, vie for dominance in the enclosed court. Their objective is to incapacitate their opponents by hurling the heavy spheres with maximum force.<sup>[[2]](#cite_note-TSOC-2)</sup>
+
+The term "slinger" is also employed to describe an individual who utilized [projectiles](Lore_Throwing_Weapons.md), whether mundane stones or magical, in combat, even if they didn't use slings as their primary weapon.<sup>[[3]](#cite_note-XXSS-3)</sup> A similar term that is associated with mages is "magic-slingers," occasionally used to refer to those who wield magic in combat.<sup>[[4]](#cite_note-SX-4)</sup> Similarly, the act of casting spells is occasionally colloquially referred to as "spell slinging."<sup>[[5]](#cite_note-Raz-5)</sup><sup>[[6]](#cite_note-Syrabane-6)</sup> At times, it can be more specific, such as when the frost magic employed by the [Wardens](Lore_Wardens.md) is described as "slinging the frost of the north."<sup>[[7]](#cite_note-LA-7)</sup>
+
+[Atlatls](Lore_Atlatl.md) are another type of device used to hurl projectiles.<sup>[[8]](#cite_note-TC-8)</sup> Some sources mention other implements known as sling-spears.<sup>[[UOL 1]](#cite_note-MUT-9)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-CA_1-0)***</sup><sup>***[b](#cite_ref-CA_1-1)***</sup> [*Codex Arcana, Volume IX*](https://en.uesp.net/wiki/Battlespire:Codex_Arcana,_Volume_IX)
+2. ^ <sup>***[a](#cite_ref-TSOC_2-0)***</sup><sup>***[b](#cite_ref-TSOC_2-1)***</sup> [*The Sport of Clans*](Lore_The_Sport_of_Clans.md)
+3. [^](#cite_ref-XXSS_3-0) [Xit-Xaht Sludge-Slingers](https://en.uesp.net/wiki/Online:Xit-Xaht_Sludge-Slinger) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Shadows of the Hist](https://en.uesp.net/wiki/Online:Shadows_of_the_Hist)*
+4. [^](#cite_ref-SX_4-0) [*Crafting Motif 102: Sul-Xan Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_102__Sul-Xan_Style) — [Professor Astinia Bincal](Lore_Books_by_Author.md#Professor_Astinia_Bincal), University of Gwylim, Anthropology Department
+5. [^](#cite_ref-Raz_5-0) [Razgurug](https://en.uesp.net/wiki/Online:Razgurug)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Clockwork City](https://en.uesp.net/wiki/Online:Clockwork_City_(DLC))*
+6. [^](#cite_ref-Syrabane_6-0) [*The Tale of Syrabane*](Lore_The_Tale_of_Syrabane.md)
+7. [^](#cite_ref-LA_7-0) [*Loremaster's Archive - Tamriel's Dungeons*](Lore_Loremaster%27s_Archive_-_Tamriel%27s_Dungeons.md) — [Dhulef](Lore_Books_by_Author.md#Dhulef)
+8. [^](#cite_ref-TC_8-0) [Chieftain's Heirloom Toad-Atlatl](https://en.uesp.net/wiki/Online:Treasures_C#Chieftain.27s_Heirloom_Toad-Atlatl) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-MUT_9-0) [*Mixed Unit Tactics v4*](https://en.uesp.net/wiki/General:Mixed_Unit_Tactics_v4) — [Codus Callonus](https://en.uesp.net/wiki/Morrowind:Codus_Callonus)

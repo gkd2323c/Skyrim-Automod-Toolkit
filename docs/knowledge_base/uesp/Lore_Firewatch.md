@@ -1,0 +1,55 @@
+# Firewatch
+
+| Firewatch | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Morrowind](Lore_Morrowind.md) |
+| Region | [Northeast Morrowind](Lore_Morrowind.md#Northeast_Morrowind) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Firewatch) |
+
+[![](https://images.uesp.net/thumb/1/1f/AR-place-Firewatch.jpg/200px-AR-place-Firewatch.jpg)](https://en.uesp.net/wiki/File:AR-place-Firewatch.jpg) [](https://en.uesp.net/wiki/File:AR-place-Firewatch.jpg) Firewatch (Arena) [![](https://images.uesp.net/thumb/c/c1/AR-map-Morrowind_towns.png/200px-AR-map-Morrowind_towns.png)](https://en.uesp.net/wiki/File:AR-map-Morrowind_towns.png) [](https://en.uesp.net/wiki/File:AR-map-Morrowind_towns.png) Map of Morrowind *Firewatch is the closest City-State to the firecone, Dagoth Ur. Legend has it that a great labyrinth resides under that fiery mountain. Here in this city however, the danger comes from other sources...*
+—In-game description in *[Arena](https://en.uesp.net/wiki/Arena:Arena)* Firewatch is one of the eight major cities on the mainland of [Morrowind](Lore_Morrowind.md),<sup>[[1]](#cite_note-ARMap-1)</sup> settled on badlands along the shores of the [Sea of Ghosts](Lore_Sea_of_Ghosts.md).<sup>[[2]](#cite_note-Gt V-2)</sup><sup>[[UOL 1]](#cite_note-TPPlaying Houses-3)</sup><sup>[[UOL 2]](#cite_note-Concept Map-4)</sup><sup>[[3]](#cite_note-LA-5)</sup> Firewatch is found in eastern Morrowind, which is the territory of [House Indoril](Lore_House_Indoril.md).<sup>[[4]](#cite_note-GHo M-6)</sup> The city acquires its name because of its proximity to [Red Mountain](Lore_Red_Mountain.md) from the mainland. It is a beautiful city at peace that safely provides a grand vista of the volcano from within its walls, but is not without its own inner dangers. The terrain near the city consists of mesas, arid plateaus, and high steppes.<sup>[[5]](#cite_note-AR-7)</sup><sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> There is a large unnamed island found north of the city,<sup>[[1]](#cite_note-ARMap-1)</sup><sup>[[6]](#cite_note-MWMap-9)</sup> and the famous Indoril fortress of Bal Tereg is found close by.<sup>[[UOL 1]](#cite_note-TPPlaying Houses-3)</sup>
+
+## Layout and Geography
+Firewatch is a coastal city found along the eastern [Inner Sea](Lore_Inner_Sea.md) strait, across from [Vvardenfell](Lore_Vvardenfell.md) and where it meets the Sea of Ghosts.<sup>[[1]](#cite_note-ARMap-1)</sup> There are some shallower parts of the strait where striders can cross with ease, but the waters can become dangerous in the winters and many sunken shipwrecks are found at the bottom.<sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> The large island found to the north has a fertile plain-like terrain.<sup>[[1]](#cite_note-ARMap-1)</sup><sup>[[UOL 2]](#cite_note-Concept Map-4)</sup> The buildings are constructed in the Indoril style. The settlement called Tel Aedrin is located somewhere south of it, and the [Indoril](Lore_House_Indoril.md) fortress village of Bal Tereg is found nearby.<sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> Firewatch is located on the inlet region called Ouada Gla'amnir deep in the badlands area of Morrowind's mainland,<sup>[[UOL 1]](#cite_note-TPPlaying Houses-3)</sup><sup>[[UOL 2]](#cite_note-Concept Map-4)</sup> which spans across the province's Northeast Highlands areas and is characterized by an isolated population that tends to herds of bugs.<sup>[[7]](#cite_note-PGE1M-10)</sup><sup>[[8]](#cite_note-MWElone-11)</sup> A great palace and well-guarded harbor are found in the city,<sup>[[5]](#cite_note-AR-7)</sup> along with a [Silt Strider](Lore_Silt_Strider.md) that usually provides regular transport.<sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> Firewatch is neighbored by several settlements, including [Velothis Haven](https://en.uesp.net/wiki/Lore:Velothis_Haven) to the east,<sup>[[9]](#cite_note-MWFalura Llervu-12)</sup> [Helnim Wall](https://en.uesp.net/wiki/Lore:Helnim_Wall) to the southeast, and [Old Run](Lore_Old_Run.md) to the west across the sea.<sup>[[1]](#cite_note-ARMap-1)</sup>
+
+### Notable Locales
+| - Great Palace<sup>[[5]](#cite_note-AR-7)</sup><sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> <br> - Harbor<sup>[[5]](#cite_note-AR-7)</sup><sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup> |
+| --- |
+
+## History
+During a certain [Chil'a](Lore_Chil%27a.md) prior to the [Interregnum](Lore_Interregnum.md), a witch of [Molag Bal](Lore_Molag_Bal.md) once made an assassination attempt on the heir of Firewatch using poison, but this ended in failure.<sup>[[10]](#cite_note-Io A-13)</sup> The ancient Indoril fortress of Bal Tereg has stood near the city for thousands of years, though rings within rings of stone suggested even older civilizations had made their home there. [Vivec](Lore_Vivec.md) himself stayed there on more than one occasion.<sup>[[UOL 1]](#cite_note-TPPlaying Houses-3)</sup>
+
+[Almalexia](Lore_Almalexia.md) once attended a summit in the city on the principles of [ghostfencing](Lore_Ghostfence.md).<sup>[[11]](#cite_note-Mt M-14)</sup> Circa [2E 582](Lore_Second_Era.md#2E_582), the Hidden Kindred chartered the merchant ship *Stormwing* to transport [Peryite](Lore_Peryite.md)'s holy miasma from Firewatch to [Necrom](Lore_Necrom.md). These vials were then used to infect that city's ancient Necropolis.<sup>[[12]](#cite_note-15)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), Firewatch was ruled by Queen Vaynth and had a rivalry with [Ebonheart](Lore_Ebonheart.md).<sup>[[5]](#cite_note-AR-7)</sup> Around [3E 428](Lore_Third_Era.md#3E_428), many of the citizens (from the nobles to the slaves) were all considered [Azurite](Lore_Azura.md#Worship) worshipers of [Azura](Lore_Azura.md) and got along very well with each other. The great palace was abuzz with the news that there had been several bodies of guards discovered hidden away in a closet, and the local Silt Strider had gone missing.<sup>[[UOL 3]](#cite_note-TPMorrowind Moonlight-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/60/AR-place-Fort_Firewatch.jpg/200px-AR-place-Fort_Firewatch.jpg)](https://en.uesp.net/wiki/File:AR-place-Fort_Firewatch.jpg) The docks of Firewatch (Arena)
+- [![](https://images.uesp.net/thumb/2/2f/LO-map-Morrowind_%28Anthology%29.jpg/163px-LO-map-Morrowind_%28Anthology%29.jpg)](https://en.uesp.net/wiki/File:LO-map-Morrowind_(Anthology).jpg) Map of Morrowind
+
+## Notes
+- In an early concept map of Morrowind, Firewatch is the only city from *[Arena](https://en.uesp.net/wiki/Arena:Arena)* to downsize into a smaller one, seemingly replaced by [House Telvanni](Lore_House_Telvanni.md)'s capital city called [Port Telvannis](Lore_Port_Telvannis.md).<sup>[[UOL 2]](#cite_note-Concept Map-4)</sup>
+- *Arena* was originally conceived as a fighting game featuring a tournament that took the player to each of Tamriel's cities to challenge different gladiatorial teams. According to a file from that stage of development left behind in the final game, Firewatch's gladiatorial team would have been called "the [Blood Mages](Lore_Blood_Magic.md)".<sup>[[UOL 4]](#cite_note-16)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ARMap_1-0)***</sup><sup>***[b](#cite_ref-ARMap_1-1)***</sup><sup>***[c](#cite_ref-ARMap_1-2)***</sup><sup>***[d](#cite_ref-ARMap_1-3)***</sup><sup>***[e](#cite_ref-ARMap_1-4)***</sup> [Map of Morrowind – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Morrowind_towns.png)
+2. [^](#cite_ref-Gt V_2-0) [*Guide to Vvardenfell*](Lore_Guide_to_Vvardenfell.md)
+3. [^](#cite_ref-LA_5-0) [*Loremaster's Archive - House Telvanni*](Lore_Loremaster%27s_Archive_-_House_Telvanni.md) — [Divayth Fyr](Lore_Divayth_Fyr.md)
+4. [^](#cite_ref-GHo M_6-0) [*Great Houses of Morrowind*](Lore_Great_Houses_of_Morrowind.md)
+5. ^ <sup>***[a](#cite_ref-AR_7-0)***</sup><sup>***[b](#cite_ref-AR_7-1)***</sup><sup>***[c](#cite_ref-AR_7-2)***</sup><sup>***[d](#cite_ref-AR_7-3)***</sup><sup>***[e](#cite_ref-AR_7-4)***</sup> [Firewatch](https://en.uesp.net/wiki/Arena:Firewatch) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+6. [^](#cite_ref-MWMap_9-0) [Map of Morrowind – *The Elder Scrolls III: Morrowind*](https://en.uesp.net/wiki/File:LO-map-Morrowind_(TES3).jpg)
+7. [^](#cite_ref-PGE1M_10-0) [*Pocket Guide to the Empire, 1st Edition: Morrowind*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Morrowind.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+8. [^](#cite_ref-MWElone_11-0) [Elone](https://en.uesp.net/wiki/Morrowind:Elone)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+9. [^](#cite_ref-MWFalura Llervu_12-0) [Falura Llervu](https://en.uesp.net/wiki/Morrowind:Falura_Llervu)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-Io A_13-0) [*Invocation of Azura*](Lore_Invocation_of_Azura.md) — [Sigillah Parate](Lore_Books_by_Author.md#Sigillah_Parate)
+11. [^](#cite_ref-Mt M_14-0) [Meln the Mouthless](https://en.uesp.net/wiki/Online:Meln_the_Mouthless)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-15) [*Hidden Kindred Instructions*](https://en.uesp.net/wiki/Online:Hidden_Kindred_Instructions) — [Blightcrown](https://en.uesp.net/wiki/Online:Blightcrown)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-TPPlaying Houses_3-0)***</sup><sup>***[b](#cite_ref-TPPlaying Houses_3-1)***</sup><sup>***[c](#cite_ref-TPPlaying Houses_3-2)***</sup><sup>***[d](#cite_ref-TPPlaying Houses_3-3)***</sup> [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson)'s posts in [*Playing Houses*](https://en.uesp.net/wiki/General:Loranna%27s_RP#Campaign_12:_Playing_Houses)
+2. ^ <sup>***[a](#cite_ref-Concept Map_4-0)***</sup><sup>***[b](#cite_ref-Concept Map_4-1)***</sup><sup>***[c](#cite_ref-Concept Map_4-2)***</sup><sup>***[d](#cite_ref-Concept Map_4-3)***</sup> [Concept Map of Morrowind – *The Elder Scrolls III: Morrowind*](https://en.uesp.net/wiki/File:MW-map-Morrowind_Concept.jpg)
+3. ^ <sup>***[a](#cite_ref-TPMorrowind Moonlight_8-0)***</sup><sup>***[b](#cite_ref-TPMorrowind Moonlight_8-1)***</sup><sup>***[c](#cite_ref-TPMorrowind Moonlight_8-2)***</sup><sup>***[d](#cite_ref-TPMorrowind Moonlight_8-3)***</sup><sup>***[e](#cite_ref-TPMorrowind Moonlight_8-4)***</sup><sup>***[f](#cite_ref-TPMorrowind Moonlight_8-5)***</sup><sup>***[g](#cite_ref-TPMorrowind Moonlight_8-6)***</sup> [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson)'s posts in [*Morrowind Moonlight*](https://en.uesp.net/wiki/General:Loranna%27s_RP#Campaign_10:_Morrowind_Moonlight)
+4. [^](#cite_ref-16) [Original TES: Arena texts at the Imperial Library](http://www.imperial-library.info/content/go-blades)

@@ -1,0 +1,80 @@
+# Black Heights
+
+| Black Heights | |
+| --- | --- |
+| Type | Settlement |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Elsweyr](Lore_Elsweyr.md) |
+| Region | [Pellitine](Lore_Pellitine.md) <br> ([Tenmar Forest](Lore_Tenmar_Forest.md)) |
+| Appears in | [Arena](https://en.uesp.net/wiki/Arena:Black_Heights), [ESO](https://en.uesp.net/wiki/Online:Black_Heights) |
+
+[![](https://images.uesp.net/thumb/e/e0/ON-place-Black_Heights.jpg/200px-ON-place-Black_Heights.jpg)](https://en.uesp.net/wiki/File:ON-place-Black_Heights.jpg) [](https://en.uesp.net/wiki/File:ON-place-Black_Heights.jpg) Black Heights ca. 2E 582 [![](https://images.uesp.net/thumb/e/ee/AR-map-Elsweyr_towns.png/200px-AR-map-Elsweyr_towns.png)](https://en.uesp.net/wiki/File:AR-map-Elsweyr_towns.png) [](https://en.uesp.net/wiki/File:AR-map-Elsweyr_towns.png) Map of Elsweyr Black Heights is a small village in the outlying hills of the [Tenmar Forest](Lore_Tenmar_Forest.md) and is located in the province of [Elsweyr](Lore_Elsweyr.md). Most of the people in town have a deep devotion to the arts and produce some of the highest quality paints and dyes in [Tamriel](Lore_Tamriel.md).<sup>[[1]](#cite_note-TCK-1)</sup> Its people have a great reverence for [Khenarthi](Lore_Khenarthi.md), the [Khajiiti](Lore_Khajiit.md) goddess of winds and worship her from **Khenarthi's Breath Temple**, an ornate temple in the town's southern outskirts and marginally run by an [Alfiq](Lore_Alfiq.md) priesthood.<sup>[[2]](#cite_note-ONKhenarthi-2)</sup>
+
+## Layout and Geography
+[![](https://images.uesp.net/thumb/1/19/ON-place-Khenarthi%27s_Breath_Temple_02.jpg/200px-ON-place-Khenarthi%27s_Breath_Temple_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Khenarthi%27s_Breath_Temple_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Khenarthi%27s_Breath_Temple_02.jpg) Khenarthi's Breath Temple [![](https://images.uesp.net/thumb/6/6f/ON-furnishing-Painted_Rock%2C_Swirls.jpg/200px-ON-furnishing-Painted_Rock%2C_Swirls.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Painted_Rock,_Swirls.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Painted_Rock,_Swirls.jpg) The Painted Rocks of Black Heights Black Heights is nestled in a mountain valley at the edge of the Tenmar Forest and dotted with large, painted stones.<sup>[[1]](#cite_note-TCK-1)</sup> Much of the town is built around a waterfall from the central mountains and the river basin that flows down the [Quin'rawl](Lore_Quin%27rawl.md) peninsula and into the seas.<sup>[[3]](#cite_note-ONSouthern-3)</sup> A path travels west past Black Heights and leads toward a cave containing the Wall of Life, an ancient mural at the base of the mountain.<sup>[[4]](#cite_note-ONKa.27ishka-4)</sup>
+
+Some of the pigments created by the locals come from the wilderness outside of town. The bark of White sycamores, for example, are used to create some of the purest white colors. These trees are also holy symbols of Khenarthi as the wind carries their seed across the land. While others suggest that water beetles can provide quality blue pigments, the [blue poppy](https://en.uesp.net/wiki/Lore:Blue_Poppy) can be used to create the color.<sup>[[5]](#cite_note-ONVijari-5)</sup> The [Terror birds](Lore_Terror_Bird.md) that live outside of Black Height keep [Senche](Lore_Senche.md) from town.<sup>[[4]](#cite_note-ONKa.27ishka-4)</sup> Black Heights is neighbored by several settlements, including Duncori Walk to the far north-northeast, Markgran Brook to the south, and Tenmar Forest to the west.<sup>[[6]](#cite_note-ARMap-6)</sup>
+
+### Notable Locales
+| - Black Heights Palace<sup>[[7]](#cite_note-AR-7)</sup> <br> - [Black Heights Wayshrine](Lore_Wayshrines.md) <br> - The Colorworks | - [Mages Guild](Lore_Mages_Guild.md)<sup>[[7]](#cite_note-AR-7)</sup> <br> - [Passage of Dad'na Ghaten](https://en.uesp.net/wiki/Lore:Khajiit_Death_Beliefs) <br> - Wall of Life |
+| --- | --- |
+
+## History
+[![](https://images.uesp.net/thumb/d/d9/ON-quest-Chiaroscuro_Crossroads.jpg/200px-ON-quest-Chiaroscuro_Crossroads.jpg)](https://en.uesp.net/wiki/File:ON-quest-Chiaroscuro_Crossroads.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Chiaroscuro_Crossroads.jpg) The corrupted Wall of Life In the late [First Era](Lore_First_Era.md), concurrent to the reign of [Reman I](Lore_Reman_I.md),<sup>[[8]](#cite_note-GVP-8)</sup> a great battle ensued at Doomstone Keep in which the [dragon](Lore_Dragon.md), remembered in Khajiiti legend as the "[Demon from the East](Lore_Laatvulon.md)", was defeated by the warrior, [Ja'darri](Lore_Ja%27darri.md) and sealed in the ruins by the ancient [Dragonguard](Lore_Dragonguard.md). Despite that, Ja'darri died from her injuries<sup>[[9]](#cite_note-ONSai-9)</sup> and her body was taken to Khenarthi's Breath Temple, where moon-priests tended to her for four days and nights. On the final night, when the [moons](Lore_Moons.md) were full, [Khenarthi](Lore_Khenarthi.md) appeared before them and brought her to the [Spilled Sand](Lore_Spilled_Sand.md), the mythical realm of [Alkosh](Lore_Alkosh.md) far beyond the [Sands Behind the Stars](Lore_Sands_Behind_the_Stars.md). The legend of her passing would go on to live in oral tradition.<sup>[[10]](#cite_note-ONZa.27ji-10)</sup>
+
+Sometime in the [Second Era](Lore_Second_Era.md), a grieving Khajiiti father named Dak'radhi was manipulated by [Namiira](Lore_Namiira.md) to paint an accursed mural and become her [servant](Lore_Dro-m%27Athra.md). In doing so, the Wall of Life was cracked and spewed dark magic. At a much later time, Dak'radhi attempted to draw his son, Vijari to the Darkness with him and started his transition into a dro-m'athra. Ka'ishka, his wife sought help from her sister, a [Twilight Cantor](Lore_Twilight_Cantors.md) named Adara'hai who together with a [traveler](Lore_The_Vestige.md) investigated all throughout town. Once they realized his father was the cause of his strife, they replicated the same process Dak'radhi partook in and painted a mural with peace and love in mind. As Vijari works to mend the Wall of Life, both Adara'hai and the traveler traversed the corrupted Passage of Dad'na Ghaten and exorcised Dak'radhi's spirit. With the wall restored, Vijari was able to pass in peace.<sup>[[11]](#cite_note-ONChiaroscuro-11)</sup>
+
+At around the same time, the [Dragonguard](Lore_Dragonguard.md) approached Clan Mother Tadali and hoped she would use her skills to locate a dragon named Yahgrondu. However, in order to call upon Khenarthi's aid, they needed to retrieve one of the lost sacred bells stolen by her son, Za'ji. Both Za'ji and his [companion](Lore_The_Vestige.md) traveled to [Moonlit Cove](Lore_Moonlit_Cove.md), where they recovered the bell.<sup>[[12]](#cite_note-ONUneasy-12)</sup>
+
+During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the late [Third Era](Lore_Third_Era.md), the village of Black Heights was an active settlement. It was ruled by Lady Fajjan and had a rivalry with several other villages, namely Chasegrove, Duncori Walk, and Markgran Brook.<sup>[[7]](#cite_note-AR-7)</sup>
+
+### Known Rulers
+[![](https://images.uesp.net/thumb/4/41/ON-npc-Clan_Mother_Tadali.jpg/200px-ON-npc-Clan_Mother_Tadali.jpg)](https://en.uesp.net/wiki/File:ON-npc-Clan_Mother_Tadali.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Clan_Mother_Tadali.jpg) Clan Mother Tadali By the mid-Second Era, Black Heights' leading authority was known as the clan leader and lived in Khenarthi's Breath Temple as a priest as well.<sup>[[13]](#cite_note-ONTadali-13)</sup>
+
+- **Unknown Period** - Clan Mother Vaban-ko<sup>[[14]](#cite_note-ONLoad Dad.27na-14)</sup>
+- The **Second Era** - Clan Mother Tadali *(ca. [2E 582](Lore_Second_Era.md#2E_582))*<sup>[[13]](#cite_note-ONTadali-13)</sup>
+- The **Third Era** - Lady Fajjan *(fl. [3E 389](Lore_Third_Era.md#3E_389) – [3E 399](Lore_Third_Era.md#3E_399))*<sup>[[7]](#cite_note-AR-7)</sup>
+
+## Culture and Society
+[![](https://images.uesp.net/thumb/7/7e/ON-place-The_Wall_of_Life.jpg/200px-ON-place-The_Wall_of_Life.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Wall_of_Life.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Wall_of_Life.jpg) The Wall of Life *"You who feel Khenarthi's breath on your face, you who inhale the sweet scent of moon-sugar sands, you who prepare to pounce beyond the stars to blessed Llesw'er, take up the paint and tell your story. Add your leaf to our blessed tree."*
+—Blessed Clan Mother Vaban-ko
+- *For more information, see the: **[Culture](Lore_Khajiit.md#Culture)** and **[Society](Lore_Khajiit.md#Society)** sections on the Khajiit page.*
+
+As a town of artistic intrigue, Black Heights' main form of export is the art its people have created or the pigments and dyes that its artisans made from the local colorwork. Many people from across Tamriel buy these colors and that alone has supported Black Heights. Their technique has been refined over generations and their work has been inspired by tradition carried over since the town's founding.<sup>[[1]](#cite_note-TCK-1)</sup>
+
+Although [camels](Lore_Camel.md) are not typically found in the region, the Khajiit of Black Heights like to decorate them in pigments and sleeking oil.<sup>[[15]](#cite_note-ONCamel-15)</sup> [Senche-Servals](https://en.uesp.net/wiki/Lore:Senche-Serval) are also given such a treatment. High-quality pigments on their fur can withstand certain weather conditions and the artists claim they preen while they are painted.<sup>[[16]](#cite_note-ONOleander-16)</sup>
+
+The people of Black Heights worship Khenarthi as the local place of worship, Khenarthi's Breath Temple is dedicated to her.<sup>[[2]](#cite_note-ONKhenarthi-2)</sup> At the end of their life, citizens contribute to the **Wall of Life** by painting their final work for their loved ones, a leaf to the ever-growing tree on the ancient mural.<sup>[[1]](#cite_note-TCK-1)</sup> It is an act in which they relieve their [souls](Lore_Soul.md) of any burden before,<sup>[[4]](#cite_note-ONKa.27ishka-4)</sup> they enter the **Passage of Dad'na Ghaten**, a path that starts behind the mural and ascends up a mountain. Ringing the Khenarthic bells strewn across the path signals the goddess their arrival, and that they are ready to be flown to the Sands Behind the Stars.<sup>[[17]](#cite_note-ONAdara.27hai-17)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/1/19/ON-place-Khenarthi%27s_Breath_Temple_02.jpg/200px-ON-place-Khenarthi%27s_Breath_Temple_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Khenarthi%27s_Breath_Temple_02.jpg) Khenarthi's Breath Temple
+- [![](https://images.uesp.net/thumb/b/b7/ON-interior-Colorworks.jpg/200px-ON-interior-Colorworks.jpg)](https://en.uesp.net/wiki/File:ON-interior-Colorworks.jpg) The Colorworks
+- [![](https://images.uesp.net/thumb/7/7f/ON-crown_store-Oleander_Senche-Serval.jpg/200px-ON-crown_store-Oleander_Senche-Serval.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Oleander_Senche-Serval.jpg) The Oleander Senche-Serval
+- [![](https://images.uesp.net/thumb/f/f0/ON-furnishing-Painted_Rock%2C_Heart%27s_Ease.jpg/200px-ON-furnishing-Painted_Rock%2C_Heart%27s_Ease.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Painted_Rock,_Heart%27s_Ease.jpg) Painted Rock, Heart's Ease
+- [![](https://images.uesp.net/thumb/1/1c/ON-furnishing-Painted_Rock%2C_Life%27s_Glory.jpg/200px-ON-furnishing-Painted_Rock%2C_Life%27s_Glory.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Painted_Rock,_Life%27s_Glory.jpg) Painted Rock, Life's Glory
+- [![](https://images.uesp.net/thumb/3/37/AR-place-Black_Heights.jpg/200px-AR-place-Black_Heights.jpg)](https://en.uesp.net/wiki/File:AR-place-Black_Heights.jpg) Black Heights (Arena)
+
+## See Also
+- For game-specific information, see the [*Arena*](https://en.uesp.net/wiki/Arena:Black_Heights) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Black_Heights) [](https://en.uesp.net/wiki/Online:Dragonhold) articles.
+
+### Books
+- ***[The Colorful Khajiit](Lore_The_Colorful_Khajiit.md)*** by [Eutropia Laetonius](Lore_Books_by_Author.md#Eutropia_Laetonius) — An author's description of a Dagi village
+
+## References
+1. ^ <sup>***[a](#cite_ref-TCK_1-0)***</sup><sup>***[b](#cite_ref-TCK_1-1)***</sup><sup>***[c](#cite_ref-TCK_1-2)***</sup><sup>***[d](#cite_ref-TCK_1-3)***</sup> [*The Colorful Khajiit*](Lore_The_Colorful_Khajiit.md) — [Eutropia Laetonius](Lore_Books_by_Author.md#Eutropia_Laetonius)
+2. ^ <sup>***[a](#cite_ref-ONKhenarthi_2-0)***</sup><sup>***[b](#cite_ref-ONKhenarthi_2-1)***</sup> [Khenarthi's Breath Temple](https://en.uesp.net/wiki/Online:Khenarthi%27s_Breath_Temple) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+3. [^](#cite_ref-ONSouthern_3-0) [Southern Elsweyr](https://en.uesp.net/wiki/Online:Southern_Elsweyr) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+4. ^ <sup>***[a](#cite_ref-ONKa.27ishka_4-0)***</sup><sup>***[b](#cite_ref-ONKa.27ishka_4-1)***</sup><sup>***[c](#cite_ref-ONKa.27ishka_4-2)***</sup> [Ka'ishka](https://en.uesp.net/wiki/Online:Ka%27ishka)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+5. [^](#cite_ref-ONVijari_5-0) [Vijari](https://en.uesp.net/wiki/Online:Vijari)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+6. [^](#cite_ref-ARMap_6-0) [Map of Elsweyr – *The Elder Scrolls: Arena*](https://en.uesp.net/wiki/File:AR-map-Elsweyr_towns.png)
+7. ^ <sup>***[a](#cite_ref-AR_7-0)***</sup><sup>***[b](#cite_ref-AR_7-1)***</sup><sup>***[c](#cite_ref-AR_7-2)***</sup><sup>***[d](#cite_ref-AR_7-3)***</sup> [Black Heights](https://en.uesp.net/wiki/Arena:Black_Heights) location and rumors in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+8. [^](#cite_ref-GVP_8-0) [*Grandmaster Vashu-Pir*](Lore_Grandmaster_Vashu-Pir_(1E_2734_-_2758).md)
+9. [^](#cite_ref-ONSai_9-0) [Sai Sahan](https://en.uesp.net/wiki/Online:Sai_Sahan#The_Dragonguard)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+10. [^](#cite_ref-ONZa.27ji_10-0) [Za'ji](https://en.uesp.net/wiki/Online:Za%27ji#The_Pride_of_Alkosh)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+11. [^](#cite_ref-ONChiaroscuro_11-0) [Chiaroscuro Crossroads](https://en.uesp.net/wiki/Online:Chiaroscuro_Crossroads) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+12. [^](#cite_ref-ONUneasy_12-0) [Uneasy Alliances](https://en.uesp.net/wiki/Online:Uneasy_Alliances) story quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+13. ^ <sup>***[a](#cite_ref-ONTadali_13-0)***</sup><sup>***[b](#cite_ref-ONTadali_13-1)***</sup> [Clan Mother Tadali](https://en.uesp.net/wiki/Online:Clan_Mother_Tadali)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+14. [^](#cite_ref-ONLoad Dad.27na_14-0) [Passage of Dad'na Ghaten](https://en.uesp.net/wiki/Online:Passage_of_Dad%27na_Ghaten) loading screen text in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+15. [^](#cite_ref-ONCamel_15-0) [Black Heights Camel](https://en.uesp.net/wiki/Online:Black_Heights_Camel) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-ONOleander_16-0) [Oleander Senche-Serval](https://en.uesp.net/wiki/Online:Oleander_Senche-Serval) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-ONAdara.27hai_17-0) [Adara'hai](https://en.uesp.net/wiki/Online:Adara%27hai)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*

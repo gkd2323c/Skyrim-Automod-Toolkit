@@ -1,0 +1,40 @@
+# Scourg Barrow
+
+| Scourg Barrow | |
+| --- | --- |
+| Type | Ruin |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Hammerfell](Lore_Hammerfell.md) |
+| Region | [Dragontail Mountains](Lore_Dragontail_Mountains.md) |
+| Appears in | [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Scourg_Barrow) |
+
+[![](https://images.uesp.net/thumb/4/41/DF-place-Scourg_Barrow.png/200px-DF-place-Scourg_Barrow.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow.png) [](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow.png) The sepulcher of Scourg Barrow Scourg Barrow is an enormous complex seated deep within the frozen and treacherous climbs of the [Dragontail Mountains](Lore_Dragontail_Mountains.md) in western [Hammerfell](Lore_Hammerfell.md), and located on a grand plateau near [Mount Ewado](https://en.uesp.net/wiki/Lore:Mount_Ewado).<sup>[[1]](#cite_note-Daggerfall-1)</sup><sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup> Far from some grand castle or palace that one might expect for the King of Worms' home, the outside structure of Scourg Barrow is unassuming–being an "ancient edifice" resembling nothing so much as an "enormous sepulcher" that acted only as the front door to the greater Barrow beneath.<sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup> The interior of Scourg Barrow is the largest complex in the entire [Iliac Bay](Lore_Iliac_Bay.md) region<sup>[[2]](#cite_note-DC-3)</sup><sup>:213</sup> and features an enormous number of tight spaces, leading some to say that "Scourg Barrow is like being buried alive."<sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup>
+
+The gloomy halls of Scourg Barrow served as a home and base of operations for [Mannimarco](Lore_Mannimarco.md) (also known as the King of Worms, the leader of the [Order of the Black Worm](Lore_Order_of_the_Black_Worm.md)) during the events leading up to the [Warp in the West](Lore_Warp_in_the_West.md) (which is said to have resulted in his [ascent to godhood](Lore_Necromancer%27s_Moon.md)).<sup>[[2]](#cite_note-DC-3)</sup><sup>[[3]](#cite_note-4)</sup> Deep within the Barrow is the **Hall of the Necromancers**, where the order assembles.<sup>[[2]](#cite_note-DC-3)</sup><sup>:198</sup> The rest of Scourg Barrow is roamned by all manner of undead, mortal assassins and [necromancers](Lore_Necromancy.md), corpse handlers of the [Sload](Lore_Sload.md), and even [Ka Po' Tun](Lore_Ka_Po%27_Tun_(race).md) tiger-dragons.<sup>[[2]](#cite_note-DC-3)</sup><sup>:212</sup><sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup>
+
+Far underground inside Scourg Barrow lies the necromancer city of **Lasthold** (named as a counterpoint to [Firsthold](Lore_Firsthold.md), the first city of the [Aldmer](Lore_Aldmer.md) on [Tamriel](Lore_Tamriel.md)), which was impossibly suspended in an open world featuring its own sky at sunset, stars, and moons peering out from the clouds.<sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup> The city itself was designed by Mannimarco himself and stretched out for miles and comprised morbid structures built only of bones, some old and some new and some still attached to an entire skeleton–the streets were crafted of leg bones, the arena was made of skulls, and temples were comprised of whole bodies–from above of it all and outside of a view of its grotesque materials, Lasthold had the ornateness of an [Altmeri](Lore_Altmer.md) city, the austure of a [Cyrodilic](Lore_Imperial.md) city, and plenty of eccentric touches from other cultures to give it character. The city plaza and palace beyond laid at the far end of the city. The open plaza contained a tall statue of [Vanus Galerion](Lore_Vanus_Galerion.md) (the nemesis of Mannimarco), authored entirely of corpses. Mannimarco's palace within Lasthold featured the bones of the various races of [Nirn](Lore_Nirn.md) ([Human](Lore_Human.md), [Elf](Lore_Elf.md), [Sload](Lore_Sload.md), [Imga](Lore_Imga.md), [Orma](Lore_Orma.md), [Argonian](Lore_Argonian.md), or [Tsaesci](Lore_Tsaesci.md)).<sup>[[UOL 1]](#cite_note-TPWarofthe Wormgod-2)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/68/DF-place-Scourg_Barrow_02.png/200px-DF-place-Scourg_Barrow_02.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_02.png) Above shot of the sepulcher
+- [![](https://images.uesp.net/thumb/f/fa/DF-map-Scourg_Barrow.png/200px-DF-map-Scourg_Barrow.png)](https://en.uesp.net/wiki/File:DF-map-Scourg_Barrow.png) Scourg Barrow in the Dragontail Mountains
+- [![](https://images.uesp.net/thumb/9/91/DF-place-Scourg_Barrow_03.png/200px-DF-place-Scourg_Barrow_03.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_03.png) Entry mausoleum comprising seven coffins, one of which act as an entrance to the rest of the complex
+- [![](https://images.uesp.net/thumb/6/6a/DF-place-Scourg_Barrow_09.png/200px-DF-place-Scourg_Barrow_09.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_09.png) The coffin entrance to the depths of Scourg Barrow
+- [![](https://images.uesp.net/thumb/d/de/DF-place-Scourg_Barrow_07.png/200px-DF-place-Scourg_Barrow_07.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_07.png) One of numerous caverns and bridgeways inside the Barrow
+- [![](https://images.uesp.net/thumb/2/2b/DF-place-Scourg_Barrow_08.png/200px-DF-place-Scourg_Barrow_08.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_08.png) An extraneous lair shabbily "imitating" the Hall of the Necromancers<sup>[[2]](#cite_note-DC-3)</sup><sup>:213</sup>
+- [![](https://images.uesp.net/thumb/7/71/DF-place-Scourg_Barrow_06.png/200px-DF-place-Scourg_Barrow_06.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_06.png) A notable great hall inside the Barrow
+- [![](https://images.uesp.net/thumb/6/62/DF-place-Scourg_Barrow_04.png/200px-DF-place-Scourg_Barrow_04.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_04.png) Hall of the Necromancers, lair of Mannimarco
+- [![](https://images.uesp.net/thumb/d/de/DF-place-Scourg_Barrow_05.png/200px-DF-place-Scourg_Barrow_05.png)](https://en.uesp.net/wiki/File:DF-place-Scourg_Barrow_05.png) Hall of the Necromancers, before the thronely coffin of Mannimarco
+- [![](https://images.uesp.net/thumb/4/4a/DF-quest-Journey_to_Aetherius_42.png/160px-DF-quest-Journey_to_Aetherius_42.png)](https://en.uesp.net/wiki/File:DF-quest-Journey_to_Aetherius_42.png) Mannimarco atop the sepulcher, taking the Mantella
+- [![](https://images.uesp.net/thumb/f/f6/DF-quest-Journey_to_Aetherius_43.png/136px-DF-quest-Journey_to_Aetherius_43.png)](https://en.uesp.net/wiki/File:DF-quest-Journey_to_Aetherius_43.png) Mannimarco atop the sepulcher, joining with the gods of Oblivion
+
+## See Also
+- For game-specific information, see the [*Daggerfall* article](https://en.uesp.net/wiki/Daggerfall:Scourg_Barrow).
+
+## References
+1. [^](#cite_ref-Daggerfall_1-0) Events of [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Daggerfall)
+2. ^ <sup>***[a](#cite_ref-DC_3-0)***</sup><sup>***[b](#cite_ref-DC_3-1)***</sup><sup>***[c](#cite_ref-DC_3-2)***</sup><sup>***[d](#cite_ref-DC_3-3)***</sup><sup>***[e](#cite_ref-DC_3-4)***</sup> [*The Daggerfall Chronicles*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles) — Ronald Wartow
+3. [^](#cite_ref-4) [*Lives of the Emperors*](Lore_Lives_of_the_Emperors.md) — [Niso](Lore_Books_by_Author.md#Niso)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-TPWarofthe Wormgod_2-0)***</sup><sup>***[b](#cite_ref-TPWarofthe Wormgod_2-1)***</sup><sup>***[c](#cite_ref-TPWarofthe Wormgod_2-2)***</sup><sup>***[d](#cite_ref-TPWarofthe Wormgod_2-3)***</sup><sup>***[e](#cite_ref-TPWarofthe Wormgod_2-4)***</sup><sup>***[f](#cite_ref-TPWarofthe Wormgod_2-5)***</sup> [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson)'s posts in [*War of the Wormgod*](https://en.uesp.net/wiki/General:Loranna%27s_RP/War_of_the_Wormgod)

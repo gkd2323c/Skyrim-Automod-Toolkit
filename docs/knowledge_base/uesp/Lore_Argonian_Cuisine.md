@@ -1,0 +1,286 @@
+# Argonian Cuisine
+
+[Overview](Lore_Cuisine.md) | [Altmer Cuisine](Lore_Altmer_Cuisine.md) — Argonian Cuisine — [Bosmer Cuisine](Lore_Bosmer_Cuisine.md) — [Breton Cuisine](Lore_Breton_Cuisine.md) — [Dunmer Cuisine](Lore_Dunmer_Cuisine.md) — [Imperial Cuisine](Lore_Imperial_Cuisine.md) — [Khajiit Cuisine](Lore_Khajiit_Cuisine.md) — [Nord Cuisine](Lore_Nord_Cuisine.md) — [Orc Cuisine](Lore_Orc_Cuisine.md) — [Reachman Cuisine](Lore_Reachman_Cuisine.md) — [Redguard Cuisine](Lore_Redguard_Cuisine.md) — [Other Cuisines](https://en.uesp.net/wiki/Lore:Other_Cuisines)
+---
+[![](https://images.uesp.net/thumb/7/74/ON-render-Xukas_02.jpg/200px-ON-render-Xukas_02.jpg)](https://en.uesp.net/wiki/File:ON-render-Xukas_02.jpg) [](https://en.uesp.net/wiki/File:ON-render-Xukas_02.jpg) A meeting with traditional fare on the table, including bowls of grubs and guts *When I was small, I made soup in mud puddles with the wings of flies. I have since grown as a cook. While mud has its place and flies do add a lovely texture, my palate of ingredients has increased.
+Flies do add the perfect amount of crunch though.*
+— [Makes-Many-Soups](https://en.uesp.net/wiki/Online:Makes-Many-Soups), an Argonian cook Argonian cuisine is perhaps the most impenetrable for outsiders. Composed largely of raw fish and swamp plants collected throughout the marshes, [Argonian](Lore_Argonian.md) dishes are often difficult for outsiders to acclimate to.<sup>[[1]](#cite_note-Cookbook-1)</sup><sup>:13</sup> Argonian chefs make use of ingredients that cooks of other cultures would shy away from, such as maggots and fermented pond scum.<sup>[[2]](#cite_note-ESOSoup-2)</sup> Fish and small creatures that are harvested in nets and traps are often seasoned with spices and rich sauces, then eaten raw.<sup>[[1]](#cite_note-Cookbook-1)</sup><sup>:13</sup>
+
+It is considered polite to gargle one's drink in [Murkmire](Lore_Murkmire.md).<sup>[[3]](#cite_note-ESOHaxal-3)</sup> Some Argonian chefs cook with [snail](Lore_Snail.md) slime<sup>[[2]](#cite_note-ESOSoup-2)</sup> and some Argonian drinks are brewed with eel-paste, which is boiled during the brewing process.<sup>[[3]](#cite_note-ESOHaxal-3)</sup> The Argonians have a tendency to name things after flavors.<sup>[[4]](#cite_note-4)</sup>
+
+## Utensils and Tableware
+Organic materials are heavily used in the creation of Argonian tableware. The shells of various animals are used to make household utensils and dishes.<sup>[[5]](#cite_note-5)</sup> The shells of baby [haj mota's](Lore_Haj_Mota.md) are used for bowls.<sup>[[6]](#cite_note-6)</sup> [Cypress](Lore_Cypress.md) wood is used for making spoons, among other tools.<sup>[[7]](#cite_note-7)</sup> There is some trade of cooking utensils, like that of Saxhleel wooden ladles which are prized by [Imperial](Lore_Imperial.md) chefs.<sup>[[8]](#cite_note-8)</sup> Tail spoons are tied around Argonian tails to act as a extra "set of hands" for cooking.<sup>[[9]](#cite_note-9)</sup> At times copper is used to forge dishes.<sup>[[10]](#cite_note-10)</sup> [Turtle](Lore_Turtle.md) shells are used for platters.<sup>[[11]](#cite_note-11)</sup> Painted clay bowls called xeech-boks are used to serve small snacks like nuts.<sup>[[12]](#cite_note-12)</sup>
+
+A multitude of natural drinking vessels are used by the tribes of [Black Marsh](Lore_Black_Marsh.md) such as gourds<sup>[[13]](#cite_note-13)</sup> and [Kagouti](Lore_Kagouti.md) horns.<sup>[[14]](#cite_note-14)</sup> Baked mud is used to create sipping bowls.<sup>[[15]](#cite_note-15)</sup>
+
+Dried swamp grass is used to weave dining place mats.<sup>[[16]](#cite_note-16)</sup> The stems of the needlerush plant are used to for kebab sticks and they impart a loamy aftertaste.<sup>[[17]](#cite_note-17)</sup> Clay chimineas are used by Argonians.<sup>[[18]](#cite_note-18)</sup> Ceramic is used to create spice shakers<sup>[[19]](#cite_note-19)</sup> and spice grinders are made from wood.<sup>[[20]](#cite_note-20)</sup> The leaves of the wasso plant are used to make light and aromatic napkins.<sup>[[21]](#cite_note-21)</sup>
+
+## Baked Goods
+| Name | Description | Image |
+| --- | --- | --- |
+| **Beetle Puffs** | Beetle Puffs are sweet pastries that are cooked in specialized pans. A delicacy in [Dhalmora](Lore_Dhalmora.md), these little puffs are usually cooked in dozens and made from beetles.<sup>[[22]](#cite_note-22)</sup> | |
+| **Fungus Omelet** | An omelet containing fungi. It was commonly served in [Gideon](Lore_Gideon.md).<sup>[[23]](#cite_note-ED-23)</sup> | |
+| **Mud Cakes** | Argonian treats made on a griddle.<sup>[[24]](#cite_note-24)</sup> | |
+| **Savory Cornbread** | Originating from the city of [Thorn](Lore_Thorn.md). [Saltrice](Lore_Saltrice.md) is a companion grain to the corn in this recipe.<sup>[[25]](#cite_note-25)</sup> | |
+
+## Fruits and Vegetables
+| Name | Description | Image |
+| --- | --- | --- |
+| **Baked Bananas** | Bananas that are baked before being eaten. In the city of [Stormhold](Lore_Stormhold.md) they are served with cheese.<sup>[[26]](#cite_note-26)</sup> | |
+| **Dragonfruit** | Dragonfruit is a type of fruit that is native to Murkmire and eaten by the local Argonians. | [![ON-furnishing-Dragonfruit, Wax.jpg](https://images.uesp.net/thumb/1/1e/ON-furnishing-Dragonfruit%2C_Wax.jpg/100px-ON-furnishing-Dragonfruit%2C_Wax.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Dragonfruit,_Wax.jpg) |
+| **Eel-Pears** | A native Black Marsh fruit eaten by Argonians.<sup>[[27]](#cite_note-27)</sup> | |
+| **Fanik Goc** | A plant with a large, bulbous root that is made into a pickled treat.<sup>[[28]](#cite_note-HFG-28)</sup> | |
+| **Fire Apple** | A subspecies of [apple](Lore_Apple.md) that grows on trees in Black Marsh.<sup>[[29]](#cite_note-ESOVeesk104-29)</sup> | |
+| **[Hist](Lore_Hist.md) Fruit** | The fruit of the Hist tree is usually forbidden for consumption. However, Argonian [Sap-Speakers](Lore_Sap-Speakers.md) are allowed to eat the fruit during religious communion with the hist.<sup>[[30]](#cite_note-TMM-30)</sup> | |
+| **Lizardfruit** | Lizardfruit grows at [White Rose](https://en.uesp.net/wiki/Lore:White_Rose). The fruit is somewhat bland, but it numbs the tongue when eaten. A hearty gulp of rosewater will reverse the effect.<sup>[[31]](#cite_note-31)</sup> | |
+| **Lychee** | Lychee fruits are eaten by Argonians.<sup>[[32]](#cite_note-32)</sup> | [![ON-furnishing-Lychee Bowl, Display.jpg](https://images.uesp.net/thumb/8/84/ON-furnishing-Lychee_Bowl%2C_Display.jpg/150px-ON-furnishing-Lychee_Bowl%2C_Display.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Lychee_Bowl,_Display.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Lychee_Bowl,_Display.jpg) |
+| **Nectarine** | Nectarines grow in Black Marsh.<sup>[[33]](#cite_note-33)</sup> | |
+| **Stormberry** | A berry that grows on bushes in the swamp.<sup>[[29]](#cite_note-ESOVeesk104-29)</sup> | |
+| **Wasso** | The leaves and fruit of the wasso plant are used in Argonian cuisine.<sup>[[34]](#cite_note-SOB-34)</sup> | |
+
+## Meat and Seafood
+| Name | Description | Image |
+| --- | --- | --- |
+| **Aojee-Sakka** | A meal consisting of two dishes served simultaneously and is among the most dangerous meals in Tamriel. The primary dish is sliced and seared Aojee Toad laid over caramelized figs and cinnamon-grass. The second dish is a bowl of cold hosh, a dark and viscous soup. Neither of these can be consumed alone, as they are a deadly poison; they must be eaten simultaneously because they serve as an antidote for each other's poison. Eating too much toad causes violent tremors and mouth frothing, which leads to death. Too much hosh induces searing intestinal pain and vomiting, then death.<sup>[[35]](#cite_note-ACA4-35)</sup> Aojee-Sakka is very difficult and time-consuming to prepare.<sup>[[36]](#cite_note-36)</sup> Precise tools are used to prepare the toad.<sup>[[37]](#cite_note-37)</sup> It is deadly when prepared incorrectly or eaten improperly.<sup>[[38]](#cite_note-38)</sup> Specialized vases are kept at tables where Aojee-Sakka is being served in case the toad is prepared improperly.<sup>[[39]](#cite_note-39)</sup> | |
+| **Baked Crocodile Tongue** | Crocodile tongue prepared by baking.<sup>[[40]](#cite_note-OD-40)</sup> | |
+| **Black Cockerel Served in Tortoise Shell** | The black cockerel of White Rose eats poisonous beetles, which stain its flesh black and render it too toxic for consumption. To get around this, the Argonians have a common painted tortoise eat the bird's flesh. The tortoise negates the poison. It should be killed before it fully digests its meal, then roasted. The tortoise itself isn't much to write home about, but the black cockerel flesh in the reptile's gut is savory and decadent.<sup>[[41]](#cite_note-41)</sup> | |
+| **Brined Leeches** | Eaten by the [Bright-Throat Tribe](Lore_Bright-Throat_Tribe.md) at bonding season feasts. The taste improves as the leeches are digested, and some Argonians enjoy regurgitating it from their crop a few hours after initial consumption.<sup>[[42]](#cite_note-ESOJotep Liurz-42)</sup> | |
+| **Bog-eels** | Hunted for their meat, skin, and eggs. The eel-leather is very supple, but crispy when roasted. Argonians trap the bog-eels before they root their way into deeper muck.<sup>[[43]](#cite_note-43)</sup> | |
+| **Butterflies and Moths** | Butterflies and Moths are a challenging but rewarding culinary experience. Most non-Argonians who are brave enough to sample them remove the wings before consumption. They are served in a traditional "ajum": a woven tray with a netted lid. Some of these delicate trays are made of swamp grass.<sup>[[44]](#cite_note-44)</sup> A truly satisfying butterfly dish hinges on the delicate art of "Iuheeez," or "wing folding." Argonian master chefs use their claws to bend and fold the wings into tiny but ornate edible sculptures. However, local custom dictates that outsiders fold their own wings.<sup>[[45]](#cite_note-V2-45)</sup> Green Slipper-Tails are perhaps the sweetest of the Slipper-Tail species, tasting of honey-grass with a sweet but chalky finish.<sup>[[45]](#cite_note-V2-45)</sup> | |
+| **Cloistered Tide** | A giant clam filled with milled grains, crab fat, and fish liver. The stuffed clam is roasted over a fire until it begins to sizzle. The finished dish has a strong savory, briny flavor.<sup>[[46]](#cite_note-STE-46)</sup> | |
+| **Crayfish Salad** | Argonians search tide-pools for crayfish, which they then boil for a short time in seasoned water. The crayfish are then removed from their shells and their heads cut off: when the meat is sufficiently cooled, Argonians add it to the greens and top it with a choice of fruits, vegetables, seeds, or meat.<sup>[[47]](#cite_note-47)</sup> | |
+| **Fen Hen** | Birds that live in Black Marsh. The taste and crunch is reminiscent of [crows](Lore_Crow.md).<sup>[[48]](#cite_note-SMFM-48)</sup> | |
+| **Fish Cakes** | Fish cakes are eaten by Argonians with some preparing **spicy fish cakes.**<sup>[[49]](#cite_note-DRD-49)</sup> | |
+| **Garlic Hagfish** | [Hagfish](https://en.uesp.net/wiki/Lore:Hagfish) served with garlic.<sup>[[50]](#cite_note-50)</sup> | |
+| **Giant Wasp Gizzards** | Giant wasp gizzards are roasted and seasoned before consumption.<sup>[[51]](#cite_note-51)</sup> | |
+| **Grilled Toad Livers** | The grilled livers of toads.<sup>[[40]](#cite_note-OD-40)</sup> | |
+| **Grubs** | Grubs are commonly eaten in Black Marsh. Some Argonians keep carved amber grub-cages by their bedside to hold live snack-larvae.<sup>[[52]](#cite_note-52)</sup> **Bilge-Grubs** are a thick, milky species that are nutritious but awful smelling.<sup>[[53]](#cite_note-53)</sup> | [![](https://images.uesp.net/thumb/9/92/ON-furnishing-Grub_Kebabs.jpg/100px-ON-furnishing-Grub_Kebabs.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Grub_Kebabs.jpg) Grub kebabs [![](https://images.uesp.net/thumb/3/3e/ON-furnishing-Bowl_of_Grubs.jpg/100px-ON-furnishing-Bowl_of_Grubs.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Bowl_of_Grubs.jpg) A bowl of grubs |
+| **Hermit Crab** | Hermit crabs make a convenient snack. The meat within their large claws is juicy like ripe fruit, and their eyes are delicious.<sup>[[54]](#cite_note-54)</sup> | |
+| **Kraken Barnacles** | Kraken barnacles are native to the seas around [Lilmoth](Lore_Lilmoth.md), they are described as being smooth and dark green with a tube-like appendage that sticks out the wide end.<sup>[[55]](#cite_note-LOS-55)</sup><sup>:56-57</sup> They are eaten by squeezing the shell until it cracks, then the soft edible mass inside is pulled out by the appendage.<sup>[[55]](#cite_note-LOS-55)</sup><sup>:56-57</sup> | |
+| **Licorice Worms** | A type of worm enjoyed by Argonians.<sup>[[56]](#cite_note-56)</sup> They are also fed to Argonian hatchlings.<sup>[[57]](#cite_note-57)</sup> | |
+| **Marsh Centipede** | Argonians hunt and eat these thick insects of ill-temperament.<sup>[[58]](#cite_note-58)</sup> | |
+| **Marsh-Hen** | Birds that live in Black Marsh.<sup>[[59]](#cite_note-ESOHeem-59)</sup> | |
+| **Mudcrab** | Argonians eat mudcrab meat, which can be made into mudcrab cakes.<sup>[[60]](#cite_note-60)</sup> Mudcrab is also eaten steamed.<sup>[[61]](#cite_note-61)</sup> | |
+| **Nagahssee** | Nagahssee, which roughly translates to "snake roll" uses a wasso hedge snake. This meal is risky as the wasso hedge snake looks almost exactly like the red hooped tree-viper. Eating the former will give you a full belly, while eating the latter will kill you before you leave the table.<sup>[[62]](#cite_note-V3-62)</sup> Once the chef has acquired a snake, he or she goes to work disemboweling it. The snake's interior is used in a number of other dishes, but nagahssee only requires the skin. The empty skin is packed with a mix of wild marsh rice, dried parsnips, sliced bark-ear mushrooms, and a live mouse. Those who choose to eat the dish when it is first prepared are treated to the fresh vegetable medley and the lean, wriggling meat of the mouse. But those who choose to let the dish rest for a few hours (or even days) are richly rewarded for their patience. The longer the dish rests, the fatter the mouse becomes. It can spend a great deal of time feasting on the rice and parsnips before finally expiring. An average nagahssee takes about five days to "ripen."<sup>[[62]](#cite_note-V3-62)</sup> | |
+| **[Oysters](https://en.uesp.net/wiki/Lore:Oyster)** | Oysters are enjoyed with a drizzle of lemon.<sup>[[63]](#cite_note-63)</sup> | [![ON-furnishing-Oyster Plate, Display.jpg](https://images.uesp.net/thumb/2/24/ON-furnishing-Oyster_Plate%2C_Display.jpg/150px-ON-furnishing-Oyster_Plate%2C_Display.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Oyster_Plate,_Display.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Oyster_Plate,_Display.jpg) |
+| **Pickled Frog Eyes** | These pickled eyes are considered a delicacy by some Argonian tribes.<sup>[[64]](#cite_note-64)</sup> | |
+| **Pukta Snakes** | Pukta Snakes are commonly covered in honey and then roasted in a firepit.<sup>[[65]](#cite_note-65)</sup> | |
+| **Raw Fish** | Raw fish is served drizzled with lime juice and fresh spices.<sup>[[66]](#cite_note-66)</sup> | |
+| **Reef-Fried Dumplings** | Fried pastry stuffed with a smoked meat filling of various reef animals. They're "spiced" with natural paralytic toxins that Argonians aren't affected by.<sup>[[46]](#cite_note-STE-46)</sup> | |
+| **Saddle-Cured Rabbit** | Cured rabbit meat, eaten with saltrice.<sup>[[67]](#cite_note-67)</sup> | |
+| **[Seahorses](https://en.uesp.net/wiki/Lore:Seahorse)** | Whole seahorses are served with lemon.<sup>[[68]](#cite_note-68)</sup> | [![ON-furnishing-Seahorse Platter, Display.jpg](https://images.uesp.net/thumb/5/52/ON-furnishing-Seahorse_Platter%2C_Display.jpg/150px-ON-furnishing-Seahorse_Platter%2C_Display.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Seahorse_Platter,_Display.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Seahorse_Platter,_Display.jpg) |
+| **[Sea Urchins](Lore_Sea_Urchin.md)** | The Tide-Born tribe of Argonians gather and eat sea urchins.<sup>[[69]](#cite_note-DDJ-69)</sup> | |
+| **Slaughterfish Liver** | Slaughterfish liver is usually avoided because it is difficult to serve without first negating the toxins within it. The Argonian tribes know how to prepare this dish in a way that negates the toxins.<sup>[[70]](#cite_note-70)</sup> | |
+| **Slugs** | Slugs are frequently served raw and often with a sprig of salt-meadow leaf.<sup>[[71]](#cite_note-V1-71)</sup> Slugpaste is a uniquely Argonian culinary item.<sup>[[72]](#cite_note-ESOBeehuna-72)</sup> - Bearded Blue - This indigo slug is quite common. It's roughly the size of a Nord's thumb and features a shaggy clump of tentacles beneath its long eye stalks. The slug features a subtle aroma, but it also has refreshingly citrusy undertones. The extra tentacles give the Bearded Blue a unique texture that can be a little distracting (particularly when consumed alive), but it tastes simply divine. The flavor is earth-driven with subdued loamy notes hidden below a firm citrusy bite. <br> <br> - Black-Banded Slider - The Black-Banded Slider is a local staple of southern Black Marsh. It is often smoked and eaten on a bed of weevil larvae and orange-grass. The slug excretes an acrid black oil when disturbed, but it is easily wiped away to reveal a long body with a series of broad black stripes across a pale, creamy mantle. Even washed, the Black-Banded Slider presents a chewy, tannic flavor that must be endured to reach the clean and nuanced aftertaste that the Argonians relish. It's a mellow, almost floral flourish to an otherwise imposing meal. <br> <br> - King Yellow - The King Yellow is a massive creature covered in a vast forest of fleshy, undulating bristles. They are often wrapped in a wasso nut leaf with an indigo lily garnish. The King Yellow has a rich bouquet of mossy, herbaceous scents. The tail is described as being brooding and nutty, the mantle is described as being thick, oily, and bitter. The head has a cloying, buttery taste that swings wildly toward a dry, mustardy finish.<sup>[[71]](#cite_note-V1-71)</sup> | |
+| **[Snails](Lore_Snail.md)** | Snails are prepared in their shells and eaten by Argonians.<sup>[[73]](#cite_note-73)</sup> | [![ON-furnishing-Snail Bowl, Display.jpg](https://images.uesp.net/thumb/c/ce/ON-furnishing-Snail_Bowl%2C_Display.jpg/150px-ON-furnishing-Snail_Bowl%2C_Display.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Snail_Bowl,_Display.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Snail_Bowl,_Display.jpg) |
+| **Swamp Eel** | Large, ornate platters are traditionally used to serve them at feasts.<sup>[[74]](#cite_note-74)</sup> In Gideon, they were served in a blackberry wine sauce and considered speciality of the house of the local Egg and Hammer inn.<sup>[[75]](#cite_note-EDAME-75)</sup> They are also baked into swamp-eel pie.<sup>[[76]](#cite_note-NGHC-76)</sup> | |
+| **[Swamp Jelly](Lore_Swamp_Jelly.md)** | Swamp Jellies are often eaten by Argonians. They are prepared at first by removing any tentacles from the body, they are then laid out straight across a cutting board and sliced across. Once the limbs are removed, the body is split straight down the middle. After this, the body cavities are washed out and the jelly is ready for roasting over an open fire or in an oven. Over red coals you'll get a firmer jelly with a bit of crisp on the outside. The tentacles of the jelly can be cooked in the body and pair well with eel broth, but some Argonians roast them on skewers for a salty treat.<sup>[[77]](#cite_note-TCAFOSJ-77)</sup> Swamp jelly also makes a good substitute for brain or scrib jelly in recipes for individuals who are looking to lose weight.<sup>[[77]](#cite_note-TCAFOSJ-77)</sup> | [![](https://images.uesp.net/thumb/5/5b/ON-creature-Swamp_Jellies.jpg/200px-ON-creature-Swamp_Jellies.jpg)](https://en.uesp.net/wiki/File:ON-creature-Swamp_Jellies.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Swamp_Jellies.jpg) Swamp Jellies |
+| **Swamp Shrimp Boil** | A type of seafood boil. The Argonians prefer to use swamp shrimp, but any kind of prawn can be used to make it.<sup>[[1]](#cite_note-Cookbook-1)</sup><sup>:57</sup> | [![](https://images.uesp.net/thumb/6/64/BK-misc-Official_Cookbook_Swamp_Shrimp_Boil.png/150px-BK-misc-Official_Cookbook_Swamp_Shrimp_Boil.png)](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Swamp_Shrimp_Boil.png) [](https://en.uesp.net/wiki/File:BK-misc-Official_Cookbook_Swamp_Shrimp_Boil.png) Swamp Shrimp Boil |
+| **Toad Jerky** | Jerky made from toads.<sup>[[78]](#cite_note-78)</sup> | |
+| **[Trodh](https://en.uesp.net/wiki/Lore:Trodh)** | Trodh are tiny, crunchy fish that have to be eaten alive; if they are cooked, they become poisonous.<sup>[[79]](#cite_note-79)</sup> | |
+| **Wamasu** | The loin meat of the [Wamasu](Lore_Wamasu.md) is sometimes flavored with grapes and various seasonings.<sup>[[80]](#cite_note-80)</sup> Wamasu meat is also fried.<sup>[[81]](#cite_note-81)</sup> | |
+| **Wriggles-in-Gullet** | An Argonian dish.<sup>[[76]](#cite_note-NGHC-76)</sup> | |
+
+## Beverages
+| Name | Description | Image |
+| --- | --- | --- |
+| **Bile Beer** | Bile Beer (or bile-beer) is a bitter [alcoholic beverage](Lore_Alcoholic_Beverages.md).<sup>[[82]](#cite_note-82)</sup><sup>[[83]](#cite_note-83)</sup><sup>[[84]](#cite_note-84)</sup> A guar that consumes bile beer will become sick to its stomach.<sup>[[85]](#cite_note-85)</sup> | |
+| **Fish-Eye Rye** | A foul smelling Argonian concoction typically enjoyed during the [New Life Festival](Lore_New_Life_Festival.md). Originating from the village of [Hissmir](Lore_Hissmir.md), it consists of rye alcohol, corn flowers, and lemon. Fish is also included in the brewing process, earning the drink its name.<sup>[[86]](#cite_note-86)</sup> | |
+| **Mud Nectar** | An alcoholic beverage made from rice and seaweed.<sup>[[87]](#cite_note-87)</sup> | |
+| **Phlegmwine** | A strong-smelling Argonian alcoholic beverage that is usually imbibed during celebrations. It bubbles due to the bog gasses that are used in its creation. It is best consumed while it's still bubbling, before the bog gasses run dry.<sup>[[88]](#cite_note-88)</sup><sup>[[89]](#cite_note-89)</sup><sup>[[72]](#cite_note-ESOBeehuna-72)</sup> A good phlegmwine has just the right amount of skin forming at the top.<sup>[[42]](#cite_note-ESOJotep Liurz-42)</sup> | |
+| **[Saiewin](Lore_Saiewin.md) Atol** | A thick brew made from saiewen grain that is served hot.<sup>[[90]](#cite_note-TBFP-90)</sup> | |
+| **Seasting Tea** | A tea that utilizes sea urchin venom. It's sweet, acidic, and causes a buzzing sensation on the tongue.<sup>[[46]](#cite_note-STE-46)</sup> | |
+| **Six-Ooze Parfait** | An Argonian delicacy often served to end the meal. It was served in some Nordic taverns.<sup>[[91]](#cite_note-ESOVeesk152-91)</sup> | |
+| **Snail-Gin** | Snail-Gin is a gin brewed in Black Marsh that has a reputation for killing those who drink it. A pair of Argonian siblings from Murkmire worked on making non-lethal Snail-Gin in [2E 582](Lore_Second_Era.md#2E_582).<sup>[[3]](#cite_note-ESOHaxal-3)</sup> | |
+| **Sweetbile** | A beverage typically consumed during celebrations. Quality sweetbile trembles ever so slightly in the stomach.<sup>[[42]](#cite_note-ESOJotep Liurz-42)</sup> | |
+| **Snake Rum** | An extremely pungent and potent alcohol made from snake bile and diluted venom.<sup>[[92]](#cite_note-92)</sup> | |
+| **Snake Sweat** | A beverage enjoyed by the Argonians of [Dhalmora](Lore_Dhalmora.md).<sup>[[93]](#cite_note-93)</sup> | |
+| **Theilul** | Theilul is a dark<sup>[[94]](#cite_note-94)</sup> [Argonian](Lore_Argonian.md) rum made from sugarcane.<sup>[[3]](#cite_note-ESOHaxal-3)</sup> Theilul is more profitable and easier to transport than the cane itself.<sup>[[95]](#cite_note-TIC-95)</sup><sup>:36</sup> | |
+| **Xanmeer Brandy** | Grape brandy flavored with bittergreen and ginkgo bark.<sup>[[96]](#cite_note-96)</sup> | |
+
+## Meals Abroad
+Argonians living abroad may not have access to the more exotic ingredients endemic to their homeland. The following is a list of foreign food given an Argonian spin. This list is not exceedingly comprehensive; some preparations, such as braised or stewed rabbit, are common wherever the animals are native; the point of this section is to denote culinary practices that exceed or toe the boundaries of the culinary norms of other races, or are uniquely Argonian.
+
+| Name | Description | Image |
+| --- | --- | --- |
+| **Crow** | A crunchy bird from Skyrim that can be seasoned with bamphor;<sup>[[48]](#cite_note-SMFM-48)</sup> bamphor squeezings are an essential oil with a very high alcohol content that can be used for disinfecting wounds and calming a patient.<sup>[[97]](#cite_note-97)</sup> | |
+| **Dog** | Argonians abroad would not shy away from eating [dog](Lore_Dog.md) in places where it isn't taboo; in Skyrim, it very much is.<sup>[[48]](#cite_note-SMFM-48)</sup> Furry animals like dogs do not typically live in Black Marsh—at least not among the tribes.<sup>[[98]](#cite_note-98)</sup> | |
+| **Cat** | Similar to the dog, some Argonians would have no trouble eating [cats](Lore_Cat.md), were it not taboo. The idea of doing so is reviled in Skyrim, where they prefer to pet their small mammals.<sup>[[48]](#cite_note-SMFM-48)</sup> | |
+| **Wharf Rat** | Wharf [rats](Lore_Rat.md) are delicious when basted in bile beer.<sup>[[48]](#cite_note-SMFM-48)</sup> | |
+| **Monkey** | The gamey meat of the [monkey](Lore_Monkey.md) can be smeared with [dragon's-tongue](Lore_Dragon%27s_Tongue.md) sap and basted in Theilul. | |
+
+## Soups and Stews
+| Name | Description | Image |
+| --- | --- | --- |
+| **Broths** | Swamp eel broth goes well with vegetables, fish, meat, and maggots. Argonian chefs aren't afraid to cook up a soup that wriggles. Crawdad tails in a saltrice infused broth is quite a salty combination, but it suits the palate that doesn't appreciate a wriggling soup. Bones can be added to a soup or broth to add flavor. Ripe roots can also be added to soup.<sup>[[2]](#cite_note-ESOSoup-2)</sup> | |
+| **Eel Stew** | A stew made with eels.<sup>[[99]](#cite_note-99)</sup> | |
+| **Frog Stew** | A type of stew made with frogs.<sup>[[100]](#cite_note-100)</sup> | |
+| **Mud-Hopper Stew** | Mud-Hopper Stew is a stew commonly served in Gideon.<sup>[[23]](#cite_note-ED-23)</sup> | |
+| **Pumpkin Stew** | An Argonian stew made with pumpkin, fish, and saltrice.<sup>[[101]](#cite_note-101)</sup> | |
+| **Stone Soup** | A type of soup eaten by the Stone-Nest tribe of Argonians.<sup>[[102]](#cite_note-102)</sup> | |
+| **Toad Stew** | A variety of stew made from toads, traditionally served with a specialized ladle.<sup>[[103]](#cite_note-103)</sup> | |
+| **Worm and Marsh Moss Stew** | A type of stew eaten by Naga. Does "terrible things" to an uninitiated outsider's internal organs.<sup>[[104]](#cite_note-104)</sup> | |
+
+## Spices and Sauces
+| Name | Description | Image |
+| --- | --- | --- |
+| **Fermented Fish Sauce** | An Argonian condiment.<sup>[[105]](#cite_note-BD-105)</sup> | |
+| **Marsh Mint** | Argonians harvest potent mint plants for use in food.<sup>[[106]](#cite_note-106)</sup> | [](https://en.uesp.net/wiki/File:ON-icon-food-Mint.png) |
+| **Treacle Sap** | A type of Argonian sauce.<sup>[[105]](#cite_note-BD-105)</sup> | |
+
+## Gallery
+
+### Table and Cookware
+- [![](https://images.uesp.net/thumb/5/53/ON-furnishing-Argonian_Bowl%2C_Ritual.jpg/200px-ON-furnishing-Argonian_Bowl%2C_Ritual.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Bowl,_Ritual.jpg) Argonian Bowl (ESO)
+- [![](https://images.uesp.net/thumb/b/be/ON-furnishing-Argonian_Ramekin%2C_Bordered.jpg/200px-ON-furnishing-Argonian_Ramekin%2C_Bordered.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Ramekin,_Bordered.jpg) Bordered Ramekin (ESO)
+- [![](https://images.uesp.net/thumb/b/b7/ON-furnishing-Argonian_Ramekin%2C_Hardened.jpg/200px-ON-furnishing-Argonian_Ramekin%2C_Hardened.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Ramekin,_Hardened.jpg) Hardened Ramekin (ESO)
+- [![](https://images.uesp.net/thumb/1/12/ON-furnishing-Argonian_Pan%2C_Frying.jpg/200px-ON-furnishing-Argonian_Pan%2C_Frying.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Pan,_Frying.jpg) Argonian frying pan (ESO)
+- [![](https://images.uesp.net/thumb/f/f6/ON-furnishing-Murkmire_Bowl%2C_Geometric_Pattern.jpg/200px-ON-furnishing-Murkmire_Bowl%2C_Geometric_Pattern.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Bowl,_Geometric_Pattern.jpg) Bowl with a geometric pattern (ESO)
+- [![](https://images.uesp.net/thumb/f/ff/ON-furnishing-Murkmire_Dish%2C_Geometric_Pattern.jpg/200px-ON-furnishing-Murkmire_Dish%2C_Geometric_Pattern.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Dish,_Geometric_Pattern.jpg) Dish with a geometric pattern (ESO)
+- [![](https://images.uesp.net/thumb/3/3b/ON-furnishing-Argonian_Jug%2C_Ritual.jpg/200px-ON-furnishing-Argonian_Jug%2C_Ritual.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Jug,_Ritual.jpg) Argonian Jug (ESO)
+- [![](https://images.uesp.net/7/78/ON-furnishing-Argonian_Cup%2C_Short.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Cup,_Short.jpg) Short Argonian cup (ESO)
+- [![](https://images.uesp.net/thumb/9/93/ON-furnishing-Argonian_Cup%2C_Tall.jpg/200px-ON-furnishing-Argonian_Cup%2C_Tall.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Cup,_Tall.jpg) Tall Argonian cup (ESO)
+- [![](https://images.uesp.net/thumb/7/79/ON-furnishing-Argonian_Cup%2C_Bordered.jpg/200px-ON-furnishing-Argonian_Cup%2C_Bordered.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Cup,_Bordered.jpg) Bordered Argonian cup (ESO)
+- [![](https://images.uesp.net/thumb/4/4a/ON-furnishing-Argonian_Mug%2C_Tooth.jpg/200px-ON-furnishing-Argonian_Mug%2C_Tooth.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Mug,_Tooth.jpg) Tooth handled Mug (ESO)
+- [![](https://images.uesp.net/thumb/b/b5/ON-furnishing-Argonian_Basket%2C_Serving.jpg/200px-ON-furnishing-Argonian_Basket%2C_Serving.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Basket,_Serving.jpg) Argonian serving basket (ESO)
+- [![](https://images.uesp.net/thumb/f/f0/ON-furnishing-Murkmire_Plate%2C_Charger.jpg/200px-ON-furnishing-Murkmire_Plate%2C_Charger.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Plate,_Charger.jpg) Murkmire charger plate (ESO)
+- [![](https://images.uesp.net/thumb/f/ff/ON-furnishing-Murkmire_Dish%2C_Geometric_Pattern.jpg/200px-ON-furnishing-Murkmire_Dish%2C_Geometric_Pattern.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Dish,_Geometric_Pattern.jpg) Murkmire dish (ESO)
+- [![](https://images.uesp.net/thumb/f/f6/ON-furnishing-Murkmire_Bowl%2C_Geometric_Pattern.jpg/200px-ON-furnishing-Murkmire_Bowl%2C_Geometric_Pattern.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Bowl,_Geometric_Pattern.jpg) Murkmire bowl (ESO)
+- [![](https://images.uesp.net/thumb/a/a0/ON-furnishing-Tide-Born_Bowl%2C_Stone_Serving.jpg/200px-ON-furnishing-Tide-Born_Bowl%2C_Stone_Serving.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Bowl,_Stone_Serving.jpg) Tide-Born stone serving bowl (ESO)
+- [![](https://images.uesp.net/thumb/f/ff/ON-furnishing-Tide-Born_Fork%2C_Wooden.jpg/200px-ON-furnishing-Tide-Born_Fork%2C_Wooden.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Fork,_Wooden.jpg) Wooden Tide-Born fork (ESO)
+- [![](https://images.uesp.net/thumb/1/1b/ON-furnishing-Tide-Born_Serving_Fork%2C_Wooden.jpg/200px-ON-furnishing-Tide-Born_Serving_Fork%2C_Wooden.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Serving_Fork,_Wooden.jpg) Wooden Tide-Born serving fork (ESO)
+- [![](https://images.uesp.net/thumb/a/a7/ON-furnishing-Tide-Born_Spoon%2C_Wooden.jpg/200px-ON-furnishing-Tide-Born_Spoon%2C_Wooden.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Spoon,_Wooden.jpg) Wooden Tide-Born spoon (ESO)
+- [![](https://images.uesp.net/thumb/f/f0/ON-furnishing-Tide-Born_Spatula%2C_Wooden.jpg/200px-ON-furnishing-Tide-Born_Spatula%2C_Wooden.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Spatula,_Wooden.jpg) Wooden Tide-Born spatula (ESO)
+- [![](https://images.uesp.net/thumb/8/82/ON-furnishing-Tide-Born_Knife%2C_Kitchen.jpg/200px-ON-furnishing-Tide-Born_Knife%2C_Kitchen.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Knife,_Kitchen.jpg) Tide-Born kitchen knife (ESO)
+- [![](https://images.uesp.net/thumb/0/06/ON-furnishing-Tide-Born_Ladle%2C_Wooden.jpg/200px-ON-furnishing-Tide-Born_Ladle%2C_Wooden.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Ladle,_Wooden.jpg) Wooden Tide-Born ladle (ESO)
+- [![](https://images.uesp.net/thumb/6/67/ON-furnishing-Tide-Born_Mallet%2C_Crab.jpg/200px-ON-furnishing-Tide-Born_Mallet%2C_Crab.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Mallet,_Crab.jpg) Tide-Born crab mallet (ESO)
+- [![](https://images.uesp.net/thumb/b/b5/ON-furnishing-Tide-Born_Pitcher%2C_Stone.jpg/200px-ON-furnishing-Tide-Born_Pitcher%2C_Stone.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Pitcher,_Stone.jpg) Tide-Born stone pitcher (ESO)
+- [![](https://images.uesp.net/thumb/d/d6/ON-furnishing-Tide-Born_Plate%2C_Square.jpg/200px-ON-furnishing-Tide-Born_Plate%2C_Square.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Plate,_Square.jpg) Square Tide-Born plate (ESO)
+- [![](https://images.uesp.net/thumb/6/6f/ON-furnishing-Tide-Born_Plate%2C_Rectangular.jpg/200px-ON-furnishing-Tide-Born_Plate%2C_Rectangular.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Plate,_Rectangular.jpg) Rectangular Tide-Born plate (ESO)
+- [![](https://images.uesp.net/thumb/2/21/ON-furnishing-Tide-Born_Plate%2C_Triangular.jpg/200px-ON-furnishing-Tide-Born_Plate%2C_Triangular.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Plate,_Triangular.jpg) Triangular Tide-Born plate (ESO)
+
+### Ovens and Equipment
+- [](https://en.uesp.net/wiki/File:SR-icon-weapon-Argonian_Fishing_Rod.png) Argonian Fishing rod (Skyrim)
+- [![](https://images.uesp.net/thumb/8/86/ON-furnishing-Tide-Born_Oven%2C_Stone.jpg/200px-ON-furnishing-Tide-Born_Oven%2C_Stone.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Oven,_Stone.jpg) Stone Tide-Born oven (ESO)
+
+### Food
+- [![](https://images.uesp.net/thumb/f/f1/ON-item-Tide-born_Argonian_Cuisine.jpg/200px-ON-item-Tide-born_Argonian_Cuisine.jpg)](https://en.uesp.net/wiki/File:ON-item-Tide-born_Argonian_Cuisine.jpg) A selection of Tide-Born food (ESO)
+- [![](https://images.uesp.net/thumb/0/04/ON-furnishing-Seafood_Platter%2C_Display.jpg/200px-ON-furnishing-Seafood_Platter%2C_Display.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Seafood_Platter,_Display.jpg) A Tide-Born seafood platter (ESO)
+- [![](https://images.uesp.net/thumb/1/15/ON-furnishing-Tide-Born_Drying_Rack%2C_Fish.jpg/200px-ON-furnishing-Tide-Born_Drying_Rack%2C_Fish.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Tide-Born_Drying_Rack,_Fish.jpg) Tide-Born fish drying rack (ESO)
+- [![](https://images.uesp.net/thumb/c/c2/ON-furnishing-Argonian_Pole%2C_Split.jpg/200px-ON-furnishing-Argonian_Pole%2C_Split.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Pole,_Split.jpg) Fish and frogs (ESO)
+- [![](https://images.uesp.net/thumb/c/c2/ON-furnishing-Argonian_Fish_in_a_Basket.jpg/200px-ON-furnishing-Argonian_Fish_in_a_Basket.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Fish_in_a_Basket.jpg) Argonian fish in a basket (ESO)
+- [![](https://images.uesp.net/thumb/1/17/ON-furnishing-Argonian_Snakes_on_a_Rope.jpg/200px-ON-furnishing-Argonian_Snakes_on_a_Rope.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Snakes_on_a_Rope.jpg) Argonian snakes on a rope (ESO)
+- [![](https://images.uesp.net/thumb/8/8f/ON-furnishing-Argonian_Snakes_in_a_Basket.jpg/200px-ON-furnishing-Argonian_Snakes_in_a_Basket.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Argonian_Snakes_in_a_Basket.jpg) Argonian snakes in a basket (ESO)
+- [![](https://images.uesp.net/9/9e/ON-furnishing-Melon%2C_Wax.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Melon,_Wax.jpg) Melon (ESO)
+- [![](https://images.uesp.net/thumb/7/72/ON-furnishing-Murkmire_Berry_Strand.jpg/200px-ON-furnishing-Murkmire_Berry_Strand.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Murkmire_Berry_Strand.jpg) Murkmire berry strand (ESO)
+
+### Chefs
+- [![](https://images.uesp.net/thumb/7/7b/ON-npc-Makes-Many-Soups.jpg/200px-ON-npc-Makes-Many-Soups.jpg)](https://en.uesp.net/wiki/File:ON-npc-Makes-Many-Soups.jpg) [Makes-Many-Soups](Lore_Makes-Many-Soups.md), a well-known Argonian cook (ESO)
+
+## References
+1. ^ <sup>***[a](#cite_ref-Cookbook_1-0)***</sup><sup>***[b](#cite_ref-Cookbook_1-1)***</sup><sup>***[c](#cite_ref-Cookbook_1-2)***</sup> [*The Elder Scrolls: The Official Cookbook*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls:_The_Official_Cookbook) — Chelsea Monroe-Cassel
+2. ^ <sup>***[a](#cite_ref-ESOSoup_2-0)***</sup><sup>***[b](#cite_ref-ESOSoup_2-1)***</sup><sup>***[c](#cite_ref-ESOSoup_2-2)***</sup> [Makes-Many-Soups](https://en.uesp.net/wiki/Online:Makes-Many-Soups#Houseguest_Dialogue)' houseguest dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-ESOHaxal_3-0)***</sup><sup>***[b](#cite_ref-ESOHaxal_3-1)***</sup><sup>***[c](#cite_ref-ESOHaxal_3-2)***</sup><sup>***[d](#cite_ref-ESOHaxal_3-3)***</sup> [Haxal](https://en.uesp.net/wiki/Online:Haxal)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+4. [^](#cite_ref-4) [Butterscotch Dragon Frog](https://en.uesp.net/wiki/Online:Butterscotch_Dragon_Frog) description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+5. [^](#cite_ref-5) [Clamshell Ladle](https://en.uesp.net/wiki/Online:Treasures_C#Clamshell_Ladle) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+6. [^](#cite_ref-6) [Haj Mota Serving Bowl](https://en.uesp.net/wiki/Online:Treasures_H#Haj_Mota_Serving_Bowl) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+7. [^](#cite_ref-7) [Cypress Wood Spoon](https://en.uesp.net/wiki/Online:Treasures_C#Cypress_Wood_Spoon) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+8. [^](#cite_ref-8) [Polished Wooden Spoon](https://en.uesp.net/wiki/Online:Treasures_P#Polished_Wooden_Spoon) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+9. [^](#cite_ref-9) [Argonian Tail Spoon](https://en.uesp.net/wiki/Online:Treasures_A#Argonian_Tail_Spoon) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+10. [^](#cite_ref-10) [Engraved Copper Plates](https://en.uesp.net/wiki/Online:Treasures_E#Engraved_Copper_Plates) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+11. [^](#cite_ref-11) [Pejureel's Party Platter](https://en.uesp.net/wiki/Online:Treasures_P#Pejureel.27s_Party_Platter) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+12. [^](#cite_ref-12) [Clay Xeech-Bok](https://en.uesp.net/wiki/Online:Treasures_C#Clay_Xeech-Bok) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+13. [^](#cite_ref-13) [Dead-Water Gourd of Vigor](https://en.uesp.net/wiki/Online:Treasures_D#Dead-Water_Gourd_of_Vigor) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+14. [^](#cite_ref-14) [Kagouti Drinking Horn](https://en.uesp.net/wiki/Online:Treasures_K#Kagouti_Drinking_Horn) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+15. [^](#cite_ref-15) [Baked Mud Sipping Bowl](https://en.uesp.net/wiki/Online:Treasures_B#Baked_Mud_Sipping_Bowl) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+16. [^](#cite_ref-16) [Woven Place Mats](https://en.uesp.net/wiki/Online:Treasures_W#Woven_Place_Mats) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+17. [^](#cite_ref-17) [Needlerush Swamp Kabob Set](https://en.uesp.net/wiki/Online:Treasures_N#Needlerush_Swamp_Kabob_Set) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+18. [^](#cite_ref-18) [Glazed Chiminea](https://en.uesp.net/wiki/Online:Treasures_G#Glazed_Chiminea) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+19. [^](#cite_ref-19) [Argonian Spice Shaker](https://en.uesp.net/wiki/Online:Treasures_A#Argonian_Spice_Shaker) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+20. [^](#cite_ref-20) [Murkmire Spice Grinder](https://en.uesp.net/wiki/Online:Treasures_M#Murkmire_Spice_Grinder) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+21. [^](#cite_ref-21) [Wasso-Leaf Napkins](https://en.uesp.net/wiki/Online:Treasures_W#Wasso-Leaf_Napkins) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+22. [^](#cite_ref-22) [Beetle Puffs Pastry Pan](https://en.uesp.net/wiki/Online:Contraband_B#Beetle_Puffs_Pastry_Pan) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+23. ^ <sup>***[a](#cite_ref-ED_23-0)***</sup><sup>***[b](#cite_ref-ED_23-1)***</sup> [Elam Drals](https://en.uesp.net/wiki/Online:Elam_Drals) dialogue during [A Deadly Secret](https://en.uesp.net/wiki/Online:A_Deadly_Secret) in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. [^](#cite_ref-24) [Copper Meht Pan](https://en.uesp.net/wiki/Online:Treasures_C#Copper_Meht_Pan) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+25. [^](#cite_ref-25) [Savory Thorn Cornbread](https://en.uesp.net/wiki/Online:Savory_Thorn_Cornbread) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+26. [^](#cite_ref-26) [Stormhold Baked Bananas](https://en.uesp.net/wiki/Online:Stormhold_Baked_Bananas) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+27. [^](#cite_ref-27) [Vohta-Lan](https://en.uesp.net/wiki/Online:Vohta-Lan)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+28. [^](#cite_ref-HFG_28-0) [*The Humble Fanik Goc*](Lore_The_Humble_Fanik_Goc.md) — [Healer Norasa Onmar](Lore_Books_by_Author.md#Healer_Norasa_Onmar)
+29. ^ <sup>***[a](#cite_ref-ESOVeesk104_29-0)***</sup><sup>***[b](#cite_ref-ESOVeesk104_29-1)***</sup> [Veesk-Olan](https://en.uesp.net/wiki/Online:Veesk-Olan#104)'s 104th hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:Online)
+30. [^](#cite_ref-TMM_30-0) [*Tribes of Murkmire: Miredancers*](https://en.uesp.net/wiki/Lore:Tribes_of_Murkmire__Miredancers) — [Emmanubeth Hurrent](Lore_Books_by_Author.md#Emmanubeth_Hurrent), the Wayfarers' Society of [Wayrest](Lore_Wayrest.md)
+31. [^](#cite_ref-31) [*The Feast of Saint Coellicia V*](Lore_The_Feast_of_Saint_Coellicia_V.md) — [Arfons Jellicandante](Lore_Books_by_Author.md#Arfons_Jellicandante), Expert on Nibenese Cuisine
+32. [^](#cite_ref-32) [Lychee Bowl, Display](https://en.uesp.net/wiki/Online:Lychee_Bowl,_Display) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+33. [^](#cite_ref-33) [*The Real Barenziah, v 3*](Lore_The_Real_Barenziah,_v_3.md) — Anonymous
+34. [^](#cite_ref-SOB_34-0) [*Sighs of Blackwood*](Lore_Sighs_of_Blackwood.md)
+35. [^](#cite_ref-ACA4_35-0) [*A Culinary Adventure, Volume 4*](Lore_A_Culinary_Adventure,_Volume_4.md) — [Rallaume Lemonds](Lore_Books_by_Author.md#Rallaume_Lemonds), Culinary Crusader
+36. [^](#cite_ref-36) [Grayscale](https://en.uesp.net/wiki/Online:Grayscale)'s dialogue during [Culture Clash](https://en.uesp.net/wiki/Online:Culture_Clash) in [ESO](https://en.uesp.net/wiki/Online:Online)
+37. [^](#cite_ref-37) [Toad Cleaning Kit](https://en.uesp.net/wiki/Online:Contraband/Utensils#Toad_Cleaning_Kit) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+38. [^](#cite_ref-38) [Aojee-Sakka](https://en.uesp.net/wiki/Online:Summerset_Quest_Items#Aojee-Sakka) quest item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+39. [^](#cite_ref-39) [Aojee-Sakka Purge Vase](https://en.uesp.net/wiki/Online:Contraband/Dishes_and_Cookware#Aojee-Sakka_Purge_Vase) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+40. ^ <sup>***[a](#cite_ref-OD_40-0)***</sup><sup>***[b](#cite_ref-OD_40-1)***</sup> [Ogzar](https://en.uesp.net/wiki/Online:Ogzar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+41. [^](#cite_ref-41) [*The Feast of Saint Coellicia IV*](Lore_The_Feast_of_Saint_Coellicia_IV.md) — [Arfons Jellicandante](Lore_Books_by_Author.md#Arfons_Jellicandante), Expert on Nibenese Cuisine
+42. ^ <sup>***[a](#cite_ref-ESOJotep Liurz_42-0)***</sup><sup>***[b](#cite_ref-ESOJotep Liurz_42-1)***</sup><sup>***[c](#cite_ref-ESOJotep Liurz_42-2)***</sup> [Jotep-Liurz](https://en.uesp.net/wiki/Online:Jotep-Liurz)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+43. [^](#cite_ref-43) [Loxaldesh](https://en.uesp.net/wiki/Online:Loxaldesh)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+44. [^](#cite_ref-44) [Swamp Grass Ajum](https://en.uesp.net/wiki/Online:Contraband_S#Swamp_Grass_Ajum) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+45. ^ <sup>***[a](#cite_ref-V2_45-0)***</sup><sup>***[b](#cite_ref-V2_45-1)***</sup> [*A Culinary Adventure, Volume 2*](Lore_A_Culinary_Adventure,_Volume_2.md) — [Rallaume Lemonds](Lore_Books_by_Author.md#Rallaume_Lemonds), Culinary Crusader
+46. ^ <sup>***[a](#cite_ref-STE_46-0)***</sup><sup>***[b](#cite_ref-STE_46-1)***</sup><sup>***[c](#cite_ref-STE_46-2)***</sup> [Shata-Tei](https://en.uesp.net/wiki/Online:Shata-Tei)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+47. [^](#cite_ref-47) [*Trans-Niben Delicacies*](Lore_Trans-Niben_Delicacies.md) — [First Mate Snagoth](Lore_Books_by_Author.md#First_Mate_Snagoth) of the Guar's Beak, second fastest treasure hauler on the [Niben River](Lore_Niben_River.md)
+48. ^ <sup>***[a](#cite_ref-SMFM_48-0)***</sup><sup>***[b](#cite_ref-SMFM_48-1)***</sup><sup>***[c](#cite_ref-SMFM_48-2)***</sup><sup>***[d](#cite_ref-SMFM_48-3)***</sup><sup>***[e](#cite_ref-SMFM_48-4)***</sup> [*Small Meals, Fast Meals*](https://en.uesp.net/wiki/Online:Small_Meals,_Fast_Meals) — [Runs-in-Wild](https://en.uesp.net/wiki/Online:Runs-in-Wild)
+49. [^](#cite_ref-DRD_49-0) [*Deem-Ra's Diary*](Lore_Deem-Ra%27s_Diary.md) — [Deem-Ra](Lore_Books_by_Author.md#Deem-Ra)
+50. [^](#cite_ref-50) [Lilmoth Garlic Hagfish](https://en.uesp.net/wiki/Online:Lilmoth_Garlic_Hagfish) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+51. [^](#cite_ref-51) [Churasu](https://en.uesp.net/wiki/Online:Churasu)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+52. [^](#cite_ref-52) [Amber Bedside Grub-Cage](https://en.uesp.net/wiki/Online:Contraband_A#Amber_Bedside_Grub-Cage) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+53. [^](#cite_ref-53) [Bilge Grub Skewer](https://en.uesp.net/wiki/Online:Blackwood_Quest_Items#Bilge_Grub_Skewer) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+54. [^](#cite_ref-54) [Hermit Crab](https://en.uesp.net/wiki/Online:Hermit_Crab_(pet)) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+55. ^ <sup>***[a](#cite_ref-LOS_55-0)***</sup><sup>***[b](#cite_ref-LOS_55-1)***</sup> [*Lord of Souls*](https://en.uesp.net/wiki/Books:Lord_of_Souls) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+56. [^](#cite_ref-56) [Wita](https://en.uesp.net/wiki/Online:Wita)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+57. [^](#cite_ref-57) [Keeper's Licorice Worm Dowsing Rod](https://en.uesp.net/wiki/Online:Treasures_K#Keeper.27s_Licorice_Worm_Dowsing_Rod) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+58. [^](#cite_ref-58) [*Keshu: The Rites of Maturity, Part 1*](https://en.uesp.net/wiki/Lore:Keshu__The_Rites_of_Maturity,_Part_1) — [Peek-Ereel](Lore_Books_by_Author.md#Peek-Ereel), Friend and Confidant to Keshu the Black Fin
+59. [^](#cite_ref-ESOHeem_59-0) [Heem-Jas](https://en.uesp.net/wiki/Online:Heem-Jas)' dialogue during [Sap and Stone](https://en.uesp.net/wiki/Online:Sap_and_Stone) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Shadows of the Hist](https://en.uesp.net/wiki/Online:Shadows_of_the_Hist)*
+60. [^](#cite_ref-60) [Veesk-Olan](https://en.uesp.net/wiki/Online:Veesk-Olan#106)'s 126th hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:Online)
+61. [^](#cite_ref-61) [Mudcrab Shell Cracker](https://en.uesp.net/wiki/Online:Contraband_M#Mudcrab_Shell_Cracker) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+62. ^ <sup>***[a](#cite_ref-V3_62-0)***</sup><sup>***[b](#cite_ref-V3_62-1)***</sup> [*A Culinary Adventure, Volume 3*](Lore_A_Culinary_Adventure,_Volume_3.md) — [Rallaume Lemonds](Lore_Books_by_Author.md#Rallaume_Lemonds), Culinary Crusader
+63. [^](#cite_ref-63) [Oyster Plate, Display](https://en.uesp.net/wiki/Online:Oyster_Plate,_Display) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+64. [^](#cite_ref-64) [Jar of Pickled Frog Eyes](https://en.uesp.net/wiki/Online:Treasures_P#Jar_of_Pickled_Frog_Eyes) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+65. [^](#cite_ref-65) [Cheemee](https://en.uesp.net/wiki/Online:Cheemee)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+66. [^](#cite_ref-66) [Akech-Chun](https://en.uesp.net/wiki/Online:Akech-Chun)'s dialogue during [Secrets in the Sand](https://en.uesp.net/wiki/Online:Secrets_in_the_Sand) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+67. [^](#cite_ref-67) [Argonian Saddle-Cured Rabbit](https://en.uesp.net/wiki/Online:Argonian_Saddle-Cured_Rabbit) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+68. [^](#cite_ref-68) [Seahorse Platter, Display](https://en.uesp.net/wiki/Online:Seahorse_Platter,_Display) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+69. [^](#cite_ref-DDJ_69-0) [*Discarded Dream Journal*](https://en.uesp.net/wiki/Lore:Discarded_Dream_Journal)
+70. [^](#cite_ref-70) [*The Feast of Saint Coellicia*](Lore_The_Feast_of_Saint_Coellicia.md) — [Arfons Jellicandante](Lore_Books_by_Author.md#Arfons_Jellicandante), Expert on Nibenese Cuisine
+71. ^ <sup>***[a](#cite_ref-V1_71-0)***</sup><sup>***[b](#cite_ref-V1_71-1)***</sup> [*A Culinary Adventure, Volume 1*](Lore_A_Culinary_Adventure,_Volume_1.md) — [Rallaume Lemonds](Lore_Books_by_Author.md#Rallaume_Lemonds), Culinary Crusader
+72. ^ <sup>***[a](#cite_ref-ESOBeehuna_72-0)***</sup><sup>***[b](#cite_ref-ESOBeehuna_72-1)***</sup> [Beehuna](https://en.uesp.net/wiki/Online:Beehuna)'s dialogue during [Unsuitable Suitors](https://en.uesp.net/wiki/Online:Unsuitable_Suitors) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+73. [^](#cite_ref-73) [Snail Bowl, Display](https://en.uesp.net/wiki/Online:Snail_Bowl,_Display) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+74. [^](#cite_ref-74) [Swamp Eel Serving Platter](https://en.uesp.net/wiki/Online:Contraband_S#Swamp_Eel_Serving_Platter) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+75. [^](#cite_ref-EDAME_75-0) [Elam Drals](https://en.uesp.net/wiki/Online:Elam_Drals) dialogue during [A Mysterious Event](https://en.uesp.net/wiki/Online:A_Mysterious_Event) in [ESO](https://en.uesp.net/wiki/Online:Online)
+76. ^ <sup>***[a](#cite_ref-NGHC_76-0)***</sup><sup>***[b](#cite_ref-NGHC_76-1)***</sup> [Nonette Gavonne](https://en.uesp.net/wiki/Online:Nonette_Gavonne)'s hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:ESO)
+77. ^ <sup>***[a](#cite_ref-TCAFOSJ_77-0)***</sup><sup>***[b](#cite_ref-TCAFOSJ_77-1)***</sup> [*Care and Feeding of Swamp Jellies*](Lore_Care_and_Feeding_of_Swamp_Jellies.md) — [Aglindor the Black-Thumb](Lore_Books_by_Author.md#Aglindor_the_Black-Thumb)
+78. [^](#cite_ref-78) [Milzus](https://en.uesp.net/wiki/Online:Milzus)'s dialogue during [The Skin Taker](https://en.uesp.net/wiki/Online:The_Skin_Taker) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+79. [^](#cite_ref-79) [*The Argonian Account, Book 3*](Lore_The_Argonian_Account,_Book_3.md) — [Waughin Jarth](Lore_Books_by_Author.md#Waughin_Jarth)
+80. [^](#cite_ref-80) [Black Marsh Wamasu Loin](https://en.uesp.net/wiki/Online:Black_Marsh_Wamasu_Loin) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+81. [^](#cite_ref-81) [Zadaza](https://en.uesp.net/wiki/Online:Zadaza)'s dialogue during [Sunken Treasure](https://en.uesp.net/wiki/Online:Sunken_Treasure) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+82. [^](#cite_ref-82) [Veesk-Olan](https://en.uesp.net/wiki/Online:Veesk-Olan#126)'s 126th hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:Online)
+83. [^](#cite_ref-83) [*Keshu: Travels Beyond the Village, Part 1*](https://en.uesp.net/wiki/Lore:Keshu__Travels_Beyond_the_Village,_Part_1) — [Peek-Ereel](Lore_Books_by_Author.md#Peek-Ereel), Friend and Confidant to Keshu the Black Fin
+84. [^](#cite_ref-84) [Beek-Ja](https://en.uesp.net/wiki/Online:Beek-Ja)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+85. [^](#cite_ref-85) [Veesk-Olan](https://en.uesp.net/wiki/Online:Veesk-Olan#184)'s 184th and 185th hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:Online)
+86. [^](#cite_ref-86) [Hissmir Fish-Eye Rye](https://en.uesp.net/wiki/Online:Hissmir_Fish-Eye_Rye) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+87. [^](#cite_ref-87) [Argonian Mud-Nectar](https://en.uesp.net/wiki/Online:Argonian_Mud-Nectar) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+88. [^](#cite_ref-88) [Bond-Guru Topeth](https://en.uesp.net/wiki/Online:Bond-Guru_Topeth)'s dialogue after [Unsuitable Suitors](https://en.uesp.net/wiki/Online:Unsuitable_Suitors) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+89. [^](#cite_ref-89) [Weegam](https://en.uesp.net/wiki/Online:Weegam)'s dialogue during [Death and Dreaming](https://en.uesp.net/wiki/Online:Death_and_Dreaming) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*
+90. [^](#cite_ref-TBFP_90-0) [*Tide-Born Funerary Practices*](Lore_Tide-Born_Funerary_Practices.md) — [Curate Farimon](Lore_Books_by_Author.md#Curate_Farimon), Keeper of the Rites for the Dead
+91. [^](#cite_ref-ESOVeesk152_91-0) [Veesk-Olan](https://en.uesp.net/wiki/Online:Veesk-Olan#152)'s 152nd hireling correspondence in [ESO](https://en.uesp.net/wiki/Online:Online)
+92. [^](#cite_ref-92) [Fermented Snake Rum](https://en.uesp.net/wiki/Online:Treasures_F#Fermented_Snake_Rum) item description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+93. [^](#cite_ref-93) [Porcelain Snake Sweat Jar](https://en.uesp.net/wiki/Online:Contraband_P#Porcelain_Snake_Sweat_Jar) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+94. [^](#cite_ref-94) [Small Copper Theilul Still](https://en.uesp.net/wiki/Online:Contraband_S#Small_Copper_Theilul_Still) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+95. [^](#cite_ref-TIC_95-0) Keyes, Greg. *[The Infernal City](https://en.uesp.net/wiki/Books:The_Infernal_City)*. Del Rey Books, 2009.
+96. [^](#cite_ref-96) [Xanmeer Brandy](https://en.uesp.net/wiki/Online:Xanmeer_Brandy) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+97. [^](#cite_ref-97) [Vial of Bamphor Squeezings](https://en.uesp.net/wiki/Online:Contraband_V#Vial_of_Bamphor_Squeezings) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+98. [^](#cite_ref-98) [Xukas](https://en.uesp.net/wiki/Online:Xukas)' dialogue at the [Ixtaxh Xanmeer](https://en.uesp.net/wiki/Online:Ixtaxh_Xanmeer) during [Sunken Treasure](https://en.uesp.net/wiki/Online:Sunken_Treasure) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))*, particularly his mentions of "your bark-dogs"
+99. [^](#cite_ref-99) [Scorching Horse-Lizard](https://en.uesp.net/wiki/Online:Scorching_Horse-Lizard) mount description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+100. [^](#cite_ref-100) [Nuxul](https://en.uesp.net/wiki/Online:Nuxul)'s dialogue during [The Rising Winds](https://en.uesp.net/wiki/Online:The_Rising_Winds) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+101. [^](#cite_ref-101) [Argonian Pumpkin Stew](https://en.uesp.net/wiki/Online:Argonian_Pumpkin_Stew) recipe in [ESO](https://en.uesp.net/wiki/Online:Online)
+102. [^](#cite_ref-102) Events of [The Hermit in the Hills](https://en.uesp.net/wiki/Online:The_Hermit_in_the_Hills) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+103. [^](#cite_ref-103) [Toad Ladle](https://en.uesp.net/wiki/Online:Treasures_T#Toad_Ladle) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+104. [^](#cite_ref-104) [Namalu](https://en.uesp.net/wiki/Online:Namalu)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+105. ^ <sup>***[a](#cite_ref-BD_105-0)***</sup><sup>***[b](#cite_ref-BD_105-1)***</sup> [Bervon](https://en.uesp.net/wiki/Online:Bervon)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+106. [^](#cite_ref-106) [Marsh Mint Gum-Rub](https://en.uesp.net/wiki/Online:Treasures_M#Marsh_Mint_Gum-Rub) description in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,7 @@
+# Sweeps
+
+The Sweeps were a guild of broom handlers who were well compensated for sweeping up ash that fell from [Red Mountain](Lore_Red_Mountain.md) into nearby cities on [Vvardenfell](Lore_Vvardenfell.md).<sup>[[1]](#cite_note-LOV33-1)</sup><sup>[[2]](#cite_note-IWADE-2)</sup> They mostly worked in big cities such as [Vivec City](Lore_Vivec_City.md).<sup>[[2]](#cite_note-IWADE-2)</sup> During the unholy union between [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md) known as the Pomegranate Banquet, Vivec excreted a monster progeny known as [Lie Rock](Lore_Lie_Rock.md).<sup>[[1]](#cite_note-LOV33-1)</sup> The Sweeps guild removed Lie Rock from the Pomegranate Banquet but they were not aware of his divine nature and Lie Rock escaped the clutches of the Sweep, ascending into the heavens.<sup>[[1]](#cite_note-LOV33-1)</sup> The guild evidently disbanded at some point and became largely forgotten to history.<sup>[[1]](#cite_note-LOV33-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-LOV33_1-0)***</sup><sup>***[b](#cite_ref-LOV33_1-1)***</sup><sup>***[c](#cite_ref-LOV33_1-2)***</sup><sup>***[d](#cite_ref-LOV33_1-3)***</sup> [*36 Lessons of Vivec, Sermon 33*](Lore_36_Lessons_of_Vivec,_Sermon_33.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. ^ <sup>***[a](#cite_ref-IWADE_2-0)***</sup><sup>***[b](#cite_ref-IWADE_2-1)***</sup> [*Interview with a Dark Elf*](https://en.uesp.net/wiki/General:Interview_with_a_Dark_Elf)

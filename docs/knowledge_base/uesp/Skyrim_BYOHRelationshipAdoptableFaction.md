@@ -1,0 +1,3 @@
+# BYOHRelationshipAdoptableFaction
+
+Redirects to [BYOHRelationshipAdoptableFaction](Skyrim_Factions_R.md#BYOHRelationshipAdoptableFaction).

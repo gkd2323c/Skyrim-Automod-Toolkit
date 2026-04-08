@@ -1,0 +1,62 @@
+# Versidue-Shaie
+
+| Emperor-Potentate Versidue-Shaie | | | |
+| --- | --- | --- | --- |
+| [![ON-crown store-Potentate's Retreat.jpg](https://images.uesp.net/thumb/e/e8/ON-crown_store-Potentate%27s_Retreat.jpg/200px-ON-crown_store-Potentate%27s_Retreat.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Potentate%27s_Retreat.jpg) Versidue-Shaie's mansion near Senchal | | | |
+| Race | [Tsaesci](Lore_Tsaesci_(race).md) | Gender | Male |
+| Died | [2E 324](Lore_Second_Era.md#2E_324) <br> [Senchal](Lore_Senchal.md) | | |
+| Resided in | [Imperial City](Lore_Imperial_City.md) <br> [Pellitine](Lore_Pellitine.md) <br> [Dawnstar](Lore_Dawnstar.md) | | |
+| Reign | [1E 2920](Lore_First_Era.md#1E_2920) - <br> [2E 324](Lore_Second_Era.md#2E_324) | | |
+| Previous Ruler | [Reman III](Lore_Reman_III.md) | | |
+| Next Ruler | [Savirien-Chorak](Lore_Savirien-Chorak.md) | | |
+
+*As my first act, I declare that in commemoration of this historical moment, beginning on the first of Morning Star, we will enter year one of the Second Era as time will be reckoned. Thus, we mourn the loss of our Imperial family, and look forward to the future.*
+—Versidue-Shaie Versidue-Shaie was a prominent [Tsaesci](Lore_Tsaesci_(race).md) who served as the [Akaviri](Lore_Akaviri.md) [Potentate](Lore_Akaviri_Potentate.md) of the late [First Era](Lore_First_Era.md). Though initially the Emperor's trusted advisor,<sup>[[1]](#cite_note-2920:TLY-1)</sup> he took over the Imperial throne after [Reman III](Lore_Reman_III.md) died, and declared martial law.
+
+## Biography
+In the [Second Era](Lore_Second_Era.md), the Potentate had [The Rose](Lore_Blackrose_Prison.md) built on the ruins of [Blackrose](Lore_Blackrose.md) by his mage advisor [Pelladil Direnni](Lore_Pelladil_Direnni.md).<sup>[[2]](#cite_note-AHOBR-2)</sup> The facility was still the most secure and notorious prison on [Tamriel](Lore_Tamriel.md) by the end of the [Third Era](Lore_Third_Era.md).<sup>[[3]](#cite_note-PGE3A-3)</sup> At some unknown point, Versidue built a large mansion as a retreat from Senchal on the southern coast of Elsweyr.<sup>[[4]](#cite_note-4)</sup>
+
+Versidue-Shaie ratified the Cervant Truce that ended the disastrous [Four Score War](Lore_Four-Score_War.md) with [Morrowind](Lore_Morrowind.md), and suppressed the private armies of the Imperial nobility.<sup>[[5]](#cite_note-5)</sup> He was a character in the popular historical fiction *[2920, The Last Year of the First Era](Lore_2920,_The_Last_Year_of_the_First_Era.md)*, which detailed the events leading up to the truce.
+
+Versidue-Shaie was known for many additions to the Empire's cavalry. During the early years of his rule he dedicated resources to hunt and kill Reman loyalists. In [2E 4](Lore_Second_Era.md#2E_4) he established the wolf rider forces, which later caused panic in [Shornhelm](Lore_Shornhelm.md) in the province of [High Rock](Lore_High_Rock.md).<sup>[[6]](#cite_note-Akaviri_Potentate_Wolf-6)</sup><sup>[[7]](#cite_note-Akaviri_Potentate_Wolf_Cub-7)</sup> One year later, in [2E 5](Lore_Second_Era.md#2E_5) his battlemages designed new enchanted barding used by those who were sent to hunt the loyalists.<sup>[[8]](#cite_note-Akaviri_Potentate_Pony-8)</sup><sup>[[9]](#cite_note-Akaviri_Potentate_Charger-9)</sup> Two years later, in [2E 7](Lore_Second_Era.md#2E_7) his forces scoured the province of [Skyrim](Lore_Skyrim.md).<sup>[[10]](#cite_note-Akaviri_Potentate_Sabre_Cat_Cub-10)</sup><sup>[[11]](#cite_note-Akaviri_Potentate_Sabre_Cat-11)</sup> Bear riding forces were introduced in [2E 23](Lore_Second_Era.md#2E_23). Bears were utilized by the [10th Legion](Lore_Tenth_Legion.md). Bear parades of the legion were held in [Leyawiin](Lore_Leyawiin.md).<sup>[[12]](#cite_note-Akaviri_Potentate_Bear-12)</sup><sup>[[13]](#cite_note-Akaviri_Potentate_Bear_Cub-13)</sup> In [2E 25](Lore_Second_Era.md#2E_25) several herds of [camels](Lore_Camel.md) were purchased by the Potentate in order to hunt loyalists who fled to the desert regions.<sup>[[14]](#cite_note-Akaviri_Potentate_Camel-14)</sup> Two years later, the [Dunmeri](Lore_Dunmer.md) assassins in service of the Potentate were known to use [guar](Lore_Guar.md) steeds in the province of [Morrowind](Lore_Morrowind.md), during their pursue of Reman loyalists in [2E 27](Lore_Second_Era.md#2E_27).<sup>[[15]](#cite_note-Akaviri_Potentate_Guar-15)</sup><sup>[[16]](#cite_note-Akaviri_Potentate_Guar_Calf-16)</sup> Sightings of unique, magically imbued mounts of the Potentate were recorded in [2E 29](Lore_Second_Era.md#2E_29), [2E 30](Lore_Second_Era.md#2E_30), [2E 35](Lore_Second_Era.md#2E_35) and [2E 42](Lore_Second_Era.md#2E_42).<sup>[[17]](#cite_note-PHS-17)</sup><sup>[[18]](#cite_note-Potentate_Cloudracer_Courser-18)</sup><sup>[[19]](#cite_note-Potentate_Aphotic_Wolf-19)</sup>
+
+He passed the Guild Act in [2E 321](Lore_Second_Era.md#2E_321), three years before his death, allowing what would become the [Fighters Guild](Lore_Fighters_Guild.md) to be formed so merchants and vassals could protect themselves in lieu of a standing army.<sup>[[20]](#cite_note-HOTFG-20)</sup><sup>[[21]](#cite_note-FGC-21)</sup> The Guild Act also ratified other guilds, notably the [Mages Guild](Lore_Mages_Guild.md).<sup>[[22]](#cite_note-MGC-22)</sup> Under his reign, the [Dragonguard](Lore_Dragonguard.md) were reactivated as an intelligence network rather than an honor guard.<sup>[[23]](#cite_note-23)</sup> The Dragonguard counted their enemies among those who conspired to cut down the Potentate, protecting the Ruby Throne long after he was gone.<sup>[[24]](#cite_note-ESOChevalier-24)</sup>
+
+Imperial relations with the southern [Elsweyr](Lore_Elsweyr.md) kingdom of [Pellitine](Lore_Pellitine.md) were strengthened to the point where Versidue-Shaie took up residence in [Senchal Palace](Lore_Senchal_Palace.md).<sup>[[25]](#cite_note-HOPAO-25)</sup> He was assassinated in [Senchal](Lore_Senchal.md), apparently by the [Morag Tong](Lore_Morag_Tong.md), as their name was drawn on the wall in the Potentate's blood,<sup>[[26]](#cite_note-MA-26)</sup><sup>[[27]](#cite_note-TBOD-27)</sup><sup>[[28]](#cite_note-FAD-28)</sup> though certain elements of this narrative have been rejected by some Dunmeri scholars.<sup>[[29]](#cite_note-BS-29)</sup> He was then succeeded by his heir, [Savirien-Chorak](Lore_Savirien-Chorak.md).<sup>[[20]](#cite_note-HOTFG-20)</sup>
+
+His long life was apparently unusual for a Tsaesci, with some suspecting that powerful magic was responsible for it.<sup>[[30]](#cite_note-30)</sup> Other sources however, attribute immortality to all members of his race.<sup>[[26]](#cite_note-MA-26)</sup><sup>[[20]](#cite_note-HOTFG-20)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/83/ON-load-Potentate%27s_Retreat.png/200px-ON-load-Potentate%27s_Retreat.png)](https://en.uesp.net/wiki/File:ON-load-Potentate%27s_Retreat.png) Interior of Versidue's retreat home
+
+## References
+1. [^](#cite_ref-2920:TLY_1-0) [*2920, The Last Year of the First Era*](Lore_2920,_The_Last_Year_of_the_First_Era.md) — [Carlovac Townway](Lore_Books_by_Author.md#Carlovac_Townway)
+2. [^](#cite_ref-AHOBR_2-0) [*A History of Blackrose Prison*](https://en.uesp.net/wiki/Lore:A_History_of_Blackrose_Prison) — [Tyrrya Len](Lore_Books_by_Author.md#Tyrrya_Len), The Wayrest Wanderer
+3. [^](#cite_ref-PGE3A_3-0) [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+4. [^](#cite_ref-4) [Potentate's Retreat](https://en.uesp.net/wiki/Online:Potentate%27s_Retreat) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [*High King Emeric Answers Your Questions*](Lore_High_King_Emeric_Answers_Your_Questions.md) — [High King Emeric](Lore_Books_by_Author.md#King_Emeric)
+6. [^](#cite_ref-Akaviri_Potentate_Wolf_6-0) [Akaviri Potentate Wolf](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Wolf)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-Akaviri_Potentate_Wolf_Cub_7-0) [Akaviri Potentate Wolf Cub](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Wolf_Cub)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-Akaviri_Potentate_Pony_8-0) [Akaviri Potentate Pony](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Pony)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-Akaviri_Potentate_Charger_9-0) [Akaviri Potentate Charger](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Charger)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-Akaviri_Potentate_Sabre_Cat_Cub_10-0) [Akaviri Potentate Sabre Cat Cub](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Sabre_Cat_Cub)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-Akaviri_Potentate_Sabre_Cat_11-0) [Akaviri Potentate Sabre Cat](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Sabre_Cat)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-Akaviri_Potentate_Bear_12-0) [Akaviri Potentate Bear](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Bear)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-Akaviri_Potentate_Bear_Cub_13-0) [Akaviri Potentate Bear Cub](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Bear_Cub)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-Akaviri_Potentate_Camel_14-0) [Akaviri Potentate Camel](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Camel)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-Akaviri_Potentate_Guar_15-0) [Akaviri Potentate Guar](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Guar)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-Akaviri_Potentate_Guar_Calf_16-0) [Akaviri Potentate Guar Calf](https://en.uesp.net/wiki/Online:Akaviri_Potentate_Guar_Calf)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-PHS_17-0) [Potentate Halcyon Senche](https://en.uesp.net/wiki/Online:Potentate_Halcyon_Senche)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-Potentate_Cloudracer_Courser_18-0) [Potentate Cloudracer Courser](https://en.uesp.net/wiki/Online:Potentate_Cloudracer_Courser)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-Potentate_Aphotic_Wolf_19-0) [Potentate Aphotic Wolf](https://en.uesp.net/wiki/Online:Potentate_Aphotic_Wolf)'s description in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. ^ <sup>***[a](#cite_ref-HOTFG_20-0)***</sup><sup>***[b](#cite_ref-HOTFG_20-1)***</sup><sup>***[c](#cite_ref-HOTFG_20-2)***</sup> [*History of the Fighters Guild*](https://en.uesp.net/wiki/Lore:History_of_the_Fighters_Guild)
+21. [^](#cite_ref-FGC_21-0) [*Fighters Guild Charter*](Lore_Fighters_Guild_Charter.md)
+22. [^](#cite_ref-MGC_22-0) [*Mages Guild Charter*](Lore_Mages_Guild_Charter.md)
+23. [^](#cite_ref-23) [*Legacy of the Dragonguard*](Lore_Legacy_of_the_Dragonguard.md) — [Kiasa-Veda](Lore_Books_by_Author.md#Kiasa-Veda), the Chronicler of [Blades](Lore_Blades.md)
+24. [^](#cite_ref-ESOChevalier_24-0) [Chevalier Renald](https://en.uesp.net/wiki/Online:Chevalier_Renald)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Scalebreaker](https://en.uesp.net/wiki/Online:Scalebreaker)*
+25. [^](#cite_ref-HOPAO_25-0) [*History of Pellitine: An Overview*](https://en.uesp.net/wiki/Lore:History_of_Pellitine__An_Overview) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+26. ^ <sup>***[a](#cite_ref-MA_26-0)***</sup><sup>***[b](#cite_ref-MA_26-1)***</sup> [*Mysterious Akavir*](Lore_Mysterious_Akavir.md)
+27. [^](#cite_ref-TBOD_27-0) [*The Brothers of Darkness*](Lore_The_Brothers_of_Darkness.md) — [Pellarne Assi](Lore_Books_by_Author.md#Pellarne_Assi)
+28. [^](#cite_ref-FAD_28-0) [*Fire and Darkness*](Lore_Fire_and_Darkness.md) — [Ynir Gorming](Lore_Books_by_Author.md#Ynir_Gorming)
+29. [^](#cite_ref-BS_29-0) [Bildren Saren](https://en.uesp.net/wiki/Online:Bildren_Saren)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+30. [^](#cite_ref-30) [Avita Pitio](https://en.uesp.net/wiki/Online:Avita_Pitio)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*

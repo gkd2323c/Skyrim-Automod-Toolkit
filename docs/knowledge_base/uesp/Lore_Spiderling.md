@@ -1,0 +1,73 @@
+# Spider Daedra
+
+[![](https://images.uesp.net/thumb/b/b4/ON-creature-The_Whisperer.jpg/200px-ON-creature-The_Whisperer.jpg)](https://en.uesp.net/wiki/File:ON-creature-The_Whisperer.jpg) [](https://en.uesp.net/wiki/File:ON-creature-The_Whisperer.jpg) A Spider Daedra *Some of [this world](Lore_Nirn.md) claim the [gods](Lore_Gods.md) as [ancestors](Lore_Ancestor_Worship.md). To them, the Daedra are divine beings who are not the ancestors of [Tamriel](Lore_Tamriel.md)'s people. Your "[Divines](Lore_Divines.md)" exhausted much of their powers shaping your world. We did not.*
+—Naluroen, a Spider Daedra<sup>[[1]](#cite_note-ESONaluroen-1)</sup> Spider Daedra (also called **Perthan**)<sup>[[2]](#cite_note-ONCL-2)</sup><sup>[[nb 1]](#intnote_nb1)</sup> are semi-intelligent [Daedra](Lore_Daedra.md)<sup>[[3]](#cite_note-Vo D-3)</sup> who appear as giant [spiders](Lore_Spider.md) with armored carapaces and humanoid torsos.<sup>[[4]](#cite_note-DD-4)</sup> They are associated with [Mephala](Lore_Mephala.md),<sup>[[3]](#cite_note-Vo D-3)</sup> though they can be seen serving other Princes,<sup>[[3]](#cite_note-Vo D-3)</sup> such as [Molag Bal](Lore_Molag_Bal.md)<sup>[[5]](#cite_note-EGT-5)</sup><sup>[[6]](#cite_note-ESOMalyg-6)</sup> and [Mehrunes Dagon](Lore_Mehrunes_Dagon.md).<sup>[[7]](#cite_note-BSSpider-7)</sup> [Wonshala Keriayn](Lore_Wonshala_Keriayn.md) commanded of the Spider Daedra during Dagon's invasion of the [Battlespire](Lore_Battlespire.md), and many Spider Daedra served her willingly.<sup>[[7]](#cite_note-BSSpider-7)</sup><sup>[[8]](#cite_note-8)</sup> Other Daedra such as [Aureals](Lore_Aureal.md) may summon them to fight.<sup>[[9]](#cite_note-KCAC-9)</sup> Spider Daedra are capable of speech,<sup>[[10]](#cite_note-ESOAnexiel-10)</sup> and some are willing to engage in relatively peaceable conversation with mortals.<sup>[[1]](#cite_note-ESONaluroen-1)</sup>
+
+**Spiderlings** are smaller versions of the Spider Daedra.<sup>[[11]](#cite_note-Spiderling1-11)</sup><sup>[[12]](#cite_note-Spiderling2-12)</sup><sup>[[13]](#cite_note-Spiderling3-13)</sup> Despite some Spider Daedra considering eggs and [reproduction](Lore_Sex.md) "boring mortal stuff",<sup>[[14]](#cite_note-Sp DD-14)</sup> it appears that Spider Daedra are capable of copulation<sup>[[15]](#cite_note-BSPV-15)</sup> and laying eggs, with Spiderlings being their hatchlings.<sup>[[16]](#cite_note-16)</sup>
+
+## Behavior
+[![](https://images.uesp.net/thumb/6/6f/ON-load-Spindleclutch.jpg/200px-ON-load-Spindleclutch.jpg)](https://en.uesp.net/wiki/File:ON-load-Spindleclutch.jpg) [](https://en.uesp.net/wiki/File:ON-load-Spindleclutch.jpg) Spider Daedra *Nah. Got to leave the [shrimp](Lore_Shrimp.md) and [potatoes](Lore_Potato.md) alone. Only one thing on the menu tonight, and that's [MAN](Lore_Man.md).*
+—A Spider Daedra taunting the [Apprentice](Lore_Apprentice.md)<sup>[[14]](#cite_note-Sp DD-14)</sup> (listen Link ⏵) They are so fierce, unruly and irrational that not even Mephala's worshipers can trust them, as they may not heed the Spinner's commands.<sup>[[4]](#cite_note-DD-4)</sup> Due to their disobedient and willful reputation, many sorcerers in [Morrowind](Lore_Morrowind.md) are unwilling to summon them.<sup>[[4]](#cite_note-DD-4)</sup> They are unstable, oversexed, overstimulated, excitable, high strung, and keeping them focused and on-topic in conversation is a difficult task.<sup>[[17]](#cite_note-BSWeb-17)</sup> Mortals view them as hateful, loathsome, and lacking compassion, though befriending and jovial in conversation, and when lost in their realms of Oblivion find no other option but to come to them for help, with their aid suspected to be part of a larger deception on behalf of their princes.<sup>[[5]](#cite_note-EGT-5)</sup> They are some of the more powerful Daedra, with formidable melee and spellcasting abilities. They can spin webs, spit poison and cast powerful storm spells.<sup>[[18]](#cite_note-ESOAbility-18)</sup> They can summon smaller Spider Daedra known as spiderlings to aid them in battle.<sup>[[18]](#cite_note-ESOAbility-18)</sup><sup>[[13]](#cite_note-Spiderling3-13)</sup>
+
+They weave cocoons to ensnare mortals,<sup>[[19]](#cite_note-ESODepths-19)</sup> which are so resilient that they can only be broken from the outside.<sup>[[20]](#cite_note-ESORuzozu Ability-20)</sup> They are known to keep mortals as "ornaments" in their collections, ensorcelled into being thralls for their comfort and entertainment, as well as to provide sustenance to their spider "children".<sup>[[1]](#cite_note-ESONaluroen-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/75/BS-concept-Julian_Lefay_Sketch_04.jpg/153px-BS-concept-Julian_Lefay_Sketch_04.jpg)](https://en.uesp.net/wiki/File:BS-concept-Julian_Lefay_Sketch_04.jpg) Spider Daedra concept art (Battlespire)
+- [![](https://images.uesp.net/thumb/c/c4/BS-creature-Spider_Daedra_04.png/200px-BS-creature-Spider_Daedra_04.png)](https://en.uesp.net/wiki/File:BS-creature-Spider_Daedra_04.png) A male Spider Daedra (Battlespire)
+- [![](https://images.uesp.net/thumb/a/a1/OB-creature-Spider_Daedra.jpg/200px-OB-creature-Spider_Daedra.jpg)](https://en.uesp.net/wiki/File:OB-creature-Spider_Daedra.jpg) A Spider Daedra that serves Mehrunes Dagon (Oblivion)
+- [![](https://images.uesp.net/thumb/f/f3/OBR-creature-Spider_Daedra.jpg/200px-OBR-creature-Spider_Daedra.jpg)](https://en.uesp.net/wiki/File:OBR-creature-Spider_Daedra.jpg) A Spider Daedra that serves Mehrunes Dagon (Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/7/7e/ON-creature-Gozzak.jpg/200px-ON-creature-Gozzak.jpg)](https://en.uesp.net/wiki/File:ON-creature-Gozzak.jpg) A less humanoid Spider Daedra (ESO)
+- [![](https://images.uesp.net/thumb/9/9f/ON-creature-Naluroen.jpg/200px-ON-creature-Naluroen.jpg)](https://en.uesp.net/wiki/File:ON-creature-Naluroen.jpg) A red Spider Daedra (ESO)
+- [![](https://images.uesp.net/thumb/6/65/ON-creature-Spider_Daedra_02.jpg/200px-ON-creature-Spider_Daedra_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Spider_Daedra_02.jpg) A Spider Daedra that serves Molag Bal (ESO)
+- [![](https://images.uesp.net/thumb/1/13/LG-cardart-Spider_Daedra.png/200px-LG-cardart-Spider_Daedra.png)](https://en.uesp.net/wiki/File:LG-cardart-Spider_Daedra.png) A Spider Daedra (Legends)
+- [![](https://images.uesp.net/thumb/a/a9/LG-cardart-Widow_Daedra.png/200px-LG-cardart-Widow_Daedra.png)](https://en.uesp.net/wiki/File:LG-cardart-Widow_Daedra.png) A Widow Daedra (Legends)
+- [![](https://images.uesp.net/thumb/f/fa/OBR-creature-Spiderling.jpg/200px-OBR-creature-Spiderling.jpg)](https://en.uesp.net/wiki/File:OBR-creature-Spiderling.jpg) A Spiderling (Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/6/63/OB-creature-Spiderling.jpg/200px-OB-creature-Spiderling.jpg)](https://en.uesp.net/wiki/File:OB-creature-Spiderling.jpg) A Spiderling (Oblivion)
+- [![](https://images.uesp.net/thumb/c/c8/ON-creature-Spiderling.jpg/200px-ON-creature-Spiderling.jpg)](https://en.uesp.net/wiki/File:ON-creature-Spiderling.jpg) A Spiderling (ESO)
+- [![](https://images.uesp.net/thumb/3/3a/ON-creature-Tainted_Spiderling.jpg/200px-ON-creature-Tainted_Spiderling.jpg)](https://en.uesp.net/wiki/File:ON-creature-Tainted_Spiderling.jpg) A less humanoid Spiderling (ESO)
+- [![](https://images.uesp.net/thumb/2/23/LG-cardart-Spiderling.png/117px-LG-cardart-Spiderling.png)](https://en.uesp.net/wiki/File:LG-cardart-Spiderling.png) A Spiderling (Legends)
+- [![](https://images.uesp.net/thumb/4/42/ON-creature-Mephala.jpg/200px-ON-creature-Mephala.jpg)](https://en.uesp.net/wiki/File:ON-creature-Mephala.jpg) Mephala manifesting as a Spider Daedra (ESO)
+- [![](https://images.uesp.net/thumb/8/8f/BS-npc-Wonshala_Keriayn_02.png/200px-BS-npc-Wonshala_Keriayn_02.png)](https://en.uesp.net/wiki/File:BS-npc-Wonshala_Keriayn_02.png) Wonshala Keriayn, chief of the Spider Daedra (Battlespire)
+- [![](https://images.uesp.net/thumb/5/57/ON-body_marking-Spider_Daedra_Chest_Paint.jpg/200px-ON-body_marking-Spider_Daedra_Chest_Paint.jpg)](https://en.uesp.net/wiki/File:ON-body_marking-Spider_Daedra_Chest_Paint.jpg) Spider Daedra Chest Paint (ESO)
+- [](https://en.uesp.net/wiki/File:OB-icon-Summonspiderdaedra.png) Visage of a Spider Daedra (Oblivion)
+- [](https://en.uesp.net/wiki/File:OBR-icon-effect-Summon_Spider_Daedra.png) Visage of a Spider Daedra (Oblivion Remastered)
+
+## Notes
+- They were initially intended to have hands in Battlespire, but [Mark Jones](https://en.uesp.net/wiki/General:Mark_Jones) gave them claws instead for a preying mantis-like look.<sup>[[UOL 1]](#cite_note-21)</sup> They were later given hands in every subsequent game.
+- Some believe [Land Dreugh](Lore_Land_Dreugh.md) to be of Daedric origins, perhaps related to the Spider Daedra, though these claims are largely unfounded.<sup>[[21]](#cite_note-BAJ-22)</sup>
+- | [1.](#note_nb1) | Names of both oathkin and high ranking Spider Daedra in *Battlespire* start with "Perthan".<sup>[[22]](#cite_note-Athenaeum-23)</sup><sup>[[23]](#cite_note-24)</sup><sup>[[24]](#cite_note-25)</sup> |
+| --- | --- |
+
+## See Also
+- For game-specific information, see the [Battlespire](https://en.uesp.net/wiki/Battlespire:Spider_Daedra), [Oblivion](https://en.uesp.net/wiki/Oblivion:Spider_Daedra), [ESO](https://en.uesp.net/wiki/Online:Spider_Daedra), and [Legends](https://en.uesp.net/wiki/Legends:Spider Daedra) articles.
+- For Spider Daedra naming conventions, please see their associated list of [names](Lore_Daedra_Names.md#Spider_Daedra).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESONaluroen_1-0)***</sup><sup>***[b](#cite_ref-ESONaluroen_1-1)***</sup><sup>***[c](#cite_ref-ESONaluroen_1-2)***</sup> [Naluroen](https://en.uesp.net/wiki/Online:Naluroen)'s dialogue during [Crawling Chaos](https://en.uesp.net/wiki/Online:Crawling_Chaos) in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-ONCL_2-0) [*Caterwaul Logbook*](Lore_Caterwaul_Logbook.md) — [Velehk Sain](Lore_Books_by_Author.md#Velehk_Sain)
+3. ^ <sup>***[a](#cite_ref-Vo D_3-0)***</sup><sup>***[b](#cite_ref-Vo D_3-1)***</sup><sup>***[c](#cite_ref-Vo D_3-2)***</sup> [*Varieties of Daedra*](Lore_Varieties_of_Daedra.md) — [Aranea Drethan](Lore_Books_by_Author.md#Aranea_Drethan)
+4. ^ <sup>***[a](#cite_ref-DD_4-0)***</sup><sup>***[b](#cite_ref-DD_4-1)***</sup><sup>***[c](#cite_ref-DD_4-2)***</sup> [*Darkest Darkness*](Lore_Darkest_Darkness.md)
+5. ^ <sup>***[a](#cite_ref-EGT_5-0)***</sup><sup>***[b](#cite_ref-EGT_5-1)***</sup> [*The Improved Emperor's Guide to Tamriel: Dreams of Cyrodiil*](Lore_The_Improved_Emperor%27s_Guide_to_Tamriel_Dreams_of_Cyrodiil.md) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+6. [^](#cite_ref-ESOMalyg_6-0) [Lady Malygda](https://en.uesp.net/wiki/Online:Lady_Malygda) and the [Lady of the Depths](https://en.uesp.net/wiki/Online:Lady_of_the_Depths)'s allegiance to [Molag Bal](https://en.uesp.net/wiki/Online:Molag_Bal) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-BSSpider_7-0)***</sup><sup>***[b](#cite_ref-BSSpider_7-1)***</sup> [Spider Daedra](https://en.uesp.net/wiki/Battlespire:Spider_Daedra) dialogue in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+8. [^](#cite_ref-8) [Perthan Vorn](https://en.uesp.net/wiki/Battlespire:Perthan_Vorn)'s dialogue in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+9. [^](#cite_ref-KCAC_9-0) [*Kyne's Challenge: A Hunter's Companion*](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion) — David S. J. Hodgson [Summerset: Watcher](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion_Characters_and_Summary#Summerset)
+10. [^](#cite_ref-ESOAnexiel_10-0) [Anexiel](https://en.uesp.net/wiki/Online:Anexiel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-Spiderling1_11-0) [Spiderling](https://en.uesp.net/wiki/Online:Spiderling) in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-Spiderling2_12-0) [Spiderling](https://en.uesp.net/wiki/Oblivion:Daedra#Spiderling) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+13. ^ <sup>***[a](#cite_ref-Spiderling3_13-0)***</sup><sup>***[b](#cite_ref-Spiderling3_13-1)***</sup> [Spiderling](https://en.uesp.net/wiki/Legends:Spiderling) in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+14. ^ <sup>***[a](#cite_ref-Sp DD_14-0)***</sup><sup>***[b](#cite_ref-Sp DD_14-1)***</sup> [Spider Daedra](https://en.uesp.net/wiki/Battlespire:Spider_Daedra) dialogue in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+15. [^](#cite_ref-BSPV_15-0) [Perthan Vorn](https://en.uesp.net/wiki/Battlespire:Perthan_Vorn#Reply_1)'s dialogue in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+16. [^](#cite_ref-16) [Hatchling](https://en.uesp.net/wiki/Online:Hatchling) behavior in *[ESO](https://en.uesp.net/wiki/Online:ESO)*
+17. [^](#cite_ref-BSWeb_17-0) Spider Daedra description from [Elderscrolls.com Archive/Battlespire: Monsters](https://en.uesp.net/wiki/General:Elderscrolls.com_Archive/Battlespire:_Monsters)
+18. ^ <sup>***[a](#cite_ref-ESOAbility_18-0)***</sup><sup>***[b](#cite_ref-ESOAbility_18-1)***</sup> [Spider Daedra](https://en.uesp.net/wiki/Online:Spider_Daedra) abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-ESODepths_19-0) The [Lady of the Depths](https://en.uesp.net/wiki/Online:Lady_of_the_Depths)' abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. [^](#cite_ref-ESORuzozu Ability_20-0) [Ruzozuzalpamaz](https://en.uesp.net/wiki/Online:Ruzozuzalpamaz)'s abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-BAJ_22-0) [*Brenus Astis' Journal*](Lore_Brenus_Astis%27_Journal.md) — [Brenus Astis](Lore_Books_by_Author.md#Brenus_Astis)
+22. [^](#cite_ref-Athenaeum_23-0) [*Battlespire Athenaeum*](https://en.uesp.net/wiki/Books:Battlespire_Athenaeum) — Ronald Wartow
+23. [^](#cite_ref-24) [Perthan Vorn](https://en.uesp.net/wiki/Battlespire:Perthan_Vorn) and [Perthan Serni](https://en.uesp.net/wiki/Battlespire:Perthan_Serni)'s appearance in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+24. [^](#cite_ref-25) Dialogue with [Perthan Oathkin](https://en.uesp.net/wiki/Battlespire:Spider_Daedra) in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-21) [The Dragon's Eyrie](https://en.uesp.net/wiki/General:The_Dragon%27s_Eyrie/Battlespire/Characters)

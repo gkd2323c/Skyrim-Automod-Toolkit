@@ -1,0 +1,8 @@
+# Moon Axle
+
+Moon Axle was one of the eight [monster children](Lore_Monster_Children.md) from the unholy union of [Molag Bal](Lore_Molag_Bal.md) and [Vivec](Lore_Vivec.md), who initially escaped being slain.<sup>[[1]](#cite_note-LOV12-1)</sup><sup>[[2]](#cite_note-LOV18-2)</sup> Moon Axle was made of many straight lines, though none would last too long. While Moon Axle was not the mightiest of Vivec's children, he was the most worrisome according to Vivec.<sup>[[3]](#cite_note-LOV20-3)</sup> He was immune to spears, so Vivec had to use the [sword not held](Lore_Sword_Not_Held.md) instead of [Muatra](Lore_Muatra.md). Vivec wounded Moon Axle heavily with the sword, and in order to finish the monster, switched to his giant form and reached into the west to pull out a canyon.<sup>[[3]](#cite_note-LOV20-3)</sup> Vivec held the canyon like a horn, reached east to grab a handful of [Nix-Hounds](Lore_Nix-Hound.md), and then blew the souls of the Nix-Hounds through the canyon, making a terrible noise that weakened Moon Axle to the point where Vivec could finally kill it with Muatra.<sup>[[3]](#cite_note-LOV20-3)</sup>
+
+## References
+1. [^](#cite_ref-LOV12_1-0) [*36 Lessons of Vivec, Sermon 12*](Lore_36_Lessons_of_Vivec,_Sermon_12.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+2. [^](#cite_ref-LOV18_2-0) [*36 Lessons of Vivec, Sermon 18*](Lore_36_Lessons_of_Vivec,_Sermon_18.md) — [Vivec](Lore_Books_by_Author.md#Vivec)
+3. ^ <sup>***[a](#cite_ref-LOV20_3-0)***</sup><sup>***[b](#cite_ref-LOV20_3-1)***</sup><sup>***[c](#cite_ref-LOV20_3-2)***</sup> [*36 Lessons of Vivec, Sermon 20*](Lore_36_Lessons_of_Vivec,_Sermon_20.md) — [Vivec](Lore_Books_by_Author.md#Vivec)

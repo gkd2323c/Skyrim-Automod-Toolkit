@@ -1,0 +1,22 @@
+#  Mongrels or Paragons?
+
+| Book Information | |
+| --- | --- |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Bretons:_Mongrels_or_Paragons%3F) |
+
+The Bretons: Mongrels or Paragons? **by [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md)** *An essay surrounding the ancestral roots of the Bretons* *
+---
+That [Men](Lore_Man.md) and [Mer](Lore_Mer.md) can interbreed has been known since the first humans began arriving on the shores of [Tamriel](Lore_Tamriel.md) in the middle of the [Merethic Era](Lore_Merethic_Era.md). However, broad intermingling of Elves and humans only occurred in the far northwest of the continent, giving rise to the race of Men known as the [Bretons](Lore_Breton.md). Given the history of conflict between humans and the children of [Aldmeris](Lore_Aldmeris.md) elsewhere in Tamriel, how and why did this intermingling occur in [High Rock](Lore_High_Rock.md)?
+
+The answer lies in the peculiar (for Elves) culture of Clan [Direnni](Lore_Direnni.md), the once-dominant Mer of northwest Tamriel. In contrast to the [Ayleids](Lore_Ayleids.md) of [Cyrodiil](Lore_Cyrodiil.md), who brutally enslaved any humans they came into contact with, the Direnni simply conquered their local [Nedes](Lore_Nede.md) and then ruled them as a caste of nobility. The aristocratic Elves established a system of feudal vassalage over their human subjects, with rights and privileges that included the "Perquisite of Coition" with any human they desired. [Sex](Lore_Sex.md) with attractive Nedes was considered casual recreation, and Direnni nobles competed to have stables of the most desirable human subjects.
+
+The inevitable Half-Elven offspring from these liaisons were not adopted into the families of their Direnni parents, being considered sub-Mer, but were nonetheless often given privileged positions among the subject Nedes. Over time, this led to the establishment of a recognized caste of mixed-blood humans, who were given the name "Bretons" (from the [Ehlnofex](Lore_Ehlnofex.md) "beratu," or "half"). The Breton caste was only allowed to marry humans, so over time their Elven blood became more diluted, and the Nedic appearance predominated.
+
+Though they wielded great power for a time in the [First Era](Lore_First_Era.md), even then the Elves of Clan Direnni were never numerous, and as their geographical hegemony expanded administration and rulership was increasingly handed off to the Breton caste. After defeating the invading [Alessian Horde](Lore_Alessian_Empire.md) in [1E 482](Lore_First_Era.md#1E_482) Clan Direnni was scattered and effectively exhausted. As the Elves retreated to central High Rock, then finally [Balfiera Isle](Lore_Balfiera.md), the Bretons stepped easily into their shoes, assuming the feudal hierarchy established by the Direnni and simply replacing them with their own noble families.
+
+The Breton nobles, who had been forced to differentiate themselves from the Direnni part of their heritage, justified their new ascension by distancing themselves from Elves and everything Elven—ironically so, as the Elven blood ran strongest in the older noble families. The Direnni were increasingly vilified by their former vassals, and the island clan became ever more insular and isolationist. However, they were still known as powerful magicians, and they were strong enough to repel an attempted [Redguard](Lore_Redguard.md) invasion in [1E 907](Lore_First_Era.md#1E_907).
+
+The Bretons continued redefining themselves, inventing a myth of a history of noble resistance to Direnni rule, and developing a thriving merchant class that began trading around the coasts of Tamriel. By the time the Empress [Hestra](Lore_Hestra.md) and her [legions](Lore_Imperial_Legion.md) arrived at [Bangkorai](Lore_Bangkorai.md) Pass in [1E 1029](Lore_First_Era.md#1E_1029), they were ready to join the [Empire](Lore_Empire.md) of Men and embrace the [Eight Divines](Lore_Eight_Divines.md). Under the [Remans](Lore_Reman_Dynasty.md), High Rock was possibly the most stable and prosperous province in the [Second Empire](Lore_Second_Empire.md).
+
+Which brings us back to the (deliberately provocative) question of our title: are the Bretons then mongrels, or paragons? The answer, of course, is both (though if you call a Breton a mongrel, he is liable to feed you an inch or two of steel). The passionate race of Bretons embodies the strengths of both Men and Mer—as well as their flaws.

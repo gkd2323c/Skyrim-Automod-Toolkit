@@ -1,0 +1,9 @@
+# Grand Warlord Dortene, overheard at a Daggerfall Covenant camp
+
+| --- | --- |
+| Source: | - [ESO Interactive Map of Tamriel](https://en.uesp.net/wiki/Lore:Elder_Scrolls_Online_-_Interactive_Map_of_Tamriel) |
+
+Grand Warlord Dortene, overheard at a Daggerfall Covenant camp **by [Grand Warlord Dortene](Lore_Books_by_Author.md#Grand_Warlord_Dortene)** *A general's thoughts regarding the return of the Elder Scrolls*
+---
+[![ON-concept-Pedestal.png](https://images.uesp.net/thumb/a/a1/ON-concept-Pedestal.png/550px-ON-concept-Pedestal.png)](https://en.uesp.net/wiki/File:ON-concept-Pedestal.png)"The [Moth Priest](Lore_Cult_of_the_Ancestor_Moth.md) sent another demand? Fancy that. I'm in a good mood today; let's send a friendly response. Yes, I know they want the [Elder Scrolls](Lore_Elder_Scrolls.md) we're borrowing back. Yes, I know they're valuable relics that must be protected at all costs, and you can tell him that they'll be safe and cozy again with the rest in their dusty [old Library](https://en.uesp.net/wiki/Lore:Imperial_Library) soon enough. In fact, let him know that it is my personal goal to hand-deliver ours and those held by [the Pact](Lore_Ebonheart_Pact.md) and [the Dominion](Lore_Aldmeri_Dominion.md) to [White-Gold Tower](Lore_White-Gold_Tower.md)! There's just this little matter of [a war](Lore_Alliance_War.md) to win first, and we so truly appreciate his order's patience in the meantime. He can come visit if he doesn't mind crossing one of the most deadly battlefields in [Tamriel](Lore_Tamriel.md)'s history—we'd love to have him. Assure him we're taking very good care of the Scrolls and even built these lovely temples to house them appropriately. After all, the Scrolls will lead us to victory, or so I'm told."
+---

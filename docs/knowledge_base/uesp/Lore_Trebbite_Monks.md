@@ -1,0 +1,8 @@
+# Trebbite Monks
+
+The Trebbite Monks were a monastic order based in the isle of [Auridon](Lore_Auridon.md) in the [Summerset Isles](Lore_Summerset_Isles.md). Their credo has ever been for pure [Altmer](Lore_Altmer.md) bloodlines on Summerset, and among the royal families most of all. They were also known for their charity, and for helping the Altmeri peasants, as they value tradition above every other virtue.
+
+During the [Third Era](Lore_Third_Era.md) the Trebbite Monks, represented by Friar Lylim worked with Lady Gialene, daughter of the King of [Skywatch](Lore_Skywatch.md), to start a revolution against the [Dunmer](Lore_Dunmer.md) Queen of [Firsthold](Lore_Firsthold.md), [Morgiah](Lore_Morgiah.md). Trebbite Monks were the faction that disliked the Dunmer influence on the Altmeri court the most as their power and influence was greatly reduced by the efforts of queen Morgiah. They were willing to aid Lady Gialene in her endeavors and gathered an army to oppose the Dunmer monarch. Despite the growing resentment in the countryside from peasants who called Morgiah the "Black Queen", they stopped short of insurrection, and the revolutionary army was primarily composed of the monks themselves and a horde of mercenaries, among which there were rejected members of the [Psijic Order](Lore_Psijic_Order.md). The revolt ended in a panicked, unorganized retreat, and after Lady Gialene was tortured and confessed her treachery, she was sent back with an escort to her father's court of Skywatch.<sup>[[1]](#cite_note-1)</sup>
+
+## References
+1. [^](#cite_ref-1) [*The Firsthold Revolt*](Lore_The_Firsthold_Revolt.md) — [Maveus Cie](Lore_Books_by_Author.md#Maveus_Cie)

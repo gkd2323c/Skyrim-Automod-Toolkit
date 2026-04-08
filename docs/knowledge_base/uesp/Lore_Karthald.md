@@ -1,0 +1,35 @@
+# Karthald
+
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Karthald) |
+
+[![](https://images.uesp.net/thumb/f/f5/ON-place-Karthald.jpg/200px-ON-place-Karthald.jpg)](https://en.uesp.net/wiki/File:ON-place-Karthald.jpg) [](https://en.uesp.net/wiki/File:ON-place-Karthald.jpg) Karthald Karthald is a historical [hold](Lore_Hold.md) in [Skyrim](Lore_Skyrim.md) that existed during the [Interregnum](Lore_Interregnum.md).<sup>[[1]](#cite_note-Gt WSK-1)</sup> It was established as a defensive border against [the Reach](Lore_The_Reach.md) after being carved from its northern territory of the upper Karth Valley named **Reachwater Pass**,<sup>[[2]](#cite_note-ONSvana-2)</sup><sup>[[3]](#cite_note-NSC-3)</sup><sup>[[4]](#cite_note-TESVSPOGG-4)</sup> along with parts of the [Karth River Forest](Lore_Karth_River_Forest.md). The Reach was at the time an independent [Reachman](Lore_Reachman.md) kingdom ruled by the Ard [Caddach](Lore_Caddach.md). Karthald was established in [2E 577](Lore_Second_Era.md#2E_577)<sup>[[5]](#cite_note-ONFenrar-5)</sup> by the kingdom of [Western Skyrim](Lore_Western_Skyrim.md), although [Nordic](Lore_Nord.md) clans had inhabited the land for generations alongside the Reachfolk.<sup>[[1]](#cite_note-Gt WSK-1)</sup><sup>[[6]](#cite_note-TAt WH-6)</sup> The fortified village of [Karthwatch](Lore_Karthwatch.md) was established in as the new hold's capital.<sup>[[1]](#cite_note-Gt WSK-1)</sup><sup>[[6]](#cite_note-TAt WH-6)</sup> Karthald's borders also encompassed the [Orc](Lore_Orc.md) stronghold of [Mor Khazgur](Lore_Mor_Khazgur.md), though the Orcs were keen to insist that Mor Khazgur was a sovereign outpost of [Wrothgar](Lore_Wrothgar.md).<sup>[[1]](#cite_note-Gt WSK-1)</sup> While the roads of Karthald were safe enough for travelers, Karthwatch was a spartan settlement with little hospitality to offer.<sup>[[1]](#cite_note-Gt WSK-1)</sup>
+
+Karthald ceased to exist as a separate hold after the destruction of Karthwatch at the hands of the [Icereach Coven](Lore_Icereach_Coven.md) circa 2E 582. In retaliation for the prior massacre of a local Reachfolk clan by the Nords and the alleged kidnapping of the crucial clan heir, [Bjora](Lore_Bjora.md), they launched an assault.<sup>[[7]](#cite_note-ESOBlood-7)</sup> The Reachmen created a [Harrowstorm](Lore_Harrowstorm.md) above the town in order to drain the life energy of its inhabitants, using their [souls](Lore_Soul.md) to fill ancient reliquaries containing the mortal remains of members of the [Gray Host](Lore_Gray_Host.md). Many of the residents of Karthwatch were transformed into [vampiric](Lore_Vampire.md) monstrosities known as [Harrowfiends](Lore_Harrowfiend.md), including Jarl Olfwenn herself.<sup>[[8]](#cite_note-ESODanger-8)</sup> Others were taken hostage by the witches, although a rescue was mounted by the town's survivors.<sup>[[7]](#cite_note-ESOBlood-7)</sup> The sole survivor of the jarl's court was the court wizard, Magister Fridelja, who went on to represent the hold politically in the turmoil that followed.<sup>[[8]](#cite_note-ESODanger-8)</sup> She and the other survivors sought refuge in [Solitude](Lore_Solitude.md). However, the rest of the hold was similarly laid to waste, its people left dead or scattered. With the Nords driven out and the hold's capital destroyed, Karthald was no more, allowing the territory to be reclaimed by the Reach.<sup>[[9]](#cite_note-ESOB-9)</sup><sup>[[10]](#cite_note-ESOMF-10)</sup>
+
+In [2E 852](Lore_Second_Era.md#2E_852), the Reach was conquered by [Tiber Septim](Lore_Tiber_Septim.md) and annexed by Skyrim as a Nord hold.<sup>[[11]](#cite_note-TAH-11)</sup><sup>[[12]](#cite_note-SRKibell-12)</sup> By the [Fourth Era](Lore_Fourth_Era.md), no traces of Karthald's time as a hold remained, and a ruined fortress called [Broken Tower Redoubt](Lore_Broken_Tower_Redoubt.md) sat on the approximate site of Karthwatch.<sup>[[13]](#cite_note-Skyrim-13)</sup>
+
+### Known Rulers
+- Jarl Olfwenn *(ca. [2E 582](Lore_Second_Era.md#2E_582))*<sup>[[14]](#cite_note-14)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Karthald) [](https://en.uesp.net/wiki/Online:Greymoor) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Gt WSK_1-0)***</sup><sup>***[b](#cite_ref-Gt WSK_1-1)***</sup><sup>***[c](#cite_ref-Gt WSK_1-2)***</sup><sup>***[d](#cite_ref-Gt WSK_1-3)***</sup><sup>***[e](#cite_ref-Gt WSK_1-4)***</sup> [*Guide to Western Skyrim: Karthald*](Lore_Guide_to_Western_Skyrim__Karthald.md) — [Imperial Surveyor Buntara Gravius](Lore_Books_by_Author.md#Buntara_Gravius)
+2. [^](#cite_ref-ONSvana_2-0) [Svana](https://en.uesp.net/wiki/Online:Svana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-NSC_3-0) [Nightfall Sabre Cat](https://en.uesp.net/wiki/Online:Nightfall_Sabre_Cat) mount description
+4. [^](#cite_ref-TESVSPOGG_4-0) [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V__Skyrim__Prima_Official_Game_Guide) — David Hodgson
+5. [^](#cite_ref-ONFenrar_5-0) [Fenrar](https://en.uesp.net/wiki/Online:Fenrar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. ^ <sup>***[a](#cite_ref-TAt WH_6-0)***</sup><sup>***[b](#cite_ref-TAt WH_6-1)***</sup> [*Travels Around the Western Holds*](https://en.uesp.net/wiki/Lore:Travels_Around_the_Western_Holds) — [Inky-Claws](Lore_Books_by_Author.md#Inky-Claws)
+7. ^ <sup>***[a](#cite_ref-ESOBlood_7-0)***</sup><sup>***[b](#cite_ref-ESOBlood_7-1)***</sup> [The Blood of Old Karth](https://en.uesp.net/wiki/Online:The_Blood_of_Old_Karth) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. ^ <sup>***[a](#cite_ref-ESODanger_8-0)***</sup><sup>***[b](#cite_ref-ESODanger_8-1)***</sup> [Danger in the Holds](https://en.uesp.net/wiki/Online:Danger_in_the_Holds) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ESOB_9-0) [Bjora](https://en.uesp.net/wiki/Online:Bjora)'s dialogue during [Daughter of the Wolf](https://en.uesp.net/wiki/Online:Daughter_of_the_Wolf) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-ESOMF_10-0) [Magister Fridelja](https://en.uesp.net/wiki/Online:Magister_Fridelja)'s dialogue during [Daughter of the Wolf](https://en.uesp.net/wiki/Online:Daughter_of_the_Wolf) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. [^](#cite_ref-TAH_11-0) [*The Arcturian Heresy*](Lore_The_Arcturian_Heresy.md) — [The Underking](Lore_Underking.md), [Ysmir](Lore_Ysmir.md) Kingmaker
+12. [^](#cite_ref-SRKibell_12-0) [Kibell](Skyrim_Kibell.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+13. [^](#cite_ref-Skyrim_13-0) Events of *[Skyrim](Skyrim_Skyrim.md)*
+14. [^](#cite_ref-14) Appearance of [Jarl Olfwenn](https://en.uesp.net/wiki/Online:Jarl_Olfwenn) in [ESO](https://en.uesp.net/wiki/Online:Online)

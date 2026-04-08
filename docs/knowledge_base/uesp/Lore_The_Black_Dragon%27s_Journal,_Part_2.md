@@ -1,0 +1,31 @@
+# The Black Dragon's Journal, Part 2
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Black_Dragon%27s_Journal,_Part_2)<sup>([DLC](https://en.uesp.net/wiki/Online:DLC#Dark_Brotherhood))</sup> | | |
+| Prev. | *[Part 1](https://en.uesp.net/wiki/Lore:The_Black_Dragon%27s_Journal)* | Next | None |
+
+The Black Dragon's Journal, Part 2 **by [The Black Dragon](Lore_Books_by_Author.md#The_Black_Dragon)** *The journal of a former Dark Brotherhood silencer*
+---
+I sought out the ruins of Knightsgrave after the Enclave of the Hourglass began to feel too confining, too full of life. I don't deserve to mingle with so many vibrant, living beings. Death has become more than my vocation—it's a vital part of my life. So why not linger in this place of the dead?
+
+* * *
+I admired the [statues](Lore_Statue_of_Cavor_Merula.md) [on](Lore_Statue_of_Justia_Desticus.md) [the](Lore_Statue_of_Rusio_Olo.md) [stairs](Lore_Statue_of_Amminus_Entius.md) that descended into these ruins. The founders of the [Order of the Hour](Lore_Order_of_the_Hour.md) were great and faithful warriors. For a time, I was proud to count myself among their number. But now? Now I'm not so sure.
+
+* * *
+It seems that the founders or whoever came after them set out to protect this place from unwanted visitors. Obviously, the braziers serve as a key of sorts to open the way into the Path of Order. I just need to figure out how best to turn this key.
+
+* * *
+Determining the order in which to ignite the braziers was child's play. I'm surprised that more people haven't found their way into these hallowed depths.
+
+* * *
+There must be another way to gain entry into the ruins. How else have these [minotaurs](Lore_Minotaur.md) made their way down here? I had to kill one of the proud beasts when it surprised me. After that, I took great pains to avoid the creatures. After all, no one has ordered me to murder them. And, I suppose, they serve as guardians of a sort. Why not allow them to continue in that role?
+
+* * *
+Just beyond the armory, I encountered a chamber dedicated to the Order's original First Sword. I admit I feel a certain connection to [Justia](Lore_Justia_Desticus.md). I wonder if she'd smile upon one such as I for taking up her weapon?
+
+* * *
+I spent a long time praying in the circle of pillars known as the Paragon's Crown. Maybe [Akatosh](Lore_Akatosh.md) heard my plea, for I soon discovered a tunnel into an even more ancient portion of the ruins. It appears that the Order built their original home atop an ancient cave that harkens back to a more ancient time. An impressive and, dare I say it, frightening statue of Akatosh dominates the cave. I can only assume that this place owes its existence to the [Alessian Order](Lore_Alessian_Order.md) and their efforts to raise Akatosh above all other gods. Even the scattered cages hint at darker rites than those practiced by [Primate Artorius](Lore_Primate_Artorius.md) and his ilk in the Cathedral of Kvatch.
+
+* * *
+The Primate, the Order, [the Brotherhood](Lore_Dark_Brotherhood.md) —damn them all for turning me into what I've become! Perhaps down here, in the shadow of Akatosh's most fearsome presence, I'll finally discover who I'm truly meant to be.

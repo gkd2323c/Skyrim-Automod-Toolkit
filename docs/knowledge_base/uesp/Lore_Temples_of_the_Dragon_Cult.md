@@ -1,0 +1,11 @@
+# Temples of the Dragon Cult
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Temples_of_the_Dragon_Cult) |
+
+Temples of the Dragon Cult **by [Cirantille](Lore_Books_by_Author.md#Cirantille)** *A history of the Dragon Cult*
+---
+In the distant reaches of [Skyrim](Lore_Skyrim.md), beyond the remote farming communities and hunter shacks, you may stumble over a broken stone, half buried and covered in moss and ivy. Look closer, in case these are effigies to animal gods, worshiped by [Ysgramor](Lore_Ysgramor.md)'s primitives. The deification of the [bear](Lore_Bear.md), [dragon](Lore_Dragon.md), [fox](Lore_Fox.md), [moth](Lore_Moth.md), [owl](Lore_Owl.md), [snake](Lore_Snake.md), [whale](Lore_Whale.md), and [wolf](Lore_Wolf.md) have all been recorded by our field agents, and many believe these totems stand as sentinels over lost ruins. These tumbledown temples, guarded by half-woken [draugr](Lore_Draugr.md) and worse, are from a time when the [Dragon Cult](Lore_Dragon_Cult.md) supposedly ruled this province.
+
+While no modern [Tamrielan](Lore_Tamriel.md) need believe these hopelessly fanciful fables, the [Nords](Lore_Nord.md)' simple-minded veneration for these places betokens their fear of the return of the [Dragon Priests](Lore_Dragon_Priest.md). During the worship of [Akatosh](Lore_Akatosh.md) (the dragon) as god-kings over men, these priests were the conduit through which dragons spoke, made laws, and were honored with grand and elaborate temples. When [Alduin](Lore_Alduin.md), Akatosh's firstborn, was defeated atop the [Throat of the World](Lore_Throat_of_the_World.md) during the mythical [Dragon War](Lore_Dragon_War.md), the cult that sprang up around these dragon guardians soon receded into the soil, buried among dragon mounds with the remains of these beasts. They were finally vanquished in [the Rift](Lore_The_Rift.md) mountains by High King [Harald](Lore_Harald.md) in [1E 140](Lore_First_Era.md#1E_140). The veneration of animal gods was soon replaced by the [Eight Divines](Lore_Eight_Divines.md).

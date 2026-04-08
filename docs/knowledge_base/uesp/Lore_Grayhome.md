@@ -1,0 +1,62 @@
+# Grayhome
+
+| --- | --- |
+| Type | Island |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Region | [Sea of Ghosts](Lore_Sea_of_Ghosts.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Grayhome) |
+
+[![](https://images.uesp.net/thumb/7/7c/ON-load-Grayhome.jpg/200px-ON-load-Grayhome.jpg)](https://en.uesp.net/wiki/File:ON-load-Grayhome.jpg) [](https://en.uesp.net/wiki/File:ON-load-Grayhome.jpg) Grayhome circa [2E 582](Lore_Second_Era.md#2E_582) Grayhome is a small isolated island located in the [Sea of Ghosts](Lore_Sea_of_Ghosts.md) far north of [High Rock](Lore_High_Rock.md). It is directly north of the [Great Bay](https://en.uesp.net/wiki/Lore:Great_Bay), which lies between [Wrothgar](Lore_Wrothgar.md) and [Rivenspire](https://en.uesp.net/wiki/Lore:Rivenspire). It is mostly frozen and the only major building on the island is Castle Grayhome, an ornate [vampiric](Lore_Vampirism.md) castle. The island was a base of operations for the [Gray Host](Lore_Gray_Host.md) in the [First Era](Lore_First_Era.md). It was active during the early years of Empress [Hestra](https://en.uesp.net/wiki/Lore:Hestra)'s rule,<sup>[[1]](#cite_note-1)</sup> but was abandoned after the defeat of the Gray Host circa [1E 1029](Lore_First_Era.md#1E_1029).<sup>[[2]](#cite_note-BSHR-2)</sup> The castle was dilapidated as of the [Second Era](Lore_Second_Era.md).<sup>[[3]](#cite_note-TGC-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/d/d4/ON-npc-Rada_al-Saran_03.jpg/200px-ON-npc-Rada_al-Saran_03.jpg)](https://en.uesp.net/wiki/File:ON-npc-Rada_al-Saran_03.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Rada_al-Saran_03.jpg) Rada al-Saran was responsible for the construction of the castle on Grayhome
+### First Era
+[Rada al-Saran](https://en.uesp.net/wiki/Lore:Rada_al-Saran) was responsible for the construction of the Grayhome Castle, despite the fact that the Gray Host was led by King [Styriche](https://en.uesp.net/wiki/Lore:Styriche) of [Verkarth](Lore_Verkarth_(Hammerfell).md) at the time.<sup>[[4]](#cite_note-4)</sup> The island was a place where the armies of the Gray Host were stationed before the start of the conflict with the [Empire](Lore_Alessian_Empire.md) led by Empress Hestra in [1E 1029](Lore_First_Era.md#1E_1029).<sup>[[5]](#cite_note-5)</sup>
+
+[![](https://images.uesp.net/thumb/f/f0/ON-quest-The_Gray_Council_05.jpg/200px-ON-quest-The_Gray_Council_05.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_05.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_05.jpg) Exarch Tzinghalis and a Stone Husk in the castle laboratory circa [1E 1029](Lore_First_Era.md#1E_1029) Castle Grayhome, built on the isle of the same name, had numerous facilities such as its own dungeons<sup>[[6]](#cite_note-6)</sup> and laboratory.<sup>[[7]](#cite_note-TMDF-7)</sup>
+
+Count [Verandis Ravenwatch](https://en.uesp.net/wiki/Lore:Verandis_Ravenwatch) once performed experiments in Grayhome when he was an Exarch of the Gray Host. His experiments had two goals: to resurrect mortal [souls](Lore_Souls.md) from their afterlife and to free vampire souls from [Coldharbour](Lore_Coldharbour.md) and the influence of [Molag Bal](Lore_Molag_Bal.md). He started the experiments with the souls of mortals before attempting to perform such a ritual on a vampire. He managed to bring back the mortal woman Lisolda to life, but returning to the world of the living drove her mad. Verandis was forced to kill her to prevent her from harming anyone.<sup>[[8]](#cite_note-VJ-8)</sup>
+
+He created [Stone Husks](https://en.uesp.net/wiki/Lore:Stone_Husk), vessels capable of freeing souls from [Coldharbour](Lore_Coldharbour.md) through the use of [alchemy](https://en.uesp.net/wiki/Lore:Alchemy).<sup>[[9]](#cite_note-Fennorian-9)</sup> He modified the ritual and ultimately discovered how to bring vampiric souls back from Coldharbour, but he realized that the amount of life energy required to pull a soul out of Coldharbour is a price that is too high to pay and decided to drop his research. However, he kept all the notes and records of the process in his journal.<sup>[[8]](#cite_note-VJ-8)</sup>
+
+Exarch Tzinghalis later utilized the laboratory in the castle for his own research. He continued the research abandoned by Verandis<sup>[[10]](#cite_note-10)</sup> and used parts of his research regarding the resurrection of vampiric souls to craft a method for pulling the life energy out of a vampire or [werewolf](Lore_Werewolf.md), super-charging it, and turning an individual corporeal warrior into an incorporeal soldier of great tenacity and utter loyalty. His creations were believed to be able to fight and guard Castle Grayhome for eternity.<sup>[[11]](#cite_note-SA-11)</sup>
+
+*It truly is magnificent. I firmly believe that when the peace we both seek is realized, Grayhome will stand among the wonders of the world.
+It will be a beacon of hope for our kind and the mortals who serve us. A grand reminder that anything is possible with hard work and vision.*
+— [Rada al-Saran](https://en.uesp.net/wiki/Lore:Rada_al-Saran)<sup>[[7]](#cite_note-TMDF-7)</sup> The island of Grayhome was visited by Verandis once again, sometime prior [1E 1029](Lore_First_Era.md#1E_1029), after receiving an invitation from Rada al-Saran.<sup>[[7]](#cite_note-TMDF-7)</sup><sup>[[3]](#cite_note-TGC-3)</sup> Verandis hoped to convince the leaders of the Gray Host to make amends with Empress Hestra rather than fight her, but his words of advice were ignored.<sup>[[3]](#cite_note-TGC-3)</sup>
+
+The Gray Host was ultimately defeated by Empress Hestra in [1E 1029](Lore_First_Era.md#1E_1029) and only a few members of the group survived.<sup>[[2]](#cite_note-BSHR-2)</sup> The Gray Host's remains were burned and their ashes hidden away in a burial cavern referred to by scholars as Unhallowed Grave.<sup>[[9]](#cite_note-Fennorian-9)</sup> Rada al-Saran was among the few members to survive, and spent centuries looking for a way to return twelve of his Exarch siblings to life.<sup>[[12]](#cite_note-MBSt E-12)</sup>
+
+### Second Era
+[![](https://images.uesp.net/thumb/3/31/ON-quest-The_Gray_Council_03.jpg/200px-ON-quest-The_Gray_Council_03.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_03.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_03.jpg) The resurrection ritual performed by Gwendis Sometime after the place was abandoned by the Gray Host but prior to [2E 582](Lore_Second_Era.md#2E_582), the island was briefly visited by [Verandis Ravenwatch](https://en.uesp.net/wiki/Lore:Verandis_Ravenwatch). He placed magical protective wards on the island in order to seal the place from visitors and prevent people from entering the castle.<sup>[[13]](#cite_note-13)</sup>
+
+[![](https://images.uesp.net/thumb/7/73/ON-quest-The_Gray_Council_10.jpg/200px-ON-quest-The_Gray_Council_10.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_10.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Council_10.jpg) Reunion of Verandis and Gwendis The isle and the abandoned castle were visited circa [2E 582](Lore_Second_Era.md#2E_582) by Gwendis of [House Ravenwatch](https://en.uesp.net/wiki/Lore:House_Ravenwatch) and [the Vestige](Lore_The_Vestige.md). They traveled to the castle in hopes of finding clues regarding Verandis' involvement with the Gray Host. The island at this time was desolate save for icy and undead wildlife such as [Death Hounds](https://en.uesp.net/wiki/Lore:Death_Hound), vampiric [bears](https://en.uesp.net/wiki/Lore:Bear) and [sabre cats](https://en.uesp.net/wiki/Lore:Sabre_Cat), and [Ice Wraiths](Lore_Ice_Wraith.md). The area was filled with numerous magical traps, [Gargoyles](https://en.uesp.net/wiki/Lore:Gargoyle), and Spectral Assassins devised by Exarch Tzinghalis.<sup>[[11]](#cite_note-SA-11)</sup>
+
+Once they managed to deactivate the protective wards and defeat the Spectral Assassins guarding the door, Gwendis and the Vestige entered the castle. Despite the passage of years, the place was still impressive. In order to uncover Verandis' secrets, they decided to use a Dream-Walk potion—a concoction that allows the imbiber to access the memories of the person whose blood was added to the mixture in form of the vision.<sup>[[14]](#cite_note-14)</sup> This revealed the brief visit of Count Verandis to Grayhome prior to the war with Hestra.<sup>[[3]](#cite_note-TGC-3)</sup>
+
+Ultimately, they decided to resurrect an Exarch of the Gray Host with the method devised by Count Verandis Ravenwatch to ask further questions. It is unknown whether they resurrected a long-dead Gray Host member or Count Verandis himself. Either way, the group departed the castle with Verandis, having discovered the answers to their questions.<sup>[[3]](#cite_note-TGC-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/9d/ON-npc-Spectral_Assassin_%28Grayhome%29.jpg/200px-ON-npc-Spectral_Assassin_%28Grayhome%29.jpg)](File_ON-npc-Spectral_Assassin_(Grayhome).jpg.md) Spectral Assassin protecting the Grayhome from intruders
+(ESO)
+- [![](https://images.uesp.net/thumb/8/8b/ON-map-Castle_Grayhome.jpg/200px-ON-map-Castle_Grayhome.jpg)](https://en.uesp.net/wiki/File:ON-map-Castle_Grayhome.jpg) Partial map of Grayhome
+(ESO)
+
+## See Also
+- For game-specific information, see the [ESO article](https://en.uesp.net/wiki/Online:Grayhome).
+
+## References
+1. [^](#cite_ref-1) [Exarch Vem](https://en.uesp.net/wiki/Online:Exarch_Vem)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-BSHR_2-0)***</sup><sup>***[b](#cite_ref-BSHR_2-1)***</sup> [*Bangkorai, Shield of High Rock*](https://en.uesp.net/wiki/Lore:Bangkorai,_Shield_of_High_Rock) — King [Eamond](Lore_Books_by_Author.md#Eamond)
+3. ^ <sup>***[a](#cite_ref-TGC_3-0)***</sup><sup>***[b](#cite_ref-TGC_3-1)***</sup><sup>***[c](#cite_ref-TGC_3-2)***</sup><sup>***[d](#cite_ref-TGC_3-3)***</sup><sup>***[e](#cite_ref-TGC_3-4)***</sup> Events of [The Gray Council](https://en.uesp.net/wiki/Online:The_Gray_Council) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) [Exarch Ulfra](https://en.uesp.net/wiki/Online:Exarch_Ulfra)'s dialogue during [The Gray Council](https://en.uesp.net/wiki/Online:The_Gray_Council) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [King Styriche of Verkarth](https://en.uesp.net/wiki/Online:King_Styriche_of_Verkarth)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) [Exarch Uls Grimlantern](https://en.uesp.net/wiki/Online:Exarch_Uls_Grimlantern)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-TMDF_7-0)***</sup><sup>***[b](#cite_ref-TMDF_7-1)***</sup><sup>***[c](#cite_ref-TMDF_7-2)***</sup> [*To My Dear Friend*](https://en.uesp.net/wiki/Online:To_My_Dear_Friend) — [Rada al-Saran](https://en.uesp.net/wiki/Online:Rada_al-Saran)
+8. ^ <sup>***[a](#cite_ref-VJ_8-0)***</sup><sup>***[b](#cite_ref-VJ_8-1)***</sup> [*Verandis's Journal*](https://en.uesp.net/wiki/Lore:Verandis%27s_Journal) — [Count Verandis Ravenwatch](Lore_Books_by_Author.md#Count_Verandis_Ravenwatch)
+9. ^ <sup>***[a](#cite_ref-Fennorian_9-0)***</sup><sup>***[b](#cite_ref-Fennorian_9-1)***</sup> [Fennorian](https://en.uesp.net/wiki/Online:Fennorian)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-10) [Exarch Tzinghalis](https://en.uesp.net/wiki/Online:Exarch_Tzinghalis)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+11. ^ <sup>***[a](#cite_ref-SA_11-0)***</sup><sup>***[b](#cite_ref-SA_11-1)***</sup> [*Spectral Assassins*](https://en.uesp.net/wiki/Lore:Spectral_Assassins) — [Exarch Tzinghalis](Lore_Books_by_Author.md#Exarch_Tzinghalis)
+12. [^](#cite_ref-MBSt E_12-0) [*My Beloved Siblings, the Exarchs*](https://en.uesp.net/wiki/Lore:My_Beloved_Siblings,_the_Exarchs) — [Rada al-Saran](https://en.uesp.net/wiki/Lore:Rada_al-Saran)
+13. [^](#cite_ref-13) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Gray Council](https://en.uesp.net/wiki/Online:The_Gray_Council) in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-14) [Gwendis](https://en.uesp.net/wiki/Online:Gwendis)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

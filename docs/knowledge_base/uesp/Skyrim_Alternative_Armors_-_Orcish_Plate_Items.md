@@ -1,0 +1,26 @@
+# Alternative Armors - Orcish Plate Items
+
+This page documents the **new items** added by the [Alternative Armors - Orcish Plate](Skyrim_Alternative_Armors_-_Orcish_Plate.md) [Creation](Skyrim_Creation_Club.md).
+
+## Apparel
+| | Name ([ID](Skyrim_Form_ID.md)) | Type | [Tempering](Skyrim_Workbench.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) | [Enchantment](Skyrim_Enchanting_Effects.md) / Notes | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Armor.png) | Orcish Plate Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 801) | Heavy Armor | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 35 | 1100 | 41 | - Appears in random loot, on NPCs, and in vendor lists. | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Boots.png) | Orcish Plate Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 800) | Heavy Boots | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 7 | 225 | 16 | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Gauntlets.png) | Orcish Plate Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 802) | Heavy Gauntlets | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 7 | 225 | 16 | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Helmet.png) | Orcish Plate Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 803) | Heavy Helmet | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 8 | 550 | 20 | | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Armor.png) | Orcish Plate Armor <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83D) | Heavy Armor | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 35 | 1583 | 41 | - *Block 25% more damage with your shield.* | - Worn by one of the bandits during [Smith 'N Slash](https://en.uesp.net/wiki/Skyrim:Smith_%27N_Slash). |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Boots.png) | Orcish Plate Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83C) | Heavy Boots | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 7 | 1224 | 16 | - *Carrying capacity increased by 35 points.* | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Gauntlets.png) | Orcish Plate Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83E) | Heavy Gauntlets | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 7 | 1053 | 16 | - *Weapons and armor can be improved 25% better.* | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Orcish_Plate_Helmet.png) | Orcish Plate Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83F) | Heavy Helmet | [Orichalcum Ingot](https://en.uesp.net/wiki/Skyrim:Orichalcum_Ingot); <br> perk: [Orcish](https://en.uesp.net/wiki/Skyrim:Orcish_Smithing) | 8 | 911 | 20 | - *Increases Heavy Armor skill by 17 points.* | |
+
+## Books
+| | Title ([ID](Skyrim_Form_ID.md)) | Author | Description | Location |
+| --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal2.png) | [***Guard's Dossier: Yakhtu gra-Orkulg***](https://en.uesp.net/wiki/Skyrim:Guard%27s_Dossier__Yakhtu_gra-Orkulg) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 81A | | | - Gate [Guard Barracks](Skyrim_Guard_Barracks_(Gate).md), [Whiterun](Skyrim_Whiterun.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal1.png) | [***Yakhtu's Journal***](https://en.uesp.net/wiki/Skyrim:Yakhtu%27s_Journal) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 819 | [Yakhtu gra-Orkulg](https://en.uesp.net/wiki/Skyrim:Yakhtu_gra-Orkulg) | A bandit blacksmith's diary | - On the body of [Yakhtu gra-Orkulg](https://en.uesp.net/wiki/Skyrim:Yakhtu_gra-Orkulg), [Embershard Mine](Skyrim_Embershard_Mine.md) |
+
+## Keys
+| | Name ([ID](Skyrim_Form_ID.md)) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) |
+| --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-key-Key_01.png) | Yakhtu's Key <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 81D) | 0 | 0 |

@@ -1,0 +1,22 @@
+# The Crown of Freydis
+
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Crown_of_Freydis) |
+
+The Crown of Freydis **by [Taleon Mythmaker](Lore_Taleon_Mythmaker.md)** *A history of the second royal crown of Skyrim*
+---
+The [Crown of Freydis](https://en.uesp.net/wiki/Lore:Crown_of_Freydis), worn by our beloved Queen [Mabjaarn](Lore_Mabjaarn_Flame-Hair.md), has a long history. Many know of the crown's famed beauty, but few know the true intent of the crown and why it was created—and that it was even worn by other monarchs before Queen [Freydis](Lore_Freydis.md).
+
+The Crown of Freydis is actually the second royal crown of [Skyrim](Lore_Skyrim.md). The fabled [Jagged Crown](Lore_Jagged_Crown.md) holds the distinction of being the first. The Jagged Crown was forged by [Harald](Lore_Harald.md), first king of the [Nords](Lore_Nord.md), from the bones of [Dragons](Lore_Dragon.md). Legend has it that the Jagged Crown disappeared with the death of Harald's final descendant King [Borgas](Lore_Borgas.md) in The [Wild Hunt](Lore_Wild_Hunt.md) of [1E 369](Lore_First_Era.md#1E_369). The death of childless King Borgas, last of the line of [Ysgramor](Lore_Ysgramor.md), triggered an internecine conflict known as the [War of Succession](Lore_War_of_Succession.md).
+
+The War of Succession raged for more than fifty years before [Olaf One-Eye](Lore_Olaf_One-Eye.md) became the new High King of Skyrim. Olaf was elected to the position primarily due to the renown he garnered subduing the Dragon [Numinex](https://en.uesp.net/wiki/Lore:Numinex), and not for any benevolence or statesmanship on his part. The rule of Olaf One-Eye was a time marked by great strife and division among the Nords. When he also died without a clear heir, it was decided that a new manner be employed for choosing a new High King.
+
+Each of Skyrim's holds sent a mage to a convocation called specifically to craft a magical artifact that would test the worth of potential candidates for High King. To this end, they created the [Crown of Verity](https://en.uesp.net/wiki/Lore:Crown_of_Verity). Crafting the artifact in the shape of a crown was a brilliant innovation. With the loss of the Jagged Crown, Olaf had worn no mark of recognizable rulership. They felt that a new crown would help unify the realm behind a new king after the relative instability of Olaf's rule. The timing of the crown's creation proved to be auspicious.
+
+The [Moot](Lore_Moot.md) selected a tribal chieftain named Asurn Ice-Breaker to be the next High King of Skyrim. Asurn was a mighty warrior of unmatched skill in the vein of Olaf One-Eye, though he never defeated a Dragon. Before he assumed the role, however, he had to don the newly forged Crown of Verity. That's when the true power of the artifact became apparent.
+
+The crown rejected Asurn. It literally refused to be placed upon his head. In a rage, Asurn summoned his loyal followers and threatened to kill every member of the Moot if they didn't name him as the rightful king. He refused to be rejected by a crown. A soft-spoken member of the council rose from his chair. He challenged Asurn to combat, according to the law. The battle was short and to the point: Asurn was struck down. When the soft-spoken man took the crown and placed it easily upon his own head, a new High King of Skyrim was born. That was how [Kjoric the White](Lore_Kjoric_the_White.md) rose to power.
+
+To this day, the Crown of Freydis has been passed down from High King to High King. It is used as a tool by the Moot to ascertain the worthiness of any candidate for the throne. Since the day Asurn was struck down, no one has challenged the validity of the Crown or its powers—until [2E 431](Lore_Second_Era.md#2E_431), when the [Reman Empire](Lore_Second_Empire.md) fell asunder, and King [Logrolf](Lore_Logrolf.md) was assassinated.
+
+Jarl [Svartr](Lore_Svartr.md) of [Solitude](Lore_Solitude.md) claimed that Logrolf's daughter, Freydis, was illegitimate, and therefore a Moot was required to choose a successor. Though Freydis, wearing the Crown of Verity, was named High Queen in [Windhelm](Lore_Windhelm.md), a partial Moot in Solitude chose Svartr as High King. Thereafter the [West Kingdom](Lore_Western_Skyrim.md) was ruled by Svartr and his successors, while the East Kingdom was ruled by the heirs to Freydis, who renamed the Crown of Verity in her honor.

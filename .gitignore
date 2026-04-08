@@ -8,13 +8,15 @@ out/
 .vscode/
 *.user
 *.suo
-
+.qoder/
+.trae/
 # NuGet
 *.nupkg
 packages/
 
 # Test outputs (generated mod files)
 *.esm
+*.esp
 *.esl
 *.seq
 *.bsa

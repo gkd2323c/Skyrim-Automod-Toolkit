@@ -1,0 +1,17 @@
+# Order of Diagna
+
+The Order of Diagna was a [Yokudan](Lore_Yokuda.md)<sup>[[1]](#cite_note-PGE1:WR-1)</sup> order of [Ansei](Lore_Ansei.md)<sup>[[2]](#cite_note-PGE3:O-2)</sup> that would go on to become one of the many knightly orders in the [Hammerfell](Lore_Hammerfell.md) area.<sup>[[3]](#cite_note-PGE1HF-3)</sup> It is devoted to the [Redguard](Lore_Redguard.md) deity [Diagna](Lore_Diagna.md), "Orichalc God of the Sideways Blade".<sup>[[4]](#cite_note-VOF-4)</sup> Initiates wishing to join the Order must play the part of the [Orcs](Lore_Orc.md) in their annual recreation of the Siege of Orsinium.<sup>[[3]](#cite_note-PGE1HF-3)</sup> The order was mentioned as being extinct by the Third Era.<sup>[[5]](#cite_note-AHo D-5)</sup>
+
+The Order was chiefly involved in the invasion of [Orsinium](Lore_Orsinium.md), which lasted for thirty years.<sup>[[6]](#cite_note-TPC-6)</sup><sup>[[7]](#cite_note-PS1-7)</sup> Fighters from the Order of Diagna kept totems of Diagna for luck during the siege.<sup>[[8]](#cite_note-TSBS-8)</sup> The leader of the order, [Gaiden Shinji](Lore_Gaiden_Shinji.md), was killed during the siege.<sup>[[6]](#cite_note-TPC-6)</sup> His aide was Windwalker Tamahl, a member of the Order.<sup>[[9]](#cite_note-WT-9)</sup> Armiger [Rhina](Lore_Rhina.md) was an Armiger in the Order of Diagna who died in the final days of the Siege of Orsinium. Born in the siege camp there, she spent her entire twenty-six years fighting the Orcs, where her sacrifice was said to have brought the Redguards victory.<sup>[[10]](#cite_note-Ra G-10)</sup>
+
+## References
+1. [^](#cite_ref-PGE1:WR_1-0) [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+2. [^](#cite_ref-PGE3:O_2-0) [*Pocket Guide to the Empire, 3rd Edition: Orsinium*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Orsinium.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+3. ^ <sup>***[a](#cite_ref-PGE1HF_3-0)***</sup><sup>***[b](#cite_ref-PGE1HF_3-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: Hammerfell*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Hammerfell.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+4. [^](#cite_ref-VOF_4-0) [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+5. [^](#cite_ref-AHo D_5-0) [*A History of Daggerfall*](https://en.uesp.net/wiki/Lore:A_History_of_Daggerfall) — [Odiva Gallwood](Lore_Books_by_Author.md#Odiva_Gallwood)
+6. ^ <sup>***[a](#cite_ref-TPC_6-0)***</sup><sup>***[b](#cite_ref-TPC_6-1)***</sup> [*The Pig Children*](Lore_The_Pig_Children.md) — [Tyston Bane](Lore_Books_by_Author.md#Tyston_Bane)
+7. [^](#cite_ref-PS1_7-0) [*Poison Song I*](Lore_Poison_Song_I.md) — [Bristin Xel](Lore_Books_by_Author.md#Bristin_Xel)
+8. [^](#cite_ref-TSBS_8-0) [Armless Stone Effigy Antiquities Codex](https://en.uesp.net/wiki/Online:Wrothgar_Antiquities#Armless_Stone_Effigy) from [ESO](https://en.uesp.net/wiki/Online:Greymoor)
+9. [^](#cite_ref-WT_9-0) [*Windwalker Tamahl*](https://en.uesp.net/wiki/Online:Windwalker_Tamahl)
+10. [^](#cite_ref-Ra G_10-0) [Ramati at-Gar](https://en.uesp.net/wiki/Online:Ramati_at-Gar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

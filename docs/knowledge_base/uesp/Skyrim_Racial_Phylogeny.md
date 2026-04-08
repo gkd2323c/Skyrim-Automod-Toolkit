@@ -1,0 +1,25 @@
+# Racial Phylogeny
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Spell Tome Restoration.png) Book Information <br> *Racial Phylogeny* | | | |
+| --- | --- | --- | --- |
+| [ID](Skyrim_Form_ID.md) | 00 01B015 | | |
+| See Also | [Lore version](Lore_Notes_on_Racial_Phylogeny.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 55 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Skill | [Restoration](Skyrim_Restoration.md) | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Avanchnzel Animoncultory](Skyrim_Avanchnzel_Animoncultory.md) ([The Rift](Skyrim_The_Rift.md)), in a room on the eastern side, on the northern table <br> - On an altar in the middle of [Boulderfall Cave](Skyrim_Boulderfall_Cave.md), [Autumnshade Clearing](Skyrim_Autumnshade_Clearing.md), and [Shor's Stone](Skyrim_Shor%27s_Stone.md) ([The Rift](Skyrim_The_Rift.md)) [(map)](https://gamemap.uesp.net/sr/?x=153820&y=-71304&zoom=17&legacy=true) <br> - [Corpselight Farm](Skyrim_Corpselight_Farm.md) ([Falkreath](Skyrim_Falkreath.md)) on a bookshelf <br> - [Moorside Inn](Skyrim_Moorside_Inn.md) ([Morthal](Skyrim_Morthal.md)), inside a basket <br> - [Urag gro-Shub](Skyrim_Urag_gro-Shub.md) ([College of Winterhold](Skyrim_College_of_Winterhold_(place).md)), [Hitting the Books](Skyrim_Hitting_the_Books.md) quest reward <br> - [Apocrypha](Skyrim_Apocrypha.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [The Hidden Twilight](Skyrim_Apocrypha_(The_Hidden_Twilight).md#Chapter_V), Chapter V | | | |
+
+Notes on Racial Phylogeny and Biology
+Seventh Edition **by [the Council of Healers](Lore_Books_by_Author.md#The_Council_of_Healers), [Imperial University](Lore_Imperial_University.md)** *About the similarities and differences between the races of Tamriel*
+---
+*Note: This book appeared in [Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind) and [Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion), but the inventory name was "Notes on Racial Phylogeny".*
+
+---
+
+![A](https://images.uesp.net/thumb/5/52/A_letter.png/54px-A_letter.png)
+fter much analysis of living specimens, the Council long ago determined that all "[races](Skyrim_Races.md)" of [elves](Lore_Mer.md) and [humans](Lore_Man.md) may mate with each other and bear fertile offspring. Generally the offspring bear the racial traits of the mother, though some traces of the father's race may also be present. It is less clear whether the [Argonians](Skyrim_Argonian.md) and [Khajiit](Skyrim_Khajiit.md) are interfertile with both humans and elves. Though there have been many reports throughout the Eras of children from these unions, as well as stories of unions with [daedra](Skyrim_Daedra.md), there have been no well documented offspring. Khajiit differ from humans and elves not only their skeletal and dermal physiology -- the "fur" that covers their bodies -- but their metabolism and digestion as well. Argonians, like the [dreugh](Lore_Dreugh.md), appear to be a semi-aquatic troglophile form of humans, though it is by no means clear whether the Argonians should be classified with dreugh, men, mer, or (in this author's opinion), certain [tree-dwelling lizards](Lore_Ancestor_Lizard.md) in [Black Marsh](Lore_Black_Marsh.md).
+
+The reproductive biology of [orcs](Skyrim_Orc.md) is at present not well understood, and the same is true of [goblins](Skyrim_Goblin.md), [trolls](Skyrim_Troll.md), [harpies](Lore_Harpy.md), dreugh, [tsaesci](Lore_Tsaesci_(race).md), [imga](Lore_Imga.md), various daedra and many others. Certainly, there have been cases of intercourse between these "races," generally in the nature of rape or [magickal](Skyrim_Magic.md) seduction, but there have been no documented cases of pregnancy. Still the interfertility of these creatures and the civilized hominids has yet to be empirically established or refuted, likely due to the deep cultural differences. Surely any normal [Bosmer](Skyrim_Bosmer.md) or [Breton](Skyrim_Breton.md) impregnated by an orc would keep that shame to herself, and there's no reason to suppose that an orc maiden impregnated by a human would not be likewise ostracized by her society. Regrettably, our oaths as healers keep us from forcing a coupling to satisfy our scientific knowledge. We do know, however, that the [sload](Lore_Sload.md) of [Thras](Lore_Thras.md) are hermaphrodites in their youth and later reabsorb their reproductive organs once they are old enough to move about on land. It can be safely assumed that they are not interfertile with men or mer.
+
+One might further wonder whether the proper classification of these same "races," to use the imprecise but useful term, should be made from the assumption of a common heritage and the differences between them have arisen from magickal experimentation, the manipulations of the so-called "[Earth Bones](Lore_Ehlnofey.md)," or from gradual changes from one generation to the next.

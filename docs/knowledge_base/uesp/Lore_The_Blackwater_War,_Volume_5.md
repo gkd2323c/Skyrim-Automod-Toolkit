@@ -1,0 +1,17 @@
+# The Blackwater War, Volume 5
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Blackwater_War,_Volume_5) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[The Blackwater War](Lore_The_Blackwater_War.md)* | | |
+| Prev. | *[Volume 4](Lore_The_Blackwater_War,_Volume_4.md)* | Next | *[Volume 6](Lore_The_Blackwater_War,_Volume_6.md)* |
+
+The Blackwater War, Volume 5 **by [Valenca Arvina](Lore_Books_by_Author.md#Valenca_Arvina), Historian-in-Residence at [Gwylim University](Lore_Gwylim_University.md)** *A historical account of Black Marsh's annexation as an Imperial Province*
+---
+General Sardecus was a near-legendary figure in the Imperial military. A veteran of countless campaigns, Sardecus had distinguished himself on many occasions as both a soldier and a general.
+
+Sardecus (or Sardecus the Rock) was everything that the missing and assumed slain General Bucco was not. Eyewitness accounts depict him as a stout and humorless man with sharp, hawk-like features. He walked with a limp (a lingering injury from the [Battle of Argonia](Lore_Battle_of_Argonia.md)) and spoke in short, gravely sentences that commanded obedience. He eschewed all formal dress and regalia, preferring to wear a simple centurion's panoply with a white crest to signify his station.
+
+Sardecus and the reconstituted Fourth Legion wasted no time resuming the war effort. By [1E 2823](Lore_First_Era.md#1E_2823), they had regained all the territory lost when Bucco retreated. Military scholars attribute this success to Sardecus' adaptability and tactical creativity. For instance, Sardecus ordered that all legionnaires abandon their metal armor in favor of padded leather jackets. Imperial quartermasters coordinated with [Argonian](Lore_Argonian.md) irregulars and scouts—learning how to subsist on food procured from the swamp alone. Also, centurions and legates were given additional authority such that they could fight independently when the legion became fractured. Allowing cohorts and maniples to function independently had a surprisingly positive effect on soldier morale. For the first time, legionnaires were able to see their primary commanders and could follow them into battle personally. Of course, much depended on the proficiency and leadership capabilities of the legates. But Sardecus was a notoriously demanding commander and would not hesitate to strip a soldier of rank if he or she fell short of expectations.
+
+Sardecus' greatest success, however, was in the diplomatic arena. Early in the conflict, he reached out to disenfranchised Argonian tribes and offered them rewards for joining the war effort on the side of the [Empire](Lore_Empire.md). The fallen Bucco (and many of his contemporaries) viewed the Lizard-Folk as a singular bloc of barbarians, united by low breeding and savage tempers. Sardecus saw through this deception almost immediately. He secured solid alliances with several influential tribes, including the treacherous [Archeins](Lore_Archein.md) and Shoss-kaleel. Suddenly his forces were nearly tripled. The war for Black Marsh was finally swinging in the Empire's favor.

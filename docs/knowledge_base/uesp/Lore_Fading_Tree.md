@@ -1,0 +1,19 @@
+# Fading Tree
+
+[![](https://images.uesp.net/thumb/8/85/ON-place-The_Fading_Tree.jpg/200px-ON-place-The_Fading_Tree.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Fading_Tree.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Fading_Tree.jpg) The Fading Tree The **Fading Tree** is a tree protected by a caretaker chosen from the village of [Shrouded Hollow](Lore_Shrouded_Hollow.md), found in the [Shrouded Vale](Lore_Shrouded_Vale.md), a cavern that was named for the village,<sup>[[1]](#cite_note-ESOLienenarth-1)</sup> in [Greenshade](Lore_Greenshade.md), southern [Valenwood](Lore_Valenwood.md).
+
+## History
+In the distant past, the first [Wilderking](Lore_Wilderking.md) created the Fading Tree,<sup>[[2]](#cite_note-ESOHenodras-2)</sup> and struck a bargain with the treethanes and villagers of Shrouded Hollow to provide a caretaker for the tree in exchange for the Wilderking's protection of the village, an oath to which the descendants of those villagers are still bound,<sup>[[3]](#cite_note-ESOErunor-3)</sup> even as the Wilderking and [Wilderqueen](Lore_Wilderqueen.md) have changed over the centuries and have visited the village from time to time.<sup>[[2]](#cite_note-ESOHenodras-2)</sup> The caretaker and the Fading Tree are the link that anchors Shrouded Hollow to Nirn, allowing the village to return.<sup>[[4]](#cite_note-ESOLaniriel-4)</sup>
+
+## The Oath
+Known details of the oath<sup>[[2]](#cite_note-ESOHenodras-2)</sup><sup>[[3]](#cite_note-ESOErunor-3)</sup> include: The villagers will abide by the Wilderking's rules. The villagers will protect the Fading Tree on the Wilderking's behalf; this is accomplished through a caretaker, who alone stays behind to protect the tree until circumstances (such as old age) require a replacement caretaker. The villagers will speak openly with outsiders who wander freely without challenge into the presence of the Fading Tree, as it is a sign of the Wilderking's blessing. The Wilderking will protect the village by transporting it elsewhere ("paradise" in "another realm," as Erunor describes it; presumably to a demiplane outside of Nirn, based on this and other oblique conversations with the villagers, though the precise location is not explicitly stated). The Fading Tree takes care of the caretaker as the caretaker takes care of him -- indeed, the Fading Tree's life force is felt within the caretaker. The Fading Tree will choose a new caretaker periodically, through a simple ceremony.<sup>[[5]](#cite_note-Quest-5)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/f3/ON-npc-Henodras.jpg/200px-ON-npc-Henodras.jpg)](https://en.uesp.net/wiki/File:ON-npc-Henodras.jpg) Henodras, a caretaker of the Fading Tree
+
+## References
+1. [^](#cite_ref-ESOLienenarth_1-0) [Lienenarth](https://en.uesp.net/wiki/Online:Lienenarth)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-ESOHenodras_2-0)***</sup><sup>***[b](#cite_ref-ESOHenodras_2-1)***</sup><sup>***[c](#cite_ref-ESOHenodras_2-2)***</sup> [Henodras](https://en.uesp.net/wiki/Online:Henodras)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-ESOErunor_3-0)***</sup><sup>***[b](#cite_ref-ESOErunor_3-1)***</sup> [Erunor](https://en.uesp.net/wiki/Online:Erunor)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-ESOLaniriel_4-0) [Laniriel](https://en.uesp.net/wiki/Online:Laniriel)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Quest_5-0) Events of [The Fading Tree](https://en.uesp.net/wiki/Online:The_Fading_Tree) in [ESO](https://en.uesp.net/wiki/Online:Online)

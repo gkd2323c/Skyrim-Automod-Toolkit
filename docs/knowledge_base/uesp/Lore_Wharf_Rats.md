@@ -1,0 +1,21 @@
+# Wharf Rats
+
+*The Wharf Rats are a loosely organized group of cutthroats, thieves, and ruffians. Although they do not represent the best of what is out there, their sheer numbers make up for any deficiency in skill. The Thieves Guild will attack any members of the Wharf Rats it finds, considering them an infringement upon their turf. They prey upon the weak, elderly, or rich traveler, stealing from them anything of value.*
+—Description of the Wharf Rats in the *[Arena Player's Guide](https://en.uesp.net/wiki/Books:Arena_Player%27s_Guide)*<sup>[[1]](#cite_note-ARFaction-1)</sup> The Wharf Rats are a loosely organized group of outlaws and thieves that have been active for an unspecified and long amount of time. They are often conflicting with the [Thieves Guild](Lore_Thieves_Guild.md) for territory across the [Third Empire](Lore_Third_Empire.md). While their members are not the best highwaymen in the ever-present business, but where they sorely lack in skills, they make up in numbers and the faction is abundant in membership. They often prey on the weak, the elderly, the rich, or anyone vulnerable to them, and rob them of anything valuable.<sup>[[2]](#cite_note-AR-2)</sup> They are also said to keep thousands of underground shelters across the provinces<sup>[[3]](#cite_note-ARtifact-3)</sup> and even conflict with the [Blades](Lore_Blades.md).<sup>[[1]](#cite_note-ARFaction-1)</sup>
+
+The scope of the Wharf Rats spans across the entire continent of [Tamriel](Lore_Tamriel.md), and have their mark throughout legend, not inherently present in history. Their most infamous score was acquiring the [Ring of Phynaster](Lore_Ring_of_Phynaster.md). Even though [Phynaster](Lore_Phynaster.md), Hero-God of the [Summerset Isles](Lore_Summerset_Isles.md), was worshipped since the [Merethic Era](Lore_Merethic_Era.md) by [Altmer](Lore_Altmer.md) and [Falmer](Lore_Falmer.md), some barkeep rumors alleged that the Wharf Rats were responsible for his death. When he was supposedly buried in the [Forest of Elborn](https://en.uesp.net/wiki/Lore:Forest_of_Elborn), the ring was stolen by the Wharf Rats and kept in one of the underground headquarters, but because the ring would disappear in the hopes of finding a new owner, they cast a charm on it so that it will always appear in another of their hideouts. The ring was eventually taken by the [Eternal Champion](Lore_Eternal_Champion.md) and the charm was broken.<sup>[[3]](#cite_note-ARtifact-3)</sup> There were times where the Wharf Rats confronted the Eternal Champion, but their intentions were unknown.<sup>[[1]](#cite_note-ARFaction-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/99/MW-item-Ring_of_Phynaster.jpg/200px-MW-item-Ring_of_Phynaster.jpg)](https://en.uesp.net/wiki/File:MW-item-Ring_of_Phynaster.jpg) The Ring of Phynaster
+- [![](https://images.uesp.net/thumb/a/a9/ON-creature-Wharf_Rat.jpg/200px-ON-creature-Wharf_Rat.jpg)](https://en.uesp.net/wiki/File:ON-creature-Wharf_Rat.jpg) A wharf [rat](Lore_Rat.md), the namesake of the group
+
+## Notes
+- In the files of the [Daggerfall Preview](https://en.uesp.net/wiki/Daggerfall:Daggerfall_Preview) demo, the Wharf Rats are listed as a faction that worships the Bandit God, Badjit, which is the beta version of the Pariah, [Baan Dar](Lore_Baan_Dar.md). The Wharf Rats are listed with another faction called the Brotherhood of Bandit.
+
+## See Also
+- For game-specific information, see the [*Arena* article](https://en.uesp.net/wiki/Arena:Factions#The_Wharf_Rats).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ARFaction_1-0)***</sup><sup>***[b](#cite_ref-ARFaction_1-1)***</sup><sup>***[c](#cite_ref-ARFaction_1-2)***</sup> [Wharf Rats](https://en.uesp.net/wiki/Arena:Factions#The_Wharf_Rats) faction in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+2. [^](#cite_ref-AR_2-0) [*Arena Player's Guide*](https://en.uesp.net/wiki/Books:Arena_Player%27s_Guide)
+3. ^ <sup>***[a](#cite_ref-ARtifact_3-0)***</sup><sup>***[b](#cite_ref-ARtifact_3-1)***</sup> [Artifact Quest](https://en.uesp.net/wiki/Arena:Artifact_Quests#Ring_of_Phynaster) dialogue in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*

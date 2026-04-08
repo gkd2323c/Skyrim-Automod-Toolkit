@@ -1,0 +1,18 @@
+# Ternion Monks
+
+[![](https://images.uesp.net/thumb/e/ec/ON-quest-Eternal_Slumber.jpg/200px-ON-quest-Eternal_Slumber.jpg)](https://en.uesp.net/wiki/File:ON-quest-Eternal_Slumber.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Eternal_Slumber.jpg) A Ternion high priest performs a healing ritual The Ternion Monks were a monastic order based in [Skyrim](Lore_Skyrim.md). They were dedicated to the worship of three animal totems: [bear](Lore_Bear.md) ([Tsun](Lore_Tsun.md)), [wolf](Lore_Wolf.md) ([Mara](Lore_Mara.md)), and [fox](Lore_Fox.md) ([Shor](Lore_Shor.md)), collectively known as the Three Old Gods.<sup>[[1]](#cite_note-TTM-1)</sup> Their [religion](Lore_Nord.md#The_Old_Ways) itself is ancient, dating back the [Atmorans](Lore_Atmora.md) and their worship of the animal totems.<sup>[[2]](#cite_note-TDW-2)</sup> The monks are also known for their healing magic and can call forth aspects of the Three Old Gods. With the help of these spirits, the monks can perform tasks beyond the scope of mortal limitations.<sup>[[3]](#cite_note-ONEsling-3)</sup> Such practices were connected to the [Clever Craft](Lore_Clever_Craft.md).<sup>[[4]](#cite_note-Fennorian-4)</sup> They understood that "after a life spent gazing into the future, perceiving the mundane is not so difficult"<sup>[[5]](#cite_note-Nhorhim-5)</sup>
+
+The Ternion Monks typically worship and meditate in holy retreats that are almost inaccessible to outsiders. Often, access to these temples is only possible with the use of [magic](Lore_Magic.md), and entry to outsiders is only granted if they are in great need and are worthy. By the [Second Era](Lore_Second_Era.md), the order was in decline as very little proselytizing took place and fewer and fewer converts took up the worship of the Three Old Gods.<sup>[[1]](#cite_note-TTM-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the [Ebonheart Pact](Lore_Ebonheart_Pact.md) sought the aid of the Ternion Monks in order to cure High King [Jorunn](Lore_Jorunn.md), who was suffering from the effects of a potent [Daedric](Lore_Daedra.md) poison. The [Vestige](Lore_The_Vestige.md), with the aid of the aspects of the Three Old Gods, entered Joruun's nightmares and saved him.<sup>[[6]](#cite_note-ES-6)</sup> One of the founders of the [Roister's Club](Lore_Roister%27s_Club.md) lived alongside the Ternion Monks, but whether or not he was a monk himself is unknown.<sup>[[5]](#cite_note-Nhorhim-5)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Ternion_Monks).
+
+## References
+1. ^ <sup>***[a](#cite_ref-TTM_1-0)***</sup><sup>***[b](#cite_ref-TTM_1-1)***</sup> [*The Ternion Monks*](Lore_The_Ternion_Monks.md) — [Elgad the Scribe](Lore_Books_by_Author.md#Elgad_the_Scribe)
+2. [^](#cite_ref-TDW_2-0) [*The Dragon War*](Lore_The_Dragon_War.md) — [Torhal Bjorik](Lore_Books_by_Author.md#Torhal_Bjorik)
+3. [^](#cite_ref-ONEsling_3-0) [High Priest Esling](https://en.uesp.net/wiki/Online:High_Priest_Esling)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-Fennorian_4-0) [Fennorian](https://en.uesp.net/wiki/Online:Fennorian)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-Nhorhim_5-0)***</sup><sup>***[b](#cite_ref-Nhorhim_5-1)***</sup> [Nhorhim](https://en.uesp.net/wiki/Online:Nhorhim)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-ES_6-0) [Eternal Slumber](https://en.uesp.net/wiki/Online:Eternal_Slumber) quest in [ESO](https://en.uesp.net/wiki/Online:Online)

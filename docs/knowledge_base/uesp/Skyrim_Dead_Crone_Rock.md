@@ -1,0 +1,45 @@
+# Dead Crone Rock
+
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Tower.png) | Nordic Tower: <br> Dead Crone Rock <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Dead+Crone+Rock)) ([lore page](https://en.uesp.net/wiki/Lore:Dead_Crone_Rock)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days or 30 days | |
+| [Level](https://en.uesp.net/wiki/Skyrim:Encounter_Zone_Level) | Min: 14 | |
+| Occupants | | |
+| [Drascua](https://en.uesp.net/wiki/Skyrim:Drascua), [Forsworn](Skyrim_Forsworn.md) | | |
+| Important Treasure | | |
+| [Unusual Gem](Skyrim_Unusual_Gem.md) <br> *[A Game at Dinner](https://en.uesp.net/wiki/Skyrim:A_Game_at_Dinner)* <br> [Pommel Stone of Mehrunes' Razor](https://en.uesp.net/wiki/Skyrim:Mehrunes%27_Razor) | | |
+| Console Location Code(s) | | |
+| Dead Crone Rock01, Dead Crone Rock Exterior, Dead Crone Rock Exterior02 | | |
+| Region | | |
+| [The Reach](Skyrim_The_Reach.md) | | |
+| Location | | |
+| South-southwest of [Markarth](Skyrim_Markarth.md) | | |
+| Special Features | | |
+| [Word Wall](Skyrim_Word_Wall.md) | [Dismay](Skyrim_Dismay.md) | |
+| # of [Arcane Enchanters](Skyrim_Arcane_Enchanters.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/5/5a/SR-place-Dead_Crone_Rock.jpg/200px-SR-place-Dead_Crone_Rock.jpg)](https://en.uesp.net/wiki/File:SR-place-Dead_Crone_Rock.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dead_Crone_Rock.jpg) Dead Crone Rock **Dead Crone Rock** is a small ruined [Nordic tower](https://en.uesp.net/wiki/Skyrim:Nordic_Towers) inhabited by [Forsworn](Skyrim_Forsworn.md), located south-southwest of [Markarth](Skyrim_Markarth.md), just above [Hag Rock Redoubt](https://en.uesp.net/wiki/Skyrim:Hag_Rock_Redoubt).
+
+## Related Quests
+- **[Dungeon Delving](Skyrim_Dungeon_Delving_(Jarl_-_Hagravens).md)**: Do a favor for [Igmund](Skyrim_Igmund.md), the Jarl of Markarth, by retrieving a [shield](https://en.uesp.net/wiki/Skyrim:Hrolfdir%27s_Shield). ([radiant](Skyrim_Radiant.md))
+- **[No Stone Unturned](Skyrim_No_Stone_Unturned.md)**: Find the [24 gems](Skyrim_Unusual_Gem.md) to restore the Crown of Barenziah.
+- **[Pieces of the Past](https://en.uesp.net/wiki/Skyrim:Pieces_of_the_Past)**: Retrieve the scattered pieces of [Mehrunes' Razor](https://en.uesp.net/wiki/Skyrim:Mehrunes%27_Razor) and reforge this deadly blade.
+
+## Dead Crone Rock
+Upon entering, you will be facing a small stone table with a random empty [soul gem](Skyrim_Soul_Gems.md), a [taproot](https://en.uesp.net/wiki/Skyrim:Taproot), and a sample of [snowberries](Skyrim_Snowberries.md) resting atop it, and a flight of stairs heading up to your right. At the top of the stairs, an unlocked chest, a large [urn](https://en.uesp.net/wiki/Skyrim:Urn), and two [burial urns](https://en.uesp.net/wiki/Skyrim:Burial_Urn) on your right may distract you from the leveled [Forsworn](Skyrim_Forsworn.md) at the end of a dark corridor in a circular room to the left. Interestingly, two [Nordic barnacles](https://en.uesp.net/wiki/Skyrim:Nordic_Barnacle) can be found in this corridor, far from any water source. In the circular room are a table and chair holding a random potion of magicka and two bookcases containing a bowl of [bone meal](https://en.uesp.net/wiki/Skyrim:Bone_Meal), a [salt pile](https://en.uesp.net/wiki/Skyrim:Salt_Pile), a random [potion of stamina](https://en.uesp.net/wiki/Skyrim:Potion_of_Stamina), a random [potion of healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Healing), a [leather strip](https://en.uesp.net/wiki/Skyrim:Leather_Strips), and a bowl of [troll fat](https://en.uesp.net/wiki/Skyrim:Troll_Fat), with a [horker tusk](https://en.uesp.net/wiki/Skyrim:Horker_Tusk) on top.
+
+A spiral staircase in an alcove off the corridor on your right leads up to the second level, with a [fly amanita](https://en.uesp.net/wiki/Skyrim:Fly_Amanita) fungus beneath it. There is a leveled Forsworn with their back to you sitting at a table in the first room. On the table are a [grilled chicken breast](https://en.uesp.net/wiki/Skyrim:Grilled_Chicken_Breast) in a wooden bowl, a bottle of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine), and a leveled potion of stamina. To the left of the table is a doorway to a second room where you can see another leveled Forsworn. To the right of the table, among some masonry rubble is another fly amanita fungus. There are also a large urn against the southern wall, an adept-locked wooden door on the eastern wall, and a gated doorway to the southwest. Through the adept-locked door is a dark corridor that leads to an outside balcony containing an unlocked chest, a large urn, and a bridge to a viewing platform which has a filled random soul gem and a quiver of [iron arrows](https://en.uesp.net/wiki/Skyrim:Iron_Arrow).
+
+Proceeding to the back room with the second leveled Forsworn, you will find a very long stone table with benches on either side with an [arcane enchanter](Skyrim_Arcane_Enchanter.md) at the southwestern end. There are four bottles of alto wine, a bottle of [wine](https://en.uesp.net/wiki/Skyrim:Wine), a random [potion of healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Healing), a random [potion of magicka](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Magicka), three loose [septims](Skyrim_Gold.md), and an [iron sword](Skyrim_Iron_Sword.md) atop the table. There is a [spellcaster trap](https://en.uesp.net/wiki/Skyrim:Spellcaster_Trap) that spouts [flames](Skyrim_Flames.md) to your right as you enter; you can see this trap from the previous room through a window. There is an unlocked chest in the northern corner of the room with a corridor heading to the northeast; this corridor turns to the southeast and passes over a [flame spout trap](https://en.uesp.net/wiki/Skyrim:Flame_Spout_Trap) in the darkest part of the corridor. It then opens into a small room with a lever that operates the gate blocking the path in the first room; you can see this through another window. In front of the lever is a copy of the [alchemy](Skyrim_Alchemy.md) [skill book](Skyrim_Skill_Books.md) *[A Game at Dinner](https://en.uesp.net/wiki/Skyrim:A_Game_at_Dinner)*. There is also an unlit brazier containing a sprig of snowberries and two empty [petty soul gems](https://en.uesp.net/wiki/Skyrim:Petty_Soul_Gem).
+
+[![](https://images.uesp.net/thumb/4/43/SR-place-Dead_Crone_Rock_02.jpg/200px-SR-place-Dead_Crone_Rock_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Dead_Crone_Rock_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dead_Crone_Rock_02.jpg) Drascua Backtrack to the first room and take the previously barred corridor. Follow the corridor up several flights of stairs as it turns until you reach an unlocked wooden door. Exiting through this door, you come to a broken exterior tower with wooden stairs rising in front of you. Halfway up the stairs is a second floor with an empty bookcase and two food barrels on your right, a table behind, and an unlocked chest behind to your right. At the top of the stairs you will see three spellcaster traps which all spout flames. Behind these is a stone altar; if you are here completing the [Pieces of the Past](https://en.uesp.net/wiki/Skyrim:Pieces_of_the_Past) quest, you will find a [hagraven](Skyrim_Hagraven.md) named [Drascua](https://en.uesp.net/wiki/Skyrim:Drascua) behind the altar. There is an [unusual gem](Skyrim_Unusual_Gem.md) on the altar along with the [Dead Crone Rock key](https://en.uesp.net/wiki/Skyrim:Dead_Crone_Rock_Key), with a [word wall](Skyrim_Word_Wall.md) for the [Dismay](Skyrim_Dismay.md) [dragon shout](Skyrim_Dragon_Shouts.md) behind. A boss-level chest is on the north side. If you look back from the top of the stairs leading to Drascua's altar, to your left are some urns that might be easily missed in a small area at the top of the broken tower. Next to those urns lies a random soul gem. You can reach them by jumping up from the bookcase, jumping onto the wall that leads around the room, or using [Whirlwind Sprint](Skyrim_Whirlwind_Sprint.md).
+
+## Bugs
+- If you have already completed [Pieces of the Past](https://en.uesp.net/wiki/Skyrim:Pieces_of_the_Past) and killed the Forsworn leader, [Drascua](https://en.uesp.net/wiki/Skyrim:Drascua), she will not respawn and is not replaced by a generic NPC boss, which makes it impossible to complete [Trouble in Skyrim](https://en.uesp.net/wiki/Skyrim:Trouble_in_Skyrim) if [Farkas](Skyrim_Farkas.md) asks you to kill the Forsworn leader at this location. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim:Mod_Unofficial_Skyrim_Patch), version 2.0.1, fixes this bug.
+
+## Maps
+- [![](https://images.uesp.net/thumb/4/4e/SR-map-Dead_Crone_Rock.jpg/200px-SR-map-Dead_Crone_Rock.jpg)](https://en.uesp.net/wiki/File:SR-map-Dead_Crone_Rock.jpg) Dead Crone Rock

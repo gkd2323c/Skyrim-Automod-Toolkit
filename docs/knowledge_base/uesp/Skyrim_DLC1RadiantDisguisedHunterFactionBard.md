@@ -1,0 +1,3 @@
+# DLC1RadiantDisguisedHunterFactionBard
+
+Redirects to [DLC1RadiantDisguisedHunterFactionBard](Skyrim_Factions_R.md#DLC1RadiantDisguisedHunterFactionBard).

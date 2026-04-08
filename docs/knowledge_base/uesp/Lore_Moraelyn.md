@@ -1,0 +1,26 @@
+# Moraelyn
+
+| King Moraelyn | | | |
+| --- | --- | --- | --- |
+| Race | [Chimer](Lore_Chimer.md) | Gender | Male |
+| Born | [1st Era](Lore_First_Era.md#1st_Era) | | |
+| Resided in | [Morrowind](Lore_Morrowind.md) | | |
+| Previous Ruler | [Cruethys](Lore_Cruethys.md) | | |
+| Next Ruler | Lian | | |
+
+King Moraelyn of the [Ra'athim](Lore_Ra%27athim.md) clan of [Chimer](Lore_Chimer.md) (later [Dunmer](Lore_Dunmer.md))<sup>[[nb 1]](#intnote_Chimer)</sup> was a [First Era](Lore_First_Era.md) "witch-king" of [Ebonheart](Lore_Ebonheart.md) who was famed in his time as the finest fighter in [Tamriel](Lore_Tamriel.md), as well as a wise leader.<sup>[[1]](#cite_note-KE-1)</sup> He is one of the most famous heroes in Tamrielic history, which was enough to earn him the distinction **Champion of Tamriel**.<sup>[[1]](#cite_note-KE-1)</sup> Many well-known stories and songs about him remain popular.<sup>[[2]](#cite_note-TLATD-2)</sup><sup>[[3]](#cite_note-TRB-3)</sup> He was a prominent character in the historical fiction book series *[King Edward](Lore_King_Edward.md)*.
+
+Moraelyn's father, [Kronin](Lore_Kronin.md), and his brothers, [Cruethys](Lore_Cruethys.md) and [Ephen](Lore_Ephen.md), were among those who, after years of guerrilla warfare, drove the [Nords](Lore_Nord.md) out of Ebonheart and reclaimed the throne (around [1E 416](Lore_First_Era.md#1E_416)).<sup>[[4]](#cite_note-PGE3All-4)</sup> His aunt Yoriss ruled in [Kragenmoor](Lore_Kragenmoor.md). Moraelyn inherited the throne from his brother King Cruethys, and started a temple cult to venerate his brother Ephen (apparently as a sort of consolation: since Ephen was not counted in the Ra'athim clan, he could not inherit the throne of Ebonheart).<sup>[[1]](#cite_note-KE-1)</sup> His descendants would continue to rule Ebonheart until his two grandsons were left as joint heirs, resulting in Ebonheart splitting into two city-states, Ebonheart and [Mournhold](Lore_Mournhold.md).<sup>[[3]](#cite_note-TRB-3)</sup>
+
+Moraelyn purportedly wielded an [ebony](Lore_Ebony.md) blade called "Dragon's Blade" which he took from a [dragon](Lore_Dragon.md)'s lair within [Fang Lair](Lore_Fang_Lair.md), and was the first known non- [Altmer](Lore_Altmer.md) who was allowed to study at the [Crystal Tower](Lore_Crystal_Tower.md).<sup>[[1]](#cite_note-KE-1)</sup> It is said that King [Edward](Lore_Edward.md) and Moraelyn used the [Horn of Summoning](Lore_Horn_of_Summoning.md) to free [High Rock](Lore_High_Rock.md) from the domination of the Nords. Also, he is accredited with entrusting the [Staff of Chaos](Lore_Staff_of_Chaos.md) into the safekeeping of the god Ephen - safekeeping which was eventually circumvented when a descendant of Moraelyn's in the [Third Era](Lore_Third_Era.md) tracked down Ephen's shrine beneath [Mournhold](Lore_Mournhold.md) and claimed the Staff by birthright, a theft which would eventually bring about the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md).<sup>[[3]](#cite_note-TRB-3)</sup>
+
+## Notes
+- | [^](#note_Chimer) | The book *[King Edward](Lore_King_Edward.md)* was written before the introduction of the Chimer in later game entries. The Chimer would not become Dunmer until around 1E 700, which is after the timeline of the book. |
+| --- | --- |
+- *[36 Lessons of Vivec, Sermon 22](Lore_36_Lessons_of_Vivec,_Sermon_22.md)* makes reference to a "rose-worn prince" of [House Mora](Lore_House_Mora.md) who became a hero during their war with the "northern demons". If the war with the "northern demons" is assumed to be the 51 year long [War of Succession](Lore_War_of_Succession.md) which led to Morrowind's liberation in [1E 416](Lore_First_Era.md#1E_416) from the [Nords](Lore_Nord.md), this may be referring to Moraelyn, as the Ra'athim clan was part of House Mora during this time period, and *King Edward* describes some of Moraelyn's clothing and weaponry as being adorned with roses. However, *King Edward* also spells out that Moraelyn was too young to fight in the war, citing his father and brothers as the veterans of it. *[The Real Barenziah](Lore_The_Real_Barenziah.md)* on the other hand has a bard singing about how Moraelyn and King Edward were the defeaters of the Nords. Given these contradictions, the exact history behind these events remains unclear.
+
+## References
+1. ^ <sup>***[a](#cite_ref-KE_1-0)***</sup><sup>***[b](#cite_ref-KE_1-1)***</sup><sup>***[c](#cite_ref-KE_1-2)***</sup><sup>***[d](#cite_ref-KE_1-3)***</sup> [*King Edward*](Lore_King_Edward.md)
+2. [^](#cite_ref-TLATD_2-0) [*The Light and the Dark*](Lore_The_Light_and_The_Dark.md) — [Irek Unterge](Lore_Books_by_Author.md#Irek_Unterge)
+3. ^ <sup>***[a](#cite_ref-TRB_3-0)***</sup><sup>***[b](#cite_ref-TRB_3-1)***</sup><sup>***[c](#cite_ref-TRB_3-2)***</sup> [*The Real Barenziah*](Lore_The_Real_Barenziah.md) — [Anonymous](Lore_Books_by_Author.md#Plitinius_Mero)
+4. [^](#cite_ref-PGE3All_4-0) [*Pocket Guide to the Empire, 3rd Edition: All the Eras of Man, A Comprehensive History of our History*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_All_the_Eras_of_Man.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)

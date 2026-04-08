@@ -1,0 +1,74 @@
+# Daedroth
+
+[![](https://images.uesp.net/thumb/e/ef/ON-creature-Aghezaidil.jpg/200px-ON-creature-Aghezaidil.jpg)](https://en.uesp.net/wiki/File:ON-creature-Aghezaidil.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Aghezaidil.jpg) A Daedroth **Daedroths** are [crocodile](Lore_Crocodile.md) -headed bipedal [Daedra](Lore_Daedra.md) typically associated with [Molag Bal](Lore_Molag_Bal.md).<sup>[[1]](#cite_note-DD-1)</sup> They are strong, hulking, reptilian Daedra with animalistic tendencies, but still a dangerous foe with powerful clawed arms and moderate magical ability.<sup>[[2]](#cite_note-CC-2)</sup> Though some have been known to use weapons and wear simple armor, most attack with bare claws.<sup>[[3]](#cite_note-DFDae-3)</sup> They have a powerful bite and the ability to spew hot flames.<sup>[[4]](#cite_note-KCAHC-4)</sup><sup>[[5]](#cite_note-5)</sup> Some daedroths can spit poison or shock magic.<sup>[[6]](#cite_note-MWDae-6)</sup> They stand roughly at the height of a mortal (if not taller),<sup>[[4]](#cite_note-KCAHC-4)</sup> and can be summoned in gargantuan sizes.<sup>[[7]](#cite_note-Maw Inf-7)</sup> Particularly large daedroths are difficult to summon, and can only be controlled by those with a strong will.<sup>[[8]](#cite_note-High Kin-8)</sup> Even [Dremora](Lore_Dremora.md) have trouble in getting Daedroths to follow their orders.<sup>[[9]](#cite_note-ICDremora Dialogue-9)</sup> Daedroth [sacs](https://en.uesp.net/wiki/Lore:Daedroth_Sac) and [teeth](https://en.uesp.net/wiki/Lore:Daedroth_Teeth) are used in alchemy.<sup>[[10]](#cite_note-10)</sup>
+
+Linguists will point out that "Daedroth" is also the proper singular form of "Daedra", but for these creatures the common usage is Daedroth (singular) and Daedroths (plural), with Daedra (both singular and plural) being used as the generic term.<sup>[[11]](#cite_note-On Ob-11)</sup> The term "[Lesser Daedra](Lore_Lesser_Daedra.md)" is sometimes used (again, both singular and plural), though this appellation technically refers to Daedra of all types beneath the Daedric Princes.<sup>[[1]](#cite_note-DD-1)</sup>
+
+Daedroths can be seen existing in the wilds of Oblivion as wild animals do on [Nirn](Lore_Nirn.md).<sup>[[12]](#cite_note-Vo D2-12)</sup> They can also be found serving [Sanguine](Lore_Sanguine.md),<sup>[[13]](#cite_note-ONGBT-13)</sup> [Sheogorath](Lore_Sheogorath.md),<sup>[[14]](#cite_note-TGM-14)</sup> [Vaermina](Lore_Vaermina.md),<sup>[[15]](#cite_note-Supernal-15)</sup> and green variants serving [Mehrunes Dagon](Lore_Mehrunes_Dagon.md).<sup>[[16]](#cite_note-Vo D-16)</sup> Daedroths have been observed speaking [Tamrielic](Lore_Tamrielic.md).<sup>[[17]](#cite_note-THD-17)</sup><sup>[[18]](#cite_note-TOC-18)</sup>
+
+The *[Sixteen Accords of Madness](Lore_16_Accords_of_Madness.md)* are stories of [Sheogorath](Lore_Sheogorath.md)'s encounters and triumphs over other Daedric Princes. The sixth volume describes a wager made between the Mad God and Huntsman after Sheogorath called to [Hircine](Lore_Hircine.md) on his summoning day. Intrigued by Sheogorath's bravado, Hircine accepted the Mad God's terms: three years from then, they would have a duel between their champions. Hircine imbued a daedroth with lycanthropy, making it his most deadly hunter. Sheogorath's champion was a bird that was unaware of the situation, and inadvertently caused the monster to commit suicide as it tried to pluck it off its face. With his pride greatly wounded, Hircine burned the corpse of his creation, cursed the peaks in Skyrim where the duel happened, and returned to his realm humiliated.<sup>[[19]](#cite_note-16AM6-19)</sup>
+
+Molag Bal employed two notable daedroths as generals during the [Planemeld](Lore_Planemeld.md). The first was the "Daedroth Monarch"<sup>[[20]](#cite_note-MW-20)</sup> [Menta Na](Lore_Menta_Na.md), who is known as Molag Bal's "most favored pet".<sup>[[21]](#cite_note-Anchor M-21)</sup> The other was [Hrelvesuu](Lore_Hrelvesuu.md), who had taken an interest with the "toys of mortals".<sup>[[22]](#cite_note-Anchor H-22)</sup> They were ordered to defend their master's Dark Anchors. However, they were vanquished by the [Fighters Guild](Lore_Fighters_Guild.md), and the Anchors they were guarding were destroyed.<sup>[[23]](#cite_note-Anchor G-23)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/a/af/DF-creature-Daedroth.gif)](https://en.uesp.net/wiki/File:DF-creature-Daedroth.gif) A green Daedroth (Daggerfall)
+- [![](https://images.uesp.net/thumb/d/de/DF-misc-Daedroth.png/171px-DF-misc-Daedroth.png)](https://en.uesp.net/wiki/File:DF-misc-Daedroth.png) A green Daedroth (Daggerfall)
+- [![](https://images.uesp.net/thumb/1/10/MW-creature-Daedroth.jpg/200px-MW-creature-Daedroth.jpg)](https://en.uesp.net/wiki/File:MW-creature-Daedroth.jpg) A green Daedroth (Morrowind)
+- [![](https://images.uesp.net/thumb/d/d8/MW-concept-daedroth.gif/125px-MW-concept-daedroth.gif)](https://en.uesp.net/wiki/File:MW-concept-daedroth.gif) A Daedroth looking to the skies (Morrowind)
+- [![](https://images.uesp.net/thumb/2/2f/OB-creature-Daedroth.jpg/200px-OB-creature-Daedroth.jpg)](https://en.uesp.net/wiki/File:OB-creature-Daedroth.jpg) A Daedroth (Oblivion)
+- [![](https://images.uesp.net/thumb/8/84/OBR-creature-Daedroth.jpg/200px-OBR-creature-Daedroth.jpg)](https://en.uesp.net/wiki/File:OBR-creature-Daedroth.jpg) A Daedroth
+(Oblivion Remastered)
+- [![](https://images.uesp.net/3/34/OM-creature-Daedroth.gif)](https://en.uesp.net/wiki/File:OM-creature-Daedroth.gif) A Daedroth (Oblivion Mobile)
+- [![](https://images.uesp.net/thumb/b/b7/ON-creature-Daedroth_%28green_unarmored%29.jpg/200px-ON-creature-Daedroth_%28green_unarmored%29.jpg)](https://en.uesp.net/wiki/File:ON-creature-Daedroth_(green_unarmored).jpg) A green daedroth (ESO)
+- [![](https://images.uesp.net/thumb/9/93/ON-creature-Bhornaz_the_Scorcher.jpg/200px-ON-creature-Bhornaz_the_Scorcher.jpg)](https://en.uesp.net/wiki/File:ON-creature-Bhornaz_the_Scorcher.jpg) An armored green daedroth (ESO)
+- [![](https://images.uesp.net/thumb/f/fc/ON-creature-Daedroth.jpg/200px-ON-creature-Daedroth.jpg)](https://en.uesp.net/wiki/File:ON-creature-Daedroth.jpg) A blue daedroth (ESO)
+- [![](https://images.uesp.net/thumb/b/b2/ON-creature-Crematorial_Guard.jpg/200px-ON-creature-Crematorial_Guard.jpg)](https://en.uesp.net/wiki/File:ON-creature-Crematorial_Guard.jpg) An elite daedroth in Molag Bal's employ (ESO)
+- [![](https://images.uesp.net/thumb/0/03/ON-creature-Daedroth_%28sleeping%29_02.jpg/200px-ON-creature-Daedroth_%28sleeping%29_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Daedroth_(sleeping)_02.jpg) A daedroth wallowing in a shallow pool (ESO)
+- [![](https://images.uesp.net/thumb/c/cd/ON-creature-Daedroth_%28sleeping%29.jpg/200px-ON-creature-Daedroth_%28sleeping%29.jpg)](https://en.uesp.net/wiki/File:ON-creature-Daedroth_(sleeping).jpg) A wallowing daedroth (ESO)
+- [![](https://images.uesp.net/thumb/8/85/ON-creature-Daedroth_%28Skyreach_Catacombs%29.jpg/200px-ON-creature-Daedroth_%28Skyreach_Catacombs%29.jpg)](https://en.uesp.net/wiki/File:ON-creature-Daedroth_(Skyreach_Catacombs).jpg) A spectral summoned daedroth (ESO)
+- [![](https://images.uesp.net/thumb/7/7b/ON-creature-Horvantud_the_Fire_Maw_05.jpg/200px-ON-creature-Horvantud_the_Fire_Maw_05.jpg)](https://en.uesp.net/wiki/File:ON-creature-Horvantud_the_Fire_Maw_05.jpg) A daedroth enveloped in flames (ESO)
+- [![](https://images.uesp.net/thumb/3/35/LG-cardart-Blood-Crazed_Daedroth.png/135px-LG-cardart-Blood-Crazed_Daedroth.png)](https://en.uesp.net/wiki/File:LG-cardart-Blood-Crazed_Daedroth.png) Daedroth (Legends)
+- [![](https://images.uesp.net/thumb/e/ec/LG-cardart-Flaming_Breath.png/200px-LG-cardart-Flaming_Breath.png)](https://en.uesp.net/wiki/File:LG-cardart-Flaming_Breath.png) A daedroth breathing fire (Legends)
+- [![](https://images.uesp.net/thumb/f/f0/ON-load-Castle_of_the_Worm.jpg/200px-ON-load-Castle_of_the_Worm.jpg)](https://en.uesp.net/wiki/File:ON-load-Castle_of_the_Worm.jpg) A daedroth in battle
+- [![](https://images.uesp.net/thumb/e/e6/ON-load-The_Great_Shackle.jpg/200px-ON-load-The_Great_Shackle.jpg)](https://en.uesp.net/wiki/File:ON-load-The_Great_Shackle.jpg) Daedroths in Coldharbour
+- [![](https://images.uesp.net/thumb/2/2f/ON-concept-Daedroth.png/157px-ON-concept-Daedroth.png)](https://en.uesp.net/wiki/File:ON-concept-Daedroth.png) Concept art
+- [![](https://images.uesp.net/thumb/0/0c/MW-concept-Daedroth_book_small.png/200px-MW-concept-Daedroth_book_small.png)](https://en.uesp.net/wiki/File:MW-concept-Daedroth_book_small.png) Concept art
+- [![](https://images.uesp.net/thumb/f/f4/ON-costume-Jester%27s_Daedroth_Suit_%28male%29.jpg/200px-ON-costume-Jester%27s_Daedroth_Suit_%28male%29.jpg)](https://en.uesp.net/wiki/File:ON-costume-Jester%27s_Daedroth_Suit_(male).jpg) Jester's Daedroth Suit
+- [](https://en.uesp.net/wiki/File:SR-icon-ingredient-Daedroth_Teeth.png) Daedroth teeth (Skyrim)
+- [![](https://images.uesp.net/thumb/f/fe/BL-item-Daedroth_Tooth.jpg/200px-BL-item-Daedroth_Tooth.jpg)](https://en.uesp.net/wiki/File:BL-item-Daedroth_Tooth.jpg) Daedroth tooth (Blades)
+
+## Notes
+- Early Daedroth concept art reveals that they were initially based on the Egyptian god [Sobek](https://www.wikipedia.org/wiki/Sobek).
+- There is no [Jel](Lore_Jel.md) word for "daedroth", as the [Argonian](Lore_Argonian.md) people don't "taint their language with words for abominations from Oblivion." Instead, they use common words from other more widely-spoken languages to refer to the beasts.<sup>[[4]](#cite_note-KCAHC-4)</sup>
+- [Fire Daemons](Lore_Fire_Daemon.md) share several similarities with Daedroths in [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall), including similarly reptilian forms and high intelligence stats.<sup>[[24]](#cite_note-24)</sup> Given their lack of appearance since Arena due to the use of the name Daemon, it's possible they were the inspiration for the Daedra species.
+
+## See Also
+- For game-specific information, see the [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daedroth), [Morrowind](https://en.uesp.net/wiki/Morrowind:Daedroth), [Oblivion](https://en.uesp.net/wiki/Oblivion:Daedroth), [Oblivion Mobile](https://en.uesp.net/wiki/OBMobile:Daedroth), [ESO](https://en.uesp.net/wiki/Online:Daedroth), and [Legends](https://en.uesp.net/wiki/Legends:Blood-Crazed Daedroth) pages.
+- For Daedroth naming conventions, please see their associated list of [names](Lore_Daedra_Names.md#Daedroth).
+- [Fire Daemon](Lore_Fire_Daemon.md)
+
+## References
+1. ^ <sup>***[a](#cite_ref-DD_1-0)***</sup><sup>***[b](#cite_ref-DD_1-1)***</sup> [*Darkest Darkness*](Lore_Darkest_Darkness.md)
+2. [^](#cite_ref-CC_2-0) [*Chaotic Creatia: The Azure Plasm*](https://en.uesp.net/wiki/Lore:Chaotic_Creatia__The_Azure_Plasm) — [Doctor Rhythandius](Lore_Books_by_Author.md#Doctor_Rhythandius)
+3. [^](#cite_ref-DFDae_3-0) Appearance of [Daedroths](https://en.uesp.net/wiki/Daggerfall:Daedroth) in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+4. ^ <sup>***[a](#cite_ref-KCAHC_4-0)***</sup><sup>***[b](#cite_ref-KCAHC_4-1)***</sup><sup>***[c](#cite_ref-KCAHC_4-2)***</sup> [Kyne's Challenge: A Hunter's Companion](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion): Black Marsh, Daedroth
+5. [^](#cite_ref-5) [Daedroth](https://en.uesp.net/wiki/Online:Daedroth) abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-MWDae_6-0) [Daedroth](https://en.uesp.net/wiki/Morrowind:Daedroth) abilities in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+7. [^](#cite_ref-Maw Inf_7-0) [Maw of the Infernal](https://en.uesp.net/wiki/Online:Maw_of_the_Infernal)'s huge size in the [Banished Cells II](https://en.uesp.net/wiki/Online:Banished_Cells_II) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-High Kin_8-0) [High Kinlord Rilis](https://en.uesp.net/wiki/Online:High_Kinlord_Rilis)' dialogue in the [Banished Cells II](https://en.uesp.net/wiki/Online:Banished_Cells_II) in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ICDremora Dialogue_9-0) [Overheard Dremora dialogue](https://en.uesp.net/wiki/Online:Dremora_Dialogue) in [Imperial City](https://en.uesp.net/wiki/Online:Imperial_City)
+10. [^](#cite_ref-10) [Daedroth Teeth](Skyrim_Daedroth_Teeth.md) alchemical ingredient from *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-On Ob_11-0) [*On Oblivion*](Lore_On_Oblivion.md) — [Morian Zenas](Lore_Books_by_Author.md#Morian_Zenas)
+12. [^](#cite_ref-Vo D2_12-0) [*Varieties of Daedra*](Lore_Varieties_of_Daedra.md) — [Aranea Drethan](Lore_Books_by_Author.md#Aranea_Drethan)
+13. [^](#cite_ref-ONGBT_13-0) [Getting the Band Together](https://en.uesp.net/wiki/Online:Getting_the_Band_Together) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-TGM_14-0) [The Grip of Madness](https://en.uesp.net/wiki/Online:The_Grip_of_Madness) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-Supernal_15-0) [Supernal Summoner](https://en.uesp.net/wiki/Online:Supernal_Summoner)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:ESO)
+16. [^](#cite_ref-Vo D_16-0) [*Varieties of Daedra*](Lore_Varieties_of_Daedra.md) — [Aranea Drethan](Lore_Books_by_Author.md#Aranea_Drethan)
+17. [^](#cite_ref-THD_17-0) [The Heartless Daedra](https://en.uesp.net/wiki/Daggerfall:The_Heartless_Daedra) quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+18. [^](#cite_ref-TOC_18-0) [The Obsessed Child](https://en.uesp.net/wiki/Daggerfall:The_Obsessed_Child) quest in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+19. [^](#cite_ref-16AM6_19-0) [*16 Accords of Madness, v. VI*](Lore_16_Accords_of_Madness,_v._VI.md)
+20. [^](#cite_ref-MW_20-0) [Molag Bal's Quest](https://en.uesp.net/wiki/Morrowind:Molag_Bal%27s_Quest) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+21. [^](#cite_ref-Anchor M_21-0) [Menta Na](https://en.uesp.net/wiki/Online:Menta_Na)'s appearance at [Dark Anchors](https://en.uesp.net/wiki/Online:Dark_Anchors) in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-Anchor H_22-0) [Hrelvesuu](https://en.uesp.net/wiki/Online:Hrelvesuu)'s appearance at [Dark Anchors](https://en.uesp.net/wiki/Online:Dark_Anchors) in [ESO](https://en.uesp.net/wiki/Online:Online)
+23. [^](#cite_ref-Anchor G_23-0) [General Executioner](https://en.uesp.net/wiki/Online:General_Executioner) achievement in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. [^](#cite_ref-24) [Daedroth](https://en.uesp.net/wiki/Daggerfall:Daedroth) appearance and stats in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

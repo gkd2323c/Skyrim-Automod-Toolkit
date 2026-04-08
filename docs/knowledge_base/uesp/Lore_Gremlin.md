@@ -1,0 +1,58 @@
+# Gremlin
+
+| Gremlins | |
+| --- | --- |
+| [![RG-render-Gremlin.jpg](https://images.uesp.net/thumb/f/f5/RG-render-Gremlin.jpg/200px-RG-render-Gremlin.jpg)](https://en.uesp.net/wiki/File:RG-render-Gremlin.jpg) A Gremlin | |
+| Type | [Race](Lore_Races.md) ([Goblin-ken](Lore_Goblin-ken.md)) |
+| Range | [High Rock](Lore_High_Rock.md), [Stros M'Kai](Lore_Stros_M%27Kai.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [Redguard](https://en.uesp.net/wiki/Redguard:Gremlin) |
+
+Gremlins (also derogatorily called **Orc-rats** or **Squeakers**)<sup>[[1]](#cite_note-RGTrithik-1)</sup><sup>[[2]](#cite_note-2)</sup> are small, harmless creatures related to [Goblins](Lore_Goblin.md), whom they can often be found living alongside.<sup>[[3]](#cite_note-PGE1:WR-3)</sup><sup>[[4]](#cite_note-Gremlin Caves-4)</sup> Gremlins have a distinct appearance with large feet, and tiny arms incapable of using any [man](Lore_Man.md) -sized tools.<sup>[[5]](#cite_note-RGC-5)</sup> While seen as unpleasant by most, they usually aren't met with violence like most [Goblin-ken](Lore_Goblin-ken.md). Instead, they are typically shooed away or otherwise dismissed,<sup>[[6]](#cite_note-Redguard Flask-6)</sup> though some show them kindness.<sup>[[7]](#cite_note-RGMariah-7)</sup><sup>[[8]](#cite_note-Avik-8)</sup> They are thought to occasionally beg for food.<sup>[[9]](#cite_note-9)</sup>
+
+A number of Gremlins and other Goblin-ken lived in certain iterations of the city of [Orsinium](Lore_Orsinium.md).<sup>[[3]](#cite_note-PGE1:WR-3)</sup> Gremlins were also known to live in the Goblin Caverns of [Stros M'Kai](Lore_Stros_M%27Kai.md).<sup>[[4]](#cite_note-Gremlin Caves-4)</sup> Many believe that the Goblin-ken of Stros M'Kai were banished beneath the earth thanks to [Frandar Hunding](Lore_Frandar_Hunding.md).<sup>[[1]](#cite_note-RGTrithik-1)</sup><sup>[[10]](#cite_note-RGTalisman-10)</sup> Some [Redguards](Lore_Redguard.md) who lived there would warn Goblin-ken such as Gremlins to return to their caves, lest Hunding turn them into stone.<sup>[[1]](#cite_note-RGTrithik-1)</sup><sup>[[7]](#cite_note-RGMariah-7)</sup> Gremlins have been used as slaves by the [Altmer](Lore_Altmer.md) and as [familiars](Lore_Familiar.md) by some wizards in the [Mages Guild](Lore_Mages_Guild.md),<sup>[[3]](#cite_note-PGE1:WR-3)</sup><sup>[[11]](#cite_note-11)</sup> they may sometimes be kept in jars.<sup>[[12]](#cite_note-12)</sup>
+
+Gremlins have their own [language](Lore_Linguistics.md), known as gremlin tongue, which is not usually understood by other races, though some words in it are coincidentally similar to other words in [Tamrielic](Lore_Tamrielic.md).<sup>[[5]](#cite_note-RGC-5)</sup><sup>[[6]](#cite_note-Redguard Flask-6)</sup> There exists a transmogrification [spell](Lore_Magic.md) capable of transforming someone into a Gremlin.<sup>[[6]](#cite_note-Redguard Flask-6)</sup> This spell was a favorite trick of [Jaganvir](Lore_Jaganvir.md), the Archmage of the Mages Guild on Stros M'Kai circa [2E 864](Lore_Second_Era.md#2E_864).<sup>[[13]](#cite_note-13)</sup><sup>[[8]](#cite_note-Avik-8)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/1/1a/RG-creature-Gremlin.jpg/200px-RG-creature-Gremlin.jpg)](https://en.uesp.net/wiki/File:RG-creature-Gremlin.jpg) [](https://en.uesp.net/wiki/File:RG-creature-Gremlin.jpg) Cyrus, transformed into a Gremlin. Note the red vest. (Redguard) The exact origins of Gremlins is unclear. Goblin-kin like them have been described as "people from a different age".<sup>[[14]](#cite_note-LAMoth-14)</sup>
+
+During the [Camoran Dynasty](Lore_Camoran_Dynasty.md) of the [First Era](Lore_First_Era.md), hundreds of Gremlins, [Orcs](Lore_Orc.md), [Ogres](Lore_Ogre.md), Goblins and other [beastfolk](Lore_Beastfolk.md) were set free by the rulers of the [Summerset Isles](Lore_Summerset_Isles.md), and allowed to settle lands north of [Valenwood](Lore_Valenwood.md). They chose to settle in an uninhabited mountain region known as the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md), described as close to [Old Hroldan](Lore_Old_Hroldan.md) in [High Rock](Lore_High_Rock.md), as the Orcish tribes were dependent on rare, shaggy, giant [centipede](Lore_Centipede.md) herd-beasts that can only survive at high altitudes. Here, they would found the first city of Orsinium.<sup>[[3]](#cite_note-PGE1:WR-3)</sup> The exact dating of this event is unclear, but various pieces of evidence place the founding of Orsinium in the ninth or tenth century of the First Era.<sup>[[15]](#cite_note-WJOTB-15)</sup><sup>[[16]](#cite_note-BSHK-16)</sup><sup>[[17]](#cite_note-PGE3O-17)</sup>
+
+In the [Second Era](Lore_Second_Era.md), the prophecies of the [Elder Scrolls](Lore_Elder_Scrolls.md) made references to the races of Goblin-kin, such as Gremlins, although to a lesser extent than in the past. The scrolls were said to not speak kindly about the Goblin-kin, as they were a people of a different age.<sup>[[14]](#cite_note-LAMoth-14)</sup> Circa 2E 864, Gremlins were known to still inhabit Orsinium,<sup>[[3]](#cite_note-PGE1:WR-3)</sup> as well as the Goblin Caverns of Stros M'Kai.<sup>[[4]](#cite_note-Gremlin Caves-4)</sup> During this year, [Cyrus](Lore_Cyrus.md) the Redguard was once transformed into a Gremlin by Archmage Jaganvir of Stros M'Kai.<sup>[[6]](#cite_note-Redguard Flask-6)</sup> While transformed, Cyrus could only speak in gremlin tongue. Such a spell was a form of "eastern magic", not known to [Yokudans](Lore_Yokudan.md), so he was unable to receive help from the witchmother Saban.<sup>[[18]](#cite_note-18)</sup> After stringing together enough Gremlin utterances to ask for help,<sup>[[5]](#cite_note-RGC-5)</sup> he was transformed back to normal by the [Khajiit](Lore_Khajiit.md) mage Joto.<sup>[[6]](#cite_note-Redguard Flask-6)</sup>
+
+## Known Gremlin Words and Phrases
+- *Bak*<sup>[[6]](#cite_note-Redguard Flask-6)</sup>
+- *Chaa*<sup>[[6]](#cite_note-Redguard Flask-6)</sup>
+- *Eng*<sup>[[6]](#cite_note-Redguard Flask-6)</sup> or *Enj*<sup>[[5]](#cite_note-RGC-5)</sup>
+- *Laloo*<sup>[[6]](#cite_note-Redguard Flask-6)</sup> or *Lalooo*<sup>[[5]](#cite_note-RGC-5)</sup>
+- *Mee*<sup>[[6]](#cite_note-Redguard Flask-6)</sup>
+- *Weee*<sup>[[6]](#cite_note-Redguard Flask-6)</sup>
+- *YEEEtah*<sup>[[5]](#cite_note-RGC-5)</sup>
+- *Yupee-nub-nub*<sup>[[6]](#cite_note-Redguard Flask-6)</sup> or *Yippee nub nub*<sup>[[5]](#cite_note-RGC-5)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/9/98/RG-scene-Falicia%27s_Confession_03.jpg/200px-RG-scene-Falicia%27s_Confession_03.jpg)](https://en.uesp.net/wiki/File:RG-scene-Falicia%27s_Confession_03.jpg) Height difference between a Gremlin and a Bosmer (Redguard)
+- [![](https://images.uesp.net/thumb/5/53/RG-scene-Falicia%27s_Confession_02.jpg/200px-RG-scene-Falicia%27s_Confession_02.jpg)](https://en.uesp.net/wiki/File:RG-scene-Falicia%27s_Confession_02.jpg) Jaganvir casts a spell to turn Cyrus into a Gremlin (Redguard)
+
+## See Also
+- For game-specific information, see the [*Redguard* article](https://en.uesp.net/wiki/Redguard:Gremlin).
+
+## References
+1. ^ <sup>***[a](#cite_ref-RGTrithik_1-0)***</sup><sup>***[b](#cite_ref-RGTrithik_1-1)***</sup><sup>***[c](#cite_ref-RGTrithik_1-2)***</sup> [Trithik](https://en.uesp.net/wiki/Redguard:Trithik)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+2. [^](#cite_ref-2) [Sailor](https://en.uesp.net/wiki/Redguard:Sailor) dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+3. ^ <sup>***[a](#cite_ref-PGE1:WR_3-0)***</sup><sup>***[b](#cite_ref-PGE1:WR_3-1)***</sup><sup>***[c](#cite_ref-PGE1:WR_3-2)***</sup><sup>***[d](#cite_ref-PGE1:WR_3-3)***</sup><sup>***[e](#cite_ref-PGE1:WR_3-4)***</sup> [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+4. ^ <sup>***[a](#cite_ref-Gremlin Caves_4-0)***</sup><sup>***[b](#cite_ref-Gremlin Caves_4-1)***</sup><sup>***[c](#cite_ref-Gremlin Caves_4-2)***</sup> [Brennan](https://en.uesp.net/wiki/Redguard:Brennan), [Coyle](https://en.uesp.net/wiki/Redguard:Coyle), and [Mariah](https://en.uesp.net/wiki/Redguard:Mariah)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+5. ^ <sup>***[a](#cite_ref-RGC_5-0)***</sup><sup>***[b](#cite_ref-RGC_5-1)***</sup><sup>***[c](#cite_ref-RGC_5-2)***</sup><sup>***[d](#cite_ref-RGC_5-3)***</sup><sup>***[e](#cite_ref-RGC_5-4)***</sup><sup>***[f](#cite_ref-RGC_5-5)***</sup><sup>***[g](#cite_ref-RGC_5-6)***</sup> [*The Redguard Companion*](https://en.uesp.net/wiki/Books:The_Redguard_Companion)
+6. ^ <sup>***[a](#cite_ref-Redguard Flask_6-0)***</sup><sup>***[b](#cite_ref-Redguard Flask_6-1)***</sup><sup>***[c](#cite_ref-Redguard Flask_6-2)***</sup><sup>***[d](#cite_ref-Redguard Flask_6-3)***</sup><sup>***[e](#cite_ref-Redguard Flask_6-4)***</sup><sup>***[f](#cite_ref-Redguard Flask_6-5)***</sup><sup>***[g](#cite_ref-Redguard Flask_6-6)***</sup><sup>***[h](#cite_ref-Redguard Flask_6-7)***</sup><sup>***[i](#cite_ref-Redguard Flask_6-8)***</sup><sup>***[j](#cite_ref-Redguard Flask_6-9)***</sup><sup>***[k](#cite_ref-Redguard Flask_6-10)***</sup><sup>***[l](#cite_ref-Redguard Flask_6-11)***</sup> [A Legendary Flask](https://en.uesp.net/wiki/Redguard:A_Legendary_Flask) quest in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+7. ^ <sup>***[a](#cite_ref-RGMariah_7-0)***</sup><sup>***[b](#cite_ref-RGMariah_7-1)***</sup> [Mariah](https://en.uesp.net/wiki/Redguard:Mariah)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+8. ^ <sup>***[a](#cite_ref-Avik_8-0)***</sup><sup>***[b](#cite_ref-Avik_8-1)***</sup> [Avik](https://en.uesp.net/wiki/Redguard:Avik)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+9. [^](#cite_ref-9) [Crendal](https://en.uesp.net/wiki/Redguard:Crendal) and [Lakene](https://en.uesp.net/wiki/Redguard:Lakene)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+10. [^](#cite_ref-RGTalisman_10-0) [Talisman of Hunding](https://en.uesp.net/wiki/Redguard:Talisman) description
+11. [^](#cite_ref-11) [Kotaro](https://en.uesp.net/wiki/Redguard:Kotaro)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+12. [^](#cite_ref-12) [Jail Guard](https://en.uesp.net/wiki/Redguard:Guard#Jail_Guard_Dialogue) dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+13. [^](#cite_ref-13) [Joto](https://en.uesp.net/wiki/Redguard:Joto)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+14. ^ <sup>***[a](#cite_ref-LAMoth_14-0)***</sup><sup>***[b](#cite_ref-LAMoth_14-1)***</sup> [*Loremaster's Archive - Elder Scrolls & Moth Priests*](Lore_Loremaster%27s_Archive_-_Elder_Scrolls_%26_Moth_Priests.md) — [Sister Chana Nirine](Lore_Books_by_Author.md#Sister_Chana)
+15. [^](#cite_ref-WJOTB_15-0) [*Wayrest, Jewel of the Bay*](Lore_Wayrest,_Jewel_of_the_Bay.md) — [Sathyr Longleat](Lore_Books_by_Author.md#Sathyr_Longleat)
+16. [^](#cite_ref-BSHK_16-0) [*Bangkorai, Shield of High Rock*](Lore_Bangkorai,_Shield_of_High_Rock.md) — King [Eamond](Lore_Books_by_Author.md#Eamond)
+17. [^](#cite_ref-PGE3O_17-0) [*Pocket Guide to the Empire, 3rd Edition: Orsinium*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Orsinium.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+18. [^](#cite_ref-18) [Saban](https://en.uesp.net/wiki/Redguard:Saban)'s translated dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*

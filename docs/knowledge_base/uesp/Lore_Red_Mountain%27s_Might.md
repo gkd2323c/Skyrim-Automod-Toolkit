@@ -1,0 +1,21 @@
+# Red Mountain's Might
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Red_Mountain%27s_Might) ([Morrowind](https://en.uesp.net/wiki/Online:Morrowind)) |
+
+Red Mountain's Might **by [Anrunn Frozen-Cove](Lore_Books_by_Author.md#Anrunn_Frozen-Cove)** *A tale of the Heart of Lorkhan*
+---
+[Red Mountain](Lore_Red_Mountain.md) grumbles like an angry giant. Its sides drip with a warrior's red, a slobbering beast before it lunges for the kill. I dream of its eruption, of billowing ash and spouting flames. I always awake in a cold sweat.
+
+My [Dark Elf](Lore_Dunmer.md) companions smirk at me when I speak of it. They talk of the power of their great god [Vivec](Lore_Vivec_(god).md), of his might and glory and magic. I know magic and I know of its end. Of its limits. What is their idol's limit? I fear to find out.
+
+Rumors swirl around the mountain like the ashy wind. Legends. Myth. But I have walked across [Skyrim](Lore_Skyrim.md), where Dragons once ruled. I am no stranger to the power of myth and the truth it holds. I am no stranger to the power of the true Gods.
+
+When I mention the [Heart of Shor](Lore_Heart_of_Lorkhan.md) (or [Lorkhan](Lore_Lorkhan.md), as the Dark Elves know him), I'm met with laughter. There's something about seeing your god, about being his neighbor, that gives those in [Vvardenfell](Lore_Vvardenfell.md) a sense of entitlement. But what belief is to be had in what you can see? Faith is not given to what is provable in the world, but rather to what can only be truly felt in your gut.
+
+Still, they tell me what they know. Of greedy Dark Elf *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* hands which found the Heart, which used it for their own ends. A magical stone, some say, nothing more. What it was used for I do not know, or if it still exists. So goes legends of a true God, which goes beyond mere mortal flesh.
+
+Some say the Heart still lies beneath that great Red Tower, but my Dark Elf companions remain unusually silent on the matter. I hear stories of treasure hunters delving deep into the dark passages, of the screams that never reach the surface.
+
+I know in my heart that the great Red Mountain will never be defeated, will never give up its prize. Not until a true force of good emerges to claim it. Or, perhaps, a true force of evil.

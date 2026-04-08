@@ -1,0 +1,19 @@
+# The Wolf and the Dragon
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Wolf_and_the_Dragon) ([Dark Brotherhood](https://en.uesp.net/wiki/Online:Dark_Brotherhood_(DLC))) |
+
+The Wolf and the Dragon **by [Midara Salviticus](Lore_Books_by_Author.md#Midara_Salviticus), Historian, [University of Gwylim](Lore_University_of_Gwylim.md)** *A history of Kvatch's conflict with the Anvil during the Interregnum*
+---
+When [Varen Aquilarios](Lore_Varen_Aquilarios.md) left the [Gold Coast](Lore_Gold_Coast.md) with the [Second Legion](Lore_Second_Legion.md) to carry [his rebellion](Lore_Colovian_Revolt.md) into the heart of [Cyrodiil](Lore_Cyrodiil.md), he didn't leave his beloved homeland completely unprotected. Between a [slim wall](Lore_Varen%27s_Wall_(place).md) that stretched from the shores of the [Abecean Sea](Lore_Abecean_Sea.md) to the banks of the [Strid River](Lore_Strid_River.md) and a surrogate champion in the form of his nephew Carolus, [Kvatch](Lore_Kvatch.md) and the surrounding countryside were spared both the retaliation of the [Longhouse Emperor](Lore_Leovic.md) and the degradations of the war that followed. But there were still plenty of opportunities for the Wolf of Kvatch to take on the Imperial Dragon.
+
+[Carolus Aquilarios](Lore_Carolus_Aquilarios.md) idolized his uncle and was eager to help when Varen declared open rebellion against the Emperor. In fact, Carolus wanted to join Varen and fight alongside him as he marched toward the [Imperial City](Lore_Imperial_City.md). But Varen had other plans for Carolus. He wanted someone he could trust to protect the homefront—someone like his honorable nephew. Disappointed not to be beside Varen and in the midst of the action, Carolus nevertheless vowed to keep Kvatch and its people safe, just as his uncle knew he would. He immediately assumed temporary command of the County of Kvatch.
+
+Shortly after Varen and the majority of Second Legion departed the Gold Coast, the Imperial Prefect of [Anvil](Lore_Anvil.md) and [Ephrem Benirus](Lore_Ephrem_Benirus.md), the Count of Anvil, sent Imperial forces stationed in the coastal city inland to seize Varen Aquilarios's property and holdings. Carolus rallied the single cohort of the Second Legion that Varen left in his command, as well as the Kvatch Warders —the famed defenders of the city. Kvatch's defenders met the Imperial forces on the plains below the city. The battle was short and fierce, ending with the remnants of Anvil's forces—now greatly reduced—retreating back the way they had come. The Wolf of Kvatch had repelled an attack by the Imperial Dragon.
+
+Before the year was out, Anvil sent its dwindling Imperial troops against Kvatch three more times, and each time they came away beaten and fewer than they were before. Then, word reached the region that Varen Aquilarios had ascended to the [Ruby Throne](Lore_Ruby_Throne.md). Carolus, who was being called the Wolf of Kvatch for his bravery and leadership, officially inherited the title of Count of Kvatch and took the wolf's head symbol as his own.
+
+Unfortunately, Kvatch's good fortune wouldn't last long. As soon as Carolus was officially named as Count of Kvatch, [Artorius Ponticus](Lore_Primate_Artorius.md), Primate of Kvatch, began working to undermine the count's authority and carve out more power and influence for himself. Always ambitious and powerful in his own right as the religious authority of Cyrodiil, the Primate had a grudgingly civil relationship with Varen, and had put aside his ambitions while Carolus struggled to keep Kvatch safe. With the change in regime in the capital, however, it appeared that the Primate sought a more influential position in the city's hierarchy. Before this challenge could come to a head, however, [something significant occurred in Anvil](Lore_The_Wolf_and_the_Pirate_Queen.md).
+
+But that's a tale for another book.

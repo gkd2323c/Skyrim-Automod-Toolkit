@@ -1,0 +1,31 @@
+# Guimard
+
+[![](https://images.uesp.net/thumb/4/44/ON-concept-Martinne_Guimard.png/200px-ON-concept-Martinne_Guimard.png)](https://en.uesp.net/wiki/File:ON-concept-Martinne_Guimard.png) [](https://en.uesp.net/wiki/File:ON-concept-Martinne_Guimard.png) A statue of Duchess Martinne Guimard House Guimard is an aristocratic family of [High Rock](Lore_High_Rock.md) that claims to have resided in [Evermore](Lore_Evermore.md) since the port was founded in [1E 983](Lore_First_Era.md#1E_983), three years after the fall of [Orsinium](Lore_Orsinium.md).<sup>[[1]](#cite_note-TRHOKE-1)</sup><sup>[[2]](#cite_note-PGE3O-2)</sup> Though earlier accounts of the family are purportedly locked away in their castle vaults, they were publicly documented when High Rock entered into the [Alessian Empire](Lore_Alessian_Empire.md) in [1E 1029](Lore_First_Era.md#1E_1029). A citation in the Decretal of Fiefdoms made by Empress [Hestra](Lore_Hestra.md) mentions Barron Guy Marde of ye Rivver Banke.<sup>[[1]](#cite_note-TRHOKE-1)</sup>
+
+Baron-Captain Olsien Guy Mard sailed in the [All Flags Navy](Lore_All_Flags_Navy.md) in [1E 2260](Lore_First_Era.md#1E_2260).<sup>[[1]](#cite_note-TRHOKE-1)</sup> Baroness Falinne Guimard is remembered for defending [Bangkorai](Lore_Bangkorai.md) against the [Alessian Legions](Lore_Imperial_Legion.md) in [1E 2305](Lore_First_Era.md#1E_2305) (a victory celebrated on "Sovereignty Day" in High Rock).<sup>[[1]](#cite_note-TRHOKE-1)</sup><sup>[[3]](#cite_note-PAPAHS-3)</sup> Duchess Martinne Guimard famously bought the [Systres Archipelago](Lore_Systres_Archipelago.md) in [1E 2327](Lore_First_Era.md#1E_2327) for an undisclosed amount of money. She was described as the canniest ruler of her time and established her wealth through the market, via shrewd business tactics and smuggling. House Guimard sought to exploit the Systres culturally and even named the main island after the Breton's ancestral homeland, [High Isle](Lore_High_Isle.md). The house ruled the region for a century and a half but fell from the limelight after a jilted marriage proposal.<sup>[[4]](#cite_note-SH4-4)</sup><sup>[[5]](#cite_note-SH5-5)</sup>
+
+The exploits of Baron Fulvert Guimard during the second sacking of Orsinium in [2E 431](Lore_Second_Era.md#2E_431) resulted in the lands of House Guimard being recognized as a duchy.<sup>[[1]](#cite_note-TRHOKE-1)</sup> Evermore was sacked in [2E 542](Lore_Second_Era.md#2E_542), and the royal family was left without an heir. Duke Blaise Guimard led the [Knights of Saint Pelin](Lore_Knights_of_Saint_Pelin.md) in the charge that eventually retook the city. As a result, he was elected to the throne by the nobles of Bangkorai and became King Blaise of Evermore.
+
+Blaise's son [Eamond](Lore_Eamond.md) married [Arzhela](Lore_Arzhela.md), cousin of High King [Emeric](Lore_Emeric.md) of [Wayrest](Lore_Wayrest.md), and they ascended to the throne upon Blaise's death in [2E 568](Lore_Second_Era.md#2E_568). Eamond and Arzhela had two children, [Elara](https://en.uesp.net/wiki/Lore:Elara) and Adrien,<sup>[[1]](#cite_note-TRHOKE-1)</sup> although both were thought to have been killed along with their father in [2E 582](Lore_Second_Era.md#2E_582) when the [Reachmen](Lore_Reachmen.md) attacked Evermore. Adrien was briefly raised as undead by [Daedric](Lore_Daedra.md) influence before his burial and Elara lingered in the Viridian Woods, kept alive by Stenwick Gurles to replace him as the next [Viridian Sentinel](Lore_Viridian_Sentinel.md). However, it is unknown if she survived the ritual. Arzhela subsequently assumed the throne, and prevented Evermore from falling to either the Reachmen or the [Empire](Lore_Empire_of_Cyrodiil_(Interregnum).md).<sup>[[6]](#cite_note-6)</sup>
+
+## Famous Members
+- Queen [Arzhela](Lore_Arzhela.md)
+- King [Blaise Guimard](Lore_Blaise_Guimard.md)
+- King [Eamond](Lore_Eamond.md)
+- Baroness Falinne Guimard
+- Baron Fulvert Guimard
+- Barron *[[sic](https://en.uesp.net/wiki/UESPWiki:Spelling#Books_and_Direct_Quotes)]* Guy Marde of ye Rivver Banke
+- Duchess [Martinne Guimard](Lore_Martinne_Guimard.md)
+- Baron-Captain Olsien Guy Mard
+
+### Books
+- ***[Picnic at Pelin (A Horror Story)](Lore_Picnic_at_Pelin_(A_Horror_Story).md)*** by [De Witte Bourbois](Lore_Books_by_Author.md#De Witte_Bourbois)
+- ***[The Royal House of King Eamond](Lore_The_Royal_House_of_King_Eamond.md)*** by [Seneschal Derric Andras](Lore_Books_by_Author.md#Seneschal_Derric_Andras) of [Castle Evermore](Lore_Evermore.md) — On the lineage of the King of Evermore
+
+## References
+1. ^ <sup>***[a](#cite_ref-TRHOKE_1-0)***</sup><sup>***[b](#cite_ref-TRHOKE_1-1)***</sup><sup>***[c](#cite_ref-TRHOKE_1-2)***</sup><sup>***[d](#cite_ref-TRHOKE_1-3)***</sup><sup>***[e](#cite_ref-TRHOKE_1-4)***</sup><sup>***[f](#cite_ref-TRHOKE_1-5)***</sup> [*The Royal House of King Eamond*](Lore_The_Royal_House_of_King_Eamond.md) — [Seneschal Derric Andras](Lore_Books_by_Author.md#Seneschal_Derric_Andras) of [Castle Evermore](Lore_Evermore.md)
+2. [^](#cite_ref-PGE3O_2-0) [*Pocket Guide to the Empire, 3rd Edition: Orsinium*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Orsinium.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+3. [^](#cite_ref-PAPAHS_3-0) [*Picnic at Pelin (A Horror Story)*](Lore_Picnic_at_Pelin_(A_Horror_Story).md) — [De Witte Bourbois](Lore_Books_by_Author.md#De Witte_Bourbois)
+4. [^](#cite_ref-SH4_4-0) [*Systres History: Volume 4*](https://en.uesp.net/wiki/Lore:Systres_History__Volume_4) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+5. [^](#cite_ref-SH5_5-0) [*Systres History: Volume 5*](https://en.uesp.net/wiki/Lore:Systres_History__Volume_5) — [Trilam Heladren](Lore_Books_by_Author.md#Trilam_Heladren), Associate Dean of Eltheric History, [University of Gwylim](Lore_University_of_Gwylim.md)
+6. [^](#cite_ref-6) Events of [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,23 @@
+# Evergrowth and Allwither
+
+[![](https://images.uesp.net/thumb/6/68/ON-npc-The_Evergrowth.jpg/200px-ON-npc-The_Evergrowth.jpg)](https://en.uesp.net/wiki/File:ON-npc-The_Evergrowth.jpg) [](https://en.uesp.net/wiki/File:ON-npc-The_Evergrowth.jpg) The Evergrowth speaking through a vessel The **Evergrowth** and its darker aspect, the **Allwither**, are two [nature spirits](Lore_Nature_Spirits.md) in the opposite side of the spectrum, a physical manifestation of the cycle of life. These spirits were bound by ancient druids to balance a sacred grove in the Sapphire Coast region of High Isle, where the laws of nature were found to be malleable.<sup>[[1]](#cite_note-ESODA-1)</sup>
+
+Sometime after Druid King Kasorayn split the [Druids of Galen](Lore_Druids_of_Galen.md) into the druidic circles, the Allwither Cult rose to prominence and attempted to seize the Ivy Throne, possibly in an attempt to steer druiddom to strike back at their former oppressors in High Rock.<sup>[[2]](#cite_note-ONSHADG-2)</sup> They killed Kasorayn, but those of the circles that remained uncorrupted rallied against the cultists, and bound them into Mount Firesong.<sup>[[3]](#cite_note-ESODruid King-3)</sup> [Forest Wraiths](Lore_Forest_Wraith.md) are evil nature spirits that are filled with rage and longing, and are said to be embodiments of death.<sup>[[4]](#cite_note-4)</sup><sup>[[UOL 1]](#cite_note-5)</sup><sup>[[UOL 2]](#cite_note-ESOLive Firesong-6)</sup> They speculated to be related to the Allwither,<sup>[[5]](#cite_note-JG-7)</sup> and are thought to have been created after the death of Kasorayn at the hands of the Allwither Cult,<sup>[[5]](#cite_note-JG-7)</sup><sup>[[3]](#cite_note-ESODruid King-3)</sup> and were originally guardians but went rogue over the centuries.<sup>[[UOL 2]](#cite_note-ESOLive Firesong-6)</sup>
+
+Eventually, the [Stonelore Circle](Lore_Stonelore_Circle.md) had settled around the grove that housed the Evergrowth and the Allwither. Their settlement was dubbed Stonelore Grove. Circa [2E 582](Lore_Second_Era.md#2E_582), the Allwither attempted to break free of its bindings, and possessed the local archdruid as a puppet. The Evergrowth worked with an adventurer to contain the Allwither back in its lair, which was a successful endeavor.<sup>[[6]](#cite_note-8)</sup>
+
+## References
+1. [^](#cite_ref-ESODA_1-0) [Druid Audrine](https://en.uesp.net/wiki/Online:Druid_Audrine)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. [^](#cite_ref-ONSHADG_2-0) [*Systres History Addendum: The Druids of Galen*](https://en.uesp.net/wiki/Lore:Systres_History_Addendum__The_Druids_of_Galen) — [Varona Vedralu](Lore_Books_by_Author.md#Varona_Vedralu), Senior Lecturer, [University of Gwylim](Lore_University_of_Gwylim.md)
+3. ^ <sup>***[a](#cite_ref-ESODruid King_3-0)***</sup><sup>***[b](#cite_ref-ESODruid King_3-1)***</sup> [Druid King Kasorayn](https://en.uesp.net/wiki/Online:Druid_King_Kasorayn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) [Elder Pitof](https://en.uesp.net/wiki/Online:Elder_Pitof)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-JG_7-0)***</sup><sup>***[b](#cite_ref-JG_7-1)***</sup> [Journeys In Galen: A Scholar's Travels](https://en.uesp.net/wiki/Online:Journeys_In_Galen:_A_Scholar%27s_Travels) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-8) [The Corrupted Grove](https://en.uesp.net/wiki/Online:The_Corrupted_Grove)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-5) <https://www.twitch.tv/videos/1604662466> Twitch Stream of *ESO Live Legacy of the Bretons Autumn Event*, time stamp 1:04:46-1:05:10
+2. ^ <sup>***[a](#cite_ref-ESOLive Firesong_6-0)***</sup><sup>***[b](#cite_ref-ESOLive Firesong_6-1)***</sup> [Forest Wraith](https://en.uesp.net/wiki/General:Firesong_DLC_%26_Update_36_Preview#Forest_Wraith) section in [Firesong DLC & Update 36 Preview](https://en.uesp.net/wiki/General:Firesong_DLC_%26_Update_36_Preview)
+
+![](https://images.uesp.net/thumb/2/2d/LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg/45px-LO-map-Tamriel_%28Oblivion_Codex_Compilation%29.jpg)
+*This [Lore](Lore_Main_Page.md) -related article is a [stub](https://en.uesp.net/wiki/UESPWiki:Stub). You can help by [expanding it](https://en.uesp.net/w/index.php?title=Lore:Evergrowth_and_Allwither&action=edit).*

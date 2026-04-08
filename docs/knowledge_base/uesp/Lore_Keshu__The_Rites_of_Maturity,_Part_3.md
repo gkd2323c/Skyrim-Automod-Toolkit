@@ -1,0 +1,25 @@
+#  The Rites of Maturity, Part 3
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Keshu:_The_Rites_of_Maturity,_Part_3) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[Keshu: The Rites of Maturity](Lore_Keshu__The_Rites_of_Maturity.md)* | | |
+| Prev. | *[Part 2](Lore_Keshu__The_Rites_of_Maturity,_Part_2.md)* | Next | *[Travels Beyond the Village, Part 1](Lore_Keshu__Travels_Beyond_the_Village,_Part_1.md)* |
+
+[Keshu](Lore_Keshu.md): The Rites of Maturity, Part 3 **by [Peek-Ereel](Lore_Books_by_Author.md#Peek-Ereel), Friend and Confidant to Keshu the Black Fin** *The tale of Keshu the Black Fin's third coming-of-age trial* *
+---
+Our third and final trial on the way to complete our rites of maturity was "The Trial of the Stalking [Hackwing](Lore_Hackwing.md)." In some ways, this was the most dangerous of the rites we had to participate in to earn a place in adult society. Each of us was placed in a cage with a single, huge hackwing. The predatory [bird](Lore_Bird.md) was a vicious creature, strong and confident, every bit as capable a hunter as any of us—and it had the ability to fly. We had to allow the giant bird to attack us and draw blood. If we knew what we were doing, we let it strike so as to bloody us but not incapacitate us. Then the hackwing was released. Our goal: catch and kill the hackwing that marked us before it could do the same to us.
+
+Vos-Huruk and Xocin each took a beak strike to the leg. Both wounds were superficial, drawing blood but not ripping muscle or breaking bone. Tee-Wan allowed the hackwing to pierce his left arm, cutting a long but shallow line from his elbow to his shoulder. Keshu miscalculated a leap back and allowed her bird to cut her across the temple, just above her right eye. But I failed this part of the trial completely. I let the hackwing drive its sharp beak directly into my chest. The healers said it barely missed my heart. Even so, I was injured too badly to continue, and I would have to wait for another season to complete my rites of maturity.
+
+Keshu wanted to check on me, make sure I was going to be all right. The raj-nassa wouldn't hear of it, however, and ordered her to continue with her trial—until either the Black Fin or the hackwing was dead. So with a final glance to make sure the healer was assisting me, Keshu wiped blood out of her eyes and ran into the wilderness. As was traditional, she had no weapon or armor. Just her body and her wits. It was time for the hunter to survive the hunt.
+
+Have you ever been stalked by a hungry hackwing? The experience can be disconcerting and more than a little frightening. Often, you only hear the beating of wings and the rush of air overheard. Sometimes you notice a shadow pass by. Rarely, you catch a brief glimpse of a wing or a talon. And, if you show the slightest weakness, the hackwing dives in and attempts to wound you. Then it simply waits and follows until you collapse from loss of blood. In the case of the rite, we were already bloodied by the hunting birds. They were going to come after us—one way or another. The trick was going to be in anticipating the attack and countering it with an attack of our own.
+
+(I keep saying "our," but realize I was effectively out of the test. I was injured and weak and barely conscious for most of the remaining portion of the trial, only learning what happened later, after I was healed and the rites were concluded for the season.)
+
+Keshu led her hackwing into a portion of the marsh where open sky was at a premium. She wanted to use the tree trunks and leaf canopy to her advantage, cutting off all but the most direct paths between the hackwing and her present location. She moved deeper into the trees, flattening out the approach so that when the hackwing finally attacked, it would have to come for her not from above but from a horizontal direction at more or less ground level.
+
+As Keshu waited for her predator and her prey, she broke a sturdy branch from one of the trees at a steep angle, creating a makeshift spear with a ragged yet pointed edge. She braced the spear and her back against the tree trunk behind her and positioned the point so she could raise it quickly when the hackwing appeared. She didn't have to wait long. Thinking that its prey had finally succumbed to blood loss and stopped to die within the cluster of trees, the hackwing swooped down and flew toward Keshu along the exact path she had planned. At the very last moment, Keshu angled the spear up and let the hackwing's speed and trajectory do all the work.
+
+The hunt was over. Keshu was victorious. She had completed her rites of maturity and was ready to take her place as an adult member of the community. And the first thing she did was rush back to make sure I was still alive.

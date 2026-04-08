@@ -1,0 +1,19 @@
+# Mistrunner Clan
+
+[![](https://images.uesp.net/thumb/a/a4/ON-npc-Anafira.jpg/200px-ON-npc-Anafira.jpg)](https://en.uesp.net/wiki/File:ON-npc-Anafira.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Anafira.jpg) A member of the Mistrunner Clan ca. [2E 582](Lore_Second_Era.md#2E_582) Mistrunner Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md). Members of the clan valued nature and considered stone dwellings as not fit for the ways of the Reachfolk. Members of the clan claimed that living in the stone houses of Markarth changes the way people perceive things.<sup>[[1]](#cite_note-Anafira-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/2/24/ON-place-Markarth_05.jpg/200px-ON-place-Markarth_05.jpg)](https://en.uesp.net/wiki/File:ON-place-Markarth_05.jpg) [](https://en.uesp.net/wiki/File:ON-place-Markarth_05.jpg) Markarth decorated with green pergolas. Before their relocation to Markarth, the Mistrunners inhabited a forest within the wild perimeters of the Reach.<sup>[[1]](#cite_note-Anafira-1)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[2]](#cite_note-Medone-2)</sup><sup>[[3]](#cite_note-CVR-3)</sup> The Mistrunner Clan or at least a part of its members was among the clans that answered the call and moved to the City of Stone. It was however a reluctant decision.<sup>[[4]](#cite_note-Laeryll-4)</sup><sup>[[1]](#cite_note-Anafira-1)</sup>
+
+In the same year, one of the members of the Mistrunner Clan, Anafira, joined forces with [Z'en](Lore_Z%27en.md) worshiping [Bosmer](Lore_Bosmer.md) Laeryll in an effort to bring more nature to the City of Markarth. According to them most of the greenery found within the city walls came from their efforts. Laeryll expressed the belief that softening the dead stone of the city walls with the bounty of nature could help Reachfolk clans with achieving harmony with each other, but Anafira of Mistwalker Clan saw this topic more critically.<sup>[[4]](#cite_note-Laeryll-4)</sup><sup>[[1]](#cite_note-Anafira-1)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Mistrunner_Clan) [](https://en.uesp.net/wiki/Online:Markarth_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Anafira_1-0)***</sup><sup>***[b](#cite_ref-Anafira_1-1)***</sup><sup>***[c](#cite_ref-Anafira_1-2)***</sup><sup>***[d](#cite_ref-Anafira_1-3)***</sup> [Anafira](https://en.uesp.net/wiki/Online:Anafira)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-Medone_2-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+3. [^](#cite_ref-CVR_3-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. ^ <sup>***[a](#cite_ref-Laeryll_4-0)***</sup><sup>***[b](#cite_ref-Laeryll_4-1)***</sup> [Laeryll](https://en.uesp.net/wiki/Online:Laeryll)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

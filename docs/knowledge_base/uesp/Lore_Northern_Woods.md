@@ -1,0 +1,23 @@
+# Northern Woods
+
+| Northern Woods | |
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Valenwood](Lore_Valenwood.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Northern_Woods) |
+
+[![](https://images.uesp.net/thumb/3/38/ON-map-Northern_Woods.jpg/200px-ON-map-Northern_Woods.jpg)](https://en.uesp.net/wiki/File:ON-map-Northern_Woods.jpg) [](https://en.uesp.net/wiki/File:ON-map-Northern_Woods.jpg) Map of Northern Woods circa [2E 582](Lore_Second_Era.md#2E_582) [![](https://images.uesp.net/thumb/3/31/ON-place-Western_Reaper%27s_March.jpg/200px-ON-place-Western_Reaper%27s_March.jpg)](https://en.uesp.net/wiki/File:ON-place-Western_Reaper%27s_March.jpg) [](https://en.uesp.net/wiki/File:ON-place-Western_Reaper%27s_March.jpg) The Northern Woods The **Northern Woods**, also known as the **South Weald** or **Arenthia Vale**,<sup>[[1]](#cite_note-ON-1)</sup> is a forested area in northwestern [Reaper's March](Lore_Reaper%27s_March.md), in the borderlands between [Valenwood](Lore_Valenwood.md), [Cyrodiil](Lore_Cyrodiil.md), and [Elsweyr](Lore_Elsweyr.md). The Woods are bounded by the [Strid River](Lore_Strid_River.md) in the north, while the [Crescent River](Lore_Crescent_River.md) flows along the eastern edge before merging with the Strid near [Arenthia](Lore_Arenthia.md). The Northern Woods eventually give way to the [Jodewood](Lore_Jodewood.md) in the south. To the east, across the Crescent, lies the region of [Dawnmead](Lore_Dawnmead.md).<sup>[[2]](#cite_note-ESO-2)</sup>
+
+## History
+Like the rest of Reaper's March, the Northern Woods have often been the site of border clashes between various powers. The history of the region is also inextricably tied to that of its largest settlement, the city of [Arenthia](Lore_Arenthia.md).
+
+The [Bosmer](Lore_Bosmer.md) inhabited the Northern Woods in the [Merethic Era](Lore_Merethic_Era.md), and established a settlement at what is now Arenthia.<sup>[[3]](#cite_note-3)</sup> The [Camoran Dynasty](Lore_Camoran_Dynasty.md) of [Valenwood](Lore_Valenwood.md) ruled the Woods from the start of the [First Era](Lore_First_Era.md) to the [fifth century](Lore_First_Era.md#Fifth_Century), when [Darloc Brae](Lore_Darloc_Brae.md) of [Anequina](Lore_Anequina.md) conquered the region. Later in the First Era, the borderlands were the site of many battles between Valenwood and [Cyrodiil](Lore_Cyrodiil.md). The [Second Empire](Lore_Second_Empire.md) ultimately prevailed in the 28th century, conquering all of Valenwood and governing the Woods for over 600 years, until the Empire's collapse in [2E](Lore_Second_Era.md) 430. During the ensuing [Interregnum](Lore_Interregnum.md), the Woods were divided between local and foreign rulers. The Camorans continued to claim the area<sup>[[4]](#cite_note-PGE3V-4)</sup> as the province of "Arenthia Vale".<sup>[[1]](#cite_note-ON-1)</sup> The province passed to the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md#First_Aldmeri_Dominion) in 2E 580. Dominion rule was tenuous, and achieved via Bosmer and [Khajiit](Lore_Khajiit.md) proxies.<sup>[[2]](#cite_note-ESO-2)</sup> This state of affairs persisted until the Dominion's dissolution, except for a brief period of [Colovian](Lore_Colovia.md) occupation (as the "South Weald") under Lavinia Axius.<sup>[[1]](#cite_note-ON-1)</sup>
+
+[A second iteration of the Aldmeri Dominion](Lore_Aldmeri_Dominion.md#Second_Aldmeri_Dominion) ruled Valenwood from 2E 830 to 2E 896, although the extent of their influence over the Northern Woods is unknown. [Tiber Septim](Lore_Tiber_Septim.md)'s activation of [Numidium](Lore_Numidium.md) cemented [Imperial](Lore_Third_Empire.md) control until the [Fourth Era](Lore_Fourth_Era.md), when Valenwood was yet again seized by [a third Aldmeri Dominion](Lore_Aldmeri_Dominion.md#Third_Aldmeri_Dominion).
+
+## References
+1. ^ <sup>***[a](#cite_ref-ON_1-0)***</sup><sup>***[b](#cite_ref-ON_1-1)***</sup><sup>***[c](#cite_ref-ON_1-2)***</sup> [*Yours for the Taking!*](Lore_Yours_for_the_Taking!.md) — [Catonius Libo](Lore_Books_by_Author.md#Catonius_Libo), Aide-de-Camp to General Lavinia Axius
+2. ^ <sup>***[a](#cite_ref-ESO_2-0)***</sup><sup>***[b](#cite_ref-ESO_2-1)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) Text in Arena
+4. [^](#cite_ref-PGE3V_4-0) [*Pocket Guide to the Empire, 3rd Edition: The Wilds Remain: Valenwood*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_3rd_Edition_Valenwood) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)

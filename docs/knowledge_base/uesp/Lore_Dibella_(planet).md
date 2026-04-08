@@ -1,0 +1,11 @@
+# Dibella (planet)
+
+[![](https://images.uesp.net/thumb/9/98/OB-interior-Orrery_%28labeled%29.jpg/200px-OB-interior-Orrery_%28labeled%29.jpg)](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) [](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg) The names of the heavenly bodies around [Nirn](Lore_Nirn.md) The planet Dibella is one of the planets found in the skies of [Mundus](Lore_Mundus.md).<sup>[[UOL 1]](#cite_note-Cosmo-1)</sup> Dibella is [Mara](Lore_Mara_(planet).md)'s satellite and is orbiting around it. Mara itself is the satellite of [Zenithar](Lore_Zenithar_(planet).md).<sup>[[1]](#cite_note-OBOrrery-2)</sup> As with all astral bodies seen in the skies above [Nirn](Lore_Nirn.md) and their corresponding deities, the planet Dibella is believed to be the plane of the goddess Dibella as well as the goddess herself, as seen from the mortal plane. It is said to actually be a different [plane of existence](Lore_Planes_of_Existence.md) in its own right, infinite in size and mass, with its appearance as a sphere being only a visual phenomenon caused by mortal mental stress. According to some accounts, the mortal realms were formed by the Aedra out of [Creatia](Lore_Chaotic_Creatia.md).<sup>[[2]](#cite_note-Co S-3)</sup><sup>[[UOL 1]](#cite_note-Cosmo-1)</sup>
+
+## References
+1. [^](#cite_ref-OBOrrery_2-0) [The Orrery in Cyrodiil – *The Elder Scrolls IV: Oblivion*](https://en.uesp.net/wiki/File:OB-interior-Orrery_(labeled).jpg)
+2. [^](#cite_ref-Co S_3-0) [*Charge of Shor*](Lore_Charge_of_Shor.md) — [Frogirde](Lore_Books_by_Author.md#Frogirde)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. ^ <sup>***[a](#cite_ref-Cosmo_1-0)***</sup><sup>***[b](#cite_ref-Cosmo_1-1)***</sup> [*Cosmology*](https://en.uesp.net/wiki/General:Cosmology) — [The Temple Zero Society](Lore_Temple_Zero_Society.md)

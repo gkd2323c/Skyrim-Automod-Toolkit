@@ -1,0 +1,3 @@
+# DarkwaterCrossingVernersHouseFaction
+
+Redirects to [DarkwaterCrossingVernersHouseFaction](Skyrim_Factions_D.md#DarkwaterCrossingVernersHouseFaction).

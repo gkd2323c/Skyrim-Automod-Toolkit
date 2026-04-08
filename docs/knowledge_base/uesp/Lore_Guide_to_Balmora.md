@@ -1,0 +1,18 @@
+# Guide to Balmora
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Guide_to_Balmora) |
+
+Guide to Balmora *An overview of Balmora's people and notable places*
+---
+[![MW-book-Balmora Region.jpg](https://images.uesp.net/7/79/MW-book-Balmora_Region.jpg)](https://en.uesp.net/wiki/File:MW-book-Balmora_Region.jpg) [Balmora](Lore_Balmora.md) is the district seat of [House Hlaalu](Lore_House_Hlaalu.md), and the largest settlement on [Vvardenfell](Lore_Vvardenfell.md) after [Vivec](Lore_Vivec_(city).md) City. Balmora's four districts are High Town, the Commercial District, Labor Town, and [Fort Moonmoth](Lore_Moonmoth_Legion_Fort.md). High Town, on the hill to the west, has the [Tribunal Temple](Lore_Tribunal_Temple.md), Hlaalu Council Hall, rich manors, better shops, and the [Morag Tong](Lore_Morag_Tong.md) guildhall. The Commercial District, just west of the river, is centered on the large plaza north of South Gate, with the [strider](Lore_Silt_Strider.md) port along the south wall, east of South Gate. The [Fighters Guild](Lore_Fighters_Guild.md) and [Mages Guild](Lore_Mages_Guild.md), and most of Balmora's shops and inns, are located along the streets of the Commercial District. Labor Town, east of the river, where the commoners and poor live, has several modest cornerclubs and a few merchants. Fort Moonmoth, a long walk southeast of town, houses the [Legion](Lore_Imperial_Legion.md) garrison and the Imperial cult.
+
+#### Services
+House Hlaalu services are available at Hlaalu Council Manor in High Town. Temple faithful seek solace and services at the Balmora Temple in the southeast. Outlanders must travel outside the town walls, through South Gate and east along well-marked roads to Fort Moonmoth for Imperial Legion and the Imperial cult services. The guildhalls of the Fighters Guild and Mages Guild are on the street north from the plaza in the Commercial District. Morag Tong services are available at their guildhall in the extreme northwest of High Town. Better shops are in High Town on the hill, with numerous merchants in the Commercial District, west of the river, and a few traders in Labor Town, east of the river.
+
+#### Notable Figures
+None of the Hlaalu counselors live in Balmora. Nileno Dorvayn at the Council Hall is the ranking Hlaalu local. At the Fighters Guild, Eydis Fire-Eye is the steward. Ranis Athrys is the Mages Guild steward. Ethasi Rilvayn is the Morag Tong steward. Feldrelo Sadri is the ranking cleric of the Balmora Tribunal Temple. The colorful 'Sugar Lips' Habasi, a freelance facilitator of no fixed address, is often rumored to be the local boss of the [Thieves Guild](Lore_Thieves_Guild.md).
+
+#### Transportation
+A good road leads south to [Pelagiad](Lore_Pelagiad.md), [Seyda Neen](Lore_Seyda_Neen.md), [Ebonheart](Lore_Castle_Ebonheart.md), and Vivec. A rugged wilderness track leads southwest along the [Odai River](Lore_Odai_River.md) to the fishing village of [Hla Oad](Lore_Hla_Oad.md). Improved roads head north to [Caldera](Lore_Caldera.md) and [Ald'ruhn](Lore_Ald%27ruhn.md). The silt strider port is on the west side of the river near South Gate. Silt strider service goes to Ald'ruhn, [Suran](Lore_Suran.md), Ald'ruhn, and Seyda Neen. Guild guides at the Mages Guild can teleport you to Ald'ruhn, Vivec, Caldera, and [Sadrith Mora](Lore_Sadrith_Mora.md) for a fee. Hla Oad is southwest on the coast. An unimproved trail leads northeast up the ravines of [Foyada Mamaea](Lore_Foyada_Mamaea.md) to [Ghostgate](Lore_Ghostgate.md); the path is easy to follow, but dangerous beasts threaten pilgrims who travel this route to Ghostgate shrine.

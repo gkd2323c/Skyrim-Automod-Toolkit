@@ -1,0 +1,12 @@
+# Darkwater Crossing People
+
+| \| [Goldenrock Mine Camp](Skyrim_Goldenrock_Mine.md) \| <br> \| --- \| <br> \| **[Derkeethus](Skyrim_Derkeethus.md)** [](Skyrim_Followers.md) * <br> **[Hrefna](Skyrim_Hrefna.md)** <br> **[Sondas Drenim](https://en.uesp.net/wiki/Skyrim:Sondas_Drenim)** <br> **[Tormir](https://en.uesp.net/wiki/Skyrim:Tormir)** \| | [Goldenrock Mine Camp](Skyrim_Goldenrock_Mine.md) | **[Derkeethus](Skyrim_Derkeethus.md)** [](Skyrim_Followers.md) * <br> **[Hrefna](Skyrim_Hrefna.md)** <br> **[Sondas Drenim](https://en.uesp.net/wiki/Skyrim:Sondas_Drenim)** <br> **[Tormir](https://en.uesp.net/wiki/Skyrim:Tormir)** | \| [Verner and Annekke's House](https://en.uesp.net/wiki/Skyrim:Verner_and_Annekke%27s_House) \| <br> \| --- \| <br> \| **[Annekke Crag-Jumper](Skyrim_Annekke_Crag-Jumper.md)** [](Skyrim_Followers.md) <br> **[Verner Rock-Chucker](https://en.uesp.net/wiki/Skyrim:Verner_Rock-Chucker)** \| <br> \| [Guards](Skyrim_Guards.md) \| <br> \| **[Stormcloak Guards](https://en.uesp.net/wiki/Skyrim:Stormcloak_Guard)** \| | [Verner and Annekke's House](https://en.uesp.net/wiki/Skyrim:Verner_and_Annekke%27s_House) | **[Annekke Crag-Jumper](Skyrim_Annekke_Crag-Jumper.md)** [](Skyrim_Followers.md) <br> **[Verner Rock-Chucker](https://en.uesp.net/wiki/Skyrim:Verner_Rock-Chucker)** | [Guards](Skyrim_Guards.md) | **[Stormcloak Guards](https://en.uesp.net/wiki/Skyrim:Stormcloak_Guard)** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Goldenrock Mine Camp](Skyrim_Goldenrock_Mine.md) | | | | | | | |
+| **[Derkeethus](Skyrim_Derkeethus.md)** [](Skyrim_Followers.md) * <br> **[Hrefna](Skyrim_Hrefna.md)** <br> **[Sondas Drenim](https://en.uesp.net/wiki/Skyrim:Sondas_Drenim)** <br> **[Tormir](https://en.uesp.net/wiki/Skyrim:Tormir)** | | | | | | | |
+| [Verner and Annekke's House](https://en.uesp.net/wiki/Skyrim:Verner_and_Annekke%27s_House) | | | | | | | |
+| **[Annekke Crag-Jumper](Skyrim_Annekke_Crag-Jumper.md)** [](Skyrim_Followers.md) <br> **[Verner Rock-Chucker](https://en.uesp.net/wiki/Skyrim:Verner_Rock-Chucker)** | | | | | | | |
+| [Guards](Skyrim_Guards.md) | | | | | | | |
+| **[Stormcloak Guards](https://en.uesp.net/wiki/Skyrim:Stormcloak_Guard)** | | | | | | | |
+
+* This person only appears after completing [Extracting an Argonian](Skyrim_Extracting_an_Argonian.md).

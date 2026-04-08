@@ -1,0 +1,14 @@
+# Timberclaw Clan
+
+[![](https://images.uesp.net/thumb/3/3f/ON-crown_store-Druadach_Mountain_Dog.jpg/200px-ON-crown_store-Druadach_Mountain_Dog.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Druadach_Mountain_Dog.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Druadach_Mountain_Dog.jpg) Druadach Mountain Dog Timberclaw Clan was one of numerous [clans](Lore_Reachman_Clans.md) of [Reachfolk](Lore_Reachfolk.md) that lived in the city of [Markarth](Lore_Markarth.md) in [the Reach](Lore_The_Reach.md) during the [Second Era](Lore_Second_Era.md).<sup>[[1]](#cite_note-Linwuuruben-1)</sup> They were known to favor and breed [Druadach Mountain Dogs](Lore_Dog.md#Druadach_Mountain_Dog). Those loyal animals were bred to withstand the harsh winters in the Druadach Mountains and showed deep tenderness to their clan or family members while protecting their territory with ferocity.<sup>[[2]](#cite_note-DMD-2)</sup>
+
+## History
+In [2E 582](Lore_Second_Era.md#2E_582), the [Gray Host](Lore_Gray_Host.md) descended onto the Reach to search for an ancient artifact of great power. Many of the Reachfolk clans stayed in [Markarth](Lore_Markarth.md) at the behest of Ard [Caddach](Lore_Caddach.md).<sup>[[3]](#cite_note-Medone-3)</sup><sup>[[4]](#cite_note-CVR-4)</sup> The Timberclaw Clan were among the clans that inhabited the City of Stone.<sup>[[1]](#cite_note-Linwuuruben-1)</sup>
+
+At some point, they entered the conflict with the [Starsinger Clan](Lore_Starsinger_Clan.md), but as of [2E 582](Lore_Second_Era.md#2E_582) they made full peace. However, their footing with the [Skyweaver Clan](Lore_Skyweaver_Clan.md) became more uncertain. Those conflicts and alliances were recorded by one of the city administrators.<sup>[[1]](#cite_note-Linwuuruben-1)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Linwuuruben_1-0)***</sup><sup>***[b](#cite_ref-Linwuuruben_1-1)***</sup><sup>***[c](#cite_ref-Linwuuruben_1-2)***</sup> [Linwuuruben](https://en.uesp.net/wiki/Online:Linwuuruben)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+2. [^](#cite_ref-DMD_2-0) [Druadach Mountain Dog](https://en.uesp.net/wiki/Online:Druadach_Mountain_Dog) description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Medone_3-0) [Medone](https://en.uesp.net/wiki/Online:Medone)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*
+4. [^](#cite_ref-CVR_4-0) [Count Verandis Ravenwatch](https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch)'s dialogue during [The Dark Heart](https://en.uesp.net/wiki/Online:The_Dark_Heart) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Markarth](https://en.uesp.net/wiki/Online:Markarth_(DLC))*

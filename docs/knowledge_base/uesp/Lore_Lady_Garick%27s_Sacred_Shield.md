@@ -1,0 +1,13 @@
+# Lady Garick's Sacred Shield
+
+[![](https://images.uesp.net/thumb/3/3b/ON-item-Lady_Garick%27s_Sacred_Shield.png/200px-ON-item-Lady_Garick%27s_Sacred_Shield.png)](https://en.uesp.net/wiki/File:ON-item-Lady_Garick%27s_Sacred_Shield.png) [](https://en.uesp.net/wiki/File:ON-item-Lady_Garick%27s_Sacred_Shield.png) Lady Garick's Sacred Shield [Lady Joslin Garick](Lore_Joslin_Garick.md) was a premier [Breton](Lore_Breton.md) captain for the [All Flags Navy](Lore_All_Flags_Navy.md). Aside from her exploits, she was known for what she referred to as her "Sacred Shield". She claimed her eponymous ward was blessed by a saint of [Arkay](Lore_Arkay.md), though long after her passing, legends would paint it as Arkay himself that endowed his power into it. The shield was said to preserve the wielder's life, in that no injury would befall them. The legends seemed to have some merit, for her crew would always return safely. However, the one instance she left her shield behind for safe keeping was her last voyage, as she and her crew met their demise during the All Flags Navy's assault on [Thras](Lore_Thras.md).
+
+Lady Garick's legacy lived on through her Sacred Shield, which was tasked to be guarded by the Order of the Sacred Shield, a knightly order based on [High Isle](Lore_High_Isle.md). Only those that could pass the Trials of Worth could claim the shield for themselves. As time went on and no one could succeed, challengers stopped coming as they thought the task to be impossible. Eventually, the castle that housed the shield became ruins and served as a grave to Joslin's lover, Cynric Ginise, who refused to leave his post even during the afterlife. He was released from his post after [an adventurer](Lore_Vestige.md) claimed the shield for themselves circa [2E 582](Lore_Second_Era.md#2E_582), and defeated a necromancer that thought to circumvent the Trials of Worth.<sup>[[1]](#cite_note-1)</sup><sup>[[2]](#cite_note-2)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:Lady_Garick%27s_Sacred_Shield).
+- [Eleidon's Ward](Lore_Eleidon%27s_Ward.md), another Breton shield artifact.
+
+## References
+1. [^](#cite_ref-1) [Cynric Ginise](https://en.uesp.net/wiki/Online:Cynric_Ginise)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. [^](#cite_ref-2) [Amunara](https://en.uesp.net/wiki/Online:Amunara)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*

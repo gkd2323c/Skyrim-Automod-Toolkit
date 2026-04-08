@@ -1,0 +1,55 @@
+# Watcher
+
+[![](https://images.uesp.net/thumb/6/6b/ON-creature-Dread_Watcher.jpg/200px-ON-creature-Dread_Watcher.jpg)](https://en.uesp.net/wiki/File:ON-creature-Dread_Watcher.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Dread_Watcher.jpg) A Coldharbour Watcher (ESO) Watchers (also called *Doom-Truths*)<sup>[[1]](#cite_note-KCAC-1)</sup> are flying tentacled [Daedra](Lore_Daedra.md) with a large eye in the center of their body.<sup>[[2]](#cite_note-2)</sup> Watchers are quite nimble, and can shoot beams of energy from their large eye.<sup>[[3]](#cite_note-ESOBeh-3)</sup><sup>[[4]](#cite_note-4)</sup> They may be the most intelligent of the Daedra, and are known to have hierarchical ranks.<sup>[[UOL 1]](#cite_note-5)</sup> They are knowledge gatherers and minions found in the service of [Hermaeus Mora](Lore_Hermaeus_Mora.md), modeled after the Prince's appearance. He often employs them as overseers and guardians, with them tending to his important concerns.<sup>[[5]](#cite_note-Do A-6)</sup> However, they are known to serve other [Daedric Princes](Lore_Daedric_Princes.md), such as [Molag Bal](Lore_Molag_Bal.md),<sup>[[6]](#cite_note-ESOYgg-7)</sup> [Vaermina](Lore_Vaermina.md),<sup>[[7]](#cite_note-ESOVaer-8)</sup> [Mephala](Lore_Mephala.md),<sup>[[8]](#cite_note-ESOZili-9)</sup> and [Sheogorath](Lore_Sheogorath.md).<sup>[[9]](#cite_note-10)</sup> Locking eyes with a Watcher is dangerous; a mortal's soul can be eaten away if one stares too long into their large central eye.<sup>[[1]](#cite_note-KCAC-1)</sup> Some Watchers have a necrotic gaze, causing the skin on a mortal's face to tear away if they stare too long.<sup>[[10]](#cite_note-IPDR-11)</sup> They are able separate the lies from the truth, which comes in handy to Mephala, adding to her powers of deception.<sup>[[11]](#cite_note-Keshargo-12)</sup>
+
+[![](https://images.uesp.net/thumb/6/69/ON-creature-Cres.jpg/200px-ON-creature-Cres.jpg)](https://en.uesp.net/wiki/File:ON-creature-Cres.jpg) [](https://en.uesp.net/wiki/File:ON-creature-Cres.jpg) A green Watchling (ESO) The term **Watchling** refers to watchers that are far smaller in size than the average watcher. Some of them consider the term an insulting diminutive. They apparently have a name for themselves, but it is not as commonly known.<sup>[[12]](#cite_note-ONScruut-13)</sup> Another term used to describle small watchers is **Pocket Watcher**. These are occasionally kept as pets or assistants by some [warlocks](Lore_Warlocks.md).<sup>[[13]](#cite_note-Pocket Watcher-14)</sup>
+
+Watchlings or Pocket Watchers are no bigger than a human's fist and are not the offspring of Watchers. They are described as runts of their kind and curiosities as opposed to terrors. It is unknown whether they keep their form forever or eventually transform into the larger versions.<sup>[[14]](#cite_note-FAFOTS-15)</sup> Hermaeus Mora frequently employs Watchlings as messengers and recorders, tasking them with obscure clerical duties in the hidden bureaucracy that quietly administers [Apocrypha](Lore_Apocrypha.md).<sup>[[5]](#cite_note-Do A-6)</sup>
+
+Most watchers, particularly those in service to Mora,<sup>[[15]](#cite_note-TFG-16)</sup> are varying shades of green with orange or cloudy eyes.<sup>[[16]](#cite_note-ESOBrol-17)</sup><sup>[[17]](#cite_note-CEPW-18)</sup> The watchers that serve Molag Bal are typically grey with blue eyes.<sup>[[6]](#cite_note-ESOYgg-7)</sup> Amaranthine Pocket Watchers are vibrantly hued white/purple watchers with purple eyes that once inhabited the ruins of Zaintiraris until an unfortunate explorer set them free. Given their color and origin, [Sheogorath](Lore_Sheogorath.md) is suspected to hold some sway over them.<sup>[[18]](#cite_note-APW-19)</sup> Powerful watchers can also be red with green eyes.<sup>[[19]](#cite_note-ESOAO-20)</sup> Dagonic Watchers serve Mehrunes Dagon and are red in appearance with yellow eyes and nerves, similar in color to lava, and shoot searing beams of lava.<sup>[[20]](#cite_note-ESODW-21)</sup> Those in service to Mephala are black with red eyes and highlights.<sup>[[11]](#cite_note-Keshargo-12)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/8/8d/ON-creature-The_Ancient_One.jpg/200px-ON-creature-The_Ancient_One.jpg)](https://en.uesp.net/wiki/File:ON-creature-The_Ancient_One.jpg) A red Watcher
+- [![](https://images.uesp.net/thumb/e/e8/ON-creature-Lord_Brol.jpg/200px-ON-creature-Lord_Brol.jpg)](https://en.uesp.net/wiki/File:ON-creature-Lord_Brol.jpg) A green Watcher
+- [![](https://images.uesp.net/thumb/0/06/ON-pet-Amaranthine_Pocket_Watcher.jpg/200px-ON-pet-Amaranthine_Pocket_Watcher.jpg)](https://en.uesp.net/wiki/File:ON-pet-Amaranthine_Pocket_Watcher.jpg) A purple Watcher
+- [![](https://images.uesp.net/thumb/a/a1/ON-pet-Cipher%27s_Eye_Pocket_Watcher.jpg/200px-ON-pet-Cipher%27s_Eye_Pocket_Watcher.jpg)](https://en.uesp.net/wiki/File:ON-pet-Cipher%27s_Eye_Pocket_Watcher.jpg) An Apocrypha Watcher
+- [![](https://images.uesp.net/thumb/e/ef/ON-creature-Watcher_%28The_Cauldron%29.jpg/200px-ON-creature-Watcher_%28The_Cauldron%29.jpg)](https://en.uesp.net/wiki/File:ON-creature-Watcher_(The_Cauldron).jpg) A Dagonic Watcher
+- [![](https://images.uesp.net/thumb/9/90/ON-creature-Zilipif_02.jpg/200px-ON-creature-Zilipif_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Zilipif_02.jpg) A Mephalan Watcher
+- [![](https://images.uesp.net/thumb/a/ad/ON-creature-Lazonthagish.jpg/200px-ON-creature-Lazonthagish.jpg)](https://en.uesp.net/wiki/File:ON-creature-Lazonthagish.jpg) A [celestial](Lore_Celestial.md) Watcher
+- [![](https://images.uesp.net/thumb/2/20/ON-pet-Pocket_Watcher.jpg/200px-ON-pet-Pocket_Watcher.jpg)](https://en.uesp.net/wiki/File:ON-pet-Pocket_Watcher.jpg) A Pocket Watcher
+- [![](https://images.uesp.net/thumb/6/69/ON-creature-Xyn%2C_Planar_Purveyor.jpg/200px-ON-creature-Xyn%2C_Planar_Purveyor.jpg)](https://en.uesp.net/wiki/File:ON-creature-Xyn,_Planar_Purveyor.jpg) An orange Watchling
+
+## Notes
+[![](https://images.uesp.net/thumb/8/8d/AR-prerelease-Beholder.jpg/200px-AR-prerelease-Beholder.jpg)](https://en.uesp.net/wiki/File:AR-prerelease-Beholder.jpg) [](https://en.uesp.net/wiki/File:AR-prerelease-Beholder.jpg) A Beholder in *Arena* - Watchers share many similarities to [Beholders](https://www.wikipedia.org/wiki/Beholder_(Dungeons_%26_Dragons)) from *[Dungeons & Dragons](https://www.wikipedia.org/wiki/Dungeons_%26_Dragons)*, which appeared in early builds of *[Arena](https://en.uesp.net/wiki/Arena:Arena)*. They were later cut (likely due to copyright reasons), but mentions of them remained in the files.
+- Watchers' tentacles can be beset by "[void-ticks](Lore_Tick.md)."<sup>[[12]](#cite_note-ONScruut-13)</sup>
+
+## See Also
+- [Watcher Names](Lore_Daedra_Names.md#Watcher)
+- For game-specific information on Watchers, see the [ESO](https://en.uesp.net/wiki/Online:Watcher) article.
+- For game-specific information on Watchlings, see the [ESO](https://en.uesp.net/wiki/Online:Watchling) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-KCAC_1-0)***</sup><sup>***[b](#cite_ref-KCAC_1-1)***</sup> [Kyne's Challenge: A Hunter's Companion, Summerset: Watcher](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion_Characters_and_Summary#Summerset)
+2. [^](#cite_ref-2) Appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ESOBeh_3-0) [Behelir](https://en.uesp.net/wiki/Online:Behelir)'s description of Watchers during [Lost in Study](https://en.uesp.net/wiki/Online:Lost_in_Study)
+4. [^](#cite_ref-4) Watchers' [abilities](https://en.uesp.net/wiki/Online:Watcher#Skills_and_Abilities) in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-Do A_6-0)***</sup><sup>***[b](#cite_ref-Do A_6-1)***</sup> [*Denizens of Apocrypha*](Lore_Denizens_of_Apocrypha.md) — [Cipher Plautis](Lore_Books_by_Author.md#Cipher_Plautis)
+6. ^ <sup>***[a](#cite_ref-ESOYgg_7-0)***</sup><sup>***[b](#cite_ref-ESOYgg_7-1)***</sup> Appearance of [Yggmanei](https://en.uesp.net/wiki/Online:Yggmanei) and other Watchers serving Molag Bal in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ESOVaer_8-0) Appearance of [Vaermina's Watcher](https://en.uesp.net/wiki/Online:Vaermina%27s_Watcher) and [other](https://en.uesp.net/wiki/Online:Omen_of_Betrayal) [Watchers](https://en.uesp.net/wiki/Online:Omen_of_Fear) serving Vaermina in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ESOZili_9-0) Appearance of [Zilipif](https://en.uesp.net/wiki/Online:Zilipif)
+9. [^](#cite_ref-10) [Amaranthine Pocket Watcher](https://en.uesp.net/wiki/Online:Amaranthine_Pocket_Watcher) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-IPDR_11-0) [*Imperial Prison Discipline Records*](https://en.uesp.net/wiki/Lore:Imperial_Prison_Discipline_Records) — Warden Arius
+11. ^ <sup>***[a](#cite_ref-Keshargo_12-0)***</sup><sup>***[b](#cite_ref-Keshargo_12-1)***</sup> [Keshargo](https://en.uesp.net/wiki/Online:Keshargo)'s dialogue
+12. ^ <sup>***[a](#cite_ref-ONScruut_13-0)***</sup><sup>***[b](#cite_ref-ONScruut_13-1)***</sup> [Scruut](https://en.uesp.net/wiki/Online:Scruut)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-Pocket Watcher_14-0) [Pocket Watcher](https://en.uesp.net/wiki/Online:Pocket_Watcher) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-FAFOTS_15-0) [*Flora and Fauna of the Sever*](Lore_Flora_and_Fauna_of_the_Sever.md) — [Anthropus Galia](Lore_Books_by_Author.md#Anthropus_Galia), Mages Guild Researcher
+15. [^](#cite_ref-TFG_16-0) Watchers in [The Flooded Grove](https://en.uesp.net/wiki/Online:The_Flooded_Grove) quest
+16. [^](#cite_ref-ESOBrol_17-0) Appearance of [Lord Brol](https://en.uesp.net/wiki/Online:Lord_Brol) in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-CEPW_18-0) [Cipher's Eye Pocket Watcher](https://en.uesp.net/wiki/Online:Cipher%27s_Eye_Pocket_Watcher) pet in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-APW_19-0) [Amaranthine Pocket Watcher](https://en.uesp.net/wiki/Online:Amaranthine_Pocket_Watcher) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-ESOAO_20-0) Appearance of [The Ancient One](https://en.uesp.net/wiki/Online:The_Ancient_One) in [ESO](https://en.uesp.net/wiki/Online:Online)
+20. [^](#cite_ref-ESODW_21-0) Appearance of [Dagon's Witness](https://en.uesp.net/wiki/Online:Dagon%27s_Witness)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-5) [ESO Cut Content](https://en.uesp.net/wiki/Online:Cut_Content) - [Apocrypha's Gate](https://en.uesp.net/wiki/Online:Apocrypha%27s_Gate) dialogue

@@ -1,0 +1,21 @@
+# Meet the Character - Seryn
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/26057)) |
+| Publication Date: | May 17, 2017 |
+
+Meet the Character - Seryn **by [Armiger Urnsi](Lore_Books_by_Author.md#Armiger_Urnsi)** *A Temple report on Ashlander activities at Ald'ruhn*
+---
+[![ON-render-Seryn.jpg](https://images.uesp.net/thumb/5/55/ON-render-Seryn.jpg/300px-ON-render-Seryn.jpg)](https://en.uesp.net/wiki/File:ON-render-Seryn.jpg)
+- *A Narrative Report in Four Verses, Prepared for the Grand Marshal and Exalted Bard of the First Order, [Medno Oren](Lore_Medno_Oren.md), and Archcanon [Tarvus](Lore_Tarvus.md), Written by [Armiger](Lore_Buoyant_Armiger.md) Urnsi, Poet Militant and Knight-Scribe of the Seventh and Twenty-First Stanzas.*
+
+- Grand Marshal Medno, Archcanon Tarvus,
+
+- The savage [Ashlanders](Lore_Ashlanders.md) continue to gather around the great shell of the giant [Skar](Lore_Skar.md) in the area known as [Ald'ruhn](Lore_Ald%27ruhn.md), setting up camps and settling in for what appears to be a long stay. I counted four tribes in all, come to comingle and participate in whatever heathen ceremonies they engage in to bring good fortune to their clans. I was able to identify the [Ahemmusa](Lore_Ahemmusa.md), [Erabenimsun](Lore_Erabenimsun.md), [Urshilaku](Lore_Urshilaku.md), and [Zainab](Lore_Zainab.md) tribes, including their ashkhans (chiefs) and wise women (seers). One savage in particular stood out during my investigation, a member of the Urshilaku tribe named Seryn.
+
+- Seryn holds no official title that I could discern, but she commanded the respect of her tribe as well as that of the other three tribes in attendance. She moves freely from camp to camp, apparently serving as a kind of ambassador for the ashkhan of her tribe. She carries herself with a serene dignity and quiet confidence that puts those she communes with at ease. I was only able to get close enough to listen in on a few of her conversations, but what I heard demonstrated a gift for oration that would make even the [Warrior-Poet](Lore_Vivec_(god).md) proud—no blasphemy intended! Her manner and tone clearly indicated that she cared about each person she spent time with, even as she weaved into her narrative probing questions and subtle suggestions that obviously promoted the strategies and policies of her tribal leader without the perception of directives from on high. In my opinion, from what I observed, her diplomatic skills match the best [House Hlaalu](Lore_House_Hlaalu.md) has to offer.
+
+- My observations indicate some sort of familial connection between Seryn and her ashkhan. If I had to hazard a guess, I would say they are either siblings or close cousins. Ashkhan [Chodala](https://en.uesp.net/wiki/Lore:Chodala), a relatively young and extremely robust leader for his tribe, works with Seryn to improve the Ashlander way of life and to negotiate deeper connections among the tribes. This may bear further investigation, as a united Ashlander nation could pose a significant threat to the [Great Houses](Lore_Great_Houses.md), especially [House Redoran](Lore_House_Redoran.md) and its continuing efforts to expand its influence into that region. Otherwise, Seryn and Chodala demonstrate a deep affection and enduring respect for each other. Deferential to Chodala's rank and standing, she nevertheless acts as her own person, coming across as wise for her age and extremely well spoken.
+
+- While Seryn speaks softly, she also carries a hefty staff. I've seen her use it to break up arguments among the savages, defend herself against hostile exiles, and even utilize it to redirect the attention of a charging [nix-ox](Lore_Nix-Ox.md) before it could barrel over a group of Ashlander children. Some diplomats are all talk and little action, but Seryn demonstrated a surprisingly effective knack for both during my observations of the gathering tribes. I recommend that we continue to keep track of Seryn and Chodala. I believe that both will play a vital role in the next stage of Ashlander-Great House relations—no matter what form that stage happens to take. I look forward to the next task that you and Lord Vivec set before me. For the [Three](Lore_Almsivi.md)!

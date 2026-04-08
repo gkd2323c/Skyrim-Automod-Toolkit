@@ -1,0 +1,47 @@
+# Dawnbreaker
+
+[![](https://images.uesp.net/thumb/f/f1/LG-cardart-Dawnbreaker_02.jpg/200px-LG-cardart-Dawnbreaker_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Dawnbreaker_02.jpg) [](https://en.uesp.net/wiki/File:LG-cardart-Dawnbreaker_02.jpg) Dawnbreaker (Legends) Dawnbreaker is a [Daedric](Lore_Daedra.md) artifact created by the [Daedric Prince](Lore_Daedric_Princes.md) [Meridia](Lore_Meridia.md). It was forged "in a holy light that breaks upon" the Prince's foes. In appearance it is a longsword containing a distinctive light emitting crystal in its cross-guard known as the **Dawnstar Gem**.<sup>[[1]](#cite_note-ONDarien Gautier-1)</sup> It was created with the intention of "burning away corruption and false life".<sup>[[2]](#cite_note-SRMeridia-2)</sup> As such, it is particularly effective against Meridia's "foes": this primarily applies to the undead, although its powers can also be used on Daedra and [werewolves](Lore_Werewolf.md).<sup>[[3]](#cite_note-ESO-3)</sup>
+
+Dawnbreaker is known to deal magical or fire damage to those it strikes, along with additional damage to the Prince's foes, sometimes knocking them to the ground. When an undead creature is killed by the [weapon](Lore_Weapons.md), there is a chance that it will cause a fiery explosion, burning all other undead in its radius and causing them to flee. This explosion can prove dangerous if the wielder is also undead, such as a [vampire](Lore_Vampire.md).<sup>[[4]](#cite_note-SRDawnbreaker-4)</sup> Those who possess Dawnbreaker are sometimes known to do more damage with mundane weapons.<sup>[[3]](#cite_note-ESO-3)</sup> Made of an unknown material, the sword can be tempered with [ebony](Lore_Ebony.md).<sup>[[5]](#cite_note-5)</sup>
+
+## History
+During the time of the [Planemeld](Lore_Planemeld.md), the [Fighters Guild](Lore_Fighters_Guild.md) was commissioned to destroy [Dark Anchors](Lore_Dark_Anchors.md) sent to [Tamriel](Lore_Tamriel.md) by [Molag Bal](Lore_Molag_Bal.md). The highest ranking members were given the power to summon Dawnbreaker in the midst of battle to aid them in fulfilling this contract.<sup>[[3]](#cite_note-ESO-3)</sup>
+
+[![](https://images.uesp.net/thumb/3/3b/ON-quest-Lost_in_Translation_02.jpg/200px-ON-quest-Lost_in_Translation_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-Lost_in_Translation_02.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Lost_in_Translation_02.jpg) Darien Gautier using Dawnbreaker After his supposed death and reemergence in the Colored Rooms, [Darien Gautier](Lore_Darien_Gautier.md) was revealed to be the champion and the Vessel of Meridia and was given Dawnbreaker for his fight against the [Court of Bedlam](Lore_Court_of_Bedlam.md) during the cult's assault on [Summerset Isle](Lore_Summerset_Isle.md) circa [2E 582](Lore_Second_Era.md#2E_582). The sword soon fell out of his possession during their quest to reclaim the Heart of Transparent Law alongside the Psijic Order, as it was stolen by Nocturnal and altered by her power. The Goddess of Shadows bequeathed the sword to her own champion, Earl Tundilwen,<sup>[[6]](#cite_note-6)</sup> who referred to the new sword as **Duskbringer**.<sup>[[7]](#cite_note-Death Recaps-7)</sup><sup>[[8]](#cite_note-TCT-8)</sup>
+
+Tundilwen was seen wielding Duskbringer in the battle within the [Crystal Tower](Lore_Crystal_Tower.md), where she was slain by Darien Gautier and the Vestige. As the last [Light of Meridia](Lore_Light_of_Meridia.md), Darien then sacrificed himself to remove Nocturnal's corruption and restore Dawnbreaker. The Vestige was able to use the Dawnbreaker to ascend to the top of the Tower and hold back Nocturnal's forces long enough to plunge the sword into [Transparent Law](Lore_Transparent_Law.md) in order to repair and cleanse it of Nocturnal's influence and saving all reality.<sup>[[8]](#cite_note-TCT-8)</sup>
+
+Sometime after the end of the [Great War](Lore_Great_War.md), circa [4E 180](Lore_Fourth_Era.md#4E_180), the [Warrior](Lore_Hero.md) came across Dawnbreaker in their journey. The weapon is thought to have been looted from an extravagant chest.<sup>[[9]](#cite_note-9)</sup>
+
+At some point, Dawnbreaker was brought to Meridia's [temple](Lore_Kilkreath_Temple.md) at [Mount Kilkreath](Lore_Mount_Kilkreath.md) in [Skyrim](Lore_Skyrim.md). In [4E 201](Lore_Fourth_Era.md#4E_201), a [Breton](Lore_Breton.md) [necromancer](Lore_Necromancy.md) named Malkoran defiled the temple, and began trapping the souls of dead soldiers in the ongoing [Stormcloak Rebellion](Lore_Stormcloak_Rebellion.md). He used Dawnbreaker's power to fuel his profane magic, which greatly offended the Prince. In response, Meridia summoned the [Last Dragonborn](Lore_Hero.md) to Mount Kilkreath to cleanse the temple ruins and claim Dawnbreaker.<sup>[[10]](#cite_note-Skyrim-10)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/2/2a/SR-item-Dawnbreaker.jpg/200px-SR-item-Dawnbreaker.jpg)](https://en.uesp.net/wiki/File:SR-item-Dawnbreaker.jpg) Dawnbreaker (Skyrim)
+- [![](https://images.uesp.net/thumb/a/a0/ON-item-Dawnbreaker_02.jpg/200px-ON-item-Dawnbreaker_02.jpg)](https://en.uesp.net/wiki/File:ON-item-Dawnbreaker_02.jpg) Dawnbreaker (ESO)
+- [![](https://images.uesp.net/thumb/9/97/ON-item-Dawnbreaker.jpg/200px-ON-item-Dawnbreaker.jpg)](https://en.uesp.net/wiki/File:ON-item-Dawnbreaker.jpg) Dawnbreaker summoned by a member of the Fighters Guild (ESO skill)
+- [![](https://images.uesp.net/thumb/0/05/BL-artifact-Dawnbreaker.jpg/200px-BL-artifact-Dawnbreaker.jpg)](https://en.uesp.net/wiki/File:BL-artifact-Dawnbreaker.jpg) Dawnbreaker (Blades)
+- [![](https://images.uesp.net/thumb/2/2d/ON-item-Dawnbreaker_%28corrupted%29.jpg/200px-ON-item-Dawnbreaker_%28corrupted%29.jpg)](https://en.uesp.net/wiki/File:ON-item-Dawnbreaker_(corrupted).jpg) Duskbringer (ESO)
+- [![](https://images.uesp.net/thumb/6/69/LG-cardart-Mistveil_Enchanter_02.jpg/200px-LG-cardart-Mistveil_Enchanter_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Mistveil_Enchanter_02.jpg) Dawnbreaker depicted to the right in Legends
+- [![](https://images.uesp.net/thumb/5/5a/ON-quest-The_Crystal_Tower_%28Darien_Dawnbreaker%29.jpg/200px-ON-quest-The_Crystal_Tower_%28Darien_Dawnbreaker%29.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Crystal_Tower_(Darien_Dawnbreaker).jpg) Dawnbreaker being cleansed of corruption by the Vessel of Meridia (ESO)
+- [![](https://images.uesp.net/thumb/5/55/ON-item-Dawnstar.jpg/200px-ON-item-Dawnstar.jpg)](https://en.uesp.net/wiki/File:ON-item-Dawnstar.jpg) The Dawnstar Gem (ESO)
+- [![](https://images.uesp.net/thumb/c/cd/ON-crown_store-Dawnbreaker%27s_Forging_02.jpg/200px-ON-crown_store-Dawnbreaker%27s_Forging_02.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Dawnbreaker%27s_Forging_02.jpg) A music box depicting Dawnbreaker's Forging (ESO)
+
+## Notes
+- Though they have similar names, the sword has no relation to the town of [Dawnbreak](Lore_Dawnbreak.md) and the gem has no apparent relation to the city of [Dawnstar](Lore_Dawnstar.md).
+- The sword lends its name to *Dawnbreaker's Forging*, an exultant composition dedicated to its creation by Meridia.<sup>[[11]](#cite_note-11)</sup>
+
+## See Also
+- For game-specific information, see the [*Skyrim*](Skyrim_Dawnbreaker.md), [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Dawnbreaker), *[Legends](https://en.uesp.net/wiki/Legends:Dawnbreaker)* [](https://en.uesp.net/wiki/Legends:Core_Set), and [*Blades*](https://en.uesp.net/wiki/Blades:Dawnbreaker) articles.
+
+## References
+1. [^](#cite_ref-ONDarien Gautier_1-0) [The Golden Knight](https://en.uesp.net/wiki/Online:Golden_Knight#The_Tower_Sentinels)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+2. [^](#cite_ref-SRMeridia_2-0) [Meridia](Skyrim_Meridia.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-ESO_3-0)***</sup><sup>***[b](#cite_ref-ESO_3-1)***</sup><sup>***[c](#cite_ref-ESO_3-2)***</sup> [Dawnbreaker](https://en.uesp.net/wiki/Online:Dawnbreaker) ultimate ability in the [Fighters Guild](https://en.uesp.net/wiki/Online:Fighters_Guild) skill line in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-SRDawnbreaker_4-0) [Dawnbreaker](Skyrim_Dawnbreaker.md)'s effects in *[Skyrim](Skyrim_Skyrim.md)*
+5. [^](#cite_ref-5) [Dawnbreaker](Skyrim_Dawnbreaker.md)'s ability to be tempered in *[Skyrim](Skyrim_Skyrim.md)*
+6. [^](#cite_ref-6) [Lost in Translation](https://en.uesp.net/wiki/Online:Lost_in_Translation) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+7. [^](#cite_ref-Death Recaps_7-0) Name of [Earl Tundilwen](https://en.uesp.net/wiki/Online:Earl_Tundilwen)'s attacks
+8. ^ <sup>***[a](#cite_ref-TCT_8-0)***</sup><sup>***[b](#cite_ref-TCT_8-1)***</sup> [The Crystal Tower](https://en.uesp.net/wiki/Online:The_Crystal_Tower) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*
+9. [^](#cite_ref-9) [Artifact](https://en.uesp.net/wiki/Blades:Artifacts) acquisition methods in *[Blades](https://en.uesp.net/wiki/Blades:Blades)*
+10. [^](#cite_ref-Skyrim_10-0) [The Break of Dawn](https://en.uesp.net/wiki/Skyrim:The_Break_of_Dawn) quest in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-11) [Music Box, Dawnbreaker's Forging](https://en.uesp.net/wiki/Online:Music_Box,_Dawnbreaker%27s_Forging) in [ESO](https://en.uesp.net/wiki/Online:Online)

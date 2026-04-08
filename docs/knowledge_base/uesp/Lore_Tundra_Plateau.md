@@ -1,0 +1,14 @@
+# Tundra Plateau
+
+| --- | --- |
+| Type | Region |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Skyrim](Lore_Skyrim.md) |
+| Appears in | Skyrim, [ESO](https://en.uesp.net/wiki/Online:Red_Eagle_Tower) |
+
+[![](https://images.uesp.net/thumb/e/e3/SR-place-Fort_Sungard.jpg/200px-SR-place-Fort_Sungard.jpg)](https://en.uesp.net/wiki/File:SR-place-Fort_Sungard.jpg) [](https://en.uesp.net/wiki/File:SR-place-Fort_Sungard.jpg) Fort Sungard atop the Tundra Plateau ca. [4E 201](Lore_Fourth_Era.md#4E_201) [![](https://images.uesp.net/thumb/0/0c/ON-place-Red_Eagle_Tower_03.jpg/200px-ON-place-Red_Eagle_Tower_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Red_Eagle_Tower_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Red_Eagle_Tower_03.jpg) Tundra Plateau (ESO) The Tundra Plateau is a geological formation that makes up the westernmost area of [Whiterun Hold](Lore_Whiterun_Hold.md), in the province of [Skyrim](Lore_Skyrim.md). It is a series of hills that hold much of the land of the Western Plains.<sup>[[1]](#cite_note-TESVSPOGG-1)</sup> It encompasses the entire border with [the Reach](Lore_The_Reach.md) to the west and south, making up the area found beyond the slopes of the [Sundered Hills](Lore_Sundered_Hills.md), as well as a steep drop into the [River Hjaal](Lore_River_Hjaal.md) to the north, and finally, the [Skyborn Range](Lore_Skyborn_Range.md) to the northwest. [Fort Sungard](https://en.uesp.net/wiki/Lore:Fort_Sungard) is built atop the Plateau, found at the tri-hold area between The Reach, Whiterun, and [Falkreath Hold](Lore_Falkreath_Hold.md).
+
+It is largely uninhabited, only small encampments and isolated ruins are found across the region, atop peaks such as [Bleakwind Bluff](https://en.uesp.net/wiki/Lore:Bleakwind_Bluff), Serpent's Bluff, and Talking Stone Camp. The ruins in the area, both underground and at overland vantage points, are often inhabited by [Reachmen](Lore_Reachmen.md). [Red Eagle Redoubt](https://en.uesp.net/wiki/Lore:Red_Eagle_Redoubt) is perched on the precipice of the Tundra Plateau.<sup>[[1]](#cite_note-TESVSPOGG-1)</sup><sup>:516</sup> The dragon [Nahagliiv](https://en.uesp.net/wiki/Lore:Nahagliiv) was buried at a mount atop the Plateau. [Rorikstead](https://en.uesp.net/wiki/Lore:Rorikstead) is found along the eastern slopes of the Plateau, and [Broken Tower Redoubt](Lore_Broken_Tower_Redoubt.md) is found along the northern cliffs, wedged between the Plateau and Chilblain Peak to the north.
+
+## References
+1. ^ <sup>***[a](#cite_ref-TESVSPOGG_1-0)***</sup><sup>***[b](#cite_ref-TESVSPOGG_1-1)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V__Skyrim__Prima_Official_Game_Guide) — David Hodgson

@@ -1,0 +1,20 @@
+# Assassination!
+
+| --- | --- |
+| Seen In: | - [Oblivion](https://en.uesp.net/wiki/Oblivion:Assassination!) |
+
+SPECIAL EDITION!
+EMPEROR AND HEIRS ASSASSINATED! *A newspaper article on the assassination of Emperor Uriel Septim VII and his heirs*
+---
+<center>[Elder Council](Lore_Elder_Council.md) Named as Regents!</center>
+Emperor [Uriel Septim VII](Lore_Uriel_Septim_VII.md) is dead, at the age of 87, having ruled [Tamriel](Lore_Tamriel.md) for 65 years. He was killed by assassins unknown. At the same time, in separate locations, the late emperor's three sons and heirs ([Crown Prince Geldall](https://en.uesp.net/wiki/Lore:Geldall_Septim), 56; [Prince Enman](https://en.uesp.net/wiki/Lore:Enman_Septim), 55; [Prince Ebel](https://en.uesp.net/wiki/Lore:Ebel_Septim), 53] were slain by other assassins. An investigation into the identity and motives of the assassins is under way, but the Elder Council, [Imperial Guard](https://en.uesp.net/wiki/Lore:Imperial_Guard), and [Blades Guard](https://en.uesp.net/wiki/Lore:Imperial_Guard#Blades_Guard) have forbidden the publication of reports and rumors concerning the event until further notice.
+
+By ancient precedent, the Elder Council rules the empire until a new emperor is crowned. No direct heirs survive, and the council has proposed no list of candidates. Chancellor [Ocato](Lore_Ocato.md), Imperial Battlemage, speaking for the Elder Council, presented an appeal to the empire's citizens for calm, and asked that the people remember the Emperor, his sons, and the Elder Council in their prayers.
+
+Emperor Uriel's early reign was marked by peace and prosperity. The Empress [Caula Voria](https://en.uesp.net/wiki/Lore:Caula_Voria) bore him three healthy sons, was a loving companion to the Emperor, and a great favorite of the people. However, the emperor and the empire suffered terribly during the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) ([3E 389](Lore_Third_Era.md#3E_389) - [399](Lore_Third_Era.md#3E_399)], when he was held captive in [Oblivion](Lore_Oblivion.md) while the usurper [Jagar Tharn](Lore_Jagar_Tharn.md) assumed his appearance and ruled in his stead. Emperor Uriel was finally rescued and restored and the impostor defeated by the agency of the sorceress [Ria Silmane](https://en.uesp.net/wiki/Lore:Ria_Silmane) and her [shadowy protégé](Lore_Eternal_Champion.md), but the affairs of the empire were in great disorder, and Empress Caula Voria, exhausted by her ordeal, withdrew from public life.
+
+The decades following the Restoration were once again peaceful and prosperous, but increasing political tensions among the petty states of northwest Tamriel finally erupted in the Wars of the [Iliac Bays](https://en.uesp.net/wiki/Lore:Iliac_Bay), resulting in the establishment of the modern borders of [Daggerfall](Lore_Daggerfall_(kingdom).md), [Sentinel](Lore_Sentinel_(kingdom).md), [Wayrest](Lore_Wayrest_(kingdom).md), and [Orsinium](Lore_Orsinium.md), and culminating with the remarkable events associated with the [Warp in the West](Lore_Warp_in_the_West.md).
+
+The latter years of the Emperor's reign have seen a flourishing of Imperial influence in the provinces, and with the fortunate resolution of the religious wars and the [Vvardenfell](Lore_Vvardenfell.md) Crisis, and with the wise and firm guidance of King [Helseth](https://en.uesp.net/wiki/Lore:Hlaalu_Helseth) and his mother, Queen [Barenziah](https://en.uesp.net/wiki/Lore:Barenziah), an extension of high Imperial culture even into the more remote parts of [Morrowind](Lore_Morrowind.md).
+
+The Emperor's murder, and the murder of his three sons, is a terrible crime, and a great tragedy for the Empire. Battlemage Ocato assures us that all the resources of the Elder Council, the Legions, the Guard, the [Arcane University](Lore_Arcane_University.md), and the Imperial Battle College are being employed to bring the assassins to justice. But, in the meantime, the greatest tribute we citizens can offer to the memory of our beloved Emperor is to go earnestly and diligently about our daily affairs, honoring the life of the great Empire he loved so much, and served so faithfully for so long.

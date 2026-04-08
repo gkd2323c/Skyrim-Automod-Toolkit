@@ -1,0 +1,34 @@
+# Soul Sword
+
+[![](https://images.uesp.net/thumb/9/95/RG-item-Soul_Sword.png/200px-RG-item-Soul_Sword.png)](https://en.uesp.net/wiki/File:RG-item-Soul_Sword.png) [](https://en.uesp.net/wiki/File:RG-item-Soul_Sword.png) The Soul Sword The Soul Sword is a shimmering longsword imbued with the [soul](Lore_Souls.md) of [Prince A'tor](Lore_A%27tor.md) following his death in [2E 864](Lore_Second_Era.md#2E_864). Aside from being a powerful weapon, the sword can move of its own accord and allows A'tor's spirit to communicate with the wielder.<sup>[[1]](#cite_note-RG-1)</sup> Originally the royal sword of A'tor, it was enchanted with his soul during an attempt to resurrect him, and was wielded by Cyrus the Restless during the [rebellion](Lore_Battle_of_Hunding_Bay.md#Rebellion) against the Imperial forces of Amiel Richton. This unity of A'tor, Cyrus, and the sword is considered to be an occurrence of the [Hoon Ding](https://en.uesp.net/wiki/Lore:Hoon Ding).<sup>[[2]](#cite_note-Vo Fit E-2)</sup> It was thereafter put in the possession of [Iszara](Lore_Iszara.md), Queen-Regent of [Hammerfell](Lore_Hammerfell.md).<sup>[[1]](#cite_note-RG-1)</sup><sup>[[UOL 1]](#cite_note-GIKurt Kuhlmann-3)</sup>
+
+## History
+During the [Battle of Hunding Bay](Lore_Battle_of_Hunding_Bay.md) off the coast of [Stros M'Kai](Lore_Stros_M%27Kai.md), A'tor was hit with a poison arrow by the [Dunmer](Lore_Dunmer.md) assassin [Dram](Lore_Dram.md), allegedly using the [Bow of Shadows](Lore_Bow_of_Shadows.md).<sup>[[3]](#cite_note-4)</sup> Archmage [Voa](Lore_Voa.md) attempted to heal him, but instead was only able to trap his soul in a soul gem and preserve his body under a stasis field before the [dragon](Lore_Dragon.md) [Nafaalilargus](Lore_Nahfahlaar.md) killed everyone onboard the ship.
+
+A'tor's surviving supporters formed a rebel group named the [Restless League](Lore_Restless_League.md) on Stros M'Kai following the ensuing [Imperial](Lore_Third_Empire.md) occupation. The League planned to resurrect A'tor, whose body was being hidden in the temple of [Arkay](Lore_Arkay.md) in [Port Hunding](Lore_Port_Hunding.md).<sup>[[4]](#cite_note-5)</sup> [Iszara](Lore_Iszara.md), a member of the League who was close to the prince, grew frustrated with the League's lack of action and attempted to go through with the resurrection herself. She made contact with the [Sload](Lore_Sload.md) necromancer [N'Gasta](Lore_N%27Gasta.md), who promptly betrayed her, stealing the soul gem and selling Iszara's soul to [Clavicus Vile](Lore_Clavicus_Vile.md).<sup>[[1]](#cite_note-RG-1)</sup>
+
+Seeking to curry favor with the island's new ruler, Provisional Governor [Amiel Richton](Lore_Amiel_Richton.md), N'Gasta had A'tor's soul gem delivered to the palace, ironically by Iszara's brother [Cyrus](Lore_Cyrus.md). It was then placed in the palace treasure vaults, to be guarded by Nafaalilargus. Cyrus later rescued Iszara from her fate and killed the dragon to retrieve the soul gem for the rebels. With the help of a [Yokudan](Lore_Yokudan.md) witch named Saban, the League then attempted to resurrect A'tor. Instead, his soul entered the sword he was buried with, seemingly as a symbol of his intention to take up arms against the [Imperials](Lore_Imperial.md). Cyrus took up the sword and gave a speech to the disheartened rebels, inspiring them to capture the port while Cyrus went after Governor Richton.
+
+Through the sword, A'tor opened a secret entrance into the palace. Cyrus fought his way to Richton, who was attempting to escape on a [Dwemer](Lore_Dwemer.md) airship. Cyrus disarmed Richton, but was outsmarted and forced to surrender when Dram came up behind him. After dropping the sword however, Cyrus revealed that A'tor had not truly been killed, prompting the sword to slay both Richton and Dram of its own accord and allowing Cyrus to escape.
+
+Following the successful rebellion, the Soul Sword was given to Iszara. Through it, A'tor advised her to open dialogue with Emperor [Tiber Septim](Lore_Tiber_Septim.md), which led to the signing of the [First Treaty of Stros M'Kai](Lore_First_Treaty_of_Stros_M%27Kai.md). She subsequently remained on Stros M'Kai as ruler.<sup>[[1]](#cite_note-RG-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/d/de/RG-npc-A%27tor_02.jpg/200px-RG-npc-A%27tor_02.jpg)](https://en.uesp.net/wiki/File:RG-npc-A%27tor_02.jpg) The Soul Sword glowing with A'tor's spirit
+- [![](https://images.uesp.net/thumb/2/29/RG-place-Mage%27s_Guild_Future.jpg/200px-RG-place-Mage%27s_Guild_Future.jpg)](https://en.uesp.net/wiki/File:RG-place-Mage%27s_Guild_Future.jpg) Cyrus' face imposed on A'tor's body, grasping the Soul Sword
+- [![](https://images.uesp.net/thumb/c/c8/RG-scene-Sword_of_Crown_08.jpg/200px-RG-scene-Sword_of_Crown_08.jpg)](https://en.uesp.net/wiki/File:RG-scene-Sword_of_Crown_08.jpg) Cyrus wielding the Soul Sword
+- [![](https://images.uesp.net/thumb/3/38/RG-misc-Anniversary_Art_23.jpg/160px-RG-misc-Anniversary_Art_23.jpg)](https://en.uesp.net/wiki/File:RG-misc-Anniversary_Art_23.jpg) Cyrus holding the Soul Sword (bottom center)
+- [![](https://images.uesp.net/thumb/a/a1/GEN-misc-30th_Anniversary.jpg/200px-GEN-misc-30th_Anniversary.jpg)](https://en.uesp.net/wiki/File:GEN-misc-30th_Anniversary.jpg) Iszara wielding the Soul Sword (back center)
+
+## See Also
+- For game-specific information, see the [*Redguard* article](https://en.uesp.net/wiki/Redguard:Items#Soul_Sword).
+
+## References
+1. ^ <sup>***[a](#cite_ref-RG_1-0)***</sup><sup>***[b](#cite_ref-RG_1-1)***</sup><sup>***[c](#cite_ref-RG_1-2)***</sup><sup>***[d](#cite_ref-RG_1-3)***</sup> Events of *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+2. [^](#cite_ref-Vo Fit E_2-0) [*Varieties of Faith in the Empire*](Lore_Varieties_of_Faith_in_the_Empire.md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+3. [^](#cite_ref-4) [*Tamrielic Lore*](Lore_Tamrielic_Lore.md) — [Yagrum Bagarn](Lore_Books_by_Author.md#Yagrum_Bagarn)
+4. [^](#cite_ref-5) [Appearance](https://en.uesp.net/wiki/Online:Port_Hunding) in [ESO](https://en.uesp.net/wiki/Online:Online)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-GIKurt Kuhlmann_3-0) [Kurt Kuhlmann](https://en.uesp.net/wiki/General:Kurt_Kuhlmann)'s comments on [Decrypting The Elder Scrolls](https://www.gameinformer.com/b/features/archive/2010/12/26/decrypting-the-elder-scrolls.aspx) [Game Informer](https://www.wikipedia.org/wiki/Game_Informer) article

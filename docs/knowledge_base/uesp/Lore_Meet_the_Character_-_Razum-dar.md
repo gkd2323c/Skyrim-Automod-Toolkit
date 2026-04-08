@@ -1,0 +1,25 @@
+# Meet the Character - Razum-dar
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/26365)) |
+| Publication Date: | April 18, 2018 |
+
+Meet the Character - Razum-dar **by [Justiciar Rolumdel](Lore_Books_by_Author.md#Justiciar_Rolumdel)** *A Justiciar's investigation into a mysterious Khajiit*
+---
+[![ON-render-Razum-dar.jpg](https://images.uesp.net/thumb/5/50/ON-render-Razum-dar.jpg/300px-ON-render-Razum-dar.jpg)](https://en.uesp.net/wiki/File:ON-render-Razum-dar.jpg)
+- *A Report by Justiciar Rolumdel of the Divine Prosecution*
+
+- At the request of Kinlord Milunthel, I have begun an investigation into one of the recent arrivals to [Summerset](Lore_Summerset_Isle.md), a [Khajiit](Lore_Khajiit.md) who answers to the name of [Razum-dar](Lore_Razum-dar.md). The suffix has a number of meanings in the Khajiit tongue, including "clever," "capable," and "thief." I have yet to decide which description best fits this arrogant and swaggering "Raz."
+
+- For some reason I plan to uncover, the Kinlord seems uncomfortable with the newcomer's presence, even somewhat fearful. On the surface, I saw little reason for this attitude, but once I began to dig, certain truths began to emerge. Razum-dar claims to be a humble traveler. Or a merchant's agent scouting new trade opportunities. Or a courier from [Auridon](Lore_Auridon.md). Or any of another half-dozen different stories he tells when asked about his background and business in Summerset. He arrived in [Shimmerene](Lore_Shimmerene.md) by ship from Auridon and took up residence in the Anchors Aweigh inn. He spends his days wandering the city and talking to everyone and anyone he can get to stand still long enough to interrogate. And make no mistake, he is interrogating them. He just does it in such a way that the average person never notices. From what I was able to observe, I suspect this Razum-dar could talk the wings off a [gryphon](Lore_Gryphon.md)! If only more of my bailiffs had such skill.
+
+- The Khajiit appears unassuming and self-effacing during one encounter with a city guard, then brash and cocksure a moment later while dealing with a merchant hoping to take advantage of an unsophisticated newcomer. To be fair, I was impressed at how he turned the merchant's aggressive sales pitch into a deal that allowed him to acquire the goods he desired at a substantial discount. He disappears into crowds with practiced ease, which I learned the hard way as I followed him toward the monastery before he slipped away. I've tracked hardened criminals more easily than I was able to shadow this puzzling Razum-dar.
+
+- Silence and stealth are only two of this enigmatic Khajiit's surprising talents. When he wants to make his presence known, he can command an audience with humor and a smile. I watched with growing unease as a crowd of thugs surrounded him on the docks, quite certain I would have to reveal myself and intervene on Razum-dar's behalf. But before things turned ugly and violent, Raz was joking with the crowd and turning their anger into a fond interaction that had everyone laughing. It was a brilliant performance on the Khajiit's part and it impressed me more than I care to admit.
+
+- So what do all these seemingly contradictory talents tell us about the inscrutable Razum-dar? I have two theories, both of which on the surface seem totally outlandish, but allow me to press on. The first concerns something I know quite a bit about—illegal activities. I suspect that Razum-dar might be a criminal mastermind from the mainland who is using the Queen's decree to expand his operation into Summerset. If this turns out to be the case, even the Divine Prosecution would be hard pressed to rein in this elusive crime lord. The second seems equally bizarre as I write these words. Perhaps Razum-dar is one of the fabled warrior guards of the [Mane](Lore_Mane.md), the leader of [Elsweyr](Lore_Elsweyr.md). Why a servant of the Mane would travel to Summerset and keep his identity a secret has me stymied, but the various skills displayed by the Khajiit make this theory mostly sound. Why either of these revelations would overly distress the Kinlord, however, I have no idea.
+
+- One final theory has just occurred to me. It struck me when one of my bailiffs brought me documents that identified a Khajiit matching Razum-dar's description who had visited Summerset in the past—before the Queen's recent decree. This particular Khajiit was spotted in and around the Royal Palace in [Alinor](Lore_Alinor_(city).md) during Queen [Ayrenn](Lore_Ayrenn.md)'s last visit to the island, sometimes even at the Queen's side. If that was indeed this Razum-dar, then perhaps he's one of Her Majesty's legendary [Eyes of the Queen](Lore_Eyes_of_the_Queen.md). In that case, that would make Razum-dar a spy of extreme talent and cunning. If that is the cause of the Kinlord's distress, then perhaps my next investigation should concern him and not this complicated and mysterious newcomer.
+
+---

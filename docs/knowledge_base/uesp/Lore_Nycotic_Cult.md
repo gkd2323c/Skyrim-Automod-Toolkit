@@ -1,0 +1,38 @@
+# Nycotic Cult
+
+[![](https://images.uesp.net/thumb/7/79/ON-npc-Curate_Erydno.jpg/200px-ON-npc-Curate_Erydno.jpg)](https://en.uesp.net/wiki/File:ON-npc-Curate_Erydno.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Curate_Erydno.jpg) Nycotic Cult Curate The Nycotic Cult was an organization of [daedra](Lore_Daedra.md) worshippers that were active during the middle of the [Second Era](Lore_Second_Era.md) and had activities to the west of the region of [Vvardenfell](Lore_Vvardenfell.md) in [Morrowind](Lore_Morrowind.md), with bases both in the Shulk Ore Mine and in and around the ancient Hlormaren Stronghold.<sup>[[1]](#cite_note-ESO-1)</sup> Despite being daedric worshippers, they pledged their allegiance to none of the known princes and instead worshipped a being known only as "Nycot" which is also the origin of the name of the organization and could be a mistranslation of [Clavicus Vile](Lore_Clavicus_Vile.md), the Prince of Bargains.<sup>[[2]](#cite_note-TNC-2)</sup>
+
+## History
+It is unknown when the cult was founded but they were already active in the region around the city of [Balmora](Lore_Balmora.md) by [2E 582](Lore_Second_Era.md#2E_582). They were believed to have been created by members who had been able to acquire an ancient scroll or a forbidden text and transformed a Daedric word into Tamrielic. That word was Nycot, formed by the first letters of Clavicus Vile's name in daedric, although it was not believed that they actually knew they worshipped Clavicus. Despite the confusing start, they were already causing problems from Balmora to the [Bitter Coast](Lore_Bitter_Coast.md). [Ordinator](Lore_Ordinator.md) Alurua of the Order of Doctrine and Ordination recommended that the Order of War should act against them to cause their complete extermination.<sup>[[2]](#cite_note-TNC-2)</sup>
+
+It is unknown how the Nycotic Cult acquired the artifact known as [Sunna'rah](Lore_Sunna%27rah.md): a staff created by the [Tribunal](Lore_Tribunal.md) god [Sotha Sil](Lore_Sotha_Sil.md) as a tool for him to experiment with his own powers.<sup>[[3]](#cite_note-ESOBarilzar-3)</sup> The cult prepared a ritual to allow the object to channel unfathomable power. [Conoon Chodala](Lore_Conoon_Chodala.md), the Ashkhan of the [Urshilaku Tribe](Lore_Urshilaku_Tribe.md), discovered through a benefactor about the staff and wished to acquire it. The [Ashlander](Lore_Ashlander.md) sent [Red Exiles](Lore_Red_Exiles.md) to retrieve the staff, instructing them to do so after the ritual had started but before it finished.<sup>[[4]](#cite_note-REI-4)</sup>
+
+By then, the activities of the cult in Shulk Ore Mine and the disappearance of several miners had been noticed by [House Redoran](Lore_House_Redoran.md). It issued a proclamation that closed the mine and suspended any operations for its reopening. Workers were advised to stay away until further notice and visitors were warned to avoid the area. Violators risked fine, imprisonment, or even both.<sup>[[5]](#cite_note-HRP-5)</sup> The cult's invasion of the mine was described as violent, trapping several miners inside shortly before they started their ritual. They called forth Sunna'rah in hopes of attaining the power of gods, but the ritual was interrupted by the Ashlanders.<sup>[[6]](#cite_note-ESOHondulf-6)</sup>
+
+Later, thanks to a divination, the [Tribunal Temple](Lore_Tribunal_Temple.md) confirmed that the divine energies of one of their god-monarchs, Vivec, was being stolen.<sup>[[7]](#cite_note-7)</sup> Thus, Archcanon Tarvus sent [the Vestige](Lore_The_Vestige.md) to investigate several locations, including the region of activities of the Nycotic Cult in Balmora. The priest believed the daedric cultist seen in the vision might have been part of the cult active in Balmora.<sup>[[8]](#cite_note-ESODI-8)</sup>
+
+After the investigations led the Vestige from Balmora to the Shulk Ore Mine due to the cult's presence, the hero attacked the mine to save the miners trapped inside as well as to defeat the cult, killing several cultists as well as their leader, Curate Erydno. The Vestige recovered ritual items in the mine including a small and ornate rod alongside a [Dwemer](Lore_Dwemer.md) crystal and the burnt remnants of a ritual scroll.<sup>[[8]](#cite_note-ESODI-8)</sup><sup>[[9]](#cite_note-9)</sup>
+
+Around the same time, the cult was also occupying the Hlormaren stronghold in the Bitter Coast. When a group of civilians and Redoran soldiers had been sent to scout the ruin, the cult killed several of them and imprisoned the rest. The Vestige and the [Morag Tong](Lore_Morag_Tong.md) assassin Veya Releth later attacked the cultists and entered the fort to free the soldiers and acquire information that they were looking for.<sup>[[10]](#cite_note-10)</sup>
+
+The fate of the group is unknown, but by the year [3E 427](Lore_Third_Era.md#3E_427) Shulk Ore Mine had already been retaken by the House mer and was turned into a [kwama egg](Lore_Kwama_Egg.md) mine managed by [House Hlaalu](Lore_House_Hlaalu.md) while the Hlormaren stronghold was no longer occupied by the cult but by bandits and outlaws.<sup>[[11]](#cite_note-Morrowind-11)</sup>
+
+## Notes
+- Although it was claimed by an Ordinator that they worshipped "Nycot", which was believed to just be a mistranslation, at least one of their members appeared to be aware of their dedication to Clavicus Vile or at least was himself a follower of the Prince of Bargains.<sup>[[12]](#cite_note-ESOSkaliz-12)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Nycotic_Cult) [](https://en.uesp.net/wiki/Online:Morrowind) article.
+
+## References
+1. [^](#cite_ref-ESO_1-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+2. ^ <sup>***[a](#cite_ref-TNC_2-0)***</sup><sup>***[b](#cite_ref-TNC_2-1)***</sup> [*The Nycotic Cult*](Lore_The_Nycotic_Cult.md) — [Ordinator Alurua](Lore_Books_by_Author.md#Ordinator_Alurua) of the Order of Doctrine and Ordination
+3. [^](#cite_ref-ESOBarilzar_3-0) [Barilzar](https://en.uesp.net/wiki/Online:Barilzar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+4. [^](#cite_ref-REI_4-0) [*Red Exile Instructions*](https://en.uesp.net/wiki/Online:Red_Exile_Instructions) — [Chodala](https://en.uesp.net/wiki/Online:Chodala)
+5. [^](#cite_ref-HRP_5-0) [*House Redoran Proclamation*](https://en.uesp.net/wiki/Online:House_Redoran_Proclamation)
+6. [^](#cite_ref-ESOHondulf_6-0) [Crew Chief Hondulf](https://en.uesp.net/wiki/Online:Crew_Chief_Hondulf)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*
+7. [^](#cite_ref-7) Events of [Divine Conundrum](https://en.uesp.net/wiki/Online:Divine_Conundrum) in [ESO](https://en.uesp.net/wiki/Online:Morrowind)
+8. ^ <sup>***[a](#cite_ref-ESODI_8-0)***</sup><sup>***[b](#cite_ref-ESODI_8-1)***</sup> Events of [Divine Inquiries](https://en.uesp.net/wiki/Online:Divine_Inquiries) in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) Nycotic Ritual Bag quest item description in [ESO](https://en.uesp.net/wiki/Online:Morrowind)
+10. [^](#cite_ref-10) Events of [Family Reunion](https://en.uesp.net/wiki/Online:Family_Reunion) in [ESO](https://en.uesp.net/wiki/Online:Morrowind)
+11. [^](#cite_ref-Morrowind_11-0) Events of *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+12. [^](#cite_ref-ESOSkaliz_12-0) [Curate Skaliz](https://en.uesp.net/wiki/Online:Curate_Skaliz)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Morrowind](https://en.uesp.net/wiki/Online:Morrowind)*

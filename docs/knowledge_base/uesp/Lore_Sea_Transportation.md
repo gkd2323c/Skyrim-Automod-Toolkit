@@ -1,0 +1,260 @@
+# Sea Transportation
+
+| --- |
+
+[![](https://images.uesp.net/thumb/6/64/ON-trailer-All Flags Navy.jpg/200px-ON-trailer-All Flags Navy.jpg)](https://en.uesp.net/wiki/File:ON-trailer-All Flags Navy.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-All Flags Navy.jpg) The All Flags Navy, the largest allied Tamrielic naval force in history There are many various naval forces in Tamriel's seas, and a variety of sea-faring vessels.
+
+## Vessels
+
+### Galleon
+The most common deepwater vessel in Tamriel and [Pyandonea](Lore_Pyandonea.md) is the galleon, a big ship with three masts and multiple rectangular sails. Galleons are used both for trade and military purposes. Altmer, Bretons, Imperials, Khajiit, Redguards, and Maormer all use and have used galleons as their principal warships.<sup>[[1]](#cite_note-ESO-1)</sup> Breton and Imperial galleons are especially widespread across Tamriel. The Imperial galleon has been built since the Second Empire until the present to protect maritime trade routes around Tamriel. Altmer and Maormer galleons are characterized by its bow figures; an eagle and a snake respectively.<sup>[[2]](#cite_note-ONKhenarthi-2)</sup><sup>[[3]](#cite_note-ONAuridon-3)</sup> The Renrijra Maor, a major group of Khajiit pirates and privateers, also use galleons.<sup>[[4]](#cite_note-RP-4)</sup>
+
+## Races & Cultures
+
+### Argonians
+[![](https://images.uesp.net/thumb/b/b2/ON-place-Lilmoth_03.jpg/200px-ON-place-Lilmoth_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Lilmoth_03.jpg) [](https://en.uesp.net/wiki/File:ON-place-Lilmoth_03.jpg) Argonian canopied felucca Black Marsh's swampy terrain has forced the Argonians to favor travel through the numerous waterways of the region, only navigable by small-draft ships, which are and have always been the most common and the fastest form of transportation, both of people and goods, inside Argonia. Despite their heavy presence among the crews of big ships, they are rarely constructed by Argonians, as they use other races' ships to sail, commonly those of the Dunmer or the Imperial.<sup>[[5]](#cite_note-5)</sup> Argonian captains are famous as pirates, privateers and smugglers; and both coastal and inland port cities of Black Marsh have a long tradition of sea sailing.<sup>[[6]](#cite_note-6)</sup> This tradition was shared with the [Kothringi](Lore_Kothringi.md), who were among the most valued sailors before they were wiped out by the [Knahaten Flu](Lore_Knahaten_Flu.md).<sup>[[7]](#cite_note-VOF-7)</sup><sup>[[8]](#cite_note-PGE1W-8)</sup><sup>[[9]](#cite_note-PGE3A-9)</sup>
+
+### Altmer
+Swan ships are tall vessels with extensive sails, which can travel across both the sea and the rivers.<sup>[[10]](#cite_note-EGTSI-10)</sup> They are built only in the Summerset Isles, most of them in the wharves of [Firsthold](Lore_Firsthold.md).<sup>[[11]](#cite_note-ESOCEMSS-11)</sup> They are also the most favored type for fast travel within the archipelago and between [Auridon](Lore_Auridon.md) and the mainland.<sup>[[12]](#cite_note-ATUQ-12)</sup> Smaller versions of these ships, with one mast, are common both in the Summerset Isles and its sphere of influence: Valenwood and Elsweyr.
+
+### Bosmer
+Bosmer are known to have ships with "living sails"<sup>[[13]](#cite_note-13)</sup>, they do not build wooden ships as they follow the rules of the [Green Pact](Lore_Green_Pact.md). Due to this, most of the sea and river transportation in Valenwood is carried out by outsiders, most commonly Altmer and Imperials, varying its presence with the rise and falls of Empires and Dominions.<sup>[[14]](#cite_note-TGPa TD-14)</sup><sup>[[15]](#cite_note-WAPG-15)</sup> However, Bosmer sailors are common both in Valenwood and outside of the region, working in other races' ships.<sup>[[16]](#cite_note-ONFirion-16)</sup>
+
+### Breton
+[![](https://images.uesp.net/thumb/b/bd/ON-concept-Large_Ship.png/200px-ON-concept-Large_Ship.png)](https://en.uesp.net/wiki/File:ON-concept-Large_Ship.png) [](https://en.uesp.net/wiki/File:ON-concept-Large_Ship.png) A Breton galleon [![](https://images.uesp.net/thumb/8/8f/ON-place-The_Fair_Winds.jpg/200px-ON-place-The_Fair_Winds.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Fair_Winds.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Fair_Winds.jpg) Breton warship The Bretons of High Rock primarily utilize the waters of the Iliac Bay, the Eltheric Ocean,<sup>[[17]](#cite_note-GP-17)</sup> and the Bjoulsae River for trade. The Bretons have experienced a number of naval battles, much due to their strategic and economic value.<sup>[[8]](#cite_note-PGE1W-8)</sup> High Rock has a problem with piracy that the Masconian Trade Way was created in an effort to reduce it. Many of the small islands of the Bjoulsae River house sea raiders.<sup>[[18]](#cite_note-Load-18)</sup>
+
+Breton merchant ships are large wooden vessels rigged with square sails, and they have been utilized to carry troops.<sup>[[19]](#cite_note-TIEGTT-19)</sup> During the Second Era, Breton ship architect Jeromec Lemal sought to revolutionize navel warfare. His designs would include thicker masts, extra backstays, a narrower keel, lighter ballastas, reinforced hulls, and other improvements.<sup>[[20]](#cite_note-20)</sup>
+
+- [![](https://images.uesp.net/thumb/c/c6/ON-place-Dufort_Shipyards.jpg/200px-ON-place-Dufort_Shipyards.jpg)](https://en.uesp.net/wiki/File:ON-place-Dufort_Shipyards.jpg) House Dufort Shipyards
+- [![](https://images.uesp.net/thumb/4/47/ON-load-The_Fair_Winds.png/200px-ON-load-The_Fair_Winds.png)](https://en.uesp.net/wiki/File:ON-load-The_Fair_Winds.png) Breton galleon interior
+- [![](https://images.uesp.net/thumb/3/38/LG-cardart-Corsair_Ship.png/200px-LG-cardart-Corsair_Ship.png)](https://en.uesp.net/wiki/File:LG-cardart-Corsair_Ship.png) A corsair ship
+- [![](https://images.uesp.net/thumb/5/55/LG-cardart-Iliac_Sorcerer.png/200px-LG-cardart-Iliac_Sorcerer.png)](https://en.uesp.net/wiki/File:LG-cardart-Iliac_Sorcerer.png) A Breton sorcerer on a ship with cannons
+
+### Dunmer
+[![](https://images.uesp.net/thumb/6/67/ON-place-The_Rusty_Argonian_Blade.jpg/200px-ON-place-The_Rusty_Argonian_Blade.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Rusty_Argonian_Blade.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Rusty_Argonian_Blade.jpg) Dunmer junk ship [![](https://images.uesp.net/thumb/c/c4/MW-place-Chun-Ook.jpg/200px-MW-place-Chun-Ook.jpg)](https://en.uesp.net/wiki/File:MW-place-Chun-Ook.jpg) [](https://en.uesp.net/wiki/File:MW-place-Chun-Ook.jpg) Dunmer ship Dunmer ship architecture differs from the rest of Tamriel, developing a singular style. The Dark Elves build junk ships of many sizes, from three masts to one mast. Unlike others, their sails include several horizontal members, giving a bug-like appearance to the ships. Prows of Dunmer ships, both civil and war ones, commonly end with a hook-like spur. Dunmer junk ships of three masts are used as military vessels, comparable to other races' galleons. Two and one mast ships, however, are most commonly used in commerce and transportation of people both by sea or by the extensive rivers of mainland Morrowind. Big rafts with bug-like hoods are used to transport people and goods in short distances along the coasts or in the inner waterways.<sup>[[21]](#cite_note-ONBal-21)</sup><sup>[[22]](#cite_note-ONStone-22)</sup><sup>[[23]](#cite_note-ONDeshaan-23)</sup><sup>[[24]](#cite_note-ONReaper-24)</sup>
+
+### Imperials
+[![](https://images.uesp.net/thumb/5/54/OB-place-Marie_Elena.jpg/200px-OB-place-Marie_Elena.jpg)](https://en.uesp.net/wiki/File:OB-place-Marie_Elena.jpg) [](https://en.uesp.net/wiki/File:OB-place-Marie_Elena.jpg) An Imperial galleon [![](https://images.uesp.net/thumb/4/43/LG-cardart-Prison_Ship.png/200px-LG-cardart-Prison_Ship.png)](https://en.uesp.net/wiki/File:LG-cardart-Prison_Ship.png) [](https://en.uesp.net/wiki/File:LG-cardart-Prison_Ship.png) Imperial prison ship Imperials, especially those from the Gold Coast, have adventured into the seas since the very First Era.<sup>[[25]](#cite_note-JOTE-25)</sup> Besides the galleon, the caravel fulfill the role of trade vessel, both for inner waterways, like the Niben Basin, and for the open sea.<sup>[[26]](#cite_note-OBMarie-26)</sup><sup>[[27]](#cite_note-OBBloated-27)</sup><sup>[[28]](#cite_note-ONGold-28)</sup> Big rafts are used by the Imperials to sail the rivers of Cyrodiil, transporting people and goods.<sup>[[24]](#cite_note-ONReaper-24)</sup> In the [Blackwood](Lore_Blackwood.md), in the vicinity of Black Marsh, drafts are used by locals to travel across the swampy terrain through its small waterways. The [Imperial Navy](https://en.uesp.net/wiki/Lore:Imperial_Navy) makes use of Warships clad with Iron plating above the water line, the larger ships have four masts while the smaller ones have three. <sup>[[29]](#cite_note-RGRaze Palace-29)</sup>
+
+- [![](https://images.uesp.net/thumb/2/23/RG-render-Imperial Warship1.png/200px-RG-render-Imperial Warship1.png)](https://en.uesp.net/wiki/File:RG-render-Imperial Warship1.png) Imperial Navy Warship
+- [![](https://images.uesp.net/thumb/b/b5/RG-render-Imperial Warship2.png/200px-RG-render-Imperial Warship2.png)](https://en.uesp.net/wiki/File:RG-render-Imperial Warship2.png) Imperial Navy Warship
+
+### [Pellitine](Lore_Pellitine.md) Khajiit
+[![](https://images.uesp.net/thumb/2/29/ON-place-The_Perfect_Pounce.jpg/200px-ON-place-The_Perfect_Pounce.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Perfect_Pounce.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Perfect_Pounce.jpg) Pellitine pirate ship in the Topal Bay Pellitine Khajiit, unlike their northern Anequine cousins, have developed a local shipbuilding industry, this is due to its proximity to the [Topal Bay](Lore_Topal_Bay.md) and its traditional plantation economy, this produced a need for ships to handle the exportation of saltrice and other exotic products.<sup>[[30]](#cite_note-PGE3SB-30)</sup> Since the mid-Second Era, the [Renrijra Maor](https://en.uesp.net/wiki/Lore:Renrijra_Krin), are the principal group who run both piracy, privateering, and other seafaring activities based in Elsweyr. These pirates are infamous all across Tamriel for their effectiveness.<sup>[[4]](#cite_note-RP-4)</sup>
+
+[Senchal](Lore_Senchal.md)'s original clan of Khajiit, the eponymous Senchal clan were seasoned sailors and shipwrights in their heyday. The modern-day city's location was their favorite landing site on the Topal Bay.<sup>[[31]](#cite_note-HOSAO-31)</sup>
+
+### Nords
+[![](https://images.uesp.net/thumb/b/b3/SR-place-Everanchored_Ship.jpg/200px-SR-place-Everanchored_Ship.jpg)](https://en.uesp.net/wiki/File:SR-place-Everanchored_Ship.jpg) [](https://en.uesp.net/wiki/File:SR-place-Everanchored_Ship.jpg) Nordic ships Nords' shipbuilding and sailing history can be traced back to Ysgramor and even before, when groups of men came from Atmora to populate Tamriel.<sup>[[32]](#cite_note-SOTR-32)</sup> Due to the relative isolation of the province and its unique climate and harsh folks, Nords' longships reflect their needs. The biggest sea ships have two masts and the smaller have one.<sup>[[33]](#cite_note-SRSquall-33)</sup><sup>[[34]](#cite_note-SRWave-34)</sup><sup>[[35]](#cite_note-ONEastmarch-35)</sup><sup>[[36]](#cite_note-ONRift-36)</sup> They are used both for trade and war and during the times Skyrim was independent, Nords' longships razed the coasts of Morrowind and High Rock.<sup>[[1]](#cite_note-ESO-1)</sup> Smaller rafts and boats are used to sail the waterways and lakes of Skyrim, however, their importance is smaller than their sea counterpart. Nords lack big ships which can be compared to other races' galleons.<sup>[[35]](#cite_note-ONEastmarch-35)</sup><sup>[[36]](#cite_note-ONRift-36)</sup>
+
+### Maormer
+[![](https://images.uesp.net/thumb/a/a8/ON-place-Maormer_Galleon.jpg/200px-ON-place-Maormer_Galleon.jpg)](https://en.uesp.net/wiki/File:ON-place-Maormer_Galleon.jpg) [](https://en.uesp.net/wiki/File:ON-place-Maormer_Galleon.jpg) A Maormer galleon [![](https://images.uesp.net/thumb/6/61/ON-load-Abecean_Sea.jpg/200px-ON-load-Abecean_Sea.jpg)](https://en.uesp.net/wiki/File:ON-load-Abecean_Sea.jpg) [](https://en.uesp.net/wiki/File:ON-load-Abecean_Sea.jpg) Maormer ship with Sea Serpent Some Maormer ships are able to stay at sea indefinitely. Their fleets are most often composed of small, agile vessels, preferring hit-and-run tactics. They employ cutters in their navy which are faster than any ship in the Royal Navy of [Alinor](https://en.uesp.net/wiki/Lore:Alinor). Their warships almost always have ballistae and Sea Mages.<sup>[[37]](#cite_note-37)</sup> Other than ships, Maormer, King [Orgnum](https://en.uesp.net/wiki/Lore:Orgnum) included,<sup>[[38]](#cite_note-38)</sup> also ride [sea serpents](https://en.uesp.net/wiki/Lore:Sea_Serpent) capable of standing 64 feet above the water.<sup>[[39]](#cite_note-RGArchive-39)</sup><sup>[[40]](#cite_note-40)</sup>
+
+- [![](https://images.uesp.net/thumb/1/1e/ON-tribute-orgnum-Serpentguard_Rider.png/100px-ON-tribute-orgnum-Serpentguard_Rider.png)](https://en.uesp.net/wiki/File:ON-tribute-orgnum-Serpentguard_Rider.png) Maormer on a Sea Serpent
+- [![](https://images.uesp.net/thumb/c/c7/ON-tribute-orgnum-Maormer_Cutter.png/100px-ON-tribute-orgnum-Maormer_Cutter.png)](https://en.uesp.net/wiki/File:ON-tribute-orgnum-Maormer_Cutter.png) Maormer cutter
+- [![](https://images.uesp.net/thumb/f/f2/ON-tribute-orgnum-Serpentprow_Schooner.png/100px-ON-tribute-orgnum-Serpentprow_Schooner.png)](https://en.uesp.net/wiki/File:ON-tribute-orgnum-Serpentprow_Schooner.png) Maormer schooner
+- [![](https://images.uesp.net/thumb/5/58/ON-tribute-orgnum-Pyandonean_War_Fleet.png/100px-ON-tribute-orgnum-Pyandonean_War_Fleet.png)](https://en.uesp.net/wiki/File:ON-tribute-orgnum-Pyandonean_War_Fleet.png) Maormer war fleet
+
+### Redguards
+[![](https://images.uesp.net/thumb/f/f3/ON-place-Spearhead.jpg/200px-ON-place-Spearhead.jpg)](https://en.uesp.net/wiki/File:ON-place-Spearhead.jpg) [](https://en.uesp.net/wiki/File:ON-place-Spearhead.jpg) A Redguard galleon [![](https://images.uesp.net/thumb/0/0d/RG-quest-Starting_Out.jpg/200px-RG-quest-Starting_Out.jpg)](https://en.uesp.net/wiki/File:RG-quest-Starting_Out.jpg) [](https://en.uesp.net/wiki/File:RG-quest-Starting_Out.jpg) A Redguard pirate ship Like Nords, Redguards' seafaring history is long and most of Hammerfell's ships are unique in Tamriel, as the Yokudan designs were adopted by its descendants. The biggest ships are Galleons. These are the primary vessels used by merchants and as warships, as well as prison ships. Redguards also use smaller galleys, with both oars and sails, to allow travel with and without wind. These galleys, usually built with three masts, and are typically Merchant vessels. These ships are also characterized by their iconic bow figures, which represent Yokudan gods, and their painted hulls.<sup>[[41]](#cite_note-ONHew-41)</sup> Besides the galleys, the Redguards also construct dhows, smaller ships, with one or two masts and triangular sails. These are, by far, the most common vessels in Hammerfell and they are used primarily in the transportation of both goods and people. Drafts are built for versatile uses, but their importance is smaller compared to moister regions, where river travel is more widespread.<sup>[[42]](#cite_note-ONStros-42)</sup><sup>[[43]](#cite_note-ONAlikr-43)</sup><sup>[[41]](#cite_note-ONHew-41)</sup>
+
+### Reachfolk
+[![](https://images.uesp.net/thumb/5/50/ON-quest-The_Gray_Host_12.jpg/200px-ON-quest-The_Gray_Host_12.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Host_12.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Gray_Host_12.jpg) Icereach Coven vessels Although the [Reachfolk](https://en.uesp.net/wiki/Lore:Reachfolk) are not known for their seafaring, the members of [Icereach Coven](Lore_Icereach_Coven.md) were known to inhabit the isle of [Icereach](Lore_Icereach.md), north of [Skyrim](Lore_Skyrim.md). They used small vessels to land on the mainland Skyrim, during their cooperation with the [Gray Host](Lore_Gray_Host.md).<sup>[[44]](#cite_note-TGH-44)</sup> The Reachfolk, including factions like the [Bloodthorn Cult](https://en.uesp.net/wiki/Lore:Bloodthorn_Cult), have been known to extend their influence and launch attacks on various locations, even remote isles like [Betnikh](https://en.uesp.net/wiki/Lore:Betnikh). The exact means of their arrival on these isles remain unknown, however.<sup>[[45]](#cite_note-ITH-45)</sup> Bloodthorn Cult operatives utilized ships provided by their Breton collaborator, Martine Lerineaux, to transport agents throughout the High Rock territories.<sup>[[46]](#cite_note-VN-46)</sup><sup>[[47]](#cite_note-LC-47)</sup>
+
+There are sources suggesting that some Reachfolk engaged in naval combat against the much stronger navy of the Aldmeri Dominion during the late Second Era.<sup>[[UOL 1]](#cite_note-UOLLVSM-48)</sup>
+
+### Sea Giants
+[![](https://images.uesp.net/thumb/b/b2/ON-place-Kyne%27s_Aegis_02.jpg/200px-ON-place-Kyne%27s_Aegis_02.jpg)](https://en.uesp.net/wiki/File:ON-place-Kyne%27s_Aegis_02.jpg) [](https://en.uesp.net/wiki/File:ON-place-Kyne%27s_Aegis_02.jpg) Sea Giant longship [Sea Giants](https://en.uesp.net/wiki/Lore:Sea_Giant) are a seafaring race of [Giants](Lore_Giant.md) who spend most of their lives aboard massive longships, gliding through the icy waters of the [Sea of Ghosts](Lore_Sea_of_Ghosts.md). They rarely make landfall on [Tamriel](Lore_Tamriel.md), usually only to raid during the coldest winters.<sup>[[48]](#cite_note-LTTO-49)</sup> Sea Giant conjurers sometimes utilize [portal magic](Lore_Magical_Transportation.md) to support these land raids while remaining safely aboard the ship.<sup>[[49]](#cite_note-50)</sup> Sea Giants have been known to interbreed with [men](Lore_Man.md), and the resulting [Half-Giants](https://en.uesp.net/wiki/Lore:Half-Giant) often depart with them aboard their longships.<sup>[[50]](#cite_note-51)</sup>
+
+Sea Giant longships are said to be the size of islands, armed with jagged spears. However, these accounts are considered to be wild exaggerations.<sup>[[51]](#cite_note-SGP-52)</sup> In reality, their longships are more modest in size, although still larger than average as might be expected for a race of Giants.<sup>[[52]](#cite_note-53)</sup>
+
+### Orcs
+Like the other races, the [Orcs](Lore_Orc.md) have a history of seafaring. Orcish brigs are trading vessels used by the Orsimer and these vessels would go out as far as the Summerset Isles.<sup>[[53]](#cite_note-Lt CO-54)</sup> The [Seamount Clan](https://en.uesp.net/wiki/Lore:Seamount_Clan), were known for their seafairing, with stories claiming that their ancestors tamed killer [whales](https://en.uesp.net/wiki/Lore:Whale) in the [Abecean Sea](Lore_Abecean_Sea.md) and trained them for war. Riders of those whales were said to be capable of harpooning ships and steer them by using the strength of the animal, with evidence of this long-lost tradition surviving in siege gear that was later recovered in the Second Era.<sup>[[54]](#cite_note-ONCorner Ant-55)</sup> They were also described as the fiercest raiders of the sea before they settled on Betony.<sup>[[55]](#cite_note-ESORozag-56)</sup>
+
+## Ports
+[](https://en.uesp.net/wiki/File:ON-icon-stolen-Model_Ship.png)
+#### Black Marsh
+- Major seaports: - [Archon](https://en.uesp.net/wiki/Lore:Archon): is an Argonian settlement and port near the eastern coast of Black Marsh.
+- [Lilmoth](https://en.uesp.net/wiki/Lore:Lilmoth): known by some as the "Festering Jewel of Black Marsh", is a major city and port located on Oliis Bay.<sup>[[56]](#cite_note-TIC-57)</sup> It is the city farthest to the southeast in all of [Tamriel](Lore_Tamriel.md).
+- [Soulrest](Lore_Soulrest.md): is an Argonian settlement and port located in the southwestern-most corner of Black Marsh.
+- Minor seaports: - [Alten Corimont](https://en.uesp.net/wiki/Lore:Alten_Corimont): is a small port town located in eastern Shadowfen, deep in the province of Black Marsh. It lies on the bank of a waterway, which provides access to the sea.
+- [Stormhold](https://en.uesp.net/wiki/Lore:Stormhold): a major city that is used as the Dark Elves' foothold in the province of Black Marsh. It is the capital of Shadowfen, and its part of the northern river, just before Morrowind and Deshaan.
+- [Thorn](https://en.uesp.net/wiki/Lore:Thorn): a city found along the northeast coast, in the region of [Thornmarsh](https://en.uesp.net/wiki/Lore:Thornmarsh).
+
+#### Cyrodiil
+- Major seaports: - [Anvil](Lore_Anvil.md): is a prosperous harbor city on the Gold Coast by the Abecean Sea at the very southwest end of Cyrodiil. It is the seat of County Anvil and it is located at the end of the Gold Road, west of Skingrad and Kvatch.
+- [Leyawiin](Lore_Leyawiin.md): is a Cyrodilic city in the extreme southeast of the province, by the mouth of the Niben River where it opens into Topal Bay. The city straddles a swampy estuary of the Niben on the small strip of land between the provinces of Elsweyr and Black Marsh called the [Trans-Niben](https://en.uesp.net/wiki/Lore:Trans-Niben).
+- River ports: - [Bravil](Lore_Bravil.md): is a squalid town located on the banks of the Niben Bay, south of the Imperial City. The Larsius River passes through and wraps around the town, as the Green Road curves around it.
+- Imperial City: is the capital of Cyrodiil, and a major city and port. The circular settlement is located on City Isle, an island in Lake Rumare in the Nibenay Valley.
+
+#### Elsweyr
+- Major seaports: - [Senchal](Lore_Senchal.md): is an infamous city, found on the easternmost tip of Elsweyr's [Quin'rawl Peninsula](https://en.uesp.net/wiki/Lore:Quin%27rawl_Peninsula), that serves as the largest port in Tamriel.<sup>[[57]](#cite_note-Corp Prep-58)</sup>
+- Minor seaports: - [Alabaster](Lore_Alabaster.md): is a city found inland from the Niben River on the Elsweyr side of the border. It is said that great white walls surround the city, hence the name. The docks of Alabaster were one of the first reported sightings of the Knahaten Flu in Elsweyr.<sup>[[58]](#cite_note-59)</sup>
+- [Mistral](https://en.uesp.net/wiki/Lore:Mistral): is a port city on [Khenarthi's Roost](https://en.uesp.net/wiki/Lore:Khenarthi%27s_Roost).
+
+#### Hammerfell
+- Major seaports: - [Hegathe](https://en.uesp.net/wiki/Lore:Hegathe): (also called Old Hegathe) is a city in southwestern Hammerfell. It lies along the Abecean coast, south of Sentinel.
+- [Rihad](Lore_Rihad.md): is a port city at the southern edge of Hammerfell, just north of its border with Cyrodiil. It is located on the coast of the Abecean Sea, on the main road between Anvil and Taneth. The Brena River flows into the Abecean Sea just south of the city.
+- [Sentinel](Lore_Sentinel.md): is a great city of the Redguards, and the capital of the kingdom of Sentinel. It is located in the northwestern hills of Hammerfell, overlooking the [Iliac Bay](https://en.uesp.net/wiki/Lore:Iliac_Bay).
+- [Port Hunding](https://en.uesp.net/wiki/Lore:Port_Hunding): is an important city and port in the tropical island off the southern coast of Hammerfell near the [Cape of the Blue Divide](https://en.uesp.net/wiki/Lore:Cape_of_the_Blue_Divide).
+- [Taneth](https://en.uesp.net/wiki/Lore:Taneth): is a port city in southern Hammerfell on the Abecean Sea lying northwest of Rihad and east of Gilane.
+- Minor seaports: - [Abah's Landing](https://en.uesp.net/wiki/Lore:Abah%27s_Landing): is a city and port located beside a naturally protected harbor on the east side of the peninsula of Hew's Bane, what started as a simple soldier's camp and shantytown soon grew into a sprawling walled city which dominates the region.
+- [Gilane](https://en.uesp.net/wiki/Lore:Gilane): is a town and port in southern Hammerfell lying west of Taneth and southeast of Sentinel.<sup>[[59]](#cite_note-Are Gil-60)</sup>
+- [Lainlyn](https://en.uesp.net/wiki/Lore:Lainlyn): is a city in western Hammerfell, in the Alik'r Desert, on the eastern bank of the Iliac Bay. In the middle Second Era, the city was called Tava's Blessing and was later renamed after the Lainlyn family.
+
+#### High Rock
+- Major seaports: - [Daggerfall](https://en.uesp.net/wiki/Lore:Daggerfall): is the largest city in Glenumbra, located at the southwestern end of the peninsula. It is the capital of the kingdom of Daggerfall and a major port.
+- [Farrun](Lore_Farrun.md): is a northern port city on the north shore of High Rock,<sup>[[60]](#cite_note-61)</sup> and one of eight kingdoms in the province.<sup>[[61]](#cite_note-EWR-62)</sup> It is known for its icy winters.<sup>[[62]](#cite_note-Arena-63)</sup> The town began as an Orcish stronghold by the name of Fharun, named after the [Fharun Clan](https://en.uesp.net/wiki/Lore:Fharun_Clan).
+- [Northpoint](Lore_Northpoint.md): is a major port city of High Rock on its most northern coastline. It was founded in the 9th century of the First Era to capitalize on the location along trade routes in the area, and its fortunes have been tied to coastal commerce ever since.
+- [Wayrest](Lore_Wayrest.md): is a major city in the center of the Stormhaven region of High Rock, at the mouth of the Bjoulsae River. It serves as the capital of a kingdom that forms one of High Rock's provinces. Wayrest prospered greatly after the Fall of Orsinium in 1E 980 when the commerce of all of Tamriel began to pass through its gates. Today the city can boast the largest and richest population in High Rock.<sup>[[63]](#cite_note-WJot B-64)</sup>
+- Minor seaports: - [Aldcroft](https://en.uesp.net/wiki/Lore:Aldcroft): is a port town in western High Rock, located on the eastern shores of Glenumbra, in the region of Cambray Hills. Thanks to its location, it has become a key port that services the city of Camlorn from trade routes along the Iliac Bay.
+- [Jehanna](Lore_Jehanna.md): is a major city of northeastern High Rock, and one of High Rock's eight kingdoms.<sup>[[61]](#cite_note-EWR-62)</sup> It was founded sometime after 2E 582, near the site of the Jehanna Docks in Wrothgar.
+- River ports: - [Evermore](Lore_Evermore.md): is a city on the banks of the Bjoulsae River in eastern High Rock, located near the border with Hammerfell. The city was founded, after the fall of Orsinium opened the Bjoulsae for trade and transport.<sup>[[64]](#cite_note-TRHo KE-65)</sup>
+
+#### Morrowind
+- Major seaports: - [Blacklight](Lore_Blacklight.md): is a major [Redoran](Lore_Redoran.md) city and port on the northwestern coast of mainland Morrowind, close to the border of Skyrim. Across the Inner Sea to the northeast is the island of Solstheim, to the south are the Western Highlands and a good road west connects through the Dunmeth Pass to the Nord city of Windhelm. It became the new capital of Morrowind after the Argonians sacked the former capital, Mournhold.<sup>[[65]](#cite_note-66)</sup> The Council of Great Houses meets there at the Rootspire.<sup>[[66]](#cite_note-Cindiri-67)</sup> House Redoran has substantially improved the city over the Third and Fourth Eras, and its grandeur is said to rival Mournhold at its peak.<sup>[[66]](#cite_note-Cindiri-67)</sup>
+- [Necrom](https://en.uesp.net/wiki/Lore:Necrom): is a city and port on the easternmost tip of Morrowind's mainland which has major religious significance to the [Dunmer](Lore_Dunmer.md).<sup>[[67]](#cite_note-Map-68)</sup><sup>[[68]](#cite_note-AATD-69)</sup> The coastline close to the city consists of steep, treacherous cliffs, and sailors are warned to take care in the area.<sup>[[69]](#cite_note-FOTN-70)</sup>
+- [Tear](https://en.uesp.net/wiki/Lore:Tear): is a major port city on the southeastern coast of [Morrowind](Lore_Morrowind.md). It was once the capital of the Dres District, controlled by House Dres, and was infamous for its slave-pens.<sup>[[70]](#cite_note-PGE1M-71)</sup>
+- Minor seaports: - [Davon's Watch](https://en.uesp.net/wiki/Lore:Davon%27s_Watch): is a settlement on the mainland of Morrowind, along the southern coastline of the Inner Sea. It was once a major port city in the Stonefalls region, controlled by House Indoril.<sup>[[71]](#cite_note-72)</sup>
+- [Ebonheart](https://en.uesp.net/wiki/Lore:Ebonheart): also known as the Black City, is a city on the mainland of Morrowind, along the southern coastline of the Inner Sea.
+- [Firewatch](https://en.uesp.net/wiki/Lore:Firewatch): a city located on the northernmost tip of the Telvanni Peninsula. Its name comes from the vista of [Red Mountain](Lore_Red_Mountain.md).
+- [Raven Rock](Lore_Raven_Rock.md): is a colony built by the East Empire Company in the [Hirstaang Forest](https://en.uesp.net/wiki/Lore:Hirstaang_Forest), on the southern coast of [Solstheim](Lore_Solstheim.md). The colony was founded around an [ebony](Lore_Ebony.md) mine. However, currently is a Redoran settlement.
+- River ports: - [Mournhold](Lore_Mournhold.md): the "city of light and magic", also known as the City of Gems, was the capital city of Morrowind and the largest and oldest city in the province. Mournhold is located in the heart of the Deshaan region of Morrowind's southern mainland and is the district seat of House Indoril. After the fall of the Tribunal, the settlement and river port is a shadow of its former self.
+
+#### Skyrim
+- Major seaports: - [Solitude](Lore_Solitude.md): is a major port city on the northern coast of the province of Skyrim. It is famous for being the northernmost town in Tamriel. Over time, Solitude became one of the wealthiest cities and counties in Skyrim, and by the end of the Third Era it controlled most of the northern coastline of Skyrim after King [Thian](https://en.uesp.net/wiki/Lore:Thian) married Queen [Macalla](https://en.uesp.net/wiki/Lore:Macalla) of Dawnstar.<sup>[[72]](#cite_note-PGE3S-73)</sup>
+
+- - [Windhelm](Lore_Windhelm.md): is a city in northeastern Skyrim, close to the border with Morrowind, and is the only substantial city in the Hold of Eastmarch. It is not only the oldest city in Skyrim,<sup>[[73]](#cite_note-PGE1S-74)</sup> but is the oldest continuously inhabited human settlement in Tamriel.<sup>[[74]](#cite_note-ESOLoading-75)</sup>
+
+- Minor seaports: - [Dawnstar](Lore_Dawnstar.md): is a settlement on the northern coast of Skyrim, and the hold capital of The Pale.<sup>[[75]](#cite_note-SRMap-76)</sup> It was originally a garrison town, which often served as an exile post due to the harsh climate.<sup>[[76]](#cite_note-Dawnstar-77)</sup> The settlement seemingly got its name due to its reputation for "greeting the sun as it begins its journey".<sup>[[62]](#cite_note-Arena-63)</sup>
+- [Winterhold](Lore_Winterhold_(city).md) (before its Sundering): is the capital of the namesake hold and a coastal fortress on the inhospitable northeastern tip of Skyrim. One of the Old Holds, Winterhold has been historically isolated from its neighbors, yet still wealthy and prosperous; it even maintained a rivalry with the powerful city of Solitude.<sup>[[73]](#cite_note-PGE1S-74)</sup><sup>[[72]](#cite_note-PGE3S-73)</sup> Winterhold was once the capital of Skyrim.<sup>[[77]](#cite_note-SRLoading-78)</sup> It is home to the [College of Winterhold](Lore_College_of_Winterhold.md), an institution dedicated to the study of magic, though it is now shunned and feared.<sup>[[77]](#cite_note-SRLoading-78)</sup>
+- River ports: - [Riften](Lore_Riften.md): is a city, capital of The Rift, and river port built on the shores of [Lake Honrich](https://en.uesp.net/wiki/Lore:Lake_Honrich), nestled in the Fall Forest.<sup>[[78]](#cite_note-NOS-79)</sup>
+
+#### Solstice
+- Major seaports: - [Sunport](https://en.uesp.net/wiki/Lore:Sunport): the Sunport Docks are the main port of call in Western Solstice.
+
+#### Summerset Isles
+- Major seaports: - [Alinor](Lore_Alinor_(city).md): is the capital of the Summerset Isles and a major city and port in the western shore of Summerset Isle.
+- [Dusk](https://en.uesp.net/wiki/Lore:Dusk): is a port city on the southeastern shore of Summerset Isle.
+- [Firsthold](Lore_Firsthold.md): is the oldest, and still one of the most prominent, cities and ports on Auridon, the second-largest island of the Summerset Isles.<sup>[[10]](#cite_note-EGTSI-10)</sup>
+- [Lillandril](https://en.uesp.net/wiki/Lore:Lillandril): is a port city on the northwestern coast of [Summerset Isle](Lore_Summerset_Isle.md).<sup>[[79]](#cite_note-OBSIMap-80)</sup><sup>[[80]](#cite_note-EA-81)</sup>
+- Minor seaports: - [Greenwater Cove](https://en.uesp.net/wiki/Lore:Greenwater_Cove): is a town located south of Firsthold. It has an Aldmeri harbor defense system that has been used a long time ago.
+- [Shimmerene](https://en.uesp.net/wiki/Lore:Shimmerene): is a city located in the middle of the river, between Summerset Isle and Auridon. Shimmerene is known as "the City of Lights."
+- [Skywatch](https://en.uesp.net/wiki/Lore:Skywatch): is one of the main cities and ports on Auridon, located on its eastern shore.
+- [Vulkhel Guard](https://en.uesp.net/wiki/Lore:Vulkhel_Guard): is a settlement located at the southern tip of the island of Auridon. It was once a major port city.
+
+#### Systres Archipelago
+- Major seaports: - [Gonfalon Bay](https://en.uesp.net/wiki/Lore:Gonfalon_Bay): is the largest settlement on the [Systres Archipelago](https://en.uesp.net/wiki/Lore:Systres_Archipelago) and its main port-of-entry.
+- [Vastyr](Lore_Vastyr.md): is the largest settlement on the island of [Galen](Lore_Galen.md), the northernmost part of the [Systres Archipelago](https://en.uesp.net/wiki/Lore:Systres_Archipelago).
+- Minor seaports: - Amenos Station: is the only settlement on [Amenos](Lore_Amenos.md). It serves as the island's port-of-call, and prison transports regularly bring supplies and new prisoners for transfer to the Stockade.
+- Castle Navire: is the seat of power [House Dufort](Lore_House_Dufort.md), located far west of [Gonfalon Bay](https://en.uesp.net/wiki/Lore:Gonfalon_Bay), southwest of All Flags Islet. Port Navire is the port for Castle Navire, located on the southern end of the settlement.
+
+#### Valenwood
+- Major seaports: - Southpoint: A coastal city and port in the far southeast of Valenwood, further west than Haven, in the Grahtwood region.
+- Woodhearth: A coastal city and port in southwestern Valenwood and the capital of the Greenshade region.
+- Minor seaports: - Haven: is a major city and port on the southern coast of Valenwood, in the Grahtwood region, near the Elsweyr border.
+- Velyn Harbor: an Altmer town on the western point of Malabal Tor
+- River ports: - Arenthia: is a city and river port in northeastern Valenwood, situated on the banks of the Strid River, close to the borders of Cyrodiil and Elsweyr.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/58/DF-place-Small_Ship.jpg/200px-DF-place-Small_Ship.jpg)](https://en.uesp.net/wiki/File:DF-place-Small_Ship.jpg) A small ship
+- [![](https://images.uesp.net/thumb/7/7a/BS-level5-Point_T.jpg/200px-BS-level5-Point_T.jpg)](https://en.uesp.net/wiki/File:BS-level5-Point_T.jpg) A shipwreck in the [Chimera of Desolation](https://en.uesp.net/wiki/Lore:Chimera_of_Desolation)
+- [![](https://images.uesp.net/thumb/7/74/ON-furnishing-Nord_Tapestry%2C_Ship.jpg/200px-ON-furnishing-Nord_Tapestry%2C_Ship.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Nord_Tapestry,_Ship.jpg) Nord ship tapesty
+- [![](https://images.uesp.net/thumb/d/d1/ON-place-Nord_Longship.jpg/200px-ON-place-Nord_Longship.jpg)](https://en.uesp.net/wiki/File:ON-place-Nord_Longship.jpg) A Nord longship
+- [![](https://images.uesp.net/thumb/6/65/ON-place-Western_Skyrim_Docks.jpg/200px-ON-place-Western_Skyrim_Docks.jpg)](https://en.uesp.net/wiki/File:ON-place-Western_Skyrim_Docks.jpg) Nord longships
+- [![](https://images.uesp.net/thumb/8/80/LG-quest-Welcome_to_the_Brotherhood_02.jpg/200px-LG-quest-Welcome_to_the_Brotherhood_02.jpg)](https://en.uesp.net/wiki/File:LG-quest-Welcome_to_the_Brotherhood_02.jpg) Corsair ships
+- [![](https://images.uesp.net/thumb/c/c4/ON-place-Dunmer_Junk.jpg/200px-ON-place-Dunmer_Junk.jpg)](https://en.uesp.net/wiki/File:ON-place-Dunmer_Junk.jpg) Two Dunmer junks
+- [![](https://images.uesp.net/thumb/7/79/ON-place-Breton_Cog.jpg/200px-ON-place-Breton_Cog.jpg)](https://en.uesp.net/wiki/File:ON-place-Breton_Cog.jpg) A Breton cog
+- [![](https://images.uesp.net/thumb/a/a7/ON-place-Altmer_Galleon.jpg/200px-ON-place-Altmer_Galleon.jpg)](https://en.uesp.net/wiki/File:ON-place-Altmer_Galleon.jpg) An Altmer galleon
+- [![](https://images.uesp.net/thumb/0/09/ON-place-Redguard_Galley.jpg/200px-ON-place-Redguard_Galley.jpg)](https://en.uesp.net/wiki/File:ON-place-Redguard_Galley.jpg) A Redguard galley
+- [![](https://images.uesp.net/thumb/f/f8/RG-scene-Introduction_21.jpg/200px-RG-scene-Introduction_21.jpg)](https://en.uesp.net/wiki/File:RG-scene-Introduction_21.jpg) Imperial Navy fighting [Crowns](Lore_Crowns.md) ships
+- [![](https://images.uesp.net/thumb/6/6e/ON-load-The_Mad_Maiden.jpg/200px-ON-load-The_Mad_Maiden.jpg)](https://en.uesp.net/wiki/File:ON-load-The_Mad_Maiden.jpg) A naval engagement
+- [![](https://images.uesp.net/thumb/b/b7/RG-item-Silver_Boat.png/186px-RG-item-Silver_Boat.png)](https://en.uesp.net/wiki/File:RG-item-Silver_Boat.png) A silver boat model
+- [](https://en.uesp.net/wiki/File:SR-icon-misc-Golden Ship Model.png) A golden ship model
+- [](https://en.uesp.net/wiki/File:SR-icon-misc-Model Ship.png) A Nordic ship model
+
+## References
+1. ^ <sup>***[a](#cite_ref-ESO_1-0)***</sup><sup>***[b](#cite_ref-ESO_1-1)***</sup> Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-ONKhenarthi_2-0) [Khenarthi's Roost](https://en.uesp.net/wiki/Online:Khenarthi%27s_Roost)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-ONAuridon_3-0) [Auridon](https://en.uesp.net/wiki/Online:Auridon)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-RP_4-0)***</sup><sup>***[b](#cite_ref-RP_4-1)***</sup> [*Renrijra Pirates*](https://en.uesp.net/wiki/Online:Renrijra_Pirates) — [Captain Augustus Relippe](Lore_Books_by_Author.md#Captain_Augustus_Relippe)
+5. [^](#cite_ref-5) [Vicecanon Heita-Meen](https://en.uesp.net/wiki/Online:Vicecanon_Heita-Meen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-6) [Captain One-Eye](https://en.uesp.net/wiki/Online:Captain_One-Eye)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-VOF_7-0) [*Varieties of Faith...*](Lore_Varieties_of_Faith....md) — [Brother Mikhael Karkuxor](Lore_Books_by_Author.md#Brother_Mikhael_Karkuxor) of the Imperial College
+8. ^ <sup>***[a](#cite_ref-PGE1W_8-0)***</sup><sup>***[b](#cite_ref-PGE1W_8-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+9. [^](#cite_ref-PGE3A_9-0) [*Pocket Guide to the Empire, 3rd Edition: The War with the Trees: Argonia and the Black Marsh*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Argonia.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+10. ^ <sup>***[a](#cite_ref-EGTSI_10-0)***</sup><sup>***[b](#cite_ref-EGTSI_10-1)***</sup> [*The Improved Emperor's Guide to Tamriel: The Summerset Isles: Auridon*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Summerset_Isles) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+11. [^](#cite_ref-ESOCEMSS_11-0) [Elaborate Model Swan Ship](https://en.uesp.net/wiki/Online:Contraband_E#Elaborate_Model_Swan_Ship) in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-ATUQ_12-0) [*Ayrenn: The Unforeseen Queen*](https://en.uesp.net/wiki/Lore:Ayrenn__The_Unforeseen_Queen) — [Headmaster Tanion](Lore_Books_by_Author.md#Headmaster_Tanion) of the College of Aldmeri Propriety
+13. [^](#cite_ref-13) [*Cap'n Dugal's Journal, Part 2*](https://en.uesp.net/wiki/Lore:Cap%27n_Dugal%27s_Journal,_Part_2) — [Captain Torradan ap Dugal](Lore_Books_by_Author.md#Torradan_ap_Dugal)
+14. [^](#cite_ref-TGPa TD_14-0) [*The Green Pact and the Dominion*](https://en.uesp.net/wiki/Lore:The_Green_Pact_and_the_Dominion)
+15. [^](#cite_ref-WAPG_15-0) [*Woodhearth: A Pocket Guide*](https://en.uesp.net/wiki/Lore:Woodhearth__A_Pocket_Guide)
+16. [^](#cite_ref-ONFirion_16-0) [Sergeant Firion](https://en.uesp.net/wiki/Online:Sergeant_Firion)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-GP_17-0) [*Glenumbra's People*](https://en.uesp.net/wiki/Lore:Glenumbra%27s_People) — [Aldous Brousseau](Lore_Books_by_Author.md#Aldous_Brousseau)
+18. [^](#cite_ref-Load_18-0) [Blackheart Haven](https://en.uesp.net/wiki/Online:Blackheart_Haven) [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) in [ESO](https://en.uesp.net/wiki/Online:Online)
+19. [^](#cite_ref-TIEGTT_19-0) [*The Improved Emperor's Guide to Tamriel: High Rock*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_High_Rock) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+20. [^](#cite_ref-20) [Jeromec Lemal](https://en.uesp.net/wiki/Online:Jeromec_Lemal)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+21. [^](#cite_ref-ONBal_21-0) [Bal Foyen](https://en.uesp.net/wiki/Online:Bal_Foyen)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+22. [^](#cite_ref-ONStone_22-0) [Stonefalls](https://en.uesp.net/wiki/Online:Stonefalls)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+23. [^](#cite_ref-ONDeshaan_23-0) [Deshaan](https://en.uesp.net/wiki/Online:Deshaan)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+24. ^ <sup>***[a](#cite_ref-ONReaper_24-0)***</sup><sup>***[b](#cite_ref-ONReaper_24-1)***</sup> [Vvardenfell](https://en.uesp.net/wiki/Online:Vvardenfell)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+25. [^](#cite_ref-JOTE_25-0) [*Journal of Tsona-Ei*](https://en.uesp.net/wiki/Lore:Journal_of_Tsona-Ei) — [Tsona-Ei](Lore_Books_by_Author.md#Tsona-Ei)
+26. [^](#cite_ref-OBMarie_26-0) [The Marie Elena](https://en.uesp.net/wiki/Oblivion:The_Marie_Elena)'s ship architecture in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+27. [^](#cite_ref-OBBloated_27-0) [The Bloated Float Inn](https://en.uesp.net/wiki/Oblivion:The_Bloated_Float_Inn)'s ship architecture in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+28. [^](#cite_ref-ONGold_28-0) [Gold Coast](https://en.uesp.net/wiki/Online:Gold_Coast)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+29. [^](#cite_ref-RGRaze Palace_29-0) [Raze the Palace](https://en.uesp.net/wiki/Redguard:Raze_the_Palace) quest in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+30. [^](#cite_ref-PGE3SB_30-0) [*Pocket Guide to the Empire, 3rd Edition: Sugar and Blood: the Cats of the South*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Sugar_and_Blood.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+31. [^](#cite_ref-HOSAO_31-0) [*History of Senchal: An Overview*](https://en.uesp.net/wiki/Lore:History_of_Senchal__An_Overview) — [Sulema](Lore_Books_by_Author.md#Sulema), Initiate Scholar of the Pa'alatiin
+32. [^](#cite_ref-SOTR_32-0) [*Songs of the Return*](Lore_Songs_of_the_Return.md)
+33. [^](#cite_ref-SRSquall_33-0) [The Sea Squall](Skyrim_The_Sea_Squall.md)'s ship architecture in *[Skyrim](Skyrim_Skyrim.md)*
+34. [^](#cite_ref-SRWave_34-0) [Red Wave](Skyrim_Red_Wave.md)'s ship architecture in *[Skyrim](Skyrim_Skyrim.md)*
+35. ^ <sup>***[a](#cite_ref-ONEastmarch_35-0)***</sup><sup>***[b](#cite_ref-ONEastmarch_35-1)***</sup> [Eastmarch](https://en.uesp.net/wiki/Online:Eastmarch)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+36. ^ <sup>***[a](#cite_ref-ONRift_36-0)***</sup><sup>***[b](#cite_ref-ONRift_36-1)***</sup> [The Rift](https://en.uesp.net/wiki/Online:The_Rift)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+37. [^](#cite_ref-37) [*A Sailor's Guide to Sea Elves*](https://en.uesp.net/wiki/Lore:A_Sailor%27s_Guide_to_Sea_Elves) — [Virillda](Lore_Books_by_Author.md#Virillda) of the Silver-Sails
+38. [^](#cite_ref-38) [*Pocket Guide to the Empire, 3rd Edition: Other Lands*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Other_Lands.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+39. [^](#cite_ref-RGArchive_39-0) [Game Insider](https://en.uesp.net/wiki/General:Redguard.com_Archive_Inside_the_Game) on Redguard's old site
+40. [^](#cite_ref-40) [*Pocket Guide to the Empire, 1st Edition: The Wild Regions*](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition_The_Wild_Region) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+41. ^ <sup>***[a](#cite_ref-ONHew_41-0)***</sup><sup>***[b](#cite_ref-ONHew_41-1)***</sup> [Hew's Bane](https://en.uesp.net/wiki/Online:Hew%27s_Bane)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+42. [^](#cite_ref-ONStros_42-0) [Stros M'Kai](https://en.uesp.net/wiki/Online:Stros_M%27Kai)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+43. [^](#cite_ref-ONAlikr_43-0) [Alik'r Desert](https://en.uesp.net/wiki/Online:Alik%27r_Desert)'s ship architecture in [ESO](https://en.uesp.net/wiki/Online:Online)
+44. [^](#cite_ref-TGH_44-0) Events of [The Gray Host](https://en.uesp.net/wiki/Online:The_Gray_Host) in [ESO](https://en.uesp.net/wiki/Online:Online)
+45. [^](#cite_ref-ITH_45-0) Events of [Into the Hills](https://en.uesp.net/wiki/Online:Into_the_Hills) in [ESO](https://en.uesp.net/wiki/Online:Online)
+46. [^](#cite_ref-VN_46-0) [*Verrik's Note*](https://en.uesp.net/wiki/Online:Verrik%27s_Note) — [Verrik](https://en.uesp.net/wiki/Online:Verrik)
+47. [^](#cite_ref-LC_47-0) [*Lerineaux's Concerns*](https://en.uesp.net/wiki/Online:Lerineaux%27s_Concerns) — Kath of the Red Nails
+48. [^](#cite_ref-LTTO_49-0) [*Letter to Thane Ogvar*](https://en.uesp.net/wiki/Lore:Letter_to_Thane_Ogvar) — [Thunvilde](Lore_Books_by_Author.md#Thunvilde)
+49. [^](#cite_ref-50) [Vrolsworn Conjurers](https://en.uesp.net/wiki/Online:Vrolsworn_Conjurer) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+50. [^](#cite_ref-51) [Sea Giants](https://en.uesp.net/wiki/Online:Sea_Giant) and [Half-Giants](https://en.uesp.net/wiki/Online:Half-Giant) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+51. [^](#cite_ref-SGP_52-0) [*Sea Giant Predation*](https://en.uesp.net/wiki/Lore:Sea_Giant_Predation) — [Varcent Eardrey](Lore_Books_by_Author.md#Varcent_Eardrey)
+52. [^](#cite_ref-53) [Kyne's Aegis](https://en.uesp.net/wiki/Online:Kyne%27s_Aegis) in [ESO](https://en.uesp.net/wiki/Online:ESO)
+53. [^](#cite_ref-Lt CO_54-0) [*Letter to Captain Oghul*](https://en.uesp.net/wiki/Lore:Letter_to_Captain_Oghul) — [Dulzur](Lore_Books_by_Author.md#Dulzur)
+54. [^](#cite_ref-ONCorner Ant_55-0) [Cornerstone of Reman II](https://en.uesp.net/wiki/Online:Betnikh_Antiquities#Cornerstone_of_Reman_II) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+55. [^](#cite_ref-ESORozag_56-0) [Rozag gro-Khazun](https://en.uesp.net/wiki/Online:Rozag_gro-Khazun)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+56. [^](#cite_ref-TIC_57-0) [*The Infernal City*](Lore_The_Infernal_City.md) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+57. [^](#cite_ref-Corp Prep_58-0) [*Corpse Preparation*](https://en.uesp.net/wiki/Lore:Corpse_Preparation)
+58. [^](#cite_ref-59) [*The Eagle and the Cat*](https://en.uesp.net/wiki/Lore:The_Eagle_and_the_Cat) — [Lord Gharesh-ri](Lore_Books_by_Author.md#Lord_Gharesh-ri), Speaker for the [Mane](Lore_Mane.md)
+59. [^](#cite_ref-Are Gil_60-0) [Gilane](https://en.uesp.net/wiki/Arena:Gilane)'s description in *[Arena](https://en.uesp.net/wiki/Arena:Arena)*
+60. [^](#cite_ref-61) [Map of High Rock](File_LO-map-High_Rock_(Oblivion_Codex).jpg.md)
+61. ^ <sup>***[a](#cite_ref-EWR_62-0)***</sup><sup>***[b](#cite_ref-EWR_62-1)***</sup> [*Etiquette With Rulers*](https://en.uesp.net/wiki/Lore:Etiquette_With_Rulers) — [Erystera Ligen](Lore_Books_by_Author.md#Erystera_Ligen)
+62. ^ <sup>***[a](#cite_ref-Arena_63-0)***</sup><sup>***[b](#cite_ref-Arena_63-1)***</sup> Events of Arena
+63. [^](#cite_ref-WJot B_64-0) [*Wayrest, Jewel of the Bay*](https://en.uesp.net/wiki/Lore:Wayrest,_Jewel_of_the_Bay) — [Sathyr Longleat](Lore_Books_by_Author.md#Sathyr_Longleat)
+64. [^](#cite_ref-TRHo KE_65-0) [*The Royal House of King Eamond*](https://en.uesp.net/wiki/Lore:The_Royal_House_of_King_Eamond) — [Seneschal Derric Andras](Lore_Books_by_Author.md#Seneschal_Derric_Andras) of [Castle Evermore](Lore_Evermore.md)
+65. [^](#cite_ref-66) [Adril Arano](Skyrim_Adril_Arano.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+66. ^ <sup>***[a](#cite_ref-Cindiri_67-0)***</sup><sup>***[b](#cite_ref-Cindiri_67-1)***</sup> [Cindiri Arano](Skyrim_Cindiri_Arano.md)'s dialogue during [Dragonborn](Skyrim_Dragonborn.md)
+67. [^](#cite_ref-Map_68-0) [Map of Morrowind](File_LO-map-Morrowind_(Oblivion_Codex).jpg.md)
+68. [^](#cite_ref-AATD_69-0) [*Ancestors and the Dunmer*](https://en.uesp.net/wiki/Lore:Ancestors_and_the_Dunmer)
+69. [^](#cite_ref-FOTN_70-0) [*Father Of The Niben*](Lore_Father_Of_The_Niben.md) — [Florin Jaliil](Lore_Books_by_Author.md#Florin_Jaliil)
+70. [^](#cite_ref-PGE1M_71-0) [*Pocket Guide to the Empire, 1st Edition: Morrowind*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Morrowind.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+71. [^](#cite_ref-72) [Captain Rana](https://en.uesp.net/wiki/Online:Captain_Rana)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+72. ^ <sup>***[a](#cite_ref-PGE3S_73-0)***</sup><sup>***[b](#cite_ref-PGE3S_73-1)***</sup> [*Pocket Guide to the Empire, 3rd Edition: The Throat of the World: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_3rd_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [3E 432](Lore_Third_Era.md#3E_432)
+73. ^ <sup>***[a](#cite_ref-PGE1S_74-0)***</sup><sup>***[b](#cite_ref-PGE1S_74-1)***</sup> [*Pocket Guide to the Empire, 1st Edition: Skyrim*](Lore_Pocket_Guide_to_the_Empire,_1st_Edition_Skyrim.md) — [Imperial Geographical Society](Lore_Imperial_Geographical_Society.md), [2E 864](Lore_Second_Era.md#2E_864)
+74. [^](#cite_ref-ESOLoading_75-0) [Loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) in [ESO](https://en.uesp.net/wiki/Online:Online)
+75. [^](#cite_ref-SRMap_76-0) [Map of Skyrim](File_LO-map-Skyrim_(Oblivion_Codex).jpg.md)
+76. [^](#cite_ref-Dawnstar_77-0) Events of *[Dawnstar](https://en.uesp.net/wiki/Dawnstar:Dawnstar)*
+77. ^ <sup>***[a](#cite_ref-SRLoading_78-0)***</sup><sup>***[b](#cite_ref-SRLoading_78-1)***</sup> Skyrim [loading screens](Skyrim_Loading_Screens.md)
+78. [^](#cite_ref-NOS_79-0) [*Nords of Skyrim*](Lore_Nords_of_Skyrim.md) — [Hrothmund Wolf-Heart](Lore_Books_by_Author.md#Hrothmund_Wolf-Heart)
+79. [^](#cite_ref-OBSIMap_80-0) [Map of Summerset Isle](File_LO-map-Summerset_Isle_(Oblivion_Codex).jpg.md)
+80. [^](#cite_ref-EA_81-0) [*Elven Artifacts v III*](https://en.uesp.net/wiki/Lore:Elven_Artifacts_v III) — [Ith-Mok](Lore_Books_by_Author.md#Ith-Mok)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-UOLLVSM_48-0) [*Lord Vivec's Sword-Meeting With Cyrus the Restless*](https://en.uesp.net/wiki/General:Lord_Vivec%27s_Sword-Meeting_With_Cyrus_the_Restless)

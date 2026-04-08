@@ -1,0 +1,46 @@
+# Gods G
+
+[Overview](Lore_Gods.md) | [A](Lore_Gods_A.md) [B](Lore_Gods_B.md) [C](Lore_Gods_C.md) [D](Lore_Gods_D.md) [E](Lore_Gods_E.md) [F](Lore_Gods_F.md) G [H](Lore_Gods_H.md) [I](Lore_Gods_I.md) [J](Lore_Gods_J.md) [K](Lore_Gods_K.md) [L](Lore_Gods_L.md) [M](Lore_Gods_M.md) [N](Lore_Gods_N.md) [O](Lore_Gods_O.md) [P](Lore_Gods_P.md) [Q](Lore_Gods_Q.md) [R](Lore_Gods_R.md) [S](Lore_Gods_S.md) [T](Lore_Gods_T.md) [U](Lore_Gods_U.md) [V](Lore_Gods_V.md) [W](Lore_Gods_W.md) [X](Lore_Gods_X.md) [Y](Lore_Gods_Y.md) [Z](Lore_Gods_Z.md)
+---
+
+#### Galen
+[Galen](Lore_Galen_(spirit).md), according to some tales of the [Druids](Lore_Druids.md) was the [spirit](Lore_Nature_Spirit.md) that walked from the heart of the forest into the midst of an ancient proto- [Breton](Lore_Breton.md) settlement in order to sing the songs of [Y'ffre](Lore_Y%27ffre.md) and to teach ancestors of the modern Druids the ways of the Green. Some stories claim that the island of [Galen](Lore_Galen.md) was named in their honor. A variation of this story claims that the "daughters and sons" of [Anuiel](Lore_Anuiel.md) taught these proto-Bretons of Y'ffre's name.
+
+#### Goroflox the Unholy
+[Goroflox the Unholy](Lore_Goroflox_the_Unholy.md) is an entity whose invocation involves candles and [mandrake root](Lore_Mandrake_Root.md).<sup>[[1]](#cite_note-Withershins-1)</sup>
+
+#### The Ghost Snake
+The [Ghost Snake](Lore_Ghost_Snake.md) is the spirit of a [giant snake](Lore_Giant_Snake.md) which protects the Vale of the Ghost Snake in eastern [Deshaan](Lore_Deshaan.md). It is thought by scholars to bear some relation to [Sithis](Lore_Sithis.md) (though some dismiss this as nonsense), and is worshipped by the [Mabrigash Tribe](Lore_Mabrigash_Tribe.md) of [Ashlanders](Lore_Ashlanders.md). As part of a coming-of-age ritual, tribe members must walk the 'Coiled Path' through the swamps of the Vale, overcoming the giant snakes native to the region, as well as the angry [ghosts](Lore_Ghost.md) of those who failed. The few that manage to reach the altar at the Fang Spires and commune with the Ghost Snake are granted great insight into navigating the twisting path of life. In return for occasional human sacrifices to nourish and serve him as ghosts, the spirit helps guide the tribe. Most outsiders believe the Ghost Snake to be fictitious, made up by the tribe as a means of scaring away interlopers.
+
+The Ghost Snake is an entity of duality, and believes everything has an opposite. The spirit himself has a second side known as the *Shadow Snake*, a hostile spirit who attacks those who come to the Ghost Snake in order to test their worth. According to the Ghost Snake's faithful, there are eight sacred aspects of the Ghost Snake: Serpent, Darkness, Devourer, Dreamer, Silence, Light, Death, and Rebirth. Each contains a truth, a lie, and a mystery that entwines upon itself, forever undulating like the coils of the great serpent.
+
+#### The Goat That Walks Upright
+The [Goat That Walks Upright](Lore_Goat_That_Walks_Upright.md) was one of many entities worshipped by the ancient [Atmorans](Lore_Atmora.md). While little is known about the specifics of their religious beliefs and practices, some information has been preserved through historical records, particularly those of the [Dragon Cult](Lore_Dragon_Cult.md). However, there were other religious groups as well, including the Cult of [Mother Moth](Lore_Dibella.md), the People of the [Serpent](Lore_Orkey.md), and the Goat Cult, the latter devoted to the Goat That Walks Upright.
+
+According to translations by [Archivist Oriane Pamarc](Lore_Books_by_Author.md#Archivist_Oriane_Pamarc), remnants of texts written in an [archaic runic alphabet](Lore_Nordic.md#Atmoran_Dictionary) provided a fragmented account of the ancient worship practices of the Goat Cult.
+
+The Goat That Walks Upright was described as an enormous creature, far larger than even the grandest [bears](Lore_Bear.md). Contrary to the beliefs of some nearby villages, Atmoran Frostwood, where the mighty [Ysgramor](Lore_Ysgramor.md) himself once hunted countless beasts, was far from a desolate wasteland. It was a dense, treacherous forest, teeming with monstrous creatures that demanded sacrifice. As such, the followers of the Goat regularly brought offerings to the beast. According to one cultist, the Goat feasted beside him, blood dripping from its wiry beard as its strange, horizontal pupils narrowed and its claws sank into offerings of meat and fish. The Goat's speed was unmatched—many who were brought to him screamed and fled in vain, for the Goat’s cloven hooves and powerful legs allowed him to cover the ground faster than any could escape. This was his beauty, his mystery. A few, upon seeing the Goat, transitioned from terror to wonder and awe. These disciples understood that the Goat must be fed, honored, and revered. These were his woods, and they lived only by his will.
+
+#### Graht-Elk
+[Graht-Elk](Lore_Graht-Elk.md) is a figure found in [Khajiit](Lore_Khajiit.md) religion and folklore, known as the champion of [Y'ffer](Lore_Y%27ffer.md). According to text from before the times of [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md), Y'ffer succumbed to corruption by the [Great Darkness](Lore_Namira.md) following the demise of [Lorkhaj](Lore_Lorkhaj.md). In a fit of chaos, Y'ffer struck down [Nirni](Lore_Nirni.md), whom he had once cherished, causing her demise. In retaliation, [Azurah](Lore_Azurah.md), [Khenarthi](Lore_Khenarthi.md), and [Hircine](Lore_Hircine.md) joined forces to vanquish Y'ffer and fashioned a burial mound for Nirni using his remains. Hircine, who harbored affection for Nirni, was particularly aggrieved by her choice of Y'ffer, leading him to slay the Graht-Elk, an entity associated with Y'ffer. As a trophy of his victory, Hircine adorns himself with the head of the Graht-Elk.
+
+Hircine's depiction, whether in his chosen form or as portrayed across different cultures, consistently includes [elk](Lore_Elk.md) attributes, often featuring the head or skull of an elk. Furthermore, he adopts titles like "Elk of Arrows" in [Druidic](Lore_Druids.md) [Breton](Lore_Breton.md) culture or "Old Elk-Eye" in [Reachfolk](Lore_Reachfolk.md) culture.
+
+#### Great Egg
+The [Great Egg](Lore_Great_Egg.md) is an obscure entity venerated by the [Lamias](Lore_Lamia.md).<sup>[[2]](#cite_note-Tzik.27nith-2)</sup>
+
+#### The Greedy Man
+An aspect of [the Adversary](Lore_The_Adversary.md). The Greedy Man is a devil-figure to the [Skaal](Lore_Skaal.md) tribes in [Solstheim](Lore_Solstheim.md). The Adversary is the antithesis of [the All-Maker](Lore_The_All-Maker.md). Unlike the All-Maker, his aspects are given a specific name, and a gender. It is said that the Adversary has taken many forms over the years. Perhaps he was once a man, before the Adversary entered into the Greedy Man, but he is credited for bringing ruin onto the Skaal, by stealing the gifts of The All-Maker.<sup>[[3]](#cite_note-M1-3)</sup><sup>[[4]](#cite_note-M2-4)</sup><sup>[[UOL 1]](#cite_note-M3-5)</sup>
+
+#### Gyub, Lord of the Pit
+[Gyub](Lore_Gyub.md) (also known as the **Lord of the Pit**, **Warbling Redeemer**, and **Embryonic Prince**) is an obscure tentacled entity worshipped by the [Heretics](Lore_Heretics.md) of [Fain](Lore_Fain.md) in the [Shivering Isles](Lore_Shivering_Isles.md). The Heretics made offerings to Gyub in a ritualistic manner. They would take "volunteers," suspend them over the Pit of Fain (a vertical [root tunnel](Lore_Root.md) within the mountain's core), chant prayers dedicated to Gyub, and release the offerings into the abyss, never to be seen again. In [3E 433](Lore_Third_Era.md#3E_433), the Heretics were making arrangements for a mysterious ritual they referred to as the "Rebirth". This ceremony necessitated a substantial number of "volunteers" who would be offered as sacrifices.
+
+## References
+1. [^](#cite_ref-Withershins_1-0) [*Withershins*](Lore_Withershins.md) — [Yaqut Tawashi](Lore_Books_by_Author.md#Yaqut_Tawashi)
+2. [^](#cite_ref-Tzik.27nith_2-0) [Tzik'nith](https://en.uesp.net/wiki/Online:Tzik%27nith)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-M1_3-0) [*The Story of Aevar Stone-Singer*](Lore_The_Story_of_Aevar_Stone-Singer.md)
+4. [^](#cite_ref-M2_4-0) Events of [The Ritual of the Winds](https://en.uesp.net/wiki/Bloodmoon:The_Ritual_of_the_Winds) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-M3_5-0) [*The Eating-Birth of Dagon*](https://en.uesp.net/wiki/General:The_Eating-Birth_of_Dagon)

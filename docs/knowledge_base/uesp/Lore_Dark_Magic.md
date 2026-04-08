@@ -1,0 +1,23 @@
+# Dark Magic
+
+[![](https://images.uesp.net/thumb/2/2e/ON-skill-Negate_Magic.jpg/200px-ON-skill-Negate_Magic.jpg)](https://en.uesp.net/wiki/File:ON-skill-Negate_Magic.jpg) [](https://en.uesp.net/wiki/File:ON-skill-Negate_Magic.jpg) A magicka suppression field created via Dark Magic [![](https://images.uesp.net/thumb/0/02/ON-render-Sorcerer.jpg/200px-ON-render-Sorcerer.jpg)](https://en.uesp.net/wiki/File:ON-render-Sorcerer.jpg) [](https://en.uesp.net/wiki/File:ON-render-Sorcerer.jpg) A Sorcerer, practitioner of Dark Magic Dark Magic negates, drains and preys upon the [magicka](Lore_Magic.md) and power of other [magic](Lore_Magic.md) users. It also replicates some of the harmful effects of spells cast by [Daedra](Lore_Daedra.md). Practitioners of Dark Magic have a reputation for being evil wizards. While the notion is not wholly unfounded, it is also a misconception.<sup>[[1]](#cite_note-1)</sup> [Sorcerers](Lore_Sorcerers.md) who practice Dark Magic can summon wards that suppress magic and imprison foes in runes. They can also cast offensive spells, such as Daedric runes that explode upon contact with a mortal.<sup>[[2]](#cite_note-2)</sup> Dark Magic can be used to drain the life of others to restore the caster's vitality.<sup>[[3]](#cite_note-3)</sup>
+
+The witches of [Glenmoril Wyrd](Lore_Glenmoril_Wyrd.md) have been known to perform dark magicka rituals to cure [lycanthropy](Lore_Lycanthropy.md).<sup>[[4]](#cite_note-4)</sup>
+
+The historical fiction series *[King Edward](Lore_King_Edward.md)* describes **anti-magicka**, or the **anti-magicka effect**, in which magic is canceled out and spellcasting is prevented. In the volume that mentions it, [Moraelyn's Companions](Lore_Moraelyn%27s_Companions.md) discuss their theories and experiences with it, such as possible sources, like a powerful daedra not "in tune" with its associated host or hypothetical materials that worked as magicka absorbers. The character Mith compares it to the [Dispel Magicka](https://en.uesp.net/wiki/Lore:Dispel) spell effect.<sup>[[5]](#cite_note-KEXII-5)</sup>
+
+The [Flask of Lillandril](Lore_Flask_of_Lillandril.md) is a legendary artifact with anti-magic properties. It had the ability to absorb magic and it was used several times against the [Bosmer](Lore_Bosmer.md), usually by the elves of the [Summerset Isles](Lore_Summerset_Isles.md).<sup>[[6]](#cite_note-RGJ.27ffer-6)</sup><sup>[[7]](#cite_note-EAVIII-7)</sup> One result from the [Warp in the West](Lore_Warp_in_the_West.md) was an anti-magic zone over the [Iliac Bay](Lore_Iliac_Bay.md) in a several mile radius. This was created when the [Underking](Lore_Underking.md) drained the [Mantella](Lore_Mantella.md) of its power to rest eternally in the afterlife.<sup>[[8]](#cite_note-TDCN-8)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/09/RG-item-Flask_of_Lillandril.png/188px-RG-item-Flask_of_Lillandril.png)](https://en.uesp.net/wiki/File:RG-item-Flask_of_Lillandril.png) The Flask of Lillandril (Redguard)
+- [![](https://images.uesp.net/thumb/b/b7/DF-quest-Journey_to_Aetherius_59.png/181px-DF-quest-Journey_to_Aetherius_59.png)](https://en.uesp.net/wiki/File:DF-quest-Journey_to_Aetherius_59.png) An explosion caused by the Underking's tampering with the Mantella
+
+## References
+1. [^](#cite_ref-1) [*Dark Magic: Three Pretexts*](https://en.uesp.net/wiki/Lore:Dark_Magic__Three_Pretexts) — [the Aureate Serpent](Lore_Books_by_Author.md#The_Aureate_Serpent)
+2. [^](#cite_ref-2) [Sorcerer](https://en.uesp.net/wiki/Online:Sorcerer) [Dark Magic](https://en.uesp.net/wiki/Online:Dark_Magic) class abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [Sibellec the Old](https://en.uesp.net/wiki/Online:Sibellec_the_Old)'s dialogue during [Wyrd and Coven](https://en.uesp.net/wiki/Online:Wyrd_and_Coven) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) [Ettiene of Glenmoril Wyrd](https://en.uesp.net/wiki/Bloodmoon:Ettiene_of_Glenmoril_Wyrd)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+5. [^](#cite_ref-KEXII_5-0) [*King Edward, Part XII*](Lore_King_Edward,_Part_XII.md) — Anonymous
+6. [^](#cite_ref-RGJ.27ffer_6-0) [J'ffer](https://en.uesp.net/wiki/Redguard:J%27ffer)'s dialogue in *[Redguard](https://en.uesp.net/wiki/Redguard:Redguard)*
+7. [^](#cite_ref-EAVIII_7-0) [*Elven Artifacts v III*](https://en.uesp.net/wiki/Lore:Elven_Artifacts_v III) — [Ith-Mok](Lore_Books_by_Author.md#Ith-Mok)
+8. [^](#cite_ref-TDCN_8-0) [*The Daggerfall Chronicles/Narrative*](https://en.uesp.net/wiki/Books:The_Daggerfall_Chronicles/Narrative)

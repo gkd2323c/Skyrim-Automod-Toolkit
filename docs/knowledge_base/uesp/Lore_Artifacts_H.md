@@ -1,0 +1,85 @@
+# Artifacts H
+
+[Overview](Lore_Artifacts.md) | [A](https://en.uesp.net/wiki/Lore:Artifacts_A) [B](https://en.uesp.net/wiki/Lore:Artifacts_B) [C](https://en.uesp.net/wiki/Lore:Artifacts_C) [D](https://en.uesp.net/wiki/Lore:Artifacts_D) [E](https://en.uesp.net/wiki/Lore:Artifacts_E) [F](https://en.uesp.net/wiki/Lore:Artifacts_F) [G](https://en.uesp.net/wiki/Lore:Artifacts_G) H [I](https://en.uesp.net/wiki/Lore:Artifacts_I) [J](https://en.uesp.net/wiki/Lore:Artifacts_J) [K](https://en.uesp.net/wiki/Lore:Artifacts_K) [L](https://en.uesp.net/wiki/Lore:Artifacts_L) [M](https://en.uesp.net/wiki/Lore:Artifacts_M) [N](https://en.uesp.net/wiki/Lore:Artifacts_N) [O](https://en.uesp.net/wiki/Lore:Artifacts_O) [P](https://en.uesp.net/wiki/Lore:Artifacts_P) [Q](https://en.uesp.net/wiki/Lore:Artifacts_Q) [R](https://en.uesp.net/wiki/Lore:Artifacts_R) [S](https://en.uesp.net/wiki/Lore:Artifacts_S) [T](https://en.uesp.net/wiki/Lore:Artifacts_T) [U](https://en.uesp.net/wiki/Lore:Artifacts_U) [V](https://en.uesp.net/wiki/Lore:Artifacts_V) [W](https://en.uesp.net/wiki/Lore:Artifacts_W) X Y [Z](https://en.uesp.net/wiki/Lore:Artifacts_Z)
+---
+
+## Hair Shirt of Saint Aralor
+[![](https://images.uesp.net/thumb/c/ce/MW-item-Hair_Shirt_of_St._Aralor.jpg/200px-MW-item-Hair_Shirt_of_St._Aralor.jpg)](https://en.uesp.net/wiki/File:MW-item-Hair_Shirt_of_St._Aralor.jpg) [](https://en.uesp.net/wiki/File:MW-item-Hair_Shirt_of_St._Aralor.jpg) Hair Shirt of Saint Aralor The [Hair Shirt of Saint Aralor the Penitent](https://en.uesp.net/wiki/Lore:Hair_Shirt_of_Saint_Aralor) is a sacred relic of the [Dunmer](Lore_Dunmer.md). Besides being simultaneously hurt and healed by the shirt, the wearer is also resistant to [magic](Lore_Magic.md), particularly shock damage.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Hair_Shirt_of_Saint_Aralor)
+
+## Hammer of Gharen
+[![](https://images.uesp.net/thumb/6/66/AR-item-Hammer_of_Gharen.png/200px-AR-item-Hammer_of_Gharen.png)](https://en.uesp.net/wiki/File:AR-item-Hammer_of_Gharen.png) [](https://en.uesp.net/wiki/File:AR-item-Hammer_of_Gharen.png) Hammer of Gharen The [Hammer of Gharen](Lore_Hammer_of_Gharen.md) (also called **Ghiron's Hammer**) is a legendary hammer created by the [Dwemer](Lore_Dwemer.md) Gharen. It is twinned with the [Anvil of Mithas](Lore_Anvil_of_Mithas.md), and is the only object strong enough not to shatter when used to shape metal upon the Anvil. When the Hammer strikes the Anvil, it produces a ringing which reveals the location of the entrance to the Dwarven mines beneath [Red Mountain](Lore_Red_Mountain.md), originally called Vvardenfell by the Dwemer (or City of the Strong Shield).
+
+Late in the [Third Era](Lore_Third_Era.md), the Hammer was lost in [Black Gate](Lore_Black_Gate.md), a dungeon on mainland [Morrowind](Lore_Morrowind.md). During the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md), King Casik of [Ebonheart](Lore_Ebonheart.md) had the [Eternal Champion](Lore_Hero.md) retrieve the Hammer. King Casik, who was already in possession of the Anvil, used the artifacts to [craft](Lore_Smithing.md) the finest armor and [weapons](Lore_Weapons.md) in the realm. The Hammer has never reportedly left the city's palace since.
+
+**Found in:** - [Arena](https://en.uesp.net/wiki/Arena:Dagoth-Ur)
+
+## Heart of Anumaril
+There is an artifact called the Heart of [Anumaril](Lore_Anumaril.md), which "brought life" to the Orrery in Elden Root many years ago. It was later used to imprison the Daedra, Ukaezai in the Reliquary of Stars.
+
+**Found in:** - [Lore](https://en.uesp.net/wiki/Lore:The_Black_Year), [ESO](https://en.uesp.net/wiki/Online:Meleras) (mentioned only)
+
+## Heart of Lorkhan
+[![](https://images.uesp.net/thumb/2/27/MW-creature-Heart_of_Lorkhan.jpg/200px-MW-creature-Heart_of_Lorkhan.jpg)](https://en.uesp.net/wiki/File:MW-creature-Heart_of_Lorkhan.jpg) [](https://en.uesp.net/wiki/File:MW-creature-Heart_of_Lorkhan.jpg) Heart of Lorkhan The [Heart of Lorkhan](Lore_Heart_of_Lorkhan.md) is the "divine spark" of the deity most commonly known by his [Aldmeri](Lore_Altmer.md) name, [Lorkhan](Lore_Lorkhan.md). It appears in other cultures as concepts such as Heart of [Shor](Lore_Shor.md), the "hunger" of [Sep](Lore_Sep.md), and others. The "star-wounded East" gained its name when the Heart fell from the sky like a [meteor](Lore_Meteors.md), crashing into the [Vvardenfell](Lore_Vvardenfell.md) region in ancient times, where it formed [Red Mountain](Lore_Red_Mountain.md).
+
+In the mythology of [the Towers](Lore_The_Towers.md), the Heart of Lorkhan was known as the First Stone, the Stone of Red Tower (Red Mountain), a focal point for the Tower's reality altering power, upon which the rules according to which the Tower shaped its domain, were inscribed. The First Stone and its Tower are said to have allowed [Mundus](Lore_Mundus.md) to exist without the full presence of the divine, and granted it a special kind of divinity, which is called "NIRN", the "consequence of variable [fate](Lore_Fate.md)". Some sources claim that [Heroes](Lore_Hero.md) are created by the Heart of Lorkhan as a defense mechanism for the mortal world, and that the Shade of [Shezarr](Lore_Shezarr.md) shrouds their doom.
+
+The Heart of Lorkhan was discovered in the [First Era](Lore_First_Era.md) by the [Dwemer](Lore_Dwemer.md), who fashioned [tools](Lore_Kagrenac%27s_Tools.md) to harness its power. The Dwemer wanted to use this power to create a [new god of brass](Lore_Anumidium.md), but [disappeared](Lore_Battle_of_Red_Mountain.md) before it could be activated. The Heart was later used by the [Tribunal](Lore_Tribunal.md) and [Dagoth Ur](Lore_Dagoth_Ur.md) to become gods themselves.
+
+Thereafter, the Heart of Lorkhan was visited annually by the Tribunal in order to renew their powers, until [2E 882](Lore_Second_Era.md#2E_882), when [Dagoth Ur](Lore_Dagoth_Ur.md) awoke and ambushed the Tribunal. The event resulted in the Tribunal being cut off from access to the Heart of Lorkhan. [Sotha Sil](Lore_Sotha_Sil.md) responded by beginning development on a new Heart of Lorkhan, called the [Mechanical Heart](Lore_Mechanical_Heart.md), as a backup to the loss of the original. Dagoth Ur would later attempt to create his own brass god, [Akulakhan](Lore_Akulakhan.md). This plan was thwarted in [3E 427](Lore_Third_Era.md#3E_427) by the [Nerevarine](Lore_Nerevarine.md), and as a result, the Heart of Lorkhan seemingly vanished from [Tamriel](Lore_Tamriel.md).
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Heart_of_Lorkhan)
+
+## Heart of Transparent Law
+[![](https://images.uesp.net/thumb/e/e9/ON-furnishing-Replica_of_The_Heart_of_Transparent_Law.jpg/200px-ON-furnishing-Replica_of_The_Heart_of_Transparent_Law.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Replica_of_The_Heart_of_Transparent_Law.jpg) [](https://en.uesp.net/wiki/File:ON-furnishing-Replica_of_The_Heart_of_Transparent_Law.jpg) A replica of the Heart of Transparent Law The **Heart of Transparent Law** is a part of the Stone of the [Crystal Tower](Lore_Crystal_Tower.md), Transparent Law. The Heart was taken from the Tower shortly after the founding of the [Mages Guild](Lore_Mages_Guild.md) in 2E 230 by [Ritemaster Iachesis](Lore_Iachesis.md) of the [Psijic Order](Lore_Psijic_Order.md), who was under the control of K'Tora of the Abyssal Cabal through the use of mind magic. In a desperate attempt to keep the Sea Sloads from using the Heart to sink Summerset, Iachesis enlisted the help of [Nocturnal](Lore_Nocturnal.md) to hide the Heart inside his own body. During the Interregnum, Nocturnal tried to take control of the Crystal Tower. Using a technique she stole from Sotha Sil utilizing life energy as a power source, she planned to use the life energy of Nirn, and then the energy of the other Princes afterwards, to amplify the Crystal Tower to make her power limitless. Nocturnal's plan was foiled by the Psijic Order and the [Vestige](Lore_The_Vestige.md), with the assistance of Mephala and Clavicus Vile, who had been betrayed by Nocturnal, and the Golden Knight, who was the vessel of [Meridia](Lore_Meridia.md). Using the divine power of Meridia's [Dawnbreaker](Lore_Dawnbreaker.md), the Vestige defeated Nocturnal and restored Transparent Law using the Heart. The Heart of Transparent Law was said to awaken a dark urge to seize it for themselves in those who looked upon it.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Crystal_Tower)
+
+## Heart Ring
+[![](https://images.uesp.net/thumb/d/d5/MW-item-Heart_Ring.jpg/200px-MW-item-Heart_Ring.jpg)](https://en.uesp.net/wiki/File:MW-item-Heart_Ring.jpg) [](https://en.uesp.net/wiki/File:MW-item-Heart_Ring.jpg) Heart Ring The [Heart Ring](https://en.uesp.net/wiki/Lore:Heart_Ring) is an artifact ring associated with the [Sixth House](Lore_Sixth_House.md). [Enchanted](Lore_Enchanting.md) and worn by [Dagoth Ur](Lore_Dagoth_Ur.md) himself. The ring greatly enhanced resistance to magic as well as to frost, fire, shock, and paralysis. It also allowed the wearer to dispel magical effects from themselves and caused attackers to be struck by lightning whenever they landed a hit.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Heart_Ring)
+
+## Helm of Oreyn Bearclaw
+[![](https://images.uesp.net/thumb/b/bf/SR-item-Helm_of_Oreyn_Bearclaw.jpg/200px-SR-item-Helm_of_Oreyn_Bearclaw.jpg)](https://en.uesp.net/wiki/File:SR-item-Helm_of_Oreyn_Bearclaw.jpg) [](https://en.uesp.net/wiki/File:SR-item-Helm_of_Oreyn_Bearclaw.jpg) Helm of Oreyn Bearclaw The [Helm of Oreyn Bearclaw](Lore_Helm_of_Oreyn_Bearclaw.md), also known as the **Helm of Kharag gro-Khar**, is a prized [artifact](Lore_Artifacts.md) with a history of conflicted attribution. The helm itself is an engraved skull, which is enchanted to improve the wearer's agility and endurance.
+
+Those that claim it is a [Bosmeri](Lore_Bosmer.md) artifact know it by the former name, and attribute it to the legendary [Dunmer](Lore_Dunmer.md) hunter of [Valenwood](Lore_Valenwood.md), [Oreyn Bearclaw](Lore_Oreyn_Bearclaw.md) of the [Oreyn bloodline](Lore_Oreyn.md). Legends claim that Bearclaw single-handedly killed Glenhwyfaunva, the witch-serpent of the Elven wood, and thus brought peace to his clan. He would bring the helm and his name further reverence by performing many more great deeds, until he lost his life to the [Knahaten Flu](Lore_Knahaten_Flu.md). After Bearclaw's demise, his helm stood as a monument of his stature, although it was eventually lost after his clan split.
+
+Those that call the helm by its latter name believe that Oreyn was falsely credited, and that the feats were actually performed by his [Orc](Lore_Orc.md) friend, Kharag gro-Khar, hero of the [Shatul Clan](Lore_Shatul_Clan.md). Thus they consider it an Orcish artifact, and the relic has been claimed by [Malacath](Lore_Malacath.md) himself. Those that believe the former story however, state that Kharag stole both Oreyn's helm and reputation, and thus both camps have tried to claim it.
+
+**Found in:** - [Morrowind](https://en.uesp.net/wiki/Morrowind:Helm_of_Oreyn_Bearclaw), [Oblivion](https://en.uesp.net/wiki/Oblivion:Helm_of_Oreyn_Bearclaw), [Skyrim](Skyrim_Helm_of_Oreyn_Bearclaw.md)<sup>[CC](Skyrim_Gallows_Hall.md)</sup>
+
+## Hopesfire
+[![](https://images.uesp.net/thumb/4/46/TR-weapon-Hopesfire.jpg/200px-TR-weapon-Hopesfire.jpg)](https://en.uesp.net/wiki/File:TR-weapon-Hopesfire.jpg) [](https://en.uesp.net/wiki/File:TR-weapon-Hopesfire.jpg) Hopesfire [Hopesfire](Lore_Hopesfire.md), or **the Blade of [Almalexia](Lore_Almalexia.md)**, is a one-handed [Dwemeri](Lore_Dwemer.md) sword from the early [First Era](Lore_First_Era.md). Hopesfire and its twin, [Trueflame](Lore_Trueflame.md), represented the pinnacle of Dwemer craftsmanship. The twin blades possessed unearthly fire enchantments. They were presented as wedding gifts to Lord Indoril [Nerevar](Lore_Nerevar.md) and Almalexia by the Dwemer King [Dumac](Lore_Dumac.md).
+
+**Found in:** - [Tribunal](https://en.uesp.net/wiki/Tribunal:Hopesfire), [Skyrim](Skyrim_Hopesfire.md)<sup>[CC](Skyrim_Ghosts_of_the_Tribunal.md)</sup>, [ESO](https://en.uesp.net/wiki/Online:Arms_of_Infernace)
+
+## Horn of Summoning
+The [Horn of Summoning](Lore_Horn_of_Summoning.md) is an artifact of unknown origin that has been manipulated by some of the most powerful figures in Tamrielic history. The abilities of this item are rather unknown, but has been described as being able to "see one clear" from danger in an awful sense, and far more potent as a weapon than the [Staff of Chaos](Lore_Staff_of_Chaos.md).
+
+**Found in:** - [Lore](Lore_The_Real_Barenziah.md)
+
+## Hrormir's Icestaff
+[![](https://images.uesp.net/thumb/f/f4/OB-item-Hrormir%27s_Icestaff.jpg/200px-OB-item-Hrormir%27s_Icestaff.jpg)](https://en.uesp.net/wiki/File:OB-item-Hrormir%27s_Icestaff.jpg) [](https://en.uesp.net/wiki/File:OB-item-Hrormir%27s_Icestaff.jpg) Hrormir's Icestaff [Hrormir's Icestaff](Lore_Hrormir%27s_Icestaff.md), also called the **Staff of Hrormir**, was made famous as the mighty [weapon](Lore_Weapons.md) of Hrormir, a man featured in the *[Song of Hrormir](Lore_Song_of_Hrormir.md)*. In the epic narrative, a soul of a man named Darfang was captured by [Nocturnal](Lore_Nocturnal.md), and Darfang was being puppeted to fight his companion Hrormir. Using the Icestaff, Hrormir struck Darfang's shadow, revealing the Daedric Prince as the puppeteer. Seeing his friend's grief, Hrormir bargained to take his place as Nocturnal's plaything to free his friend's soul.
+
+Hrormir exploited wordplay in his oath to make his loyalty non-binding, and then stole her [gray cowl](Lore_Gray_Cowl.md) from her and brought back light to the lands. This tale depicts Nocturnal as a "Shadowy Hag" who hid her hideous form with her cowl. In the morning after Hrormir had bedded Nocturnal, everyone saw her hideous form free from obstruction. In exchange for the cowl, Nocturnal released Hrormir and accepted her defeat.
+
+The staff eventually fell into the hands of the [Mages Guild](Lore_Mages_Guild.md). In [3E 433](Lore_Third_Era.md#3E_433), the [Thieves Guild](Lore_Thieves_Guild.md) stole the staff from the [Arcane University](Lore_Arcane_University.md) in the [Imperial City](Lore_Imperial_City.md) —evidently just to prove that they could, as it was soon returned to the mages' hands.
+
+**Found in:** - [Oblivion](https://en.uesp.net/wiki/Oblivion:Hrormir%27s_Icestaff)
+
+## Hunter's Amulets
+[](https://en.uesp.net/wiki/File:MW-icon-jewelry-Exquisite_Amulet_01.png) [](https://en.uesp.net/wiki/File:MW-icon-jewelry-Exquisite_Amulet_01.png) Hunter's Amulet The [Hunter's Amulets](Lore_Hunter%27s_Amulets.md) are two [Daedric](Lore_Daedra.md) artifacts associated with the [Daedric Prince](Lore_Daedric_Prince.md) [Hircine](Lore_Hircine.md). Both the **Hunter's Amulet of Strength** and **Hunter's Amulet of Speed** are known to exist, associated with his aspects - Hrokkibeg, the Aspect of Strength, and Storihbeg, the Aspect of Speed, respectively.
+
+**Found in:** - [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Hunter%27s_Amulet_of_Speed)
+
+## Huntsman's Warmask
+[![](https://images.uesp.net/thumb/4/4d/ON-item-Huntsman%27s_Warmask.jpg/200px-ON-item-Huntsman%27s_Warmask.jpg)](https://en.uesp.net/wiki/File:ON-item-Huntsman%27s_Warmask.jpg) [](https://en.uesp.net/wiki/File:ON-item-Huntsman%27s_Warmask.jpg) Huntsman's Warmask [Huntsman's Warmask](Lore_Huntsman%27s_Warmask.md) is a powerful relic associated with the [Daedric Prince](Lore_Daedric_Prince.md) of the Hunt, [Hircine](Lore_Hircine.md), and connected to both [Reachfolk](Lore_Reachfolk.md) and [Ket Keptu](Lore_Ket_Keptu.md) cultures. Those who wore the mask were empowered and enraged while hunting their chosen prey, enabling them to brand the quarry with the Mark of Hircine in the likeness of the [Bloodmoon](Lore_Bloodmoon.md), though this boon came at the cost of diminished combat effectiveness against other foes. The mask also revealed various aspects of Hircine to its wielders. Upon completing a successful hunt, the wearer was also rejuvenated.
+
+**Found in:** - [ESO](https://en.uesp.net/wiki/Online:Huntsman%27s_Warmask)
+
+## Hyperagonal Locational Determinator
+The [Hyperagonal Locational Determinator](Lore_Hyperagonal_Locational_Determinator.md), also called **the Finder** was a device created by [Telenger the Artificer](Lore_Telenger_the_Artificer.md) around [2E 582](Lore_Second_Era.md#2E_582). It allowed the user to locate any location. When used alongside [the Projector](https://en.uesp.net/wiki/Lore:Telenger%27s_Projector) it allowed its wielder to teleport themselves anywhere they desired, even to places that were protected by magical defenses such as [Artaeum](Lore_Artaeum.md) and [The Clockwork City](Lore_Clockwork_City.md).
+
+**Found in:** - [Lore](Lore_Razum-dar%27s_Journal.md)

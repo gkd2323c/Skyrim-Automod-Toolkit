@@ -1,0 +1,11 @@
+# College of Whispers
+
+The College of Whispers is one of the organizations formed after the dissolution of the [Mages Guild](Lore_Mages_Guild.md) at the start of the [Fourth Era](Lore_Fourth_Era.md), the other being the [Synod](Lore_Synod.md). It is an Imperially sanctioned magical institution, and has a cynosure in [Water's Edge](Lore_Water%27s_Edge.md).<sup>[[1]](#cite_note-TIC-1)</sup> The two groups are rivals, and constantly strive to earn the favor of the [Elder Council](Lore_Elder_Council.md). The College played a part in defending the [Imperial City](Lore_Imperial_City.md) from [Umbriel](Lore_Umbriel.md) circa [4E 48](Lore_Fourth_Era.md#4E_48).<sup>[[2]](#cite_note-Lo S-2)</sup> The organization participates in research, and is known to summon [Daedra](Lore_Daedra.md)<sup>[[3]](#cite_note-TBD-3)</sup> and practice [Necromancy](Lore_Necromancy.md).<sup>[[4]](#cite_note-Faralda-4)</sup> The College had the most up-to-date information on Umbriel, and reported that its "[wormies](Lore_Wormies.md)" were more akin to [flesh atronachs](Lore_Flesh_Atronach.md) than [bonewalkers](Lore_Bonewalker.md) or [zombies](Lore_Zombie.md), but didn't respond to the same arcane stimuli.<sup>[[2]](#cite_note-Lo S-2)</sup><sup>:159-160</sup>
+
+Both the College of Whispers and the Synod have attempted to create alliances with the [College of Winterhold](Lore_College_of_Winterhold.md), but despite pressures the independent organization has remained neutral.<sup>[[4]](#cite_note-Faralda-4)</sup>
+
+## References
+1. [^](#cite_ref-TIC_1-0) [*The Infernal City*](https://en.uesp.net/wiki/Books:The_Infernal_City) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+2. ^ <sup>***[a](#cite_ref-Lo S_2-0)***</sup><sup>***[b](#cite_ref-Lo S_2-1)***</sup> [*Lord of Souls*](https://en.uesp.net/wiki/Books:Lord_of_Souls) — [Greg Keyes](https://en.uesp.net/wiki/General:Greg_Keyes)
+3. [^](#cite_ref-TBD_3-0) [*There Be Dragons*](Lore_There_Be_Dragons.md) — [Torhal Bjorik](Lore_Books_by_Author.md#Torhal_Bjorik)
+4. ^ <sup>***[a](#cite_ref-Faralda_4-0)***</sup><sup>***[b](#cite_ref-Faralda_4-1)***</sup> [Faralda](Skyrim_Faralda.md)'s [lectures](Skyrim_College_of_Winterhold_(place).md#Faralda:_External_Pressures) in *[Skyrim](Skyrim_Skyrim.md)*

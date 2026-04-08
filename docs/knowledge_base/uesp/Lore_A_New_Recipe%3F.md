@@ -1,0 +1,13 @@
+# A New Recipe?
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:A_New_Recipe%3F) |
+
+A New Recipe? *A controversial culinary experiment*
+---
+I've been trying to find a way to prepare [troll](Lore_Troll.md) meat so it's both flavorful and appetizing. The rest of the logging camp would banish me if they knew what culinary experiments I was conducting, but I'm hoping that the fatty flesh and its amazing healing properties might make a healthy and sustainable food source for the foresters.
+
+Would a small piece of troll meat continue to grow, so the pantry would constantly restock itself? I think so, but I need a piece of troll meat to test this theory. Also, there's the fire issue. Troll meat really doesn't react well to fire, and I can't see the foresters eating raw troll flesh.
+
+I'm sure I can work this out. I just need more time.

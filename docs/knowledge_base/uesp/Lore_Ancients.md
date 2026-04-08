@@ -1,0 +1,34 @@
+# Ancients
+
+[![](https://images.uesp.net/thumb/4/40/ON-place-Tanzelwil.jpg/200px-ON-place-Tanzelwil.jpg)](https://en.uesp.net/wiki/File:ON-place-Tanzelwil.jpg) [](https://en.uesp.net/wiki/File:ON-place-Tanzelwil.jpg) Tanzelwil, built by the Ancients The Ancients are the ancestors of the [Altmer](Lore_Altmer.md) of [Auridon](Lore_Auridon.md), the second largest island in the [Summerset Isles](Lore_Summerset_Isles.md) archipelago.<sup>[[1]](#cite_note-1)</sup> They are responsible for the various limestone ruins that dot the island. The term is used by the natives to refer to both the early [Aldmer](Lore_Aldmer.md) and more recent Altmer ancestors.
+
+The ruins of the Ancients are similar in style to the [Ayleid](Lore_Ayleid.md) [ruins](Lore_Ayleid_Ruins.md) found on mainland [Tamriel](Lore_Tamriel.md). However, Altmer architecture is cleaner and more direct, with less baroque ornamentation than that of the Ayleids.<sup>[[2]](#cite_note-LS-2)</sup> Aside from their shared ancestry, the reason for this similarity is due to Altmeri propensity for refinement over innovation, and a resistance to large-scale change.<sup>[[3]](#cite_note-3)</sup> As well as [Dawn Era](Lore_Dawn_Era.md) [Welkynd Stones](Lore_Welkynd_Stones.md), these ruins also contain [Malondo](Lore_Malondo_Stone.md) and [Culanda Stones](Lore_Culanda_Stone.md), modern inventions of the Altmer<sup>[[4]](#cite_note-4)</sup> which were not utilized by the Ayleids.<sup>[[5]](#cite_note-LEo ERZI-5)</sup> The Ancients are also known to have harnessed the power of [Meteoric Iron](Lore_Meteoric_Iron.md) to create Aetherial Wells, magical relics similar to the Ayleid Wells found on the continent.<sup>[[6]](#cite_note-6)</sup><sup>[[7]](#cite_note-Mft S-7)</sup>
+
+The ruins of Torinaan are named after High Lord [Torinaan](Lore_Torinaan_(person).md), an early Aldmer settler from [Aldmeris](Lore_Aldmeris.md), and are an apparent example of Aldmer ruins. [Tanzelwil](Lore_Tanzelwil.md) and [Castle Rilis](Lore_Castle_Rilis.md), on the other hand, serve as mausoleums for modern Altmer.<sup>[[2]](#cite_note-LS-2)</sup> Other ruins on the island include Ezduiin, the [Buraniim](Lore_Buraniim.md) sea-complex, Quendeluun, and the Eye of the Ancients.<sup>[[8]](#cite_note-ESO-8)</sup>
+
+The term "Ancients" is also sometimes used to refer to the Ayleids on mainland Tamriel.<sup>[[9]](#cite_note-ONBurri-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/7/72/ON-npc-Ancestral_Blademaster.jpg/200px-ON-npc-Ancestral_Blademaster.jpg)](https://en.uesp.net/wiki/File:ON-npc-Ancestral_Blademaster.jpg) The spirit of one of the Ancients
+- [![](https://images.uesp.net/thumb/6/6d/ON-furnishing-Culanda_Stone%2C_Glowing.jpg/200px-ON-furnishing-Culanda_Stone%2C_Glowing.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Culanda_Stone,_Glowing.jpg) A Culanda Stone
+- [![](https://images.uesp.net/thumb/9/92/ON-place-Buraniim_Isle.jpg/200px-ON-place-Buraniim_Isle.jpg)](https://en.uesp.net/wiki/File:ON-place-Buraniim_Isle.jpg) An Aetherial Well on Buraniim
+- [![](https://images.uesp.net/thumb/9/9d/ON-place-Tor-Hame-Khard.jpg/200px-ON-place-Tor-Hame-Khard.jpg)](https://en.uesp.net/wiki/File:ON-place-Tor-Hame-Khard.jpg) Aldmeri ruins on Summerset, representing an architectural style distinct from the Ancients
+
+## Notes
+- In earlier versions of ESO, conflicting sources described the Ancients of Auridon as not only Aldmer and Altmer, but as [exiled Ayleids](Lore_Ayleid_Diaspora.md) from [Valenwood](Lore_Valenwood.md). This theory was presented in the [old version of *Auridon Explored, Chapter XII*](Lore_Auridon_Explored,_Chapter_XII_(old).md), where [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer) asserts that the Ayleids landed on the northern tip of Auridon following the [Alessian Slave Rebellion](Lore_Alessian_Slave_Rebellion.md) and became the ancestors of the island's Altmer population.<sup>[[10]](#cite_note-10)</sup> A member of the [Mages Guild](Lore_Mages_Guild.md) also asserted that the ruins of Ezduiin were Ayleid.<sup>[[11]](#cite_note-11)</sup> These sources conflicted with both established lore and other in-game texts, including earlier entries in the *Auridon Explored* series. They were later refuted by developers<sup>[[5]](#cite_note-LEo ERZI-5)</sup> and ultimately removed from the game during a [patch](https://en.uesp.net/wiki/Online:Patches). However, ESO continues to occasionally mistakenly identify ruins on Auridon (such as Torinaan) as Ayleid in origin.<sup>[[12]](#cite_note-12)</sup>
+- Despite being of similar antiquity, Aldmeri ruins on the main island of [Summerset](Lore_Summerset_Isle.md) possess a much different architectural style distinct from that of the Ancients.<sup>[[13]](#cite_note-13)</sup>
+
+## References
+1. [^](#cite_ref-1) [*Auridon Explored*](Lore_Auridon_Explored.md) — [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer)
+2. ^ <sup>***[a](#cite_ref-LS_2-0)***</sup><sup>***[b](#cite_ref-LS_2-1)***</sup> [ESO loading screens](https://en.uesp.net/wiki/Online:Loading_Screens)
+3. [^](#cite_ref-3) [*Notes on Elven Architecture*](Lore_Notes_on_Elven_Architecture.md) — [Gastinus Florus](Lore_Books_by_Author.md#Gastinus_Florus), Masons' Guild Historian
+4. [^](#cite_ref-4) [*Aetherial Fragments*](Lore_Aetherial_Fragments_(book).md) — [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)
+5. ^ <sup>***[a](#cite_ref-LEo ERZI_5-0)***</sup><sup>***[b](#cite_ref-LEo ERZI_5-1)***</sup> [*Loremaster's Episode of ESO-RP ZOS Interview*](https://en.uesp.net/wiki/General:Loremaster%27s_Episode_of_ESO-RP_ZOS_Interview)
+6. [^](#cite_ref-6) [Aetherial Wells](https://en.uesp.net/wiki/Online:Aetherial_Wells) on [Auridon](https://en.uesp.net/wiki/Online:Auridon) in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-Mft S_7-0) [*Magic from the Sky*](Lore_Magic_from_the_Sky.md) — [Irlav Jarol](Lore_Books_by_Author.md#Irlav_Jarol)
+8. [^](#cite_ref-ESO_8-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ONBurri_9-0) [Centurion Burri](https://en.uesp.net/wiki/Online:Centurion_Burri)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Gates_of_Fire)
+10. [^](#cite_ref-10) [*Auridon Explored, Chapter XII*](Lore_Auridon_Explored,_Chapter_XII_(old).md) — [Fenlil the Wayfarer](Lore_Books_by_Author.md#Fenlil_the_Wayfarer) (old version)
+11. [^](#cite_ref-11) [Naarcaano](https://en.uesp.net/wiki/Online:Naarcaano)'s dialogue
+12. [^](#cite_ref-12) [Zahari](https://en.uesp.net/wiki/Online:Zahari)'s dialogue on Torinaan during the *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)* prologue quest [Dark Souls, Mighty Weapons](https://en.uesp.net/wiki/Online:Dark_Souls,_Mighty_Weapons)
+13. [^](#cite_ref-13) [Tor-Hame-Khard](https://en.uesp.net/wiki/Online:Tor-Hame-Khard) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)

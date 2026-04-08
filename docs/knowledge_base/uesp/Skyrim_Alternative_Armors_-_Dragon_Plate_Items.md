@@ -1,0 +1,36 @@
+# Alternative Armors - Dragon Plate Items
+
+This page documents the **new items** added by the [Alternative Armors - Dragon Plate](Skyrim_Alternative_Armors_-_Dragon_Plate.md) [Creation](Skyrim_Creation_Club.md).
+
+## Apparel
+| | Name ([ID](Skyrim_Form_ID.md)) | Type | [Tempering](Skyrim_Workbench.md) | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:SR-icon-armor-Iron Shield.png) | [Enchantment](Skyrim_Enchanting_Effects.md) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Falmer Helmet.png) | Dismal Visage <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 867) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 5 | 2587 | 12 | *Conjuration spells cost 25% less to cast. Alteration spells cost 25% less to cast.* |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Cuirass.png) | Dragonbone Mail <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83B) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 40 | 3626 | 48 | *Increases Fire Resistance by 100%.* |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Boots.png) | Dragonplate Insulated Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 800) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 500 | 19 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Boots.png) | Dragonplate Insulated Boots <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83C) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 1657 | 19 | *Carrying capacity increased by 40 points.* |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Cuirass.png) | Dragonplate Insulated Cuirass <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 801) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 40 | 2200 | 48 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Gauntlets.png) | Dragonplate Insulated Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 802) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 500 | 19 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Gauntlets.png) | Dragonplate Insulated Gauntlets <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 83A) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 1427 | 19 | *Two-handed attacks do 30% more damage.* |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Helmet.png) | Dragonplate Insulated Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 803) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 1100 | 24 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-armor-Dragonplate_Insulated_Helmet.png) | Dragonplate Insulated Helmet <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 839) | Heavy Armor | [Dragon Bone](Skyrim_Dragon_Bone.md); <br> perk: [Dragon Armor](Skyrim_Dragon_Armor.md) | 8 | 1655 | 24 | *Increases your health by 50 points.* |
+
+- [![](https://images.uesp.net/thumb/2/2e/SR-item-Dragonbone_Mail_Armor_Male.jpg/200px-SR-item-Dragonbone_Mail_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonbone_Mail_Armor_Male.jpg) Male [Nord](Skyrim_Nord.md) wearing the Dragonbone Mail
+- [![](https://images.uesp.net/thumb/9/93/SR-item-Dragonbone_Mail_Armor_Female.jpg/200px-SR-item-Dragonbone_Mail_Armor_Female.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonbone_Mail_Armor_Female.jpg) Female [Imperial](Skyrim_Imperial.md) wearing the Dragonbone Mail
+- [![](https://images.uesp.net/thumb/8/86/SR-item-Dragonplate_Insulated_Armor_Male.jpg/200px-SR-item-Dragonplate_Insulated_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonplate_Insulated_Armor_Male.jpg) Male Nord wearing dragonplate insulated armor
+- [![](https://images.uesp.net/thumb/2/20/SR-item-Dragonplate_Insulated_Armor_Female.jpg/200px-SR-item-Dragonplate_Insulated_Armor_Female.jpg)](https://en.uesp.net/wiki/File:SR-item-Dragonplate_Insulated_Armor_Female.jpg) Female Imperial wearing dragonplate insulated armor
+
+## Weapons
+| | Name ([ID](Skyrim_Form_ID.md)) | Type | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Crit. <br> [](https://en.uesp.net/wiki/File:Skyrim TAG-icon-Heavy_Attack.png) | Speed | Reach | [Enchantment](Skyrim_Enchanting_Effects.md) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Forsworn Sword.png) | Forsworn Sword <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 86A) | One-Handed Sword | 13 | 70 | 12 | 5 | 1 | 1 | |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Falmer War Axe.png) | Namira's Itch <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 86B) | One-Handed War Axe | 21 | 789 | 12 | 7 | 0.9 | 1 | *Absorb 30 points of Stamina.* |
+| [](https://en.uesp.net/wiki/File:SR-icon-weapon-Falmer War Axe.png) | Tyrant's Bane <br> (FE [xxx](Skyrim_Form_ID.md#Creation_Club) 869) | One-Handed War Axe | 15 | 1233 | 12 | 6 | 0.9 | 1 | *Burns the target for 30 points. Targets on fire take extra damage.* |
+
+## Books
+| | Title ([ID](Skyrim_Form_ID.md)) | Author | Description | Location |
+| --- | --- | --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal1.png) | [***Bjormund's Diary***](Skyrim_Bjormund%27s_Diary.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 81B | [Bjormund Wind-Strider](Skyrim_Bjormund_Wind-Strider.md) | The recounting of an encounter with Dragonbone Mail | - [Arcwind Point](Skyrim_Arcwind_Point.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Bounty for Crowstooth***](Skyrim_Bounty_for_Crowstooth.md) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 81A | | A note detailing the bounty on Crowstooth | - Received from an innkeeper when asking about work |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Journal2.png) | [***Guard's Dossier: Bjormund Wind-Strider***](https://en.uesp.net/wiki/Skyrim:Guard%27s_Dossier__Bjormund_Wind-Strider) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 819 | | Details on a bounty | - [Solitude](Skyrim_Solitude.md), [Castle Dour](Skyrim_Castle_Dour.md) |
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Note1.png) | [***Linelle's Note***](https://en.uesp.net/wiki/Skyrim:Linelle%27s_Note) <br> FE [xxx](Skyrim_Form_ID.md#Creation_Club) 864 | [Linelle](https://en.uesp.net/wiki/Skyrim:Linelle) | A note revealing Crowstooth's destination | - [Darklight Tower](Skyrim_Darklight_Tower.md) |

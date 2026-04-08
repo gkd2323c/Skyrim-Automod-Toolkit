@@ -1,0 +1,15 @@
+# Una the Green Elk
+
+[![](https://images.uesp.net/thumb/3/3a/ON-concept-Una_the_Green_Elk.jpg/200px-ON-concept-Una_the_Green_Elk.jpg)](https://en.uesp.net/wiki/File:ON-concept-Una_the_Green_Elk.jpg) [](https://en.uesp.net/wiki/File:ON-concept-Una_the_Green_Elk.jpg) Druidic sigil depicting Una the Green Elk [![](https://images.uesp.net/thumb/2/2c/ON-item-Painted_Elk_Clay_Pot.jpg/200px-ON-item-Painted_Elk_Clay_Pot.jpg)](https://en.uesp.net/wiki/File:ON-item-Painted_Elk_Clay_Pot.jpg) [](https://en.uesp.net/wiki/File:ON-item-Painted_Elk_Clay_Pot.jpg) Druidic equipment adorned with the depiction of Una the Green Elk Una the Green Elk is one of the lesser [spirits](Lore_Nature_Spirit.md) revered in [druid](Lore_Druid.md) culture.<sup>[[1]](#cite_note-Contraband-1)</sup><sup>[[2]](#cite_note-DPS-2)</sup>
+
+Several items found in the [Systres Archipelago](Lore_Systres_Archipelago.md) were devoted to this lesser spirit. Such items include a collection of cooking pots made of clay that were adorned with the images of Una the Green Elk<sup>[[2]](#cite_note-DPS-2)</sup> and small carved figurines depicting the Green Elk.<sup>[[1]](#cite_note-Contraband-1)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), a member of the [University of Gwylim](Lore_University_of_Gwylim.md)'s [Antiquarian Circle](Lore_Antiquarian_Circle.md) tracked down and discovered pieces of an ancient druidic stove and cooking equipment, putting them back together. One of its parts was adorned with imagery of Una the Green Elk.<sup>[[2]](#cite_note-DPS-2)</sup>
+
+## Notes
+- Una the Green Elk shares name with Una, the [Magna Ge](Lore_Magna_Ge.md), who, according to [Dunmeri](Lore_Dunmer.md) folktale became the moonlet [Baar Dau](Lore_Baar_Dau.md) after she came to rest above [Nirn](Lore_Nirn.md) to console it after the other Magna Ge departed. This story is uncorroborated,<sup>[[3]](#cite_note-TOBD-3)</sup> and any form of connection between Una the Green Elk and the Magna Ge is unknown.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Contraband_1-0)***</sup><sup>***[b](#cite_ref-Contraband_1-1)***</sup> [Una the Green Elk Figurine](https://en.uesp.net/wiki/Online:Contraband_U#Una_the_Green_Elk_Figurine) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. ^ <sup>***[a](#cite_ref-DPS_2-0)***</sup><sup>***[b](#cite_ref-DPS_2-1)***</sup><sup>***[c](#cite_ref-DPS_2-2)***</sup> [Painted Elk Clay Pot](https://en.uesp.net/wiki/Online:Druidic_Provisioning_Station#Painted_Elk_Clay_Pot) antiquity codex entry in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+3. [^](#cite_ref-TOBD_3-0) [*Testimonials on Baar Dau*](Lore_Testimonials_on_Baar_Dau.md) — [Minerva Calo](Lore_Books_by_Author.md#Minerva_Calo), Associate Chronicler

@@ -1,0 +1,19 @@
+# Mystery of the Chub Loon
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Mystery_of_the_Chub_Loon) ([Orsinium](https://en.uesp.net/wiki/Online:Orsinium_(DLC))) |
+
+Mystery of the Chub Loon **by [Zabia-ko](Lore_Books_by_Author.md#Zabia-ko)** *A treatise on a unique Wrothgarian bird*
+---
+There is a creature in the land of the [Orcs](Lore_Orc.md) that defies explanation. The [chub loon](Lore_Chub_Loon.md) has no purpose and little known history. However, it is delicious when cooked with [moon-sugar](Lore_Moon_Sugar.md) glaze and citrus.
+
+I, Zabia-ko, and several companions sought to secure trade with the Orcs of [Fharun Stronghold](Lore_Fharun_Stronghold.md) when we found ourselves on the wrong side of the negotiations. We had little choice but to run for our lives when the chief burned our ship and sent warriors after us. The cold and rocky coast overlooking the frigid [Sea of Ghosts](Lore_Sea_of_Ghosts.md) became our home for the night. The howling sea wind bit deep into our fur. Despite that, sleep eventually came in the dark of the night.
+
+As the sun rose over the [Druadach Mountains](Lore_Druadach_Mountains.md), a cacophony of honking sounds broke the rhythmic peace of the waves against the rocks. The others feared some unknown beast had come to eat us, but curiosity overcame this one, and she slipped out of her bedroll, grabbed her staff, and moved toward the coast to let her eyes decide if we should stay or flee. Of all the creatures that have passed before Zabia-ko's eyes, none are stranger than the stub-legged, waddling [birds](Lore_Bird.md) that swarmed the ice floes and rocks. They stood in groups, clumping for warmth, with their useless wings flapping at their sides. Their call, once frightening, sounded comical when I looked upon them.
+
+The birds were nothing like anything in the old and well-worn wilderness guide I borrowed from the library back home. Escape through the Friendship Gate could wait. This was something new, and new things have value. At first we were very careful to gather a few of the creatures, but we soon learned that they were too stupid to flee from a [Khajiit](Lore_Khajiit.md). They had no trouble fleeing from Orcs, though! Any proper prey should try to run away when Khajiit walk among them, but not these flightless birds. We scooped them up and made haste for the gate, lest the [Fharun clan](Lore_Fharun_Clan.md) catch our scent and give chase.
+
+This one's first stop in [Wayrest](Lore_Wayrest.md) was to the [Mages Guild](Lore_Mages_Guild.md). A few pieces of gold gained me access to their natural history library, where a new edition of the wilderness guide was prominently displayed. It mentions the chub loon as an elusive creature that was not observed by earlier writers. How could such an obnoxious creature be overlooked?
+
+This one spent several days and candle-lit nights going over every tome on the creatures and wildlife of [Tamriel](Lore_Tamriel.md). Not a single mention of the chub loon exists before the beginning of the [second era](Lore_Second_Era.md). How could that be? The very first mention is in a text on the [horker](Lore_Horker.md), and it only says that they were moving in on the horker habitat, disrupting the food source. Could it be that, like the [Nords](Lore_Nord.md) and other men, they came from another land? Could the stupid birds have been brought here by travelers from [Atmora](Lore_Atmora.md)? Could they have traversed the Sea of Ghosts on their own with only floating chunks of ice to carry them? In any case, no matter how they arrived, they secured a new habitat, flourishing on [Wrothgar](Lore_Wrothgar.md)'s rocky coast.

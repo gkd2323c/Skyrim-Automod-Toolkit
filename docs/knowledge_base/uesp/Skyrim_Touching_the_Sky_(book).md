@@ -1,0 +1,21 @@
+# Touching the Sky (book)
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-The_Betrayed.png) Book Information <br> *Touching the Sky* | | | |
+| --- | --- | --- | --- |
+| Added by | [Dawnguard](Skyrim_Dawnguard.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 01A3E8 | | |
+| See Also | [Lore version](Lore_Touching_the_Sky.md) | | |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 20 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| Related to | [Forgotten Vale Books Quest](Skyrim_Forgotten_Vale_Books_Quest.md) | | |
+| Note | | | |
+| The original text has the title [Unknown Book, Vol. IV](Skyrim_Unknown_Book,_Vol._IV.md) . | | | |
+
+Touching the Sky **by [Parmion Saldor](Lore_Books_by_Author.md#Parmion_Saldor)** *An overview of Snow Elf pilgrimages to the Chantry of Auri-El* *
+---
+
+![M](https://images.uesp.net/thumb/0/05/M_letter.png/73px-M_letter.png)
+any of the most dedicated [snow elves](Skyrim_Snow_Elf.md) once committed themselves to a tireless journey through the [Chantry](Lore_Chantry_of_Auri-El.md) to the [Inner Sanctum](Skyrim_Inner_Sanctum_(Vale).md). They carried with them the paramount desire to become one with their god, [Auri-El](Lore_Auri-El.md). Though all set out with the determination to prove their worth, few were prepared for the trials that lay ahead. For the path to Auri-El was not without its tribulations. The pilgrims struggled not only against the natural elements of the treacherous vale, but with a myriad of tests upon their faith and loyalty.
+
+It is told that many simply could not continue on the path for long before turning back. Some argue that the rebuke they endured upon their return was crueler than any punishment that may have lay ahead of them along the path. In their failed attempt, they were forced to live in the shadow of those who did continue on to achieve the great glory and honor of ascension into the light. Forever after, their faith and loyalty in Auri-El would be scrutinized and their remaining days filled with shame and regret.
+
+Tales of those who reached the Inner Sanctum are not without their share of woes. It is said upon their arrival that many were mere shells of the person they had once been. Some were quite mad from sleeplessness and starved to the point of frailty. By the end of their journey, the marvel that they had strength yet to carry their vessel and ascend the stairs of the temple was the last true testament of their loyalty. Regardless of each individual's tale, the final words remain eerily similar. It is said that every pilgrim ascended, bathed in light, a look of relief and contentment on their face.

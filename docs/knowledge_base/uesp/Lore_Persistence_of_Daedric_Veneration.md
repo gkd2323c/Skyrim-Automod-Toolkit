@@ -1,0 +1,20 @@
+# Persistence of Daedric Veneration
+
+| Book Information | |
+| --- | --- |
+| Writer | [Lawrence Schick](https://en.uesp.net/wiki/General:Lawrence_Schick) |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Persistence_of_Daedric_Veneration) |
+
+Persistence of Daedric Veneration **by [Lady Cinnabar](Lore_Lady_Cinnabar.md) of [Taneth](Lore_Taneth.md)** *A response to a rival author*
+---
+If you believed what that old goat [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md) writes in what he's pleased to call his "Histories," you'd think that modern society's bias against reverence for the [Daedric Princes](Lore_Daedric_Princes.md) was rooted in some kind of instinctive revulsion against the Lords of [Oblivion](Lore_Oblivion.md), an abhorrence based on events of unspeakable cruelty that took place thousands of years ago.
+
+This is absurd on the face of it. Ask the peasant in his field, the cobbler in his shop, or the solicitor in his office if he fears the Daedra Lords because of the ancient practices of the [Wild Elves](Lore_Ayleids.md), and all you'll get will be a blank look. The peasant, cobbler, and solicitor only fear [Daedra](Lore_Daedra.md) and Daedra-worship because they've been told to by established religion and academia, and because their neighbors believe the same thing.
+
+So, Phrastus, Daedra worship survives in [Tamriel](Lore_Tamriel.md) only at the level of forbidden cults? On the contrary, it's easy to show that veneration for Daedra is widespread and widely accepted among the folk of Tamriel, despite the desires and opinions of priests and professors. Ask the hunter why he mutters a prayer to [Hircine](Lore_Hircine.md) as he draws his bow. Ask the gardener why she asks [Mephala](Lore_Mephala.md) to spare her vines from slugs and worms. Ask the guardsman why he invokes the valor of [Boethiah](Lore_Boethiah.md) as he draws his sword. And one doesn't have to look hard to find worshipers of [Sanguine](Lore_Sanguine.md) during [Carnaval](Lore_Carnaval.md), or [Hermaeus Mora](Lore_Hermaeus_Mora.md) among scholars at any time.
+
+What of the [Ashlanders](Lore_Ashlanders.md) of [Morrowind](Lore_Morrowind.md), who still venerate the so-called Good Daedra? What of the Spirit Wardens of [Menevia](Lore_Menevia.md), who follow [Azura](Lore_Azura.md)? What of the [Jovial Lambasters](Lore_Jovial_Lambasters.md) of [Rimmen](Lore_Rimmen.md), who celebrate [Clavicus Vile](Lore_Clavicus_Vile.md)?
+
+What, indeed, of the [Khajiit](Lore_Khajiit.md) of the southern realms? Rather than abjure the Oblivion Lords, the Cat-folk of [Elsweyr](Lore_Elsweyr.md) venerate them openly, scarcely drawing a distinction between [Aedra](Lore_Aedra.md) and Daedra. The Khajiit recognize the benevolent aspects of the Princes, offering them respect at a minimum, and often admiration. [Azurah](Lore_Azurah.md) is a popular object of worship for Khajiiti magicians, [Sheggorath](Lore_Sheggorath.md) appeals to the feline taste for wild mischief, and the souls of the dead are placed in the charge of [Namiira](Lore_Namiira.md).
+
+Yet Phrastus [would have you believe](https://en.uesp.net/wiki/Lore:Daedra_Worship__The_Ayleids) every mortal in Tamriel cringes in horror at the mention of Daedra, and mocks my own work when I show him up for the charlatan he is. Or can we explain his petty hostility in another way? Wasn't it Phrastus himself who approached me at the [Dragonstar](Lore_Dragonstar.md) Conclave of Antiquarian Scholars, Phrastus who pointed out it was the 16th of Sun's Dawn, Phrastus who suggested we meet later that evening to "appropriately celebrate [Sanguine's summoning day](Lore_Heart%27s_Day.md)"? I believe he took it rather personally when I refused his smarmy advances, for it was shortly thereafter that his unwarranted criticism of my work began to appear in the journals. Hmm. Yes, perhaps therein lies the explanation.

@@ -1,0 +1,45 @@
+# Renwic
+
+| King Renwic | | | |
+| --- | --- | --- | --- |
+| [![ON-npc-King Renwic2.jpg](https://images.uesp.net/thumb/0/01/ON-npc-King_Renwic2.jpg/200px-ON-npc-King_Renwic2.jpg)](https://en.uesp.net/wiki/File:ON-npc-King_Renwic2.jpg) King Renwic | | | |
+| Race | [Breton](Lore_Breton.md) | Gender | Male |
+| Born | [Second Era](Lore_Era.md#Second_Era) | | |
+| Died | [c. 2E 300](Lore_Era.md#c._2E_300) <br> Carzog's Demise, [Betony](Lore_Betony.md) | | |
+| Resided in | [Betony](Lore_Betony.md) | | |
+| Reign | [Unknown](Lore_Era.md#Unknown) - <br> [c. 2E 300](Lore_Era.md#c._2E_300) | | |
+| Next Ruler | Yzzgol | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:King_Renwic) | | |
+
+Renwic was the last [Breton](Lore_Breton.md) King of [Betony](Lore_Betony.md) prior to the [Seamount Clan](Lore_Seamount_Clan.md)'s conquest of the island around the fourth century of the [Second Era](Lore_Second_Era.md). During the Seamount Clan's invasion of Betony, Renwic attempted to use an [Ayleid](Lore_Ayleid.md) relic to defeat the invaders, but when he summoned its power, he realized that it demanded souls, a price he was unwilling to pay.<sup>[[1]](#cite_note-Renwic-1)</sup> Ultimately, he was killed by the chief of the Seamount Clan, Yzzgol, and the [Orcs](Lore_Orc.md) took control of Betony, renaming it Betnikh.<sup>[[1]](#cite_note-Renwic-1)</sup><sup>[[2]](#cite_note-Betnikh-2)</sup><sup>[[3]](#cite_note-Ut P-3)</sup>
+
+## Biography
+Renwic's wife was Queen Nurese, with whom he fathered a daughter named Visanne.<sup>[[4]](#cite_note-Nurese-4)</sup><sup>[[5]](#cite_note-Visanne-5)</sup> His famous library was located at the future site of the Seamount Clan's Stonetooth Fortress.<sup>[[6]](#cite_note-VD-6)</sup><sup>[[7]](#cite_note-Tazgol-7)</sup>
+
+Nine generations prior to [2E 582](Lore_Second_Era.md#2E_582), the Orcs of the Seamount Clan invaded Betony.<sup>[[1]](#cite_note-Renwic-1)</sup><sup>[[2]](#cite_note-Betnikh-2)</sup> The Seamount Orcs laid siege to the Breton fortifications and killed many of the knights and civilians.<sup>[[4]](#cite_note-Nurese-4)</sup><sup>[[5]](#cite_note-Visanne-5)</sup><sup>[[8]](#cite_note-Frederique-8)</sup><sup>[[9]](#cite_note-ONOSA-9)</sup> Renwic became desperate to defeat the Seamount Clan.<sup>[[8]](#cite_note-Frederique-8)</sup> In his desperation, he learned of a relic located in Carzog's Demise, an [Ayleid ruin](Lore_Ayleid_Ruins.md) in northeastern Betony, that could be used to summon an [undead](Lore_Undead.md) army to defeat the Orcs.<sup>[[4]](#cite_note-Nurese-4)</sup><sup>[[5]](#cite_note-Visanne-5)</sup><sup>[[8]](#cite_note-Frederique-8)</sup> Renwic, his family, members of their entourage, and some peasants eventually fled to Carzog's Demise.<sup>[[10]](#cite_note-Nt N-10)</sup><sup>[[11]](#cite_note-BBS-11)</sup>
+
+Renwic needed time to perform a ritual to make use of the relic, so he ordered his remaining soldiers to attempt to hold back the Orcs.<sup>[[12]](#cite_note-DO-12)</sup><sup>[[13]](#cite_note-Drago-13)</sup> The Orcs eventually tracked them to Carzog's Demise, defeated the King's soldiers, and captured the Bretons in the ruins except for Renwic, who was in the relic's locked chamber performing the ritual.<sup>[[8]](#cite_note-Frederique-8)</sup><sup>[[14]](#cite_note-Ylanie-14)</sup><sup>[[15]](#cite_note-Seline-15)</sup><sup>[[16]](#cite_note-Othikha-16)</sup> Once Renwic summoned the relic's power, he realized that it demanded souls, a price he was unwilling to pay.<sup>[[1]](#cite_note-Renwic-1)</sup> Warcaller Targoth interrogated Renwic's family and members of his entourage, who ultimately told him how to open the door to the relic's chamber. Targoth and Yzzgol, the chief of the Seamount Clan, then entered the chamber and confronted Renwic. Although Yzzgol and Targoth gave Renwic a chance to surrender and join his people in exile, he refused to stand down, leading to the chief killing him.<sup>[[3]](#cite_note-Ut P-3)</sup>
+
+After Renwic's death, Betony became an Orc island for centuries and was renamed Betnikh.<sup>[[1]](#cite_note-Renwic-1)</sup><sup>[[2]](#cite_note-Betnikh-2)</sup> In 2E 582, a cult of [necromancers](Lore_Necromancy.md) called the [Bloodthorn Cult](Lore_Bloodthorn_Cult.md), led by [Vardan](Lore_Vardan.md), secretly established a cell on Betnikh to find the Ayleid relic that Renwic had attempted to use.<sup>[[6]](#cite_note-VD-6)</sup> Some Bloodthorn cultists raised the bodies of the Bretons interred in Grimfield, a cemetery in western Betnikh, as [zombies](Lore_Zombie.md) to supplement their army, which drew the attention of the spirit of Frederique Lynielle, a former priestess of [Arkay](Lore_Arkay.md) who served Renwic for many years.<sup>[[8]](#cite_note-Frederique-8)</sup><sup>[[17]](#cite_note-Rozag-17)</sup> Lynielle recruited an [adventurer](Lore_The_Vestige.md) who then disrupted the necromancers' rituals and destroyed the abominations that they had created. Renwic's spirit then spoke to the adventurer and showed them a vision of his last day through the eyes of the Orcs to provide them with information about the Ayleid relic to help stop the Bloodthorn Cult. After the adventurer experienced the vision, Renwic's spirit returned to the afterlife.<sup>[[3]](#cite_note-Ut P-3)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online* article](https://en.uesp.net/wiki/Online:King_Renwic).
+
+## References
+1. ^ <sup>***[a](#cite_ref-Renwic_1-0)***</sup><sup>***[b](#cite_ref-Renwic_1-1)***</sup><sup>***[c](#cite_ref-Renwic_1-2)***</sup><sup>***[d](#cite_ref-Renwic_1-3)***</sup><sup>***[e](#cite_ref-Renwic_1-4)***</sup> [King Renwic](https://en.uesp.net/wiki/Online:King_Renwic)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Betnikh_2-0)***</sup><sup>***[b](#cite_ref-Betnikh_2-1)***</sup><sup>***[c](#cite_ref-Betnikh_2-2)***</sup> [Betnikh](https://en.uesp.net/wiki/Online:Betnikh) loading screen in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-Ut P_3-0)***</sup><sup>***[b](#cite_ref-Ut P_3-1)***</sup><sup>***[c](#cite_ref-Ut P_3-2)***</sup> Events of [Unearthing the Past](https://en.uesp.net/wiki/Online:Unearthing_the_Past) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-Nurese_4-0)***</sup><sup>***[b](#cite_ref-Nurese_4-1)***</sup><sup>***[c](#cite_ref-Nurese_4-2)***</sup> [Queen Nurese](https://en.uesp.net/wiki/Online:Queen_Nurese)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. ^ <sup>***[a](#cite_ref-Visanne_5-0)***</sup><sup>***[b](#cite_ref-Visanne_5-1)***</sup><sup>***[c](#cite_ref-Visanne_5-2)***</sup> [Princess Visanne](https://en.uesp.net/wiki/Online:Princess_Visanne)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. ^ <sup>***[a](#cite_ref-VD_6-0)***</sup><sup>***[b](#cite_ref-VD_6-1)***</sup> [*Vardan's Diary*](https://en.uesp.net/wiki/Online:Vardan%27s_Diary) — [Vardan](https://en.uesp.net/wiki/Online:Vardan)
+7. [^](#cite_ref-Tazgol_7-0) [Chief Tazgol](https://en.uesp.net/wiki/Online:Chief_Tazgol)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. ^ <sup>***[a](#cite_ref-Frederique_8-0)***</sup><sup>***[b](#cite_ref-Frederique_8-1)***</sup><sup>***[c](#cite_ref-Frederique_8-2)***</sup><sup>***[d](#cite_ref-Frederique_8-3)***</sup><sup>***[e](#cite_ref-Frederique_8-4)***</sup> [Frederique Lynielle](https://en.uesp.net/wiki/Online:Frederique_Lynielle)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ONOSA_9-0) [Orcish Siege Gear](https://en.uesp.net/wiki/Online:Betnikh_Antiquities#Orcish_Siege_Gear) antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+10. [^](#cite_ref-Nt N_10-0) [*Note to Nurese*](https://en.uesp.net/wiki/Online:Note_to_Nurese) — [King Renwic](https://en.uesp.net/wiki/Online:King_Renwic)
+11. [^](#cite_ref-BBS_11-0) [*Breton Bedtime Stories*](Lore_Breton_Bedtime_Stories_(Loose_Page).md)
+12. [^](#cite_ref-DO_12-0) [*Drago's Orders*](https://en.uesp.net/wiki/Online:Drago%27s_Orders) — [King Renwic](https://en.uesp.net/wiki/Online:King_Renwic)
+13. [^](#cite_ref-Drago_13-0) [Drago Auberdine](https://en.uesp.net/wiki/Online:Drago_Auberdine)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-Ylanie_14-0) [Counselor Ylanie Bouchard](https://en.uesp.net/wiki/Online:Counselor_Ylanie_Bouchard)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-Seline_15-0) [Captain Seline](https://en.uesp.net/wiki/Online:Captain_Seline)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-Othikha_16-0) [Hunt-Wife Othikha](https://en.uesp.net/wiki/Online:Hunt-Wife_Othikha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-Rozag_17-0) [Rozag gro-Khazun](https://en.uesp.net/wiki/Online:Rozag_gro-Khazun)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)

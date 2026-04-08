@@ -1,0 +1,19 @@
+# Dervishes
+
+Dervishes, sometimes called the **Dervishes of Rihad** after the [city](Lore_Rihad.md) in which they were based,<sup>[[1]](#cite_note-ABOUH-1)</sup> were a respected group of spiritual [Redguard](Lore_Redguard.md) sword-dancers.<sup>[[2]](#cite_note-ATUQ-2)</sup><sup>[[3]](#cite_note-TSC-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/3/35/AR-place-Rihad.jpg/200px-AR-place-Rihad.jpg)](https://en.uesp.net/wiki/File:AR-place-Rihad.jpg) [](https://en.uesp.net/wiki/File:AR-place-Rihad.jpg) Rihad, the home of the Dervishes [![](https://images.uesp.net/thumb/3/37/ON-crown_store-Tattooed_Shorn_Camel.jpg/200px-ON-crown_store-Tattooed_Shorn_Camel.jpg)](https://en.uesp.net/wiki/File:ON-crown_store-Tattooed_Shorn_Camel.jpg) [](https://en.uesp.net/wiki/File:ON-crown_store-Tattooed_Shorn_Camel.jpg) One of the camels of the Dervishes Little is known of the Dervishes' origins. While the term dervish was once used to describe the graceful fighting style of [Yokudan](Lore_Yokudan.md) [Ansei](Lore_Ansei.md) during the conflicts against the [Kanuryai](Lore_Kanuryai.md), the exact link between that usage and the later faction was unclear.<sup>[[4]](#cite_note-LAB-4)</sup> Similarly, certain [animated Yokudan statues](Lore_Golem.md) set to guard the tombs of Redguard families were also referred to as dervishes.<sup>[[5]](#cite_note-ADD-5)</sup>
+
+The Dervishes were closely associated with the city of Rihad, and one of the earliest known among them was the [Crown](Lore_Crowns.md) Yousebh the Stringent, the Red Dervish of Rihad, who was credited with the pronouncement that "a daughter of the House of [Akos Kasaz](Lore_Akos_Kasaz.md) shall not marry an infidel of another house." For many years, the Crowns adhered to his teachings, but by [2E 582](Lore_Second_Era.md#2E_582) these doctrines were being challenged, by a marriage between a Crown and a [Forebear](Lore_Forebears.md) in [Bergama](Lore_Bergama.md), which in turn inspired works such as *[A Betrayal of Our Heritage](Lore_A_Betrayal_of_Our_Heritage.md)* by "Nworc at-Traeh" (an anagram of Crown at Heart).<sup>[[1]](#cite_note-ABOUH-1)</sup>
+
+Tanion of the College of Aldmeri Propriety claimed in a propagandistic work *[Ayrenn: The Unforeseen Queen](https://en.uesp.net/wiki/Lore:Ayrenn__The_Unforeseen_Queen)* lauding Queen [Ayrenn](Lore_Ayrenn.md) that she confronted the Dervishes of Rihad and defeated them in their own sword-dance at some point during her travels between [2E 573](Lore_Second_Era.md#2E_573) and [2E 580](Lore_Second_Era.md#2E_580).<sup>[[2]](#cite_note-ATUQ-2)</sup>
+
+The dervishes were known to shave their [camels](Lore_Camel.md) and tattoo them with mystic symbols so that spirits of the [deep desert](Lore_Alik%27r.md) would not lead them astray.<sup>[[3]](#cite_note-TSC-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ABOUH_1-0)***</sup><sup>***[b](#cite_ref-ABOUH_1-1)***</sup> [*A Betrayal of Our Heritage*](Lore_A_Betrayal_of_Our_Heritage.md) — "[Nworc at-Traeh](Lore_Books_by_Author.md#Nworc_at-Traeh)"
+2. ^ <sup>***[a](#cite_ref-ATUQ_2-0)***</sup><sup>***[b](#cite_ref-ATUQ_2-1)***</sup> [*Ayrenn: The Unforeseen Queen*](https://en.uesp.net/wiki/Lore:Ayrenn__The_Unforeseen_Queen) — [Headmaster Tanion](Lore_Books_by_Author.md#Headmaster_Tanion) of the College of Aldmeri Propriety
+3. ^ <sup>***[a](#cite_ref-TSC_3-0)***</sup><sup>***[b](#cite_ref-TSC_3-1)***</sup> [Tattooed Shorn Camel](https://en.uesp.net/wiki/Online:Tattooed_Shorn_Camel) mount description in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-LAB_4-0) [Lefthander's Aegis Belt](https://en.uesp.net/wiki/Online:Lefthander%27s_Aegis_Belt) item description and antiquity codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-ADD_5-0) [Al-Danobia Dervish](https://en.uesp.net/wiki/Online:Al-Danobia_Dervish) in [ESO](https://en.uesp.net/wiki/Online:Online)

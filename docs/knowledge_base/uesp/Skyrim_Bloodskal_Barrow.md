@@ -1,0 +1,59 @@
+# Bloodskal Barrow
+
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Nordic_Ruin.png) | Nordic Ruin: <br> Bloodskal Barrow <br> ([view on map](https://gamemap.uesp.net/sr/?world=solstheim&centeron=Bloodskal+Barrow)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days or 30 days | |
+| [Level](https://en.uesp.net/wiki/Skyrim:Encounter_Zone_Level) | Min: 10 | |
+| Occupants | | |
+| [Reavers](Skyrim_Reaver.md) | | |
+| Console Location Code(s) | | |
+| DLC2Bloodskal Barrow Exterior01, DLC2Bloodskal Barrow02 | | |
+| Region | | |
+| [Solstheim](Skyrim_Solstheim.md) | | |
+| Location | | |
+| North of [Raven Rock](Skyrim_Raven_Rock.md) <br> South of [Damphall Mine](Skyrim_Damphall_Mine.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 2 | |
+| # of [Tanning Racks](Skyrim_Tanning.md) | 3 | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 2 | |
+| # of [Wood Chopping Blocks](Skyrim_Chop_Wood.md) | 1 | |
+| # of [Stalhrim Deposits](Skyrim_Stalhrim.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/3/35/SR-place-Bloodskal_Barrow.jpg/200px-SR-place-Bloodskal_Barrow.jpg)](https://en.uesp.net/wiki/File:SR-place-Bloodskal_Barrow.jpg) [](https://en.uesp.net/wiki/File:SR-place-Bloodskal_Barrow.jpg) Bloodskal Barrow **Bloodskal Barrow** is a small [Nordic ruin](Skyrim_Nordic_Ruins.md) north of [Raven Rock](Skyrim_Raven_Rock.md) containing [reavers](Skyrim_Reaver.md). It contains only one zone, *[Bloodskal Barrow](#Bloodskal_Barrow)*.
+
+There are two entrances to the barrow, with the exterior entrance north of Raven Rock and another entrance inside [Raven Rock Mine](Skyrim_Raven_Rock_Mine.md). Much of the interior of the barrow can initially be accessed from the exterior entrance, but the deepest section of the barrow can only initially be accessed from the mine, as reflected in the walkthrough below. A tiny separate room in the barrow with an upright sarcophagus containing a [stalhrim](Skyrim_Stalhrim.md) deposit flanked by two large [urns](https://en.uesp.net/wiki/Skyrim:Urn) can also only be accessed from the mine, as described on the mine's location page.
+
+## Related Quests
+- **[Amulet of the Moon](https://en.uesp.net/wiki/Skyrim:Amulet_of_the_Moon)**: Find the [Moon Amulet](https://en.uesp.net/wiki/Skyrim:Moon_Amulet) for [Kharjo](https://en.uesp.net/wiki/Skyrim:Kharjo). ([radiant](Skyrim_Radiant.md))
+- **[Kill the Bandit Leader](Skyrim_Kill_the_Bandit_Leader.md)**: Do a favor by slaying a bandit leader. ([radiant](Skyrim_Radiant.md))
+- **[The Final Descent](Skyrim_The_Final_Descent.md)**: Find out what happened to the [great-grandfather](Skyrim_Gratian_Caerellius.md) of [Crescius Caerellius](Skyrim_Crescius_Caerellius.md).
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Bloodskal Barrow
+To explore the entire barrow, it must be initially entered via Raven Rock Mine. The entrance from the mine leads into a short twisting tunnel that ends at a concealed door opened using the pull chain to its left. Beyond the door is a typical Nordic crypt inhabited by reavers, with a stool to the left holding a copy of *[The Holds of Skyrim](https://en.uesp.net/wiki/Skyrim:The_Holds_of_Skyrim)*, and four loose [coins](Skyrim_Gold.md) on the ground near the stool. Unless you are [sneaking](Skyrim_Sneak.md), it is likely you will encounter a reaver and a reaver boss at this point. Like other Nordic crypts, rows of small alcoves line the walls to hold the dead, but here most are empty except for the occasional unlootable skeleton. In the south corner of the crypt room is a [wood chopping block](https://en.uesp.net/wiki/Skyrim:Wood_Chopping_Block). Along the southwest wall are five whole [salmon](Skyrim_Salmon_(dead).md) hanging from a rope strung against the wall, with a bunch of dried [elves ear](Skyrim_Elves_Ear.md), a bunch of dried [frost mirriam](Skyrim_Frost_Mirriam.md), and a [garlic](Skyrim_Garlic.md) braid hanging above. Behind the salmon in the lower burial alcove are two baskets containing six [leeks](https://en.uesp.net/wiki/Skyrim:Leek) and eleven [ash yams](https://en.uesp.net/wiki/Skyrim:Ash_Yam). To the right of the salmon in another alcove and on the ground are six bottles of bottles of [wine](https://en.uesp.net/wiki/Skyrim:Wine), a bottle of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine), and four [empty wine bottles](https://en.uesp.net/wiki/Skyrim:Empty_Wine_Bottle). In the west corner is a table with a built-in [alchemy lab](Skyrim_Alchemy_Labs.md).
+
+Northeast of the salmon is a campfire with a [cooking pot](Skyrim_Cooking_Pot.md) hanging over it. Northeast of the campfire are two chairs and a small round table holding an ash yam and a piece of [boar meat](https://en.uesp.net/wiki/Skyrim:Boar_Meat), with an open box containing six more ash yams on the floor next to the table. In the north corner is a sleeping area used by the reaver boss featuring a double bed and a dresser with a copy of *[Deathbrand](Skyrim_Deathbrand_(book).md)* on top. To the left of the dresser is a boss-level [chest](https://en.uesp.net/wiki/Skyrim:Chest). Opposite the foot of the bed are two sets of shelves holding several sets of [clothes](Skyrim_Clothes.md), three common books, a copy of *[The Red Book of Riddles](https://en.uesp.net/wiki/Skyrim:The_Red_Book_of_Riddles)*, a [deer hide](https://en.uesp.net/wiki/Skyrim:Deer_Hide), a medium [coin purse](https://en.uesp.net/wiki/Skyrim:Coin_Purse), four loose coins, and two sacks. To the left of the two sets of shelves is a shorter set of shelves holding eleven books common on [Solstheim](Skyrim_Solstheim.md), including another copy of *Deathbrand*, and a medium coin purse. Another sack and a fish barrel are along the back of the two sets of shelves, at the base of the rising path northwest of the campfire.
+
+At the top of the path is a fire to the right fueled by a pile of five [burnt corpses](Skyrim_Containers.md#Burnt_Corpse) apparently taken from the burial alcoves, with five [dead draugr](Skyrim_Containers.md#Draugr) on the floor and in a cart next to the fire. To the left the path turns back to the northwest and then again to the northeast. The stone stairs leading up to the exit are on the left to the northwest, while ahead to the northeast are the corpses of a [High Elf](Skyrim_High_Elf_(NPC).md) and an [Imperial](Skyrim_Imperial_(dead).md), both of which hold little but the clothes on their backs.
+
+### Exterior
+At least four reavers are stationed outside in the two ruined towers. The exit from the barrow leads to a ledge with a stone walkway crossing to the northwest. On the far side of the walkway is a wooden ramp leading down to the left and a doorway immediately ahead leading into the southwest tower. Beyond the doorway, the first room contains three chairs and a table to the west holding a portion of [grilled leeks](https://en.uesp.net/wiki/Skyrim:Grilled_Leeks), a [salmon steak](https://en.uesp.net/wiki/Skyrim:Salmon_Steak), and a rare [knife](Skyrim_Knife_(weapon).md) and two rare [forks](Skyrim_Fork_(weapon).md) usable as weapons. Along the southwest wall is a set of shelves holding a [chitin helmet](https://en.uesp.net/wiki/Skyrim:Chitin_Helmet), a pair of [chitin boots](https://en.uesp.net/wiki/Skyrim:Chitin_Boots), two [ash yams](https://en.uesp.net/wiki/Skyrim:Ash_Yam), and an [ash creep cluster](https://en.uesp.net/wiki/Skyrim:Ash_Creep_Cluster), with a [woodcutter's axe](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe) and a wood pile to the left of the set of shelves. Along the southeast wall is a flight of stairs ascending to the next level of the tower, with a fish barrel and a cooking pot on a stand beneath the stairs.
+
+At the top of the stairs is another room, with an alchemy lab in the west corner. To the northeast are three [tanning racks](Skyrim_Tanning_Rack.md), with a chair and a small round table between two of the racks holding a hooded red [Dunmer outfit](https://en.uesp.net/wiki/Skyrim:Dunmer_Outfit) and another fork weapon. Along the southeast wall is a set of shelves holding two [horker tusks](https://en.uesp.net/wiki/Skyrim:Horker_Tusk), a [horse hide](https://en.uesp.net/wiki/Skyrim:Horse_Hide), two bottles of [sujamma](https://en.uesp.net/wiki/Skyrim:Sujamma), and copies of *[The Poison Song, Book I](https://en.uesp.net/wiki/Skyrim:The_Poison_Song,_Book_I)*, *[The Tale of Dro'Zira](https://en.uesp.net/wiki/Skyrim:The_Tale_of_Dro%27Zira)*, *[The Reclamations](https://en.uesp.net/wiki/Skyrim:The_Reclamations)*, and *[Trap](https://en.uesp.net/wiki/Skyrim:Trap)*. Along the northwest wall is another flight of stairs leading up, with two ingredient barrels beneath the stairs. These stairs ascend to a bridge crossing to the northeast to the top level of the other tower.
+
+On the far side of the bridge is a flight of stairs leading down to the room on the top level of the northeast tower, with three food barrels beneath the stairs. Along the northeast wall opposite the stairs is a food barrel, a single bed, and an adept-locked chest. Along the southeast wall is a table holding a [scroll of chain lightning](https://en.uesp.net/wiki/Skyrim:Scroll_of_Chain_Lightning) and a [scrawled note](https://en.uesp.net/wiki/Skyrim:Scrawled_Note). As there is no other exit from this room, backtrack to the ramp leading down from the initial walkway crossing from the barrow exit.
+
+At the bottom of the ramp is a doorway into a lower level of the southwest tower, with a narrow table opposite the doorway holding two random [potions](Skyrim_Potions.md). To the right to the northeast is a flight of stone stairs descending to the lowest accessible level of the southwest tower. At the bottom of the stairs is a chest to the southwest next to the stairs, a single bed to the southeast, and a doorway to the northwest leading outside. Beyond the doorway is a stone bridge crossing to the northeast to the other tower, with a doorway ahead and a wooden ramp leading up to the right. At the top of the ramp is a room containing a reaver sleeping on a bedroll, two other bedrolls, and a pair of random [boots](https://en.uesp.net/wiki/Skyrim:Boots) on a crate. Again, there is no other exit from this room.
+
+Beyond the doorway at the end of the stone bridge is a food barrel and a flight of stone stairs down to the ground level, where a doorway exits the northeast tower. At least two more reavers can be found here. West of the towers near the shore is a [Nirnroot](https://en.uesp.net/wiki/Skyrim:Nirnroot) plant, while around the towers are several other plants that can be harvested for [ingredients](Skyrim_Ingredients.md) unique to Solstheim.
+
+## Notes
+- From the ground south a little of Bloodskal Barrow, climb up the mountain, on the halfway, north side is a [satchel](https://en.uesp.net/wiki/Skyrim:Satchel) and a boss-level chest, continue to climb up and see an [emerald geode](https://en.uesp.net/wiki/Skyrim:Emerald) and a [gold ore vein](https://en.uesp.net/wiki/Skyrim:Gold_Ore_Vein), there is another emerald geode a short distance east of the first geode. - With the [Ghosts of the Tribunal](Skyrim_Ghosts_of_the_Tribunal.md) Creation, [Ashfall's Tear](Skyrim_Ashfall%27s_Tear.md) can be found south of the second emerald geode.
+- South of the barrow is a [shrine of Kynareth](https://en.uesp.net/wiki/Skyrim:Shrine_of_Kynareth) and a respawning albino spider egg.
+- Bloodskal Barrow also [appears](https://en.uesp.net/wiki/Bloodmoon:Bloodskal_Barrow) in *[Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*.

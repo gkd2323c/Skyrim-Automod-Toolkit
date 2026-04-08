@@ -1,0 +1,173 @@
+# People F
+
+[Overview](https://en.uesp.net/wiki/Lore:People) | [A](Lore_People_A.md) [B](Lore_People_B.md) [C](Lore_People_C.md) [D](Lore_People_D.md) [E](Lore_People_E.md) F [G](Lore_People_G.md) [H](Lore_People_H.md) [I](Lore_People_I.md) [J](Lore_People_J.md) [K](Lore_People_K.md) [L](Lore_People_L.md) [M](Lore_People_M.md) [N](Lore_People_N.md) [O](Lore_People_O.md) [P](Lore_People_P.md) [Q](Lore_People_Q.md) [R](Lore_People_R.md) [S](Lore_People_S.md) [T](Lore_People_T.md) [U](Lore_People_U.md) [V](Lore_People_V.md) [W](https://en.uesp.net/wiki/Lore:People_W) [X](https://en.uesp.net/wiki/Lore:People_X) [Y](Lore_People_Y.md) [Z](https://en.uesp.net/wiki/Lore:People_Z)
+---
+
+#### Fa-Nuit-Hen
+[Fa-Nuit-Hen](Lore_Fa-Nuit-Hen.md), the **Multiplier of Motions Known**, is the scion of [Boethiah](Lore_Boethiah.md) and rules over the pocket realm of [Maelstrom](Lore_Maelstrom.md), hence he is known as the **[Demiprince](Lore_Demiprince.md) of Maelstrom**. The demiprince is known for his sword-teachings, and he is said to haunt the warriors who fell and still wonder why. He takes the form of a demonic [Bosmer](Lore_Bosmer.md) for strategic purposes, specifically to be both a nimble and a smaller target. His known wardrobe includes armor resembling that worn by the [Aureal](Lore_Aureal.md), and a [Daedric](Lore_Daedric_Equipment.md) helmet known as the [Flame Monarch's Crown](https://en.uesp.net/wiki/Lore:Flame_Monarch%27s_Crown), which he supposedly wore when he visited [Infernace](Lore_Infernace.md).
+
+#### Fahara'jad (fl. 2E 582)
+[Fahara'jad](Lore_Fahara%27jad.md) was the High King of [Hammerfell](Lore_Hammerfell.md) and King of [Sentinel](Lore_Sentinel_(kingdom).md) in the sixth century of the [Second Era](Lore_Second_Era.md). During [Ranser's War](Lore_Ranser%27s_War.md), he assisted his son-in-law King [Emeric](Lore_Emeric.md) of [Wayrest](Lore_Wayrest_(kingdom).md), ultimately helping Emeric emerge victorious in the conflict. In the aftermath of Ranser's War, he helped form the Second [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) and emerged as one of its primary leaders alongside High King Emeric and King [Kurog gro-Bagrakh](Lore_Kurog_gro-Bagrakh.md). He later helped lead the Covenant during the [Three Banners War](Lore_Three_Banners_War.md).
+
+#### Falion (fl. 4E 201)
+[Falion](Lore_Falion.md) is a [Redguard](Lore_Redguard.md) wizard, master [conjurer](Lore_Conjuration.md), and planar traveler who claimed to have encountered both the [Dwemer](Lore_Dwemer.md) and [Daedra](Lore_Daedra.md). He was a former teacher at the [College of Winterhold](Lore_College_of_Winterhold.md), and he was regarded as one of the only people in the province of [Skyrim](Lore_Skyrim.md) capable of curing [vampirism](Lore_Vampirism.md).
+
+#### Falki the Fat (?b - [3E 398](Lore_Third_Era.md#3E_398))
+[Falki the Fat](Lore_Falki_the_Fat.md) was a [Nord](Lore_Nord.md) chieftain of [Thirsk](Lore_Thirsk.md) during the [Imperial Simulacrum](Lore_Imperial_Simulacrum.md) in the fourth century of the [Third Era](Lore_Third_Era.md).
+
+He became Chieftain of Thirsk after slaying a pack of six rabid wolves and presenting their claws as a battle trophy. He would rule only for three weeks, as he succumbed to madness and passed away as a result of contracting rabies.
+
+#### Falx Carius (3E? b - [4E 5](Lore_Fourth_Era.md#4E_5))
+[Falx Carius](Lore_Falx_Carius.md), a Captain and later a General of the [Imperial Legion](Lore_Imperial_Legion.md), was an [Imperial](Lore_Imperial.md) posted to [Fort Frostmoth](Lore_Fort_Frostmoth.md) sometime before [3E 427](Lore_Third_Era.md#3E_427) as a Knight Protector and Garrison Commander. He had numerous dealings with the [Nerevarine](Lore_Nerevarine.md) during the latter's journeys on [Solstheim](Lore_Solstheim.md). He died in [4E 5](Lore_Fourth_Era.md#4E_5), but was raised from the dead later in the [Fourth Era](Lore_Fourth_Era.md). There are many tales of General Carius's exploits among even the Redoran Guard, including helping in the founding of [Raven Rock](Lore_Raven_Rock.md).
+
+#### Faolchu (?b - [2E 582](Lore_Second_Era.md#2E_582))
+[Faolchu the Changeling](Lore_Faolchu.md) was an [Imperial](Lore_Imperial.md) [werewolf lord](Lore_Lycanthropy.md#Werewolf_Lord), who served as a general of the [Alessian Order](Lore_Alessian_Order.md). Faolchu had a reputation for being nigh invulnerable in battle, earning him the sobriquets of the **Invincible General** and the **Invincible One**.
+
+Soldiers could bash him with a shield, stick him full of arrows, and cut deep into his flesh, and Faolchu would not falter in his assault. Not even a sword to the heart could kill him. However, Faolchu had a crippling fear of fire. Fire was the only thing that could stop Faolchu in his tracks. Faolchu was one of the generals who commanded the Alessian army against the forces of Clan [Direnni](Lore_Direnni.md) at the [Battle of Glenumbra Moors](Lore_Battle_of_Glenumbra_Moors.md). He was ultimately killed during a Direnni assault on his headquarters at the Battle of Glenumbra Moors while a fire raged around him.
+
+#### Chieftain Faorin (fl. 2E 582)
+[![](https://images.uesp.net/thumb/e/e2/ON-load-Briar_Rock_Ruins.png/200px-ON-load-Briar_Rock_Ruins.png)](https://en.uesp.net/wiki/File:ON-load-Briar_Rock_Ruins.png) [](https://en.uesp.net/wiki/File:ON-load-Briar_Rock_Ruins.png) Briar Rock Ruins **Chieftain** [Faorin](https://en.uesp.net/wiki/Lore:Faorin) was the leader of the [Hillhunters](Lore_Hillhunter_Clan.md), one of the prominent [Reachfolk](Lore_Reachfolk.md) [clans](Lore_Reachman_Clans.md) of the [Second Era](Lore_Second_Era.md). He was active in [2E 582](Lore_Second_Era.md#2E_582), during the [Three Banners War](Lore_Three_Banners_War.md), and led his people to [Briar Rock](Lore_Briar_Rock_Ruins.md).
+
+#### Faoshor (fl. 2E 536)
+[Faoshor](https://en.uesp.net/wiki/Lore:Faoshor) was one of the [Reachfolk](Lore_Reachfolk.md) sorcerer advisors of [Emperor](Lore_Tamrielic_Emperors.md) [Durcorach](Lore_Durcorach.md) the [Black Drake](Lore_Blackdrake_Clan.md), who held a prominent position of trust and influence in the emperor's court in the [Imperial City](Lore_Imperial_City.md). He was possibly a member of the [Tagh Droiloch](Lore_Tagh_Droiloch.md).
+
+#### King Farangel Gardner (fl. 1E 1100)
+[Farangel Gardner](Lore_Farangel_Gardner.md) was a [Breton](Lore_Breton.md) noble from the early-mid [First Era](Lore_First_Era.md). He is most well-known for being the first King of [Wayrest](Lore_Wayrest_(kingdom).md) and the founder of its first ruling house, the Gardner Dynasty.
+
+#### Farena Andrano (fl. c. 1E 700)
+[Farena Andrano](Lore_Farena_Andrano.md) was a [Chimer](Lore_Chimer.md) member of the influential Andrano family of the [House Redoran](Lore_House_Redoran.md). She was a disciple and a close companion of [Sotha Sil](Lore_Sotha_Sil.md), even before the [Tribunal](Lore_Tribunal.md)'s ascension to godhood and one of the ancestors of [Llevule Andrano](Lore_Llevule_Andrano.md), the Archcanon of the [Tribunal Temple](Lore_Tribunal_Temple.md).
+
+#### Farengar Secret-Fire (fl. 4E 201)
+[Farengar Secret-Fire](Lore_Farengar_Secret-Fire.md) was the [Nord](Lore_Nord.md) Court Wizard of [Jarl Balgruuf the Greater](Lore_Balgruuf_the_Greater.md) in [4E 201](Lore_Fourth_Era.md#4E_201), and assisted Balgruuf with his magical affairs. His duties also required him to assist in the containment of the [Ebony Blade](Lore_Ebony_Blade.md), that would later be found by Balgruuf's son Nelkir. He was uninterested in the [Skyrim Civil War](Lore_Skyrim_Civil_War.md) and did not support the Empire. He was dedicated to the [College of Winterhold](Lore_College_of_Winterhold.md) and focused on furthering the cause of magical research. He was known to be reclusive and arrogant, but was also eminent in Daedric studies.
+
+#### Count Fasil Umbranox (fl. 3E 267 - 271)
+**Fasil Umbranox** was the Count of [Anvil](Lore_Anvil.md) and a commodore of the [Imperial Navy](Lore_Imperial_Navy.md) in the [Third Era](Lore_Third_Era.md). He served in the war against the [Camoran Usurper](Lore_Camoran_Usurper.md), and afterward he was given the funds to track down and destroy Captain [Torradan ap Dugal](Lore_Torradan_ap_Dugal.md) and his [Red Sabre Pirates](Lore_Red_Sabre.md). After four years of hunting the pirates, Umbranox and his forces destroyed the Red Sabre in a battle in Anvil Bay, which ended when his mages brought a cliff wall down on ap Dugal's flagship, the Black Flag. As a reward for destroying the Red Sabres, he was named the Count of Anvil and burned down the original ramshackle huts to build a new city from the ashes of Old Anvil.<sup>[[1]](#cite_note-CDJ-1)</sup><sup>[[2]](#cite_note-OB-DL-2)</sup>
+
+#### Fate Crone
+The [Fate Crone](Lore_Fate_Crone.md) was an obscure [Apocryphal](Lore_Apocrypha.md) entity associated with the runes used by [Arcanists](Lore_Arcanists.md), who was described as resembling an ancient [Hag](Lore_Hag.md).
+
+#### Fav'te (fl. [3E 403](Lore_Third_Era.md#3E_403))
+[Fav'te](Lore_Fav%27te.md) was a [Redguard](Lore_Redguard.md) writer from the [Kingdom of Sentinel](Lore_Sentinel_(kingdom).md). He was active in the fourth century of the [Third Era](Lore_Third_Era.md) when the [War of Betony](Lore_War_of_Betony.md) took place. After the war had passed, he wrote a pro-Sentinel book titled *[The War of Betony](Lore_The_War_of_Betony_(Fav%27te).md)*, which detailed the events of the conflict and [Daggerfall](Lore_Daggerfall_(kingdom).md)'s supposed foul play and malpractice.<sup>[[3]](#cite_note-TWOBF-3)</sup>
+
+#### Felande Demarie (fl. 2E 582)
+[Felande Demarie](https://en.uesp.net/wiki/Lore:Felande_Demarie) was a [Breton](Lore_Breton.md) landlord and author who owned various properties throughout [Tamriel](Lore_Tamriel.md). She sold homes ranging from modest inn rooms to manors that'd immediately raise a potential new owner to a higher stratum of society.
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), she offered free inn rooms to heroes, such as [the Vestige](Lore_The_Vestige.md), as an arrangement to improve the reputation of her properties. These rooms were located in cities such as [Vulkhel Guard](Lore_Vulkhel_Guard.md), [Daggerfall](Lore_Daggerfall.md), [Ebonheart](Lore_Ebonheart.md), [Vivec](Lore_Vivec.md), [Alinor](Lore_Alinor_(city).md), [Rimmen](Lore_Rimmen.md), [Solitude](Lore_Solitude.md), [Leyawiin](Lore_Leyawiin.md), [Gonfalon Bay](Lore_Gonfalon_Bay.md), [Necrom](Lore_Necrom.md) and [Skingrad](Lore_Skingrad.md). She also wrote guides to educate new homeowners on the various locations and ways of obtaining furniture to decorate their home with. The same guide also touched on how to show off homes to the world by adding them to Tamriel's tour listings. Felande also personally welcomed new homeowners through letters.
+
+#### Felldir the Old (fl. late Merethic Era)
+[Felldir the Old](Lore_Felldir_the_Old.md) was an [Atmoran](Lore_Atmoran.md) hero and [Tongue](Lore_Tongue.md) in the [Merethic Era](Lore_Merethic_Era.md). Felldir, [Gormlaith Golden-Hilt](Lore_Gormlaith_Golden-Hilt.md), and [Hakon One-Eye](Lore_Hakon_One-Eye.md) were the leaders of the rebellion against [Alduin](Lore_Alduin.md), and the first mortals to learn how to wield the [Thu'um](Lore_Thu%27um.md) besides the [Dragon Priests](Lore_Dragon_Priest.md). They were taught by [Paarthurnax](Lore_Paarthurnax.md). During the [Dragon War](Lore_Dragon_War.md), Hakon and the others sought the help of [Miraak](Lore_Miraak.md), the First Dragonborn, in defeating Alduin, but Miraak refused to help. Undeterred, together, they fought against Alduin atop the [Throat of the World](Lore_Throat_of_the_World.md) at the end of the [Dragon War](Lore_Dragon_War.md). Finding that they had no means to achieve a final victory, the companions successfully used Felldir's stratagem to send the [wyrm](Lore_Dragon.md) forward through time using an [Elder Scroll](Lore_Elder_Scrolls.md), creating a [Time Wound](Lore_Time_Wound.md) in the process. Thousands of years later, the spirits of Felldir and his compatriots assisted the [Last Dragonborn](Lore_Last_Dragonborn.md) in the final battle against their nemesis in the realm of [Sovngarde](Lore_Sovngarde.md). He also aided the Last Dragonborn in their other battles, when called to their aid with the Call of Valor.
+
+#### Saint Felms the Bold (fl. before 2E 582)
+[Dunmeri](Lore_Dunmer.md) patron saint of butchers and fishmongers. A fierce warrior, he slew many [Nord](Lore_Nord.md) invaders and drove them from [Morrowind](Lore_Morrowind.md). He could neither read nor write, instead being blessed by receiving inspiration directly from the lips of [Almsivi](Lore_Almsivi.md).<sup>[[4]](#cite_note-LOTS-4)</sup> The [Cleaver of St. Felms](Lore_Cleaver_of_St._Felms.md) is a holy relic greatly prized by the [Tribunal Temple](Lore_Tribunal.md).<sup>[[5]](#cite_note-Morrowind-5)</sup> When close to death, Sotha Sil placed Felms's soul into a modified black soul gem which was then brought to the [Asylum Sanctorium](https://en.uesp.net/wiki/Online:Asylum_Sanctorium) and installed in a giant [factotum](https://en.uesp.net/wiki/Online:Factotum) body to make him immortal.<sup>[[6]](#cite_note-Online-6)</sup> Unfortunately, the process eventually drove him to madness, which manifested as agitation, a single-minded focus on fighting and conquests, and mood swings including outbursts of disdain, frustration, and anger.<sup>[[7]](#cite_note-7)</sup>
+
+#### Jarl Fenreld Kjenarik (2E? b - [2E 582](Lore_Second_Era.md#2E_582))
+[Fenreld Kjenarik](https://en.uesp.net/wiki/Lore:Fenreld_Kjenarik) was a [Nord](Lore_Nord.md) active during the [Interregnum](Lore_Interregnum.md) of the [Second Era](Lore_Second_Era.md) who styled himself as the **Jarl of the Wilds**. He oversaw and provided for travelers and the forgotten people in need, dedicating himself to aiding those who navigated the harsh, cold landscapes of [Skyrim](Lore_Skyrim.md).
+
+#### Queen Fereshtah (fl. early Second Era)
+**Queen** [Fereshtah](Lore_Fereshtah.md) was a prominent [Forebear](Lore_Forebears.md) [Redguard](Lore_Redguard.md) noblewoman active during the mid– [Second Era](Lore_Second_Era.md). She was a contemporary of High King [Ja-Fr](Lore_Ja-Fr.md) and his successor [Ar-Azal](Lore_Ar-Azal.md), who became her husband and whom she married alongside the Blood Queen [Arlimahera](Lore_Arlimahera.md). She was the daughter of [Ebrahim](Lore_Ebrahim.md) of [Sentinel](Lore_Sentinel_(kingdom).md), the greatest Forebear Grandee of her time.
+
+#### Fervidius Tharn (fl. 1E 1188)
+[Fervidius Tharn](Lore_Fervidius_Tharn.md) of [House Tharn](Lore_Tharn.md) ruled as Arch-Prelate of the [Alessian Order](Lore_Alessian_Order.md) during the [First Era](Lore_First_Era.md). Said to have been often mischaracterized and misunderstood, his allegiances and motives are unclear, conflicting and sometimes disputed. Fervidius began life in the Alessian Order as a humble oblate, but his accomplishments eventually led to him becoming Arch-Prelate of the entire order. During this time, it was said he wielded power almost as great as that of the emperor.
+
+#### Festil (fl. 3E 300s)
+[Festil](Lore_Festil.md) was an armsmaster who dedicated his life to strategy. He was a seasoned warrior, having been in numerous life and death conflicts over a span of at least two generations.
+
+#### Chieftain Fiasof (?b - ?d)
+**Chieftain** [Fiasof](Lore_Fiasof.md) was a legendary figure from the oral tradition of the [Reachfolk](Lore_Reachfolk.md). He was a prominent character in a tragedy told by Reachfolk [Vateshrans](Lore_Vateshrans.md) throughout generations and was mentioned alongside other important Reachmen such as King [Faolan](Lore_Faolan.md) and [Emperor](Lore_Tamrielic_Emperors.md) [Leovic](Lore_Leovic.md). His story teaches Reachfolk to challenge themselves, and touts humility as an essential trait. It is unknown when he lived, or if he ever existed, but as of [2E 582](Lore_Second_Era.md#2E_582) stories of him were already widespread in [the Reach](Lore_The_Reach.md). A *Tale of Gods and Sorrow* by Vateshran [Calbokh](Lore_Calbokh.md) is one of the stories devoted to Fiasof.
+
+#### Fildunor Boughbrow (fl. before 2E 582)
+[Fildunor Boughbrow](Lore_Fildunor_Boughbrow.md) was a [Bosmer](Lore_Bosmer.md) legendary hero. They stood among many of the illustrious heroes of the Wood Elves, thriving prior to [2E 582](Lore_Second_Era.md#2E_582). They shared recognition with figures like the [Many-Tales Wolf](Lore_Many-Tales_Wolf.md) and [Elthonor the Barkborn](Lore_Elthonor_the_Barkborn.md), and notably, the [Ghost of the Green](Lore_Ghost_of_the_Green.md). Despite being considered less renowned than the Ghost, Treethane Einisse's *[The Ghost of the Green](Lore_The_Ghost_of_the_Green.md)* speaks of the Boughbrow's remarkable accomplishments.
+
+#### Fildgor (2E 546 - ?)
+[Fildgor Orcthane](Lore_Fildgor.md), formerly known as **Fildgor Strong-Prince**, was a [Nord](Lore_Nord.md) prince born to Queen [Mabjaarn Flame-Hair](Lore_Mabjaarn_Flame-Hair.md) of Eastern [Skyrim](Lore_Skyrim.md). He was the twin brother of [Jorunn](Lore_Jorunn.md) the Skald-Prince, and Princess [Nurnhilde](Lore_Nurnhilde.md) was their elder sister.
+
+#### Finoriell (2E? b - [2E 582](Lore_Second_Era.md#2E_582))
+[Finoriell](Lore_Finoriell.md) was a [Bosmer](Lore_Bosmer.md) woman who served as the [Green Lady](Lore_Green_Lady.md) in the mid- [Second Era](Lore_Second_Era.md). She was born in [Deepwoods](https://en.uesp.net/wiki/Lore:Deepwoods), a small village in the [Malabal Tor](Lore_Malabal_Tor.md) region of [Valenwood](Lore_Valenwood.md). Unlike previous Green Ladies, Finoriell was granted the position quite late in life, while she was living in [Velyn Harbor](Lore_Velyn_Harbor.md). As the Green Lady, she became the embodiment of the physical side of the Bosmer, granting her supernatural fighting prowess and the "swiftness of the Green", the ability to cover vast distances in very little time. As is customary, she was married to [the Silvenar](Lore_The_Silvenar.md), [Edhelorn](Lore_Edhelorn.md), at a handfasting ceremony in the city of [Silvenar](Lore_Silvenar.md). Finoriell was known to love Edhelorn dearly.
+
+#### Fjokki the Bard (fl. before 2E 582)
+[Fjokki the Bard](Lore_Fjokki.md) was a [Nord](Lore_Nord.md) warrior and poet active in the [Second Era](Lore_Second_Era.md), who was most well known for his work "The Art of Love and Swordplay". He claimed it was an autobiographical account of his exploits, both [carnal](Lore_Sex.md) and adventurous, however many believed that much of the details were exaggerated or fictional. Additionally, some would criticize the technical skill of his writing.
+
+#### Fjori (fl. before 4E 201)
+[Fjori](Lore_Fjori.md) was a [Nord](Lore_Nord.md) huntress. When she was 29 years old, she fell in love with the warlord [Holgeir](Lore_Holgeir.md) on the field of battle, where they fought until her sword broke his axe and his shield dulled her blade. With Fjori and Holgeir united, there came a time of peace for the clans of the forest. When Holgeir was bitten by a poisonous snake, Fjori journeyed to obtain a cure from the [Akavir](Lore_Akavir.md) which instantly cured him. However, then Fjori too was bitten by a snake, she died immediately due to exhaustion from her journey. Holgeir had a great tomb built, and after its completion, he took his own life, hoping to rejoin her in [Sovngarde](Lore_Sovngarde.md).
+
+#### Sybil Fjotra (ca. 4E 190 - ?d)
+[Fjotra](Lore_Fjotra.md) was a [Reachfolk](Lore_Reachfolk.md)<sup>[[nb 1]](#intnote_nb1)</sup> [Sibyl](https://en.uesp.net/wiki/Lore:Sibyl) of [Markarth](Lore_Markarth.md)'s chapter of the [House of Dibella](Lore_House_of_Dibella.md). She was selected as a Sybil during the ceremony of Exalted Protocol of the Dibellan Sybil in [4E 201](Lore_Fourth_Era.md#4E_201), which followed the death of her predecessor.
+
+#### Flaccus Terentius (2E? b - [2E 581](Lore_Second_Era.md#2E_581))
+[Flaccus Terentius](Lore_Flaccus_Terentius.md) was an [Imperial](Lore_Imperial.md) painter from [Bravil](Lore_Bravil.md) who served as Envoy-Scholar of the Empress Regent [Clivia Tharn](Lore_Clivia_Tharn.md) from [2E 578](Lore_Second_Era.md#2E_578) to his death in [2E 581](Lore_Second_Era.md#2E_581). He partook in an ill-fated journey across [Tamriel](Lore_Tamriel.md) to compile *[The Improved Emperor's Guide to Tamriel](Lore_The_Improved_Emperor%27s_Guide_to_Tamriel.md)*, but was corrupted by the [necromantic](Lore_Necromancy.md) magic of [Mannimarco](Lore_Mannimarco.md) and eventually died. His [soul](Lore_Souls.md) was subsequently trapped in [Coldharbour](Lore_Coldharbour.md).
+
+#### Flame King (?b - [1E 808](Lore_First_Era.md#1E_808))
+[The Flame King](Lore_Flame_King.md) (real name unknown) was a [Nedic](Lore_Nede.md) ruler during the early-mid [First Era](Lore_First_Era.md). He lead an unknown nedic clan that was allied with the [Duraki](Lore_Duraki.md) kingdom. He was the last of his title, as the Nedic civilization of the [Deathlands](Lore_Deathlands.md) fell with the arrival of the [Ra Gada](Lore_Ra_Gada.md) in [1E 808](Lore_First_Era.md#1E_808).
+
+#### Province General Flaminius Auctor (fl. 2E 582)
+**General** [Flaminius Auctor](https://en.uesp.net/wiki/Lore:Flaminius_Auctor) was a member of the Council of Province Generals of the [Fighters Guild](Lore_Fighters_Guild.md) during the turbulent times of the [Interregnum](Lore_Interregnum.md). He represented his homeland, [Cyrodiil](Lore_Cyrodiil.md), on the council.
+
+#### Flinthild Demon-Hunter (fl. ME)
+**[Flinthild Demon-Hunter](Lore_Flinthild_Demon-Hunter.md)** was a warrior of renown in the [Merethic Era](Lore_Merethic_Era.md). She was a member of [Khunzar-ri](Lore_Khunzar-ri.md)'s kra'jun, a group of heroes in [Elsweyr](Lore_Elsweyr.md) that strove to drive out the so-called [demons](Lore_Dragon.md) that plagued the land. She was the second individual recruited by Khunzar-ri, following [Nurarion the Perfect](Lore_Nurarion.md).
+
+#### King Folbert the Wide (fl. 2E 567)
+[Folbert](https://en.uesp.net/wiki/Lore:Folbert) **the Wide** was the King of [Daggerfall](Lore_Daggerfall_(kingdom).md), an ally of [Wayrest](Lore_Wayrest.md) during [Ranser's War](Lore_Ranser%27s_War.md), and an instrumental figure in the second or greater [Daggerfall Covenant](Lore_Daggerfall_Covenant.md).
+
+#### Forromeo (fl. 3E 172)
+[Forromeo](Lore_Forromeo.md) was a member of [Clan Direnni](Lore_Clan_Direnni.md), known as an author, magician, and engineer of [siege weapons](Lore_Siege_Weapons.md). He is credited with the creation of the Grand and Thaumaturgical and Most Puissant Trebuchet of Overarching Peril.
+
+#### Grand Maestro Forte (fl. 2E 582)
+**Grand Maestro** [Forte](Lore_Forte.md) was an [Altmer](Lore_Altmer.md) scholar, performer, and the leader of the [House of Reveries](Lore_House_of_Reveries.md), and a renowned scholar of ancient languages in addition to his theatrical talents.
+
+#### Governor Fortunata ap Dugal (ca. 2E 542 - 582)
+[Fortunata ap Dugal](Lore_Fortunata_ap_Dugal.md), known as the **Pirate Queen**, was an [Imperial](Lore_Imperial.md) pirate captain, leader of the Red Sails, and the Provincial Governor of [Anvil](Lore_Anvil.md) during the sixth century of the [Second Era](Lore_Second_Era.md). Fortunata began her career as a minor functionary in the [Gold Coast Trading Company](Lore_Gold_Coast_Trading_Company.md) before eventually becoming one of the shipping magnates at the top of the organization. Fortunata used her position in the Gold Coast Trading Company to convince the Red Sail pirates to join her, assembling a formidable armada of merchant vessels and pirate ships. When the time was right, in [2E 577](Lore_Second_Era.md#2E_577), Fortunata and her armada sailed into Anvil Harbor and seized control of the city.
+
+After capturing the city, Fortunata took the title of Provincial Governor of Anvil and declared the [Gold Coast](Lore_Gold_Coast.md) to be a free and independent state, initiating a conflict with [Carolus Aquilarios](Lore_Carolus_Aquilarios.md), the Count of [Kvatch](Lore_Kvatch.md). Fortunata's pirates subsequently slaughtered Carolus' cohort of the [Second Legion](Lore_Second_Legion.md) in the Gottshaw Massacre, leaving him with no choice but to swear fealty to an independent Gold Coast. These events marked the start of a three-way power struggle over the Gold Coast between Fortunata, Carolus, and [Artorius Ponticus](Lore_Artorius_Ponticus.md), the Primate of [Akatosh](Lore_Akatosh.md). Fortunata continued to plot to gain control of the entire Gold Coast, but she was killed by the [Dark Brotherhood](Lore_Dark_Brotherhood.md) in [2E 582](Lore_Second_Era.md#2E_582) at the behest of Carolus before she could realize this ambition.
+
+#### Four Ambitions
+[![](https://images.uesp.net/thumb/8/83/ON-trailer-Four_Ambitions_book.jpg/200px-ON-trailer-Four_Ambitions_book.jpg)](https://en.uesp.net/wiki/File:ON-trailer-Four_Ambitions_book.jpg) [](https://en.uesp.net/wiki/File:ON-trailer-Four_Ambitions_book.jpg) A book depicting the Four Ambitions The [Four Ambitions](Lore_Four_Ambitions.md) are a quartet of powerful beings associated with Mehrunes Dagon. They are symbolized by a boar, a fox and a pair of rams. The Longhouse Emperors long conspired to prepare for their usage, and left their work to the Order of the Waking Flame, Dagonists seeking the Ambitions, for when they were finally ready to use their power to merge Nirn with The Deadlands.
+
+#### The Fox
+[The Fox](Lore_The_Fox.md), also potentially referred to as **Gray**, was a talking [Daedric](Lore_Daedra.md) [Fox](Lore_Fox.md) from the [Hunting Grounds](Lore_Hunting_Grounds.md) of the [Daedric Prince](Lore_Daedric_Prince.md) [Hircine](Lore_Hircine.md). He was a friend and companion of the [Gryphon](Lore_Gryphon.md), one of the [Luminaries of Magic](Lore_Luminary.md). The Fox played a role in the rediscovery of Scribing, a "metamagical theoryset" created by [Archmage Ulfsild the Evergreen](Lore_Ulfsild_the_Evergreen.md) and the Luminaries, which was the precursor to the modern [Spellcrafting](Lore_Spellcrafting.md) system.
+
+#### Frandar Hunding ([1E 720](Lore_First_Era.md#1E_720) - 1E? d)
+[Frandar do Hunding Hel Ansei No Shira](Lore_Frandar_Hunding.md), commonly known as **Frandar Hunding**, or simply **Hunding**,<sup>[[nb 1]](#intnote_nb1)</sup> was a [Yokudan](Lore_Yokuda.md) warrior-prince and is considered to be the most accomplished [Sword-singer](Lore_Sword-singer.md) and master [Ansei](Lore_Ansei.md) in history. Born in [1E 720](Lore_First_Era.md#1E_720)<sup>[[nb 2]](#intnote_nb2)</sup> in the province of [High Desert](Lore_High_Desert.md) on Yokuda in the marches of [Hunding](Lore_Hunding_(region).md); Frandar is best remembered for being one of the first Yokudans to settle in [Hammerfell](Lore_Hammerfell.md), giving birth to the [Redguard](Lore_Redguard.md) people in the centuries that followed. Because of this, he is sometimes known as the "first Redguard". He is also revered for developing the "Way of the Sword", a martial philosophy on blade mastery.
+
+Frandar is the only "given" part of his name: "Hunding" is the name of the region of his birth; "No Shira" means person of noble birth and "Hel Ansei" is his title of Sword Sainthood in the [language of Yokuda](Lore_Yoku.md). He is venerated as Ansei Frandar Hunding and "sacred Hunding".
+
+#### Frathen Drothan (?b - [3E 433](Lore_Third_Era.md#3E_433))
+[Frathen Drothan](Lore_Frathen_Drothan.md) was a rogue [Telvanni](Lore_House_Telvanni.md) Arch-Mage, and leader of the [Drothmeri Army](Lore_Drothmeri_Army.md). Although he received no support from the Great Houses of [Morrowind](Lore_Morrowind.md), he assembled an army of mercenaries to topple [Imperial rule](Lore_Third_Empire.md). To do so he sought out [Mehrunes' Razor](Lore_Mehrunes%27_Razor.md), which was rumored to have been uncovered in the iron mines of [Sundercliff Watch](Lore_Sundercliff_Watch.md), an abandoned outpost in the [Valus Mountains](Lore_Valus_Mountains.md). In [3E 433](Lore_Third_Era.md#3E_433) he set up base there and searched the ruins of [Varsa Baalim](Lore_Varsa_Baalim.md), an [Ayleidic](Lore_Ayleid.md) city where the Nefarivigum was said to be. This was an evil construct of [Mehrunes Dagon](Lore_Mehrunes_Dagon.md), created to test pilgrims seeking the Razor. Drothan decrypted the runes and was close to recovering the Razor, before the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) defeated him and claimed the dagger, leading to the failure of his expedition. His failure in the ruins of Varsa Baalim was documented in the book *[The Keepers of the Razor](Lore_The_Keepers_of_the_Razor.md)*.
+
+#### Frea (fl. [4E 201](Lore_Fourth_Era.md#4E_201))
+[Frea Crag-Strider](Lore_Frea.md) is a [Nord](Lore_Nord.md) and shaman of the [Skaal](Lore_Skaal.md), who resides in [Skaal Village](Lore_Skaal_Village.md). Before becoming shaman, she assisted the [Last Dragonborn](Lore_Last_Dragonborn.md) in defeating [Miraak](Lore_Miraak.md), who threatened the Skaal and all of [Solstheim](Lore_Solstheim.md).
+
+She was the daughter of Storn Crag-Strider, the previous shaman. Frea's mother died when she was very young. Her mother was caught in a terrible snowstorm while returning home from gathering firewood.
+
+#### Freida Oaken-Wand (fl. Merethic Era)
+[Freida Oaken-Wand](Lore_Freida_Oaken-Wand.md) was one of the greatest [Nord](Lore_Nord.md) warriors among the participants of the [Battle of the Moesring](Lore_Battle_of_the_Moesring.md).
+
+Freida, together with [Heimdall the Frenzied](Lore_Heimdall_the_Frenzied.md), [Ulfgi Anvil-Hand](Lore_Ulfgi_Anvil-Hand.md), and [Strom the White](Lore_Strom_the_White.md), stood among the mightiest warriors of their group, yet all were defeated by the [Snow Prince](Lore_Snow_Prince.md), his [spear](Lore_Spear_of_the_Snow_Prince.md), and his mastery of ice and snow [magic](Lore_Magic.md). They fell in battle and lay dead at the foot of the Moesring Mountains. Though victorious, the Prince too met his end that day, slain by Finna, daughter of Jofrior, whom the elf had previously killed.
+
+#### High Queen Freydis (fl. 2E 431)
+[Freydis](Lore_Freydis.md) was the [Nord](Lore_Nord.md) High Queen of [Eastern Skyrim](Lore_Eastern_Skyrim.md) during the mid- [Second Era](Lore_Second_Era.md). She was the first High Queen of Eastern Skyrim, the eastern half of [Skyrim](Lore_Skyrim.md) that split from the [west](Lore_Western_Skyrim.md) after the assassination of her father, High King [Logrolf](Lore_Logrolf.md). Freydis was the progenitor of Eastern Skyrim's dynasty and the namesake of the [Crown of Verity](Lore_Crown_of_Verity.md)'s alternate name, the Crown of Freydis. Like her descendants, Freydis had curly red hair.
+
+#### Frincheps, Archprince of All Sumurset (fl. 3E)
+[Frincheps](Lore_Frincheps.md) is a playwright known for his fictional work, [Fools' Ebony](Lore_Fools%27_Ebony.md). It was produced as a stageplay by the [Actors Guild](Lore_Actors_Guild.md), who have also advised anyone in the audience that may find the play unsatisfactory to leave immediately in the first part.<sup>[[8]](#cite_note-FBPTO1-8)</sup> He goes by the title, the Archprince of All [Sumurset](https://en.uesp.net/wiki/Lore:Sumurset) and in the epilogue of Fools' Ebony, Part the Twoth, he is considered one of the finest writers of the asylum.<sup>[[9]](#cite_note-FBPTO2-9)</sup>
+
+#### Froa (fl. Merethic Era)
+[Froa](Lore_Froa.md) was an [Atmoran](Lore_Atmora.md) warrior and a member of the original [Five Hundred Companions](Lore_Five_Hundred_Companions.md). Along with her sister [Grosta](Lore_Grosta.md), they were known as the **great Shield-Sisters**. They were credited with the creation of the [Woeful Bowstring](Lore_Woeful_Bowstring.md), an essential part of [Ysgramor](Lore_Ysgramor.md)'s great bow, the [Long-Launcher](Lore_Long-Launcher.md).
+
+#### Frost King (?b - [1E 808](Lore_First_Era.md#1E_808))
+[The Frost King](Lore_Frost_King.md) (real name unknown) was a [Nedic](Lore_Nede.md) ruler during the early-mid [First Era](Lore_First_Era.md). He lead an unknown nedic clan that was allied with the [Duraki](Lore_Duraki.md) kingdom. He was the last of his title, as the Nedic civilization of the [Deathlands](Lore_Deathlands.md) fell with the arrival of the [Ra Gada](Lore_Ra_Gada.md) in [1E 808](Lore_First_Era.md#1E_808).
+
+#### Chieftain Frostfang (?b - [2E 582](Lore_Second_Era.md#2E_582))
+[Frostfang](https://en.uesp.net/wiki/Lore:Frostfang) was one of the chieftains and leaders of the [Rageclaw Claw](Lore_Rageclaw_Clan.md) in [2E 582](Lore_Second_Era.md#2E_582). He led the army of the Reachfolk alliance during the assault of [Fallowstone Hall](Lore_Fallowstone_Hall.md) against the [Companions](Lore_Companions.md).
+
+#### Fynboar the Resurrected (fl. before 2E 582)
+[Fynboar](Lore_Fynboar.md) **the Resurrected** was a legendary figure from the annals of [Reachfolk](Lore_Reachfolk.md) history, renowned for his martial prowess and esteemed for his courage and valor. Born in the ancient times, long before the [Second Era](Lore_Second_Era.md), his name became synonymous with bravery and martial skill. He was known for his trade with fate, which rendered him vulnerable to [magic](Lore_Magic.md) in exchange for exceptional combat skills against conventional martial opponents.
+
+## References
+1. [^](#cite_ref-CDJ_1-0) [*Cap'n Dugal's Journal*](Lore_Cap%27n_Dugal%27s_Journal.md) — [Torradan ap Dugal](Lore_Books_by_Author.md#Torradan_ap_Dugal)
+2. [^](#cite_ref-OB-DL_2-0) [*Thieves Den* download description](https://en.uesp.net/wiki/Oblivion:Thieves_Den#Background) on *obliviondownloads.com*
+3. [^](#cite_ref-TWOBF_3-0) [*The War of Betony*](Lore_The_War_of_Betony_(Fav%27te).md) — [Fav'te](Lore_Books_by_Author.md#Fav.27te)
+4. [^](#cite_ref-LOTS_4-0) [*Lives of the Saints*](Lore_Lives_of_the_Saints.md) — [Tribunal Temple](Lore_Books_by_Author.md#Tribunal_Temple)
+5. [^](#cite_ref-Morrowind_5-0) Events of *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+6. [^](#cite_ref-Online_6-0) Events of [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-7) [*Evaluation of Saint Felms*](https://en.uesp.net/wiki/Online:Evaluation_of_Saint_Felms) - [Alienist Llandras](https://en.uesp.net/wiki/Online:Alienist_Llandras)
+8. [^](#cite_ref-FBPTO1_8-0) [*Fools' Ebony, Part the Oneth*](Lore_Fools%27_Ebony,_Part_the_Oneth.md) — [Frincheps](Lore_Books_by_Author.md#Frincheps)
+9. [^](#cite_ref-FBPTO2_9-0) [*Fools' Ebony, Part the Twoth*](Lore_Fools%27_Ebony,_Part_the_Twoth.md) — [Frincheps](Lore_Books_by_Author.md#Frincheps)

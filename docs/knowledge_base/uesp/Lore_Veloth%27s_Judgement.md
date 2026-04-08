@@ -1,0 +1,31 @@
+# Veloth's Judgement
+
+[![](https://images.uesp.net/thumb/7/72/ON-item-Veloth%27s-Judgement.png/200px-ON-item-Veloth%27s-Judgement.png)](https://en.uesp.net/wiki/File:ON-item-Veloth%27s-Judgement.png) [](https://en.uesp.net/wiki/File:ON-item-Veloth%27s-Judgement.png) Veloth's Judgement (ESO) Veloth's Judgement (also called the **Judgment of Saint Veloth**) is the magical Daedric warhammer Saint [Veloth](Lore_Veloth.md) wielded during his exodus from [Summerset](Lore_Summerset_Isles.md).<sup>[[1]](#cite_note-Ro SV-1)</sup> This symbol of power stood for everything Veloth embodied. Veloth's Judgment was said to have rang with authority throughout the land. Its enchantments could cleanse corruption from the souls of those it struck down.<sup>[[2]](#cite_note-Jo SV-2)</sup>
+
+Veloth's precision with the hammer was such that he could remove the corruption from a soul and leaving the remainder alive and healthy. The warhammer stored the corruption for a time, turning it into energy that could be used by the wielder to enhance the power of the [weapon](Lore_Weapons.md). Veloth saw fit to set aside this weapon when he vowed to turn his attention from war to the task of building a new home for the Chimer in Resdayn.<sup>[[1]](#cite_note-Ro SV-1)</sup>
+
+Towards the end of exodus of Veloth, they were approached by a woman at [Dunmeth Pass](Lore_Dunmeth_Pass.md) who proclaimed herself to be "Chimer-Friend", and had him swear an oath that would make him and his followers into better Mer. Veloth proclaimed on his hammer that he would never again use it nor any other tool to slay a foe, and that he would give his heart to his people and dedicate his life and soul to them. The Chimer-Friend then melted the ice blocking the pass and accompanied them into Morrowind.<sup>[[3]](#cite_note-ESOEJ-3)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582), Boethiah manipulated Urili Vox into stealing the Judgement of Veloth to get revenge on the Tribunal for her son's death. A mysterious Chimeri spirit by the name of Aspera also appeared around this time period, seeking to help the [Vestige](Lore_The_Vestige.md) in acquiring the power of Saint Veloth and stopping Magistrate Vox. After Veloth's ascension to sainthood, it was rumored to have gained legendary powers, to the point where it can siphon a living creature's entire soul.<sup>[[2]](#cite_note-Jo SV-2)</sup> This rumor turned out to be true when the hammer was [stolen from Mournhold Temple](Lore_Veloth.md#The_Maulborn_Threat) by Magistrix Vox. After the town of Selfora refused to ally with her, she used the hammer to create a dimensional tear, releasing hostile spirits into the settlement.<sup>[[4]](#cite_note-ONArth-4)</sup><sup>[[5]](#cite_note-Rt V-5)</sup>. Vox was eventually defeated and the hammer was returned to Mournhold Temple.<sup>[[6]](#cite_note-ONASA-6)</sup> Boethiah likely played on both sides of this conflict over the hammer, as evidence suggests that Aspera is one of her aspects.<sup>[[7]](#cite_note-ONAspera-7)</sup>
+
+During the [Three Banners War](Lore_Three_Banners_War.md), Veloth's Judgement was brought to [Skuldafn](Lore_Skuldafn.md) after the defeat of [Fildgor Orcthane](Lore_Fildgor.md). There the Dunmer representative General Yeveth Noramil presented Veloth's Judgement before the Pact leaders at the [Great Moot](Lore_Great_Moot.md), and the [Ebonheart Pact](Lore_Ebonheart_Pact.md) was sealed.<sup>[[8]](#cite_note-ONSOS-8)</sup>
+
+In the late [Third Era](Lore_Third_Era.md) it was in possession of a priest in [Molag Mar](Lore_Molag_Mar.md). It was given to the [Nerevarine](Lore_Hero.md) after he killed the leader of the [Berne Clan](Lore_Berne_Clan.md), [Raxle Berne](Lore_Raxle_Berne.md),<sup>[[9]](#cite_note-MWSRB-9)</sup> and would later be sold to the Museum of Artifacts in [Mournhold](Lore_Mournhold.md).<sup>[[10]](#cite_note-TRTM-10)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/4/4d/MW-item-Veloth%27s_Judgement.jpg/200px-MW-item-Veloth%27s_Judgement.jpg)](https://en.uesp.net/wiki/File:MW-item-Veloth%27s_Judgement.jpg) Veloth's Judgement (Morrowind)
+
+## See also
+- For game-specific information, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Veloth%27s_Judgement) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Artifacts#Veloth.27s_Judgment) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Ro SV_1-0)***</sup><sup>***[b](#cite_ref-Ro SV_1-1)***</sup> [*Relics of Saint Veloth*](Lore_Relics_of_Saint_Veloth.md)
+2. ^ <sup>***[a](#cite_ref-Jo SV_2-0)***</sup><sup>***[b](#cite_ref-Jo SV_2-1)***</sup> [*The Judgment of Saint Veloth*](Lore_The_Judgment_of_Saint_Veloth.md) — [Magistrix Vox](Lore_Books_by_Author.md#Magistrix_Vox)
+3. [^](#cite_ref-ESOEJ_3-0) [*End of the Journey*](Lore_End_of_the_Journey.md)
+4. [^](#cite_ref-ONArth_4-0) [Tidyn Arthalen](https://en.uesp.net/wiki/Online:Tidyn_Arthalen)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Rt V_5-0) [*Response to Vox, First Draft*](https://en.uesp.net/wiki/Online:Response_to_Vox,_First_Draft) — [Tidyn Arthalen](https://en.uesp.net/wiki/Online:Tidyn_Arthalen)
+6. [^](#cite_ref-ONASA_6-0) [A Saint Asunder](https://en.uesp.net/wiki/Online:A_Saint_Asunder) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. [^](#cite_ref-ONAspera_7-0) [Aspera the Forgotten](https://en.uesp.net/wiki/Online:Aspera_the_Forgotten), [Aspera Giant-Friend](https://en.uesp.net/wiki/Online:Aspera_Giant-Friend), [Aspera Arena-Friend](https://en.uesp.net/wiki/Online:Aspera_Arena-Friend) involvement in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-ONSOS_8-0) [Songs of Sovngarde](https://en.uesp.net/wiki/Online:Songs_of_Sovngarde) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-MWSRB_9-0) [Slay Raxle Berne](https://en.uesp.net/wiki/Morrowind:Slay_Raxle_Berne) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-TRTM_10-0) Events of [The Museum](https://en.uesp.net/wiki/Tribunal:The_Museum) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Tribunal](https://en.uesp.net/wiki/Tribunal:Tribunal)*

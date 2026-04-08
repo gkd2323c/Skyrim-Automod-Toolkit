@@ -1,0 +1,23 @@
+# Meet the Character - Sai Sahan
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/57095)) |
+| Writer | [Bill Slavicsek](https://en.uesp.net/wiki/General:Bill_Slavicsek) |
+| Publication Date: | October 9, 2019 |
+
+Meet the Character - Sai Sahan **by [Abnur Tharn](Lore_Books_by_Author.md#Abnur_Tharn)** *An entry from Abnur Tharn's journal*
+---
+[![ON-render-Sai Sahan.jpg](https://images.uesp.net/thumb/b/bd/ON-render-Sai_Sahan.jpg/300px-ON-render-Sai_Sahan.jpg)](https://en.uesp.net/wiki/File:ON-render-Sai_Sahan.jpg) [Sai Sahan](Lore_Sai_Sahan.md)
+
+From the journal of [Abnur Tharn](Lore_Abnur_Tharn.md)
+
+My ongoing search to discover the ultimate fate of the [Dragon](Lore_Dragon.md) [Kaalgrontiid](Lore_Kaalgrontiid.md) started with a thorough immersion into the most obscure [Khajiiti](Lore_Khajiit.md) legends I could find. I traveled from [Rawl'kha](Lore_Rawl%27kha.md) to [Torval](Lore_Torval.md), scouring libraries and harassing [moon-singers](Lore_Moon-Singers.md) to learn every tale that related, in some smaller or greater way, to the mythic hero, [Khunzar-ri](Lore_Khunzar-ri.md). It is through these stories that I hope to reveal the hidden history of the ancient Dragon and gain insight into his goals and any potential secret shelters he may be utilizing. As my research began to point in the direction of [Southern Elsweyr](Lore_Southern_Elsweyr.md), news of an old associate reached me through my usual network of spies and contacts. [Sai Sahan](Lore_Sai_Sahan.md) is alive and well and apparently operating in [Pellitine](Lore_Pellitine.md)!
+
+Sai Sahan. I haven't actually thought about the bearded [mammoth](Lore_Mammoth.md) in quite some time. We were [companions](Lore_Five_Companions.md) once, allies of a sort in service to Emperor [Varen Aquilarios](Lore_Varen_Aquilarios.md). That seems like a lifetime ago. When I first met the man, he was already known as an accomplished warrior. The [Redguard](Lore_Redguard.md) noble was a master sword fighter who rose to lead the Emperor's Imperial [Dragonguard](Lore_Dragonguard.md). Before that, though? I need to dredge up ancient memories so that I can best determine how to fully utilize Sai Sahan.
+
+Unyielding and honorable to a fault, Sai Sahan holds duty and dedication above all else. Of course, this leads him to unswervingly serve his betters, which is probably why we got along so well. While he presents a cool and collected exterior to the world at large, the beard that speaks rages beneath the surface, where anger and a barely controlled blood-lust wait to be unleashed. For this reason, the subdued warrior truly comes alive in the heat of battle, where he can set his most destructive urges free. He does have a softer side, however. It becomes evident whenever the half-giant, [Lyris Titanborn](Lore_Lyris_Titanborn.md), enters the picture. He calls her his "Snow Lily," much to my disgust. She does seem to be the beauty that can calm the storm of death that seethes at the Redguard's core.
+
+So, where did the silent mountain of excessive muscle come from? He learned the ways of the ancient [Yokudan](Lore_Yokuda.md) [sword-saints](Lore_Sword-singers.md) growing up in the [Valley of Blades](Lore_Valley_of_Blades.md). There, he studied at the feet of his mentor, Kasura. He vowed to revive the martial traditions of his ancestors, but his early efforts in this regard failed. Instead, he shaved his head, grew out his massive beard, and became a mercenary. Eventually, he met the [Colovian](Lore_Colovia.md) military leader, Varen Aquilarios, serving in the war against the [Longhouse Emperors](Lore_Longhouse_Emperors.md). During the battle to liberate [Leyawiin](Lore_Leyawiin.md), his own mercenaries turned on him. Paid off by Emperor [Leovic](Lore_Leovic.md), they were charged with delivering the head of the now legendary commander. They failed, obviously, but the story gets kind of outlandish at this point. Supposedly, Sai Sahan cut through the army of traitors as well as Leovic's defenders, returning to Varen with the scalps of eighty-six enemies and news that Leyawiin was now free.
+
+Now, as I consider strategies for dealing with Kaalgrontiid and the Dragons raging over [Elsweyr](Lore_Elsweyr.md), one thing remains clear. I must make the most of every weapon in my arsenal. I see no reason not to reconnect with the beard that walks like a man and make use of his formidable fighting skills. To not do so would be reckless. And besides, I'm almost certain he's forgotten all about what happened the last time we were together.

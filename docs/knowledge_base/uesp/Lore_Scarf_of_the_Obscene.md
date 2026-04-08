@@ -1,0 +1,20 @@
+# Scarf of the Obscene
+
+[![](https://images.uesp.net/thumb/2/2a/ON-npc-Amaleera.jpg/200px-ON-npc-Amaleera.jpg)](https://en.uesp.net/wiki/File:ON-npc-Amaleera.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Amaleera.jpg) Amaleera, the Psijic responsible for maintaining the library of temporal tomes The Scarf of the Obscene was a minor relic thought to be connected to the [Daedric Prince](Lore_Daedric_Prince.md) [Peryite](Lore_Peryite.md), existing in an [alternate timeline](Lore_Many_Paths.md).<sup>[[1]](#cite_note-VOMTT-1)</sup>
+
+It was described as a deceptively beautiful garment made of silks in shades of green and golden thread. However, beneath its initial allure lay a disturbing truth. [Daedric runes](Lore_Daedric_Alphabet.md) writhed and flickered across its surface like oil on water, imparting an unsettling and distressing effect on anyone who gazed at the scarf for too long. When worn, the Scarf transformed its wearer into a living vessel for Peryite's most potent contagions. Anyone who came within a few feet of the wearer was cursed to be infected with a variety of these diseases. Each new wearer gave rise to a unique array of afflictions, the method of which remained a mystery. Despite this, it was deemed harmless unless worn.<sup>[[1]](#cite_note-VOMTT-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/e/eb/ON-place-The_Vault_of_Moawita.jpg/200px-ON-place-The_Vault_of_Moawita.jpg)](https://en.uesp.net/wiki/File:ON-place-The_Vault_of_Moawita.jpg) [](https://en.uesp.net/wiki/File:ON-place-The_Vault_of_Moawita.jpg) The Vault of Moawita The [Psijic Order](Lore_Psijic_Order.md) possessed the ability to peer into fate lines beyond the borders of [Tamriel](Lore_Tamriel.md). Among the secrets they uncovered were tomes that spoke of alternative timelines and realities, where pivotal events unfolded in other ways. The tomes were stored in [Amaleera](Lore_Amaleera.md)'s Psijic library on [Artaeum](Lore_Artaeum.md). While some had been lost, they were later rediscovered and returned to the Order in [2E 582](Lore_Second_Era.md#2E_582).<sup>[[2]](#cite_note-2)</sup><sup>[[3]](#cite_note-3)</sup>
+
+One of those books, *[Vault of Moawita Temporal Tome](Lore_Vault_of_Moawita_Temporal_Tome.md)*, described the Scarf of the Obscene. In one of the many other realities, the artifact was stored alongside other dangerous relics in the Vault of Moawita. According to the book, the Scarf of the Obscene was believed to be a minor relic of a Peryite cult from [High Rock](Lore_High_Rock.md) that had operated in the final years of the [First Era](Lore_First_Era.md). Its discovery was directly linked to an outbreak of several diseases that were previously unknown to the healers and alchemists of the time. The Scarf was thought to have caused the "Scouring of the Moors," an epidemic that struck early in the [Second Era](Lore_Second_Era.md). This outbreak later triggered a massive [necromantic](Lore_Necromancy.md) event, leaving much of the [Glenumbra](Lore_Glenumbra.md) region uninhabitable in that reality to the present day.<sup>[[1]](#cite_note-VOMTT-1)</sup>
+
+## See Also
+
+### Books
+- ***[Vault of Moawita Temporal Tome](Lore_Vault_of_Moawita_Temporal_Tome.md)*** — Description of a Peryite relic that caused devastation in the High Rock of an alternate reality
+
+## References
+1. ^ <sup>***[a](#cite_ref-VOMTT_1-0)***</sup><sup>***[b](#cite_ref-VOMTT_1-1)***</sup><sup>***[c](#cite_ref-VOMTT_1-2)***</sup> [*Vault of Moawita Temporal Tome*](Lore_Vault_of_Moawita_Temporal_Tome.md)
+2. [^](#cite_ref-2) [Tracker of Temporal Tomes](https://en.uesp.net/wiki/Online:Tracker_of_Temporal_Tomes) achievement description in [ESO](https://en.uesp.net/wiki/Online:ESO)
+3. [^](#cite_ref-3) [Amaleera](https://en.uesp.net/wiki/Online:Amaleera)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Summerset](https://en.uesp.net/wiki/Online:Summerset_(Chapter))*

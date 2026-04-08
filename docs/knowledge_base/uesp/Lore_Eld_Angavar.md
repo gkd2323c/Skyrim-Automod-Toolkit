@@ -1,0 +1,40 @@
+# Eld Angavar
+
+| Eld Angavar | |
+| --- | --- |
+| Type | Plane |
+| Realm | [Aurbis](Lore_Aurbis.md) |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Eld_Angavar) |
+
+[![](https://images.uesp.net/thumb/9/9f/ON-interior-Vakka-Bok_Xanmeer_Golden_Path_02.jpg/200px-ON-interior-Vakka-Bok_Xanmeer_Golden_Path_02.jpg)](https://en.uesp.net/wiki/File:ON-interior-Vakka-Bok_Xanmeer_Golden_Path_02.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Vakka-Bok_Xanmeer_Golden_Path_02.jpg) Main installment of Eld Angavar that leads to the vakka stone [![](https://images.uesp.net/thumb/4/43/ON-interior-Vakka-Bok_Xanmeer_Golden_Path.jpg/200px-ON-interior-Vakka-Bok_Xanmeer_Golden_Path.jpg)](https://en.uesp.net/wiki/File:ON-interior-Vakka-Bok_Xanmeer_Golden_Path.jpg) [](https://en.uesp.net/wiki/File:ON-interior-Vakka-Bok_Xanmeer_Golden_Path.jpg) Eld Angavar, a realm of doors and passages Eld Angavar<sup>[[1]](#cite_note-1)</sup> (meaning **Old Ironwood** in [Ayleidoon](Lore_Ayleidoon.md);<sup>[[2]](#cite_note-2)</sup> also known as the **Golden Path**)<sup>[[3]](#cite_note-ESODialogue-3)</sup> is a realm of Nexus Gates connected by floating [Ayleid](Lore_Ayleid.md) architecture. It is an abandoned realm located between worlds, created as a result of Myndhal's search for the [Remnant of Argon](Lore_Remnant_of_Argon.md). One of the few known entrances to the realm is the still-functioning Gate within the Vakka-Bok [Xanmeer](Lore_Xanmeer.md) in [Murkmire](Lore_Murkmire.md).<sup>[[4]](#cite_note-4)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/4/42/ON-place-Eld_Angavar.jpg/200px-ON-place-Eld_Angavar.jpg)](https://en.uesp.net/wiki/File:ON-place-Eld_Angavar.jpg) [](https://en.uesp.net/wiki/File:ON-place-Eld_Angavar.jpg) Eld Angavar At some point prior to the [Alessian Slave Rebellion](Lore_Alessian_Slave_Rebellion.md), a clan of [Barsaebic Ayleids](Lore_Barsaebic_Ayleids.md) led by Myndhal invaded the region of Murkmire in southern [Black Marsh](Lore_Black_Marsh.md) in order to steal the souls of the native [Argonians](Lore_Argonian.md). The Ayleids launched a series of attacks on the [Root-Whisper Tribe](Lore_Root-Whisper_Tribe.md). The tribe was unable to resist the invaders, forcing the tribe's [Hist](Lore_Hist.md) tree to take a drastic measure: the creation of a "seed", an amber gem which would later be known as the Remnant of Argon, which was capable of holding the souls of the tribe, preventing the Ayleids from harvesting them. In this way, the Hist planned to preserve its tribe and become dormant, only to be awakened when the Ayleid threat to Murkmire was ended.<sup>[[5]](#cite_note-5)</sup><sup>[[6]](#cite_note-ESODreaming-6)</sup>
+
+Upon learning of the Remnant's creation, and having failed to secure it during its formation, Myndhal attempted to locate it by any means necessary in order to make use of its power. An Ayleid mage named Houtern began to construct [Welkynd](Lore_Welkynd_Stone.md) -powered Nexus Gates to traverse Murkmire in search of the Remnant. Over time, this resulted in the creation of a "golden path", a sea of azure gates linking to one another within an otherwise-empty void. However, the Ayleids were ultimately unsuccessful in their search, and were forced to turn to Argonian technology to locate the Remnant.<sup>[[7]](#cite_note-ESORemnant-7)</sup><sup>[[3]](#cite_note-ESODialogue-3)</sup> Through the use of Argonian [vakka stones](Lore_Vakka_Stone.md), Myndhal theorized that he could create a link to wherever the Hist had hidden the Remnant, and swore to find a way to it even if it would take "hundreds of years". In [2E 582](Lore_Second_Era.md#2E_582), [the Vestige](Lore_The_Vestige.md) traversed Eld Angavar and killed Myndhal, who had become undead and seemed to still be working on a way to uncover the Remnant.<sup>[[7]](#cite_note-ESORemnant-7)</sup>
+
+The location of the Remnant was ultimately lost to time, leaving the souls of the tribe trapped beneath their withered Hist tree, forgotten within the [Deepmire](Lore_Deepmire.md). Both the local Hists and Argonians all intrinsically knew of the Remnant, though the only thing the Argonians could connect to it was the Hist's feeling of deep sadness. Both the location and true nature of the Remnant of Argon would not be discovered until an individual known as "the Rootmender" came to Murkmire.<sup>[[6]](#cite_note-ESODreaming-6)</sup> The Rootmender was in fact the Vestige, who arrived in Murkmire circa [2E 582](Lore_Second_Era.md#2E_582). With the aid of two Hist-guided champions from the [Naga-Kur](Lore_Naga-Kur.md) and the [Bright-Throat Tribe](Lore_Bright-Throat_Tribe.md), as well as a Hist-blessed [Imperial](Lore_Imperial.md) named Famia Mercius, the Vestige traversed Eld Angavar and helped resurrect the Root-Whisper Tribe.<sup>[[7]](#cite_note-ESORemnant-7)</sup><sup>[[8]](#cite_note-8)</sup>
+
+The [Circle of Champions](Lore_Circle_of_Champions.md) subsequently began using the realm to host dangerous gladiator battles to the death. Fighters from all three sides of the [Alliance War](Lore_Alliance_War.md) came to the Eld Angavar battleground to fight for the glory of the Fire Drakes, Pit Daemons, and Storm Lords arena teams.<sup>[[9]](#cite_note-9)</sup>
+
+## Gallery
+- [![ON-load-Eld Angavar.jpg](https://images.uesp.net/thumb/5/5f/ON-load-Eld_Angavar.jpg/200px-ON-load-Eld_Angavar.jpg)](https://en.uesp.net/wiki/File:ON-load-Eld_Angavar.jpg)
+
+## Notes
+- The Imperial town of [Southpoint](Lore_Southpoint.md) has a [Colovian](Lore_Colovia.md) chapel known as the [Cathedral of the Golden Path](https://en.uesp.net/wiki/Online:Cathedral_of_the_Golden_Path). Whether the Golden Path nexus and the Golden Path cathedral are related is unknown.
+- A similar realm known as **Goriseli Moraburo** was connected to the ancient Ayleid site at Red Petal Bastion in [Glenumbra](Lore_Glenumbra.md), but its connection to Eld Angavar is unknown.<sup>[[10]](#cite_note-10)</sup>
+
+## See Also
+- For game-specific information, see the ESO articles on [Vakka-Bok Xanmeer](https://en.uesp.net/wiki/Online:Vakka-Bok_Xanmeer) and [Eld Angavar](https://en.uesp.net/wiki/Online:Eld_Angavar).
+
+## References
+1. [^](#cite_ref-1) [Fight in a World Between Worlds With Update 21's Pv P Additions - Elderscrollsonline.com](https://www.elderscrollsonline.com/en-gb/news/post/55787)
+2. [^](#cite_ref-2) [Eld Angavar](https://en.uesp.net/wiki/Online:Eld_Angavar) [loading screen](https://en.uesp.net/wiki/Online:Loading_Screens) in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-ESODialogue_3-0)***</sup><sup>***[b](#cite_ref-ESODialogue_3-1)***</sup> Dialogue between [Myndhal](https://en.uesp.net/wiki/Online:Myndhal) and [Houtern](https://en.uesp.net/wiki/Online:Houtern) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-4) Appearance in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-5) [Sap-Speaker Kuzei](https://en.uesp.net/wiki/Online:Sap-Speaker_Kuzei)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. ^ <sup>***[a](#cite_ref-ESODreaming_6-0)***</sup><sup>***[b](#cite_ref-ESODreaming_6-1)***</sup> [Death and Dreaming](https://en.uesp.net/wiki/Online:Death_and_Dreaming) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+7. ^ <sup>***[a](#cite_ref-ESORemnant_7-0)***</sup><sup>***[b](#cite_ref-ESORemnant_7-1)***</sup><sup>***[c](#cite_ref-ESORemnant_7-2)***</sup> [The Remnant of Argon](https://en.uesp.net/wiki/Online:The_Remnant_of_Argon_(quest)) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. [^](#cite_ref-8) [By River and Root](https://en.uesp.net/wiki/Online:By_River_and_Root) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [Battlegrounds](https://en.uesp.net/wiki/Online:Battlegrounds) in [ESO](https://en.uesp.net/wiki/Online:Online)
+10. [^](#cite_ref-10) [Red Petal Bastion](https://en.uesp.net/wiki/Online:Red_Petal_Bastion) in [ESO](https://en.uesp.net/wiki/Online:Online)

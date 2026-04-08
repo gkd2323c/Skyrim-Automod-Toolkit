@@ -1,0 +1,17 @@
+# Hel Anseilak
+
+[![](https://images.uesp.net/thumb/e/ef/ON-quest-The_Desert_and_the_Sea_02.jpg/200px-ON-quest-The_Desert_and_the_Sea_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-The_Desert_and_the_Sea_02.jpg) [](https://en.uesp.net/wiki/File:ON-quest-The_Desert_and_the_Sea_02.jpg) A Redguard mage performing Anseliak *Let this water flow to the honorable Kogo-Hi of Yokuda buried below, nourishing bones and easing souls.*
+—An example of an Anseilak prayer<sup>[[1]](#cite_note-Hassavir-1)</sup><sup>[[2]](#cite_note-Jahesi-2)</sup> Hel Anseilak (or simply **Anseilak**) which means "Communion with the [Saints of the Sword](Lore_Sword-singers.md)" in [Old Redguard](Lore_Yoku.md),<sup>[[3]](#cite_note-DFHolidays-3)</sup> is a ritual held by [Redguards](Lore_Redguard.md) during the [New Life](Lore_New_Life_Festival.md) period to bless the spirits of fallen [Yokudans](Lore_Yokudan.md) and allow them to rest peacefully. The ritual involves collecting seawater which once touched [Yokuda](Lore_Yokuda.md)'s shores and sprinkling it on the resting place of the dead to pray for them.<sup>[[1]](#cite_note-Hassavir-1)</sup>
+
+During the [Second Era](Lore_Second_Era.md), the perception of magic users in Redguard society had led to the Yokudan mages of old being neglected and ignored when Anseilak was being performed.<sup>[[1]](#cite_note-Hassavir-1)</sup><sup>[[2]](#cite_note-Jahesi-2)</sup> A recorded example of the Anseilak ritual from circa [2E 582](Lore_Second_Era.md#2E_582) had contemporary Redguard mages making the pilgrimage to the Motalion Necropolis near [Satakalaam](https://en.uesp.net/wiki/Online:Satakalaam) in the [Alik'r Desert](Lore_Alik%27r_Desert.md) to perform Anseilak for the Yokudan mages interred there.<sup>[[4]](#cite_note-TDATS-4)</sup>
+
+It is considered the most serious of holy days for the people of [Pothago](Lore_Pothago.md), where it is celebrated on the 18<sup>th</sup> of Sun's Dusk. The ancient way of Hel Ansei is never practiced by modern [Redguards](Lore_Redguard.md), but its rich heritage is remembered and honored on this day.<sup>[[3]](#cite_note-DFHolidays-3)</sup>
+
+## See Also
+- For game-specific information, see the [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Holidays#Hel_Anseilak) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:The_Desert_and_the_Sea) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Hassavir_1-0)***</sup><sup>***[b](#cite_ref-Hassavir_1-1)***</sup><sup>***[c](#cite_ref-Hassavir_1-2)***</sup> [Hassavir](https://en.uesp.net/wiki/Online:Hassavir)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. ^ <sup>***[a](#cite_ref-Jahesi_2-0)***</sup><sup>***[b](#cite_ref-Jahesi_2-1)***</sup> [Jahesi](https://en.uesp.net/wiki/Online:Jahesi)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. ^ <sup>***[a](#cite_ref-DFHolidays_3-0)***</sup><sup>***[b](#cite_ref-DFHolidays_3-1)***</sup> [Holidays](https://en.uesp.net/wiki/Daggerfall:Holidays#Sun.27s_Dusk) in [*Daggerfall*](https://en.uesp.net/wiki/Daggerfall:Daggerfall)
+4. [^](#cite_ref-TDATS_4-0) Events of [The Desert and the Sea](https://en.uesp.net/wiki/Online:The_Desert_and_the_Sea) in [ESO](https://en.uesp.net/wiki/Online:Online)

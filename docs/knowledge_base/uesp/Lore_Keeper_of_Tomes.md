@@ -1,0 +1,17 @@
+# Keeper of Tomes
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Keeper_of_Tomes) |
+
+Keeper of Tomes *Notes on a bound Daedra guarding the Reliquary Ruins* *
+---
+In time, we realized we required a guardian—one as ageless as our repository, to ward our histories against [Lorkhan](Lore_Lorkhan.md)'s children's all-consuming march.
+
+We scoured the [planes of Oblivion](Lore_Planes_of_Oblivion.md) in search of such a being. Many were found wanting: some the right hands of [Daedric Princes](Lore_Daedric_Princes.md), others less-known denizens of its darkest corners. In time, the one for whome we searched found us.
+
+Ukaezai was her name. A mighty [Dremora](Lore_Dremora.md) of great skill, capable of preserving the most delicate substances against the vitriol of our most destructive [conjurations](Lore_Conjuration.md).
+
+We summoned Ukaezai and bound her to this space for so long as its stones would last. She would walk its halls and explore our most well guarded secrets in exchange for her stewardship.
+
+We bound her to the foundation and the very ground beneath. So powerful was this binding that she will remain long after the ruins have crumbled to dust. We trust her to keep her task—for what is time, to [Daedra](Lore_Daedra.md)?

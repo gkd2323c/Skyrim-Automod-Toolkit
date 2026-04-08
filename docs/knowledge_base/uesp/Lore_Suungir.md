@@ -1,0 +1,31 @@
+# Suungir
+
+[![](https://images.uesp.net/thumb/2/21/ON-item-Suungir.jpg/200px-ON-item-Suungir.jpg)](https://en.uesp.net/wiki/File:ON-item-Suungir.jpg) [](https://en.uesp.net/wiki/File:ON-item-Suungir.jpg) Suungir Suungir was a legendary axe that belonged to [Jorunn the Skald-King](Lore_Jorunn.md), the leader of the [Ebonheart Pact](https://en.uesp.net/wiki/Online:Ebonheart_Pact).<sup>[[1]](#cite_note-HIQI-1)</sup><sup>[[2]](#cite_note-PI-2)</sup><sup>[[3]](#cite_note-HKE-3)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/4/46/ON-npc-Deesh-Jee_02.jpg/200px-ON-npc-Deesh-Jee_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Deesh-Jee_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Deesh-Jee_02.jpg) Prince Irnskar wielding Suungir in battle [![](https://images.uesp.net/thumb/f/f4/ON-npc-Jorunn_the_Skald-King_02.jpg/200px-ON-npc-Jorunn_the_Skald-King_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Jorunn_the_Skald-King_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Jorunn_the_Skald-King_02.jpg) Jorunn the Skald-King The exact origins of Suungir are uncertain and unclear. However, it was known to be a weapon of great renown, considered a powerful blade that was wielded by Jorunn the Skald-King. It earned its legendary status at some point while it was wielded by Jorunn,<sup>[[1]](#cite_note-HIQI-1)</sup> and was considered to be an excellent trophy.<sup>[[4]](#cite_note-LFD-4)</sup>
+
+In [2E 582](Lore_Second_Era.md#2E_582) Jorunn gave Suungir, his legendary axe, to his son Prince [Irnskar](Lore_Irnskar.md), who was sent as a representative of the Pact to negotiate during the peace talks with the [Aldmeri Dominion](Lore_Aldmeri_Dominion.md) and [Daggerfall Covenant](Lore_Daggerfall_Covenant.md) on [Systres Archipelago](Lore_Systres_Archipelago.md). It was a symbol of Jorunn's support for the peace talks.<sup>[[1]](#cite_note-HIQI-1)</sup><sup>[[2]](#cite_note-PI-2)</sup>
+
+Due to the machinations of the [Ascendant Order](Lore_Ascendant_Order.md), leaders and representatives of the factions partaking in the [Three Banners War](Lore_Three_Banners_War.md): Queen [Ayrenn](Lore_Ayrenn.md) of the Aldmeri Dominion, King [Emeric](Lore_Emeric.md) of the Daggerfall Covenant, and Prince Irnskar of the [Ebonheart Pact](Lore_Ebonheart_Pact.md) were lost to the sea and washed ashore on [Amenos'](Lore_Amenos.md) north coast during their voyage for a peace summit on [High Isle](Lore_High_Isle.md).<sup>[[5]](#cite_note-ONDeadly-5)</sup> One of Amenos' prison gangs, the Green Serpents, put up a bounty for the capture of these three nobles for the Ascendant Order. Prince Irnskar was captured. When he was taken to their hideaway Suungir was taken by one of the criminals,<sup>[[4]](#cite_note-LFD-4)</sup><sup>[[6]](#cite_note-EFA-6)</sup> and later ended up in the [Coral Cliffs](Lore_Coral_Cliffs.md). It was retrieved by [the agent](Lore_The_Vestige.md) of [Lady Arabelle Davaux](Lore_Arabelle_Davaux.md) and returned to its rightful owner. Prince Irnskar, having been entrusted with Suungir by his father Jorunn, proved to be proficient in wielding the legendary axe against his foes.<sup>[[6]](#cite_note-EFA-6)</sup><sup>[[3]](#cite_note-HKE-3)</sup><sup>[[2]](#cite_note-PI-2)</sup>
+
+Ultimately, all the representatives managed to escape from the island.<sup>[[6]](#cite_note-EFA-6)</sup> Irnskar used it as a weapon against the enemies of the Ascendant Order during a subsequent confrontation at All Flags Islet and kept it during his stay on the Systres Archipelago.<sup>[[7]](#cite_note-TAS-7)</sup>
+
+## Notable Owners
+- [Jorunn the Skald-King](Lore_Jorunn.md)
+- [Prince Irnskar](Lore_Irnskar.md)
+
+## See Also
+For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:High_Isle_Quest_Items#Suungir.2C_Axe_of_the_Skald-King) [](https://en.uesp.net/wiki/Online:High_Isle_(Chapter)) article.
+
+### Books
+- ***[Letter from Deesh-Jee](https://en.uesp.net/wiki/Online:Letter_from_Deesh-Jee)*** by [Deesh-Jee](https://en.uesp.net/wiki/Online:Deesh-Jee)
+
+## References
+1. ^ <sup>***[a](#cite_ref-HIQI_1-0)***</sup><sup>***[b](#cite_ref-HIQI_1-1)***</sup><sup>***[c](#cite_ref-HIQI_1-2)***</sup> [Suungir, Axe of the Skald-King](https://en.uesp.net/wiki/Online:High_Isle_Quest_Items#Suungir.2C_Axe_of_the_Skald-King) item description in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+2. ^ <sup>***[a](#cite_ref-PI_2-0)***</sup><sup>***[b](#cite_ref-PI_2-1)***</sup><sup>***[c](#cite_ref-PI_2-2)***</sup> [Prince Irnskar](https://en.uesp.net/wiki/Online:Prince_Irnskar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+3. ^ <sup>***[a](#cite_ref-HKE_3-0)***</sup><sup>***[b](#cite_ref-HKE_3-1)***</sup> [High King Emeric](https://en.uesp.net/wiki/Online:High_King_Emeric)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+4. ^ <sup>***[a](#cite_ref-LFD_4-0)***</sup><sup>***[b](#cite_ref-LFD_4-1)***</sup> [*Letter from Deesh-Jee*](https://en.uesp.net/wiki/Online:Letter_from_Deesh-Jee) — [Deesh-Jee](https://en.uesp.net/wiki/Online:Deesh-Jee)
+5. [^](#cite_ref-ONDeadly_5-0) Events of [Deadly Investigations](https://en.uesp.net/wiki/Online:Deadly_Investigations) in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+6. ^ <sup>***[a](#cite_ref-EFA_6-0)***</sup><sup>***[b](#cite_ref-EFA_6-1)***</sup><sup>***[c](#cite_ref-EFA_6-2)***</sup> Events [Escape from Amenos](https://en.uesp.net/wiki/Online:Escape_from_Amenos) in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*
+7. [^](#cite_ref-TAS_7-0) Events of [The Ascendant Storm](https://en.uesp.net/wiki/Online:The_Ascendant_Storm) in [ESO](https://en.uesp.net/wiki/Online:Online): *[High Isle](https://en.uesp.net/wiki/Online:High_Isle_(Chapter))*

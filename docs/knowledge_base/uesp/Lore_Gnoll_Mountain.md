@@ -1,0 +1,40 @@
+# Gnoll Mountain
+
+| Gnoll Mountain | |
+| --- | --- |
+| Type | Mountain |
+| Continent | [Tamriel](Lore_Tamriel.md) |
+| Province | [Cyrodiil](Lore_Cyrodiil.md) |
+| Region | [Jerall Mountains](Lore_Jerall_Mountains.md) |
+| Appears in | [Oblivion](https://en.uesp.net/wiki/Oblivion:Gnoll_Mountain), [ESO](https://en.uesp.net/wiki/Online:Winter%27s_Peak_Outpost) |
+
+[![](https://images.uesp.net/thumb/c/c6/OB-place-Frostcrag_Spire.jpg/200px-OB-place-Frostcrag_Spire.jpg)](https://en.uesp.net/wiki/File:OB-place-Frostcrag_Spire.jpg) [](https://en.uesp.net/wiki/File:OB-place-Frostcrag_Spire.jpg) The peak of Gnoll Mountain ca. [3E 433](Lore_Third_Era.md#3E_433) Gnoll Mountain (also called **Winter's Peak**)<sup>[[1]](#cite_note-ONPeak-1)</sup> is a large mountain located in the snowy peaks of the [Jerall Mountains](Lore_Jerall_Mountains.md), in the province of [Cyrodiil](Lore_Cyrodiil.md). It is located exactly east of the county seat, [Bruma](Lore_Bruma.md), separated from the city by the [Silver Road](Lore_Silver_Road.md). It is the highest elevated point in the province and at the pinnacle of the mountain lies [Frostcrag Spire](Lore_Frostcrag_Spire.md), a magical tower built by the Arch-Mage of Cyrodiil's [Mages Guild](Lore_Mages_Guild.md). On the southern face of the mountain is the province's Shrine of [Namira](Lore_Namira.md), which is strategically hidden from the Silver Road in the west. And on the northwest point lies [Dragonclaw Rock](https://en.uesp.net/wiki/Lore:Dragonclaw_Rock), a visually distinct landmark that marks the end of the Silver Road.
+
+## History
+[](https://en.uesp.net/wiki/File:OB-icon-Goblin-Three_Feather.png) [](https://en.uesp.net/wiki/File:OB-icon-Goblin-Three_Feather.png) Symbol of the Three Feather Tribe [![](https://images.uesp.net/thumb/e/ed/OB-npc-Havilstein_Hoar-Blood.jpg/200px-OB-npc-Havilstein_Hoar-Blood.jpg)](https://en.uesp.net/wiki/File:OB-npc-Havilstein_Hoar-Blood.jpg) [](https://en.uesp.net/wiki/File:OB-npc-Havilstein_Hoar-Blood.jpg) Havilstein Hoar-Blood There have been at least two known prospects on Gnoll Mountain. One was called the Plundered Mine, which harvested [silver](Lore_Silver.md) and another called the Red Ruby Cave. Not much is known about the former but it has since been abandoned and it was later occupied by the [Three Feather Tribe](Lore_Three_Feather_Tribe.md) of [Goblins](Lore_Goblin.md).<sup>[[2]](#cite_note-OBPlundered-2)</sup> Despite its name, the latter does not contain [ruby](Lore_Ruby.md) veins or any gemstones, but it is actually an [ebony](Lore_Ebony.md) mine. It was given its name by prospectors to attract investors from nearby Bruma.<sup>[[3]](#cite_note-ONLoad Red Ruby-3)</sup> It has reportedly been lost and it is now commonly used by bandits as a hideout. The [Imperial Legion](Lore_Imperial_Legion.md) had at one point build a stronghold on the eastern foothills of the mountain called Fort Horunn, but it has long since been abandoned.
+
+At some point in time, the Imperial Legion built an outpost on the mountain's peak and connected it to the [Transitus Network](Lore_Transitus_Network.md) that functioned all over central Cyrodiil. By the time the [Three Banners War](Lore_Three_Banners_War.md) took place in [2E 582](Lore_Second_Era.md#2E_582), the Winter's Peak Outpost sat in territory occupied by the [Daggerfall Covenant](Lore_Daggerfall_Covenant.md).<sup>[[1]](#cite_note-ONPeak-1)</sup> At around this time, there was a large lake on the northern base of the mountain, on the road between [Fort Dragonclaw](Lore_Fort_Dragonclaw.md) and the milegate near Kingscrest Keep. The [Order of the Black Worm](Lore_Order_of_the_Black_Worm.md) had also built a [Dark Anchor](Lore_Dark_Anchor.md) northeast of the Winter's Peak Outpost.<sup>[[4]](#cite_note-ONCyrodiil-4)</sup>
+
+During the [Oblivion Crisis](Lore_Oblivion_Crisis.md) in [3E 433](Lore_Third_Era.md#3E_433), the [Nordic](Lore_Nord.md) barbarian and [Dark Brotherhood](Lore_Dark_Brotherhood.md) Silencer Havilstein Hoar-Blood scaled the mountain and camped on the summit with his trusted companion, Redmaw. Unbeknownst to him, he was tracked down by another [Silencer](Lore_Hero_of_Kvatch.md) from the Brotherhood, unaware of his true nature. The barbarian and his companion were murdered and the Silencer was rewarded by his employer, the Speaker of the [Black Hand](Lore_Black_Hand.md), [Lucien Lachance](Lore_Lucien_Lachance.md), who was also fooled.<sup>[[5]](#cite_note-OBColdest-5)</sup> At around that time, an Oblivion Gate had opened on the eastern side of the mountain, near the path up to the summit.
+
+Sometime in the late- [Third Era](Lore_Third_Era.md), the Arch-Mage of the Mages Guild, [Taris Rendil](Lore_Taris_Rendil.md) spent his tenure hoping to develop a home where he can study away from the prying eyes of his colleagues. During his travels, he scaled Gnoll Mountain and rested in the camp on the summit. There he basked in the majestic view of the Jerall Mountains and was inspired to design his tower, the Frostcrag Spire. It was not so long after that he was able to complete construction on the tower and live out the rest of his life in complete solitude. On his deathbed, he relinquished the spire to his distant [relative](Lore_Hero_of_Kvatch.md), hoping that they may restore it to its former glory. Sure enough, they were able to see it come to full fruition.<sup>[[6]](#cite_note-FSM-6)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/b/bd/OB-place-Gnoll_Mountain.jpg/200px-OB-place-Gnoll_Mountain.jpg)](https://en.uesp.net/wiki/File:OB-place-Gnoll_Mountain.jpg) Gnoll Mountain Camp (Oblivion)
+- [![](https://images.uesp.net/thumb/c/c5/ON-place-Winter%27s_Peak_Outpost.jpg/200px-ON-place-Winter%27s_Peak_Outpost.jpg)](https://en.uesp.net/wiki/File:ON-place-Winter%27s_Peak_Outpost.jpg) Winter's Peak Outpost (ESO)
+- [![](https://images.uesp.net/thumb/e/e2/OB-quest-Namira.jpg/200px-OB-quest-Namira.jpg)](https://en.uesp.net/wiki/File:OB-quest-Namira.jpg) Shrine of Namira (Oblivion)
+- [![](https://images.uesp.net/thumb/9/94/OB-place-Red_Ruby_Cave.jpg/200px-OB-place-Red_Ruby_Cave.jpg)](https://en.uesp.net/wiki/File:OB-place-Red_Ruby_Cave.jpg) Red Ruby Cave (Oblivion)
+- [![](https://images.uesp.net/thumb/e/e9/OB-place-Plundered_Mine.jpg/200px-OB-place-Plundered_Mine.jpg)](https://en.uesp.net/wiki/File:OB-place-Plundered_Mine.jpg) Plundered Mine (Oblivion)
+- [![](https://images.uesp.net/thumb/4/41/OB-place-Fort_Horunn.jpg/200px-OB-place-Fort_Horunn.jpg)](https://en.uesp.net/wiki/File:OB-place-Fort_Horunn.jpg) Fort Horunn (Oblivion)
+- [![](https://images.uesp.net/thumb/d/d9/OB-place-Dragonclaw_Rock.jpg/200px-OB-place-Dragonclaw_Rock.jpg)](https://en.uesp.net/wiki/File:OB-place-Dragonclaw_Rock.jpg) Dragonclaw Rock (Oblivion)
+
+## See Also
+- For game-specific information, see the [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Gnoll_Mountain) and [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Winter%27s_Peak_Outpost) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-ONPeak_1-0)***</sup><sup>***[b](#cite_ref-ONPeak_1-1)***</sup> [Winter's Peak Outpost](https://en.uesp.net/wiki/Online:Winter%27s_Peak_Outpost) location in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-OBPlundered_2-0) [Plundered Mine](https://en.uesp.net/wiki/Oblivion:Plundered_Mine) location in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+3. [^](#cite_ref-ONLoad Red Ruby_3-0) [Red Ruby Cave](https://en.uesp.net/wiki/Online:Red_Ruby_Cave) loading screen text in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-ONCyrodiil_4-0) [Cyrodiil](https://en.uesp.net/wiki/Online:Cyrodiil) location in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-OBColdest_5-0) [The Coldest Sleep](https://en.uesp.net/wiki/Oblivion:The_Coldest_Sleep) faction quest in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+6. [^](#cite_ref-FSM_6-0) [*Frostcrag Spire Memoirs*](Lore_Frostcrag_Spire_Memoirs.md) — [Taris Rendil, Arch-Mage](Lore_Books_by_Author.md#Taris_Rendil.2C_Arch-Mage)

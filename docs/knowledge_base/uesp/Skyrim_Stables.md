@@ -1,0 +1,10 @@
+# Stables
+
+[![](https://images.uesp.net/thumb/5/5e/SR-place-Whiterun_Stables.jpg/200px-SR-place-Whiterun_Stables.jpg)](https://en.uesp.net/wiki/File:SR-place-Whiterun_Stables.jpg) [](https://en.uesp.net/wiki/File:SR-place-Whiterun_Stables.jpg) Whiterun Stables [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) This page lists all the **stables** in [Skyrim](Skyrim_Skyrim.md), where [horses](Skyrim_Horses.md) can be bought.
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) **[Katla's Farm](Skyrim_Katla%27s_Farm.md)** — A small farm and stable along the Karth River, outside of Solitude. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Katla%27s+Farm)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) **[Markarth Stables](Skyrim_Markarth_Stables.md)** — A stable located outside Markarth, opposite the entrance. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Markarth+Stables)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) **[Riften Stables](Skyrim_Riften_Stables.md)** — A stable outside the northern entrance to Riften. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Riften+Stables)
+- **[Solitude Stables](Skyrim_Solitude_Stables.md)** — The stable serving the city of Solitude. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Solitude+Stables)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) **[Whiterun Stables](https://en.uesp.net/wiki/Skyrim:Whiterun_Stables)** — A stable just outside the gates of Whiterun. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Whiterun+Stables)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Stable.png) **[Windhelm Stables](Skyrim_Windhelm_Stables.md)** — A stable outside of Windhelm. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Windhelm+Stables)

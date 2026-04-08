@@ -1,0 +1,19 @@
+#  A Smith's Tale, Vol 3
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:From_Wrothgar_to_Lilmoth:_A_Smith%27s_Tale,_Vol_3) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[From Wrothgar to Lilmoth: A Smith's Tale](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale.md)* | | |
+| Prev. | *[Vol 2](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale,_Vol_2.md)* | Next | None |
+
+[From Wrothgar to Lilmoth: A Smith's Tale](Lore_From_Wrothgar_to_Lilmoth__A_Smith%27s_Tale.md), Vol 3 **by [Garnozag](Lore_Books_by_Author.md#Garnozag), Master Smith** *An account of Argonian weaponmaking methods from an Orc smith's perspective* *
+---
+An [Argonian](Lore_Argonian.md) "forge" is a strange place, let me tell you. I guess it's more of a workshop than a forge. None of the familiar sounds or smells of my forge back home greeted me when I entered the place: no ringing anvils, no [coal](Lore_Coal.md) -smoke, no hissing quench troughs. They're just eerily quiet and packed with chisels, axes, wooden buckets full of weird liquids, piles of rocks, dead birds, live slugs … on and on it goes.
+
+For the first week or so, I felt very uneasy in Shukesh's workshop. She's not exactly a big talker. The only sounds she made for the first few days were sudden and irritated hisses when something didn't go exactly as she had planned. She also sang a few old [Jel](Lore_Jel.md) folksongs, although I use the term "sang" loosely. The first time I heard it, I thought she was murdering one of those lizards crawling all over everything. The place is infested with them!
+
+Eventually Shukesh started talking to me. At first, her comments were mostly about my disgusting lack of scales or my round, beady eyes. Of course once she started making fun of me, I knew we had become fast friends. One of the first secrets Shukesh shared with me was the art of "slug shaping." Apparently [Black Marsh](Lore_Black_Marsh.md) is chock full of slugs. Back home we don't see a lot of the slimy little creatures, but when we do, we tend to squash them and then wipe them off our boots in disgust. Here in [Lilmoth](Lore_Lilmoth.md), however, everything has a purpose. Most slugs aren't good for anything but eating. (Or so I've heard. I won't eat anything that doesn't stand on four legs.) But apparently some slugs have surprising applications. One of these special slugs, called a "jassa red," has an unusual defense mechanism. When threatened, it squirts out an acidic mucous. I'm not sure what good that does when something tries to eat it, but the acidic mucous is useful for Argonian weaponsmiths.
+
+When Shukesh wants to incorporate a natural motif into her work, she places the slugs onto the wood or stone and repeatedly flashes a piece of [flint](Lore_Flint.md) directly behind them. Adjusting the position of the flint pushes the slugs in different directions. As the slugs move across the wood or stone, they leave behind a thin layer of acidic slime, creating long, smooth channels in the material. The mucous interacts with different materials in different ways. The reaction of the slime can even create natural pigments that range from a muted umber to a phosphorescent yellow.
+
+Shukesh let me try my hand at it (on a piece of worthless broken lumber). Not surprisingly, I was all thumbs. I created a tangled mess of grooves—all dyed a sickly, mottled green. When I threw the flint down in disgust, I think Shukesh laughed at me. She insisted it was just a cough, and then told me my slug shaping was utter "rajpu." I didn't try to argue, as I wasn't sure what rajpu was exactly, although I could hazard a good guess. Anyway, I'll take a hammer and tongs over a slimy ball of burning snot any day.

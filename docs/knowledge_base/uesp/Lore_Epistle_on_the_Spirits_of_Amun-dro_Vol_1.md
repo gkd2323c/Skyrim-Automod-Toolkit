@@ -1,0 +1,19 @@
+# Epistle on the Spirits of Amun-dro Vol 1
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Epistle_on_the_Spirits_of_Amun-dro_Vol_1) ([Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)) | | |
+| Up | *[Epistle on the Spirits of Amun-dro](Lore_Epistle_on_the_Spirits_of_Amun-dro.md)* | | |
+| Prev. | None | Next | *[Vol 2](Lore_Epistle_on_the_Spirits_of_Amun-dro_Vol_2.md)* |
+
+Epistle on the Spirits of Amun-dro Vol 1 **by [Thava-ko](Lore_Books_by_Author.md#Thava-ko)** *A treatise on a set of old Khajiiti myths*
+---
+Thava-ko sings now a song of [Riddle'Thar](Lore_Riddle%27Thar.md). Let its sweetest truth rest upon Thava-ko's tongue.
+
+Hear Thava-ko's voice, children of the [Two-Moons Dance](Lore_Two-Moons_Dance.md). Word reaches us in the [Torval Curiata](Lore_Torval_Curiata.md) that an ancient book—a pre-ri'Datta catalog of [spirits](Lore_Et%27Ada.md), assembled by an ancient priest named [Amun-dro](Lore_Amun-dro.md) —has captured the imaginations of [Khajiit](Lore_Khajiit.md) throughout [Pellitine](Lore_Pellitine.md). Our people seem taken with its colorful and otherworldly descriptions of powerful spirits, both good and evil. Adepts from far and wide have come to Thava-ko with curious hearts and twitching tails, asking why they were not taught these old scriptures. We Khajiit are a curious and playful people, but some subjects carry great risk. We cannot, in good conscience, allow this heretical document to fester in the minds of light-minded ja'Khajiit. For that reason, Thava-ko and her fellow priests publish this refutation. Spread this far and wide, faithful litter of [Rid-Thar-ri'Datta](Lore_Rid-Thar-ri%27Datta.md).
+
+In the dark times before the First Mane's revelation, our forebears held scattered beliefs—sixteen faiths that tumbled and scratched their way through history, competing for the [souls](Lore_Soul.md) of all Khajiit. This spiritual chaos led us down many paths, all of which carried great risk. You need only look upon our bent kin, the [dro-m'Athra](Lore_Dro-m%27Athra.md), to find the proof of these perils. This book of profanities is the product of those dark times. Shall we return to the era of sixteen wars, and hunter-fiefs, and pitiless famine? No, and no, and no again! In the truth of Riddle'Thar, we find more than spiritual fulfillment. We find a rock to build upon—an end to the shifting sands of old. We find a better path through peace and order.
+
+This old text carries greater danger because it hides its blasphemies under a shroud of truth. Many of its attestations walk paw-in-paw with Riddle'Thar, such as its praise for the Moons, and its deference to the blessed spirits: [Khenarthi](Lore_Khenarthi.md), [S'rendarr](Lore_S%27rendarr.md), and others. But its darker fables lay hidden like snares. Take, for instance, its account of the Moon Beast, [Lorkhaj](Lore_Lorkhaj.md).
+
+Who knows noisy Lorkhaj's darkness better than the Khajiit? We all suffer the call to the Dark at some point in our lives. Who among us has not heard the beating drum of the [Dark Heart](Lore_Dark_Heart.md) in our moments of deepest sorrow or most anguished regret? To lift up the first dro-m'Athra as a hero of our people defies both faith and reason. How many adepts shall fall to [Namiira](Lore_Namiira.md) on account of this document? How many ja'khajiit will call on the Moon Beast, intent on reviving his true spirit, only to be swallowed by his eternal curse? Any thief can tell you that the surest path to a victim's purse starts with a smile. A smiling Lorkhaj is too dangerous to contemplate.

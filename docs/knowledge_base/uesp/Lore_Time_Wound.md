@@ -1,0 +1,39 @@
+# Time Wound
+
+
+## Time Wounds
+
+### Throat of the World
+The first Time Wound in known history was created in [Skyrim](Lore_Skyrim.md) during the [Merethic Era](Lore_Merethic_Era.md), and served to bring about the end of the [Dragon War](Lore_Dragon_War.md).<sup>[[4]](#cite_note-Skyrim AB-4)</sup> Near the end of the war, the ancient [Nords](Lore_Nord.md) confronted [Alduin](Lore_Alduin.md) at the summit of the [Throat of the World](Lore_Throat_of_the_World.md).<sup>[[1]](#cite_note-SRPaarthurnax-1)</sup><sup>[[5]](#cite_note-AOD-5)</sup> With no conventional means to defeat the [wyrm](Lore_Dragon.md), [Felldir the Old](Lore_Felldir_the_Old.md) used an [Elder Scroll](Lore_Elder_Scrolls.md) to perform an incantation that ejected Alduin from their time, propelling him into the future and leaving behind a Time Wound.<sup>[[4]](#cite_note-Skyrim AB-4)</sup> In [4E 201](Lore_Fourth_Era.md#4E_201), Alduin emerged from the Time Wound and began the process of resurrecting his [Dragon](Lore_Dragon.md) allies all across Skyrim.<sup>[[1]](#cite_note-SRPaarthurnax-1)</sup><sup>[[6]](#cite_note-6)</sup> The [Last Dragonborn](Lore_Last_Dragonborn.md) later used the same Elder Scroll to exploit this Time Wound and gaze into the past, thereby gaining lost knowledge of the [Thu'um](Lore_Thu%27um.md).<sup>[[4]](#cite_note-Skyrim AB-4)</sup>
+
+### Sunspire
+A Time Wound also appeared at the peak of the [Sunspire](https://en.uesp.net/wiki/Lore:Sunspire) temple in the [First Era](Lore_First_Era.md), when [Alkosh](https://en.uesp.net/wiki/Lore:Alkosh)'s battle cry put an end to [Pelinal Whitestrake](Lore_Pelinal_Whitestrake.md)'s slaughter of the [Khajiit](Lore_Khajiit.md) and cast him out of [Elsweyr](Lore_Elsweyr.md).<sup>[[7]](#cite_note-ESOAzin-7)</sup> Circa [2E 582](Lore_Second_Era.md#2E_582), the Dragons [Nahviintaas](https://en.uesp.net/wiki/Lore:Nahviintaas), [Lokkestiiz](https://en.uesp.net/wiki/Lore:Lokkestiiz), and [Yolnahkriin](https://en.uesp.net/wiki/Lore:Yolnahkriin) returned to the affairs of mortals, posing as gods. The [Khajiit](Lore_Khajiit.md) devotees of Sunspire Temple believed Nahviintaas to be Alkosh, and gathered pilgrims from across [Anequina](Lore_Anequina.md) to serve him. However, Nahviintaas' true goal was to tear the Time Wound wider in order to "correct the mortal mistake" and restore the "natural order". This threat was ended when all three Dragons were slain by the [Undaunted](https://en.uesp.net/wiki/Lore:Undaunted).<sup>[[8]](#cite_note-8)</sup>
+
+### Beldaburo
+Circa [3E 433](Lore_Third_Era.md#3E_433), a [lich](Lore_Lich.md) named Corelian attempted to use an [Elder Scroll](Lore_Elder_Scroll.md) to travel back in time to prevent their past self from ever obtaining a state of lichdom. Corelian feared the gradual and incurable descent into madness brought about by their unnatural existence, and stole the Elder Scroll from the [Order of the Hour](Lore_Order_of_the_Hour.md) in a misguided attempt to avoid the ultimate fate of most liches.<sup>[[9]](#cite_note-9)</sup> However, Corelian's meddling disrupted the flow of Time, resulting in the creation of a Time Wound deep within the ruins of [Beldaburo](Lore_Beldaburo.md) in [Cyrodiil](Lore_Cyrodiil.md). Primate [Ilav Dralgoner](Lore_Ilav_Dralgoner.md) of the Order of the Hour discovered the existence of this Time Wound, and tasked the [Hero of Kvatch](Lore_Hero_of_Kvatch.md) with recovering the Elder Scroll before the Wound could be fully opened. With the Order's blessing, the Hero was able to penetrate the magical barrier created by the Wound within Beldaburo, and slay Corelian. This destroyed the Time Wound, allowing Time to flow in accordance with [Akatosh](Lore_Akatosh.md)'s rules once more and thereby saving reality from collapsing. With the threat ended, the Hero was made a Paladin of the Hour by the grateful priest, who could sense time had indeed been healed.<sup>[[10]](#cite_note-10)</sup><sup>[[11]](#cite_note-11)</sup><sup>[[12]](#cite_note-12)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/63/SR-quest-Alduin%27s_Bane_13.jpg/200px-SR-quest-Alduin%27s_Bane_13.jpg)](https://en.uesp.net/wiki/File:SR-quest-Alduin%27s_Bane_13.jpg) The banishment of Alduin (Skyrim)
+- [![](https://images.uesp.net/thumb/4/4b/LG-cardart-Cast_Into_Time.png/200px-LG-cardart-Cast_Into_Time.png)](https://en.uesp.net/wiki/File:LG-cardart-Cast_Into_Time.png) The banishment of Alduin (Legends)
+- [![](https://images.uesp.net/thumb/6/61/SR-place-Throat_of_the_World_%28Time_Wound%29.jpg/200px-SR-place-Throat_of_the_World_%28Time_Wound%29.jpg)](File_SR-place-Throat_of_the_World_(Time_Wound).jpg.md) The Time Wound atop the Throat of the World (Skyrim)
+- [![](https://images.uesp.net/thumb/a/a0/ON-creature-Nahviintaas_%28Time_Wound%29.jpg/200px-ON-creature-Nahviintaas_%28Time_Wound%29.jpg)](File_ON-creature-Nahviintaas_(Time_Wound).jpg.md) The Time Wound at Sunspire Summit (ESO)
+- [![](https://images.uesp.net/thumb/5/58/ON-creature-Nahviintaas_%28Time_Wound%29_02.jpg/200px-ON-creature-Nahviintaas_%28Time_Wound%29_02.jpg)](File_ON-creature-Nahviintaas_(Time_Wound)_02.jpg.md) Nahviintaas tearing at the Sunspire Time Wound (ESO)
+- [![](https://images.uesp.net/thumb/e/e7/OBR-quest-Saving_Time_Itself.jpg/200px-OBR-quest-Saving_Time_Itself.jpg)](https://en.uesp.net/wiki/File:OBR-quest-Saving_Time_Itself.jpg) A Time Wound being opened within Beldaburo (Oblivion Remastered)
+
+## Notes
+- [The Vestige](Lore_The_Vestige.md) was described as a "wound in time" by [Varen Aquilarios](https://en.uesp.net/wiki/Lore:Varen_Aquilarios).<sup>[[13]](#cite_note-Do Giants-13)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-SRPaarthurnax_1-0)***</sup><sup>***[b](#cite_ref-SRPaarthurnax_1-1)***</sup><sup>***[c](#cite_ref-SRPaarthurnax_1-2)***</sup> [Paarthurnax](Skyrim_Paarthurnax_(dragon).md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-2) [Throat of the World](Skyrim_Throat_of_the_World.md) in *[Skyrim](Skyrim_Skyrim.md)*
+3. [^](#cite_ref-3) [Sunspire](https://en.uesp.net/wiki/Online:Sunspire) in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-Skyrim AB_4-0)***</sup><sup>***[b](#cite_ref-Skyrim AB_4-1)***</sup><sup>***[c](#cite_ref-Skyrim AB_4-2)***</sup> [Alduin's Bane](Skyrim_Alduin%27s_Bane.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+5. [^](#cite_ref-AOD_5-0) [*Atlas of Dragons*](Lore_Atlas_of_Dragons.md) — [Brother Mathnan](Lore_Books_by_Author.md#Brother_Mathnan)
+6. [^](#cite_ref-6) [A Blade in the Dark](Skyrim_A_Blade_in_the_Dark.md) quest in *[Skyrim](Skyrim_Skyrim.md)*
+7. [^](#cite_ref-ESOAzin_7-0) [Moon-Bishop Azin-jo](https://en.uesp.net/wiki/Online:Moon-Bishop_Azin-jo)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Elsweyr](https://en.uesp.net/wiki/Online:Elsweyr)*
+8. [^](#cite_ref-8) [The Return of Alkosh](https://en.uesp.net/wiki/Online:The_Return_of_Alkosh) quest in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-9) [*Corelian's diary*](Lore_Corelian%27s_diary.md) — [Corelian](https://en.uesp.net/wiki/Oblivion:Corelian)
+10. [^](#cite_ref-10) [A Wound In Time](https://en.uesp.net/wiki/Oblivion:A_Wound_In_Time) quest in *[Oblivion Remastered](https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered)*
+11. [^](#cite_ref-11) [Saving Time Itself](https://en.uesp.net/wiki/Oblivion:Saving_Time_Itself) quest in *[Oblivion Remastered](https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered)*
+12. [^](#cite_ref-12) [Ilav Dralgoner](https://en.uesp.net/wiki/Oblivion:Ilav_Dralgoner)'s dialogue in *[Oblivion Remastered](https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered)*
+13. [^](#cite_ref-Do Giants_13-0) [The Prophet](https://en.uesp.net/wiki/Online:The_Prophet)'s dialogue during [Daughter of Giants](https://en.uesp.net/wiki/Online:Daughter_of_Giants) in [ESO](https://en.uesp.net/wiki/Online:Online)

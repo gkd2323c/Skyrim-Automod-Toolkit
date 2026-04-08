@@ -1,0 +1,6 @@
+# Brotherhood of Destruction
+
+The Brotherhood of Destruction was a cult of [Mehrunes Dagon](Lore_Mehrunes_Dagon.md), which existed from [2E 115](Lore_Second_Era.md#2E_115) to [2E 140](Lore_Second_Era.md#2E_140), composed primarily of the poor inhabitants of the [Imperial City](Lore_Imperial_City.md). The Brotherhood managed to remain relatively secret for five years as their numbers grew. They rose to notoriety when they launched an attack against the middle-class merchants in the city in [2E 120](Lore_Second_Era.md#2E_120). Many trade routes were crippled when key merchants disappeared, only to be found tortured to death. The methodology of the [Order of the Waking Flame](Lore_Order_of_the_Waking_Flame.md) was compared to the one of the Brotherhood and described as patient. They were content to wait and hide their activities until the right moment to strike. Once their plans unfolded, cult activity became sporadic, covert, and restrained. The more active the cult became the bloodier and more disastrous activities came to light eventually, however.<sup>[[1]](#cite_note-Dtt A-1)</sup>
+
+## References
+1. [^](#cite_ref-Dtt A_1-0) [*Dagonists Through the Ages*](Lore_Dagonists_Through_the_Ages.md) — [Larina Hanus](Lore_Books_by_Author.md#Larina_Hanus), scholar on Daedric cults

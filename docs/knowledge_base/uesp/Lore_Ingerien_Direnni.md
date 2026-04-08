@@ -1,0 +1,58 @@
+# Ingerien Direnni
+
+| Ingerien Direnni | | | |
+| --- | --- | --- | --- |
+| [![ON-concept-Lady Thorn.jpg](https://images.uesp.net/thumb/d/d5/ON-concept-Lady_Thorn.jpg/200px-ON-concept-Lady_Thorn.jpg)](https://en.uesp.net/wiki/File:ON-concept-Lady_Thorn.jpg) Ingerien Direnni | | | |
+| Race | [Altmer](Lore_Altmer.md) | Gender | Female |
+| Born | [1st Era](Lore_First_Era.md#1st_Era) | | |
+| Died | [2E 582](Lore_Second_Era.md#2E_582) <br> Castle Thorn, [Karthald](Lore_Karthald.md) | | |
+| Resided in | Castle Thorn, [Karthald](Lore_Karthald.md) <br> [High Rock](Lore_High_Rock.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Lady_Thorn) | | |
+
+Ingerien Direnni, also known as **Lady Thorn**, was an [Altmer](Lore_Altmer.md) noblewoman of [Clan Direnni](Lore_Clan_Direnni.md), a [vampire lord](Lore_Vampire_Lord.md), and an ally of [Rada al-Saran](Lore_Rada_al-Saran.md) and the [Gray Host](Lore_Gray_Host.md).<sup>[[1]](#cite_note-GW-1)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/a/af/ON-load-Castle_Thorn.jpg/200px-ON-load-Castle_Thorn.jpg)](https://en.uesp.net/wiki/File:ON-load-Castle_Thorn.jpg) [](https://en.uesp.net/wiki/File:ON-load-Castle_Thorn.jpg) Castle Thorn Prior to [1E 1029](Lore_First_Era.md#1E_1029), Lady Ingerien was a Direnni noble with connections to Viridian Watch.<sup>[[1]](#cite_note-GW-1)</sup> Following the [Gray Host](Lore_Gray_Host.md)'s defeat at the [Bangkorai Garrison](Lore_Bangkorai_Garrison.md) circa [1E 1029](Lore_First_Era.md#1E_1029),<sup>[[2]](#cite_note-TBMOP-2)</sup><sup>[[3]](#cite_note-TGHAHP1-3)</sup> when many of [Rada al-Saran](Lore_Rada_al-Saran.md)'s fellows became trapped within [Coldharbour](Lore_Coldharbour.md) she proved her loyalty to the vampires. Thanks to Lady Ingerien's decision to create the sanctuary underneath the Viridian Watch to account for the unfortunate possibility of the battle going awry, Rada survived the battle. She marked the way to the hideout with magic blood sigils, visible only to vampires, and ensured that he could recover in peace. She pledged her loyalty to his cause and was bestowed the gift of immortality, becoming a vampire and assuming the name of Lady Thorn.<sup>[[1]](#cite_note-GW-1)</sup><sup>[[4]](#cite_note-LOW-4)</sup><sup>[[5]](#cite_note-TRI-5)</sup> Rada spent eons of calculation looking for a way to return the twelve of his Exarch siblings who fell, and Lady Thorn aided him in rebuilding what was lost.<sup>[[6]](#cite_note-MBSt E-6)</sup><sup>[[4]](#cite_note-LOW-4)</sup>
+
+Soon after becoming a vampire, in [1E 1030](Lore_First_Era.md#1E_1030), Lady Ingerien arrived in the area of the border between [the Reach](Lore_The_Reach.md) and [Skyrim](Lore_Skyrim.md) and requested a meeting with the leading decision-makers.<sup>[[7]](#cite_note-Mt C:LT-7)</sup> She learnt that sometime around the seventh century of the [First Era](Lore_First_Era.md) the vampires of the Snowbrood clan constructed a castle in the nearby mountains. They built the castle using local slave labor, frequently raiding local villages at night to capture people strong enough for labor. After the Snowbrood completed the castle, the raids slowed but did not cease and continued to threaten the local [Nordic](Lore_Nord.md) population. During the meeting, she claimed the ability to wipe out the Snowbrood and end the raids. In exchange, she requested ownership of the castle in perpetuity. Nords agreed to her terms, and she kept her word and eradicated the Snowbroods, claiming the castle for herself.<sup>[[7]](#cite_note-Mt C:LT-7)</sup> Since then it was known as the Castle Thorn.<sup>[[8]](#cite_note-CT-8)</sup>
+
+The Chief Surveyor of the [Daggerfall](Lore_Daggerfall.md) branch of [Architects Guild](Lore_Architects_Guild.md), Tarnolvar, was hired by Lady Thorn to survey her abode, Castle Thorn, located in the hinterlands of [Karthald](Lore_Karthald.md) in [Skyrim](Lore_Skyrim.md). Tarnolvar was privy to Lady Thorn's condition as a vampire, but continued his service anyway.<sup>[[9]](#cite_note-ASSR-9)</sup> Lady Thorn also hired Outfitter Extraordinaire [Lendantare](Lore_Books_by_Author.md#Lendantare) to fashion the attire of her forces.<sup>[[10]](#cite_note-CM90-10)</sup>
+
+Lady Thorn remained in her castle for generations, seemingly content to hide away in the mountains.<sup>[[8]](#cite_note-CT-8)</sup> In reality, she was quietly building an army in anticipation of the return of the Gray Host. Thorn built her forces for centuries, utilizing any and all means to create a powerful Vampire army. She ventured to [Elsweyr](Lore_Elsweyr.md) and infected numerous [Senche-rahts](Lore_Senche-raht.md), as well as binding a servant of the [Daedric Prince](Lore_Daedric_Prince.md) [Nocturnal](Lore_Nocturnal.md) to augment her soldiers further. She was known to seek to enhance her followers, no matter the cost.<sup>[[11]](#cite_note-GSCT-11)</sup>
+
+As of [2E 582](Lore_Second_Era.md#2E_582), during the resurgence of the Gray Host activities in the Reach and Western Skyrim, she finally revealed her army, known as the Thorn Legion,<sup>[[10]](#cite_note-CM90-10)</sup> which brought an attention of the [Undaunted](Lore_Undaunted.md),<sup>[[12]](#cite_note-UCB-12)</sup> and [House Ravenwatch](Lore_House_Ravenwatch.md).<sup>[[1]](#cite_note-GW-1)</sup> She intended to use her legion to bolster the forces of the Gray Host.<sup>[[1]](#cite_note-GW-1)</sup> She was also experimenting on vampires<sup>[[13]](#cite_note-TA-13)</sup> in the hopes of resurrecting the Gray Host's fallen brethren.<sup>[[14]](#cite_note-ADP-14)</sup> [The Vestige](Lore_The_Vestige.md), along with Gwendis of the House Ravenwatch and the Undaunted, eventually ventured to Castle Thorn and killed Lady Thorn.<sup>[[15]](#cite_note-BOTP-15)</sup><sup>[[16]](#cite_note-PCT-16)</sup>
+
+The significance of Lady Thorn allowed her to be documented within the [Infinite Archive](Lore_Infinite_Archive.md) in [Apocrypha](Lore_Apocrypha.md). There, copies of various entities were subsequently created as [maligraphies](Lore_Maligraphy.md), creatures composed of vivified ink manifested by stories from books, and serve as mindless extensions of the [Daedric Lord](Lore_Daedric_Lord.md) [Tho'at Replicanum](Lore_Tho%27at_Replicanum.md). A maligraphy copy of Lady Thorn was formed, which was destroyed by an adventurer or two who were aided by augmentations directly from [Hermaeus Mora](Lore_Hermaeus_Mora.md). The defeated maligraphy of Lady Thorn faded into a puddle of ink.<sup>[[17]](#cite_note-LAIA-17)</sup><sup>[[18]](#cite_note-MM-18)</sup><sup>[[19]](#cite_note-Enemies-19)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/cb/ON-npc-Lady_Thorn.jpg/200px-ON-npc-Lady_Thorn.jpg)](https://en.uesp.net/wiki/File:ON-npc-Lady_Thorn.jpg) Lady Thorn (ESO)
+- [![](https://images.uesp.net/thumb/a/a9/ON-render-Lady_Thorn_02.jpg/200px-ON-render-Lady_Thorn_02.jpg)](https://en.uesp.net/wiki/File:ON-render-Lady_Thorn_02.jpg) Lady Thorn with her hounds
+- [![](https://images.uesp.net/thumb/1/1a/ON-furnishing-Trophy%2C_Lady_Thorn.jpg/200px-ON-furnishing-Trophy%2C_Lady_Thorn.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Trophy,_Lady_Thorn.jpg) Lady Thorn's head, taken as a trophy by the Undaunted (ESO)
+- [![](https://images.uesp.net/thumb/f/fd/ON-concept-Lady_Thorn_Render.jpg/200px-ON-concept-Lady_Thorn_Render.jpg)](https://en.uesp.net/wiki/File:ON-concept-Lady_Thorn_Render.jpg) Concept Art
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Lady_Thorn) [](https://en.uesp.net/wiki/Online:Stonethorn) article.
+
+### Books
+- ***[Meet the Character - Lady Thorn](Lore_Meet_the_Character_-_Lady_Thorn.md)*** by [Fennorian](Lore_Books_by_Author.md#Fennorian) of House Ravenwatch — Research on an elusive vampire
+
+## References
+1. ^ <sup>***[a](#cite_ref-GW_1-0)***</sup><sup>***[b](#cite_ref-GW_1-1)***</sup><sup>***[c](#cite_ref-GW_1-2)***</sup><sup>***[d](#cite_ref-GW_1-3)***</sup><sup>***[e](#cite_ref-GW_1-4)***</sup> [Gwendis](https://en.uesp.net/wiki/Online:Gwendis)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-TBMOP_2-0) [*The Bretons: Mongrels or Paragons?*](https://en.uesp.net/wiki/Lore:The_Bretons__Mongrels_or_Paragons%3F) — [Phrastus of Elinhir](Lore_Phrastus_of_Elinhir.md)
+3. [^](#cite_ref-TGHAHP1_3-0) [*The Gray Host: A History Part 1*](https://en.uesp.net/wiki/Lore:The_Gray_Host__A_History_Part_1) — [Lord Archibald Laurent](Lore_Books_by_Author.md#Lord_Archibald_Laurent), Lordly Explorer
+4. ^ <sup>***[a](#cite_ref-LOW_4-0)***</sup><sup>***[b](#cite_ref-LOW_4-1)***</sup> [*Letter of Welcome*](https://en.uesp.net/wiki/Online:Letter_of_Welcome) — [Lady Ingerien](Lore_Books_by_Author.md#Lady_Ingerien) of [Clan Direnni](Lore_Clan_Direnni.md)
+5. [^](#cite_ref-TRI_5-0) Events of [The Ravenwatch Inquiry](https://en.uesp.net/wiki/Online:The_Ravenwatch_Inquiry) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-MBSt E_6-0) [*My Beloved Siblings, the Exarchs*](Lore_My_Beloved_Siblings,_the_Exarchs.md) — [Rada al-Saran](Lore_Rada_al-Saran.md)
+7. ^ <sup>***[a](#cite_ref-Mt C:LT_7-0)***</sup><sup>***[b](#cite_ref-Mt C:LT_7-1)***</sup> [*Meet the Character - Lady Thorn*](Lore_Meet_the_Character_-_Lady_Thorn.md) — [Fennorian](Lore_Books_by_Author.md#Fennorian) of House Ravenwatch
+8. ^ <sup>***[a](#cite_ref-CT_8-0)***</sup><sup>***[b](#cite_ref-CT_8-1)***</sup> [Castle Thorn](https://en.uesp.net/wiki/Online:Castle_Thorn) in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-ASSR_9-0) [*Architectural Survey Summary Report*](https://en.uesp.net/wiki/Online:Architectural_Survey_Summary_Report) — [Tarnolvar](Lore_Books_by_Author.md#Tarnolvar), Chief Surveyor of the Architectural Guild, Daggerfall Branch
+10. ^ <sup>***[a](#cite_ref-CM90_10-0)***</sup><sup>***[b](#cite_ref-CM90_10-1)***</sup> [*Crafting Motif 90: Thorn Legion Style*](https://en.uesp.net/wiki/Lore:Crafting_Motif_90__Thorn_Legion_Style) — [Lendantare](Lore_Books_by_Author.md#Lendantare), Outfitter Extraordinaire
+11. [^](#cite_ref-GSCT_11-0) [Storm a Fortress of the Undead in Castle Thorn](https://en.uesp.net/wiki/General:Storm_a_Fortress_of_the_Undead_in_Castle_Thorn)
+12. [^](#cite_ref-UCB_12-0) [Urgarlag Chief-bane](https://en.uesp.net/wiki/Online:Urgarlag_Chief-bane#Castle_Thorn)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+13. [^](#cite_ref-TA_13-0) [Talfyg](https://en.uesp.net/wiki/Online:Talfyg)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-ADP_14-0) [*A Daedric Proposal*](https://en.uesp.net/wiki/Online:A_Daedric_Proposal) — [Galdrus Salobar](Lore_Books_by_Author.md#Galdrus_Salobar), Sanguimancer Supreme
+15. [^](#cite_ref-BOTP_15-0) Events of [Blood of the Past](https://en.uesp.net/wiki/Online:Blood_of_the_Past) in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. [^](#cite_ref-PCT_16-0) Events of [Pledge: Castle Thorn](https://en.uesp.net/wiki/Online:Pledge:_Castle_Thorn) in [ESO](https://en.uesp.net/wiki/Online:Online)
+17. [^](#cite_ref-LAIA_17-0) [*Loremaster's Archive - Infinite Archive*](Lore_Loremaster%27s_Archive_-_Infinite_Archive.md) — [Master Malkhest](Lore_Malkhest.md)
+18. [^](#cite_ref-MM_18-0) [Master Malkhest](https://en.uesp.net/wiki/Online:Master_Malkhest)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Necrom](https://en.uesp.net/wiki/Online:Necrom_(Chapter))*
+19. [^](#cite_ref-Enemies_19-0) [Lady Thorn](https://en.uesp.net/wiki/Online:Lady_Thorn_(Infinite_Archive)) [enemy](https://en.uesp.net/wiki/Online:Infinite_Archive/Enemies) in [Infinite Archive](https://en.uesp.net/wiki/Online:Infinite_Archive) in [ESO](https://en.uesp.net/wiki/Online:Online)

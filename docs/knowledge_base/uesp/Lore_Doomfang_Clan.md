@@ -1,0 +1,40 @@
+# Doomfang Clan
+
+[![](https://images.uesp.net/thumb/c/c0/LG-cardart-Doomfang_Ally.png/200px-LG-cardart-Doomfang_Ally.png)](https://en.uesp.net/wiki/File:LG-cardart-Doomfang_Ally.png) [](https://en.uesp.net/wiki/File:LG-cardart-Doomfang_Ally.png) Member of Doomfang Clan The Doomfang Clan was a [Reachfolk](Lore_Reachman.md) [clan](Lore_Reachman_Clans.md) that inhabited [the Reach](https://en.uesp.net/wiki/Online:The_Reach) and occupied the Dwemer ruin of [Bthardamz](Lore_Bthardamz.md) in the early 4th Era. They were known for their adaptability and survival skills.<sup>[[1]](#cite_note-1)</sup> Doomfang Clan had skilled alchemists, capable of creating poisonous vapors among its ranks and utilized [Dwemer Animunculi](Lore_Dwemer_Animunculi.md).<sup>[[2]](#cite_note-DPIOM-2)</sup>
+
+## History
+[![](https://images.uesp.net/thumb/c/cb/LG-loc-Bthardamz_Dungeon.png/200px-LG-loc-Bthardamz_Dungeon.png)](https://en.uesp.net/wiki/File:LG-loc-Bthardamz_Dungeon.png) [](https://en.uesp.net/wiki/File:LG-loc-Bthardamz_Dungeon.png) Bthardamz Dungeon
+### The Conflict with Imperial Legion
+[![](https://images.uesp.net/thumb/3/32/LG-effect-Reachman_Intelligence.png/200px-LG-effect-Reachman_Intelligence.png)](https://en.uesp.net/wiki/File:LG-effect-Reachman_Intelligence.png) [](https://en.uesp.net/wiki/File:LG-effect-Reachman_Intelligence.png) The letter sent by a member of Doomfang Clan At an unknown point of history during the early 4th Era, an Imperial Spymaster known as Porcia Loran was in command of an Imperial Legion phalanx that was preparing to eradicate the [Reachfolk](Lore_Reachmen.md) presence in the Dwemer ruin [Bthardamz](Lore_Bthardamz.md). At that time this place was inhabited by the Doomfang Clan, a Reachfolk group skilled in the arts of alchemy.
+
+One of the former subordinates [Talym Rend](Lore_Talym_Rend.md), however, was forced by the [Daedric Prince](Lore_Daedric_Prince.md) of madness [Sheogorath](Lore_Sheogorath.md) to ensure Porcia would lose her sanity and due to the command of the Daedra he planned to sabotage her actions.<sup>[[3]](#cite_note-3)</sup>
+
+One of the missions during the campaign of the Imperial forces against the Doomfang Clan was to intercept the Reachman intelligence. Porcia Loran was responsible for carrying out this task, however, the courier of the Doomfang Clan was intercepted by Talym in Druadach Pass before Porcia could do so herself. The warleader of the clan invented the poisonous gas <sup>[[4]](#cite_note-BD-4)</sup> and the members of the clan crafted a toxin composed of [deathbell](Lore_Deathbell.md), [Falmer ear](https://en.uesp.net/wiki/Lore:Falmer_Ear), [nirnroot](Lore_Nirnroot.md), and [red mountain flower](https://en.uesp.net/wiki/Lore:Red_Mountain_Flower) and they planned to transport it with the usage of [Dwemer animunculi](Lore_Dwemer_Animunculi.md) in order to fight back the Imperial invading forces.<sup>[[2]](#cite_note-DPIOM-2)</sup>
+
+### The Missive Interception
+[![](https://images.uesp.net/thumb/7/74/LG-quest-The_Betrayal_02.jpg/200px-LG-quest-The_Betrayal_02.jpg)](https://en.uesp.net/wiki/File:LG-quest-The_Betrayal_02.jpg) [](https://en.uesp.net/wiki/File:LG-quest-The_Betrayal_02.jpg) Porcia Loran amid the burning Reachmen of the Doomfang Clan and Imperial troops [![](https://images.uesp.net/thumb/c/c3/LG-cardart-Doomfang_Ally_Alt.png/200px-LG-cardart-Doomfang_Ally_Alt.png)](https://en.uesp.net/wiki/File:LG-cardart-Doomfang_Ally_Alt.png) [](https://en.uesp.net/wiki/File:LG-cardart-Doomfang_Ally_Alt.png) Doomfang Clan Reachman Usually clans of the Reachfolk who live in the wilderness of the Reach hills have a general aversion to writing; they typically lack the interest in learning this ability and instead prefer to rely on oral traditions<sup>[[5]](#cite_note-TBOKL-5)</sup><sup>[[6]](#cite_note-AIIM-6)</sup>. However, the Doomfang Clan members were literate; their messages and letters were usually sent through couriers. One of such message was intercepted by Talym Rend and contained the following instructions:<sup>[[7]](#cite_note-7)</sup>
+
+<center>*This will stop those imperials. Mix together in a boiling pot.
+[Deathbell](Lore_Deathbell.md)
+[Falmer Ear](https://en.uesp.net/wiki/Lore:Falmer_Ear)
+[Nirnroot](Lore_Nirnroot.md)
+[Red Mountain Flower](https://en.uesp.net/wiki/Lore:Red_Mountain_Flower)*</center> [![](https://images.uesp.net/thumb/a/a6/LG-cardart-Blessing_of_the_Grove.png/200px-LG-cardart-Blessing_of_the_Grove.png)](https://en.uesp.net/wiki/File:LG-cardart-Blessing_of_the_Grove.png) [](https://en.uesp.net/wiki/File:LG-cardart-Blessing_of_the_Grove.png) Sacred flowers of Mara - the alleged antidote for the poisonous gas Talym Rend intercepted the message of the members of the clan detailing plans to use [Dwemer Animunculi](Lore_Dwemer_Animunculi.md) to deliver a deadly poison to the Legion's forces. Talym refused to show Porcia, instead of planting a false letter for her to discover.
+
+She was later captured by the Reachmen while seeking this false intelligence and was rescued by Talym. Porcia was led to believe that an antidote for the poison could be made using sacred flowers from a Grove of [Mara](Lore_Mara.md) by Talym's deceit.<sup>[[8]](#cite_note-GOM-8)</sup>
+
+### Grove of Mara
+Once Porcia was convinced that flowers from the Grove of Mara could be used as an antidote against the poisonous gas of the Doomfang clan she ventured to the Grove of Mara herself. She tried to convince the priestesses to give her the flowers and tried to warn them that the Doomfang clan is coming to the grove to kill everyone and burn the grove, because of the false information planted by her subordinate Talym. She was however met with opposition from the clergy. The priestesses of Mara refused to let Porcia have the flowers which drove her to personally assault the Grove and take them to save her men.<sup>[[8]](#cite_note-GOM-8)</sup>
+
+### Explosion
+The Legion's alchemists refined these flowers into a gas that was meant to negate the effects of the poison. They were to deploy the antidote after the Reachmen had released the poison to make the best use of their limited supply. However, the gas caused large explosions when it reacted with the poison, resulting in the death of most of the Reachmen and the legionaries. The outcome of her mission, while technically a victory, led her to retire from the Legion due to the fear of uttering a command that could potentially hurt others. The future of the Doomfang Clan is unknown.<sup>[[9]](#cite_note-9)</sup>
+
+## References
+1. [^](#cite_ref-1) [Doomfang Ally](https://en.uesp.net/wiki/Legends:Doomfang_Ally) voicelines in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+2. ^ <sup>***[a](#cite_ref-DPIOM_2-0)***</sup><sup>***[b](#cite_ref-DPIOM_2-1)***</sup> [Druadach Pass](https://en.uesp.net/wiki/Legends:Druadach_Pass) dialogue in [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness_(story))
+3. [^](#cite_ref-3) [Isle of Madness Episode 4](https://en.uesp.net/wiki/Legends:Episode_4_Intro_(Isle_of_Madness)) intro dialogue
+4. [^](#cite_ref-BD_4-0) [Bthardamz Dungeon](https://en.uesp.net/wiki/Legends:Bthardamz_Dungeon) dialogue in the Isle of Madness
+5. [^](#cite_ref-TBOKL_5-0) [*The Battle of Karthspire Lea*](Lore_The_Battle_of_Karthspire_Lea.md) — [Vateshran Barth](Lore_Barth.md)
+6. [^](#cite_ref-AIIM_6-0) [*An Imperial in Markarth*](Lore_An_Imperial_in_Markarth.md) — [Consul Cardea](Lore_Books_by_Author.md#Consul_Cardea), the Ard's Administrator
+7. [^](#cite_ref-7) [Reachman Intelligence](https://en.uesp.net/wiki/Legends:Reachman_Intelligence) card effect and art in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+8. ^ <sup>***[a](#cite_ref-GOM_8-0)***</sup><sup>***[b](#cite_ref-GOM_8-1)***</sup> [Grove of Mara](https://en.uesp.net/wiki/Legends:Grove_of_Mara) dialogue in the Isle of Madness
+9. [^](#cite_ref-9) [The Betrayal](https://en.uesp.net/wiki/Legends:The_Betrayal_(Isle_of_Madness)) dialogue in the Isle of Madness

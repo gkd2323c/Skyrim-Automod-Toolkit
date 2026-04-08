@@ -1,0 +1,3 @@
+# WindhelmCornerclubInnkeeperFaction
+
+Redirects to [WindhelmCornerclubInnkeeperFaction](Skyrim_Factions_W.md#WindhelmCornerclubInnkeeperFaction).

@@ -1,0 +1,14 @@
+# Rod of Kravari
+
+[![](https://images.uesp.net/thumb/e/e3/ON-quest-Blood_and_Sand_02.jpg/200px-ON-quest-Blood_and_Sand_02.jpg)](https://en.uesp.net/wiki/File:ON-quest-Blood_and_Sand_02.jpg) [](https://en.uesp.net/wiki/File:ON-quest-Blood_and_Sand_02.jpg) Quintus awakening the gargoyle with the Rod of Kravari [![](https://images.uesp.net/thumb/4/42/ON-npc-Quintus_Verres_02.jpg/200px-ON-npc-Quintus_Verres_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Quintus_Verres_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Quintus_Verres_02.jpg) Rod of Kravari The Rod of Kravari, also known as **Quintus' Exploding Staff**, was a [fire](Lore_Elements.md#Fire) [staff](Lore_Staves.md) [artifact](Lore_Artifacts.md) of some renown.<sup>[[1]](#cite_note-QV-1)</sup><sup>[[2]](#cite_note-Item-2)</sup>
+
+Little is known about the history of the Rod of Kravari, but it was in Quintus Verres' possession for some time before [2E 582](Lore_Second_Era.md#2E_582), as he mentioned using it prior to that year. In 2E 582, he wielded it during his expedition in [Hammerfell](Lore_Hammerfell.md). It was used by Verres during his expedition to uncover the [Guardian's Eye](Lore_Guardian%27s_Eye.md) in the ruins of [Volenfell](Lore_Volenfell.md). While wielding the staff, Quintus was able to command flames—far more than he anticipated, instill fear, and awaken [gargoyles](Lore_Gargoyle.md). It is unclear whether this was due to the staff's inherent power or his own magical abilities, but Quintus mentioned struggling to control the overwhelming fire and force it unleashed. The staff did not grant Quintus the ability to command the gargoyles; in fact, he perished shortly after awakening one, which crushed him while he was engaged in a battle against a rival archaeologist, his ex-wife Tharayya, and her [Undaunted](Lore_Undaunted.md) bodyguards.<sup>[[1]](#cite_note-QV-1)</sup><sup>[[3]](#cite_note-T-3)</sup><sup>[[4]](#cite_note-BOS-4)</sup>
+
+## See Also
+- For game-specific information, see the ESO item entry.
+
+## References
+1. ^ <sup>***[a](#cite_ref-QV_1-0)***</sup><sup>***[b](#cite_ref-QV_1-1)***</sup> [Quintus Verres](https://en.uesp.net/wiki/Online:Quintus_Verres)'s dialogue and abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-Item_2-0) Quintus' Exploding Staff in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-T_3-0) [Tharayya](https://en.uesp.net/wiki/Online:Tharayya)'s dialogue and abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. [^](#cite_ref-BOS_4-0) Events of [Blood and Sand](https://en.uesp.net/wiki/Online:Blood_and_Sand) in [ESO](https://en.uesp.net/wiki/Online:Online)

@@ -1,0 +1,61 @@
+# Netch
+
+[![](https://images.uesp.net/thumb/c/cd/SR-quest-Fetch_the_Netch.jpg/200px-SR-quest-Fetch_the_Netch.jpg)](https://en.uesp.net/wiki/File:SR-quest-Fetch_the_Netch.jpg) [](https://en.uesp.net/wiki/File:SR-quest-Fetch_the_Netch.jpg) A family of netches | Netch | |
+| --- | --- |
+| [![ON-concept-Netch.png](https://images.uesp.net/thumb/f/ff/ON-concept-Netch.png/200px-ON-concept-Netch.png)](https://en.uesp.net/wiki/File:ON-concept-Netch.png) A Bull Netch | |
+| Type | [Beast](Lore_Bestiary.md) (Invertebrate) |
+| Range | [Morrowind](Lore_Morrowind.md), [Solstheim](Lore_Solstheim.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [Morrowind](https://en.uesp.net/wiki/Morrowind:Netch), [Skyrim](Skyrim_Netch.md)<sup>([DB](Skyrim_Dragonborn.md))</sup>, [ESO](https://en.uesp.net/wiki/Online:Netch), [Legends](https://en.uesp.net/wiki/Legends:Netch) |
+
+Netch (or **netches**) are large and generally peaceful creatures native to [Morrowind](Lore_Morrowind.md) that resemble airborne [jellyfish](Lore_Jellyfish.md) with the size and disposition of [cattle](Lore_Cattle.md), floating through the air supported by internal sacks of magical gases.<sup>[[1]](#cite_note-1)</sup> The barbs on a netch's tentacles contain active nematocysts, making them deadly if provoked.<sup>[[2]](#cite_note-CWNL-2)</sup> Adolescent netches are called calves or netchlings and resemble female ("betty") netches.<sup>[[3]](#cite_note-ESOnetchcalf-3)</sup><sup>[[4]](#cite_note-ICESO-4)</sup><sup>[[5]](#cite_note-Skyrimnetchcalf-5)</sup> Male ("bull") netches are larger than female ("betty") netches; the latter can be provoked into aggression more easily. They are usually peaceful but can be defensive of their territory, particularly during breeding season. When betty netches and calves feel threatened, they secrete pheromone oils that drive bull netches mad, turning them aggressive.<sup>[[6]](#cite_note-GDRTCC-6)</sup><sup>[[4]](#cite_note-ICESO-4)</sup> Netch eat through the use of a chitinous beak,<sup>[[7]](#cite_note-7)</sup> their diet consists at least partially of fungi.<sup>[[8]](#cite_note-ONMossy-8)</sup> They are cousins to the smaller [Swamp Jellies](Lore_Swamp_Jelly.md) of [Black Marsh](Lore_Black_Marsh.md) to the South, though whether Netch descended from them or originated independently is a matter of scholarly debate.<sup>[[9]](#cite_note-LAMQA-9)</sup>
+
+## Culture and Uses
+[![](https://images.uesp.net/thumb/4/4c/SR-item-Netch_Leather_02_%28Female%29.jpg/200px-SR-item-Netch_Leather_02_%28Female%29.jpg)](https://en.uesp.net/wiki/File:SR-item-Netch_Leather_02_(Female).jpg) [](https://en.uesp.net/wiki/File:SR-item-Netch_Leather_02_(Female).jpg) Netch Leather Armor Netchimen specialize in the domestication of netches. While in the wild, female netches, or "betties", usually maintain a harem of several male netches, or "bulls", netchimen often keep the female-male ratio low to favor faster breeding.<sup>[[10]](#cite_note-MWFrinnius-10)</sup> Given the inherent danger in harvesting from netches even for the most seasoned Netchimen, products derived from these creatures are relatively rare.<sup>[[11]](#cite_note-SD-11)</sup>
+
+One of the primary products obtained from netches is [Netch Leather](Lore_Netch_Leather.md), recognized by its velvety texture and a unique powdery feel. It possesses a latent venom that causes a tingling sensation upon touch,<sup>[[2]](#cite_note-CWNL-2)</sup> but paradoxically, donning armor made from netch leather imparts a sense of exhilaration to the wearer.<sup>[[12]](#cite_note-TRG-12)</sup> Netch leather armor is particularly favored by warriors prioritizing mobility, as it offers superior durability and toughness compared to common alternatives like [bear](Lore_Bear.md) or [mammoth](Lore_Mammoth.md) hide, while retaining flexibility. The strength of netch leather can be enhanced further by boiling. However, it requires regular maintenance, including weekly oiling and treatment with [dreugh wax](Lore_Dreugh_Wax.md), to retain its optimal condition.<sup>[[11]](#cite_note-SD-11)</sup> On the other hand, the meat of a netch, due to its toxic nature, is unfit for consumption.<sup>[[13]](#cite_note-EGTMorrowind-13)</sup>
+
+In addition to its use in armor, netch hide can be refined into fine handkerchiefs.<sup>[[14]](#cite_note-14)</sup>
+
+The [jelly](Lore_Netch_Jelly.md) secreted from their carcasses contains a harmless toxin that paralyzes the nervous system, and is used as an alchemical ingredient.<sup>[[15]](#cite_note-KCAHC-15)</sup>
+
+## Variants
+[![](https://images.uesp.net/thumb/c/c4/ON-pet-Netches.jpg/200px-ON-pet-Netches.jpg)](https://en.uesp.net/wiki/File:ON-pet-Netches.jpg) [](https://en.uesp.net/wiki/File:ON-pet-Netches.jpg) From left to right: common, mossy and rosy netch calves (ESO) Netches, known for their distinct bioluminescence, are found in a variety of breeds across Morrowind. The most frequently encountered breed, recognized by its characteristic blue glow, is distributed widely throughout the region. The Mossy Netch, with its unique green hue, inhabits primarily the [West Gash](Lore_West_Gash.md) region of Vvardenfell.<sup>[[8]](#cite_note-ONMossy-8)</sup> The Rosy Netch breed, identified by its red coloring, is indigenous to the volcanic foyadas of the [Molag Amur](Lore_Molag_Amur.md) region on Vvardenfell.<sup>[[16]](#cite_note-ONRosy-16)</sup>
+
+Netches share a biological kinship with the [Swamp Jellies](Lore_Swamp_Jelly.md) of Black Marsh. Some historians propose this connection may have stemmed from the Dunmer's millennia-long incursions into Black Marsh. These raids were aimed at acquiring valuable resources, including slave labor, livestock, and unique creatures.<sup>[[9]](#cite_note-LAMQA-9)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/0/09/MW-creature-Bull_Netch.jpg/200px-MW-creature-Bull_Netch.jpg)](https://en.uesp.net/wiki/File:MW-creature-Bull_Netch.jpg) A bull netch (Morrowind)
+- [![](https://images.uesp.net/thumb/d/d4/MW-creature-Betty_Netch.jpg/200px-MW-creature-Betty_Netch.jpg)](https://en.uesp.net/wiki/File:MW-creature-Betty_Netch.jpg) A betty netch (Morrowind)
+- [![](https://images.uesp.net/thumb/b/b0/SR-creature-Bull_Netch.jpg/200px-SR-creature-Bull_Netch.jpg)](https://en.uesp.net/wiki/File:SR-creature-Bull_Netch.jpg) A bull netch (Dragonborn)
+- [![](https://images.uesp.net/thumb/f/f6/ON-creature-Ozzacha.jpg/200px-ON-creature-Ozzacha.jpg)](https://en.uesp.net/wiki/File:ON-creature-Ozzacha.jpg) A bull netch (ESO)
+- [![](https://images.uesp.net/thumb/4/4a/ON-creature-Betty_Netch.jpg/200px-ON-creature-Betty_Netch.jpg)](https://en.uesp.net/wiki/File:ON-creature-Betty_Netch.jpg) A betty netch (ESO)
+- [![](https://images.uesp.net/thumb/a/ab/ON-creature-Netch_Calf.png/200px-ON-creature-Netch_Calf.png)](https://en.uesp.net/wiki/File:ON-creature-Netch_Calf.png) A netch calf (ESO)
+- [![](https://images.uesp.net/thumb/1/17/LG-cardart-Betty_Netch.png/200px-LG-cardart-Betty_Netch.png)](https://en.uesp.net/wiki/File:LG-cardart-Betty_Netch.png) A betty netch (Legends)
+- [![](https://images.uesp.net/thumb/b/b0/LG-cardart-Bull_Netch.png/200px-LG-cardart-Bull_Netch.png)](https://en.uesp.net/wiki/File:LG-cardart-Bull_Netch.png) A bull netch (Legends)
+- [![](https://images.uesp.net/thumb/8/88/SR-creature-Bull_Netch_02.jpg/200px-SR-creature-Bull_Netch_02.jpg)](https://en.uesp.net/wiki/File:SR-creature-Bull_Netch_02.jpg) A bull netch attacking a Skaal hunter (Skyrim)
+- [![](https://images.uesp.net/thumb/d/d0/ON-pet-Haunting_Netch.jpg/200px-ON-pet-Haunting_Netch.jpg)](https://en.uesp.net/wiki/File:ON-pet-Haunting_Netch.jpg) Haunting Netch (ESO)
+- [![](https://images.uesp.net/thumb/c/c5/ON-npc-Red_Exile_Handler_02.jpg/200px-ON-npc-Red_Exile_Handler_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Red_Exile_Handler_02.jpg) A Netch Handler with a Bull Netch (ESO)
+- [![](https://images.uesp.net/thumb/2/23/MW-item-Netch_Armor.jpg/147px-MW-item-Netch_Armor.jpg)](https://en.uesp.net/wiki/File:MW-item-Netch_Armor.jpg) Netch armor (Morrowind)
+- [![](https://images.uesp.net/thumb/c/c7/SR-item-Shadowed_Boiled_Netch_Leather_Armor_Male.jpg/200px-SR-item-Shadowed_Boiled_Netch_Leather_Armor_Male.jpg)](https://en.uesp.net/wiki/File:SR-item-Shadowed_Boiled_Netch_Leather_Armor_Male.jpg) Shadowed and Boiled Netch Leather Armor (Skyrim Creation Club)
+- [![](https://images.uesp.net/thumb/8/81/MW-concept-Ashlanders_hunting_netch.jpg/200px-MW-concept-Ashlanders_hunting_netch.jpg)](https://en.uesp.net/wiki/File:MW-concept-Ashlanders_hunting_netch.jpg) Ashlanders hunting netch
+
+## See Also
+- For game-specific information, see the [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Netch), [*Skyrim*](Skyrim_Netch.md)<sup>[DB](Skyrim_Dragonborn.md)</sup>, [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Netch), and [*Legends*](https://en.uesp.net/wiki/Legends:Netch) articles.
+
+## References
+1. [^](#cite_ref-1) [Ra'Virr](https://en.uesp.net/wiki/Morrowind:Ra%27Virr)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+2. ^ <sup>***[a](#cite_ref-CWNL_2-0)***</sup><sup>***[b](#cite_ref-CWNL_2-1)***</sup> [*Crafting with Netch Leather*](https://en.uesp.net/wiki/Lore:Crafting_with_Netch_Leather) — Alma Merisan
+3. [^](#cite_ref-ESOnetchcalf_3-0) [Baby Netch](https://en.uesp.net/wiki/Online:Baby_Netch) and [Betty Netch](https://en.uesp.net/wiki/Online:Betty_Netch) appearances in [ESO](https://en.uesp.net/wiki/Online:Online)
+4. ^ <sup>***[a](#cite_ref-ICESO_4-0)***</sup><sup>***[b](#cite_ref-ICESO_4-1)***</sup> [Iron-Claws](https://en.uesp.net/wiki/Online:Iron-Claws)' dialogue in [ESO](https://en.uesp.net/wiki/Online:Online)
+5. [^](#cite_ref-Skyrimnetchcalf_5-0) [Netch Calf](https://en.uesp.net/wiki/Skyrim:Netch_Calf) and [Betty Netch](Skyrim_Betty_Netch.md) appearances in *[Skyrim](Skyrim_Skyrim.md): [Dragonborn](Skyrim_Dragonborn.md)*
+6. [^](#cite_ref-GDRTCC_6-0) [Talym Rend](https://en.uesp.net/wiki/Legends:Talym_Rend)'s dialogue in the mission [Meliel's Farm](https://en.uesp.net/wiki/Legends:Meliel%27s_Farm) in [Isle of Madness](https://en.uesp.net/wiki/Legends:Isle_of_Madness)
+7. [^](#cite_ref-7) [Netchbeak Clasps](https://en.uesp.net/wiki/Online:Cryptcanon_Vestments#Netchbeak_Clasps) [antiquity](https://en.uesp.net/wiki/Online:Antiquities) in [ESO](https://en.uesp.net/wiki/Online:Online)
+8. ^ <sup>***[a](#cite_ref-ONMossy_8-0)***</sup><sup>***[b](#cite_ref-ONMossy_8-1)***</sup> [Mossy Netch Calf](https://en.uesp.net/wiki/Online:Mossy_Netch_Calf) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. ^ <sup>***[a](#cite_ref-LAMQA_9-0)***</sup><sup>***[b](#cite_ref-LAMQA_9-1)***</sup> [*Loremaster's Archive: Murkmire Q&A*](https://en.uesp.net/wiki/Lore:Loremaster%27s_Archive__Murkmire_Q%26A) — [Jee-Lar](Lore_Books_by_Author.md#Jee-Lar)
+10. [^](#cite_ref-MWFrinnius_10-0) [Frinnius Posuceius](https://en.uesp.net/wiki/Morrowind:Frinnius_Posuceius)' dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+11. ^ <sup>***[a](#cite_ref-SD_11-0)***</sup><sup>***[b](#cite_ref-SD_11-1)***</sup> [*Settling the Debate*](Lore_Settling_the_Debate.md) — [Ralevyn Nerano](Lore_Books_by_Author.md#Ralevyn_Nerano)
+12. [^](#cite_ref-TRG_12-0) [*The Rear Guard*](Lore_The_Rear_Guard.md) — [Tenace Mourl](Lore_Books_by_Author.md#Tenace_Mourl)
+13. [^](#cite_ref-EGTMorrowind_13-0) [*The Improved Emperor's Guide to Tamriel: Stonefalls and Deshaan*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Morrowind) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+14. [^](#cite_ref-14) [Pristine Netch-Hide Handkerchiefs](https://en.uesp.net/wiki/Online:Contraband_P#Pristine_Netch-Hide_Handkerchiefs) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-KCAHC_15-0) [Kyne's Challenge: A Hunter's Companion](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion_Characters_and_Summary#Morrowind)
+16. [^](#cite_ref-ONRosy_16-0) [Rosy Netch Calf](https://en.uesp.net/wiki/Online:Rosy_Netch_Calf) pet description in [ESO](https://en.uesp.net/wiki/Online:Online)

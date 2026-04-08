@@ -1,0 +1,24 @@
+#  Foreign Adventures, Part 4
+
+| Book Information | | | |
+| --- | --- | --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:The_Black_Fin:_Foreign_Adventures,_Part_4) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) | | |
+| Up | *[The Black Fin: Foreign Adventures](Lore_The_Black_Fin__Foreign_Adventures.md)* | | |
+| Prev. | *[Part 3](Lore_The_Black_Fin__Foreign_Adventures,_Part_3.md)* | Next | *[The Black Fin Comes Home](Lore_The_Black_Fin_Comes_Home.md)* |
+
+[Keshu](Lore_Keshu.md)
+The Black Fin: Foreign Adventures, Part 4 **by [Mee-See](Lore_Books_by_Author.md#Mee-See), Squire and Personal Aide to Keshu the Black Fin** *The tale of Keshu the Black Fin's campaigns during the Three Banners War* *
+---
+In the midst of [General Keshu](Lore_Keshu_the_Black_Fin.md)'s continued build-up and improvement of the [Ebonheart Pact](Lore_Ebonheart_Pact.md)'s allied forces, the Black Fin received a summons from [Jorunn](Lore_Jorunn.md) the Skald-King. We had been training with combined troops near [Riften](Lore_Riften.md) when the runner arrived with the sealed letter. The meeting would take place at [Fort Amol](Lore_Fort_Amol.md), in [Eastmarch](Lore_Eastmarch.md), in two-day's time. Keshu began to make preparations to depart at once.
+
+Keshu the Black Fin decided to travel light and fast, taking only a small contingent with her to meet with the Skald-King. I accompanied the General, of course, along with Tee-Wan, Xocin, and the Nord warrior, Kora Greatstorm. Vos-Huruk remained behind to command the troops and continue the training exercises. As our small group approached Fort Amol, we were met a good distance outside the settlement and led in through a hidden trail that bypassed the main roads into and out of the town. We were hurriedly escorted to the jarl's manor and taken to a secret meeting room within the large estate. There, standing behind a large table, was Jorunn the Skald-King.
+
+I sensed immediately that something was very different from our previous meetings with Jorunn. For one thing, he didn't rush to scoop up Keshu in a tremendous hug, and he wasn't his usual loud and boisterous self. To be fair, the weight of the crown had taken a toll on the bard-turned-ruler, but he appeared more grave and serious than I had ever seen him. "The [Tribunal](Lore_Tribunal.md) has sent a dire warning, Black Fin," Jorunn began. "[Almalexia](Lore_Almalexia.md) has had a vision. Or maybe it was [Vivec](Lore_Vivec.md)? Who can say? In any case, they warn that a threat to the Ebonheart Pact is developing and we need to be ready. So, everything you've been doing? Now you must triple your efforts and prepare us for war."
+
+The new war effort was placed in the hands of three generals, one from each member nation of the Pact. Keshu represented the [Argonians](Lore_Argonian.md), Kora Greatstorm represented the Nords, and Yeveth Noramil represented the [Dark Elves](Lore_Dunmer.md). These were the generals that would, together, bolster and prepare the Pact's offensive and defensive capabilities for the coming years. And, thanks to the preparations that the Black Fin had already begun, the foundation was in place for the arms buildup to reach the next level in a relatively short amount of time. Before we departed that secret room in the jarl's manor, Jorunn had one last nugget of wisdom to pass on to Keshu. "Peace is a fragile, precious thing, Black Fin," the Skald-King said in a weary voice. "Cherish the time you have with it, for it never lasts long."
+
+Over the next two years, the expanding Pact army faced a number of small tests, including skirmishes with [Imperial legions](Lore_Imperial_Legion.md) and [Daggerfall](Lore_Daggerfall_Covenant.md) troops, and it acquitted itself admirably. In many ways, these small encounters led to the [War of the Three Banners](Lore_Three_Banners_War.md). When the three separate alliances finally declared war against each other, Keshu led the Pact army into the field. The land of [Cyrodiil](Lore_Cyrodiil.md) became the battlefield, and the sound of war echoed throughout the land.
+
+For the better part of a year, General Keshu and the Pact army gained ground, lost ground, and gained it back again. We couldn't claim victory, as the war continued, but we won many significant battles—much to the chagrin of the Covenant and the [Dominion](Lore_Aldmeri_Dominion.md). Then, at the height of her power and popularity, the Black Fin made a decision that surprised us all. "We've done all we can for the Pact," Keshu explained. "It's time for us to go home."
+
+And that was how the Black Fin's foreign adventures came to an abrupt end.

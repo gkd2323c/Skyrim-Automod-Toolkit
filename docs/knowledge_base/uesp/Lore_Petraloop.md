@@ -1,0 +1,11 @@
+# Petraloop
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Petraloop) ([Greymoor](https://en.uesp.net/wiki/Online:Greymoor)) |
+
+Petraloop *Notes on a famed lute* *
+---
+Made by Master Petra, this lute carries a wonderful, warm tone and robust voice unrivaled among other instruments. The curious name comes from many an inebriated bard calling for "Petra's Lute" at the end of a long session.
+
+Inscribed on the back are the names of many of the [college's](Lore_Bards_College.md) most famous bards.

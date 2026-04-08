@@ -1,0 +1,37 @@
+# Grahl
+
+| Grahl | |
+| --- | --- |
+| [![LG-cardart-Cave Grahl 02.jpg](https://images.uesp.net/thumb/6/6c/LG-cardart-Cave_Grahl_02.jpg/200px-LG-cardart-Cave_Grahl_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Cave_Grahl_02.jpg) A Cave Grahl (Legends) | |
+| Type | [Beast](Lore_Bestiary.md) ([Troll](Lore_Troll.md)) |
+| Range | [Solstheim](Lore_Solstheim.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Grahl), [Legends](https://en.uesp.net/wiki/Legends:Cave_Grahl) |
+
+*We even made a deal with a pack of grahl to act as muscle. Didn't work out so well. See, these grahl aren't the most trustworthy. Turned on my guys. Ate them, actually. I'm the only one left.*
+—Krish<sup>[[1]](#cite_note-BMRiek-1)</sup> Grahl, sometimes called **Ice [Trolls](Lore_Troll.md)**,<sup>[[2]](#cite_note-GEGP-2)</sup><sup>[[3]](#cite_note-3)</sup><sup>[[4]](#cite_note-LGCC-4)</sup> are tusked, brutish creatures native to the ice caves of [Solstheim](Lore_Solstheim.md). The native [Skaal](Lore_Skaal.md) do not know their true nature, suspecting them to be either great beasts or evil [spirits](Lore_Spirit.md).<sup>[[5]](#cite_note-Gen Grahl-5)</sup> Skaal myth refers to them as the **Unholy Beasts**, aspects of [the Adversary](Lore_The_Adversary.md).<sup>[[6]](#cite_note-Aevar-6)</sup> Grahl hunt either alone or in packs, their claws and tusks can rend armor and tear flesh.<sup>[[5]](#cite_note-Gen Grahl-5)</sup><sup>[[6]](#cite_note-Aevar-6)</sup> These ice trolls have regeneration and vulnerability to fire in common with their mainland cousins,<sup>[[7]](#cite_note-7)</sup> and some grahl possess a [third eye](Lore_Third_Eye.md).<sup>[[2]](#cite_note-GEGP-2)</sup>
+
+[Grahl eyeballs](Lore_Grahl_Eyeball.md) have alchemical properties, and are sometimes mummified and repurposed as tough, leathery pouches for carrying small items.<sup>[[2]](#cite_note-GEGP-2)</sup> Grahl skin is used in tea that cures skin ailments.<sup>[[8]](#cite_note-8)</sup>
+
+## History
+In story of [Aevar Stone-Singer](Lore_Aevar_Stone-Singer.md), [the Greedy Man](Lore_The_Greedy_Man.md) had stolen the gentle warmth of the [Sun](Lore_Sun.md), leading to the [All-Maker](Lore_All-Maker.md) instructing Aevar to free the Sun from the Halls of Penumbra. The Halls were guarded by grahls, with one in particular having a flaming eye. He plucked the flaming eye from the grahl and threw it at the ice with all his might. A small crack appeared in the ice, then grew larger. Slowly, the light crept out between the cracks, widening them, splitting the ice wall into pieces. With a deafening crack, the wall crumbled, and the light rushed over Aevar and through the Halls. The grahl shrieked they were blinded and burned. Aevar ran out of the Halls, following the light, and collapsed on the ground outside. He then returned to the [Sun Stone](Lore_Standing_Stones.md#All-Maker_Stones) where the All-Maker informed him that he had restored the warmth of the Sun.<sup>[[6]](#cite_note-Aevar-6)</sup>
+
+In service to the Skaal as part of a ritual to appease the All-Maker, the [Nerevarine](Lore_Nerevarine.md) re-enacted these events circa [3E 427](Lore_Third_Era.md#3E_427). They went to the Halls of Penumbra, which several Grahl inhabited, and slew a special one known as the Lightkeeper Grahl. They plucked the [Flaming Eye of the Lightkeeper](Lore_Alchemy_F.md#Flaming_Eye_of_the_Lightkeeper) from its body and used it to melt an ice wall in the cave, freeing the light it was obscuring. The Nerevarine completed the ritual by returning to the Sun Stone.<sup>[[9]](#cite_note-9)</sup> Also circa 3E 427, when the lord of [Castle Karstaag](Lore_Castle_Karstaag.md), [Karstaag](Lore_Karstaag.md) the [Frost Giant](Lore_Frost_Giant.md), was taken by [werewolves](Lore_Werewolf.md) to participate in [Hircine](Lore_Hircine.md)'s [Great Hunt](Lore_Great_Hunt.md), a [Riekling](Lore_Riekling.md) named Dulk took control of the castle in his master's absence. A rebellious Riekling known as Krish attempted to enlist the help of several grahl to overthrow Dulk, but the creatures turned on the Rieklings and killed many of them. The grahl were killed by the Nerevarine.<sup>[[1]](#cite_note-BMRiek-1)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/4/4c/BM-creature-Grahl.jpg/200px-BM-creature-Grahl.jpg)](https://en.uesp.net/wiki/File:BM-creature-Grahl.jpg) Grahl (Bloodmoon)
+- [![](https://images.uesp.net/thumb/2/26/LG-cardart-Angry_Grahl_02.jpg/133px-LG-cardart-Angry_Grahl_02.jpg)](https://en.uesp.net/wiki/File:LG-cardart-Angry_Grahl_02.jpg) Angry Grahl (Legends)
+- [![](https://images.uesp.net/thumb/8/83/BM-ing-Grahl_Eyeball.jpg/200px-BM-ing-Grahl_Eyeball.jpg)](https://en.uesp.net/wiki/File:BM-ing-Grahl_Eyeball.jpg) Grahl Eyeball (Bloodmoon)
+
+## See Also
+- For game-specific information, see the [*Bloodmoon*](https://en.uesp.net/wiki/Bloodmoon:Grahl) and *[Legends](https://en.uesp.net/wiki/Legends:Angry Grahl)* [](https://en.uesp.net/wiki/Legends:Core_Set) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-BMRiek_1-0)***</sup><sup>***[b](#cite_ref-BMRiek_1-1)***</sup> [Dulk](https://en.uesp.net/wiki/Bloodmoon:Dulk) and [Krish](https://en.uesp.net/wiki/Bloodmoon:Krish)'s dialogue in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+2. ^ <sup>***[a](#cite_ref-GEGP_2-0)***</sup><sup>***[b](#cite_ref-GEGP_2-1)***</sup><sup>***[c](#cite_ref-GEGP_2-2)***</sup> [Grahl-Eye Gem Purse](https://en.uesp.net/wiki/Online:Treasures_G#Grahl-Eye_Gem_Purse) item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-3) [The Castle Karstaag](https://en.uesp.net/wiki/Bloodmoon:The_Castle_Karstaag) journal entry descriptions in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+4. [^](#cite_ref-LGCC_4-0) [Troll](https://en.uesp.net/wiki/Legends:Troll) card category in *[Legends](https://en.uesp.net/wiki/Legends:Legends)*
+5. ^ <sup>***[a](#cite_ref-Gen Grahl_5-0)***</sup><sup>***[b](#cite_ref-Gen Grahl_5-1)***</sup> [Skaal](https://en.uesp.net/wiki/Bloodmoon:Skaal) [generic dialogue](https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_G#Grahl) on the topic of **Grahl** in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+6. ^ <sup>***[a](#cite_ref-Aevar_6-0)***</sup><sup>***[b](#cite_ref-Aevar_6-1)***</sup><sup>***[c](#cite_ref-Aevar_6-2)***</sup> [*The Story of Aevar Stone-Singer*](Lore_The_Story_of_Aevar_Stone-Singer.md)
+7. [^](#cite_ref-7) [Grahls](https://en.uesp.net/wiki/Bloodmoon:Grahl) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*
+8. [^](#cite_ref-8) [*Teas and Tisanes for Aches and Pains*](Lore_Teas_and_Tisanes_for_Aches_and_Pains.md) — [Tilenra Sildreth](Lore_Books_by_Author.md#Tilenra_Sildreth)
+9. [^](#cite_ref-9) [The Ritual of the Sun](https://en.uesp.net/wiki/Bloodmoon:The_Ritual_of_the_Sun) quest in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind): [Bloodmoon](https://en.uesp.net/wiki/Bloodmoon:Bloodmoon)*

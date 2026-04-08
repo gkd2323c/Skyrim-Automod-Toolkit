@@ -1,0 +1,33 @@
+# Keel Cutters
+
+[![](https://images.uesp.net/thumb/3/3a/ON-place-Thrall_Cove.jpg/200px-ON-place-Thrall_Cove.jpg)](https://en.uesp.net/wiki/File:ON-place-Thrall_Cove.jpg) [](https://en.uesp.net/wiki/File:ON-place-Thrall_Cove.jpg) Thrall Cove The Keel Cutters were a pirate slaver group primarily led by the [Maormer](Lore_Maormer.md).<sup>[[1]](#cite_note-Spencer-1)</sup><sup>[[2]](#cite_note-CVST-2)</sup><sup>[[3]](#cite_note-KCSL-3)</sup> Aside from the Maormer,<sup>[[2]](#cite_note-CVST-2)</sup><sup>[[3]](#cite_note-KCSL-3)</sup><sup>[[4]](#cite_note-KCM-4)</sup> their ranks also included members from various other races, such as [Nords](Lore_Nord.md),<sup>[[5]](#cite_note-KCA-5)</sup> [Orcs](Lore_Orc.md),<sup>[[6]](#cite_note-KCR-6)</sup><sup>[[7]](#cite_note-KCT-7)</sup><sup>[[8]](#cite_note-KCV-8)</sup> and [Redguards](Lore_Redguard.md).<sup>[[9]](#cite_note-KCB-9)</sup><sup>[[10]](#cite_note-KCC-10)</sup> They were active in [Hew's Bane](Lore_Hew%27s_Bane.md) during the [Three Banners War](Lore_Three_Banners_War.md).<sup>[[11]](#cite_note-TC-11)</sup><sup>[[12]](#cite_note-TC2-12)</sup>
+
+## History
+At a certain point, the Keel Cutters launched an attack on the shores of Hew's Bane and established Thrall Cove as a landing site on the western coast of Hew's Bane.<sup>[[11]](#cite_note-TC-11)</sup>. In the year [2E 582](Lore_Second_Era.md#2E_582), they were under the leadership of Captain Virindi Slave-Taker, a formidable mage specializing in [storm magic](Lore_Weather_Magic.md).<sup>[[2]](#cite_note-CVST-2)</sup>
+
+During that period, a sea captain hailing from Abah's Landing suffered the loss of both his cherished spyglass and his entire crew to Maormer slavers at Thrall Cove. An [adventurer](Lore_The_Vestige.md) was hired by Spencer Rye, an associate of the local [Thieves Guild](Lore_Thieves_Guild.md), to retrieve the lost spyglass and free the slaves. The adventurer successfully accomplished these tasks and received their rewards. The captives were safely returned to Abah's Landing.<sup>[[1]](#cite_note-Spencer-1)</sup><sup>[[12]](#cite_note-TC2-12)</sup><sup>[[13]](#cite_note-C-13)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/5/54/ON-npc-Captain_Virindi_Slave-Taker.jpg/200px-ON-npc-Captain_Virindi_Slave-Taker.jpg)](https://en.uesp.net/wiki/File:ON-npc-Captain_Virindi_Slave-Taker.jpg) Captain Virindi Slave-Taker
+- [![](https://images.uesp.net/thumb/6/69/ON-npc-Keel_Cutter_Sea_Lord.jpg/200px-ON-npc-Keel_Cutter_Sea_Lord.jpg)](https://en.uesp.net/wiki/File:ON-npc-Keel_Cutter_Sea_Lord.jpg) Keel Cutter Sea Lord
+- [![](https://images.uesp.net/thumb/9/94/ON-npc-Keel_Cutter_Archer.jpg/200px-ON-npc-Keel_Cutter_Archer.jpg)](https://en.uesp.net/wiki/File:ON-npc-Keel_Cutter_Archer.jpg) Nord member of the Keel Cutters
+- [![](https://images.uesp.net/thumb/5/56/ON-npc-Keel_Cutter_Champion.jpg/200px-ON-npc-Keel_Cutter_Champion.jpg)](https://en.uesp.net/wiki/File:ON-npc-Keel_Cutter_Champion.jpg) Redguard member of the Keel Cutters
+- [![](https://images.uesp.net/thumb/0/08/ON-npc-Keel_Cutter_Ravager.jpg/200px-ON-npc-Keel_Cutter_Ravager.jpg)](https://en.uesp.net/wiki/File:ON-npc-Keel_Cutter_Ravager.jpg) Orc member of the Keel Cutters
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Keel_Cutters) [](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC)) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-Spencer_1-0)***</sup><sup>***[b](#cite_ref-Spencer_1-1)***</sup> [Spencer Rye](https://en.uesp.net/wiki/Online:Spencer_Rye)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+2. ^ <sup>***[a](#cite_ref-CVST_2-0)***</sup><sup>***[b](#cite_ref-CVST_2-1)***</sup><sup>***[c](#cite_ref-CVST_2-2)***</sup> [Captain Virindi Slave-Taker](https://en.uesp.net/wiki/Online:Captain_Virindi_Slave-Taker)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+3. ^ <sup>***[a](#cite_ref-KCSL_3-0)***</sup><sup>***[b](#cite_ref-KCSL_3-1)***</sup> [Keel Cutter Sea Lord](https://en.uesp.net/wiki/Online:Keel_Cutter_Sea_Lord) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+4. [^](#cite_ref-KCM_4-0) [Keel Cutter Mender](https://en.uesp.net/wiki/Online:Keel_Cutter_Mender) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+5. [^](#cite_ref-KCA_5-0) [Keel Cutter Archer](https://en.uesp.net/wiki/Online:Keel_Cutter_Archer) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+6. [^](#cite_ref-KCR_6-0) [Keel Cutter Ravager](https://en.uesp.net/wiki/Online:Keel_Cutter_Ravager) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+7. [^](#cite_ref-KCT_7-0) [Keel Cutter Thundermaul](https://en.uesp.net/wiki/Online:Keel_Cutter_Thundermaul) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+8. [^](#cite_ref-KCV_8-0) [Keel Cutter Vanquisher](https://en.uesp.net/wiki/Online:Keel_Cutter_Vanquisher) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+9. [^](#cite_ref-KCB_9-0) [Keel Cutter Butcher](https://en.uesp.net/wiki/Online:Keel_Cutter_Butcher) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+10. [^](#cite_ref-KCC_10-0) [Keel Cutter Champion](https://en.uesp.net/wiki/Online:Keel_Cutter_Champion) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+11. ^ <sup>***[a](#cite_ref-TC_11-0)***</sup><sup>***[b](#cite_ref-TC_11-1)***</sup> [Thrall Cove](https://en.uesp.net/wiki/Online:Thrall_Cove) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+12. ^ <sup>***[a](#cite_ref-TC2_12-0)***</sup><sup>***[b](#cite_ref-TC2_12-1)***</sup> Events of [Thrall Cove](https://en.uesp.net/wiki/Online:Thrall_Cove_(quest)) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*
+13. [^](#cite_ref-C_13-0) [Captive](https://en.uesp.net/wiki/Online:Captive_(Thrall_Cove)) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Thieves Guild](https://en.uesp.net/wiki/Online:Thieves_Guild_(DLC))*

@@ -1,0 +1,45 @@
+# Madanach
+
+| King Madanach | | | |
+| --- | --- | --- | --- |
+| [![SR-npc-Madanach 02.jpg](https://images.uesp.net/thumb/3/32/SR-npc-Madanach_02.jpg/200px-SR-npc-Madanach_02.jpg)](https://en.uesp.net/wiki/File:SR-npc-Madanach_02.jpg) King Madanach | | | |
+| Race | [Reachman](Lore_Reachman.md) | Gender | Male |
+| Born | [Fourth Era](Lore_Era.md#Fourth_Era) | | |
+| Resided in | [The Reach](Lore_The_Reach.md) | | |
+| Reign | [4E 174](Lore_Fourth_Era.md#4E_174) - <br> [4E 176](Lore_Fourth_Era.md#4E_176) | | |
+| Previous Ruler | [Hrolfdir](Lore_Hrolfdir.md) | | |
+| Next Ruler | [Hrolfdir](Lore_Hrolfdir.md) | | |
+| Appears in | [Skyrim](Skyrim_Madanach.md) | | |
+
+Madanach, known as the **King in Rags**,<sup>[[1]](#cite_note-Nepos-1)</sup> was the [Reachman](Lore_Reachmen.md) king of the short-lived independent kingdom in [the Reach](Lore_The_Reach.md) that existed from [4E 174](Lore_Fourth_Era.md#4E_174) to [4E 176](Lore_Fourth_Era.md#4E_176) and the leader of the [Forsworn Rebellion](Lore_Forsworn_Rebellion.md). He was a proficient spellcaster, specializing in the arts of ice magic and conjuration.<sup>[[2]](#cite_note-M-2)</sup> Taking advantage of the [Empire](Lore_Third_Empire.md)'s preoccupation with the [Great War](Lore_Great_War.md), in 4E 174, he led other disgruntled Reachmen in the uprising that overthrew the [Nord](Lore_Nord.md) Jarl [Hrolfdir](Lore_Hrolfdir.md) of [Markarth](Lore_Markarth.md).<sup>[[3]](#cite_note-TBOM-3)</sup><sup>[[4]](#cite_note-Sr JId-4)</sup><sup>[[5]](#cite_note-ESVSPOGG-5)</sup><sup>:501</sup> According to some historians, the two-year period of Reachman independence was relatively peaceful, with only the cruelest Nord landowners being put to death, and the nascent kingdom made overtures to the Empire seeking formal recognition.<sup>[[3]](#cite_note-TBOM-3)</sup>
+
+However, Hrolfdir and his son, [Igmund](Lore_Igmund.md), desperate to reclaim the Reach, hired [Ulfric Stormcloak](Lore_Ulfric_Stormcloak.md) and his militia to retake it in exchange for allowing [Talos](Lore_Talos.md) worship in the hold, hoping that the [Thalmor](Lore_Thalmor.md) would not hear of this violation of the [White-Gold Concordat](Lore_White-Gold_Concordat.md).<sup>[[3]](#cite_note-TBOM-3)</sup><sup>[[4]](#cite_note-Sr JId-4)</sup><sup>[[5]](#cite_note-ESVSPOGG-5)</sup><sup>:501</sup> In 4E 176, Ulfric and his militia besieged and then took Markarth, capturing Madanach in the process.<sup>[[3]](#cite_note-TBOM-3)</sup><sup>[[4]](#cite_note-Sr JId-4)</sup><sup>[[5]](#cite_note-ESVSPOGG-5)</sup><sup>:501</sup><sup>[[6]](#cite_note-Thonar-6)</sup><sup>[[7]](#cite_note-Madanach-7)</sup>
+
+Madanach's surviving supporters, now known as the [Forsworn](Lore_Forsworn.md), fled into the hills of the Reach and continued fighting for independence by using terroristic methods, but Madanach was quickly tried and sentenced to death.<sup>[[4]](#cite_note-Sr JId-4)</sup><sup>[[7]](#cite_note-Madanach-7)</sup> However, [Thonar Silver-Blood](Lore_Thonar_Silver-Blood.md) intervened and offered him a stay of execution.<sup>[[6]](#cite_note-Thonar-6)</sup><sup>[[7]](#cite_note-Madanach-7)</sup><sup>[[8]](#cite_note-TJ-8)</sup> Thonar offered Madanach a deal: he would be spared and allowed to lead his remaining followers in their rebellion while he was imprisoned in Cidhna Mine, as long as the Forsworn dealt with the Silver-Bloods' enemies.<sup>[[6]](#cite_note-Thonar-6)</sup><sup>[[7]](#cite_note-Madanach-7)</sup><sup>[[8]](#cite_note-TJ-8)</sup> Madanach accepted the deal, and although he found it humiliating at first, he knew Thonar would come to believe that he was under control and lower his defenses eventually.<sup>[[7]](#cite_note-Madanach-7)</sup>
+
+Madanach spent the next two decades imprisoned in Cidhna Mine, ordering numerous attacks and killings through the high-ranking Forsworn agent Nepos the Nose.<sup>[[1]](#cite_note-Nepos-1)</sup><sup>[[9]](#cite_note-NJ-9)</sup> Around 4E 201, Thonar noted that Madanach was becoming unruly.<sup>[[8]](#cite_note-TJ-8)</sup>
+
+In [4E 201](Lore_Fourth_Era.md#4E_201), Thonar learned that a visitor to Markarth named Margret was actually an imperial agent, prompting him to order Madanach to have the Forsworn deal with her to prevent her from interfering with the Silver-Bloods' business.<sup>[[6]](#cite_note-Thonar-6)</sup><sup>[[10]](#cite_note-Margret-10)</sup> Madanach passed the orders to Nepos the Nose, who then sent a letter to a smelter worker named Weylin ordering him to kill Margret.<sup>[[1]](#cite_note-Nepos-1)</sup><sup>[[5]](#cite_note-ESVSPOGG-5)</sup><sup>:348</sup><sup>[[11]](#cite_note-WN-11)</sup> It is unknown if Weylin succeeded in killing Margret, but his attack on her drew the attention of a local named Eltrys and the [Last Dragonborn](Lore_Last_Dragonborn.md), whom Eltrys subsequently recruited to investigate why the guards did nothing. The Dragonborn eventually learned of the agreement between Madanach and Thonar while investigating the Forsworn attack. Thonar then had the city guard, who profited from the agreement, silence the Dragonborn by framing them for the unsolved murders committed by the Forsworn and imprison them in Cidhna Mine with Madanach and his followers.<sup>[[12]](#cite_note-TFC-12)</sup>
+
+The Dragonborn's investigation reminded Madanach of how removed he was from the Forsworn's struggle and that he and his men should have been in the hills fighting.<sup>[[7]](#cite_note-Madanach-7)</sup> In Cidhna Mine, the Dragonborn sought out and met Madanach. Madanach offered the Dragonborn a choice: help him and the other Forsworn imprisoned in Cidhna Mine escape Markarth, or try to kill him as revenge for his attempts to kill the Dragonborn during their investigation. The Dragonborn's choice is unknown, but they escaped Cidhna Mine and were pardoned, as the Forsworn's responsibility for the murders was revealed.<sup>[[13]](#cite_note-Skyrim-13)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/6/6e/SR-npc-Madanach.jpg/200px-SR-npc-Madanach.jpg)](https://en.uesp.net/wiki/File:SR-npc-Madanach.jpg) Madanach imprisoned in Cidhna Mine
+
+## See Also
+- For game-specific information, see the [*Skyrim* article](Skyrim_Madanach.md).
+
+## References
+1. ^ <sup>***[a](#cite_ref-Nepos_1-0)***</sup><sup>***[b](#cite_ref-Nepos_1-1)***</sup><sup>***[c](#cite_ref-Nepos_1-2)***</sup> [Nepos the Nose](Skyrim_Nepos_the_Nose.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+2. [^](#cite_ref-M_2-0) [Madanach](Skyrim_Madanach.md)'s abilities in *[Skyrim](Skyrim_Skyrim.md)*
+3. ^ <sup>***[a](#cite_ref-TBOM_3-0)***</sup><sup>***[b](#cite_ref-TBOM_3-1)***</sup><sup>***[c](#cite_ref-TBOM_3-2)***</sup><sup>***[d](#cite_ref-TBOM_3-3)***</sup> [*The Bear of Markarth*](Lore_The_Bear_of_Markarth.md) — [Arrianus Arius](Lore_Books_by_Author.md#Arrianus_Arius), Imperial Scholar
+4. ^ <sup>***[a](#cite_ref-Sr JId_4-0)***</sup><sup>***[b](#cite_ref-Sr JId_4-1)***</sup><sup>***[c](#cite_ref-Sr JId_4-2)***</sup><sup>***[d](#cite_ref-Sr JId_4-3)***</sup> [Igmund](Skyrim_Igmund.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+5. ^ <sup>***[a](#cite_ref-ESVSPOGG_5-0)***</sup><sup>***[b](#cite_ref-ESVSPOGG_5-1)***</sup><sup>***[c](#cite_ref-ESVSPOGG_5-2)***</sup><sup>***[d](#cite_ref-ESVSPOGG_5-3)***</sup> [*The Elder Scrolls V: Skyrim: Prima Official Game Guide*](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide) — David Hodgson
+6. ^ <sup>***[a](#cite_ref-Thonar_6-0)***</sup><sup>***[b](#cite_ref-Thonar_6-1)***</sup><sup>***[c](#cite_ref-Thonar_6-2)***</sup><sup>***[d](#cite_ref-Thonar_6-3)***</sup> [Thonar Silver-Blood](Skyrim_Thonar_Silver-Blood.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+7. ^ <sup>***[a](#cite_ref-Madanach_7-0)***</sup><sup>***[b](#cite_ref-Madanach_7-1)***</sup><sup>***[c](#cite_ref-Madanach_7-2)***</sup><sup>***[d](#cite_ref-Madanach_7-3)***</sup><sup>***[e](#cite_ref-Madanach_7-4)***</sup><sup>***[f](#cite_ref-Madanach_7-5)***</sup> [Madanach](Skyrim_Madanach.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+8. ^ <sup>***[a](#cite_ref-TJ_8-0)***</sup><sup>***[b](#cite_ref-TJ_8-1)***</sup><sup>***[c](#cite_ref-TJ_8-2)***</sup> [*Thonar's Journal*](https://en.uesp.net/wiki/Skyrim:Thonar%27s_Journal) — [Thonar Silver-Blood](Skyrim_Thonar_Silver-Blood.md)
+9. [^](#cite_ref-NJ_9-0) [*Nepos's Journal*](https://en.uesp.net/wiki/Skyrim:Nepos%27s_Journal) — [Nepos the Nose](Skyrim_Nepos_the_Nose.md)
+10. [^](#cite_ref-Margret_10-0) [Margret](Skyrim_Margret.md)'s dialogue in *[Skyrim](Skyrim_Skyrim.md)*
+11. [^](#cite_ref-WN_11-0) [*Weylin's Note*](https://en.uesp.net/wiki/Skyrim:Weylin%27s_Note) — [N](Skyrim_Nepos_the_Nose.md)
+12. [^](#cite_ref-TFC_12-0) Events of [The Forsworn Conspiracy](Skyrim_The_Forsworn_Conspiracy.md) in *[Skyrim](Skyrim_Skyrim.md)*
+13. [^](#cite_ref-Skyrim_13-0) Events of [No One Escapes Cidhna Mine](Skyrim_No_One_Escapes_Cidhna_Mine.md) in *[Skyrim](Skyrim_Skyrim.md)*

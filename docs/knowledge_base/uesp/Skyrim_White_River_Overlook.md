@@ -1,0 +1,85 @@
+# White River Watch
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) \| Cave: <br> White River Watch <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=White+River+Watch)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> White River Watch <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=White+River+Watch)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) | Cave: <br> White River Watch <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=White+River+Watch)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](Skyrim_Respawn.md) | 10 days or 30 days | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Range: 6-10 | |
+| Occupants | | |
+| [Bandits](Skyrim_Bandit.md), [Wolf](Skyrim_Wolf.md) | | |
+| Important Treasure | | |
+| [Ironhand Gauntlets](Skyrim_Ironhand_Gauntlets.md) | | |
+| Console Location Code(s) | | |
+| White River Watch Exterior01, White River Watch Exterior02, White River Watch Exterior03, White River Watch01 | | |
+| Region | | |
+| [Whiterun Hold](Skyrim_Whiterun_Hold.md) | | |
+| Location | | |
+| East-southeast of [Whiterun](Skyrim_Whiterun.md) <br> Southwest of the [Ritual Stone](Skyrim_The_Ritual_Stone.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 1 | |
+| # of [Cooking Pots/Spits](Skyrim_Cooking.md) | 1 | |
+| # of [Wood Chopping Blocks](Skyrim_Chop_Wood.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/b/b9/SR-place-White_River_Watch.jpg/200px-SR-place-White_River_Watch.jpg)](https://en.uesp.net/wiki/File:SR-place-White_River_Watch.jpg) [](https://en.uesp.net/wiki/File:SR-place-White_River_Watch.jpg) White River Watch **White River Watch** is a small [cave](Skyrim_Caves.md) east-southeast of [Whiterun](Skyrim_Whiterun.md) containing the [White River](Skyrim_White_River.md) [bandits](Skyrim_Bandit.md). It contains only one zone, *[White River Watch](#White_River_Watch)*.
+
+## Related Quests
+- **[Amulet of the Moon](Skyrim_Amulet_of_the_Moon.md)**: Find the [Moon Amulet](Skyrim_Moon_Amulet.md) for [Kharjo](Skyrim_Kharjo.md). ([radiant](Skyrim_Radiant.md))
+- **[Dungeon Delving](Skyrim_Dungeon_Delving_(Bandits).md)**: Do a favor by retrieving an item from a bandit hideout. ([radiant](Skyrim_Radiant.md))
+- **Note:** This location is intended to be one of many potential targets for one or more of the radiant quests found on [this page](Skyrim_Radiant.md#Quest_Locations); however, without patches, it won't be targeted (see [bugs](#Bugs)).
+
+## Walkthrough
+
+### Exterior
+Two bandits are outside the cave. The two bandits positions make it very hard to approach the caves stealthily. The first bandit stands guard near a campfire and overlooks the dirt path, and the second bandit stands higher up, near the entrance to the cave. In the bushes to the left just before the campfire is a [bear trap](Skyrim_Bear_Trap.md). The first bandit carries a [note](Skyrim_Note_to_Rodulf.md) which warns Rodulf to stop making a fool of [Hajvarr](Skyrim_Hajvarr_Iron-Hand.md)'s uncle. On the other side of the bushes is a [purple mountain flower](Skyrim_Purple_Mountain_Flower.md), and on the opposite side of the path is a [blue mountain flower](Skyrim_Blue_Mountain_Flower.md).
+
+There is a [cooking pot](Skyrim_Cooking_Pot.md) hanging over the campfire. On the table by the campfire is a sprig of [frost mirriam](Skyrim_Frost_Mirriam.md), a [cabbage](Skyrim_Cabbage.md), a [garlic](Skyrim_Garlic.md) bulb, two [leeks](Skyrim_Leek.md), and some cheese. There are a number of crates and [food](Skyrim_Food.md) sacks and barrels around the table and to the left of the entrance. There is a novice-locked chest just north of the fire and a rack holding three whole [salmon](Skyrim_Salmon_(dead).md) to the right. By the cliff face to the south is a [wood chopping block](Skyrim_Wood_Chopping_Block.md), another purple mountain flower and a [lavender](Skyrim_Lavender.md) bush.
+
+### White River Watch
+When you enter, [Ulfr the Blind](Skyrim_Ulfr_the_Blind.md) asks you to identify yourself, thinking you are Rodulf, *"Eh? Who's there? Rodulf, that you?"* If you try to pass yourself off as Rodulf, he will advise you to talk to the boss, *"Boss was looking for you - said he'd be up at the summit. Better not keep him waiting."* He will return to "reading" [his book](Skyrim_Ulfr%27s_Book.md), which is actually blank. If you talk to him again, he will offer some encouragement, *"Good luck out there."* If you threaten him, he will call out for help, *"Hey! Somebody get down here! Help!"* This will make two bandits spawn in the next room: they will not appear otherwise if it is your first run through, but they will spawn if you return to the cave after killing everyone in it to continue picking up loot.
+
+To the right of the entrance is a pile of food sacks, barrels, and crates. Two of the barrels contain common [ingredients](Skyrim_Ingredients.md). Among the crates are two patches of [bleeding crown](Skyrim_Bleeding_Crown.md) fungus, with two bunches of [dried elves ear](Skyrim_Dried_Elves_Ear.md) hanging from a rack above. By a chair is one patch of each of the following: [fly amanita](Skyrim_Fly_Amanita.md), [imp stool](Skyrim_Imp_Stool.md), [Namira's rot](Skyrim_Namira%27s_Rot.md), and [white cap](Skyrim_White_Cap.md) fungi. A basket on the ground behind Ulfr contains four leeks. The passage continues to the east, passing a small set of shelves holding a [fur cuirass](Skyrim_Fur_Armor.md). To the right is a barrel with a quiver containing ten [iron arrows](Skyrim_Iron_Arrow.md) and farther to the right is a flight of stairs leading up. Around and behind the stairs are three patches of white cap and two patches of imp stool fungi, a wardrobe, a cupboard holding a bottle of [alto wine](Skyrim_Alto_Wine.md) and a bottle of [wine](Skyrim_Wine.md), and a few food sacks. At the top of the stairs there is a pile of firewood with an [iron war axe](Skyrim_Iron_War_Axe.md) on top and a barrel of common ingredients beside it. The stairs continue to climb to the northwest, passing a ledge with a small table holding a [fur helmet](Skyrim_Fur_Helmet.md). There are five more patches of imp stool and four more of white cap fungi in this area.
+
+As you pass through the tunnel to the next section you can overhear the end of a conversation between two rebellious bandits:
+
+- **Bandit #1**: *"So, you in?"*
+- **Bandit #2**: *"...Yeah. We can't have that rheumy-eyed fool as our watchman, even if he is Hajvarr's uncle. Time we dealt with both of them."*
+- **Bandit #1**: *"We strike tonight, at dusk. Be ready."*
+
+Despite their bravado they never do act on their plans. These two bandits are near the campfire up the slope from the next section, while a third bandit from deeper in the cave will be alerted if hostilities break out. The chamber is split in two with a ramp leading up on the left to the higher level, where all the bandits can be found. In the lower area there are five unowned bedrolls, with a patch of imp stool and one of Namira's rot fungi among them, a partially sunken end table with another fur hat and a [common book](Skyrim_Books.md) on top and a pair of leveled [boots](Skyrim_Armor.md#Boots) behind. There is a dresser to the south, containing random [clothes](Skyrim_Clothes.md), with an [iron mace](Skyrim_Iron_Mace.md), a pair of leveled [gauntlets](Skyrim_Gauntlets.md), a small [coin purse](Skyrim_Coin_Purse.md), some [leather strips](Skyrim_Leather_Strips.md), and eleven loose [coins](Skyrim_Gold.md). The raised area has a campfire on the left, with a small table to the right, holding a bottle of alto wine and a leveled [potion of stamina](Skyrim_Potion_of_Stamina.md). To the right of the campfire is a food barrel and a cupboard holding a [gourd](Skyrim_Gourd.md), a copy of *[An Explorer's Guide to Skyrim](Skyrim_An_Explorer%27s_Guide_to_Skyrim.md)* and one of *[The Hope of the Redoran](Skyrim_The_Hope_of_the_Redoran.md)*, and there is a [pickaxe](Skyrim_Pickaxe.md) on top. Opposite is a stack of crates and food sacks with a rack hanging to the right, holding three [rabbits](Skyrim_Rabbit_(dead).md) and a [pheasant](Skyrim_Pheasant.md). In the southeast corner, beneath a ledge is an unlocked chest.
+
+A ramp leads up to the southeast and a small area containing an [alchemy lab](Skyrim_Alchemy_Lab.md): the third bandit previously mentioned was working here, and may still be, if you have been stealthy enough in your approach. On the crate beside the lab is a leveled skill [potion](Skyrim_Potions.md). The path heads north through a narrow passage, before opening up into a narrow winding chamber with another cupboard on the right holding a leveled heavy [helmet](Skyrim_Helmet.md), an [iron dagger](Skyrim_Iron_Dagger.md), and a [woodcutter's axe](Skyrim_Woodcutter%27s_Axe.md). In front of the cupboard is a leveled [shield](Skyrim_Shield.md), a pair of [iron boots](Skyrim_Iron_Boots.md), and to the left is a [lute](Skyrim_Lute.md). There is also a patch of each of the following: bleeding crown, [blisterwort](Skyrim_Blisterwort.md), imp stool, Namira's rot, and white cap fungi. On the left is a dresser with an [iron helmet](Skyrim_Iron_Helmet.md) and small coin purse on top. As you approach this you will be able to overhear another conversation:
+
+- **Bandit #3**: *"You think it'll work?"*
+- **Bandit #4**: *"'Course not. Dogs I could train. But a half-starved wolf? Not a chance."*
+- **Bandit #3**: *"Right. Lucky if it doesn't rip our throats out."*
+
+The conversation is between two bandits on the same level of the cave: there are another two bandits in the next room too. One is above the first two, and another is higher up and to the left, but is still within range to be alerted to your presence by the others. You can choose to attack them by yourself, or you can pull a chain on the right-hand wall that releases the aforementioned [wolf](Skyrim_Wolf.md). This provokes a response by the bandit closest the cage, *"Look out! The wolf is loose!"* This particular wolf is unique: it will attack the bandits first due to a particular [faction](Skyrim_White_River_Prisoner_Faction.md), but it is still hostile to you.
+
+Under a bush to the left by the entrance to this section is a white cap fungus. Further along are two Namira's rot fungi, and inside the novice-locked cage is a leveled [potion of healing](Skyrim_Potion_of_Minor_Healing.md) and a patch of imp stool fungus, plus the wolf if you haven't released it. There are a couple of barrels to the right of the cage, one of which holds uncommon ingredients. By the barrels under the rock slope is a blisterwort fungus. The ramp leading up is against the right-hand wall and there is a ledge half way up containing a wooden bench, with an [iron warhammer](Skyrim_Iron_Warhammer.md) to the left, two patches of imp stool, and three of white cap fungi. At the top you'll see a small hanging cage overhanging the chamber below, this is obviously the cage mentioned in the note to Rodulf. There is a dead bandit inside the cage. Carefully climbing down the ledge in front of the cage should allow you to just reach the body which carries the same items as a normal bandit, plus 35 extra gold. On the right of the path is a small set of shelves holding an iron mace, a leveled [poison](Skyrim_Poisons.md), a bottle of alto wine and two bottles of wine.
+
+On the left-hand side of the path is a bleeding crown, and on the right, a white cap, followed by a fly amanita. There is another fly amanita by the wardrobe across the way, and a bleeding crown by the brazier to the left. Beyond the three barrels (two of which hold common ingredients) there is a fly amanitia and bleeding crown fungi. There is also another pickaxe, which is handy for the [iron ore vein](Skyrim_Iron_Ore_Vein.md) located here. On a ledge beyond the vein there is a Namira's rot and a fly amanita fungi. The path continues to rise heading north. Along the path upwards there are three bleeding crown on the left, three fly amanita and a bleeding crown fungi on the right.
+
+### Exterior: White River Overlook
+The overlook is aptly named, for it overlooks a great portion of the White River. From this area you can see a distance along the road to Whiterun, giving plenty of time to lay an ambush along the road. [Hajvarr Iron-Hand](Skyrim_Hajvarr_Iron-Hand.md) sits in a chair: he has also kept a [journal](Skyrim_Hajvarr%27s_Journal.md) on some of his thoughts, which he carries with him. He is always hostile and will attack on sight. He also carries the unique [Ironhand Gauntlets](Skyrim_Ironhand_Gauntlets.md), which are a pair of [steel Nordic gauntlets](Skyrim_Steel_Nordic_Gauntlets.md) with a [fortify two-handed](Skyrim_Fortify_Two-Handed.md) enchantment.
+
+On the table where Hajvarr sits lies a leveled [greatsword](Skyrim_Greatsword.md), an [iron shield](Skyrim_Iron_Shield.md), a leveled [potion of health](Skyrim_Potion_of_Health.md), and a leveled [potion of enhanced stamina](Skyrim_Potion_of_Enhanced_Stamina.md). If you turn back toward the cave, there is a boss chest and a large coin purse to the left of the wooden steps, and a [snowberry](Skyrim_Snowberry.md) bush to the right.
+
+You can now either make your way back through the cave, or take the slightly more treacherous path over the rocks. It isn't too difficult to pick a path down if you head north along the rocks. Alternatively, if you have cleared the cave, you can simply fast travel from the overlook instead of backtracking through the cave or scaling the mountainside.
+
+## Notes
+- [Eisa Blackthorn](Skyrim_Eisa_Blackthorn.md) and [Ra'jirr](Skyrim_Ra%27jirr.md) are former members of the White River gang. *[Eisa's Journal](Skyrim_Eisa%27s_Journal.md)* describes how they chose to leave and their adventures afterward.
+- [Whiterun guards](Skyrim_Whiterun_Guard.md) will alert you to this location with the comment, *"Careful if you cross the river to the east. Old Hajvarr Iron-Hand and his brigands are holed up in that cave, White River Watch."*
+- [Carriage](Skyrim_Carriage.md) drivers will also alert you to its location with the comment, *"Got keen eyes? Might see nasty old Hajvarr up on White River Watch. Piece of work. [Jarl](Skyrim_Jarl.md) should just run him out and have done with it."*
+- If you kill the two bandits that come to Ulfr's aid and then sheathe your weapon, he will stop fighting and return to the table where he was sitting. These two enemies will always be low-level bandits ("Bandit" instead of "Bandit Highwayman", etc.).
+- Hajvarr's journal mentions capturing a wolf from some cargo moving down the road, which is likely the wolf inside the cave.
+- To access the overlook without going through the cave, you can use a [horse](Skyrim_Horses.md) to climb the mountain west of [Whiterun Stormcloak Camp](Skyrim_Whiterun_Stormcloak_Camp.md), then descend carefully to the overlook.
+
+## Bugs
+- The hidden quest associated with this location is supposed to ensure the unique NPCs never respawn after being killed. The quest does not shut down properly, however, allowing the NPCs to respawn and leaving this location unavailable for most, if not all, radiant quests that don't specifically target it. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 1.3.2, fixes this bug. ([details](https://afktrack.afkmods.com/index.php?a=issues&i=12158))
+- If you do not release the wolf when going through the cave, then exit to the overlook and reenter, the wolf will have spawned outside the door to its cage. It will not be hostile. - [![On PC](https://images.uesp.net/d/d7/Computer.svg)](https://www.wikipedia.org/wiki/PC_game) Opening the cage either by pulling the chain or picking the lock will turn the wolf hostile again.

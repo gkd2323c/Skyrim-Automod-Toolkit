@@ -1,0 +1,3 @@
+# DA09TemporaryDragonFriendFaction
+
+Redirects to [DA09TemporaryDragonFriendFaction](Skyrim_Factions_D.md#DA09TemporaryDragonFriendFaction).

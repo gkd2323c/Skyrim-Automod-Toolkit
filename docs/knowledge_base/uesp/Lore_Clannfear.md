@@ -1,0 +1,81 @@
+# Clannfear
+
+| Clannfear | |
+| --- | --- |
+| [![MW-creature-Clannfear.jpg](https://images.uesp.net/thumb/9/90/MW-creature-Clannfear.jpg/200px-MW-creature-Clannfear.jpg)](https://en.uesp.net/wiki/File:MW-creature-Clannfear.jpg) A Clannfear (Morrowind) | |
+| Type | [Daedra](Lore_Daedra.md) |
+| Range | [Oblivion](Lore_Oblivion.md) |
+| [Appears in](https://en.uesp.net/wiki/General:The_Elder_Scrolls) | [Battlespire](https://en.uesp.net/wiki/Battlespire:Clannfear), [Morrowind](https://en.uesp.net/wiki/Morrowind:Clannfear), [Oblivion](https://en.uesp.net/wiki/Oblivion:Clannfear), [ESO](https://en.uesp.net/wiki/Online:Clannfear), [Legends](https://en.uesp.net/wiki/Legends:Dread Clannfear) |
+
+*The SHAME! The [Huntsman](Lore_Great_Hunt.md#The_Ritual_of_the_Innocent_Quarry) slain by a [mortal](Lore_Apprentice.md). The [Hernes](Lore_Herne_(creature).md) bring nothing but shame and shame. The Hernes must learn -- Honor the Law. And [Faydra](Lore_Faydra_Shardai.md) must teach -- Honor on the House. They taunts and tests us. They steals our glory, and raids our treasures. And now, this must stop. Honor at stake. Pride demands! Chasten them with Rods of Law. Hammer them to the Straight Path!*
+—A Clannfear member of [Xivilai's Clan](Lore_Xivilai%27s_Clan.md)<sup>[[1]](#cite_note-BSClann-1)</sup> (listen Link ⏵) **Clannfear** are ferocious [reptilian](Lore_Reptile.md) [Daedra](Lore_Daedra.md) that resembles a bipedal muscular [lizard](Lore_Lizard.md) with a large, bony crest on their head, as well as a curved beak, sharp talons, and clawed [bird](Lore_Bird.md) -like feet.<sup>[[2]](#cite_note-Athenaeum-2)</sup><sup>:57</sup><sup>[[UOL 1]](#cite_note-MJDA-3)</sup> They have tough scales on their body, and their mouths are lined with razor-sharp teeth for tearing flesh.<sup>[[3]](#cite_note-TIEGGT-4)</sup> They are generally thought to be of animal intelligence, though many are intelligent enough to speak.<sup>[[1]](#cite_note-BSClann-1)</sup> Clannfear are of low status, and are sometimes branded to reveal their loyalty. Clannfear cannot use tools, so they attack their foes through biting, clawing and lashing with their tail spikes. They can be formidable, but they are by no means clever.<sup>[[3]](#cite_note-TIEGGT-4)</sup> They are known to serve many Daedric Princes and can be found throughout the various [planes of Oblivion](Lore_Planes_of_Oblivion.md).<sup>[[4]](#cite_note-Vo D-5)</sup><sup>[[5]](#cite_note-ESOCold-6)</sup> In-fact every Daedric Prince is said to possess legions of clannfear among other common [Lesser Daedra](Lore_Lesser_Daedra.md).<sup>[[6]](#cite_note-7)</sup> Despite this, some attribute them to [Mehrunes Dagon](Lore_Mehrunes_Dagon.md).<sup>[[7]](#cite_note-DD-8)</sup> They can occasionally be found lingering near [Daedric Ruins](Lore_Daedric_Ruins.md) on [Nirn](Lore_Nirn.md).<sup>[[8]](#cite_note-ESOAsh-9)</sup>
+
+Clannfear walk on two legs and use their clawed arms and sharp beaks as [weapons](Lore_Weapons.md).<sup>[[9]](#cite_note-MWClann-10)</sup> They are capable of ripping mortals to shreds.<sup>[[10]](#cite_note-OOR-11)</sup> Clannfear claws are made for hooking their prey and pinning them while they are consumed alive.<sup>[[11]](#cite_note-ESODaedric_Dewclaw-12)</sup> The clannfear can make use of its crest to headbutt or charge at its prey.<sup>[[12]](#cite_note-FWDGFA-13)</sup> Clannfear pounce on their prey to knock it down. They can also slam their spiked tail into their prey to disorient it.<sup>[[13]](#cite_note-ESOClann-14)</sup>
+
+## Behavior and Uses
+Clannfear are inclined to flock together to hunt and may answer to a powerful matriarch, but are still dangerous as individuals.<sup>[[14]](#cite_note-ESOClann Matron-15)</sup> Clannfear vocalize by baying and screeching.<sup>[[15]](#cite_note-ONClann Sound-16)</sup><sup>[[16]](#cite_note-KCAHC-17)</sup> Clannfear are known to call mortals "*pinkskin*" as an insult.<sup>[[1]](#cite_note-BSClann-1)</sup>
+
+While they are described as loud-mannered,<sup>[[2]](#cite_note-Athenaeum-2)</sup><sup>:57</sup> clannfear can be trained by more intelligent Daedra such as [Dremora](Lore_Dremora.md).<sup>[[17]](#cite_note-ESOTrainer-18)</sup> Trained clannfear can assist Dremora in hunting mortals for sport,<sup>[[18]](#cite_note-Online GMJ-19)</sup> and have a keen sense of smell that assists them in such tasks.<sup>[[19]](#cite_note-MTCCC-20)</sup> The [clan](Lore_Xivilai%27s_Clan.md) led by [Xivilai Moath](Lore_Xivilai_Moath.md) held many clannfear as retainers during the invasion of the [Battlespire](Lore_Battlespire.md).<sup>[[1]](#cite_note-BSClann-1)</sup> Young clannfear purportedly need food to grow, which they often receive in the form of mortal flesh.<sup>[[20]](#cite_note-Ambient Dialogue-21)</sup> Their claws and hearts can be used in alchemy.<sup>[[21]](#cite_note-OBClaw-22)</sup><sup>[[22]](#cite_note-MWHeart-23)</sup><sup>[[16]](#cite_note-KCAHC-17)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/ce/BS-creature-Clannfear_03.png/200px-BS-creature-Clannfear_03.png)](https://en.uesp.net/wiki/File:BS-creature-Clannfear_03.png) A Clannfear in conversation (Battlespire)
+- [![](https://images.uesp.net/thumb/a/ac/BS-creature-Clannfear_%28attack%29.gif/184px-BS-creature-Clannfear_%28attack%29.gif)](https://en.uesp.net/wiki/File:BS-creature-Clannfear_(attack).gif) A Clannfear (Battlespire)
+- [![](https://images.uesp.net/thumb/1/12/OB-creature-Clannfear.jpg/200px-OB-creature-Clannfear.jpg)](https://en.uesp.net/wiki/File:OB-creature-Clannfear.jpg) A Clannfear in the Deadlands (Oblivion)
+- [![](https://images.uesp.net/thumb/b/be/OBR-creature-Clannfear.jpg/200px-OBR-creature-Clannfear.jpg)](https://en.uesp.net/wiki/File:OBR-creature-Clannfear.jpg) A Clannfear
+(Oblivion Remastered)
+- [![](https://images.uesp.net/thumb/b/be/ON-creature-Clannfear.jpg/200px-ON-creature-Clannfear.jpg)](https://en.uesp.net/wiki/File:ON-creature-Clannfear.jpg) A green Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/a/a7/ON-creature-Maebomaz.jpg/200px-ON-creature-Maebomaz.jpg)](https://en.uesp.net/wiki/File:ON-creature-Maebomaz.jpg) An olive Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/e/e6/ON-creature-Marrow_Thief.jpg/200px-ON-creature-Marrow_Thief.jpg)](https://en.uesp.net/wiki/File:ON-creature-Marrow_Thief.jpg) An olive Clannfear front-facing (ESO)
+- [![](https://images.uesp.net/thumb/7/73/ON-creature-Marrow.jpg/200px-ON-creature-Marrow.jpg)](https://en.uesp.net/wiki/File:ON-creature-Marrow.jpg) A blue Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/c/ca/ON-creature-Clannfear_02.jpg/200px-ON-creature-Clannfear_02.jpg)](https://en.uesp.net/wiki/File:ON-creature-Clannfear_02.jpg) A black Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/b/bb/ON-creature-Unstable_Clannfear.jpg/200px-ON-creature-Unstable_Clannfear.jpg)](https://en.uesp.net/wiki/File:ON-creature-Unstable_Clannfear.jpg) A summoned Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/9/9d/ON-creature-The_Screeching_Matron.jpg/200px-ON-creature-The_Screeching_Matron.jpg)](https://en.uesp.net/wiki/File:ON-creature-The_Screeching_Matron.jpg) A giant Clannfear (ESO)
+- [![](https://images.uesp.net/thumb/d/d8/LG-cardart-Dread_Clannfear.png/133px-LG-cardart-Dread_Clannfear.png)](https://en.uesp.net/wiki/File:LG-cardart-Dread_Clannfear.png) A Dread Clannfear (Legends)
+- [![](https://images.uesp.net/thumb/d/d9/LG-cardart-Clannfear_Runt.png/200px-LG-cardart-Clannfear_Runt.png)](https://en.uesp.net/wiki/File:LG-cardart-Clannfear_Runt.png) Clannfear Runt (Legends)
+- [![](https://images.uesp.net/thumb/f/f9/LG-cardart-Feed.png/200px-LG-cardart-Feed.png)](https://en.uesp.net/wiki/File:LG-cardart-Feed.png) Clannfear feeding on a citizen of the Imperial City (Legends)
+- [![](https://images.uesp.net/thumb/6/63/LG-cardart-Daedric_Incursion.png/200px-LG-cardart-Daedric_Incursion.png)](https://en.uesp.net/wiki/File:LG-cardart-Daedric_Incursion.png) A Clannfear with its Xivilai handler (Legends)
+- [![](https://images.uesp.net/thumb/c/c5/LG-cardart-Invasion_Marauder.png/200px-LG-cardart-Invasion_Marauder.png)](https://en.uesp.net/wiki/File:LG-cardart-Invasion_Marauder.png) Clannfear invading through an Oblivion gate (Legends)
+- [![](https://images.uesp.net/thumb/d/d3/LG-cardart-Unexpected_Arrival.png/135px-LG-cardart-Unexpected_Arrival.png)](https://en.uesp.net/wiki/File:LG-cardart-Unexpected_Arrival.png) A door torn apart by a Clannfear's strength (Legends)
+- [![](https://images.uesp.net/thumb/3/38/ON-furnishing-Wind_Chimes%2C_Undaunted_Glory.jpg/200px-ON-furnishing-Wind_Chimes%2C_Undaunted_Glory.jpg)](https://en.uesp.net/wiki/File:ON-furnishing-Wind_Chimes,_Undaunted_Glory.jpg) Clannfear skeleton turned into wind chimes
+- [![](https://images.uesp.net/thumb/5/50/BS-concept-Julian_Lefay_Sketch_23.jpg/153px-BS-concept-Julian_Lefay_Sketch_23.jpg)](https://en.uesp.net/wiki/File:BS-concept-Julian_Lefay_Sketch_23.jpg) Unused Battlespire concept art
+- [![](https://images.uesp.net/thumb/1/1f/BS-concept-Clannfear.jpg/200px-BS-concept-Clannfear.jpg)](https://en.uesp.net/wiki/File:BS-concept-Clannfear.jpg) Battlespire concept art
+- [![](https://images.uesp.net/thumb/c/c1/OB-concept-Clannfear.jpg/196px-OB-concept-Clannfear.jpg)](https://en.uesp.net/wiki/File:OB-concept-Clannfear.jpg) Oblivion concept art
+- [![](https://images.uesp.net/thumb/c/cc/OB-concept-08.jpg/200px-OB-concept-08.jpg)](https://en.uesp.net/wiki/File:OB-concept-08.jpg) Oblivion concept art
+- [![](https://images.uesp.net/thumb/f/f2/ON-concept-Clannfear.jpg/200px-ON-concept-Clannfear.jpg)](https://en.uesp.net/wiki/File:ON-concept-Clannfear.jpg) ESO concept art
+
+## Notes
+- The original Clannfear concept art was created by artist [Mark Jones](https://en.uesp.net/wiki/General:Mark_Jones), for an early iteration of *[The Elder Scrolls III](https://en.uesp.net/wiki/General:Tribunal_(canceled_game))* that was cancelled. They were originally conceived as Tamrielic fauna rather than Daedra, and would have been called "Rock Chisels" or "Rock Biters".<sup>[[UOL 2]](#cite_note-24)</sup>
+- In the *[The Art of Morrowind](https://en.uesp.net/wiki/Books:The_Art_of_Morrowind)* the [Ogrim](Lore_Ogrim.md) are referred to as "Clannfear Daddies".<sup>[[23]](#cite_note-TAo M-25)</sup><sup>:40</sup>
+
+## See Also
+- For game-specific information, see the [*Battlespire*](https://en.uesp.net/wiki/Battlespire:Clannfear), [*Morrowind*](https://en.uesp.net/wiki/Morrowind:Clannfear), [*Oblivion*](https://en.uesp.net/wiki/Oblivion:Clannfear), [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Clannfear), and *[Legends](https://en.uesp.net/wiki/Legends:Dread Clannfear)* [](https://en.uesp.net/wiki/Legends:Core_Set) articles.
+
+## References
+1. ^ <sup>***[a](#cite_ref-BSClann_1-0)***</sup><sup>***[b](#cite_ref-BSClann_1-1)***</sup><sup>***[c](#cite_ref-BSClann_1-2)***</sup><sup>***[d](#cite_ref-BSClann_1-3)***</sup> [Clannfear](https://en.uesp.net/wiki/Battlespire:Clannfear) [dialogue](https://en.uesp.net/wiki/Battlespire:Clannfear#Level_6:_Havok_Wellhead_Dialogue) in *[Battlespire](https://en.uesp.net/wiki/Battlespire:Battlespire)*
+2. ^ <sup>***[a](#cite_ref-Athenaeum_2-0)***</sup><sup>***[b](#cite_ref-Athenaeum_2-1)***</sup> [*Battlespire Athenaeum*](https://en.uesp.net/wiki/Books:Battlespire_Athenaeum) — Ronald Wartow
+3. ^ <sup>***[a](#cite_ref-TIEGGT_4-0)***</sup><sup>***[b](#cite_ref-TIEGGT_4-1)***</sup> [*The Improved Emperor's Guide to Tamriel: Northern Bangkorai and the Mountains*](https://en.uesp.net/wiki/Lore:The_Improved_Emperor%27s_Guide_to_Tamriel_Bangkorai) — [Flaccus Terentius](Lore_Flaccus_Terentius.md), [2E 581](Lore_Second_Era.md#2E_581)
+4. [^](#cite_ref-Vo D_5-0) [*Varieties of Daedra*](Lore_Varieties_of_Daedra.md) — [Aranea Drethan](Lore_Books_by_Author.md#Aranea_Drethan)
+5. [^](#cite_ref-ESOCold_6-0) Appearance of Clannfear throughout [Coldharbour](https://en.uesp.net/wiki/Online:Coldharbour) in [ESO](https://en.uesp.net/wiki/Online:Online)
+6. [^](#cite_ref-7) [*Denizens of Apocrypha*](https://en.uesp.net/wiki/Online:Denizens_of_Apocrypha) — [Cipher Plautis](https://en.uesp.net/wiki/Online:Cipher_Plautis)
+7. [^](#cite_ref-DD_8-0) [*Darkest Darkness*](Lore_Darkest_Darkness.md)
+8. [^](#cite_ref-ESOAsh_9-0) Abundance of Clannfear at the Daedric Ruins on [Ash Mountain](https://en.uesp.net/wiki/Online:Ash_Mountain) in [ESO](https://en.uesp.net/wiki/Online:Online)
+9. [^](#cite_ref-MWClann_10-0) [Clannfear](https://en.uesp.net/wiki/Morrowind:Clannfear) abilities in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+10. [^](#cite_ref-OOR_11-0) [*Outsider Observation Report - Log 2*](Lore_Outsider_Observation_Report_-_Log_2.md) — [Rosalind Frenrick](Lore_Books_by_Author.md#Rosalind_Frenrick), Stranded Mage
+11. [^](#cite_ref-ESODaedric_Dewclaw_12-0) Daedric Dewclaw item description in [ESO](https://en.uesp.net/wiki/Online:Online)
+12. [^](#cite_ref-FWDGFA_13-0) [*Fun with Daedra: Games for Adventurers*](https://en.uesp.net/wiki/Lore:Fun_with_Daedra__Games_for_Adventurers)
+13. [^](#cite_ref-ESOClann_14-0) [Clannfear](https://en.uesp.net/wiki/Online:Clannfear) abilities in [ESO](https://en.uesp.net/wiki/Online:Online)
+14. [^](#cite_ref-ESOClann Matron_15-0) [The Screeching Matron](https://en.uesp.net/wiki/Online:The_Screeching_Matron) and [The Devourer](https://en.uesp.net/wiki/Online:The_Devourer)'s ability to summon lesser clannfear in [ESO](https://en.uesp.net/wiki/Online:Online)
+15. [^](#cite_ref-ONClann Sound_16-0) [Clannfear](https://en.uesp.net/wiki/Online:Clannfear) sounds in [ESO](https://en.uesp.net/wiki/Online:Online)
+16. ^ <sup>***[a](#cite_ref-KCAHC_17-0)***</sup><sup>***[b](#cite_ref-KCAHC_17-1)***</sup> [Kyne's Challenge: A Hunter's Companion](https://en.uesp.net/wiki/Books:Kyne%27s_Challenge:_A_Hunter%27s_Companion): Hammerfell, Clannfear
+17. [^](#cite_ref-ESOTrainer_18-0) [Hzu-Hakan](https://en.uesp.net/wiki/Online:Hzu-Hakan) and [Angata the Clannfear Handler](https://en.uesp.net/wiki/Online:Angata_the_Clannfear_Handler)'s abilities, dialogue and story purposes in [ESO](https://en.uesp.net/wiki/Online:Online)
+18. [^](#cite_ref-Online GMJ_19-0) [*Guild Mage's Journal*](https://en.uesp.net/wiki/Online:Guild_Mage%27s_Journal)
+19. [^](#cite_ref-MTCCC_20-0) [*Meet the Character - Captain Caudex*](Lore_Meet_the_Character_-_Captain_Caudex.md) — [Lieutenant Gavo Haderus](Lore_Books_by_Author.md#Lieutenant_Gavo_Haderus)
+20. [^](#cite_ref-Ambient Dialogue_21-0) Overheard [Xivkyn](https://en.uesp.net/wiki/Online:Xivkyn_Dialogue) and [Dremora dialogue](https://en.uesp.net/wiki/Online:Dremora_Dialogue) in [ESO](https://en.uesp.net/wiki/Online:Online): *[Imperial City](https://en.uesp.net/wiki/Online:Imperial_City_(DLC))*
+21. [^](#cite_ref-OBClaw_22-0) Alchemical properties of [Clannfear Claws](https://en.uesp.net/wiki/Oblivion:Clannfear_Claws) in *[Oblivion](https://en.uesp.net/wiki/Oblivion:Oblivion)*
+22. [^](#cite_ref-MWHeart_23-0) [Clannfear](https://en.uesp.net/wiki/Morrowind:Clannfear) being a source of [Daedra Hearts](https://en.uesp.net/wiki/Morrowind:Daedra%27s_Heart) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
+23. [^](#cite_ref-TAo M_25-0) [*The Art of Morrowind*](https://en.uesp.net/wiki/Books:The_Art_of_Morrowind)
+
+**Note**: The following references are considered to be [unofficial sources](https://en.uesp.net/wiki/General:Unofficial_Lore). They are included to round off this article and may not be authoritative or conclusive.
+
+1. [^](#cite_ref-MJDA_3-0) [Jones, M](https://en.uesp.net/wiki/General:Mark_Jones). [mjonesgraphics]. (22 March 2016). "*:) The Clannfear in the games has 'porked out' a little over the years. The original design was intended to be more cadaver -like, being as it is a Vulture/Reptile/Demon :)*". Comment on ["*Clannfear Polypainted Zbrush - WIP*"](https://web.archive.org/web/20250904171452/https://www.deviantart.com/mjonesgraphics/art/Clannfear-Polypainted-Zbrush-WIP-598209309). Deviant Art. Archived from the original on 4 September 2025.
+2. [^](#cite_ref-24) [The Dragon's Eyrie](https://en.uesp.net/wiki/General:The_Dragon%27s_Eyrie)

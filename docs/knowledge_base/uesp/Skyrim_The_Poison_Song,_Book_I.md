@@ -1,0 +1,114 @@
+# The Poison Song, Book I
+
+| [](https://en.uesp.net/wiki/File:SR-icon-book-Basic Book5.png) Book Information <br> *The Poison Song, Book I* | | | |
+| --- | --- | --- | --- |
+| Added by | [Dragonborn](Skyrim_Dragonborn.md) | | |
+| [ID](Skyrim_Form_ID.md) | [xx](Skyrim_Form_ID.md) 02826e | | |
+| See Also | [Lore version](Lore_Poison_Song_I.md) | | |
+| Up | *[The Poison Song](Skyrim_The_Poison_Song.md)* | | |
+| Prev. | None | Next | *[Book 2](Skyrim_The_Poison_Song,_Book_II.md)* |
+| [![Value](https://images.uesp.net/thumb/5/52/SR-item-Gold-heads.png/22px-SR-item-Gold-heads.png)](https://en.uesp.net/wiki/File:SR-item-Gold-heads.png) | 3 | [](https://en.uesp.net/wiki/File:SR-icon-clothing-Leather_Backpack_(square).png) | 1 |
+| [Type](Skyrim_Books.md#Book_Types) | List 1 | | |
+| Writer | [Ted Peterson](https://en.uesp.net/wiki/General:Ted_Peterson) | | |
+| Locations | | | |
+| Found in the following locations: - [Alor House](Skyrim_Alor_House.md) ([Raven Rock](Skyrim_Raven_Rock.md)), main floor, on a shelf <br> - [Morvayn Manor](Skyrim_Morvayn_Manor.md) (Raven Rock), on a wall shelf next to the throne | | | |
+
+[The Poison Song](Skyrim_The_Poison_Song.md), Book I **by [Bristin Xel](Lore_Books_by_Author.md#Bristin_Xel)** *Part 1 of an epic set in the aftermath of the war with the Dwemer and House Dagoth* *
+---
+
+![I](https://images.uesp.net/thumb/4/48/I_letter.png/30px-I_letter.png)
+t was beginning again. Even though everything seemed serene (the last embers crackling in the hearth; young servant girl and her child slumbering in a chair by the door; a tapestry half-finished against the wall, waiting to be completed tomorrow; one of the moons visible through a milky cloud outside the window; a lone bird, out of sight in the rafters, cooing placidly), Tay heard the first chords of the Song strike dissonantly somewhere far away.
+
+The bird in the rafters croaked and took flight through the window. The baby in the girl's arms woke and began to scream. The Song swelled in intensity, yet still remained subtle and stately in tempo. The movement of everything seemed to take on the rhythm of the music as if strange choreography had been staged: the girl rising to the window, the clouds reflecting back red from the inferno below, her scream, all muted, consumed by the Song. Everything that came thereafter Tay had seen so many times, it had almost ceased to be a nightmare.
+
+He did not remember anything of his life before coming to the island of [Gorne](Lore_Gorne.md), but he understood that there was something different in his past that set him apart from his cousins. It wasn't simply that his parents were dead. His cousin Baynarah's parents had also died in the War. Nor were the other Housemen on Gorne or nearby [Mournhold](Lore_Mournhold.md) unusually cruel to him. They treated him with the same polite indifference that any [Indoril](Lore_House_Indoril.md) has for every other eight-year-old boy that got underfoot.
+
+But somehow, with absolutely certainty, Tay knew he was alone. Different. Because of a Song he always heard, and his nightmares.
+
+"You're certainly imaginative," his aunt Ulliah would smile patiently, before waving him away so she could return to her scriptures and chores.
+
+"Different? Everyone in the world thinks they're 'different,' that's what makes it such a common sentiment," said his older cousin Kalkorith who was studying to be [Temple](Skyrim_Tribunal_Temple.md) priest and had a firm grasp on paradoxes.
+
+"If you tell anyone else that you keep hearing music where there's no music to be heard, they'll call you mad and bury you in the [Shrine](Skyrim_Shrines.md) of [Sheogorath](Lore_Sheogorath.md)," his uncle Triffith would snarl, before striding away to attend his business.
+
+Only his nursemaid Edebah would listen to him seriously, and just nod with a faint look of pride. But she would never say another word.
+
+His cousin and chief playmate Baynarah was by far the least interested in the stories of his Song and his dreams.
+
+"How tiresome you are with all this, Tay," said Baynarah, after luncheon the summer of his eighth year. He, she, and a younger cousin Vaster walked into a clearing in the midst of flowering trees. The grass was very low, barely up to their ankles, and there were big black piles of leaves from the previous autumn. "Now, shall we get back to it? What shall we play?"
+
+Tay thought for a moment. "We could play the [Siege of Orsinium](Lore_Siege_of_Orsinium.md)."
+
+"What's that?" asked Vaster, their constant companion, three years their junior.
+
+"[Orsinium](Lore_Orsinium.md) was the home of the [orcs](Lore_Orc.md), off in the [Wrothgarian Mountains](Lore_Wrothgarian_Mountains.md). For hundreds of years, it kept growing bigger and bigger and bigger. The orcs would come down out of the mountains and rape and pillage all over [High Rock](Lore_High_Rock.md). And then, King [Joile](Lore_Joile.md) of [Daggerfall](Lore_Daggerfall_(kingdom).md) and [Gaiden Shinji](Lore_Gaiden_Shinji.md) of the [Order of Diagna](Lore_Order_of_the_Diagna.md) and someone else, I forget, from [Sentinel](Lore_Sentinel_(kingdom).md) all joined together against Orsinium. For thirty years they fought and fought. Orsinium had walls made out of iron and, try as they might, they couldn't break through."
+
+"So what happened?" asked Baynarah.
+
+"You're so good at making up things that never happened, why don't you make it up?"
+
+So they did. Tay was the King of the Orcs, perched up in a tree they called Orsinium. Baynarah and Vaster played King Joile and Gaiden Shinji and they threw pebbles and sticks up at Tay while he taunted them in his most guttural voice. The three decided that the Goddess [Kynareth](Lore_Kynareth.md) (played by Baynarah in dual role) answered the prayers of Gaiden Shinji and drenched Orsinium in a torrent of rain. The walls rusted and dissolved. On cue, Tay obligingly fell from the tree and let King Joile and Gaiden Shinji mangle him with their [enchanted](Skyrim_Enchanting.md) blades.
+
+For the most of that summer, the year [675](Lore_First_Era.md#1E_675) of the [First Era](Lore_First_Era.md), Tay was nearly insensible by the power of the sun. There were no clouds, but it rained most every night, so the vegetation on the island of Gorne was bewildering lush. The stones themselves seemed to glow with sunlight, and the ditches burned with white meadowsweet and parsleydown; all around him were soft smells of flower and tree untroubled by wind; the foliage was purple green, blue green, ash green, white green. The wide cupolas, twisting cobbled streets, and thatched roofs of the little village of Gorne, and massive bleached rock of Sandil House all were magical to him.
+
+Yet the dreams haunted his nights and the Song continued whether he was awake or not.
+
+Against Aunt Ulliah's admonishments, Tay, Baynarah, and Vaster had breakfast outdoors every morning with the servants. Ulliah would hold an interior breakfast for herself and any visiting dignitaries: guests were rare, so she often ate alone. At first the servants would dine in silence, attempting gentility, but they broke down and would regale the children with gossip, reports, stories, and rumors.
+
+"Poor Arnyle is laid up with a fever again."
+
+"I'm telling you, they're cursed. The whole lot of 'em. Piss on the faerie and they piss right back on you."
+
+"Doesn't Little Miss Starsia look, oh, just a wee bit tight around the belly region late-ly?"
+
+"She's not!"
+
+The only servant who didn't speak at all was Tay's nursemaid Edebah. She wasn't pretty like the other maids, but the scars on her face did not deform her. Her poorly set broken nose and her short hair gave her a certain alien mystique. She would merely quietly smile at the gossip, and look at Tay with almost frightening love and devotion.
+
+One day, after breakfast, Baynarah whispered to Tay and Vaster, "We have to go to the hills on the other side of the island."
+
+She had used such imperatives before and always had something wonderful to show: a waterfall, tucked away behind ferns and tall rocks; a sunny grove of figs; a discreet still some peasants had set up; a sickly oak, twisted into a kneeling human figure; a collapsed stone wall that they imagined was thousands of years old, the last refuge of a doomed princess they named Merella.
+
+The three walked across through the forest until they came to a clearing. A few hundred feet beyond, the meadow sank to a dry creek bed, filled with small, smooth stones. They followed that into the dark woods where trees canopied high over their heads. Sporadic red and yellow blossoms burst along the moist underbrush, but they became rarer and rarer as the children marched on under the umbrageous oaks and elms. The air crackled with birds ticking a staccato choral piece, a minor chord of the Song.
+
+"Where are we going?" asked Tay.
+
+"It's not where we're going, it's what we're going to see," replied Baynarah.
+
+The forest surrounded the three children completely, bathed them in its tenebrous hues, and breathed on them with wet chirrups and sighs. It was easy for them to imagine that they were within a monster, walking along its twisted spine of stones.
+
+Baynarah scrambled up the steep hill and peered through the thick mass of shrub and tree. Tay lifted Vaster out of the creek bed and climbed out, gripping soft grass for support. There was no path through the forest here. Brambles and low hanging branches struck at them like the claws of chained beasts. The cries of the birds became ever more stentorious, as if angered at the invasion. One limb drew blood on Vaster's cheek, but he didn't cry out. Even Baynarah, who could pass like an ethereal creature through impenetrable forests, had a braid catch on a bramble, ruining the intricate pattern a servant had woven hours before. She paused to pull out the other braid, so her bright unruly tresses fell freely behind her. Now she was something wild, a nymph guiding the other two through her woodland domain. The Song began to beat like a wild pulse.
+
+They were on a shelf of stone below a cliff overlooking a tremendous gorge, staring over an expanse of cinder. It looked like the scene of a tremendous battle, a holocaust of fire. Charred boxes, weaponry, animal bones, and detritus too annihilated to be identifiable littered the ground. Speechless, Tay and Vaster stepped into the black field. Baynarah smiled, proud that she had finally found something of true wonder and mystery.
+
+"What is this place?" asked Vaster at last.
+
+"I don't know," Baynarah shrugged. "I thought at first that it was some kind of ruin, but now I think it's a junk pile, just not like any junk pile I've ever seen. Just look at this stuff."
+
+The three began an unorganized survey of the dusty mounds of refuse. Baynarah found a twisted sword only lightly blackened by flame and began polishing it to read the inscriptions on the blade. Vaster amused himself by breaking brittle boxes with his hands and feet, imagining himself a giant of unbelievable strength. A battered shield attracted Tay: there was something about it that reverberated with the sound of the Song. He pulled it out, and wiped its surface clean.
+
+"I've never seen that crest before," said Baynarah, looking over Tay's shoulder.
+
+"I think I have, but I don't remember," Tay whispered, trying to conjure the memory from his dreams. He was sure he had seen it there.
+
+"Look at this!" Vaster cried, interrupting Tay's thoughts. The boy was holding up a crystal orb. As his hand moved over the surface, brushing away grit and dust, a key in the Song rose which sent a shiver through Tay's entire body. Baynarah ran over to look at Vaster's treasure, but Tay felt paralyzed.
+
+"Where did you find that?" she gasped, gazing into the swirl beneath the crystal surface.
+
+"Over in that wagon," Vaster gestured toward a heap of blackened wood, barely discernible from the other piles but for its cart spokes. Baynarah began digging into the half-collapsed structure, so only her feet could be seen. The Song built in potency, sweeping over Tay. He began walking toward Vaster slowly.
+
+"Give me that," he whispered in a voice he could barely recognize as his own.
+
+"No," Vaster whispered back, his eyes locked on the colors reflected in the heart of the globe. "It's mine."
+
+Baynarah dug through the remains of the wagon for several more minutes, but she could find no treasures like Vaster's. Most everything within was destroyed, and what remained was common-place by any standards: broken arrows, armor shards, guar bones. Frustrated, she pulled herself out into the sunlight.
+
+Tay was alone, at the edge of the great gorge.
+
+"Where's Vaster?"
+
+Tay blinked and then turned back to his cousin with a shrug and a grin: "He went back to show everyone his new plunder. Did you find anything interesting?"
+
+"Not really," said Baynarah. "We probably ought to get back home before Vaster tells them anything that'll get us in trouble."
+
+Tay and Baynarah started the walk back at a quick pace. Tay knew that Vaster would not be there when they got back. He would never be returning home again. The crystal globe rested snugly in Tay's satchel, hidden under a pile of junk he had picked up. With all his heart, he prayed for the Song to return and drown out the memory of the gorge and the long, silent fall down. The boy had been so surprised, he hadn't even time to scream.

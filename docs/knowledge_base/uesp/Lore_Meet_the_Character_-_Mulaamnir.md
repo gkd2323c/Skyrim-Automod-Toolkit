@@ -1,0 +1,33 @@
+# Meet the Character - Mulaamnir
+
+| Book Information | |
+| --- | --- |
+| Source: | - [ESO - Meet the Character](Lore_Meet_the_Character.md) ([link](https://www.elderscrollsonline.com/en-us/news/post/56271)) |
+| Writer | [Bill Slavicsek](https://en.uesp.net/wiki/General:Bill_Slavicsek) |
+| Publication Date: | May 15, 2019 |
+
+Meet the Character - Mulaamnir **by [Centurion Jagus](Lore_Books_by_Author.md#Centurion_Jagus)** *Extracts from an Imperial's journal detailing his interactions with a group of dragons*
+---
+[![ON-render-Mulaamnir.jpg](https://images.uesp.net/thumb/7/7d/ON-render-Mulaamnir.jpg/300px-ON-render-Mulaamnir.jpg)](https://en.uesp.net/wiki/File:ON-render-Mulaamnir.jpg) *From the Journal of Centurion Jagus, Royal Strategist to the Queen*
+
+I have made myself indispensable to Her Exalted Majesty, Queen [Euraxia](Lore_Euraxia_Tharn.md) by becoming her resident expert on [Dragon](Lore_Dragon.md). Yes, Dragons! Amazing, isn't it, that the creatures of legend have turned out to be real. As the Royal Strategist, I had my doubts about what we would find in the [Halls of Colossus](Lore_Halls_of_Colossus.md). I admit, I refused to believe Queen Euraxia and [Zumog Phoom](Lore_Zumog_Phoom.md) when they insisted that their research indicated what the ancient ruins contained. Once the Dragons emerged, however, I made it my goal to study the magnificent creatures and advise Her Majesty on how best to negotiate with them.
+
+Which brings me to the very nature of these great beasts. I must record my thoughts about [Mulaamnir](Lore_Mulaamnir.md), the powerful Dragon who has mostly interacted with Queen Euraxia and me since they arrived in Northern [Elsweyr](Lore_Elsweyr.md). Mulaamnir is a massive creature, surely among the largest of his kind. He refers to the other Dragons that emerged from the Halls at his side as his "brothers," but I have yet to ascertain if this refers to an actual familial connection or to a sense of companionship created after their long association.
+
+Mulaamnir, a massive Dragon adorned in azure scales, answered Queen Euraxia's summons and spoke in a commanding tone that indicated he represented all of the newly released Dragons. His rumbling voice sent shivers down my spine, I must admit. I find no shame in this admission. Even Her Majesty seemed ill at ease standing before the huge beast. We honestly had no idea if the Dragons would agree to Queen Euraxia's offer of an alliance or if Mulaamnir would smite us with fire or swallow us whole into his expansive maw. I almost bolted when he referred to us as "little morsels." But I held my ground and demonstrated my worth to my queen.
+
+Since that first meeting, I have had the honor of interacting with Mulaamnir on Her Majesty's behalf on multiple occasions. By studying the creature and engaging it in conversation, I have learned and surmised a great many facts concerning Mulaamnir and his brethren. As I mentioned above, this particular group of Dragons work much more closely and communally than the legends and ancient documents I reviewed indicated. The existing records suggest that the ancient Dragons that once ravaged the land were solitary creatures that competed as much with themselves as with others. It is clear from our interactions, however, that this band of Dragons has a strong bond and shared purpose, and that Mulaamnir commands his fellows with an authority not unlike that of Queen Euraxia.
+
+Physically powerful, I witnessed Mulaamnir accomplish extreme feats of strength with terrifying ease. During an engagement between Euraxian forces and the [Khajiiti](Lore_Khajiit.md) militia, I watched with a mix of fascination and horror as Mulaamnir landed in the middle of the catfolk army and tore into them with teeth and claws, wings and tail. He obliterated them like a whirling scythe cutting through tall, dry grass. More to the point, I could see that he thoroughly enjoyed the mayhem.
+
+The Dragons employ intense breath weapons of various types. For example, I've seen Mulaamnir pour fire from his gullet down upon Khajiiti soldiers and civilians alike. I've also seen him employ a type of storm magic in much the same way. As I understand it, it just depends upon the particular [shout](Lore_Thu%27um.md) the Dragon uses to call forth the power. I don't completely understand how this works, but it seems to be some sort of [magic](Lore_Magic.md). I take it certain [Nords](Lore_Nord.md) and even some of the past [emperors](Lore_Tamrielic_Emperors.md) were able to utilize this form of magic, but never to the extent of the Dragons.
+
+Mulaamnir possesses a surprising amount of knowledge, especially concerning Khajiiti lore. Well, maybe not so surprising, given his vast age. Though beastlike in form, Mulaamnir and his kin are closer to us in intellect than might be immediately obvious. Perhaps, I dare say, they are our superiors. He has a keen interest in the moons for some reason, but I can't get him to elaborate or go into detail. For an ally, he keeps his own counsel and isn't as forthcoming as either I or Queen Euraxia would like. It frustrates her, I know, but I haven't been able to get the Dragon to open up more than he already has.
+
+* * *
+
+Mulaamnir and his Dragons have been instrumental in our first victories against the Khajiiti rebels who refuse to accept the rule of Queen Euraxia. I just wish I could convince Mulaamnir to lend us more than a single creature at a time. With the combined might of all the Dragons, we could retake control of the entire region in a day! Of course, they seem incapable of or unwilling to discern a difference between our troops and the enemy. They take no care to avoid friendly casualties and seem to revel in destruction, no matter the target. Our control of these creatures is haphazard at best. We see the Dragons as weapons, but until we can fully control them, they remain as much a danger as a boon. We must find a way to get Mulaamnir and his Dragons to obey the chain of command!
+
+* * *
+
+Today's conversation with Mulaamnir was unsettling. I have grown used to being referred to as a morsel, but the Dragon let slip a significant fact that we were previously unaware of. We were wrong. Mulaamnir isn't the lead Dragon. He defers to an even more powerful creature called [Kaalgrontiid](Lore_Kaalgrontiid.md). I must endeavor to learn all I can about this Kaalgrontiid and rethink our approach to working with the Dragons.

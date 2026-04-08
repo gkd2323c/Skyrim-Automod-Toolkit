@@ -1,0 +1,14 @@
+# Demon of Fire and Shadow
+
+The entity only known as the demon of fire and shadow is an obscure being from the ancient [Khajiiti](Lore_Khajiit.md) mythology predating the [ri'Datta](Lore_Rid-Thar-ri%27Datta.md) era. [Akha](Lore_Akha.md)'s union with the demon resulted in the birth of [Alkhan](Lore_Alkhan.md), the Firstborn and Scaled Prince of Akha. Following the counsel of his father [Ahnurr](Lore_Ahnurr.md) to seek love, Akha later mated with the [Dune Queen of the West](Lore_Dune_Queen_of_the_West.md), [Mother Mammoth of the North](Lore_Mother_Mammoth_of_the_North.md), and the [Winged Serpent of the East](Lore_Winged_Serpent_of_the_East.md), giving rise to numerous [Dragon](Lore_Dragon.md) wayward children.<sup>[[1]](#cite_note-TWS-1)</sup><sup>[[nb 1]](#intnote_nb1)</sup>
+
+## Notes
+- One of the ancient Khajiiti texts, *[The Bladesongs of Boethra](Lore_The_Bladesongs_of_Boethra.md)*, links shadows and flames with [Boethra](Lore_Boethra.md), whom Akha (or Ahnurr) exiled to the Many Paths.<sup>[[1]](#cite_note-TWS-1)</sup><sup>[[2]](#cite_note-TBOB-2)</sup>
+- | [1.](#note_nb1) | *The Wandering Spirits* recounts the tale of Akha, who fathered offspring with the Winged Serpent, Mother Mammoth, and Dune Queen. Upon Akha's vanishing in the South, Alkosh "was granted rule over the myriad kingdoms of Akha along the Many Paths", and would watch over Akha's children. However, they rebelled against Alkosh, only for [Khenarthi](Lore_Khenarthi.md) to restore him afterward. Together, they now oversee them.<sup>[[1]](#cite_note-TWS-1)</sup> The term "wayward children of Alkosh" was used by Clan Mother Tadali, a leader of a temple dedicated to Khenarthi, to describe dragons.<sup>[[3]](#cite_note-Tadali-3)</sup> Moreover, the dragon [Nahfahlaar](Lore_Nahfahlaar.md) referred to Alkosh as his father.<sup>[[4]](#cite_note-Nahfahlaar-4)</sup> |
+| --- | --- |
+
+## References
+1. ^ <sup>***[a](#cite_ref-TWS_1-0)***</sup><sup>***[b](#cite_ref-TWS_1-1)***</sup><sup>***[c](#cite_ref-TWS_1-2)***</sup> [*The Wandering Spirits*](Lore_The_Wandering_Spirits.md) — [Amun-dro](Lore_Books_by_Author.md#Amun-dro.2C_the_Silent_Priest), the Silent Priest
+2. [^](#cite_ref-TBOB_2-0) [*The Bladesongs of Boethra*](Lore_The_Bladesongs_of_Boethra.md) — [Modun-Ra](Lore_Books_by_Author.md#Modun-Ra), the Hidden Voice
+3. [^](#cite_ref-Tadali_3-0) [Clan Mother Tadali](https://en.uesp.net/wiki/Online:Clan_Mother_Tadali)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*
+4. [^](#cite_ref-Nahfahlaar_4-0) [Nahfahlaar](https://en.uesp.net/wiki/Online:Nahfahlaar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Dragonhold](https://en.uesp.net/wiki/Online:Dragonhold)*

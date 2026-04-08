@@ -1,0 +1,3 @@
+# BYOHHouseBanditAttackFriendFaction
+
+Redirects to [BYOHHouseBanditAttackFriendFaction](Skyrim_Factions_H.md#BYOHHouseBanditAttackFriendFaction).

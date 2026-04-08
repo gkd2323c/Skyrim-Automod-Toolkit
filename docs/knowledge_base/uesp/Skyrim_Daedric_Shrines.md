@@ -1,0 +1,17 @@
+# Daedric Shrines
+
+[![](https://images.uesp.net/thumb/d/dd/SR-place-Sacellum_of_Boethiah.jpg/200px-SR-place-Sacellum_of_Boethiah.jpg)](https://en.uesp.net/wiki/File:SR-place-Sacellum_of_Boethiah.jpg) [](https://en.uesp.net/wiki/File:SR-place-Sacellum_of_Boethiah.jpg) Sacellum of Boethiah [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) This page lists all the **Daedric shrines** in [Skyrim](Skyrim_Skyrim.md). [Shrines](Skyrim_Shrines.md) to the [Nine Divines](Lore_Nine_Divines.md) are listed on a separate page. Many of the Daedric shrines are involved in the [Daedric quests](Skyrim_Daedric_Quests.md).
+
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) **[Shrine of Azura](https://en.uesp.net/wiki/Skyrim:Shrine_of_Azura)** — The shrine to the Daedric Prince Azura. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Shrine+of+Azura)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) **[Sacellum of Boethiah](https://en.uesp.net/wiki/Skyrim:Sacellum_of_Boethiah)** — The shrine to the Daedric Prince Boethiah. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Sacellum+of+Boethiah)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Haemar's Shame](Skyrim_Haemar%27s_Shame.md)** — A medium-sized cave east of Helgen containing vampires. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Haemar%27s+Shame)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Grove.png) **[Giant's Grove](Skyrim_Giant%27s_Grove.md)** — A grove accessed through Fallowstone Cave containing a giant whose tribe has defiled a shrine of Malacath. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Giant%27s+Grove)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) **[Shrine of Mehrunes Dagon](Skyrim_Shrine_of_Mehrunes_Dagon.md)** — The shrine to the Daedric Prince Mehrunes Dagon. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Shrine+of+Mehrunes+Dagon)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) **[Statue to Meridia](Skyrim_Statue_to_Meridia.md)** — The shrine to the Daedric Prince Meridia. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Statue+to+Meridia)
+- **[Abandoned House](Skyrim_Abandoned_House.md)** — A building in Markarth next to Arnleif and Sons Trading Company with a shrine to the Daedric Prince Molag Bal. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Abandoned+House)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Cave.png) **[Reachcliff Cave](https://en.uesp.net/wiki/Skyrim:Reachcliff_Cave)** — A small cave east-southeast of Markarth containing draugr. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Reachcliff+Cave)
+- **[Shrine of Nocturnal](https://en.uesp.net/wiki/Skyrim:Shrine_of_Nocturnal)** — The Thieves Guild's headquarters in Riften. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=The+Ragged+Flagon+-+Cistern)
+- [](https://en.uesp.net/wiki/File:SR-mapicon-Shrine.png) **[Shrine to Peryite](https://en.uesp.net/wiki/Skyrim:Shrine_to_Peryite)** — The shrine to the Daedric Prince Peryite. [(map)](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Shrine+to+Peryite)
+
+## Notes
+- There are also small obelisks known as "Daedric shrines" that confer a blessing on activation similar to the blessings provided by the shrines to the Nine Divines. These smaller Daedric shrines for [Azura](Lore_Azura.md), [Boethiah](Lore_Boethiah.md), and [Mephala](Lore_Mephala.md) are found in the [Temple](Skyrim_Temple.md) in [Raven Rock](Skyrim_Raven_Rock.md) on [Solstheim](Skyrim_Solstheim.md).

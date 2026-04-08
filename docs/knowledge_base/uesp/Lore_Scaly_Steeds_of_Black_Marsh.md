@@ -1,0 +1,19 @@
+# Scaly Steeds of Black Marsh
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Scaly_Steeds_of_Black_Marsh) ([Murkmire](https://en.uesp.net/wiki/Online:Murkmire_(DLC))) |
+
+Scaly Steeds of Black Marsh **by [Ukaspa](Lore_Books_by_Author.md#Ukaspa), Lilmoth Stablemaster** *An essay on the unique Argonian lizard-mounts*
+---
+I have noticed that many dryskins are emotionally attached to their hairy mounts, although they aren't actually related. (The exception may be our neighbors the [Khajiiti](Lore_Khajiit.md), who tell us all cats are their relatives. It might even be true, but who can read a Khajiit's facial expression, all whiskers and twitching ears? No wonder nobody trusts them.) Anyway: dryskins ride their beloved furry mounts into [Black Marsh](Lore_Black_Marsh.md) and then their steeds disappear into sudden-sand, or catch sloughskin from the fleshflies, or eat a spotted toadstool, and sploosh! They're dead, and the dryskins leak water from their eyes.
+
+Yes, a terrible situation for the sad beek-ojel, and one so easily avoided! For almost every stablemaster of the Marsh has fine, scaly lizard mounts available for purchase in various forms, all familiar to dryskins but specifically adapted to deep swamp conditions! So convenient, our lizard-steeds, so scaly and personable. Who would not want one? Or even several?
+
+More than once I have been asked by inquisitive beek-ojel, "Ukaspa, why are your lizard-steeds shaped like mounts from other parts of [Tamriel](Lore_Tamriel.md)? Why are there horse-lizards, camel-lizards, and senche-lizards? Why aren't your so-very-handsome mounts shaped like, well, lizards?" These are good questions, and I, Ukaspa, will answer them, except for the parts that are a Big Mystery.
+
+You know that we [Saxhleel](Lore_Saxhleel.md) are different from you dryskins because we are the children of the [Hist](Lore_Hist.md), right? But what, you wonder, does that mean, since the Hist are trees and we are clearly not saplings? Well, the Hist are much-more-than-trees, they are the wisdom with roots! They grow tall, wide, and very, very wise, but must stay where they grow, which is sometimes inconvenient. But the Hist see humans and Elves with their walking legs and clever hands, and wisely think, oh, good idea! Now, scurrying over their roots and everywhere in the Marsh are the kind of lizards we call "[useful](Lore_Useful_Lizard.md)." And a happening happens where the Hist take the kind of lizards we call "useful" and make from them the kind of people you call Argonians.
+
+You see where the current is taking us, do you not? The Hist have Argonians who are their children of the walking legs and clever hands, and they are the best people ever because they lack all the flaws of humans and Elves. But sometimes they want to travel a long way for a long time, and how do people-shaped-people do that? On mounts! And so useful lizards happen to become lizard-steeds of proven shapes, and then Argonians can ride, tall in the saddle and proud!
+
+But I know you beek-ojel, you always want to know more, as if knowledge moistens the scales (it does not, by the way). Knowing that useful lizards happen to become children of the Hist and also lizard-steeds is not enough, you want to know all the details, especially if they are what dryskins call "sexy." However, that is where Ukaspa cannot help, because all of that is a Big Mystery. Oh, not from Argonians of the Hist, because how could it be a Big Mystery to us, who know All the Clues? But you have no clues, because you are not our egg-siblings. Sorry? Anyway, that's what I can tell you about lizard-steeds, so you can go now. Wallow with joy, stay moist, and don't wander around loose in the deep swamp like fools, all right?

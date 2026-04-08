@@ -1,0 +1,44 @@
+# Border Gates
+
+[Overview](Skyrim_Unmarked_Places.md) | [Eastmarch](Skyrim_Unmarked_Places_Eastmarch.md) — [Falkreath](Skyrim_Unmarked_Places_Falkreath.md) — [Haafingar](Skyrim_Unmarked_Places_Haafingar.md) — [Hjaalmarch](Skyrim_Unmarked_Places_Hjaalmarch.md) — [The Pale](Skyrim_Unmarked_Places_The_Pale.md) — [The Reach](Skyrim_Unmarked_Places_The_Reach.md) — [The Rift](Skyrim_Unmarked_Places_The_Rift.md) — [Whiterun](Skyrim_Unmarked_Places_Whiterun.md) — [Winterhold](Skyrim_Unmarked_Places_Winterhold.md) — [Solstheim](Skyrim_Unmarked_Places_Solstheim.md)
+---
+| **This article is currently undergoing a major expansion or revamping by [The Rim of the Sky](https://en.uesp.net/wiki/User:The_Rim_of_the_Sky).** However, you are free to help in the construction of this page by improving it—use the talk page to do so. Please review the [edit history](https://en.uesp.net/w/index.php?title=Skyrim:Border_Gates&action=history) if you would like to see whether the page is still being worked on. If the editor who placed this notice has not made any changes in a while, please contact the editor or, if they're inactive, remove this template. |
+| --- |
+
+[](https://en.uesp.net/wiki/File:SR-mapicon-To_Solstheim.png) **Border gates** are [unmarked](Skyrim_Unmarked_Places.md) gates and pathways at the edges of the map that mark the borders to neighboring provinces. They cannot be entered under normal circumstances, even though some are visually open. Attempting to cross any of the inaccessible borders will result in a "You cannot go that way." message appearing on the screen. There are a few exceptions where the borders can technically be crossed, though none of them are in the overland worldspace.
+
+The border crossings are the first location mentioned in the game, as during the first quest [Unbound](Skyrim_Unbound.md), [Ralof](Skyrim_Ralof.md) will say *"Hey, you. You're finally awake. You were trying to cross the border, right? Walked right into that Imperial ambush, same as us, and that thief over there."*
+
+### [Dunmeth Pass](Skyrim_Dunmeth_Pass.md)
+[![SR-place-Dunmeth Pass.jpg](https://images.uesp.net/thumb/a/ac/SR-place-Dunmeth_Pass.jpg/200px-SR-place-Dunmeth_Pass.jpg)](https://en.uesp.net/wiki/File:SR-place-Dunmeth_Pass.jpg) [](https://en.uesp.net/wiki/File:SR-place-Dunmeth_Pass.jpg) **Dunmeth Pass** is a mountain pass road that runs through the Velothi Mountains between northwest [Morrowind](Lore_Morrowind.md) and northeast Skyrim. On the Morrowind side, the pass is near the city of [Blacklight](Lore_Blacklight.md), and in Skyrim, it emerges near the city of [Windhelm](Skyrim_Windhelm.md). It historically served as a significant avenue of trade for Windhelm, although traffic has likely diminished since the Red Year.
+
+At the conclusion of [Find the Thalmor Assassin](Skyrim_Find_the_Thalmor_Assassin.md), [Malborn](Skyrim_Malborn.md) can be seen running from the [New Gnisis Cornerclub](Skyrim_New_Gnisis_Cornerclub.md) all the way to Dunmeth Pass and going through it, disappearing from the game.
+
+### [Darkfall Cave](Skyrim_Darkfall_Cave.md)
+[![SR-place-Darkfall Cave.jpg](https://images.uesp.net/thumb/d/da/SR-place-Darkfall_Cave.jpg/200px-SR-place-Darkfall_Cave.jpg)](https://en.uesp.net/wiki/File:SR-place-Darkfall_Cave.jpg) [](https://en.uesp.net/wiki/File:SR-place-Darkfall_Cave.jpg) **Darkfall Cave** is a cave south of [Mor Khazgur](Skyrim_Mor_Khazgur.md) that functions as a passage into the [Forgotten Vale](Skyrim_Forgotten_Vale.md) through the Wayshrine of Illumination. According to the [paper map](https://en.uesp.net/wiki/File:SR-map-Skyrim.jpg) bundled with the game and [Prima Guide](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide), the Vale is found within the borders of [High Rock](Lore_High_Rock.md), essentially serving as a method of crossing the border.
+
+### [Gromm's Pass](Skyrim_Gromm%27s_Pass.md)
+[![SR-place-Gromm's Pass.jpg](https://images.uesp.net/thumb/6/63/SR-place-Gromm%27s_Pass.jpg/200px-SR-place-Gromm%27s_Pass.jpg)](https://en.uesp.net/wiki/File:SR-place-Gromm%27s_Pass.jpg) [](https://en.uesp.net/wiki/File:SR-place-Gromm%27s_Pass.jpg) **Gromm's Pass** is a small [cave](Skyrim_Caves.md) located in [the Rift](Skyrim_The_Reach.md), south of [Forelhost](Skyrim_Forelhost.md). Until a recent collapse, it served as an underground pass through the [Jerall Mountains](Skyrim_Jerall_Mountains.md) to [Cyrodiil](Lore_Cyrodiil.md). Though it can still be explored, the route to Cyrodiil cannot be used.
+
+### Hammerfell Gate
+[![SR-place-Craglorn Gate.jpg](https://images.uesp.net/thumb/9/97/SR-place-Craglorn_Gate.jpg/200px-SR-place-Craglorn_Gate.jpg)](https://en.uesp.net/wiki/File:SR-place-Craglorn_Gate.jpg) [](https://en.uesp.net/wiki/File:SR-place-Craglorn_Gate.jpg) An open gate found near [Halldir's Cairn](Skyrim_Halldir%27s_Cairn.md) in southwest Falkreath Hold. According to the paper and satellite maps, it leads into [Hammerfell](Lore_Hammerfell.md) near [Elinhir](Lore_Elinhir.md).
+
+### High Rock Pass
+[![SR-place-Wrothgar Pass.jpg](https://images.uesp.net/thumb/8/8c/SR-place-Wrothgar_Pass.jpg/200px-SR-place-Wrothgar_Pass.jpg)](https://en.uesp.net/wiki/File:SR-place-Wrothgar_Pass.jpg) [](https://en.uesp.net/wiki/File:SR-place-Wrothgar_Pass.jpg) A mountain pass is found in western [Haafingar](Skyrim_Haafingar.md). According to the satellite map, it is a traversable road that runs through the [Druadach Mountains](Skyrim_Druadach_Mountains.md) between northeast [High Rock](Lore_High_Rock.md) and northwest [Skyrim](Lore_Skyrim.md).
+
+### Morrowind Gate
+[![SR-place-Velothi Pass.jpg](https://images.uesp.net/thumb/a/aa/SR-place-Velothi_Pass.jpg/200px-SR-place-Velothi_Pass.jpg)](https://en.uesp.net/wiki/File:SR-place-Velothi_Pass.jpg) [](https://en.uesp.net/wiki/File:SR-place-Velothi_Pass.jpg) An open gate is found near Fort Dawnguard in the southeast Rift. According to the [Prima Guide](https://en.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide), it leads into [Morrowind](Lore_Morrowind.md).
+
+### [Pale Pass](Skyrim_Pale_Pass.md)
+[![SR-place-Pale Pass.jpg](https://images.uesp.net/thumb/2/2a/SR-place-Pale_Pass.jpg/200px-SR-place-Pale_Pass.jpg)](https://en.uesp.net/wiki/File:SR-place-Pale_Pass.jpg) [](https://en.uesp.net/wiki/File:SR-place-Pale_Pass.jpg) **Pale Pass** is a closed gate found near [Southfringe Sanctum](Skyrim_Southfringe_Sanctum.md) in the southeastern part of [Falkreath Hold](Skyrim_Falkreath_Hold.md). Though not marked in-game, it is marked as Pale Pass and leads into the [Jerall Mountains](Skyrim_Jerall_Mountains.md) according to the [paper map](https://en.uesp.net/wiki/File:SR-map-Skyrim.jpg) bundled with the game.
+
+According to the [missives](Skyrim_Imperial_Missive_(Fort_Neugrad).md) and [Bandit's Journal](Skyrim_Bandit%27s_Journal_(Fort_Neugrad).md), Pale Pass was closed due to a recent avalanche. [Ulfric Stormcloak](Skyrim_Ulfric_Stormcloak.md) also mentions a plan to block off Pale Pass as a way to cut off Imperial supply routes. It is also [mentioned](Skyrim_Excavation_Leader%27s_Journal.md) that the Vigil of Stendarr guards and blocks the pass.
+
+### To Skyrim / To Solstheim
+Upon arrival at the docks of Raven Rock, you will be able to fast travel between Skyrim and Solstheim freely through the use of the [](https://en.uesp.net/wiki/File:SR-mapicon-To_Skyrim.png) **To Skyrim** and [](https://en.uesp.net/wiki/File:SR-mapicon-To_Solstheim.png) **To Solstheim** map markers. Solstheim is considered part of Morrowind, making this cross-provincial travel.
+
+### [Varlais Cavern](Skyrim_Varlais_Cavern.md)
+[![SR-place-Varlais Cavern 03.jpg](https://images.uesp.net/thumb/4/40/SR-place-Varlais_Cavern_03.jpg/200px-SR-place-Varlais_Cavern_03.jpg)](https://en.uesp.net/wiki/File:SR-place-Varlais_Cavern_03.jpg) [](https://en.uesp.net/wiki/File:SR-place-Varlais_Cavern_03.jpg) **Varlais Cavern** is a [cave](Skyrim_Caves.md) south of [Arcwind Point](Skyrim_Arcwind_Point.md) that serves as a passageway to the [Ayleid](Lore_Ayleid.md) ruins of [Rielle](Skyrim_Rielle.md). As Rielle is found in Cyrodiil, the cave allows you to cross the borders of the province, albeit entirely underground.
+
+## Notes
+- Certain locations such as [Blackbone Isle](Skyrim_Blackbone_Isle.md), [Dead Crone Rock](Skyrim_Dead_Crone_Rock.md), [Fort Dawnguard](Skyrim_Fort_Dawnguard.md), [Giant's Grove](Skyrim_Giant%27s_Grove.md) may technically be in the borders of other provinces due to their placement on the map, but there is no mention of their territorial status and they are effectively treated as part of Skyrim regardless.

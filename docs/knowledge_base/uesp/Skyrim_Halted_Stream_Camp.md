@@ -1,0 +1,76 @@
+# Halted Stream Camp
+
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Camp.png) | Camp: <br> Halted Stream Camp <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Halted+Stream+Camp)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | 10 days or 30 days | |
+| [Level](https://en.uesp.net/wiki/Skyrim:Encounter_Zone_Level) | Range: 6-10 | |
+| Occupants | | |
+| [Bandits](Skyrim_Bandit.md) | | |
+| Important Treasure | | |
+| [Poacher's Axe](https://en.uesp.net/wiki/Skyrim:Poacher%27s_Axe) <br> *[Spell Tome: Transmute Mineral Ore](https://en.uesp.net/wiki/Skyrim:Spell_Tome__Transmute_Mineral_Ore)* | | |
+| Console Location Code(s) | | |
+| Halted Stream Camp Exterior01, Halted Stream Camp Exterior02, Halted Stream Camp01 | | |
+| Region | | |
+| [Whiterun Hold](Skyrim_Whiterun_Hold.md) | | |
+| Location | | |
+| North of [Whiterun](Skyrim_Whiterun.md) <br> East of [Silent Moons Camp](https://en.uesp.net/wiki/Skyrim:Silent_Moons_Camp) | | |
+| Special Features | | |
+| # of [Tanning Racks](Skyrim_Tanning.md) | 2 | |
+| # of [Forges/Anvils](Skyrim_Forge.md) | 1 | |
+| # of [Grindstones](Skyrim_Grindstone.md) | 2 | |
+| # of [Wood Chopping Blocks](Skyrim_Chop_Wood.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Corundum](https://en.uesp.net/wiki/Skyrim:Corundum_Ore) | 1 | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 16 | |
+
+[![](https://images.uesp.net/thumb/d/d0/SR-place-Halted_Stream_Camp.jpg/200px-SR-place-Halted_Stream_Camp.jpg)](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp.jpg) [](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp.jpg) Halted Stream Camp **Halted Stream Camp** is a small [bandit](Skyrim_Bandit.md) [camp](Skyrim_Camps.md) and [iron](Skyrim_Iron.md) [mine](Skyrim_Mines.md) north of [Whiterun](Skyrim_Whiterun.md). It contains only one zone, *[Halted Stream Camp](#Halted_Stream_Camp)*.
+
+## Related Quests
+- **[Amulet of the Moon](https://en.uesp.net/wiki/Skyrim:Amulet_of_the_Moon)**: Find the [Moon Amulet](https://en.uesp.net/wiki/Skyrim:Moon_Amulet) for [Kharjo](https://en.uesp.net/wiki/Skyrim:Kharjo). ([radiant](Skyrim_Radiant.md))
+- **[Dungeon Delving](Skyrim_Dungeon_Delving_(Bandits).md)**: Do a favor by retrieving an item from a bandit hideout. ([radiant](Skyrim_Radiant.md))
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Exterior
+[![](https://images.uesp.net/thumb/6/69/SR-place-Halted_Stream_Camp_02.jpg/200px-SR-place-Halted_Stream_Camp_02.jpg)](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp_02.jpg) [](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp_02.jpg) Ups and downs of poaching The camp is surrounded by a palisade wall, with the north side protected by a rocky hill. There is a gap in the palisade to the east with a rope strung set of [bone chimes](https://en.uesp.net/wiki/Skyrim:Bone_Chimes) blocking quiet access. There is also an unlocked gate in the south wall. The bandits are poaching and butchering [mammoths](Skyrim_Mammoth.md) here as evidenced by a shack with a mammoth's skeleton. Four bandits keep watch over the camp, using raised platforms around the perimeter. One is on a raised platform to the south with an additional four [iron arrows](https://en.uesp.net/wiki/Skyrim:Iron_Arrow) in a bucket, one sits on a bench next to the campfire, one sits on a chair on a raised platform to the southwest and the final one is normally on the highest level above the main entrance to the mine, to the north. On this level is also a [grindstone](Skyrim_Grindstone.md) and two barrels with two [woodcutter's axes](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe) leaning against them.
+
+Entering through the eastern gap there is a [wood chopping block](https://en.uesp.net/wiki/Skyrim:Wood_Chopping_Block) on your right and a ramp up to the first platform on your left with an apprentice-locked [chest](https://en.uesp.net/wiki/Skyrim:Chest) underneath. In front of you is the shack used for butchering their kills. The shack only has a wall to the west with the other three completely open. There is a [tanning rack](Skyrim_Tanning_Rack.md) by the wall and to the right is a long wooden table. On the table is a mead barrel, an [iron dagger](Skyrim_Iron_Dagger.md), a [mammoth snout](https://en.uesp.net/wiki/Skyrim:Mammoth_Snout) and a wooden plate with [grilled leeks](https://en.uesp.net/wiki/Skyrim:Grilled_Leeks) and an [eidar cheese wedge](https://en.uesp.net/wiki/Skyrim:Eidar_Cheese_Wedge). There are several mammoth bones in the shack and hanging from the eastern roof strut is a [rabbit](Skyrim_Rabbit_(dead).md).
+
+To the north of the shack is the campfire with two benches around it. To the west is the second much larger platform. This platform has a ramp that leads to a junction with a barrel and several sacks, turning left over a bridge to a lookout point and to the right, up some steps to the highest level. The mine entrance is on your right at the bottom of the ramp and under the ramp is an apprentice-trapped chest and two barrels; on one of these are two potions, a [potion of minor healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Healing) and a leveled potion of health. The potions don't seem to respawn. The [trap](https://en.uesp.net/wiki/Skyrim:Tension_Cable) activates a [swinging mace](https://en.uesp.net/wiki/Skyrim:Swinging_Mace).
+
+### Halted Stream Camp
+[![](https://images.uesp.net/thumb/e/e6/SR-interior-Halted_Stream_Camp.jpg/200px-SR-interior-Halted_Stream_Camp.jpg)](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp.jpg) A bandit mining an ore vein Upon entering, a well-lit wide tunnel leads down to the north. There is a [pressure plate](Skyrim_Pressure_Plate.md) that activates a [falling boulder](https://en.uesp.net/wiki/Skyrim:Falling_Boulders) trap about half way down before reaching the first [iron ore vein](https://en.uesp.net/wiki/Skyrim:Iron_Ore_Vein). There is a crate on your right with a [pickaxe](https://en.uesp.net/wiki/Skyrim:Pickaxe) and [lockpick](Skyrim_Lockpick.md) on top of it. To your left is a cart containing three [mammoth tusks](https://en.uesp.net/wiki/Skyrim:Mammoth_Tusk) and a mammoth snout and growing beside it is a [fly amanita](https://en.uesp.net/wiki/Skyrim:Fly_Amanita) fungus. Ahead you will see a bandit mining who carries a [key to Halted Stream Mine](https://en.uesp.net/wiki/Skyrim:Key_to_Halted_Stream_Mine). In this area there is a [white cap](https://en.uesp.net/wiki/Skyrim:White_Cap), a [bleeding crown](https://en.uesp.net/wiki/Skyrim:Bleeding_Crown) and another fly amanita growing on either side of a tunnel that is blocked by a novice-locked gate that can be unlocked by using the mine key obtained from the bandit. The tunnel heads farther down to the east. To the right of the gate is a stack of barrels and crates with a pickaxe on top. There are two more iron ore veins on the ground and one at the end on the wall, a barrel with a [bear trap](https://en.uesp.net/wiki/Skyrim:Bear_Trap) on top and a table holding a bottle of [Nord mead](https://en.uesp.net/wiki/Skyrim:Nord_Mead), a [potion of minor stamina](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Stamina) and a potion of minor healing.
+
+Descending through this much narrower tunnel will take you past a total of six iron ore veins, one on each wall and three on the ground. Past a bleeding crown fungus and a fly amanita fungus you come to the top of a wooden structure with a path to the right descending down a ramp to the mine floor. There is a bottle of [alto wine](https://en.uesp.net/wiki/Skyrim:Alto_Wine) and a large pile of sacks along the edge in front of you and on your left is a string of bone chimes hanging from the ceiling and a bench. Following the path to the right, on your right is a long wooden table. On the table is a small [coin purse](https://en.uesp.net/wiki/Skyrim:Coin_Purse), a [coin](Skyrim_Gold.md), a lockpick, a [flute](https://en.uesp.net/wiki/Skyrim:Flute), a potion of minor stamina, a [potion of minor magicka](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Magicka), a random potion, two bottles of [wine](https://en.uesp.net/wiki/Skyrim:Wine), a bottle of Nord mead and a copy of *[Brief History of the Empire, v1](https://en.uesp.net/wiki/Skyrim:Brief_History_of_the_Empire,_v1)*. To the left of the table are more sacks, another barrel, a bench with a coin purse on the ledge behind it, and an iron ore vein on the wall. The ramp down heads to the northeast.
+
+[![](https://images.uesp.net/thumb/9/92/SR-interior-Halted_Stream_Camp_02.jpg/200px-SR-interior-Halted_Stream_Camp_02.jpg)](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp_02.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp_02.jpg) Oily mine At the bottom there is an iron ore vein on your right and a [forge](Skyrim_Forge.md) on your left, with a set of shelves beside it containing five mammoth tusks and three mammoth snouts. A small square wooden table is beside the shelves and has a copy of the key for this mine. Behind this is a hidden area with an empty set of shelves on your right and a corridor under a wooden structure with barrels and crates along the length and a novice-locked chest against the south wall of the mine. To the north of the hidden area is a tanning rack, and at its entrance is a coin purse. Two bandits can be heard having a short conversation:
+
+**Bandit #1**: *"Gotta have a sharp axe to cut through all that fat..."*
+**Bandit #2**: *"Hurry up with it, we've got a merchant in the pit to take care of after we carve this thing up."*
+
+To the north is a raised area with a ramp. At the top of the ramp on the left is a single bed, a boss level chest and a large pile of sacks. At the foot of the bed on the wall is a [corundum ore vein](https://en.uesp.net/wiki/Skyrim:Corundum_Ore_Vein). Against the north wall of the mine is a long wooden table containing a piece of [iron ore](Skyrim_Iron_Ore.md), a piece of [silver ore](Skyrim_Silver_Ore.md), a [potion of strength](https://en.uesp.net/wiki/Skyrim:Potion_of_Strength), two bottles of alto wine, a [potion of healing](https://en.uesp.net/wiki/Skyrim:Potion_of_Healing), a [potion of health](https://en.uesp.net/wiki/Skyrim:Potion_of_Health), a potion of minor healing, a random potion, an iron dagger, two bottles of Nord mead, a [draught of strength](https://en.uesp.net/wiki/Skyrim:Draught_of_Strength), a large coin purse, a copy of *[Report: Disaster at Ionith](https://en.uesp.net/wiki/Skyrim:Report__Disaster_at_Ionith)* and a *[Spell Tome: Transmute Mineral Ore](https://en.uesp.net/wiki/Skyrim:Spell_Tome__Transmute_Mineral_Ore)*. To the east, against the wall is a dresser with an [iron sword](Skyrim_Iron_Sword.md) on top and a set of shelves containing a copy of *[The Ransom of Zarek](https://en.uesp.net/wiki/Skyrim:The_Ransom_of_Zarek)*, *[Biography of Barenziah, v3](https://en.uesp.net/wiki/Skyrim:Biography_of_Barenziah,_v3)*, *[Brief History of the Empire, v2](https://en.uesp.net/wiki/Skyrim:Brief_History_of_the_Empire,_v2)* and *[The Cake and the Diamond](https://en.uesp.net/wiki/Skyrim:The_Cake_and_The_Diamond)*. There is also a pair of [leather boots](https://en.uesp.net/wiki/Skyrim:Leather_Boots), three pieces of iron ore, a bottle of alto wine, a random potion and a potion of strength in the area.
+
+Underneath the raised area, to the right of the ramp is an iron ore vein. In the middle of the room is a dead [mammoth](Skyrim_Mammoth.md) next to a grindstone. The mammoth can be harvested for another snout. There is an oil pool on the floor, and there are [oil lantern traps](https://en.uesp.net/wiki/Skyrim:Oil_Lanterns) strung all over the ceiling.
+
+[![](https://images.uesp.net/thumb/9/97/SR-interior-Halted_Stream_Camp_03.jpg/200px-SR-interior-Halted_Stream_Camp_03.jpg)](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp_03.jpg) [](https://en.uesp.net/wiki/File:SR-interior-Halted_Stream_Camp_03.jpg) Mammoth ram There is a tunnel to the southeast with two iron ore veins on your immediate left. There are two fly amanita fungi in the tunnel. Be careful as this tunnel is full of a variety of traps. There is a pressure plate that activates a [battering ram](https://en.uesp.net/wiki/Skyrim:Battering_Ram) trap made from the skull of a mammoth, a string of bone chimes hanging from the ceiling, a bear trap on the ground on the left and an oil lantern trap that is activated by a [tripwire](https://en.uesp.net/wiki/Skyrim:Tripwire). Farther toward the exit is a third iron ore vein on your left.
+
+[![](https://images.uesp.net/thumb/4/4d/SR-place-Halted_Stream_Camp_03.jpg/200px-SR-place-Halted_Stream_Camp_03.jpg)](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp_03.jpg) [](https://en.uesp.net/wiki/File:SR-place-Halted_Stream_Camp_03.jpg) Do you get the point? The exit takes you outside to a [spike pit](https://en.uesp.net/wiki/Skyrim:Spike_Pit) with several mammoth bones, three coin purses (one large, one medium, and one small), a dead [High Elf](Skyrim_High_Elf_(NPC).md), and a dead [deer](Skyrim_Deer.md).
+
+## Notes
+- The [Poacher's Axe](https://en.uesp.net/wiki/Skyrim:Poacher%27s_Axe) can be found on one of the bandits in the mine. It can be used to chop wood and has a unique enchantment. If you don't pick it up during your first visit, the axe will respawn with the rest of the dungeon.
+- A mammoth tusk for [Ysolda](Skyrim_Ysolda.md) or [Madesi](Skyrim_Madesi.md) can be found here, as the bandits have already killed several mammoths using the nearby pit traps. There are five tusks in the main chamber and three on a cart in the first hallway.
+- The first bandit may be seen sitting in a chair next to mine entrance instead of mining.
+- It is possible (with a bit of care to not to land on the spikes) to enter the mine via the pit trap, thus allowing you to explore the location in reverse.
+- Killing the bandit boss clears the camp, but you may wish to avoid this, as it will force a 30-day waiting period for the ore veins to respawn. If you leave the boss alive, you can visit the mines every ten days for more iron ore, making the camp a prolific source of iron ore. Some quests that send you here only require an item to be retrieved, which can still be done without killing the boss, though the target chest is beside the boss.
+- The spike pit is a good place to practice the [Restoration](Skyrim_Restoration.md) skill, as you can lower your health quickly in a more controlled environment than in combat.
+- With the [Hearthfire](Skyrim_Hearthfire.md) add-on, this dungeon is an excellent place to stock up on iron for [housebuilding](Skyrim_Construction.md) purposes.
+
+## Bugs
+- Attempting to fast travel from the pit trap may cause the game to crash.
+- Sometimes, the ore veins will respawn, but the bandits won't.
+- The placement of one of the iron ore veins here can result in the camera colliding with the mammoth skull trap. - The [Official Skyrim Special Edition Patch](Skyrim_Special_Edition_Patch.md), version 1.6.1130, fixes this bug.

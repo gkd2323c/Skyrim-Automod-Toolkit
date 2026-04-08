@@ -1,0 +1,15 @@
+# Akos Kasaz
+
+| --- | --- |
+| Type | Island |
+| Continent | [Yokuda](Lore_Yokuda.md) |
+
+[![](https://images.uesp.net/thumb/8/8e/RG-map-West_Tamriel-1024x768.png/200px-RG-map-West_Tamriel-1024x768.png)](https://en.uesp.net/wiki/File:RG-map-West_Tamriel-1024x768.png) [](https://en.uesp.net/wiki/File:RG-map-West_Tamriel-1024x768.png) The only known map showing Akos Kasaz Akos Kasaz is the largest island in the [Yokudan](Lore_Yokuda.md) archipelago, between the [Azurian Sea](https://en.uesp.net/wiki/Lore:Azurian_Sea) and the [Sea of Pearls](https://en.uesp.net/wiki/Lore:Sea_of_Pearls), far to the west of [Hammerfell](Lore_Hammerfell.md).<sup>[[1]](#cite_note-Map-1)</sup> Due to its size, the island spans multiple environments, some gentle and some brutal.<sup>[[2]](#cite_note-TLIOOY-2)</sup> The capital of the Yokudans, [Old Totambu](https://en.uesp.net/wiki/Lore:Totambu#Notes), was located on Akos Kasaz.<sup>[[2]](#cite_note-TLIOOY-2)</sup> In the late [Second Era](Lore_Second_Era.md), other settlements included Tagon in the west, Taleskan in the north, and Yul in the south.<sup>[[1]](#cite_note-Map-1)</sup>
+
+As the home of the Na-Totambu, the old ruling class (which would later become the [Crowns](Lore_Crowns.md)), the Yousebh the Stringent, the Red [Dervish](https://en.uesp.net/wiki/Lore:Dervishes) of [Rihad](Lore_Rihad.md) was famously quoted for the phrase *"A daughter of the House of Akos Kasaz shall not marry an infidel of another house."* What this means is that a daughter of the Crowns shall not marry another Redguard that drifted away from the Yokudan customs, like the [Forebears](Lore_Forebears.md).<sup>[[3]](#cite_note-3)</sup> Northern Akos Kasaz was a fertile steppe, home to large herding clans, some of whom worshipped the [Herd Mother](https://en.uesp.net/wiki/Lore:Herd_Mother), rather than the typical Yokudan gods. This group, known as the [Horsemen](https://en.uesp.net/wiki/Lore:Silverhoof_Horsemen), left Yokuda in the sixth century of the [First Era](Lore_First_Era.md), eventually founding a colony in the Vale of Silverhoof in [High Rock](Lore_High_Rock.md).<sup>[[4]](#cite_note-THFOS-4)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-Map_1-0)***</sup><sup>***[b](#cite_ref-Map_1-1)***</sup> [Map of West Tamriel](https://en.uesp.net/wiki/File:RG-map-West_Tamriel-1024x768.png)
+2. ^ <sup>***[a](#cite_ref-TLIOOY_2-0)***</sup><sup>***[b](#cite_ref-TLIOOY_2-1)***</sup> [*The Lost Islands of Old Yokuda*](https://en.uesp.net/wiki/Lore:The_Lost_Islands_of_Old_Yokuda) — [Hazadiyya Sea-Queen](https://en.uesp.net/wiki/Lore:Hazadiyya_Sea-Queen)
+3. [^](#cite_ref-3) [*A Betrayal of Our Heritage*](https://en.uesp.net/wiki/Lore:A_Betrayal_of_Our_Heritage) — "[Nworc at-Traeh](Lore_Books_by_Author.md#Nworc_at-Traeh)"
+4. [^](#cite_ref-THFOS_4-0) [*The Horse-Folk of Silverhoof*](https://en.uesp.net/wiki/Lore:The_Horse-Folk_of_Silverhoof) — [Doctor Nabeth al-Gilane](Lore_Books_by_Author.md#Doctor_Nabeth_al-Gilane), [Khefrem](https://en.uesp.net/wiki/Lore:Khefrem) Academy of Yokudan Heritage

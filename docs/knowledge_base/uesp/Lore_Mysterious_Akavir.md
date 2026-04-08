@@ -1,0 +1,23 @@
+# Mysterious Akavir
+
+| Book Information | |
+| --- | --- |
+| Seen In: | - [Morrowind](https://en.uesp.net/wiki/Morrowind:Mysterious_Akavir) <br> - [Oblivion](https://en.uesp.net/wiki/Oblivion:Mysterious_Akavir) <br> - [Skyrim](https://en.uesp.net/wiki/Skyrim:Mysterious_Akavir) <br> - [Elder Scrolls Online](https://en.uesp.net/wiki/Online:Mysterious_Akavir) <br> - [Castles](https://en.uesp.net/wiki/Castles:Mysterious_Akavir) |
+
+Mysterious Akavir *Information about the continent Akavir*
+---
+Akavir means "[Dragon](Lore_Dragon.md) Land". [Tamriel](Lore_Tamriel.md) means "Dawn's Beauty." [Atmora](Lore_Atmora.md) means "Elder Wood". Only the [Redguards](Lore_Redguard.md) know what [Yokuda](Lore_Yokuda.md) ever meant.
+
+[Akavir](Lore_Akavir.md) is the kingdom of the [beasts](Lore_Beastfolk.md). No [Men](Lore_Man.md) or [Mer](Lore_Mer.md) live in Akavir, though Men once did. These Men, however, were eaten long ago by the [vampiric](Lore_Vampire.md) Serpent Folk of [Tsaesci](Lore_Tsaesci_(place).md). Had they not been eaten, these Men would have eventually migrated to Tamriel. The [Nords](Lore_Nord.md) left Atmora for Tamriel. Before them, the Elves had abandoned [Aldmeris](Lore_Aldmeris.md) for Tamriel. The Redguards destroyed Yokuda so they could make their journey. All Men and Mer know Tamriel is the nexus of creation, where the Last War will happen, where the [Gods](Lore_Gods.md) unmade [Lorkhan](Lore_Lorkhan.md) and left their [Adamantine Tower](Lore_Adamantine_Tower.md) of secrets. Who knows what the Akaviri think of Tamriel, but ask yourself: why have they tried to invade it three times or more?
+
+There are four major nations of Akavir: [Kamal](Lore_Kamal_(place).md), [Tsaesci](Lore_Tsaesci_(place).md), [Tang Mo](Lore_Tang_Mo_(place).md), and [Ka Po' Tun](Lore_Ka_Po%27_Tun_(place).md). When they are not busy trying to invade Tamriel, they are fighting with each other.
+
+Kamal is "Snow Hell". [Demons](Lore_Kamal_(race).md) live there, armies of them. Every summer they thaw out and invade Tang Mo, but the brave [monkey](Lore_Monkey.md) -folk always drive them away. Once [Ada'Soom Dir-Kamal](Lore_Ada%27Soom_Dir-Kamal.md), a king among demons, attempted to conquer [Morrowind](Lore_Morrowind.md), but [Almalexia](Lore_Almalexia.md) and the [Underking](Lore_Underking.md) destroyed him at [Red Mountain](Lore_Red_Mountain.md).
+
+Tsaesci is "Snake Palace", once the strongest power in Akavir (before the Tiger-Dragon came). The [serpent-folk](Lore_Tsaesci_(race).md) ate all the Men of Akavir a long time ago, but still kind of look like them. They are tall, beautiful (if frightening), covered in golden scales, and immortal. They enslave the [goblins](Lore_Goblin.md) of the surrounding isles, who provide labor and fresh blood. The holdings of Tsaesci are widespread. When natives of Tamriel think of the Akaviri they think of the Serpent-Folk, because one ruled the [Cyrodilic Empire](Lore_Second_Empire.md) for [four hundred years](Lore_Akaviri_Potentate.md) in the [previous era](Lore_Second_Era.md). He was Potentate [Versidue-Shaie](Lore_Versidue-Shaie.md), assassinated by the [Morag Tong](Lore_Morag_Tong.md).
+
+Tang Mo is the "Thousand Monkey Isles". There are many breeds of [monkey-folk](Lore_Tang_Mo_(race).md), and they are all kind, brave, and simple (and many are also very crazy). They can raise armies when they must, for all of the other Akaviri nations have, at one time or another, tried to enslave them. They cannot decide who they hate more, the Snakes or the Demons, but ask one, and he will probably say, "Snakes". Though once bitter enemies, the monkey-folk are now allies with the tiger-folk of Ka Po' Tun.
+
+Ka Po' Tun is the "Tiger-Dragon's Empire". The [cat-folk](Lore_Ka_Po%27_Tun_(race).md) here are ruled by the divine [Tosh Raka](Lore_Tosh_Raka.md), the Tiger-Dragon. They are now a very great empire, stronger than Tsaesci (though not at sea). After the Serpent-Folk ate all the Men, they tried to eat all the Dragons. They managed to enslave the Red Dragons, but the black ones had fled to (then) Po Tun. A great war was raged, which left both the cats and the snakes weak, and the Dragons all dead. Since that time the cat-folk have tried to become the Dragons. Tosh Raka is the first to succeed. He is the largest Dragon in the world, orange and black, and he has very many new ideas.
+
+"First," Tosh Raka says, "is that we kill all the vampire snakes." Then the Tiger-Dragon Emperor wants to invade Tamriel.

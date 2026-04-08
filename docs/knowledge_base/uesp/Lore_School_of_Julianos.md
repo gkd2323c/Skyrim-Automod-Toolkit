@@ -1,0 +1,22 @@
+# School of Julianos
+
+[![](https://images.uesp.net/thumb/c/cb/OB-Window-Julianos.jpg/165px-OB-Window-Julianos.jpg)](https://en.uesp.net/wiki/File:OB-Window-Julianos.jpg) [](https://en.uesp.net/wiki/File:OB-Window-Julianos.jpg) Julianos [![](https://images.uesp.net/2/25/DF-sign-School_of_Julianos.png)](https://en.uesp.net/wiki/File:DF-sign-School_of_Julianos.png) [](https://en.uesp.net/wiki/File:DF-sign-School_of_Julianos.png) School of Julianos *The School of Julianos is no mere temple, dedicated to mindless obeisance to a distant and hazy God figure. Julianos is a god, to be sure, but foremost he is a symbol of learning, logic, philosophy, and wisdom. We espouse no moral philosophy other than the goodness of knowledge. Scholarship is a long and difficult journey, and Julianos does not tolerate those who wish to shorten it. While we advocate literacy and education for all Tamrielans, our policy for those who wish to join the School itself is very stringent. We have little time to waste training the slow and the lazy.*
+—Excerpt of temple description in [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall) The School of Julianos is the temple dedicated to [Julianos](Lore_Julianos.md), the God of Wisdom and Logic. These are generally the place of worship for him, as well as institutes of the highest regard. The school is known for its veneration of the scholarly pursuits and pushing its disciples to their limits. They have a rather strict recruitment policy and show a lack of sympathy to those that cannot keep up with their teachings, or cheat their way through the path.<sup>[[1]](#cite_note-DFSchool-1)</sup> The cult of [Clavicus Vile](Lore_Clavicus_Vile.md) are considered their allies while the [Mages Guild](Lore_Mages_Guild.md) are seen as their enemies. In the [Iliac Bay](Lore_Iliac_Bay.md), the School of Julianos has many chapters, some of which include [Abibon-Gora](Lore_Abibon-Gora.md) and [Satakalaam](Lore_Satakalaam_(county).md) in [Hammerfell](Lore_Hammerfell.md), and [Daenia](Lore_Daenia_(duchy).md) and [Tulune](Lore_Tulune.md) in [High Rock](Lore_High_Rock.md).
+
+## Further Information
+The School of Julianos is well known to take education very seriously, often using the quote from the great [Psijic](Lore_Psijic_Order.md) sage, [Cuilean Darnizhaan](Lore_Cuilean_Darnizhaan.md), *"The power of ignorance can truly shatter [mithril](Lore_Mithril.md) like [glass](Lore_Glass_(common).md)."*<sup>[[1]](#cite_note-DFSchool-1)</sup> Like other divine temples, the School of Julianos focuses on several skills that determine a member's ranking in the temple, among these include [Alteration](Lore_Alteration.md), the [Impish](Lore_Imp.md) language, and the Short Blade. In [3E 405](Lore_Third_Era.md#3E_405), the court healer of [Lainlyn](Lore_Lainlyn_(barony).md), Br'itsa was an associate with the School of Julianos.<sup>[[2]](#cite_note-DFJulianos-2)</sup>
+
+## Knights Mentor
+The **Knights Mentor** is the militant arm of the School of Julianos, with the purpose of protecting the temple's ever-growing library and share their knowledge with the rest of the temple. Only people with military prowess and undying loyalty to the God of Knowledge are allowed into the knightly order.<sup>[[3]](#cite_note-DFMentor-3)</sup>
+
+## Gallery
+- [![](https://images.uesp.net/thumb/c/c0/DF-npc-Julianos_Statue.png/100px-DF-npc-Julianos_Statue.png)](https://en.uesp.net/wiki/File:DF-npc-Julianos_Statue.png) A statue of Julianos at one of his temples
+
+## See Also
+- For game-specific information about the School, see the [Daggerfall](https://en.uesp.net/wiki/Daggerfall:School_of_Julianos) article.
+- For game-specific information about the Knightly Order, see the [Daggerfall](https://en.uesp.net/wiki/Daggerfall:Knights_Mentor) article.
+
+## References
+1. ^ <sup>***[a](#cite_ref-DFSchool_1-0)***</sup><sup>***[b](#cite_ref-DFSchool_1-1)***</sup> [School of Julianos](https://en.uesp.net/wiki/Daggerfall:School_of_Julianos) description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+2. [^](#cite_ref-DFJulianos_2-0) [School of Julianos](https://en.uesp.net/wiki/Daggerfall:School_of_Julianos) faction in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*
+3. [^](#cite_ref-DFMentor_3-0) [Knights Mentor](https://en.uesp.net/wiki/Daggerfall:Knights_Mentor) description in *[Daggerfall](https://en.uesp.net/wiki/Daggerfall:Daggerfall)*

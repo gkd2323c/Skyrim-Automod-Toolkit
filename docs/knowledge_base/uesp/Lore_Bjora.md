@@ -1,0 +1,46 @@
+# Bjora
+
+| --- | --- | --- | --- |
+| [![ON-npc-Bjora.jpg](https://images.uesp.net/thumb/8/82/ON-npc-Bjora.jpg/200px-ON-npc-Bjora.jpg)](https://en.uesp.net/wiki/File:ON-npc-Bjora.jpg) Bjora | | | |
+| Race | [Reachman](Lore_Reachman.md) | Gender | Female |
+| Born | [2nd Era](Lore_Second_Era.md#2nd_Era) <br> [The Reach](Lore_The_Reach.md) | | |
+| Resided in | [Karthwatch](Lore_Karthwatch.md) <br> [Solitude](Lore_Solitude.md) | | |
+| Appears in | [ESO](https://en.uesp.net/wiki/Online:Bjora) | | |
+
+Bjora of [Karthwatch](Lore_Karthwatch.md) was the last known descendant of the ancient [Reachman](Lore_Reachman.md) king [Red Eagle](https://en.uesp.net/wiki/Lore:Red_Eagle). She lived during the [Interregnum](Lore_Interregnum.md) period, around [2E 582](Lore_Second_Era.md#2E_582). She was raised by an adoptive [Nordic](Lore_Nord.md) mother, who had taken part in a raid during which Bjora's clansmen were slaughtered. She grew to be great warrior and a town guard in the frontier settlement of Karthwatch.
+
+## History
+[![](https://images.uesp.net/thumb/5/52/ON-npc-Bjora_02.jpg/200px-ON-npc-Bjora_02.jpg)](https://en.uesp.net/wiki/File:ON-npc-Bjora_02.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Bjora_02.jpg) Bjora under the effect of the spell Bjora was born in [the Reach](Lore_The_Reach.md) several years before [2E 577](Lore_Second_Era.md#2E_577). When she was a baby her clan was camping in the northern parts of the region and their presence attracted [Nordic](Lore_Nord.md) raiders who slaughtered everyone in the camp except for her. One of the raiders, Helsi, found her in the crib in one of the tents and brought her home to raise as her own daughter. Bjora was raised as a Nord, in ignorance of her true heritage. In [2E 577](Lore_Second_Era.md#2E_577),<sup>[[1]](#cite_note-Fenrar-1)</sup> she would help them settle the town of [Karthwatch](Lore_Karthwatch.md), a frontier town built in the recently established [Karthald](Lore_Karthald.md) Hold.<sup>[[2]](#cite_note-Helsi-2)</sup><sup>[[3]](#cite_note-Bjora-3)</sup>
+
+She was trained in the art of swordsmanship from a young age and soon after she reached adulthood she joined the local town guard, dedicating her life to protecting the inhabitants of the frontier settlement from raids of Reachfolk who aimed to reclaim their ancestral homeland.<sup>[[1]](#cite_note-Fenrar-1)</sup>
+
+One such raid occurred in [2E 582](Lore_Second_Era.md#2E_582). A group of [Icereach Coven](Lore_Icereach_Coven.md) witches led by Meritha convinced members of the Reachfolk faction loyal to the descendants of Red Eagle to join their cause and attack Karthwatch. They wanted retribution for the unprovoked attack from the Nords and considered the revenge as righteous salvation.<sup>[[4]](#cite_note-RLL-4)</sup> Icereach Coven members believed that Bjora was prophesied to lead them as their queen.<sup>[[3]](#cite_note-Bjora-3)</sup><sup>[[5]](#cite_note-Meritha-5)</sup><sup>[[6]](#cite_note-Cuandala-6)</sup><sup>[[7]](#cite_note-Fiertura-7)</sup>
+
+[![](https://images.uesp.net/thumb/8/8d/ON-npc-Karthwatch_Survivors.jpg/200px-ON-npc-Karthwatch_Survivors.jpg)](https://en.uesp.net/wiki/File:ON-npc-Karthwatch_Survivors.jpg) [](https://en.uesp.net/wiki/File:ON-npc-Karthwatch_Survivors.jpg) Bjora and her fellow survivors in Solitude During the attack, Bjora, together with her friend and fellow town guard Hafskjar, took civilians to Bleakridge Barrow west of town to provide shelter and protection during the raid.<sup>[[1]](#cite_note-Fenrar-1)</sup> The barrow however was already under Reachfolk control. The guards and civilians were ambushed by the warriors of the Reach and Bjora was captured. Her companion Hafskjar fled from the battle and hid in another section of the barrow. [The Vestige](Lore_The_Vestige.md) found Hafskjar at the barrow and helped him free the captured civilians and slay Madovan.<sup>[[8]](#cite_note-Hafskjar-8)</sup><sup>[[9]](#cite_note-TBOOK-9)</sup> Among the freed captives there was Helsi, Bjora's adoptive mother.<sup>[[2]](#cite_note-Helsi-2)</sup>
+
+After destroying Karthwatch in a [Harrowstorm](Lore_Harrowstorm.md), the Icereach Witches and their loyalists from the Reach took Bjora across the bridge and brought her to the nearby Sundered Towers.<sup>[[10]](#cite_note-Emilinna-10)</sup> They began using magic to implant memories in her mind, including a vision of Red Eagle handing her a crown of briars while "a frightening, fanged man" declared that she would lead his armies. She also witnessed horrors gathering in [Markarth](Lore_Markarth.md).<sup>[[3]](#cite_note-Bjora-3)</sup> The ritual was ultimately interrupted by Hafskjar and the Vestige.
+
+Soon after being freed from the spell, she returned to the survivor's camp that was set up by a town guard named Fenrar, in the ruins just outside the destroyed town.<sup>[[11]](#cite_note-Adelrine-11)</sup> Despite the intervention of the Vestige, Karthald hold was ultimately reclaimed by the Reachfolk. With their homes destroyed, the citizens of Karthwatch departed as refugees and headed north to [Solitude](Lore_Solitude.md). Bjora was among them.<sup>[[3]](#cite_note-Bjora-3)</sup><sup>[[9]](#cite_note-TBOOK-9)</sup>
+
+Although her heritage was revealed to the citizens of Karthwatch, she remained part of the community. She expressed no desire or interest in her Reachfolk ancestry and considered herself a Nord.<sup>[[3]](#cite_note-Bjora-3)</sup> She took part in the celebrations at the [Blue Palace](https://en.uesp.net/wiki/Lore:Blue_Palace) after the defeat of the [Gray Host](Lore_Gray_Host.md) in [Western Skyrim](Lore_Western_Skyrim.md).<sup>[[12]](#cite_note-DOTW-12)</sup> She expressed desire to remain in Solitude, although it is unknown whether she and the other refugees remained there or moved to [Morthal](Lore_Morthal.md).<sup>[[8]](#cite_note-Hafskjar-8)</sup>
+
+## See Also
+- For game-specific information, see the [*Elder Scrolls Online*](https://en.uesp.net/wiki/Online:Bjora) [](https://en.uesp.net/wiki/Online:Greymoor) article.
+
+## Gallery
+- [![](https://images.uesp.net/thumb/f/fc/ON-place-Karthwatch_03.jpg/200px-ON-place-Karthwatch_03.jpg)](https://en.uesp.net/wiki/File:ON-place-Karthwatch_03.jpg) Karthwatch
+- [![](https://images.uesp.net/thumb/b/bf/ON-statue-Red_Eagle.jpg/200px-ON-statue-Red_Eagle.jpg)](https://en.uesp.net/wiki/File:ON-statue-Red_Eagle.jpg) Red Eagle, Bjora's ancestor
+
+## References
+1. ^ <sup>***[a](#cite_ref-Fenrar_1-0)***</sup><sup>***[b](#cite_ref-Fenrar_1-1)***</sup><sup>***[c](#cite_ref-Fenrar_1-2)***</sup> [Fenrar](https://en.uesp.net/wiki/Online:Fenrar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+2. ^ <sup>***[a](#cite_ref-Helsi_2-0)***</sup><sup>***[b](#cite_ref-Helsi_2-1)***</sup> [Helsi](https://en.uesp.net/wiki/Online:Helsi)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+3. ^ <sup>***[a](#cite_ref-Bjora_3-0)***</sup><sup>***[b](#cite_ref-Bjora_3-1)***</sup><sup>***[c](#cite_ref-Bjora_3-2)***</sup><sup>***[d](#cite_ref-Bjora_3-3)***</sup><sup>***[e](#cite_ref-Bjora_3-4)***</sup> [Bjora](https://en.uesp.net/wiki/Online:Bjora)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+4. [^](#cite_ref-RLL_4-0) [*Reach Loyalist's Letter*](https://en.uesp.net/wiki/Online:Reach_Loyalist%27s_Letter) — [Reach Warrior](https://en.uesp.net/wiki/Online:Reach_Warrior)
+5. [^](#cite_ref-Meritha_5-0) [Meritha](https://en.uesp.net/wiki/Online:Meritha)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+6. [^](#cite_ref-Cuandala_6-0) [Cuandala](https://en.uesp.net/wiki/Online:Cuandala)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+7. [^](#cite_ref-Fiertura_7-0) [Fiertura](https://en.uesp.net/wiki/Online:Fiertura)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+8. ^ <sup>***[a](#cite_ref-Hafskjar_8-0)***</sup><sup>***[b](#cite_ref-Hafskjar_8-1)***</sup> [Hafskjar](https://en.uesp.net/wiki/Online:Hafskjar)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+9. ^ <sup>***[a](#cite_ref-TBOOK_9-0)***</sup><sup>***[b](#cite_ref-TBOOK_9-1)***</sup> [The Blood of Old Karth](https://en.uesp.net/wiki/Online:The_Blood_of_Old_Karth) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+10. [^](#cite_ref-Emilinna_10-0) [Emilinna](https://en.uesp.net/wiki/Online:Emilinna)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+11. [^](#cite_ref-Adelrine_11-0) [Adelrine](https://en.uesp.net/wiki/Online:Adelrine)'s dialogue in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*
+12. [^](#cite_ref-DOTW_12-0) [Daughter of the Wolf](https://en.uesp.net/wiki/Online:Daughter_of_the_Wolf) quest in [ESO](https://en.uesp.net/wiki/Online:Online): *[Greymoor](https://en.uesp.net/wiki/Online:Greymoor)*

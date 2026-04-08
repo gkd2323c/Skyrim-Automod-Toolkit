@@ -1,0 +1,72 @@
+# Harmugstahl
+
+| \| [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) \| Military Fort: <br> Harmugstahl <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Harmugstahl)) \| <br> \| --- \| --- \| | [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) | Military Fort: <br> Harmugstahl <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Harmugstahl)) |
+| --- | --- | --- |
+| [](https://en.uesp.net/wiki/File:SR-mapicon-Fort.png) | Military Fort: <br> Harmugstahl <br> ([view on map](https://gamemap.uesp.net/sr/?world=Skyrim&centeron=Harmugstahl)) | |
+| # of Zones | 1 | |
+| [Clearable](Skyrim_Dungeons.md#Clearing) | Yes | |
+| [Dungeon](Skyrim_Dungeons.md) | Yes | |
+| [Respawn Time](https://en.uesp.net/wiki/Skyrim:Respawn) | Never (storage is [safe](Skyrim_Containers.md#Safe_Locations)) | |
+| [Level](Skyrim_Encounter_Zone_Level.md) | Min: 8 | |
+| Occupants | | |
+| [Kornalus](Skyrim_Kornalus.md), enchanted [Frostbite Spiders](Skyrim_Frostbite_Spider.md) | | |
+| Important Treasure | | |
+| *[A Game at Dinner](Skyrim_A_Game_at_Dinner.md)* | | |
+| Console Location Code(s) | | |
+| Harmugstahl01 | | |
+| Region | | |
+| [The Reach](Skyrim_The_Reach.md) | | |
+| Location | | |
+| North of [Karthwasten](Skyrim_Karthwasten.md) <br> East of [Druadach Redoubt](Skyrim_Druadach_Redoubt.md) | | |
+| Special Features | | |
+| # of [Alchemy Labs](Skyrim_Alchemy_Labs.md) | 1 | |
+| [Ore Veins](Skyrim_Mining.md) | | |
+| # of [Iron](Skyrim_Iron_Ore.md) | 1 | |
+
+[![](https://images.uesp.net/thumb/1/15/SR-place-Harmugstahl.jpg/200px-SR-place-Harmugstahl.jpg)](https://en.uesp.net/wiki/File:SR-place-Harmugstahl.jpg) [](https://en.uesp.net/wiki/File:SR-place-Harmugstahl.jpg) Harmugstahl **Harmugstahl** is a small [fort](Skyrim_Military_Forts.md) north of [Karthwasten](Skyrim_Karthwasten.md) containing the warlock [Kornalus](Skyrim_Kornalus.md) and his enchanted [frostbite spiders](Skyrim_Frostbite_Spider.md). It contains only one zone, *[Harmugstahl](#Harmugstahl)*.
+
+## Related Quests
+
+#### [Radiant Quests](Skyrim_Radiant.md)
+- **[Arniel's Endeavor](Skyrim_Arniel%27s_Endeavor.md)**: Uncover an ancient Dwemer secret.
+- **[Onmund's Request](https://en.uesp.net/wiki/Skyrim:Onmund%27s_Request)**: Help [Onmund](https://en.uesp.net/wiki/Skyrim:Onmund) negotiate the return of a family amulet from [Enthir](Skyrim_Enthir.md).
+- **[Salty Sea-Dogs](https://en.uesp.net/wiki/Skyrim:Salty_Sea-Dogs)**: Find some [void salts](Skyrim_Fine-Cut_Void_Salts.md) for an inexperienced [sea captain](Skyrim_Captain_Wayfinder.md).
+
+- This location is one of many potential targets for [one or more of the Radiant quests](Skyrim_Radiant.md#Quest_Locations).
+
+## Walkthrough
+
+### Exterior
+The entrance is up a flight of stone stairs marked by a lit brazier at the foot of the stairs, with the wooden entrance door at the top. The stairs lead up from a path that links [Bruca's Leap Redoubt](Skyrim_Bruca%27s_Leap_Redoubt.md) across the confluence of two tributaries of the [Karth River](Skyrim_Karth_River.md) to the northeast with [Druadach Redoubt](Skyrim_Druadach_Redoubt.md) to the west-northwest and [Dragontooth Crater](Skyrim_Dragontooth_Crater.md) to the southwest (the latter two locations reached via spurs from the main path). The only part of the fort visible from the outside is this entrance; the rest is buried under a cliff face. A lit brazier can be seen on your right near the bottom of the stairs. Another one can be seen on your left at the top of the stairs.
+
+### Harmugstahl
+The entrance leads into a natural tunnel leading to the first chamber, which is lit by two lit braziers and candles. As you approach, you will hear the voice of an [adventurer](Skyrim_Adventurer.md#Adventurer1) and sounds of a battle. In the chamber you will find the adventurer finishing off an enchanted frostbite spider. He will spot you even if you are sneaking, and start a conversation with you. After you ask him what was going on with the spiders, he will say: *"I don't know, but this place is full of them. Every one I've encountered has been enchanted or the like. Look, I'm getting out of here. Normally, spiders make my skin crawl, but magic spiders? Blech."* He will then promptly leave. If you talk to him before he leaves, he will say *"Is there anything more revolting than spiders? Too many legs..."*
+
+The chamber contains two further dead frostbite spiders, which when harvested will briefly be surrounded with magical flames similar to a cloak effect. To the south is a corridor, which after a few paces turns east and descends a flight of stairs. At the bottom, the passageway continues south, passing some food barrels on the right before leading into a room. There is a balcony on the right which you cannot reach due to the stairs having collapsed; this will be your way out later. To the left as you enter is a set of spears blocking a corridor, with the lever which lowers them on the left. On your right, against the north wall is a set of shelves holding a [satchel](https://en.uesp.net/wiki/Skyrim:Satchel) among some clutter, and in the southwestern corner is a wooden table with another dead spider, which also has the enchantment, a random [potion of stamina](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Stamina), and a [potion of resist fire](https://en.uesp.net/wiki/Skyrim:Potion_of_Resist_Fire) on top.
+
+Past the spears, the passage leads to a cavernous chamber containing little of interest except four levers in front of another passage blocked by spears with a [thistle](https://en.uesp.net/wiki/Skyrim:Thistle) growing to the right of them. Once you lower all four of the upright spears, the remaining jumble behind will retract. To lower the spears, start by facing the passage; from the left, pull lever 1 and wait until the two spikes on the left descend, then pull lever 4 and the gate will open. There are no negative repercussions for moving them in an incorrect order.
+
+Beyond the spears, the passage continues south. As you reach a turning to the east, there are numerous human bones in an alcove, and you can hear a spider moving about ahead. To the east is a flight of stairs ascending before the passage turns south again. Shortly thereafter, there's another turn to the west, and after a few paces more, the passage opens into another room. As you enter, there are two sets of shelves on your right holding a [woodcutter's axe](https://en.uesp.net/wiki/Skyrim:Woodcutter%27s_Axe) and an [iron battleaxe](Skyrim_Iron_Battleaxe.md). There is an [alchemy lab](Skyrim_Alchemy_Labs.md) on your left, with a [journal](Skyrim_Journal_(Harmugstahl).md) on top, which describes the results of experiments carried out on the frostbite spiders. There is also a large hole in the south wall and a wooden table in the southwestern corner holding a dead spider and a [potion of resist shock](https://en.uesp.net/wiki/Skyrim:Potion_of_Resist_Shock), with a potion of resist fire on the floor nearby (see [bugs](#Bugs)). Against the west wall is a bookcase holding five common books, a [drum](Skyrim_Drum.md), an [iron sword](Skyrim_Iron_Sword.md), and a cheap plate under a candle. To the right of this is a level-locked wooden door on the north wall.
+
+Behind the door is a smaller room containing the frostbite spider you heard, some food barrels on the right, and in the northwestern corner, an unlocked wooden [chest](Skyrim_Chest.md). There are two sets of shelves in the northeastern corner holding rare [glazed candles](Skyrim_Miscellaneous_Items.md#Glazed_Candles), a copy of the [Alchemy](Skyrim_Alchemy.md) [skill book](Skyrim_Skill_Books.md) *[A Game at Dinner](Skyrim_A_Game_at_Dinner.md)*, two common books, four resist element potions (one of shock, two of fire, and one of [cold](https://en.uesp.net/wiki/Skyrim:Potion_of_Resist_Cold)), a random [potion](Skyrim_Potions.md), a bunch of [lavender](Skyrim_Lavender.md), two [nightshade](https://en.uesp.net/wiki/Skyrim:Nightshade) flowers, a sprig of [snowberries](Skyrim_Snowberries.md), and two sprigs of [elves ear](Skyrim_Elves_Ear.md).
+
+As you pass through the hole to the south into a larger room, a frostbite spider will descend from the ceiling, and two more will be released from small, barred cells. There are five small cells in this room, with three in a row against the south wall and two opposite against the north wall. The middle cell on the south wall has had its bars bent and broken, and contains an egg sac containing a [spider egg](https://en.uesp.net/wiki/Skyrim:Spider_Egg), a random shield, and a standing dessicated corpse in the opposite corner behind some webbing. In the third southern cell are the remains of a frostbite spider. The other three cells are now empty. To the west is a doorway that is blocked by thick cobwebs, and in front on the ground is a dessicated corpse that can be looted. Burn or chop your way through the webbing to continue. There is a pickaxe on the ground by a turn to the north, and at the end an ascending flight of stairs. At the top, there is a cave-in to the east, a cupboard holding a woodcutter's axe opposite, several barrels to the left, and more stairs rising to the west. At the top, the passage continues, passing a long wooden table holding a [baked potato](Skyrim_Baked_Potatoes.md) and another [pickaxe](https://en.uesp.net/wiki/Skyrim:Pickaxe), before turning north and ending with a closed door.
+
+Through the door is a balcony overlooking the main room where you will encounter the mage who has been completing the experiments on the frostbite spiders. As soon as you enter, you will overhear him talking to himself. The experimenter, Kornalus, is standing to the right of a cell containing three frostbite spiders. On the balcony, in front of you is an unlocked chest and some barrels with a random [potion of magicka](https://en.uesp.net/wiki/Skyrim:Potion_of_Minor_Magicka) on top. There are stairs leading down to the right. Either attack Kornalus directly, or sneak down to pull the lever on the outer corner pillar of the cell. This releases the spiders, which will then proceed to attack Kornalus. The spiders will not generally cause him much of a problem, but will provide a distraction for you. There is a doorway in the middle of the north wall and a table to the right with a dead spider on top.
+
+Through the doorway is a short corridor with a level-locked door opposite leading to Kornalus's quarters and a pair of double doors to the east that requires a key. Both of these doors can be opened using the [key](https://en.uesp.net/wiki/Skyrim:Kornalus_Frey%27s_Key) carried by Kornalus. Through the level-locked door is a flight of stairs that lead up to his quarters, which contain an unowned single bed coming out from the north wall and a dresser to the left containing [clothes](Skyrim_Clothes.md) with a [shrine of Julianos](https://en.uesp.net/wiki/Skyrim:Shrine_of_Julianos) on top. This grants the [blessing of Julianos](Skyrim_Blessing_of_Julianos.md), a 25-point bonus to the amount of magicka you have for the next seven hours. Against the east wall is an unlocked boss level chest, while opposite is a wooden table with a dead spider, a basket containing five spider eggs, a potion of resist cold, and a potion of resist fire on top. To the right is a set of shelves holding another dead spider on top, three more spider eggs, a bowl of [glow dust](Skyrim_Glow_Dust.md), a bowl of [fire salts](Skyrim_Fire_Salts.md), and two bowls of [frost salts](Skyrim_Frost_Salts.md).
+
+Through the double doors back in the corridor is a room containing two giant frostbite spiders. However, they are too big to fit through the door, so they can be killed with ranged attacks. There is a random [weapon](Skyrim_Weapons.md) behind the second of three spider egg sacs on the north wall of the room, just inside the doorway through which you entered. An [iron ore vein](Skyrim_Iron_Ore_Vein.md) is in the southeastern corner, near the foot of some stairs. These lead up to a doorway onto the balcony previously passed near the entrance. Before dropping down, there is a chest straight ahead beside a table holding only clutter on the left. Exit the same way you came in.
+
+## Notes
+- Looting the spider corpses in the area will initiate a brief elemental effect (fire, frost, or shock) on the corpse. The effect does not seem to harm you.
+- If [Barbas](Skyrim_Barbas.md) is with you when you meet the adventurer at the entrance, Barbas may attack and kill the adventurer.
+- After the quest [Dragon Rising](Skyrim_Dragon_Rising.md) is completed, a dead [hagraven](Skyrim_Hagraven.md) may spawn outside in front of the fort when the area respawns, providing you with free hagraven loot. She may have been tossed over the mountain by the [dragon](Skyrim_Dragon.md) that reclaimed nearby Dragontooth Crater.
+
+## Bugs
+- When in the room with three caged frostbite spiders, if you attack them through the bars and a kill animation initiates, you can end up behind the cage bars with no way out, or the spiders could end up outside the cage with you. - [![On PC](https://images.uesp.net/d/d7/Computer.svg)](https://www.wikipedia.org/wiki/PC_game) If you end up trapped inside the cage, use the console command `tcl` to move through the gate.
+- When entering the cave in [Werewolf](Skyrim_Beast_Form.md) or [Vampire Lord](Skyrim_Vampire_Lord.md) form, the adventurer will talk to you and leave as normal, and you will be able to talk to him as normal. - ![PC Only](https://images.uesp.net/d/d7/Computer.svg)
+The [Unofficial Skyrim Patch](https://en.uesp.net/wiki/Skyrim_Mod:Unofficial_Skyrim_Patch), version 2.0.8, fixes this bug.
+- You may not be able to take the potion of resist fire from the table near the alchemy lab. - [![On PC](https://images.uesp.net/d/d7/Computer.svg)](https://www.wikipedia.org/wiki/PC_game) Click on the potion from the console, then enter `disable` followed by `enable`.
+- The spike puzzle may not work at all (the spikes don't move whatsoever). This may prevent you from completing any quests here. - Try reloading or, if that doesn't work, leaving and re-entering the cave, or jump through (see next bug).
+- When in the room with the four levers, it is possible to jump past the bars between the wall and the far left bar. This is a solution if the four levers do not work.

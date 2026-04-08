@@ -1,0 +1,3 @@
+# KarthwastenMinersBarracksFaction
+
+Redirects to [KarthwastenMinersBarracksFaction](Skyrim_Factions_K.md#KarthwastenMinersBarracksFaction).

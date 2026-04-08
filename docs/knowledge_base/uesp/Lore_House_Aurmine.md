@@ -1,0 +1,16 @@
+# House Aurmine
+
+[![](https://images.uesp.net/thumb/f/f0/ON-place-Shornhelm.jpg/200px-ON-place-Shornhelm.jpg)](https://en.uesp.net/wiki/File:ON-place-Shornhelm.jpg) [](https://en.uesp.net/wiki/File:ON-place-Shornhelm.jpg) Shornhelm ca. 2E 582 [![](https://images.uesp.net/thumb/9/99/MW-npc-Maurrie_Aurmine.jpg/200px-MW-npc-Maurrie_Aurmine.jpg)](https://en.uesp.net/wiki/File:MW-npc-Maurrie_Aurmine.jpg) [](https://en.uesp.net/wiki/File:MW-npc-Maurrie_Aurmine.jpg) Maurrie Aurmine House Aurmine was a [Breton](Lore_Breton.md) noble family dating back to the [First Era](Lore_First_Era.md), and the reign of King Festrien Spenard I. They were known to be his staunch supporters, sworn enemies of the House [Direnni](Lore_Direnni.md). They were known vassals of the [House Spenard](Lore_House_Spenard.md) of [Shornhelm](Lore_Shornhelm.md), and patrons of the Knights of the Pale Order. The Knightly Order, under their patronage, slaughtered the Direnni wholesale during the latter years of their flight from [High Rock](Lore_High_Rock.md).<sup>[[1]](#cite_note-ROTPO-1)</sup><sup>[[2]](#cite_note-RA-2)</sup>
+
+House Aurmine's heraldry was deemed omnious and was rendered as the shield flanked by boars and snares, or according to other sources, noses.<sup>[[1]](#cite_note-ROTPO-1)</sup>
+
+Many of the vassals of the Spenard dynasty were commonly accused of [vampirism](Lore_Vampirism.md), though there is no known evidence or proof of members of House Aurmine being vampires.<sup>[[1]](#cite_note-ROTPO-1)</sup>
+
+Circa [2E 582](Lore_Second_Era.md#2E_582), a member of the [University of Gwylim](Lore_University_of_Gwylim.md)'s Antiquarian Circle discovered and unearthed an ancestral signet of the House Aurmine bearing the insignia of the family.<sup>[[1]](#cite_note-ROTPO-1)</sup>
+
+Although as of [2E 582](Lore_Second_Era.md#2E_582), the scholars considered the house ancient and obscure,<sup>[[1]](#cite_note-ROTPO-1)</sup> the house remained active as of [3E 427](Lore_Third_Era.md#3E_427). A noblewoman known as Maurrie Aurmine visited [Vvardenfell](Lore_Vvardenfell.md) at that time. It is, however, unknown whether or not the Aurmines of the [Third Era](Lore_Third_Era.md) were connected to the Aurmines of the First Era.<sup>[[3]](#cite_note-Maurrie_Aurmine-3)</sup>
+
+## References
+1. ^ <sup>***[a](#cite_ref-ROTPO_1-0)***</sup><sup>***[b](#cite_ref-ROTPO_1-1)***</sup><sup>***[c](#cite_ref-ROTPO_1-2)***</sup><sup>***[d](#cite_ref-ROTPO_1-3)***</sup><sup>***[e](#cite_ref-ROTPO_1-4)***</sup> [Ring of the Pale Order](https://en.uesp.net/wiki/Online:Ring_of_the_Pale_Order) [Antiquity](https://en.uesp.net/wiki/Online:Antiquities) codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+2. [^](#cite_ref-RA_2-0) [Riven King's Throne](https://en.uesp.net/wiki/Online:Rivenspire_Antiquities#Riven_King.27s_Throne) [Antiquity](https://en.uesp.net/wiki/Online:Antiquities) codex entries in [ESO](https://en.uesp.net/wiki/Online:Online)
+3. [^](#cite_ref-Maurrie_Aurmine_3-0) [Maurrie Aurmine](https://en.uesp.net/wiki/Morrowind:Maurrie_Aurmine) in *[Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)*
