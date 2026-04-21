@@ -22,8 +22,9 @@ Read these first:
 1. [../AGENTS.md](../AGENTS.md)
 2. [esp.md](esp.md)
 3. [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md)
-4. [knowledge_base/README.md](knowledge_base/README.md) when the text depends on lore or canon context
-5. [llm-guide.md](llm-guide.md) when the translation task becomes multi-step
+4. [human-name-translation.md](human-name-translation.md) when the task is mostly about NPC, author, or historical figure names
+5. [knowledge_base/README.md](knowledge_base/README.md) when the text depends on lore or canon context
+6. [llm-guide.md](llm-guide.md) when the translation task becomes multi-step
 
 ## What Counts as Translation Work
 
@@ -35,6 +36,8 @@ This workflow is for user-visible text such as:
 - location names
 - faction names
 - NPC names
+
+For detailed person-name guidance, including titles, surnames, epithets, and base-game naming anchors, use [human-name-translation.md](human-name-translation.md).
 
 This workflow is not for:
 

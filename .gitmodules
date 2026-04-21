@@ -1,0 +1,6 @@
+[submodule "Mantella-greeting-variants/Mantella"]
+	path = Mantella-greeting-variants/Mantella
+	url = https://github.com/art-from-the-machine/Mantella.git
+[submodule "Mantella-greeting-variants/Mantella-Spell"]
+	path = Mantella-greeting-variants/Mantella-Spell
+	url = https://github.com/art-from-the-machine/Mantella-Spell.git

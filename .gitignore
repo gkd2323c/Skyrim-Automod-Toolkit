@@ -13,7 +13,9 @@ out/
 # NuGet
 *.nupkg
 packages/
-
+.omx/
+.waylog/
+.claude/
 # Test outputs (generated mod files)
 *.esm
 *.esp
