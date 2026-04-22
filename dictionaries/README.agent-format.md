@@ -55,6 +55,7 @@ Use a config file:
 - Edit `aiTranslation.endpoint`, `aiTranslation.apiKey`, `aiTranslation.model`, `aiTranslation.systemPrompt`, and any thresholds you want
 - Run `dictionary translate-xml-ai` without repeating those flags each time
 - Use `--config path\\to\\settings.json` if you want to point at a different file
+- Set `aiTranslation.cacheFile` or pass `--cache-file` if you want reruns to reuse completed AI batches instead of starting over
 
 Export:
 
@@ -131,3 +132,5 @@ dictionaries/agent-readable/
 - `dictionary translate-xml-ai` runs the same safe dictionary pass first, then only sends the remaining rows to OpenAI.
 - AI fallback requires `OPENAI_API_KEY` or `--api-key`; use `--min-confidence` to keep uncertain output out of the XML and inside the JSON report instead.
 - For `translate-xml-ai`, value precedence is: command-line flags -> `settings.json` `aiTranslation` section -> environment variables -> built-in defaults.
+- AI cache entries are written incrementally as successful batches complete, so an interrupted run can resume without retranslating already completed entries.
+- Before AI calls are made, identical untranslated rows with the same `REC + Source` are deduplicated. The model translates one canonical copy, and the result is applied back to every duplicate occurrence.

@@ -44,7 +44,7 @@ tmpclaude-*
 # Other
 spookys-automod-toolkit.code-workspace
 temp/
-
+reports/
 # Publish output
 publish/
 

@@ -229,6 +229,10 @@ What the export produces:
 
 You can also configure AI translation defaults in `settings.json`. A ready-to-edit example is included at [settings.example.json](/D:/SteamLibrary/steamapps/common/Skyrim%20Special%20Edition/Data/Skyrim-Automod-Toolkit/settings.example.json). Copy it to `settings.json`, then edit the `aiTranslation` section to set the endpoint URL, API key, model name, prompts, confidence threshold, and batch sizing once for the whole toolkit.
 
+AI translation now supports a persistent cache file. Successful batch results are written as they arrive, and reruns reuse cached entries before calling the model again. You can set `aiTranslation.cacheFile` in `settings.json` or pass `--cache-file` on the command line.
+
+AI fallback also deduplicates identical untranslated entries before calling the model. Matching `REC + Source` rows are translated once and then written back to every duplicate occurrence, which reduces local-model time and keeps repeated labels consistent.
+
 ### 6. Research Lore with the Local UESP Knowledge Base
 
 Use the bundled knowledge base when you need lore context, book relationships, or canon naming support that is broader than the bilingual dictionary.

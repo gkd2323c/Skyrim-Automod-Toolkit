@@ -1,0 +1,22 @@
+{
+  "skyrimPath": "D:\\SteamLibrary\\steamapps\\common\\Skyrim Special Edition",
+  "skyrimEdition": "SE",
+  "dataPath": "D:\\SteamLibrary\\steamapps\\common\\Skyrim Special Edition\\Data",
+  "scriptHeadersPath": "D:\\SteamLibrary\\steamapps\\common\\Skyrim Special Edition\\Data\\Skyrim-Automod-Toolkit\\skyrim-script-headers",
+  "papyrusCompilerInstalled": true,
+  "champollionInstalled": true,
+  "dotNetVersion": "8.0.x",
+  "setupDate": "2026-04-22T00:00:00+08:00",
+  "aiTranslation": {
+    "endpoint": "https://api.openai.com/v1/responses",
+    "apiKey": "sk-REPLACE_ME",
+    "model": "gpt-4.1-mini",
+    "cacheFile": "reports\\ai-translation-cache.json",
+    "systemPrompt": "You translate Skyrim Special Edition player-facing text from English to Simplified Chinese for SSTXMLRessources exports.\n\nRules:\n- Preserve placeholders and markup exactly, including tokens like <Alias=...>, <Global=...>, %s, and line breaks.\n- Keep technical identifiers untouched; translate only the player-facing source text.\n- Prefer established vanilla Skyrim Chinese terminology over literal invention.\n- Translate titles and functional descriptors, but do not over-translate personal names just because they have surface meaning.\n- Return only valid JSON matching the requested schema.\n- Confidence is a number between 0 and 1.",
+    "userPromptPreamble": "Translate the following entries.\nReturn JSON with shape: {\"translations\":[{\"id\":\"...\",\"translation\":\"...\",\"confidence\":0.0,\"notes\":\"...\"}]}\nEntries:",
+    "batchSize": 20,
+    "minConfidence": 0.75,
+    "maxOutputTokens": 4000,
+    "reportFile": "reports\\ai-translation-report.json"
+  }
+}

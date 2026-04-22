@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": "1",
+  "ContextKey": "21937C2AB5309AFDECED25FC9B6BECE9CBAB57B3B8FA92BD6F4838A0B49F8823",
+  "Entries": {
+    "1B23DF793754FB93215726D6974F8D0407D1EC02DEF001B935816787CB984927": {
+      "Translation": "黄昏护符",
+      "Confidence": 0.94,
+      "Notes": "High-confidence cached translation for the Cached state.",
+      "CachedAtUtc": "2026-04-22T08:00:00+00:00"
+    },
+    "E289CCC6D51C59595AE06146EA83E3DB7A1D651CF56E3A2656156BCFE69CA503": {
+      "Translation": "平衡护符",
+      "Confidence": 0.42,
+      "Notes": "Low-confidence cached translation for the Review state.",
+      "CachedAtUtc": "2026-04-22T08:01:00+00:00"
+    }
+  }
+}

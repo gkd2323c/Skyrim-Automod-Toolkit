@@ -96,6 +96,7 @@ public sealed class DictionaryTranslateXmlAiOptions
     public string OutputFile { get; init; } = string.Empty;
     public string ReferenceDirectory { get; init; } = string.Empty;
     public string? ConfigFile { get; init; }
+    public string? CacheFile { get; init; }
     public string? ReportFile { get; init; }
     public bool OverwriteExisting { get; init; }
     public string ApiKey { get; init; } = string.Empty;
@@ -113,13 +114,17 @@ public sealed class DictionaryTranslateXmlAiResult
     public string InputFile { get; init; } = string.Empty;
     public string OutputFile { get; init; } = string.Empty;
     public string? ConfigFile { get; init; }
+    public string? CacheFile { get; init; }
     public string? ReportFile { get; init; }
     public string ReferenceDirectory { get; init; } = string.Empty;
     public string Model { get; init; } = string.Empty;
     public int TotalEntries { get; init; }
     public int DictionaryTranslatedEntries { get; init; }
     public int AiAttemptedEntries { get; init; }
+    public int DeduplicatedAiEntries { get; init; }
     public int AiTranslatedEntries { get; init; }
+    public int CachedTranslatedEntries { get; init; }
+    public int CacheHitEntries { get; init; }
     public int SkippedExistingEntries { get; init; }
     public int DictionaryUnmatchedEntries { get; init; }
     public int DictionaryAmbiguousEntries { get; init; }

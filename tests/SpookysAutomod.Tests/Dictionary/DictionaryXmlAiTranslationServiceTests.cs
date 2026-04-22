@@ -66,6 +66,7 @@ public class DictionaryXmlAiTranslationServiceTests
 
             var outputFile = Path.Combine(root, "translated.xml");
             var reportFile = Path.Combine(root, "report.json");
+            var cacheFile = Path.Combine(root, "cache.json");
             var service = new DictionaryXmlAiTranslationService(new SilentLogger(), new FakeAiTranslationClient(new Dictionary<string, AiTranslationBatchItem>
             {
                 ["entry-000001"] = new()
@@ -81,6 +82,7 @@ public class DictionaryXmlAiTranslationServiceTests
             {
                 InputFile = inputFile,
                 OutputFile = outputFile,
+                CacheFile = cacheFile,
                 ReportFile = reportFile,
                 ReferenceDirectory = referenceDirectory,
                 ApiKey = "test-key",
@@ -151,6 +153,7 @@ public class DictionaryXmlAiTranslationServiceTests
                 """);
 
             var outputFile = Path.Combine(root, "translated.xml");
+            var cacheFile = Path.Combine(root, "cache.json");
             var service = new DictionaryXmlAiTranslationService(new SilentLogger(), new FakeAiTranslationClient(new Dictionary<string, AiTranslationBatchItem>
             {
                 ["entry-000000"] = new()
@@ -166,6 +169,7 @@ public class DictionaryXmlAiTranslationServiceTests
             {
                 InputFile = inputFile,
                 OutputFile = outputFile,
+                CacheFile = cacheFile,
                 ReferenceDirectory = referenceDirectory,
                 ApiKey = "test-key",
                 Model = "test-model",
@@ -258,6 +262,7 @@ public class DictionaryXmlAiTranslationServiceTests
                 InputFile = inputFile,
                 OutputFile = outputFile,
                 ConfigFile = configFile,
+                CacheFile = Path.Combine(root, "cache.json"),
                 ReferenceDirectory = referenceDirectory
             });
 
@@ -271,6 +276,174 @@ public class DictionaryXmlAiTranslationServiceTests
             Assert.Equal("CONFIG_SYSTEM_PROMPT", capturingClient.LastRequest.SystemPrompt);
             Assert.Equal("CONFIG_USER_PROMPT", capturingClient.LastRequest.UserPromptPreamble);
             Assert.Equal(1234, capturingClient.LastRequest.MaxOutputTokens);
+        }
+        finally
+        {
+            Cleanup(root);
+        }
+    }
+
+    [Fact]
+    public void Translate_ReusesCache_OnRerun()
+    {
+        var root = CreateTempRoot();
+
+        try
+        {
+            var referenceDirectory = Path.Combine(root, "references");
+            Directory.CreateDirectory(referenceDirectory);
+            File.WriteAllText(Path.Combine(referenceDirectory, "Skyrim_english_chinese.xml"), """
+                <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                <SSTXMLRessources>
+                  <Params>
+                    <Addon>Skyrim</Addon>
+                    <Source>english</Source>
+                    <Dest>chinese</Dest>
+                    <Version>2</Version>
+                  </Params>
+                  <Content />
+                </SSTXMLRessources>
+                """);
+
+            var inputFile = Path.Combine(root, "mod.xml");
+            File.WriteAllText(inputFile, """
+                <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                <SSTXMLRessources>
+                  <Params>
+                    <Addon>MyMod.esp</Addon>
+                    <Source>english</Source>
+                    <Dest>chinese</Dest>
+                    <Version>2</Version>
+                  </Params>
+                  <Content>
+                    <String List="0">
+                      <EDID>MyNewQuest</EDID>
+                      <REC>QUST:NNAM</REC>
+                      <Source>Meet the watcher at dusk</Source>
+                      <Dest>Meet the watcher at dusk</Dest>
+                    </String>
+                  </Content>
+                </SSTXMLRessources>
+                """);
+
+            var outputFile = Path.Combine(root, "translated.xml");
+            var cacheFile = Path.Combine(root, "translated.ai-cache.json");
+            var countingClient = new CountingAiTranslationClient();
+            var service = new DictionaryXmlAiTranslationService(new SilentLogger(), countingClient);
+
+            var first = service.Translate(new DictionaryTranslateXmlAiOptions
+            {
+                InputFile = inputFile,
+                OutputFile = outputFile,
+                CacheFile = cacheFile,
+                ReferenceDirectory = referenceDirectory,
+                ApiKey = "test-key",
+                Model = "test-model",
+                Endpoint = "https://example.invalid/v1/responses"
+            });
+
+            Assert.True(first.Success, first.Error);
+            Assert.Equal(1, countingClient.CallCount);
+            Assert.True(File.Exists(cacheFile));
+
+            var second = service.Translate(new DictionaryTranslateXmlAiOptions
+            {
+                InputFile = inputFile,
+                OutputFile = outputFile,
+                CacheFile = cacheFile,
+                ReferenceDirectory = referenceDirectory,
+                ApiKey = "test-key",
+                Model = "test-model",
+                Endpoint = "https://example.invalid/v1/responses"
+            });
+
+            Assert.True(second.Success, second.Error);
+            Assert.Equal(1, countingClient.CallCount);
+            Assert.NotNull(second.Value);
+            Assert.Equal(1, second.Value!.CachedTranslatedEntries);
+            Assert.Equal(1, second.Value.CacheHitEntries);
+        }
+        finally
+        {
+            Cleanup(root);
+        }
+    }
+
+    [Fact]
+    public void Translate_DeduplicatesIdenticalAiEntries()
+    {
+        var root = CreateTempRoot();
+
+        try
+        {
+            var referenceDirectory = Path.Combine(root, "references");
+            Directory.CreateDirectory(referenceDirectory);
+            File.WriteAllText(Path.Combine(referenceDirectory, "Skyrim_english_chinese.xml"), """
+                <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                <SSTXMLRessources>
+                  <Params>
+                    <Addon>Skyrim</Addon>
+                    <Source>english</Source>
+                    <Dest>chinese</Dest>
+                    <Version>2</Version>
+                  </Params>
+                  <Content />
+                </SSTXMLRessources>
+                """);
+
+            var inputFile = Path.Combine(root, "mod.xml");
+            File.WriteAllText(inputFile, """
+                <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                <SSTXMLRessources>
+                  <Params>
+                    <Addon>MyMod.esp</Addon>
+                    <Source>english</Source>
+                    <Dest>chinese</Dest>
+                    <Version>2</Version>
+                  </Params>
+                  <Content>
+                    <String List="0">
+                      <EDID>EffectOne</EDID>
+                      <REC>MGEF:FULL</REC>
+                      <Source>Talisman of Warrior</Source>
+                      <Dest>Talisman of Warrior</Dest>
+                    </String>
+                    <String List="0">
+                      <EDID>EffectTwo</EDID>
+                      <REC>MGEF:FULL</REC>
+                      <Source>Talisman of Warrior</Source>
+                      <Dest>Talisman of Warrior</Dest>
+                    </String>
+                  </Content>
+                </SSTXMLRessources>
+                """);
+
+            var outputFile = Path.Combine(root, "translated.xml");
+            var cacheFile = Path.Combine(root, "cache.json");
+            var countingClient = new CountingAiTranslationClient();
+            var service = new DictionaryXmlAiTranslationService(new SilentLogger(), countingClient);
+
+            var result = service.Translate(new DictionaryTranslateXmlAiOptions
+            {
+                InputFile = inputFile,
+                OutputFile = outputFile,
+                CacheFile = cacheFile,
+                ReferenceDirectory = referenceDirectory,
+                ApiKey = "test-key",
+                Model = "test-model",
+                Endpoint = "https://example.invalid/v1/responses"
+            });
+
+            Assert.True(result.Success, result.Error);
+            Assert.NotNull(result.Value);
+            Assert.Equal(1, countingClient.CallCount);
+            Assert.Equal(1, result.Value!.AiAttemptedEntries);
+            Assert.Equal(1, result.Value.DeduplicatedAiEntries);
+            Assert.Equal(2, result.Value.AiTranslatedEntries);
+
+            var output = XDocument.Load(outputFile);
+            var dests = output.Root!.Element("Content")!.Elements("String").Select(x => x.Element("Dest")!.Value).ToList();
+            Assert.Equal(new[] { "在黄昏时与守望者会面", "在黄昏时与守望者会面" }, dests);
         }
         finally
         {
@@ -330,6 +503,28 @@ public class DictionaryXmlAiTranslationServiceTests
                         Id = request.Entries[0].Id,
                         Translation = "在黄昏时与守望者会面",
                         Confidence = 0.9
+                    }
+                }
+            });
+        }
+    }
+
+    private sealed class CountingAiTranslationClient : IAiTranslationClient
+    {
+        public int CallCount { get; private set; }
+
+        public Result<AiTranslationBatchResult> TranslateBatch(AiTranslationRequest request)
+        {
+            CallCount++;
+            return Result<AiTranslationBatchResult>.Ok(new AiTranslationBatchResult
+            {
+                Translations = new List<AiTranslationBatchItem>
+                {
+                    new()
+                    {
+                        Id = request.Entries[0].Id,
+                        Translation = "在黄昏时与守望者会面",
+                        Confidence = 0.95
                     }
                 }
             });

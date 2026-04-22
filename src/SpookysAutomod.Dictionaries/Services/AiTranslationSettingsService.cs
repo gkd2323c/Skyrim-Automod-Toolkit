@@ -63,6 +63,7 @@ public sealed class AiTranslationSettings
     public string? Endpoint { get; init; }
     public string? ApiKey { get; init; }
     public string? Model { get; init; }
+    public string? CacheFile { get; init; }
     public string? SystemPrompt { get; init; }
     public string? UserPromptPreamble { get; init; }
     public int? BatchSize { get; init; }

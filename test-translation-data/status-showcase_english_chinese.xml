@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>StatusShowcase.esp</Addon>
+    <Source>english</Source>
+    <Dest>chinese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>StatusShowcase_Pending</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Dawn</Source>
+      <Dest>Talisman of Dawn</Dest>
+    </String>
+    <String List="0">
+      <EDID>StatusShowcase_Cached</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Dusk</Source>
+      <Dest>Talisman of Dusk</Dest>
+    </String>
+    <String List="0">
+      <EDID>StatusShowcase_Review</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Balance</Source>
+      <Dest>Talisman of Balance</Dest>
+    </String>
+    <String List="0">
+      <EDID>StatusShowcase_Edited</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Echoes</Source>
+      <Dest>回响护符</Dest>
+    </String>
+    <String List="0">
+      <EDID>StatusShowcase_AI</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Stormglass</Source>
+      <Dest>Talisman of Stormglass</Dest>
+    </String>
+    <String List="0">
+      <EDID>StatusShowcase_Failed</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Talisman of Ashen Oath</Source>
+      <Dest>Talisman of Ashen Oath</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -523,6 +523,7 @@ public class SetupViewModel : INotifyPropertyChanged
         }
     }
 
+
     private void BrowseSkyrim()
     {
         var dialog = new Microsoft.Win32.OpenFileDialog

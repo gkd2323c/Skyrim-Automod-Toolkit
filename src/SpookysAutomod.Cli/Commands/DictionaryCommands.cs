@@ -360,6 +360,9 @@ public static class DictionaryCommands
         var configOption = new Option<string?>(
             "--config",
             "Optional settings JSON file. Defaults to the nearest settings.json in the current directory tree.");
+        var cacheFileOption = new Option<string?>(
+            "--cache-file",
+            "Optional AI translation cache file. Defaults to <output>.ai-cache.json.");
         var outputOption = new Option<string>(
             aliases: new[] { "--output", "-o" },
             description: "Output file path. Defaults to <input>.translated.xml next to the source file.");
@@ -404,6 +407,7 @@ public static class DictionaryCommands
         {
             inputArg,
             configOption,
+            cacheFileOption,
             outputOption,
             reportOption,
             referenceOption,
@@ -422,6 +426,7 @@ public static class DictionaryCommands
         {
             var input = context.ParseResult.GetValueForArgument(inputArg);
             var config = context.ParseResult.GetValueForOption(configOption);
+            var cacheFile = context.ParseResult.GetValueForOption(cacheFileOption);
             var output = context.ParseResult.GetValueForOption(outputOption) ?? string.Empty;
             var report = context.ParseResult.GetValueForOption(reportOption);
             var reference = context.ParseResult.GetValueForOption(referenceOption) ?? GetPreferredQueryInputDirectory();
@@ -444,6 +449,7 @@ public static class DictionaryCommands
                 InputFile = input,
                 OutputFile = output,
                 ConfigFile = config,
+                CacheFile = cacheFile,
                 ReportFile = report,
                 ReferenceDirectory = reference,
                 OverwriteExisting = overwriteExisting,
@@ -484,11 +490,16 @@ public static class DictionaryCommands
             Console.WriteLine($"Translated XML written to: {summary.OutputFile}");
             if (!string.IsNullOrWhiteSpace(summary.ConfigFile))
                 Console.WriteLine($"Config: {summary.ConfigFile}");
+            if (!string.IsNullOrWhiteSpace(summary.CacheFile))
+                Console.WriteLine($"Cache: {summary.CacheFile}");
             Console.WriteLine($"Model: {summary.Model}");
             Console.WriteLine($"Total entries: {summary.TotalEntries}");
             Console.WriteLine($"Dictionary translated: {summary.DictionaryTranslatedEntries}");
             Console.WriteLine($"AI attempted: {summary.AiAttemptedEntries}");
+            Console.WriteLine($"Deduplicated AI entries: {summary.DeduplicatedAiEntries}");
             Console.WriteLine($"AI translated: {summary.AiTranslatedEntries}");
+            Console.WriteLine($"Cached translated: {summary.CachedTranslatedEntries}");
+            Console.WriteLine($"Cache hits: {summary.CacheHitEntries}");
             Console.WriteLine($"Low confidence skipped: {summary.LowConfidenceEntries}");
             Console.WriteLine($"AI failed: {summary.FailedAiEntries}");
             Console.WriteLine($"Remaining untranslated: {summary.RemainingUntranslatedEntries}");
