@@ -29,6 +29,9 @@ Start with these first:
 | [../AGENTS.md](../AGENTS.md) | Agent contract | You need execution rules, command discipline, and workflow selection guidance |
 | [llm-guide.md](llm-guide.md) | Detailed workflow guide | You need full end-to-end examples, patching patterns, or advanced AI workflows |
 | [esp-translation.md](esp-translation.md) | ESP translation workflow | You need to translate player-facing plugin text while staying consistent with vanilla terminology |
+| [local-ai-translation-plan.md](local-ai-translation-plan.md) | Local AI translation execution plan | You need a repeatable plan for local agents translating exported XML files |
+| [local-ai-translation-prompts.md](local-ai-translation-prompts.md) | Local AI translation prompt pack | You need reusable system and task prompts for local translation agents |
+| [local-ai-translation-prompts-by-model.md](local-ai-translation-prompts-by-model.md) | Model-specific translation prompt pack | You need Codex, Claude, or Gemini-tuned prompt variants |
 | [human-name-translation.md](human-name-translation.md) | Human-name translation guide | You are translating NPC names, surnames, titles, epithets, or historical figures |
 | [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) | Dictionary guide | You need bilingual Skyrim terms for direct lookup or retrieval-friendly export |
 | [knowledge_base/README.md](knowledge_base/README.md) | Knowledge base guide | You need local UESP lore and canon context without leaving the repository |
@@ -45,9 +48,12 @@ Start with these first:
 4. The relevant module reference
 5. [llm-guide.md](llm-guide.md) when the task becomes multi-step or unusual
 6. [esp-translation.md](esp-translation.md) when you are translating player-facing ESP text
-7. [human-name-translation.md](human-name-translation.md) when the translation surface is dominated by people names and titles
-8. [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) when you need dictionary lookup or agent-readable translation corpora
-9. [knowledge_base/README.md](knowledge_base/README.md) when you need local lore, book context, or canon naming guidance
+7. [local-ai-translation-plan.md](local-ai-translation-plan.md) when you need a concrete execution protocol for local AI translation runs
+8. [local-ai-translation-prompts.md](local-ai-translation-prompts.md) when you need reusable prompt templates for local translation agents
+9. [local-ai-translation-prompts-by-model.md](local-ai-translation-prompts-by-model.md) when you need model-tuned prompt variants
+10. [human-name-translation.md](human-name-translation.md) when the translation surface is dominated by people names and titles
+11. [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) when you need dictionary lookup or agent-readable translation corpora
+12. [knowledge_base/README.md](knowledge_base/README.md) when you need local lore, book context, or canon naming guidance
 
 ### For Human Operators
 
@@ -81,8 +87,11 @@ These conventions apply across the documentation set:
 | NIF | Inspect meshes, textures, strings, shader flags, and roundtrip integrity | [nif.md](nif.md) |
 | Audio | Work with FUZ, XWM, WAV, and related voice assets | [audio.md](audio.md) |
 | SKSE | Scaffold and build native SKSE plugins | [skse.md](skse.md) |
-| Dictionary | Query bilingual XML dictionaries and export them into JSONL shards and EDID-grouped records for AI retrieval | [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
+| Dictionary | Query bilingual XML dictionaries, translate exported `SSTXMLRessources` files with dictionary or AI fallback, and export dictionaries into JSONL shards and EDID-grouped records for AI retrieval | [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
 | ESP Translation | Translate player-facing plugin text with dictionary-backed terminology discipline | [esp-translation.md](esp-translation.md) |
+| Local AI Translation Plan | Run local AI agents against exported XML with a staged dictionary-first, AI-fallback workflow | [local-ai-translation-plan.md](local-ai-translation-plan.md) |
+| Local AI Translation Prompts | Reusable prompt templates for single-agent and multi-agent local translation runs | [local-ai-translation-prompts.md](local-ai-translation-prompts.md) |
+| Model-Specific Translation Prompts | Use Codex, Claude, and Gemini-tuned prompt variants for the same local workflow | [local-ai-translation-prompts-by-model.md](local-ai-translation-prompts-by-model.md) |
 | Human Name Translation | Translate NPC names, surnames, titles, and epithets against shipped Skyrim naming patterns | [human-name-translation.md](human-name-translation.md) |
 | Knowledge Base | Research lore, books, canon naming, and contextual background from the local UESP Markdown mirror | [knowledge_base/README.md](knowledge_base/README.md) |
 
@@ -94,11 +103,14 @@ These conventions apply across the documentation set:
 | Build a scripted quest | [../AGENTS.md](../AGENTS.md) then [papyrus.md](papyrus.md) and [llm-guide.md](llm-guide.md) |
 | Patch an existing plugin | [llm-guide.md](llm-guide.md) then [esp.md](esp.md) |
 | Translate an ESP while keeping vanilla terminology consistent | [esp-translation.md](esp-translation.md) |
+| Run a local AI-agent translation pipeline on exported XML | [local-ai-translation-plan.md](local-ai-translation-plan.md) |
+| Get reusable prompts for local translation agents | [local-ai-translation-prompts.md](local-ai-translation-prompts.md) |
+| Get Codex / Claude / Gemini prompt variants for translation agents | [local-ai-translation-prompts-by-model.md](local-ai-translation-prompts-by-model.md) |
 | Translate NPC and historical names against base-game Chinese naming | [human-name-translation.md](human-name-translation.md) |
 | Research lore, canon naming, or in-game book context | [knowledge_base/README.md](knowledge_base/README.md) |
 | Extract or edit a BSA/BA2 | [archive.md](archive.md) |
 | Debug a broken mod | [llm-guide.md](llm-guide.md) then the relevant module docs |
-| Query bilingual dictionary data or prepare it for an AI agent | [../README.md](../README.md) then [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
+| Query bilingual dictionary data, translate exported XML, or prepare dictionary data for an AI agent | [../README.md](../README.md) then [../dictionaries/README.agent-format.md](../dictionaries/README.agent-format.md) |
 | Fix build or SDK issues | [environment-troubleshooting.md](environment-troubleshooting.md) |
 | Extend the toolkit itself | [../README.md](../README.md), [../CLAUDE.md](../CLAUDE.md), then the source modules |
 
@@ -120,6 +132,9 @@ If you only remember one rule, remember this split:
 - `AGENTS.md` tells an AI agent how to behave
 - `docs/README.md` tells you where to go next
 - `docs/esp-translation.md` tells an agent how to translate plugin text without drifting from vanilla terms
+- `docs/local-ai-translation-plan.md` tells a local agent how to execute a repeatable XML translation run
+- `docs/local-ai-translation-prompts.md` gives reusable prompts for local translation agents and sub-agents
+- `docs/local-ai-translation-prompts-by-model.md` gives model-tuned variants for Codex, Claude, and Gemini
 - `docs/human-name-translation.md` tells an agent how to translate people names against shipped Skyrim naming patterns
 - `dictionaries/README.agent-format.md` tells you how to export bilingual terms for retrieval
 - `docs/knowledge_base/README.md` tells an agent how to mine the local UESP lore corpus safely

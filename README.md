@@ -204,6 +204,8 @@ Quick query examples:
 ```bash
 dotnet run --project src/SpookysAutomod.Cli -- dictionary lookup "RiftenRatway02" --addon Skyrim --json
 dotnet run --project src/SpookysAutomod.Cli -- dictionary search --text "鼠道" --scope chinese --group-by record --limit 5 --json
+dotnet run --project src/SpookysAutomod.Cli -- dictionary translate-xml "./SomeMod_english_chinese.xml" --output "./SomeMod_english_chinese.translated.xml" --json
+dotnet run --project src/SpookysAutomod.Cli -- dictionary translate-xml-ai "./SomeMod_english_chinese.xml" --output "./SomeMod_english_chinese.translated.xml" --report "./SomeMod_english_chinese.report.json" --json
 ```
 
 Export example:
@@ -220,6 +222,12 @@ What the export produces:
 - `records/`: one EDID-grouped document per record for richer context
 - `manifest.json`: counts, relative shard file lists, and record-type distribution before opening large shards
 - `agentText`: flattened natural-language text inside each object for retrieval workflows
+
+`dictionary translate-xml` uses the same corpus to fill `Dest` values in `SSTXMLRessources` exports. By default it only fills untranslated rows where `Dest` is empty or still matches `Source`, and it skips ambiguous matches instead of guessing.
+
+`dictionary translate-xml-ai` runs the same dictionary-first pass, then sends the remaining untranslated rows to OpenAI for fallback translation. Set `OPENAI_API_KEY` or pass `--api-key`, and optionally tune `--model`, `--batch-size`, and `--min-confidence`.
+
+You can also configure AI translation defaults in `settings.json`. A ready-to-edit example is included at [settings.example.json](/D:/SteamLibrary/steamapps/common/Skyrim%20Special%20Edition/Data/Skyrim-Automod-Toolkit/settings.example.json). Copy it to `settings.json`, then edit the `aiTranslation` section to set the endpoint URL, API key, model name, prompts, confidence threshold, and batch sizing once for the whole toolkit.
 
 ### 6. Research Lore with the Local UESP Knowledge Base
 

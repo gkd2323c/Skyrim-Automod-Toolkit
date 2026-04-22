@@ -21,6 +21,8 @@ public static class DictionaryCommands
         dictionaryCommand.AddCommand(CreateLookupCommand());
         dictionaryCommand.AddCommand(CreateSearchCommand());
         dictionaryCommand.AddCommand(CreateExportAgentCommand());
+        dictionaryCommand.AddCommand(CreateTranslateXmlCommand());
+        dictionaryCommand.AddCommand(CreateTranslateXmlAiCommand());
 
         return dictionaryCommand;
     }
@@ -277,6 +279,222 @@ public static class DictionaryCommands
             Console.WriteLine($"Manifest: {Path.Combine(summary.OutputDirectory, "manifest.json")}");
             Console.WriteLine($"Generated shards: {summary.GeneratedFiles.Count(file => file.EndsWith(".jsonl", StringComparison.OrdinalIgnoreCase)):N0}");
         }, inputOption, outputOption, shardSizeOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateTranslateXmlCommand()
+    {
+        var inputArg = new Argument<string>("input", "Input SSTXMLRessources XML file to translate");
+        var outputOption = new Option<string>(
+            aliases: new[] { "--output", "-o" },
+            description: "Output file path. Defaults to <input>.translated.xml next to the source file.");
+        var referenceOption = new Option<string>(
+            aliases: new[] { "--reference", "-r" },
+            getDefaultValue: GetPreferredQueryInputDirectory,
+            description: "Reference dictionary directory. Defaults to ./dictionaries/agent-readable when present, otherwise ./dictionaries");
+        var overwriteExistingOption = new Option<bool>(
+            "--overwrite-existing",
+            "Also overwrite Dest values that already differ from Source");
+
+        var cmd = new Command(
+            "translate-xml",
+            "Translate an SSTXMLRessources XML export by filling Dest from the shipped dictionary corpus")
+        {
+            inputArg,
+            outputOption,
+            referenceOption,
+            overwriteExistingOption
+        };
+
+        cmd.SetHandler((input, output, reference, overwriteExisting, json, verbose) =>
+        {
+            var logger = CreateLogger(json, verbose);
+            var service = new DictionaryXmlTranslationService(logger);
+            var result = service.Translate(new DictionaryTranslateXmlOptions
+            {
+                InputFile = input,
+                OutputFile = output,
+                ReferenceDirectory = reference,
+                OverwriteExisting = overwriteExisting
+            });
+
+            if (json)
+            {
+                Console.WriteLine(result.ToJson(true));
+                return;
+            }
+
+            if (!result.Success || result.Value is null)
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (!string.IsNullOrWhiteSpace(result.ErrorContext))
+                    Console.Error.WriteLine(result.ErrorContext);
+
+                if (result.Suggestions is { Count: > 0 })
+                {
+                    Console.Error.WriteLine("Suggestions:");
+                    foreach (var suggestion in result.Suggestions)
+                        Console.Error.WriteLine($"  - {suggestion}");
+                }
+
+                Environment.ExitCode = 1;
+                return;
+            }
+
+            var summary = result.Value;
+            Console.WriteLine($"Translated XML written to: {summary.OutputFile}");
+            Console.WriteLine($"Total entries: {summary.TotalEntries}");
+            Console.WriteLine($"Translated: {summary.TranslatedEntries}");
+            Console.WriteLine($"Skipped existing: {summary.SkippedExistingEntries}");
+            Console.WriteLine($"Unmatched: {summary.UnmatchedEntries}");
+            Console.WriteLine($"Ambiguous: {summary.AmbiguousEntries}");
+        }, inputArg, outputOption, referenceOption, overwriteExistingOption, _jsonOption, _verboseOption);
+
+        return cmd;
+    }
+
+    private static Command CreateTranslateXmlAiCommand()
+    {
+        var inputArg = new Argument<string>("input", "Input SSTXMLRessources XML file to translate");
+        var configOption = new Option<string?>(
+            "--config",
+            "Optional settings JSON file. Defaults to the nearest settings.json in the current directory tree.");
+        var outputOption = new Option<string>(
+            aliases: new[] { "--output", "-o" },
+            description: "Output file path. Defaults to <input>.translated.xml next to the source file.");
+        var reportOption = new Option<string?>(
+            "--report",
+            "Optional JSON report path for low-confidence and failed AI items.");
+        var referenceOption = new Option<string>(
+            aliases: new[] { "--reference", "-r" },
+            getDefaultValue: GetPreferredQueryInputDirectory,
+            description: "Reference dictionary directory. Defaults to ./dictionaries/agent-readable when present, otherwise ./dictionaries");
+        var overwriteExistingOption = new Option<bool>(
+            "--overwrite-existing",
+            "Also overwrite Dest values that already differ from Source");
+        var apiKeyOption = new Option<string?>(
+            "--api-key",
+            "OpenAI API key. Defaults to aiTranslation.apiKey, then OPENAI_API_KEY.");
+        var modelOption = new Option<string?>(
+            "--model",
+            description: "OpenAI model to use for unmatched entries.");
+        var endpointOption = new Option<string?>(
+            "--endpoint",
+            description: "Responses API endpoint.");
+        var systemPromptOption = new Option<string?>(
+            "--system-prompt",
+            "Optional system prompt override for AI translation.");
+        var userPromptPreambleOption = new Option<string?>(
+            "--user-prompt-preamble",
+            "Optional user prompt preamble override for AI translation.");
+        var batchSizeOption = new Option<int?>(
+            "--batch-size",
+            description: "How many untranslated entries to send per AI request.");
+        var minConfidenceOption = new Option<double?>(
+            "--min-confidence",
+            description: "Only write AI translations at or above this confidence.");
+        var maxOutputTokensOption = new Option<int?>(
+            "--max-output-tokens",
+            description: "Maximum output tokens per AI batch.");
+
+        var cmd = new Command(
+            "translate-xml-ai",
+            "Translate an SSTXMLRessources XML export with dictionary matching first and AI fallback for new content")
+        {
+            inputArg,
+            configOption,
+            outputOption,
+            reportOption,
+            referenceOption,
+            overwriteExistingOption,
+            apiKeyOption,
+            modelOption,
+            endpointOption,
+            systemPromptOption,
+            userPromptPreambleOption,
+            batchSizeOption,
+            minConfidenceOption,
+            maxOutputTokensOption
+        };
+
+        cmd.SetHandler((context) =>
+        {
+            var input = context.ParseResult.GetValueForArgument(inputArg);
+            var config = context.ParseResult.GetValueForOption(configOption);
+            var output = context.ParseResult.GetValueForOption(outputOption) ?? string.Empty;
+            var report = context.ParseResult.GetValueForOption(reportOption);
+            var reference = context.ParseResult.GetValueForOption(referenceOption) ?? GetPreferredQueryInputDirectory();
+            var overwriteExisting = context.ParseResult.GetValueForOption(overwriteExistingOption);
+            var apiKey = context.ParseResult.GetValueForOption(apiKeyOption);
+            var model = context.ParseResult.GetValueForOption(modelOption);
+            var endpoint = context.ParseResult.GetValueForOption(endpointOption);
+            var systemPrompt = context.ParseResult.GetValueForOption(systemPromptOption);
+            var userPromptPreamble = context.ParseResult.GetValueForOption(userPromptPreambleOption);
+            var batchSize = context.ParseResult.GetValueForOption(batchSizeOption);
+            var minConfidence = context.ParseResult.GetValueForOption(minConfidenceOption);
+            var maxOutputTokens = context.ParseResult.GetValueForOption(maxOutputTokensOption);
+            var json = context.ParseResult.GetValueForOption(_jsonOption);
+            var verbose = context.ParseResult.GetValueForOption(_verboseOption);
+
+            var logger = CreateLogger(json, verbose);
+            var service = new DictionaryXmlAiTranslationService(logger);
+            var result = service.Translate(new DictionaryTranslateXmlAiOptions
+            {
+                InputFile = input,
+                OutputFile = output,
+                ConfigFile = config,
+                ReportFile = report,
+                ReferenceDirectory = reference,
+                OverwriteExisting = overwriteExisting,
+                ApiKey = apiKey ?? string.Empty,
+                Model = model ?? string.Empty,
+                Endpoint = endpoint ?? string.Empty,
+                SystemPrompt = systemPrompt,
+                UserPromptPreamble = userPromptPreamble,
+                BatchSize = batchSize ?? 0,
+                MinConfidence = minConfidence ?? 0,
+                MaxOutputTokens = maxOutputTokens ?? 0
+            });
+
+            if (json)
+            {
+                Console.WriteLine(result.ToJson(true));
+                return;
+            }
+
+            if (!result.Success || result.Value is null)
+            {
+                Console.Error.WriteLine($"Error: {result.Error}");
+                if (!string.IsNullOrWhiteSpace(result.ErrorContext))
+                    Console.Error.WriteLine(result.ErrorContext);
+
+                if (result.Suggestions is { Count: > 0 })
+                {
+                    Console.Error.WriteLine("Suggestions:");
+                    foreach (var suggestion in result.Suggestions)
+                        Console.Error.WriteLine($"  - {suggestion}");
+                }
+
+                Environment.ExitCode = 1;
+                return;
+            }
+
+            var summary = result.Value;
+            Console.WriteLine($"Translated XML written to: {summary.OutputFile}");
+            if (!string.IsNullOrWhiteSpace(summary.ConfigFile))
+                Console.WriteLine($"Config: {summary.ConfigFile}");
+            Console.WriteLine($"Model: {summary.Model}");
+            Console.WriteLine($"Total entries: {summary.TotalEntries}");
+            Console.WriteLine($"Dictionary translated: {summary.DictionaryTranslatedEntries}");
+            Console.WriteLine($"AI attempted: {summary.AiAttemptedEntries}");
+            Console.WriteLine($"AI translated: {summary.AiTranslatedEntries}");
+            Console.WriteLine($"Low confidence skipped: {summary.LowConfidenceEntries}");
+            Console.WriteLine($"AI failed: {summary.FailedAiEntries}");
+            Console.WriteLine($"Remaining untranslated: {summary.RemainingUntranslatedEntries}");
+            if (!string.IsNullOrWhiteSpace(summary.ReportFile))
+                Console.WriteLine($"Report: {summary.ReportFile}");
+        });
 
         return cmd;
     }

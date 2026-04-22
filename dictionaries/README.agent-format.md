@@ -4,6 +4,8 @@ These XML files are optimized for game tooling, not for agent retrieval. The too
 
 - `dictionary lookup` for exact EDID lookup
 - `dictionary search` for fuzzy bilingual search
+- `dictionary translate-xml` for filling `Dest` values in exported `SSTXMLRessources` files by reusing the shipped corpus
+- `dictionary translate-xml-ai` for dictionary-first translation plus OpenAI fallback on genuinely new content
 - `dictionary export-agent` for smaller JSONL shards plus EDID-grouped documents that are easier for AI agents to read, search, and cite
 
 If `dictionaries/agent-readable` exists, `dictionary lookup` and `dictionary search` will prefer that exported JSONL corpus automatically. The source XML files remain the fallback when no export is available.
@@ -34,6 +36,25 @@ Fuzzy search:
 ```powershell
 dotnet run --project src/SpookysAutomod.Cli -- dictionary search --text "鼠道" --scope chinese --group-by record --limit 5 --json
 ```
+
+Translate an exported XML file:
+
+```powershell
+dotnet run --project src/SpookysAutomod.Cli -- dictionary translate-xml "./unofficial skyrim special edition patch_english_chinese.xml" --output "./unofficial skyrim special edition patch_english_chinese.translated.xml" --json
+```
+
+Translate with AI fallback for new content:
+
+```powershell
+dotnet run --project src/SpookysAutomod.Cli -- dictionary translate-xml-ai "./unofficial skyrim special edition patch_english_chinese.xml" --output "./unofficial skyrim special edition patch_english_chinese.translated.xml" --report "./unofficial skyrim special edition patch_english_chinese.report.json" --json
+```
+
+Use a config file:
+
+- Copy [settings.example.json](/D:/SteamLibrary/steamapps/common/Skyrim%20Special%20Edition/Data/Skyrim-Automod-Toolkit/settings.example.json) to `settings.json`
+- Edit `aiTranslation.endpoint`, `aiTranslation.apiKey`, `aiTranslation.model`, `aiTranslation.systemPrompt`, and any thresholds you want
+- Run `dictionary translate-xml-ai` without repeating those flags each time
+- Use `--config path\\to\\settings.json` if you want to point at a different file
 
 Export:
 
@@ -104,3 +125,9 @@ dictionaries/agent-readable/
 - Prefer `records/` when you know an `EDID` and want all labels for the same record.
 - Prefer `entries/` when you are matching a specific source string or scanning raw translation rows.
 - Use `englishNormalized` and `chineseNormalized` for case-insensitive or whitespace-tolerant matching.
+- `dictionary translate-xml` only fills rows whose `Dest` is empty or still equals `Source` unless you pass `--overwrite-existing`.
+- XML translation prefers exact `EDID + REC(+id)` matches, then safe exact source-text matches.
+- Ambiguous matches are skipped instead of guessed so existing manual review stays trustworthy.
+- `dictionary translate-xml-ai` runs the same safe dictionary pass first, then only sends the remaining rows to OpenAI.
+- AI fallback requires `OPENAI_API_KEY` or `--api-key`; use `--min-confidence` to keep uncertain output out of the XML and inside the JSON report instead.
+- For `translate-xml-ai`, value precedence is: command-line flags -> `settings.json` `aiTranslation` section -> environment variables -> built-in defaults.

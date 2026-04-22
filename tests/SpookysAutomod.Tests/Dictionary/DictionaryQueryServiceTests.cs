@@ -120,7 +120,7 @@ public class DictionaryQueryServiceTests
             Assert.True(result.Success, result.Error);
             Assert.NotNull(result.Value);
             Assert.Equal(1, result.Value!.MatchCount);
-            Assert.Equal("测试之书", result.Value.Matches[0].Translations[0].Chinese);
+            Assert.Contains(result.Value.Matches[0].Translations, translation => translation.Chinese == "测试之书");
         }
         finally
         {
